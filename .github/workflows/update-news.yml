@@ -97,3 +97,18 @@ jobs:
           fi
           git commit -m "chore: update ai news snapshot"
           git push
+
+      - name: Trigger Google Workspace Sync Webhook
+        env:
+          WEBAPP_URL: ${{ secrets.GOOGLE_WORKSPACE_WEBAPP_URL }}
+          WEBHOOK_TOKEN: ${{ secrets.GOOGLE_WORKSPACE_WEBHOOK_TOKEN }}
+        run: |
+          if [ -n "$WEBAPP_URL" ] && [ -n "$WEBHOOK_TOKEN" ]; then
+            echo "Pinging Workspace Web App to sync spreadsheet and process emails..."
+            curl -s -X POST -H "Content-Type: application/json" \
+              -d "{\"action\": \"poll\", \"token\": \"$WEBHOOK_TOKEN\"}" \
+              "$WEBAPP_URL"
+          else
+            echo "Webhook configuration missing or disabled. Skipping instant email."
+          fi
+
