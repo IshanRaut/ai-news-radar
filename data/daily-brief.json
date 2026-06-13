@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-13T01:38:31.578353Z",
+  "generated_at": "2026-06-13T06:19:36.592515Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -21,6 +21,24 @@
           "published_at": "2026-06-13T01:15:57Z"
         },
         {
+          "id": "7c4d355b39318ffdb7b0a6fb16baa24d6f48f58a",
+          "title": "关于美国政府下令暂停访问《Fable 5》和《Mythos 5》的声明",
+          "url": "https://www.anthropic.com/news/fable-mythos-access",
+          "source": "www.anthropic.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-13T04:00:13.444000Z"
+        },
+        {
+          "id": "1c0603713f60623822c547660603853fade64e1e",
+          "title": "美国政府下令暂停访问《Fable 5》和《Mythos 5》 / Statement on the US government directive to suspend access to Fable 5 and Mythos 5",
+          "url": "https://www.anthropic.com/news/fable-mythos-access",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-13T03:33:10Z"
+        },
+        {
           "id": "db7f1a08eb0bdfe781f0f9ee59e31db1ee3af5d3",
           "title": "美国政府下令暂停访问《Fable 5》和《Mythos 5》",
           "url": "https://www.anthropic.com/news/fable-mythos-access",
@@ -28,6 +46,15 @@
           "source_name": "Buzzing",
           "site_id": "buzzing",
           "published_at": "2026-06-13T01:04:02.471000Z"
+        },
+        {
+          "id": "077ff175ed6fe3054c604cffba4af2c8c11c940a",
+          "title": "美国政府下令暂停访问《Fable 5》和《Mythos 5》 / Statement on US government directive to suspend access to Fable 5 and Mythos 5",
+          "url": "https://www.anthropic.com/news/fable-mythos-access",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-06-13T00:51:30Z"
         },
         {
           "id": "98140d0071ebb5d3613c6579e01901f9146e603e",
@@ -39,10 +66,12 @@
           "published_at": "2026-06-13T00:51:30Z"
         }
       ],
-      "source_count": 3,
+      "source_count": 6,
       "source_names": [
         "Anthropic：Newsroom（网页）",
         "Hacker News",
+        "Hacker News · 24h最热",
+        "Lobsters (技术社区)",
         "www.anthropic.com"
       ],
       "items": [
@@ -56,6 +85,24 @@
           "published_at": "2026-06-13T01:15:57Z"
         },
         {
+          "id": "7c4d355b39318ffdb7b0a6fb16baa24d6f48f58a",
+          "title": "关于美国政府下令暂停访问《Fable 5》和《Mythos 5》的声明",
+          "url": "https://www.anthropic.com/news/fable-mythos-access",
+          "source": "www.anthropic.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-13T04:00:13.444000Z"
+        },
+        {
+          "id": "1c0603713f60623822c547660603853fade64e1e",
+          "title": "美国政府下令暂停访问《Fable 5》和《Mythos 5》 / Statement on the US government directive to suspend access to Fable 5 and Mythos 5",
+          "url": "https://www.anthropic.com/news/fable-mythos-access",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-13T03:33:10Z"
+        },
+        {
           "id": "db7f1a08eb0bdfe781f0f9ee59e31db1ee3af5d3",
           "title": "美国政府下令暂停访问《Fable 5》和《Mythos 5》",
           "url": "https://www.anthropic.com/news/fable-mythos-access",
@@ -63,6 +110,15 @@
           "source_name": "Buzzing",
           "site_id": "buzzing",
           "published_at": "2026-06-13T01:04:02.471000Z"
+        },
+        {
+          "id": "077ff175ed6fe3054c604cffba4af2c8c11c940a",
+          "title": "美国政府下令暂停访问《Fable 5》和《Mythos 5》 / Statement on US government directive to suspend access to Fable 5 and Mythos 5",
+          "url": "https://www.anthropic.com/news/fable-mythos-access",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-06-13T00:51:30Z"
         },
         {
           "id": "98140d0071ebb5d3613c6579e01901f9146e603e",
@@ -74,17 +130,17 @@
           "published_at": "2026-06-13T00:51:30Z"
         }
       ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.8589,
-      "importance": 0.8589,
-      "importance_score": 0.8589,
+      "item_count": 6,
+      "duplicate_count": 6,
+      "score": 0.8698,
+      "importance": 0.8698,
+      "importance_score": 0.8698,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9843,
-        "story_heat": 0.5
+        "recency": 0.7891,
+        "story_heat": 1.0
       },
       "category": "multi_source",
       "reasons": [
@@ -93,7 +149,7 @@
         "high_importance"
       ],
       "earliest_at": "2026-06-13T00:51:30Z",
-      "latest_at": "2026-06-13T01:15:57Z",
+      "latest_at": "2026-06-13T04:00:13.444000Z",
       "primary_item": {
         "id": "86402a59e09ae75ecdd087feaf89810655d73cb3",
         "title": "关于美国政府指令暂停访问Fable 5和Mythos 5的声明",
@@ -137,14 +193,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8463,
-      "importance": 0.8463,
-      "importance_score": 0.8463,
+      "score": 0.8073,
+      "importance": 0.8073,
+      "importance_score": 0.8073,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8666,
+        "recency": 0.6714,
         "story_heat": 0.0
       },
       "category": "official",
@@ -161,6 +217,86 @@
         "url": "https://github.blog/ai-and-ml/how-we-made-github-copilot-cli-more-selective-about-delegation",
         "source": "GitHub AI & ML",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_78be1495ac07",
+      "title": "Anthropic的安全警告可能适得其反--政府已撤回其最强大AI",
+      "url": "https://techcrunch.com/2026/06/12/anthropics-safety-warnings-may-have-just-backfired-the-government-has-pulled-the-plug-on-its-most-powerful-ai",
+      "primary_url": "https://techcrunch.com/2026/06/12/anthropics-safety-warnings-may-have-just-backfired-the-government-has-pulled-the-plug-on-its-most-powerful-ai",
+      "source": "TechCrunch：AI（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "2122fbf932a51402286c9445c9d3483ad6bb9678",
+          "title": "Anthropic的安全警告可能适得其反--政府已撤回其最强大AI",
+          "url": "https://techcrunch.com/2026/06/12/anthropics-safety-warnings-may-have-just-backfired-the-government-has-pulled-the-plug-on-its-most-powerful-ai",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-13T02:26:30Z"
+        },
+        {
+          "id": "8e1d4e9d6d7ccf272a8f9a2fe9ba7821ea10924d",
+          "title": "Anthropic的安全警告可能适得其反--政府已撤回其最强大AI / Anthropic’s safety warnings may have just backfired — the government has pulled the plug on its most powerful AI",
+          "url": "https://techcrunch.com/2026/06/12/anthropics-safety-warnings-may-have-just-backfired-the-government-has-pulled-the-plug-on-its-most-powerful-ai",
+          "source": "TechCrunch",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-06-13T02:26:30Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "TechCrunch",
+        "TechCrunch：AI（RSS）"
+      ],
+      "items": [
+        {
+          "id": "2122fbf932a51402286c9445c9d3483ad6bb9678",
+          "title": "Anthropic的安全警告可能适得其反--政府已撤回其最强大AI",
+          "url": "https://techcrunch.com/2026/06/12/anthropics-safety-warnings-may-have-just-backfired-the-government-has-pulled-the-plug-on-its-most-powerful-ai",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-13T02:26:30Z"
+        },
+        {
+          "id": "8e1d4e9d6d7ccf272a8f9a2fe9ba7821ea10924d",
+          "title": "Anthropic的安全警告可能适得其反--政府已撤回其最强大AI / Anthropic’s safety warnings may have just backfired — the government has pulled the plug on its most powerful AI",
+          "url": "https://techcrunch.com/2026/06/12/anthropics-safety-warnings-may-have-just-backfired-the-government-has-pulled-the-plug-on-its-most-powerful-ai",
+          "source": "TechCrunch",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-06-13T02:26:30Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8046,
+      "importance": 0.8046,
+      "importance_score": 0.8046,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8381,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-13T02:26:30Z",
+      "latest_at": "2026-06-13T02:26:30Z",
+      "primary_item": {
+        "id": "2122fbf932a51402286c9445c9d3483ad6bb9678",
+        "title": "Anthropic的安全警告可能适得其反--政府已撤回其最强大AI",
+        "url": "https://techcrunch.com/2026/06/12/anthropics-safety-warnings-may-have-just-backfired-the-government-has-pulled-the-plug-on-its-most-powerful-ai",
+        "source": "TechCrunch：AI（RSS）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -198,14 +334,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8395,
-      "importance": 0.8395,
-      "importance_score": 0.8395,
+      "score": 0.8004,
+      "importance": 0.8004,
+      "importance_score": 0.8004,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8324,
+        "recency": 0.6372,
         "story_heat": 0.0
       },
       "category": "official",
@@ -278,14 +414,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8291,
-      "importance": 0.8291,
-      "importance_score": 0.8291,
+      "score": 0.7901,
+      "importance": 0.7901,
+      "importance_score": 0.7901,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.5956,
+        "recency": 0.4004,
         "story_heat": 0.25
       },
       "category": "official",
@@ -359,14 +495,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8271,
-      "importance": 0.8271,
-      "importance_score": 0.8271,
+      "score": 0.788,
+      "importance": 0.788,
+      "importance_score": 0.788,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9504,
+        "recency": 0.7552,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -420,14 +556,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8099,
-      "importance": 0.8099,
-      "importance_score": 0.8099,
+      "score": 0.7709,
+      "importance": 0.7709,
+      "importance_score": 0.7709,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9896,
+        "recency": 0.7944,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -480,14 +616,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8081,
-      "importance": 0.8081,
-      "importance_score": 0.8081,
+      "score": 0.7691,
+      "importance": 0.7691,
+      "importance_score": 0.7691,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9805,
+        "recency": 0.7854,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -540,20 +676,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7884,
-      "importance": 0.7884,
-      "importance_score": 0.7884,
+      "score": 0.7493,
+      "importance": 0.7493,
+      "importance_score": 0.7493,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8818,
+        "recency": 0.6866,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-06-12T22:48:15Z",
       "latest_at": "2026-06-12T22:48:15Z",
@@ -619,21 +754,20 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7529,
-      "importance": 0.7529,
-      "importance_score": 0.7529,
-      "importance_label": "行业动态",
+      "score": 0.7139,
+      "importance": 0.7139,
+      "importance_score": 0.7139,
+      "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.5797,
+        "recency": 0.3845,
         "story_heat": 0.25
       },
-      "category": "industry",
+      "category": "watch",
       "reasons": [
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-06-12T15:33:19Z",
       "latest_at": "2026-06-12T17:23:12.980395Z",
@@ -680,21 +814,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7813,
-      "importance": 0.7813,
-      "importance_score": 0.7813,
+      "score": 0.7423,
+      "importance": 0.7423,
+      "importance_score": 0.7423,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.6017,
+        "recency": 0.4065,
         "story_heat": 0.0
       },
       "category": "official",
       "reasons": [
         "official_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-06-12T16:04:57Z",
       "latest_at": "2026-06-12T16:04:57Z",
@@ -704,65 +837,6 @@
         "url": "https://github.blog/changelog/2026-06-12-github-actions-minimum-version-enforcement-timeline-for-self-hosted-runners",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_a9b684fade30",
-      "title": "如何在OpenRouter上获得最低成本的LLM推理",
-      "url": "https://openrouter.ai/blog/tutorials/how-to-get-the-lowest-cost-llm-inference-on-openrouter",
-      "primary_url": "https://openrouter.ai/blog/tutorials/how-to-get-the-lowest-cost-llm-inference-on-openrouter",
-      "source": "OpenRouter：Announcements（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "d041510c11b726a400fc03f3b9f83a80494b4c8b",
-          "title": "如何在OpenRouter上获得最低成本的LLM推理",
-          "url": "https://openrouter.ai/blog/tutorials/how-to-get-the-lowest-cost-llm-inference-on-openrouter",
-          "source": "OpenRouter：Announcements（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-12T16:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenRouter：Announcements（RSS）"
-      ],
-      "items": [
-        {
-          "id": "d041510c11b726a400fc03f3b9f83a80494b4c8b",
-          "title": "如何在OpenRouter上获得最低成本的LLM推理",
-          "url": "https://openrouter.ai/blog/tutorials/how-to-get-the-lowest-cost-llm-inference-on-openrouter",
-          "source": "OpenRouter：Announcements（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-12T16:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7316,
-      "importance": 0.7316,
-      "importance_score": 0.7316,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5982,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-12T16:00:00Z",
-      "latest_at": "2026-06-12T16:00:00Z",
-      "primary_item": {
-        "id": "d041510c11b726a400fc03f3b9f83a80494b4c8b",
-        "title": "如何在OpenRouter上获得最低成本的LLM推理",
-        "url": "https://openrouter.ai/blog/tutorials/how-to-get-the-lowest-cost-llm-inference-on-openrouter",
-        "source": "OpenRouter：Announcements（RSS）",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -819,14 +893,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7066,
-      "importance": 0.7066,
-      "importance_score": 0.7066,
+      "score": 0.6676,
+      "importance": 0.6676,
+      "importance_score": 0.6676,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.3482,
+        "recency": 0.153,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -842,144 +916,6 @@
         "url": "https://openai.com/index/academy-courses-applying-ai-at-work",
         "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_23b315c3d191",
-      "title": "Anthropic首次公众调查：近半美国人盼AI治愈疾病，超六成担忧失业",
-      "url": "https://www.anthropic.com/news/anthropic-public-record",
-      "primary_url": "https://www.anthropic.com/news/anthropic-public-record",
-      "source": "Anthropic：Newsroom（网页）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "212dec8a1116446b11aecee3b5645473de2475a1",
-          "title": "Anthropic首次公众调查：近半美国人盼AI治愈疾病，超六成担忧失业",
-          "url": "https://www.anthropic.com/news/anthropic-public-record",
-          "source": "Anthropic：Newsroom（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-12T16:14:59Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Anthropic：Newsroom（网页）"
-      ],
-      "items": [
-        {
-          "id": "212dec8a1116446b11aecee3b5645473de2475a1",
-          "title": "Anthropic首次公众调查：近半美国人盼AI治愈疾病，超六成担忧失业",
-          "url": "https://www.anthropic.com/news/anthropic-public-record",
-          "source": "Anthropic：Newsroom（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-12T16:14:59Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7337,
-      "importance": 0.7337,
-      "importance_score": 0.7337,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6087,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-12T16:14:59Z",
-      "latest_at": "2026-06-12T16:14:59Z",
-      "primary_item": {
-        "id": "212dec8a1116446b11aecee3b5645473de2475a1",
-        "title": "Anthropic首次公众调查：近半美国人盼AI治愈疾病，超六成担忧失业",
-        "url": "https://www.anthropic.com/news/anthropic-public-record",
-        "source": "Anthropic：Newsroom（网页）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_34c2425ad136",
-      "title": "DoorDash发布“Ask DoorDash”AI聊天机器人，支持文本与照片跨模态下单",
-      "url": "https://www.aibase.com/news/28868",
-      "primary_url": "https://www.aibase.com/news/28868",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "022da61af0454fbb7730a68011863183049b3c7f",
-          "title": "DoorDash发布“Ask DoorDash”AI聊天机器人，支持文本与照片跨模态下单",
-          "url": "https://www.aibase.com/news/28868",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-06-12T01:56:22.834939Z"
-        },
-        {
-          "id": "aab55a4254d412b85de79a4288008e603cc115b4",
-          "title": "DoorDash 发布「Ask DoorDash」AI 聊天机器人，支持文本与照片跨模态下单",
-          "url": "https://www.aibase.com/zh/news/28868",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "022da61af0454fbb7730a68011863183049b3c7f",
-          "title": "DoorDash发布“Ask DoorDash”AI聊天机器人，支持文本与照片跨模态下单",
-          "url": "https://www.aibase.com/news/28868",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-06-12T01:56:22.834939Z"
-        },
-        {
-          "id": "aab55a4254d412b85de79a4288008e603cc115b4",
-          "title": "DoorDash 发布「Ask DoorDash」AI 聊天机器人，支持文本与照片跨模态下单",
-          "url": "https://www.aibase.com/zh/news/28868",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.6395,
-      "importance": 0.6395,
-      "importance_score": 0.6395,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.0124,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-12T01:56:22.834939Z",
-      "latest_at": "2026-06-12T01:56:22.834939Z",
-      "primary_item": {
-        "id": "022da61af0454fbb7730a68011863183049b3c7f",
-        "title": "DoorDash发布“Ask DoorDash”AI聊天机器人，支持文本与照片跨模态下单",
-        "url": "https://www.aibase.com/news/28868",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     },
     {
@@ -1036,14 +972,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6103,
-      "importance": 0.6103,
-      "importance_score": 0.6103,
+      "score": 0.5713,
+      "importance": 0.5713,
+      "importance_score": 0.5713,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.5,
         "ai_relevance": 0.67,
-        "recency": 0.9215,
+        "recency": 0.7263,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1061,54 +997,152 @@
       }
     },
     {
-      "story_id": "story_35426f6ed982",
-      "title": "Anthropic：美国政府发布出口管制指令，暂停外国国籍人士使用 Fable 5 和 Mythos 5 模型",
-      "url": "https://www.jiemian.com/article/14582324.html",
-      "primary_url": "https://www.jiemian.com/article/14582324.html",
+      "story_id": "story_d39e8382375e",
+      "title": "开源人工智能必须获胜 / Open source AI must win",
+      "url": "https://news.ycombinator.com/item?id=48511908",
+      "primary_url": "https://news.ycombinator.com/item?id=48511908",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "14fb9bb62a7431a92aa34bc0a9678010f7f7ec7c",
+          "title": "开源人工智能必须获胜 / Open source AI must win",
+          "url": "https://news.ycombinator.com/item?id=48511908",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-06-13T06:01:30.593000Z"
+        },
+        {
+          "id": "480bde7c45962e29d04d191d6678cc076ceac299",
+          "title": "开源人工智能必须胜出",
+          "url": "https://opensourceaimustwin.com/?share=v2",
+          "source": "opensourceaimustwin.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-13T02:56:01.580000Z"
+        },
+        {
+          "id": "5c81eeba22c64c5f9be78a0a3ebd821e0545626c",
+          "title": "开源人工智能必须胜出 / Open source AI must win",
+          "url": "https://opensourceaimustwin.com/?share=v2",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-06-13T02:14:24Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "hackernews",
+        "opensourceaimustwin.com"
+      ],
+      "items": [
+        {
+          "id": "14fb9bb62a7431a92aa34bc0a9678010f7f7ec7c",
+          "title": "开源人工智能必须获胜 / Open source AI must win",
+          "url": "https://news.ycombinator.com/item?id=48511908",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-06-13T06:01:30.593000Z"
+        },
+        {
+          "id": "480bde7c45962e29d04d191d6678cc076ceac299",
+          "title": "开源人工智能必须胜出",
+          "url": "https://opensourceaimustwin.com/?share=v2",
+          "source": "opensourceaimustwin.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-13T02:56:01.580000Z"
+        },
+        {
+          "id": "5c81eeba22c64c5f9be78a0a3ebd821e0545626c",
+          "title": "开源人工智能必须胜出 / Open source AI must win",
+          "url": "https://opensourceaimustwin.com/?share=v2",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-06-13T02:14:24Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5705,
+      "importance": 0.5705,
+      "importance_score": 0.5705,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9874,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-06-13T02:14:24Z",
+      "latest_at": "2026-06-13T06:01:30.593000Z",
+      "primary_item": {
+        "id": "14fb9bb62a7431a92aa34bc0a9678010f7f7ec7c",
+        "title": "开源人工智能必须获胜 / Open source AI must win",
+        "url": "https://news.ycombinator.com/item?id=48511908",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_8adc9d0be0e2",
+      "title": "36 氪研究院 | AI 时代留学就业白皮书：中国留学生全球就业趋势与人才价值重塑",
+      "url": "https://36kr.com/p/3846972367866119?f=rss",
+      "primary_url": "https://36kr.com/p/3846972367866119?f=rss",
       "source": "Readhub · AI",
       "source_name": "TopHub",
       "sources": [
         {
-          "id": "abb40d7378c7c11bfdfaf646011c4b8ee8f40755",
-          "title": "Anthropic：美国政府发布出口管制指令，暂停外国国籍人士使用 Fable 5 和 Mythos 5 模型",
-          "url": "https://www.jiemian.com/article/14582324.html",
+          "id": "5e72a7d8403fd314152fc7a8e86a9ab87937ba69",
+          "title": "36 氪研究院 | AI 时代留学就业白皮书：中国留学生全球就业趋势与人才价值重塑",
+          "url": "https://36kr.com/p/3846972367866119?f=rss",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
         },
         {
-          "id": "5b73faf4d672693ec0993b0f971666d97148c2bf",
-          "title": "Anthropic：美国政府发布出口管制指令，暂停所有外国国籍人士对人工智能模型 FABLE 5 和 Mythos 5 的访问",
-          "url": "https://wallstreetcn.com/articles/3774567",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "ddb27a8d14fe2fec401fbeb7dee0a0bb161056b2",
+          "title": "36氪研究院 | AI时代留学就业白皮书：中国留学生全球就业趋势与人才价值重塑",
+          "url": "https://36kr.com/p/3846972367866119?f=rss",
+          "source": "36氪 (36Kr)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-13T06:00:00Z"
         }
       ],
       "source_count": 2,
       "source_names": [
+        "36氪 (36Kr)",
         "Readhub · AI"
       ],
       "items": [
         {
-          "id": "abb40d7378c7c11bfdfaf646011c4b8ee8f40755",
-          "title": "Anthropic：美国政府发布出口管制指令，暂停外国国籍人士使用 Fable 5 和 Mythos 5 模型",
-          "url": "https://www.jiemian.com/article/14582324.html",
+          "id": "5e72a7d8403fd314152fc7a8e86a9ab87937ba69",
+          "title": "36 氪研究院 | AI 时代留学就业白皮书：中国留学生全球就业趋势与人才价值重塑",
+          "url": "https://36kr.com/p/3846972367866119?f=rss",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
         },
         {
-          "id": "5b73faf4d672693ec0993b0f971666d97148c2bf",
-          "title": "Anthropic：美国政府发布出口管制指令，暂停所有外国国籍人士对人工智能模型 FABLE 5 和 Mythos 5 的访问",
-          "url": "https://wallstreetcn.com/articles/3774567",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "ddb27a8d14fe2fec401fbeb7dee0a0bb161056b2",
+          "title": "36氪研究院 | AI时代留学就业白皮书：中国留学生全球就业趋势与人才价值重塑",
+          "url": "https://36kr.com/p/3846972367866119?f=rss",
+          "source": "36氪 (36Kr)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-13T06:00:00Z"
         }
       ],
       "item_count": 2,
@@ -1127,294 +1161,197 @@
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-06-13T01:38:31.578353Z",
-      "latest_at": "2026-06-13T01:38:31.578353Z",
+      "earliest_at": "2026-06-13T06:00:00Z",
+      "latest_at": "2026-06-13T06:19:36.592515Z",
       "primary_item": {
-        "id": "abb40d7378c7c11bfdfaf646011c4b8ee8f40755",
-        "title": "Anthropic：美国政府发布出口管制指令，暂停外国国籍人士使用 Fable 5 和 Mythos 5 模型",
-        "url": "https://www.jiemian.com/article/14582324.html",
+        "id": "5e72a7d8403fd314152fc7a8e86a9ab87937ba69",
+        "title": "36 氪研究院 | AI 时代留学就业白皮书：中国留学生全球就业趋势与人才价值重塑",
+        "url": "https://36kr.com/p/3846972367866119?f=rss",
         "source": "Readhub · AI",
         "source_name": "TopHub"
       }
     },
     {
-      "story_id": "story_774f7412d1a3",
-      "title": "我认为他们[人类]在骗你[视频] / I Think They [Anthropic] Are Lying to You [video]",
-      "url": "https://news.ycombinator.com/item?id=48510471",
-      "primary_url": "https://news.ycombinator.com/item?id=48510471",
-      "source": "hackernews",
-      "source_name": "NewsNow",
+      "story_id": "story_23a784c59868",
+      "title": "突发！Anthropic全球停用Claude 5",
+      "url": "https://www.36kr.com/p/3851015329027336",
+      "primary_url": "https://www.36kr.com/p/3851015329027336",
+      "source": "36氪 · 24小时热榜",
+      "source_name": "TopHub",
       "sources": [
         {
-          "id": "e8ee731a6ad95d3b9e171f27472eb23851c09815",
-          "title": "我认为他们[人类]在骗你[视频] / I Think They [Anthropic] Are Lying to You [video]",
-          "url": "https://news.ycombinator.com/item?id=48510471",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-06-13T01:20:36.477000Z"
+          "id": "38d741c6aebd7826245aed6061a74e8589d0bc07",
+          "title": "突发！Anthropic全球停用Claude 5",
+          "url": "https://www.36kr.com/p/3851015329027336",
+          "source": "36氪 · 24小时热榜",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         },
         {
-          "id": "df9558a156efb151e220b4fbc43d323c31476f40",
-          "title": "我认为他们[人类]在骗你[视频] / I Think They [Anthropic] Are Lying to You [video]",
-          "url": "https://www.youtube.com/watch?v=zfYsSFY4l18",
-          "source": "Hacker News (黑客新闻)",
+          "id": "9438cddfe4be6e5efc5488350a02fd73fb185b06",
+          "title": "突发！Anthropic全球停用Claude 5",
+          "url": "https://36kr.com/p/3851015329027336?f=rss",
+          "source": "36氪 (36Kr)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-06-12T23:12:39Z"
+          "published_at": "2026-06-13T03:00:16Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
+        "36氪 (36Kr)",
+        "36氪 · 24小时热榜"
       ],
       "items": [
         {
-          "id": "e8ee731a6ad95d3b9e171f27472eb23851c09815",
-          "title": "我认为他们[人类]在骗你[视频] / I Think They [Anthropic] Are Lying to You [video]",
-          "url": "https://news.ycombinator.com/item?id=48510471",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-06-13T01:20:36.477000Z"
+          "id": "38d741c6aebd7826245aed6061a74e8589d0bc07",
+          "title": "突发！Anthropic全球停用Claude 5",
+          "url": "https://www.36kr.com/p/3851015329027336",
+          "source": "36氪 · 24小时热榜",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         },
         {
-          "id": "df9558a156efb151e220b4fbc43d323c31476f40",
-          "title": "我认为他们[人类]在骗你[视频] / I Think They [Anthropic] Are Lying to You [video]",
-          "url": "https://www.youtube.com/watch?v=zfYsSFY4l18",
-          "source": "Hacker News (黑客新闻)",
+          "id": "9438cddfe4be6e5efc5488350a02fd73fb185b06",
+          "title": "突发！Anthropic全球停用Claude 5",
+          "url": "https://36kr.com/p/3851015329027336?f=rss",
+          "source": "36氪 (36Kr)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-06-12T23:12:39Z"
+          "published_at": "2026-06-13T03:00:16Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5455,
-      "importance": 0.5455,
-      "importance_score": 0.5455,
+      "score": 0.548,
+      "importance": 0.548,
+      "importance_score": 0.548,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9876,
+        "recency": 1.0,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-06-12T23:12:39Z",
-      "latest_at": "2026-06-13T01:20:36.477000Z",
+      "earliest_at": "2026-06-13T03:00:16Z",
+      "latest_at": "2026-06-13T06:19:36.592515Z",
       "primary_item": {
-        "id": "e8ee731a6ad95d3b9e171f27472eb23851c09815",
-        "title": "我认为他们[人类]在骗你[视频] / I Think They [Anthropic] Are Lying to You [video]",
-        "url": "https://news.ycombinator.com/item?id=48510471",
-        "source": "hackernews",
-        "source_name": "NewsNow"
+        "id": "38d741c6aebd7826245aed6061a74e8589d0bc07",
+        "title": "突发！Anthropic全球停用Claude 5",
+        "url": "https://www.36kr.com/p/3851015329027336",
+        "source": "36氪 · 24小时热榜",
+        "source_name": "TopHub"
       }
     },
     {
-      "story_id": "story_91cb799d0e5b",
-      "title": "SpaceX 如今已成为一家因人工智能潜力而备受瞩目的上市公司，那么接下来会发生什么？",
-      "url": "https://arstechnica.com/space/2026/06/spacex-is-now-a-public-company-valued-for-its-ai-potential-so-what-comes-next",
-      "primary_url": "https://arstechnica.com/space/2026/06/spacex-is-now-a-public-company-valued-for-its-ai-potential-so-what-comes-next",
+      "story_id": "story_3aff4cb5d24d",
+      "title": "Anthropic 根据特朗普政府的指令，关闭了 Fable 和 Mythos 模型",
+      "url": "https://arstechnica.com/ai/2026/06/anthropic-shuts-down-fable-mythos-models-following-trump-admin-directive",
+      "primary_url": "https://arstechnica.com/ai/2026/06/anthropic-shuts-down-fable-mythos-models-following-trump-admin-directive",
       "source": "arstechnica.com",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "e9c85685fe6cdeb9849e65cb32e09a9bc52858a4",
-          "title": "SpaceX 如今已成为一家因人工智能潜力而备受瞩目的上市公司，那么接下来会发生什么？",
-          "url": "https://arstechnica.com/space/2026/06/spacex-is-now-a-public-company-valued-for-its-ai-potential-so-what-comes-next",
+          "id": "894c7e784ed4b37cb3e539a7cfaadcd2cc450b20",
+          "title": "Anthropic 根据特朗普政府的指令，关闭了 Fable 和 Mythos 模型",
+          "url": "https://arstechnica.com/ai/2026/06/anthropic-shuts-down-fable-mythos-models-following-trump-admin-directive",
           "source": "arstechnica.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-06-13T00:01:04.726000Z"
+          "published_at": "2026-06-13T04:00:13.652000Z"
         },
         {
-          "id": "bbc02b32b37375639f322b9b8e6482e8c6729b2f",
-          "title": "SpaceX 如今已成为一家因人工智能潜力而备受瞩目的上市公司，那么接下来会发生什么？ / SpaceX is now a public company valued for its AI potential, so what comes next?",
-          "url": "https://arstechnica.com/space/2026/06/spacex-is-now-a-public-company-valued-for-its-ai-potential-so-what-comes-next",
-          "source": "Ars Technica (科技媒体)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-06-12T22:20:06Z"
+          "id": "c745bcab18f818e6127183ea041d0847d9eeff0b",
+          "title": "Anthropic 根据特朗普政府的指令，关闭了 Fable 和 Mythos 模型 / Anthropic shuts down Fable, Mythos models following Trump admin directive",
+          "url": "https://arstechnica.com/ai/2026/06/anthropic-shuts-down-fable-mythos-models-following-trump-admin-directive",
+          "source": "Ars Technica",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-06-13T03:00:34Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Ars Technica (科技媒体)",
+        "Ars Technica",
         "arstechnica.com"
       ],
       "items": [
         {
-          "id": "e9c85685fe6cdeb9849e65cb32e09a9bc52858a4",
-          "title": "SpaceX 如今已成为一家因人工智能潜力而备受瞩目的上市公司，那么接下来会发生什么？",
-          "url": "https://arstechnica.com/space/2026/06/spacex-is-now-a-public-company-valued-for-its-ai-potential-so-what-comes-next",
+          "id": "894c7e784ed4b37cb3e539a7cfaadcd2cc450b20",
+          "title": "Anthropic 根据特朗普政府的指令，关闭了 Fable 和 Mythos 模型",
+          "url": "https://arstechnica.com/ai/2026/06/anthropic-shuts-down-fable-mythos-models-following-trump-admin-directive",
           "source": "arstechnica.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-06-13T00:01:04.726000Z"
+          "published_at": "2026-06-13T04:00:13.652000Z"
         },
         {
-          "id": "bbc02b32b37375639f322b9b8e6482e8c6729b2f",
-          "title": "SpaceX 如今已成为一家因人工智能潜力而备受瞩目的上市公司，那么接下来会发生什么？ / SpaceX is now a public company valued for its AI potential, so what comes next?",
-          "url": "https://arstechnica.com/space/2026/06/spacex-is-now-a-public-company-valued-for-its-ai-potential-so-what-comes-next",
-          "source": "Ars Technica (科技媒体)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-06-12T22:20:06Z"
+          "id": "c745bcab18f818e6127183ea041d0847d9eeff0b",
+          "title": "Anthropic 根据特朗普政府的指令，关闭了 Fable 和 Mythos 模型 / Anthropic shuts down Fable, Mythos models following Trump admin directive",
+          "url": "https://arstechnica.com/ai/2026/06/anthropic-shuts-down-fable-mythos-models-following-trump-admin-directive",
+          "source": "Ars Technica",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-06-13T03:00:34Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5345,
-      "importance": 0.5345,
-      "importance_score": 0.5345,
+      "score": 0.5286,
+      "importance": 0.5286,
+      "importance_score": 0.5286,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9323,
+        "recency": 0.9032,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-06-12T22:20:06Z",
-      "latest_at": "2026-06-13T00:01:04.726000Z",
+      "earliest_at": "2026-06-13T03:00:34Z",
+      "latest_at": "2026-06-13T04:00:13.652000Z",
       "primary_item": {
-        "id": "e9c85685fe6cdeb9849e65cb32e09a9bc52858a4",
-        "title": "SpaceX 如今已成为一家因人工智能潜力而备受瞩目的上市公司，那么接下来会发生什么？",
-        "url": "https://arstechnica.com/space/2026/06/spacex-is-now-a-public-company-valued-for-its-ai-potential-so-what-comes-next",
+        "id": "894c7e784ed4b37cb3e539a7cfaadcd2cc450b20",
+        "title": "Anthropic 根据特朗普政府的指令，关闭了 Fable 和 Mythos 模型",
+        "url": "https://arstechnica.com/ai/2026/06/anthropic-shuts-down-fable-mythos-models-following-trump-admin-directive",
         "source": "arstechnica.com",
         "source_name": "Buzzing"
       }
     },
     {
-      "story_id": "story_06a13336d0cd",
-      "title": "“你直接上传到ChatGPT不就行了？”",
-      "url": "https://correresmidestino.com/dont-you-just-upload-it-to-chatgpt",
-      "primary_url": "https://correresmidestino.com/dont-you-just-upload-it-to-chatgpt",
-      "source": "correresmidestino.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "3c13cebc012f070b25e8549a41a4008f99c2c614",
-          "title": "“你直接上传到ChatGPT不就行了？”",
-          "url": "https://correresmidestino.com/dont-you-just-upload-it-to-chatgpt",
-          "source": "correresmidestino.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-12T19:46:25.124000Z"
-        },
-        {
-          "id": "441d832f138a7493ebafed056fba615dd7fb1903",
-          "title": "“你不直接上传到ChatGPT吗？” / \"Don't You Just Upload It to ChatGPT?\"",
-          "url": "https://news.ycombinator.com/item?id=48507278",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-06-12T19:19:35.198000Z"
-        },
-        {
-          "id": "d7412cd4fd197c297bfd70b158baf014363358b1",
-          "title": "“你直接上传到ChatGPT不就行了？” / \"Don't You Just Upload It to ChatGPT?\"",
-          "url": "https://correresmidestino.com/dont-you-just-upload-it-to-chatgpt",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-06-12T17:52:46Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "correresmidestino.com",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "3c13cebc012f070b25e8549a41a4008f99c2c614",
-          "title": "“你直接上传到ChatGPT不就行了？”",
-          "url": "https://correresmidestino.com/dont-you-just-upload-it-to-chatgpt",
-          "source": "correresmidestino.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-12T19:46:25.124000Z"
-        },
-        {
-          "id": "441d832f138a7493ebafed056fba615dd7fb1903",
-          "title": "“你不直接上传到ChatGPT吗？” / \"Don't You Just Upload It to ChatGPT?\"",
-          "url": "https://news.ycombinator.com/item?id=48507278",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-06-12T19:19:35.198000Z"
-        },
-        {
-          "id": "d7412cd4fd197c297bfd70b158baf014363358b1",
-          "title": "“你直接上传到ChatGPT不就行了？” / \"Don't You Just Upload It to ChatGPT?\"",
-          "url": "https://correresmidestino.com/dont-you-just-upload-it-to-chatgpt",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-06-12T17:52:46Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5241,
-      "importance": 0.5241,
-      "importance_score": 0.5241,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7555,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-06-12T17:52:46Z",
-      "latest_at": "2026-06-12T19:46:25.124000Z",
-      "primary_item": {
-        "id": "3c13cebc012f070b25e8549a41a4008f99c2c614",
-        "title": "“你直接上传到ChatGPT不就行了？”",
-        "url": "https://correresmidestino.com/dont-you-just-upload-it-to-chatgpt",
-        "source": "correresmidestino.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_374d168d3c35",
-      "title": "扎克伯格表示，Meta在人工智能人才转型方面犯了“错误”",
-      "url": "https://www.reuters.com/business/metas-zuckerberg-admits-mistakes-made-ai-transformation-2026-06-12",
-      "primary_url": "https://www.reuters.com/business/metas-zuckerberg-admits-mistakes-made-ai-transformation-2026-06-12",
+      "story_id": "story_5d45ed4cb030",
+      "title": "在美国下令限制外国访问后，Anthropic 停用了其顶级 AI 模型",
+      "url": "https://www.reuters.com/technology/us-blocks-foreign-access-anthropics-most-advanced-ai-models-axios-reports-2026-06-13",
+      "primary_url": "https://www.reuters.com/technology/us-blocks-foreign-access-anthropics-most-advanced-ai-models-axios-reports-2026-06-13",
       "source": "www.reuters.com",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "2ed191903cc4e495369b902f189004aebbd317b9",
-          "title": "扎克伯格表示，Meta在人工智能人才转型方面犯了“错误”",
-          "url": "https://www.reuters.com/business/metas-zuckerberg-admits-mistakes-made-ai-transformation-2026-06-12",
+          "id": "efe938772b43f01fd1448a068d60bfc7dbeafb31",
+          "title": "在美国下令限制外国访问后，Anthropic 停用了其顶级 AI 模型",
+          "url": "https://www.reuters.com/technology/us-blocks-foreign-access-anthropics-most-advanced-ai-models-axios-reports-2026-06-13",
           "source": "www.reuters.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-06-12T22:26:11.361000Z"
+          "published_at": "2026-06-13T04:00:13.638000Z"
         },
         {
-          "id": "8d6458da140c805e4752681b4a81921278988f46",
-          "title": "Meta的扎克伯格承认在人工智能转型方面犯了“错误”",
-          "url": "https://www.reuters.com/business/metas-zuckerberg-admits-mistakes-made-ai-transformation-2026-06-12",
+          "id": "51224a0e463bc3dc40bd9976837a94c1d1a56268",
+          "title": "据Axios报道，美国阻止了外国用户访问Anthropic最先进的人工智能模型",
+          "url": "https://www.reuters.com/technology/us-blocks-foreign-access-anthropics-most-advanced-ai-models-axios-reports-2026-06-13",
           "source": "www.reuters.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-06-12T21:38:13.603000Z"
+          "published_at": "2026-06-13T00:17:22.137000Z"
         }
       ],
       "source_count": 2,
@@ -1423,47 +1360,203 @@
       ],
       "items": [
         {
-          "id": "2ed191903cc4e495369b902f189004aebbd317b9",
-          "title": "扎克伯格表示，Meta在人工智能人才转型方面犯了“错误”",
-          "url": "https://www.reuters.com/business/metas-zuckerberg-admits-mistakes-made-ai-transformation-2026-06-12",
+          "id": "efe938772b43f01fd1448a068d60bfc7dbeafb31",
+          "title": "在美国下令限制外国访问后，Anthropic 停用了其顶级 AI 模型",
+          "url": "https://www.reuters.com/technology/us-blocks-foreign-access-anthropics-most-advanced-ai-models-axios-reports-2026-06-13",
           "source": "www.reuters.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-06-12T22:26:11.361000Z"
+          "published_at": "2026-06-13T04:00:13.638000Z"
         },
         {
-          "id": "8d6458da140c805e4752681b4a81921278988f46",
-          "title": "Meta的扎克伯格承认在人工智能转型方面犯了“错误”",
-          "url": "https://www.reuters.com/business/metas-zuckerberg-admits-mistakes-made-ai-transformation-2026-06-12",
+          "id": "51224a0e463bc3dc40bd9976837a94c1d1a56268",
+          "title": "据Axios报道，美国阻止了外国用户访问Anthropic最先进的人工智能模型",
+          "url": "https://www.reuters.com/technology/us-blocks-foreign-access-anthropics-most-advanced-ai-models-axios-reports-2026-06-13",
           "source": "www.reuters.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-06-12T21:38:13.603000Z"
+          "published_at": "2026-06-13T00:17:22.137000Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5213,
-      "importance": 0.5213,
-      "importance_score": 0.5213,
+      "score": 0.5286,
+      "importance": 0.5286,
+      "importance_score": 0.5286,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8664,
+        "recency": 0.9032,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-06-12T21:38:13.603000Z",
-      "latest_at": "2026-06-12T22:26:11.361000Z",
+      "earliest_at": "2026-06-13T00:17:22.137000Z",
+      "latest_at": "2026-06-13T04:00:13.638000Z",
       "primary_item": {
-        "id": "2ed191903cc4e495369b902f189004aebbd317b9",
-        "title": "扎克伯格表示，Meta在人工智能人才转型方面犯了“错误”",
-        "url": "https://www.reuters.com/business/metas-zuckerberg-admits-mistakes-made-ai-transformation-2026-06-12",
+        "id": "efe938772b43f01fd1448a068d60bfc7dbeafb31",
+        "title": "在美国下令限制外国访问后，Anthropic 停用了其顶级 AI 模型",
+        "url": "https://www.reuters.com/technology/us-blocks-foreign-access-anthropics-most-advanced-ai-models-axios-reports-2026-06-13",
         "source": "www.reuters.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_973cd22925dc",
+      "title": "“令人费解”还是“有理有据”？：科技界对特朗普政府针对Anthropic新AI模型实施出口管制一事作出反应",
+      "url": "https://www.businessinsider.com/reaction-to-trump-controls-on-anthropic-fable-and-mythos-2026-6",
+      "primary_url": "https://www.businessinsider.com/reaction-to-trump-controls-on-anthropic-fable-and-mythos-2026-6",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "e5dc3666aa0a8aee1e7dbb6c9a6d70a25d433b3e",
+          "title": "“令人费解”还是“有理有据”？：科技界对特朗普政府针对Anthropic新AI模型实施出口管制一事作出反应",
+          "url": "https://www.businessinsider.com/reaction-to-trump-controls-on-anthropic-fable-and-mythos-2026-6",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-13T03:28:13.640000Z"
+        },
+        {
+          "id": "3e044d88b3c9bf9152553145224e9da379b14d6e",
+          "title": "“令人费解”还是“有理有据”？：科技界对特朗普政府针对Anthropic新AI模型实施出口管制一事作出反应 / 'Baffling' or 'based'? Tech world reacts to export controls on Anthropic's new AI models",
+          "url": "https://www.businessinsider.com/reaction-to-trump-controls-on-anthropic-fable-and-mythos-2026-6",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-06-13T03:08:03Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "e5dc3666aa0a8aee1e7dbb6c9a6d70a25d433b3e",
+          "title": "“令人费解”还是“有理有据”？：科技界对特朗普政府针对Anthropic新AI模型实施出口管制一事作出反应",
+          "url": "https://www.businessinsider.com/reaction-to-trump-controls-on-anthropic-fable-and-mythos-2026-6",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-13T03:28:13.640000Z"
+        },
+        {
+          "id": "3e044d88b3c9bf9152553145224e9da379b14d6e",
+          "title": "“令人费解”还是“有理有据”？：科技界对特朗普政府针对Anthropic新AI模型实施出口管制一事作出反应 / 'Baffling' or 'based'? Tech world reacts to export controls on Anthropic's new AI models",
+          "url": "https://www.businessinsider.com/reaction-to-trump-controls-on-anthropic-fable-and-mythos-2026-6",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-06-13T03:08:03Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5242,
+      "importance": 0.5242,
+      "importance_score": 0.5242,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.881,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-06-13T03:08:03Z",
+      "latest_at": "2026-06-13T03:28:13.640000Z",
+      "primary_item": {
+        "id": "e5dc3666aa0a8aee1e7dbb6c9a6d70a25d433b3e",
+        "title": "“令人费解”还是“有理有据”？：科技界对特朗普政府针对Anthropic新AI模型实施出口管制一事作出反应",
+        "url": "https://www.businessinsider.com/reaction-to-trump-controls-on-anthropic-fable-and-mythos-2026-6",
+        "source": "www.businessinsider.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_183b5cdb8df6",
+      "title": "我们已暂停对《克劳德神话5》和《克劳德传说5》的访问",
+      "url": "https://status.claude.com/incidents/s9w82lp9dcn9",
+      "primary_url": "https://status.claude.com/incidents/s9w82lp9dcn9",
+      "source": "status.claude.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "c03399b929fa0f46cabf72764e3b78e46d3ee46e",
+          "title": "我们已暂停对《克劳德神话5》和《克劳德传说5》的访问",
+          "url": "https://status.claude.com/incidents/s9w82lp9dcn9",
+          "source": "status.claude.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-13T03:28:13.440000Z"
+        },
+        {
+          "id": "2e1772dd827e1aae6660b248ea73ceee44cc4481",
+          "title": "我们已暂停对《克劳德神话5》和《克劳德传说5》的访问 / We've suspended access to Claude Mythos 5 and Claude Fable 5",
+          "url": "https://status.claude.com/incidents/s9w82lp9dcn9",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-06-13T00:58:06Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "status.claude.com"
+      ],
+      "items": [
+        {
+          "id": "c03399b929fa0f46cabf72764e3b78e46d3ee46e",
+          "title": "我们已暂停对《克劳德神话5》和《克劳德传说5》的访问",
+          "url": "https://status.claude.com/incidents/s9w82lp9dcn9",
+          "source": "status.claude.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-13T03:28:13.440000Z"
+        },
+        {
+          "id": "2e1772dd827e1aae6660b248ea73ceee44cc4481",
+          "title": "我们已暂停对《克劳德神话5》和《克劳德传说5》的访问 / We've suspended access to Claude Mythos 5 and Claude Fable 5",
+          "url": "https://status.claude.com/incidents/s9w82lp9dcn9",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-06-13T00:58:06Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5242,
+      "importance": 0.5242,
+      "importance_score": 0.5242,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.881,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-06-13T00:58:06Z",
+      "latest_at": "2026-06-13T03:28:13.440000Z",
+      "primary_item": {
+        "id": "c03399b929fa0f46cabf72764e3b78e46d3ee46e",
+        "title": "我们已暂停对《克劳德神话5》和《克劳德传说5》的访问",
+        "url": "https://status.claude.com/incidents/s9w82lp9dcn9",
+        "source": "status.claude.com",
         "source_name": "Buzzing"
       }
     }
