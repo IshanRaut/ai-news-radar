@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-14T08:54:19.095000Z",
+  "generated_at": "2026-06-14T11:32:38.416915Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -133,14 +133,14 @@
       ],
       "item_count": 6,
       "duplicate_count": 6,
-      "score": 0.7909,
-      "importance": 0.7909,
-      "importance_score": 0.7909,
+      "score": 0.7689,
+      "importance": 0.7689,
+      "importance_score": 0.7689,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.3944,
+        "recency": 0.2845,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -156,6 +156,86 @@
         "title": "亚马逊首席执行官与美国官员会谈引发对 Anthropic 模型的整治",
         "url": "https://www.wsj.com/tech/ai/amazon-ceos-talks-with-u-s-officials-triggered-crackdown-on-anthropic-models-dcc90578",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_03e93adaa6b7",
+      "title": "Anthropic 暂停新模型访问，印度辩论 AI 未来",
+      "url": "https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future",
+      "primary_url": "https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future",
+      "source": "TechCrunch：AI（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "8783397726f21f68840f6455d520cf4def09fdba",
+          "title": "Anthropic 暂停新模型访问，印度辩论 AI 未来",
+          "url": "https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-14T03:00:00Z"
+        },
+        {
+          "id": "df9846999c9ab0f32a9b8cf74d0a93edad80c921",
+          "title": "Anthropic 暂停新模型访问，印度辩论 AI 未来 / As Anthropic suspends access to new models, India debates its AI future",
+          "url": "https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future",
+          "source": "TechCrunch",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-06-14T03:00:00Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "TechCrunch",
+        "TechCrunch：AI（RSS）"
+      ],
+      "items": [
+        {
+          "id": "8783397726f21f68840f6455d520cf4def09fdba",
+          "title": "Anthropic 暂停新模型访问，印度辩论 AI 未来",
+          "url": "https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-14T03:00:00Z"
+        },
+        {
+          "id": "df9846999c9ab0f32a9b8cf74d0a93edad80c921",
+          "title": "Anthropic 暂停新模型访问，印度辩论 AI 未来 / As Anthropic suspends access to new models, India debates its AI future",
+          "url": "https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future",
+          "source": "TechCrunch",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-06-14T03:00:00Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7658,
+      "importance": 0.7658,
+      "importance_score": 0.7658,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.644,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-14T03:00:00Z",
+      "latest_at": "2026-06-14T03:00:00Z",
+      "primary_item": {
+        "id": "8783397726f21f68840f6455d520cf4def09fdba",
+        "title": "Anthropic 暂停新模型访问，印度辩论 AI 未来",
+        "url": "https://techcrunch.com/2026/06/13/as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future",
+        "source": "TechCrunch：AI（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -194,20 +274,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7623,
-      "importance": 0.7623,
-      "importance_score": 0.7623,
+      "score": 0.7403,
+      "importance": 0.7403,
+      "importance_score": 0.7403,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7517,
+        "recency": 0.6417,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-06-14T02:56:45Z",
       "latest_at": "2026-06-14T02:56:45Z",
@@ -216,162 +295,6 @@
         "title": "Anthropic 上市前夕",
         "url": "https://x.com/xiaohu/status/2065991805238497732",
         "source": "X：小互 (@xiaohu)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_8054bc1bd718",
-      "title": "Meta 开始撤销 20 亿美元收购 Manus 的交易",
-      "url": "https://techcrunch.com/2026/06/13/meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijings-demand",
-      "primary_url": "https://techcrunch.com/2026/06/13/meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijings-demand",
-      "source": "TechCrunch：AI（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "42031d037026e011ffda82b2c03ef0f7d0a6b7b9",
-          "title": "Meta 开始撤销 20 亿美元收购 Manus 的交易",
-          "url": "https://techcrunch.com/2026/06/13/meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijings-demand",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-14T00:03:49Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "TechCrunch：AI（RSS）"
-      ],
-      "items": [
-        {
-          "id": "42031d037026e011ffda82b2c03ef0f7d0a6b7b9",
-          "title": "Meta 开始撤销 20 亿美元收购 Manus 的交易",
-          "url": "https://techcrunch.com/2026/06/13/meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijings-demand",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-14T00:03:49Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7383,
-      "importance": 0.7383,
-      "importance_score": 0.7383,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6316,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-14T00:03:49Z",
-      "latest_at": "2026-06-14T00:03:49Z",
-      "primary_item": {
-        "id": "42031d037026e011ffda82b2c03ef0f7d0a6b7b9",
-        "title": "Meta 开始撤销 20 亿美元收购 Manus 的交易",
-        "url": "https://techcrunch.com/2026/06/13/meta-reportedly-moves-to-unwind-2b-manus-deal-after-beijings-demand",
-        "source": "TechCrunch：AI（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_93300d2f39e5",
-      "title": "Anthropic 秘密申请上市，估值 9650 亿美元",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-13/global-capitalism-bets-it-all-on-ai-future-that-alarms-voters",
-      "primary_url": "https://www.bloomberg.com/news/articles/2026-06-13/global-capitalism-bets-it-all-on-ai-future-that-alarms-voters",
-      "source": "Bloomberg：Technology（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "cc5cbb86c3b68b5b35e4283f9eb5932a7ac22d0c",
-          "title": "Anthropic 秘密申请上市，估值 9650 亿美元",
-          "url": "https://www.bloomberg.com/news/articles/2026-06-13/global-capitalism-bets-it-all-on-ai-future-that-alarms-voters",
-          "source": "Bloomberg：Technology（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-13T11:00:00Z"
-        },
-        {
-          "id": "c169722520115ba8bc6593ee7a96eb9bce592236",
-          "title": "全球资本主义将全部赌注押在人工智能的未来上，令选民感到担忧",
-          "url": "https://www.bloomberg.com/news/articles/2026-06-13/global-capitalism-bets-it-all-on-ai-future-that-alarms-voters",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-13T17:18:14.365000Z"
-        },
-        {
-          "id": "11030a4673705e79f2e2cf3a118bfd0683669791",
-          "title": "全球资本主义将全部赌注押在人工智能的未来上，这令选民感到担忧",
-          "url": "https://www.bloomberg.com/news/articles/2026-06-13/global-capitalism-bets-it-all-on-ai-future-that-alarms-voters",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-13T11:26:14.325000Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Bloomberg：Technology（RSS）",
-        "www.bloomberg.com"
-      ],
-      "items": [
-        {
-          "id": "cc5cbb86c3b68b5b35e4283f9eb5932a7ac22d0c",
-          "title": "Anthropic 秘密申请上市，估值 9650 亿美元",
-          "url": "https://www.bloomberg.com/news/articles/2026-06-13/global-capitalism-bets-it-all-on-ai-future-that-alarms-voters",
-          "source": "Bloomberg：Technology（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-13T11:00:00Z"
-        },
-        {
-          "id": "c169722520115ba8bc6593ee7a96eb9bce592236",
-          "title": "全球资本主义将全部赌注押在人工智能的未来上，令选民感到担忧",
-          "url": "https://www.bloomberg.com/news/articles/2026-06-13/global-capitalism-bets-it-all-on-ai-future-that-alarms-voters",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-13T17:18:14.365000Z"
-        },
-        {
-          "id": "11030a4673705e79f2e2cf3a118bfd0683669791",
-          "title": "全球资本主义将全部赌注押在人工智能的未来上，这令选民感到担忧",
-          "url": "https://www.bloomberg.com/news/articles/2026-06-13/global-capitalism-bets-it-all-on-ai-future-that-alarms-voters",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-13T11:26:14.325000Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.6795,
-      "importance": 0.6795,
-      "importance_score": 0.6795,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.0873,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-13T11:00:00Z",
-      "latest_at": "2026-06-13T17:18:14.365000Z",
-      "primary_item": {
-        "id": "cc5cbb86c3b68b5b35e4283f9eb5932a7ac22d0c",
-        "title": "Anthropic 秘密申请上市，估值 9650 亿美元",
-        "url": "https://www.bloomberg.com/news/articles/2026-06-13/global-capitalism-bets-it-all-on-ai-future-that-alarms-voters",
-        "source": "Bloomberg：Technology（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -429,14 +352,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7025,
-      "importance": 0.7025,
-      "importance_score": 0.7025,
+      "score": 0.6805,
+      "importance": 0.6805,
+      "importance_score": 0.6805,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.3276,
+        "recency": 0.2177,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -452,6 +375,84 @@
         "url": "https://github.com/DanMcInerney/architect-loop",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_c45c234d1e1b",
+      "title": "自主机器人简介 / 自主机器人简介 / Introduction-to-Autonomous-Robots /      Introduction-to-Autonomous-Robots",
+      "url": "https://github.com/Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots",
+      "primary_url": "https://github.com/Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots",
+      "source": "github",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "797c97673a15539931deee9aafcd02a8b923f96f",
+          "title": "自主机器人简介 / 自主机器人简介 / Introduction-to-Autonomous-Robots /      Introduction-to-Autonomous-Robots",
+          "url": "https://github.com/Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-06-14T11:33:13.230000Z"
+        },
+        {
+          "id": "a1046f758f86f4a99c7f56faafc6656e53df9c33",
+          "title": "自主机器人简介 / 自主机器人简介 / Introduction-to-Autonomous-Robots / Introduction-to-Autonomous-Robots",
+          "url": "https://github.com/Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "GitHub · Trending Today",
+        "github"
+      ],
+      "items": [
+        {
+          "id": "797c97673a15539931deee9aafcd02a8b923f96f",
+          "title": "自主机器人简介 / 自主机器人简介 / Introduction-to-Autonomous-Robots /      Introduction-to-Autonomous-Robots",
+          "url": "https://github.com/Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-06-14T11:33:13.230000Z"
+        },
+        {
+          "id": "a1046f758f86f4a99c7f56faafc6656e53df9c33",
+          "title": "自主机器人简介 / 自主机器人简介 / Introduction-to-Autonomous-Robots / Introduction-to-Autonomous-Robots",
+          "url": "https://github.com/Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.548,
+      "importance": 0.548,
+      "importance_score": 0.548,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-06-14T11:32:38.416915Z",
+      "latest_at": "2026-06-14T11:33:13.230000Z",
+      "primary_item": {
+        "id": "797c97673a15539931deee9aafcd02a8b923f96f",
+        "title": "自主机器人简介 / 自主机器人简介 / Introduction-to-Autonomous-Robots /      Introduction-to-Autonomous-Robots",
+        "url": "https://github.com/Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots",
+        "source": "github",
+        "source_name": "NewsNow"
       }
     },
     {
@@ -508,14 +509,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5469,
-      "importance": 0.5469,
-      "importance_score": 0.5469,
+      "score": 0.5249,
+      "importance": 0.5249,
+      "importance_score": 0.5249,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9943,
+        "recency": 0.8843,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -586,14 +587,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5246,
-      "importance": 0.5246,
-      "importance_score": 0.5246,
+      "score": 0.5027,
+      "importance": 0.5027,
+      "importance_score": 0.5027,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8832,
+        "recency": 0.7733,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -664,14 +665,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5177,
-      "importance": 0.5177,
-      "importance_score": 0.5177,
+      "score": 0.4958,
+      "importance": 0.4958,
+      "importance_score": 0.4958,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8487,
+        "recency": 0.7388,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -686,6 +687,83 @@
         "url": "https://www.huxiu.com/article/4867150.html?f=rss",
         "source": "Readhub · AI",
         "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_49bebae6df11",
+      "title": "Phoenix LiveView 1.2 正式发布 / Phoenix LiveView 1.2",
+      "url": "https://phoenixframework.org/blog/phoenix-liveview-1-2-released",
+      "primary_url": "https://phoenixframework.org/blog/phoenix-liveview-1-2-released",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "2c535daa5182c6d892f2ad50c344cf17792e42e7",
+          "title": "Phoenix LiveView 1.2 正式发布 / Phoenix LiveView 1.2",
+          "url": "https://phoenixframework.org/blog/phoenix-liveview-1-2-released",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-06-14T04:53:51Z"
+        },
+        {
+          "id": "3c97f05113aa0738427610a35dcfb5398c32895f",
+          "title": "Phoenix LiveView 1.2 正式发布 / Phoenix LiveView 1.2 Released",
+          "url": "https://phoenixframework.org/blog/phoenix-liveview-1-2-released",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-06-14T04:53:51Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热"
+      ],
+      "items": [
+        {
+          "id": "2c535daa5182c6d892f2ad50c344cf17792e42e7",
+          "title": "Phoenix LiveView 1.2 正式发布 / Phoenix LiveView 1.2",
+          "url": "https://phoenixframework.org/blog/phoenix-liveview-1-2-released",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-06-14T04:53:51Z"
+        },
+        {
+          "id": "3c97f05113aa0738427610a35dcfb5398c32895f",
+          "title": "Phoenix LiveView 1.2 正式发布 / Phoenix LiveView 1.2 Released",
+          "url": "https://phoenixframework.org/blog/phoenix-liveview-1-2-released",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-06-14T04:53:51Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4926,
+      "importance": 0.4926,
+      "importance_score": 0.4926,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7231,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-06-14T04:53:51Z",
+      "latest_at": "2026-06-14T04:53:51Z",
+      "primary_item": {
+        "id": "2c535daa5182c6d892f2ad50c344cf17792e42e7",
+        "title": "Phoenix LiveView 1.2 正式发布 / Phoenix LiveView 1.2",
+        "url": "https://phoenixframework.org/blog/phoenix-liveview-1-2-released",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
       }
     },
     {
@@ -742,14 +820,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5177,
-      "importance": 0.5177,
-      "importance_score": 0.5177,
+      "score": 0.4958,
+      "importance": 0.4958,
+      "importance_score": 0.4958,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8487,
+        "recency": 0.7388,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -820,14 +898,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4854,
-      "importance": 0.4854,
-      "importance_score": 0.4854,
+      "score": 0.4634,
+      "importance": 0.4634,
+      "importance_score": 0.4634,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6871,
+        "recency": 0.5772,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -842,83 +920,6 @@
         "url": "https://www.wired.com/story/mark-zuckerberg-meta-employee-meeting-interrupt-ai",
         "source": "Hacker News",
         "source_name": "TechURLs"
-      }
-    },
-    {
-      "story_id": "story_cf8362e1b46f",
-      "title": "第十代本田思域的更新已使用 AOSP 测试密钥进行签名 / 10th Gen Honda Civic Updates Are Signed with AOSP Test Keys",
-      "url": "https://juniperspring.org/posts/honda-evil-valet",
-      "primary_url": "https://juniperspring.org/posts/honda-evil-valet",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "95d6850f2b5b29af4f84e0bdb6906ae3af4f406c",
-          "title": "第十代本田思域的更新已使用 AOSP 测试密钥进行签名 / 10th Gen Honda Civic Updates Are Signed with AOSP Test Keys",
-          "url": "https://juniperspring.org/posts/honda-evil-valet",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-06-14T00:49:46Z"
-        },
-        {
-          "id": "2c53d5bab28f6bacbb45f4678bbf1498f0d74dc1",
-          "title": "第十代本田思域的更新已使用 AOSP 测试密钥进行签名 / Honda Civics and the Evil Valet",
-          "url": "https://juniperspring.org/posts/honda-evil-valet",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-06-14T00:49:46Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热"
-      ],
-      "items": [
-        {
-          "id": "95d6850f2b5b29af4f84e0bdb6906ae3af4f406c",
-          "title": "第十代本田思域的更新已使用 AOSP 测试密钥进行签名 / 10th Gen Honda Civic Updates Are Signed with AOSP Test Keys",
-          "url": "https://juniperspring.org/posts/honda-evil-valet",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-06-14T00:49:46Z"
-        },
-        {
-          "id": "2c53d5bab28f6bacbb45f4678bbf1498f0d74dc1",
-          "title": "第十代本田思域的更新已使用 AOSP 测试密钥进行签名 / Honda Civics and the Evil Valet",
-          "url": "https://juniperspring.org/posts/honda-evil-valet",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-06-14T00:49:46Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4807,
-      "importance": 0.4807,
-      "importance_score": 0.4807,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.6635,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-06-14T00:49:46Z",
-      "latest_at": "2026-06-14T00:49:46Z",
-      "primary_item": {
-        "id": "95d6850f2b5b29af4f84e0bdb6906ae3af4f406c",
-        "title": "第十代本田思域的更新已使用 AOSP 测试密钥进行签名 / 10th Gen Honda Civic Updates Are Signed with AOSP Test Keys",
-        "url": "https://juniperspring.org/posts/honda-evil-valet",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
       }
     },
     {
@@ -975,14 +976,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4752,
-      "importance": 0.4752,
-      "importance_score": 0.4752,
+      "score": 0.4532,
+      "importance": 0.4532,
+      "importance_score": 0.4532,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6361,
+        "recency": 0.5262,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1072,14 +1073,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.4585,
-      "importance": 0.4585,
-      "importance_score": 0.4585,
+      "score": 0.4365,
+      "importance": 0.4365,
+      "importance_score": 0.4365,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.4276,
+        "recency": 0.3176,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1094,6 +1095,83 @@
         "url": "https://stephen.bochinski.dev/blog/2026/06/13/ai-coding-at-home-without-going-broke",
         "source": "stephen.bochinski.dev",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_cf8362e1b46f",
+      "title": "第十代本田思域的更新已使用 AOSP 测试密钥进行签名 / 10th Gen Honda Civic Updates Are Signed with AOSP Test Keys",
+      "url": "https://juniperspring.org/posts/honda-evil-valet",
+      "primary_url": "https://juniperspring.org/posts/honda-evil-valet",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "95d6850f2b5b29af4f84e0bdb6906ae3af4f406c",
+          "title": "第十代本田思域的更新已使用 AOSP 测试密钥进行签名 / 10th Gen Honda Civic Updates Are Signed with AOSP Test Keys",
+          "url": "https://juniperspring.org/posts/honda-evil-valet",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-06-14T00:49:46Z"
+        },
+        {
+          "id": "2c53d5bab28f6bacbb45f4678bbf1498f0d74dc1",
+          "title": "第十代本田思域的更新已使用 AOSP 测试密钥进行签名 / Honda Civics and the Evil Valet",
+          "url": "https://juniperspring.org/posts/honda-evil-valet",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-06-14T00:49:46Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热"
+      ],
+      "items": [
+        {
+          "id": "95d6850f2b5b29af4f84e0bdb6906ae3af4f406c",
+          "title": "第十代本田思域的更新已使用 AOSP 测试密钥进行签名 / 10th Gen Honda Civic Updates Are Signed with AOSP Test Keys",
+          "url": "https://juniperspring.org/posts/honda-evil-valet",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-06-14T00:49:46Z"
+        },
+        {
+          "id": "2c53d5bab28f6bacbb45f4678bbf1498f0d74dc1",
+          "title": "第十代本田思域的更新已使用 AOSP 测试密钥进行签名 / Honda Civics and the Evil Valet",
+          "url": "https://juniperspring.org/posts/honda-evil-valet",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-06-14T00:49:46Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4587,
+      "importance": 0.4587,
+      "importance_score": 0.4587,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.5536,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-06-14T00:49:46Z",
+      "latest_at": "2026-06-14T00:49:46Z",
+      "primary_item": {
+        "id": "95d6850f2b5b29af4f84e0bdb6906ae3af4f406c",
+        "title": "第十代本田思域的更新已使用 AOSP 测试密钥进行签名 / 10th Gen Honda Civic Updates Are Signed with AOSP Test Keys",
+        "url": "https://juniperspring.org/posts/honda-evil-valet",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
       }
     },
     {
@@ -1150,14 +1228,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4691,
-      "importance": 0.4691,
-      "importance_score": 0.4691,
+      "score": 0.4471,
+      "importance": 0.4471,
+      "importance_score": 0.4471,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6054,
+        "recency": 0.4954,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1247,14 +1325,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.423,
-      "importance": 0.423,
-      "importance_score": 0.423,
+      "score": 0.401,
+      "importance": 0.401,
+      "importance_score": 0.401,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.2498,
+        "recency": 0.1399,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1324,14 +1402,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4158,
-      "importance": 0.4158,
-      "importance_score": 0.4158,
+      "score": 0.3938,
+      "importance": 0.3938,
+      "importance_score": 0.3938,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.3388,
+        "recency": 0.2289,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1401,14 +1479,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4751,
-      "importance": 0.4751,
-      "importance_score": 0.4751,
+      "score": 0.4531,
+      "importance": 0.4531,
+      "importance_score": 0.4531,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6357,
+        "recency": 0.5257,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1479,14 +1557,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4397,
-      "importance": 0.4397,
-      "importance_score": 0.4397,
+      "score": 0.4178,
+      "importance": 0.4178,
+      "importance_score": 0.4178,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.4587,
+        "recency": 0.3488,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1557,14 +1635,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4362,
-      "importance": 0.4362,
-      "importance_score": 0.4362,
+      "score": 0.4142,
+      "importance": 0.4142,
+      "importance_score": 0.4142,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.4412,
+        "recency": 0.3312,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1579,84 +1657,6 @@
         "url": "https://news.ycombinator.com/item?id=48519519",
         "source": "hackernews",
         "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_4a51c735b4dd",
-      "title": "repo-slopscore：通过提交历史分析检测 Git 仓库中的 AI/LLM 贡献",
-      "url": "https://slopscan.ava.pet",
-      "primary_url": "https://slopscan.ava.pet",
-      "source": "slopscan.ava.pet",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "bf25763c1f6549d36ff4cf0149e531c8c044c112",
-          "title": "repo-slopscore：通过提交历史分析检测 Git 仓库中的 AI/LLM 贡献",
-          "url": "https://slopscan.ava.pet",
-          "source": "slopscan.ava.pet",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-13T15:42:05.350000Z"
-        },
-        {
-          "id": "e06d2ddfa9e2e2ec99d78f43ddd457f1f4add862",
-          "title": "repo-slopscore：通过提交历史分析检测 Git 仓库中的 AI/LLM 贡献 / repo-slopscore: Detecting AI/LLM contributions in git repositories via commit history analysis",
-          "url": "https://slopscan.ava.pet",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-06-13T15:37:16Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Lobsters (技术社区)",
-        "slopscan.ava.pet"
-      ],
-      "items": [
-        {
-          "id": "bf25763c1f6549d36ff4cf0149e531c8c044c112",
-          "title": "repo-slopscore：通过提交历史分析检测 Git 仓库中的 AI/LLM 贡献",
-          "url": "https://slopscan.ava.pet",
-          "source": "slopscan.ava.pet",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-13T15:42:05.350000Z"
-        },
-        {
-          "id": "e06d2ddfa9e2e2ec99d78f43ddd457f1f4add862",
-          "title": "repo-slopscore：通过提交历史分析检测 Git 仓库中的 AI/LLM 贡献 / repo-slopscore: Detecting AI/LLM contributions in git repositories via commit history analysis",
-          "url": "https://slopscan.ava.pet",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-06-13T15:37:16Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4046,
-      "importance": 0.4046,
-      "importance_score": 0.4046,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.2832,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-06-13T15:37:16Z",
-      "latest_at": "2026-06-13T15:42:05.350000Z",
-      "primary_item": {
-        "id": "bf25763c1f6549d36ff4cf0149e531c8c044c112",
-        "title": "repo-slopscore：通过提交历史分析检测 Git 仓库中的 AI/LLM 贡献",
-        "url": "https://slopscan.ava.pet",
-        "source": "slopscan.ava.pet",
-        "source_name": "Buzzing"
       }
     }
   ]
