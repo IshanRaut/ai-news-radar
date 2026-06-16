@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-15T23:06:45.416660Z",
+  "generated_at": "2026-06-16T02:08:59.159325Z",
   "merge_strategy": "url_or_title_similarity_v0_6",
-  "total_events": 31,
+  "total_events": 37,
   "events": [
     {
       "story_id": "story_48f8d9b994c1",
@@ -207,6 +207,13 @@
       "similarity": 1.0
     },
     {
+      "story_id": "story_92468cec072b",
+      "item_id": "55eb5dfb19f999f916754ad09f5bce06f8c4a8e3",
+      "merged_into": "story_92468cec072b",
+      "reason": "canonical_url",
+      "similarity": 1.0
+    },
+    {
       "story_id": "story_5e2758934aec",
       "item_id": "c90bde8cd6580aa5f8cf4c3ab050066b54720235",
       "merged_into": "story_5e2758934aec",
@@ -217,6 +224,41 @@
       "story_id": "story_961216d0cb72",
       "item_id": "4800678406d2cf1cf1476054bd4f8b4438c65a40",
       "merged_into": "story_961216d0cb72",
+      "reason": "title_similarity",
+      "similarity": 1.0
+    },
+    {
+      "story_id": "story_1a57b4e8392d",
+      "item_id": "9008e43e1833b066f32a351c78419c3cf6acf2b8",
+      "merged_into": "story_1a57b4e8392d",
+      "reason": "canonical_url",
+      "similarity": 1.0
+    },
+    {
+      "story_id": "story_726a3cbaf5ff",
+      "item_id": "38e6ddbde48b0e0d832e6a6d50cb01ff30f621e2",
+      "merged_into": "story_726a3cbaf5ff",
+      "reason": "canonical_url",
+      "similarity": 1.0
+    },
+    {
+      "story_id": "story_23226a6cabc2",
+      "item_id": "9f009cb29b353339785091c7826436864769af38",
+      "merged_into": "story_23226a6cabc2",
+      "reason": "title_similarity",
+      "similarity": 1.0
+    },
+    {
+      "story_id": "story_b121be2f65ec",
+      "item_id": "296ae07a8e6c19fa81799e5ad30a8334fb832bf4",
+      "merged_into": "story_b121be2f65ec",
+      "reason": "title_similarity",
+      "similarity": 0.9492
+    },
+    {
+      "story_id": "story_6a646fac6353",
+      "item_id": "eed2563c81c3a36e8c131518351c0e3cff9a2955",
+      "merged_into": "story_6a646fac6353",
       "reason": "title_similarity",
       "similarity": 1.0
     }
