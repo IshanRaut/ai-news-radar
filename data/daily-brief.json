@@ -1,24 +1,105 @@
 {
-  "generated_at": "2026-06-17T18:42:22.031568Z",
+  "generated_at": "2026-06-17T21:10:10.377803Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
-      "story_id": "story_46033794f7c4",
-      "title": "Copilot Chat 中的自动模式可供所有用户使用 / Auto mode in Copilot Chat available for all users",
-      "url": "https://github.blog/changelog/2026-06-17-auto-mode-in-copilot-chat-available-for-all-users",
-      "primary_url": "https://github.blog/changelog/2026-06-17-auto-mode-in-copilot-chat-available-for-all-users",
+      "story_id": "story_4e9e2bfdc46d",
+      "title": "GitHub 发布 CC0-1.0 开源多语言仓库级数据集，覆盖 README、Issue 和 PR / Getting more from each token: How Copilot improves context handling and model routing",
+      "url": "https://github.blog/ai-and-ml/github-copilot/getting-more-from-each-token-how-copilot-improves-context-handling-and-model-routing",
+      "primary_url": "https://github.blog/ai-and-ml/github-copilot/getting-more-from-each-token-how-copilot-improves-context-handling-and-model-routing",
+      "source": "GitHub AI & ML",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "d05208a6bfac145251696a9a9be8482569d00bfb",
+          "title": "GitHub 发布 CC0-1.0 开源多语言仓库级数据集，覆盖 README、Issue 和 PR / Getting more from each token: How Copilot improves context handling and model routing",
+          "url": "https://github.blog/ai-and-ml/github-copilot/getting-more-from-each-token-how-copilot-improves-context-handling-and-model-routing",
+          "source": "GitHub AI & ML",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-06-17T19:41:46Z"
+        },
+        {
+          "id": "a4e3e2a21e4519cdeeb04c4818656e2900b7d22a",
+          "title": "GitHub 发布 CC0-1.0 开源多语言仓库级数据集，覆盖 README、Issue 和 PR",
+          "url": "https://github.blog/ai-and-ml/github-copilot/getting-more-from-each-token-how-copilot-improves-context-handling-and-model-routing",
+          "source": "GitHub Blog",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-17T19:41:46Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "GitHub AI & ML",
+        "GitHub Blog"
+      ],
+      "items": [
+        {
+          "id": "d05208a6bfac145251696a9a9be8482569d00bfb",
+          "title": "GitHub 发布 CC0-1.0 开源多语言仓库级数据集，覆盖 README、Issue 和 PR / Getting more from each token: How Copilot improves context handling and model routing",
+          "url": "https://github.blog/ai-and-ml/github-copilot/getting-more-from-each-token-how-copilot-improves-context-handling-and-model-routing",
+          "source": "GitHub AI & ML",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-06-17T19:41:46Z"
+        },
+        {
+          "id": "a4e3e2a21e4519cdeeb04c4818656e2900b7d22a",
+          "title": "GitHub 发布 CC0-1.0 开源多语言仓库级数据集，覆盖 README、Issue 和 PR",
+          "url": "https://github.blog/ai-and-ml/github-copilot/getting-more-from-each-token-how-copilot-improves-context-handling-and-model-routing",
+          "source": "GitHub Blog",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-17T19:41:46Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8947,
+      "importance": 0.8947,
+      "importance_score": 0.8947,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.94,
+        "recency": 0.9386,
+        "story_heat": 0.25
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-17T19:41:46Z",
+      "latest_at": "2026-06-17T19:41:46Z",
+      "primary_item": {
+        "id": "d05208a6bfac145251696a9a9be8482569d00bfb",
+        "title": "GitHub 发布 CC0-1.0 开源多语言仓库级数据集，覆盖 README、Issue 和 PR / Getting more from each token: How Copilot improves context handling and model routing",
+        "url": "https://github.blog/ai-and-ml/github-copilot/getting-more-from-each-token-how-copilot-improves-context-handling-and-model-routing",
+        "source": "GitHub AI & ML",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_b82595c5416f",
+      "title": "使用 GitHub CLI 读取远程存储库内容 / Read remote repository content with GitHub CLI",
+      "url": "https://github.blog/changelog/2026-06-17-read-remote-repository-content-with-github-cli",
+      "primary_url": "https://github.blog/changelog/2026-06-17-read-remote-repository-content-with-github-cli",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "977d71fc2407a5fcfe26b7f1ef4c8a88ae6b4df8",
-          "title": "Copilot Chat 中的自动模式可供所有用户使用 / Auto mode in Copilot Chat available for all users",
-          "url": "https://github.blog/changelog/2026-06-17-auto-mode-in-copilot-chat-available-for-all-users",
+          "id": "7cb16fa80f5aaeaf6d2ad3d3879edd2190a381fe",
+          "title": "使用 GitHub CLI 读取远程存储库内容 / Read remote repository content with GitHub CLI",
+          "url": "https://github.blog/changelog/2026-06-17-read-remote-repository-content-with-github-cli",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-06-17T16:24:33Z"
+          "published_at": "2026-06-17T20:03:57Z"
         }
       ],
       "source_count": 1,
@@ -27,25 +108,25 @@
       ],
       "items": [
         {
-          "id": "977d71fc2407a5fcfe26b7f1ef4c8a88ae6b4df8",
-          "title": "Copilot Chat 中的自动模式可供所有用户使用 / Auto mode in Copilot Chat available for all users",
-          "url": "https://github.blog/changelog/2026-06-17-auto-mode-in-copilot-chat-available-for-all-users",
+          "id": "7cb16fa80f5aaeaf6d2ad3d3879edd2190a381fe",
+          "title": "使用 GitHub CLI 读取远程存储库内容 / Read remote repository content with GitHub CLI",
+          "url": "https://github.blog/changelog/2026-06-17-read-remote-repository-content-with-github-cli",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-06-17T16:24:33Z"
+          "published_at": "2026-06-17T20:03:57Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8539,
-      "importance": 0.8539,
-      "importance_score": 0.8539,
+      "score": 0.8518,
+      "importance": 0.8518,
+      "importance_score": 0.8518,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.9043,
+        "ai_relevance": 0.87,
+        "recency": 0.954,
         "story_heat": 0.0
       },
       "category": "official",
@@ -54,13 +135,112 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-06-17T16:24:33Z",
-      "latest_at": "2026-06-17T16:24:33Z",
+      "earliest_at": "2026-06-17T20:03:57Z",
+      "latest_at": "2026-06-17T20:03:57Z",
       "primary_item": {
-        "id": "977d71fc2407a5fcfe26b7f1ef4c8a88ae6b4df8",
-        "title": "Copilot Chat 中的自动模式可供所有用户使用 / Auto mode in Copilot Chat available for all users",
-        "url": "https://github.blog/changelog/2026-06-17-auto-mode-in-copilot-chat-available-for-all-users",
+        "id": "7cb16fa80f5aaeaf6d2ad3d3879edd2190a381fe",
+        "title": "使用 GitHub CLI 读取远程存储库内容 / Read remote repository content with GitHub CLI",
+        "url": "https://github.blog/changelog/2026-06-17-read-remote-repository-content-with-github-cli",
         "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_1a8cd099cf1e",
+      "title": "近乎自主的人工智能化学家改善了药物化学中具有挑战性的反应 / A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry",
+      "url": "https://openai.com/index/ai-chemist-improves-reaction",
+      "primary_url": "https://openai.com/index/ai-chemist-improves-reaction",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "4730b64dd12c8bd2581404f68db38ba6e225257f",
+          "title": "近乎自主的人工智能化学家改善了药物化学中具有挑战性的反应 / A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry",
+          "url": "https://openai.com/index/ai-chemist-improves-reaction",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-06-17T10:00:00Z"
+        },
+        {
+          "id": "ce1f79687a0b90e1d9951daea5d6f6e8a8e283ab",
+          "title": "人工智能化学家改善了药物化学中具有挑战性的反应 / AI chemist improves a challenging reaction in medicinal chemistry",
+          "url": "https://openai.com/index/ai-chemist-improves-reaction",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-17T17:34:20Z"
+        },
+        {
+          "id": "9b0c82f32b08803f1599f4ac5d7557e1f9081380",
+          "title": "使用人工智能改善药物化学中具有挑战性的反应 / Using AI to improve a challenging reaction in medicinal chemistry",
+          "url": "https://openai.com/index/ai-chemist-improves-reaction",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-17T17:34:20Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "4730b64dd12c8bd2581404f68db38ba6e225257f",
+          "title": "近乎自主的人工智能化学家改善了药物化学中具有挑战性的反应 / A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry",
+          "url": "https://openai.com/index/ai-chemist-improves-reaction",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-06-17T10:00:00Z"
+        },
+        {
+          "id": "ce1f79687a0b90e1d9951daea5d6f6e8a8e283ab",
+          "title": "人工智能化学家改善了药物化学中具有挑战性的反应 / AI chemist improves a challenging reaction in medicinal chemistry",
+          "url": "https://openai.com/index/ai-chemist-improves-reaction",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-17T17:34:20Z"
+        },
+        {
+          "id": "9b0c82f32b08803f1599f4ac5d7557e1f9081380",
+          "title": "使用人工智能改善药物化学中具有挑战性的反应 / Using AI to improve a challenging reaction in medicinal chemistry",
+          "url": "https://openai.com/index/ai-chemist-improves-reaction",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-17T17:34:20Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.8389,
+      "importance": 0.8389,
+      "importance_score": 0.8389,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.94,
+        "recency": 0.5346,
+        "story_heat": 0.5
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-17T10:00:00Z",
+      "latest_at": "2026-06-17T17:34:20Z",
+      "primary_item": {
+        "id": "4730b64dd12c8bd2581404f68db38ba6e225257f",
+        "title": "近乎自主的人工智能化学家改善了药物化学中具有挑战性的反应 / A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry",
+        "url": "https://openai.com/index/ai-chemist-improves-reaction",
+        "source": "OpenAI News",
         "source_name": "Official AI Updates"
       }
     },
@@ -118,14 +298,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.849,
-      "importance": 0.849,
-      "importance_score": 0.849,
+      "score": 0.8284,
+      "importance": 0.8284,
+      "importance_score": 0.8284,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.6498,
+        "recency": 0.5472,
         "story_heat": 0.25
       },
       "category": "official",
@@ -146,102 +326,21 @@
       }
     },
     {
-      "story_id": "story_1a8cd099cf1e",
-      "title": "近乎自主的人工智能化学家改善了药物化学中具有挑战性的反应 / A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry",
-      "url": "https://openai.com/index/ai-chemist-improves-reaction",
-      "primary_url": "https://openai.com/index/ai-chemist-improves-reaction",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "4730b64dd12c8bd2581404f68db38ba6e225257f",
-          "title": "近乎自主的人工智能化学家改善了药物化学中具有挑战性的反应 / A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry",
-          "url": "https://openai.com/index/ai-chemist-improves-reaction",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-06-17T10:00:00Z"
-        },
-        {
-          "id": "ce1f79687a0b90e1d9951daea5d6f6e8a8e283ab",
-          "title": "人工智能化学家改善了药物化学中具有挑战性的反应 / AI chemist improves a challenging reaction in medicinal chemistry",
-          "url": "https://openai.com/index/ai-chemist-improves-reaction",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-06-17T17:34:20Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "4730b64dd12c8bd2581404f68db38ba6e225257f",
-          "title": "近乎自主的人工智能化学家改善了药物化学中具有挑战性的反应 / A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry",
-          "url": "https://openai.com/index/ai-chemist-improves-reaction",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-06-17T10:00:00Z"
-        },
-        {
-          "id": "ce1f79687a0b90e1d9951daea5d6f6e8a8e283ab",
-          "title": "人工智能化学家改善了药物化学中具有挑战性的反应 / AI chemist improves a challenging reaction in medicinal chemistry",
-          "url": "https://openai.com/index/ai-chemist-improves-reaction",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-06-17T17:34:20Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8344,
-      "importance": 0.8344,
-      "importance_score": 0.8344,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.94,
-        "recency": 0.6372,
-        "story_heat": 0.25
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-06-17T10:00:00Z",
-      "latest_at": "2026-06-17T17:34:20Z",
-      "primary_item": {
-        "id": "4730b64dd12c8bd2581404f68db38ba6e225257f",
-        "title": "近乎自主的人工智能化学家改善了药物化学中具有挑战性的反应 / A near-autonomous AI chemist improves a challenging reaction in medicinal chemistry",
-        "url": "https://openai.com/index/ai-chemist-improves-reaction",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_ef7a37f94fb5",
-      "title": "GitHub Copilot 的代理查找器现已推出 / Agent finder for GitHub Copilot now available",
-      "url": "https://github.blog/changelog/2026-06-17-agent-finder-for-github-copilot-now-available",
-      "primary_url": "https://github.blog/changelog/2026-06-17-agent-finder-for-github-copilot-now-available",
+      "story_id": "story_ccd7e57bebcb",
+      "title": "秘密扫描更新 – 2026 年 6 月 / Secret scanning updates – June 2026",
+      "url": "https://github.blog/changelog/2026-06-17-secret-scanning-updates-june-2026",
+      "primary_url": "https://github.blog/changelog/2026-06-17-secret-scanning-updates-june-2026",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "f538901c3a4612ce5abac714a467c5aed85b70f6",
-          "title": "GitHub Copilot 的代理查找器现已推出 / Agent finder for GitHub Copilot now available",
-          "url": "https://github.blog/changelog/2026-06-17-agent-finder-for-github-copilot-now-available",
+          "id": "4f6f498a197647deb73543d4bc3757350ad69e5a",
+          "title": "秘密扫描更新 – 2026 年 6 月 / Secret scanning updates – June 2026",
+          "url": "https://github.blog/changelog/2026-06-17-secret-scanning-updates-june-2026",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-06-17T16:21:56Z"
+          "published_at": "2026-06-17T19:23:42Z"
         }
       ],
       "source_count": 1,
@@ -250,25 +349,25 @@
       ],
       "items": [
         {
-          "id": "f538901c3a4612ce5abac714a467c5aed85b70f6",
-          "title": "GitHub Copilot 的代理查找器现已推出 / Agent finder for GitHub Copilot now available",
-          "url": "https://github.blog/changelog/2026-06-17-agent-finder-for-github-copilot-now-available",
+          "id": "4f6f498a197647deb73543d4bc3757350ad69e5a",
+          "title": "秘密扫描更新 – 2026 年 6 月 / Secret scanning updates – June 2026",
+          "url": "https://github.blog/changelog/2026-06-17-secret-scanning-updates-june-2026",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-06-17T16:21:56Z"
+          "published_at": "2026-06-17T19:23:42Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8535,
-      "importance": 0.8535,
-      "importance_score": 0.8535,
+      "score": 0.8462,
+      "importance": 0.8462,
+      "importance_score": 0.8462,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.9025,
+        "ai_relevance": 0.87,
+        "recency": 0.9261,
         "story_heat": 0.0
       },
       "category": "official",
@@ -277,14 +376,74 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-06-17T16:21:56Z",
-      "latest_at": "2026-06-17T16:21:56Z",
+      "earliest_at": "2026-06-17T19:23:42Z",
+      "latest_at": "2026-06-17T19:23:42Z",
       "primary_item": {
-        "id": "f538901c3a4612ce5abac714a467c5aed85b70f6",
-        "title": "GitHub Copilot 的代理查找器现已推出 / Agent finder for GitHub Copilot now available",
-        "url": "https://github.blog/changelog/2026-06-17-agent-finder-for-github-copilot-now-available",
+        "id": "4f6f498a197647deb73543d4bc3757350ad69e5a",
+        "title": "秘密扫描更新 – 2026 年 6 月 / Secret scanning updates – June 2026",
+        "url": "https://github.blog/changelog/2026-06-17-secret-scanning-updates-june-2026",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_614380d82112",
+      "title": "Claude Design 更新：跨项目保持品牌一致，与Claude Code协同",
+      "url": "https://claude.com/blog/claude-design-stays-on-brand-for-daily-work",
+      "primary_url": "https://claude.com/blog/claude-design-stays-on-brand-for-daily-work",
+      "source": "Claude：Blog（网页）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "ecf9da4e6be1ced142a369d983a3c4f1e09bfb76",
+          "title": "Claude Design 更新：跨项目保持品牌一致，与Claude Code协同",
+          "url": "https://claude.com/blog/claude-design-stays-on-brand-for-daily-work",
+          "source": "Claude：Blog（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-17T20:44:36Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Claude：Blog（网页）"
+      ],
+      "items": [
+        {
+          "id": "ecf9da4e6be1ced142a369d983a3c4f1e09bfb76",
+          "title": "Claude Design 更新：跨项目保持品牌一致，与Claude Code协同",
+          "url": "https://claude.com/blog/claude-design-stays-on-brand-for-daily-work",
+          "source": "Claude：Blog（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-17T20:44:36Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8084,
+      "importance": 0.8084,
+      "importance_score": 0.8084,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9822,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-17T20:44:36Z",
+      "latest_at": "2026-06-17T20:44:36Z",
+      "primary_item": {
+        "id": "ecf9da4e6be1ced142a369d983a3c4f1e09bfb76",
+        "title": "Claude Design 更新：跨项目保持品牌一致，与Claude Code协同",
+        "url": "https://claude.com/blog/claude-design-stays-on-brand-for-daily-work",
+        "source": "Claude：Blog（网页）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -341,14 +500,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8186,
-      "importance": 0.8186,
-      "importance_score": 0.8186,
+      "score": 0.7981,
+      "importance": 0.7981,
+      "importance_score": 0.7981,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9082,
+        "recency": 0.8055,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -364,6 +523,126 @@
         "title": "Google发布99美元Gemini智能音箱",
         "url": "https://techcrunch.com/2026/06/17/google-bets-on-gemini-to-reinvent-the-smart-home-speaker",
         "source": "TechCrunch：AI（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_b298ebafdf72",
+      "title": "Claude Design与Replit联动，设计变应用",
+      "url": "https://x.com/Replit/status/2067328501003497684",
+      "primary_url": "https://x.com/Replit/status/2067328501003497684",
+      "source": "X：Replit (@Replit)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "5cdd81db8c12108cce7063a5e80dea49eb65ed78",
+          "title": "Claude Design与Replit联动，设计变应用",
+          "url": "https://x.com/Replit/status/2067328501003497684",
+          "source": "X：Replit (@Replit)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-17T19:28:18Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Replit (@Replit)"
+      ],
+      "items": [
+        {
+          "id": "5cdd81db8c12108cce7063a5e80dea49eb65ed78",
+          "title": "Claude Design与Replit联动，设计变应用",
+          "url": "https://x.com/Replit/status/2067328501003497684",
+          "source": "X：Replit (@Replit)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-17T19:28:18Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7979,
+      "importance": 0.7979,
+      "importance_score": 0.7979,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9293,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-17T19:28:18Z",
+      "latest_at": "2026-06-17T19:28:18Z",
+      "primary_item": {
+        "id": "5cdd81db8c12108cce7063a5e80dea49eb65ed78",
+        "title": "Claude Design与Replit联动，设计变应用",
+        "url": "https://x.com/Replit/status/2067328501003497684",
+        "source": "X：Replit (@Replit)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_5a9a5d1087b2",
+      "title": "Matt Pocock 开源 skills v1：将技能描述 Token 成本降低 63%",
+      "url": "https://x.com/AYi_AInotes/status/2067327021005656135",
+      "primary_url": "https://x.com/AYi_AInotes/status/2067327021005656135",
+      "source": "X：阿易 AI Notes (@AYi_AInotes)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "b389efdefeb6ec3bdea9840a6429dc794ae55898",
+          "title": "Matt Pocock 开源 skills v1：将技能描述 Token 成本降低 63%",
+          "url": "https://x.com/AYi_AInotes/status/2067327021005656135",
+          "source": "X：阿易 AI Notes (@AYi_AInotes)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-17T19:22:25Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：阿易 AI Notes (@AYi_AInotes)"
+      ],
+      "items": [
+        {
+          "id": "b389efdefeb6ec3bdea9840a6429dc794ae55898",
+          "title": "Matt Pocock 开源 skills v1：将技能描述 Token 成本降低 63%",
+          "url": "https://x.com/AYi_AInotes/status/2067327021005656135",
+          "source": "X：阿易 AI Notes (@AYi_AInotes)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-17T19:22:25Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.797,
+      "importance": 0.797,
+      "importance_score": 0.797,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9252,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-17T19:22:25Z",
+      "latest_at": "2026-06-17T19:22:25Z",
+      "primary_item": {
+        "id": "b389efdefeb6ec3bdea9840a6429dc794ae55898",
+        "title": "Matt Pocock 开源 skills v1：将技能描述 Token 成本降低 63%",
+        "url": "https://x.com/AYi_AInotes/status/2067327021005656135",
+        "source": "X：阿易 AI Notes (@AYi_AInotes)",
         "source_name": "AI HOT"
       }
     },
@@ -421,14 +700,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8098,
-      "importance": 0.8098,
-      "importance_score": 0.8098,
+      "score": 0.7893,
+      "importance": 0.7893,
+      "importance_score": 0.7893,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8641,
+        "recency": 0.7615,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -482,14 +761,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8084,
-      "importance": 0.8084,
-      "importance_score": 0.8084,
+      "score": 0.7879,
+      "importance": 0.7879,
+      "importance_score": 0.7879,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.982,
+        "recency": 0.8794,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -561,14 +840,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8061,
-      "importance": 0.8061,
-      "importance_score": 0.8061,
+      "score": 0.7856,
+      "importance": 0.7856,
+      "importance_score": 0.7856,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8456,
+        "recency": 0.7429,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -622,14 +901,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8052,
-      "importance": 0.8052,
-      "importance_score": 0.8052,
+      "score": 0.7847,
+      "importance": 0.7847,
+      "importance_score": 0.7847,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9662,
+        "recency": 0.8635,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -682,14 +961,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.801,
-      "importance": 0.801,
-      "importance_score": 0.801,
+      "score": 0.7804,
+      "importance": 0.7804,
+      "importance_score": 0.7804,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9448,
+        "recency": 0.8421,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -705,6 +984,127 @@
         "url": "https://www.marktechpost.com/2026/06/17/vercel-releases-eve",
         "source": "MarkTechPost（RSS）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_5d4106fa20ae",
+      "title": "借助 Workload Identity Federation 安全访问 Claude Platform",
+      "url": "https://claude.com/blog/workload-identity-federation",
+      "primary_url": "https://claude.com/blog/workload-identity-federation",
+      "source": "Claude：Blog（网页）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "e860b5c45e1b8f10e0714bd8d56f25a1a5fae20e",
+          "title": "借助 Workload Identity Federation 安全访问 Claude Platform",
+          "url": "https://claude.com/blog/workload-identity-federation",
+          "source": "Claude：Blog（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-17T20:44:36Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Claude：Blog（网页）"
+      ],
+      "items": [
+        {
+          "id": "e860b5c45e1b8f10e0714bd8d56f25a1a5fae20e",
+          "title": "借助 Workload Identity Federation 安全访问 Claude Platform",
+          "url": "https://claude.com/blog/workload-identity-federation",
+          "source": "Claude：Blog（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-17T20:44:36Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8084,
+      "importance": 0.8084,
+      "importance_score": 0.8084,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9822,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-17T20:44:36Z",
+      "latest_at": "2026-06-17T20:44:36Z",
+      "primary_item": {
+        "id": "e860b5c45e1b8f10e0714bd8d56f25a1a5fae20e",
+        "title": "借助 Workload Identity Federation 安全访问 Claude Platform",
+        "url": "https://claude.com/blog/workload-identity-federation",
+        "source": "Claude：Blog（网页）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_46033794f7c4",
+      "title": "Copilot Chat 中的自动模式可供所有用户使用 / Auto mode in Copilot Chat available for all users",
+      "url": "https://github.blog/changelog/2026-06-17-auto-mode-in-copilot-chat-available-for-all-users",
+      "primary_url": "https://github.blog/changelog/2026-06-17-auto-mode-in-copilot-chat-available-for-all-users",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "977d71fc2407a5fcfe26b7f1ef4c8a88ae6b4df8",
+          "title": "Copilot Chat 中的自动模式可供所有用户使用 / Auto mode in Copilot Chat available for all users",
+          "url": "https://github.blog/changelog/2026-06-17-auto-mode-in-copilot-chat-available-for-all-users",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-06-17T16:24:33Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "977d71fc2407a5fcfe26b7f1ef4c8a88ae6b4df8",
+          "title": "Copilot Chat 中的自动模式可供所有用户使用 / Auto mode in Copilot Chat available for all users",
+          "url": "https://github.blog/changelog/2026-06-17-auto-mode-in-copilot-chat-available-for-all-users",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-06-17T16:24:33Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8333,
+      "importance": 0.8333,
+      "importance_score": 0.8333,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.8017,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-17T16:24:33Z",
+      "latest_at": "2026-06-17T16:24:33Z",
+      "primary_item": {
+        "id": "977d71fc2407a5fcfe26b7f1ef4c8a88ae6b4df8",
+        "title": "Copilot Chat 中的自动模式可供所有用户使用 / Auto mode in Copilot Chat available for all users",
+        "url": "https://github.blog/changelog/2026-06-17-auto-mode-in-copilot-chat-available-for-all-users",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -742,14 +1142,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7938,
-      "importance": 0.7938,
-      "importance_score": 0.7938,
+      "score": 0.7732,
+      "importance": 0.7732,
+      "importance_score": 0.7732,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9088,
+        "recency": 0.8062,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -802,14 +1202,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7906,
-      "importance": 0.7906,
-      "importance_score": 0.7906,
+      "score": 0.7701,
+      "importance": 0.7701,
+      "importance_score": 0.7701,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8932,
+        "recency": 0.7906,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -825,67 +1225,6 @@
         "url": "https://developers.googleblog.com/announcing-the-agentic-resource-discovery-specification",
         "source": "Google Developers Blog（RSS）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_6fad1bd8adc5",
-      "title": "企业管理的设置现在支持绕过权限控制 / Enterprise-managed settings now support bypass permission controls",
-      "url": "https://github.blog/changelog/2026-06-17-enterprise-managed-settings-now-support-bypass-permission-controls",
-      "primary_url": "https://github.blog/changelog/2026-06-17-enterprise-managed-settings-now-support-bypass-permission-controls",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "094f1aa5ed29d22919068afded61005163f4c2d9",
-          "title": "企业管理的设置现在支持绕过权限控制 / Enterprise-managed settings now support bypass permission controls",
-          "url": "https://github.blog/changelog/2026-06-17-enterprise-managed-settings-now-support-bypass-permission-controls",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-06-17T17:13:47Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "094f1aa5ed29d22919068afded61005163f4c2d9",
-          "title": "企业管理的设置现在支持绕过权限控制 / Enterprise-managed settings now support bypass permission controls",
-          "url": "https://github.blog/changelog/2026-06-17-enterprise-managed-settings-now-support-bypass-permission-controls",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-06-17T17:13:47Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8487,
-      "importance": 0.8487,
-      "importance_score": 0.8487,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.9385,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-06-17T17:13:47Z",
-      "latest_at": "2026-06-17T17:13:47Z",
-      "primary_item": {
-        "id": "094f1aa5ed29d22919068afded61005163f4c2d9",
-        "title": "企业管理的设置现在支持绕过权限控制 / Enterprise-managed settings now support bypass permission controls",
-        "url": "https://github.blog/changelog/2026-06-17-enterprise-managed-settings-now-support-bypass-permission-controls",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -923,14 +1262,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7878,
-      "importance": 0.7878,
-      "importance_score": 0.7878,
+      "score": 0.7672,
+      "importance": 0.7672,
+      "importance_score": 0.7672,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8788,
+        "recency": 0.7762,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -983,14 +1322,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8043,
-      "importance": 0.8043,
-      "importance_score": 0.8043,
+      "score": 0.7838,
+      "importance": 0.7838,
+      "importance_score": 0.7838,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.5966,
+        "recency": 0.4939,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1006,364 +1345,6 @@
         "title": "GLM-5.2：专为长期任务而设计 / GLM-5.2: Built for Long-Horizon Tasks",
         "url": "https://huggingface.co/blog/zai-org/glm-52-blog",
         "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_26ea9cd251fa",
-      "title": "Cloudflare 发布 Cloudflare One stack：智能体驱动的部署工具集",
-      "url": "https://blog.cloudflare.com/cloudflare-one-stack",
-      "primary_url": "https://blog.cloudflare.com/cloudflare-one-stack",
-      "source": "Cloudflare Blog",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "c74d86b6fd6c92801dc2e18b71da2ff2576746de",
-          "title": "Cloudflare 发布 Cloudflare One stack：智能体驱动的部署工具集",
-          "url": "https://blog.cloudflare.com/cloudflare-one-stack",
-          "source": "Cloudflare Blog",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-17T13:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Cloudflare Blog"
-      ],
-      "items": [
-        {
-          "id": "c74d86b6fd6c92801dc2e18b71da2ff2576746de",
-          "title": "Cloudflare 发布 Cloudflare One stack：智能体驱动的部署工具集",
-          "url": "https://blog.cloudflare.com/cloudflare-one-stack",
-          "source": "Cloudflare Blog",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-17T13:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7644,
-      "importance": 0.7644,
-      "importance_score": 0.7644,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7622,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-06-17T13:00:00Z",
-      "latest_at": "2026-06-17T13:00:00Z",
-      "primary_item": {
-        "id": "c74d86b6fd6c92801dc2e18b71da2ff2576746de",
-        "title": "Cloudflare 发布 Cloudflare One stack：智能体驱动的部署工具集",
-        "url": "https://blog.cloudflare.com/cloudflare-one-stack",
-        "source": "Cloudflare Blog",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_9f6c7f78ed73",
-      "title": "阿里云发布HappyOyster 1.0：一句话生成可实时交互的数字世界",
-      "url": "https://www.ithome.com/0/965/652.htm",
-      "primary_url": "https://www.ithome.com/0/965/652.htm",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "12de9c6969a1bac026a0eebc4f43228a8b791003",
-          "title": "阿里云发布HappyOyster 1.0：一句话生成可实时交互的数字世界",
-          "url": "https://www.ithome.com/0/965/652.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-17T12:46:59Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "12de9c6969a1bac026a0eebc4f43228a8b791003",
-          "title": "阿里云发布HappyOyster 1.0：一句话生成可实时交互的数字世界",
-          "url": "https://www.ithome.com/0/965/652.htm",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-17T12:46:59Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7626,
-      "importance": 0.7626,
-      "importance_score": 0.7626,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7532,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-06-17T12:46:59Z",
-      "latest_at": "2026-06-17T12:46:59Z",
-      "primary_item": {
-        "id": "12de9c6969a1bac026a0eebc4f43228a8b791003",
-        "title": "阿里云发布HappyOyster 1.0：一句话生成可实时交互的数字世界",
-        "url": "https://www.ithome.com/0/965/652.htm",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_61a4a670c9ee",
-      "title": "Wolfram 语言和 Mathematica 15 版发布：内置 AI 助手、符号音乐等新功能",
-      "url": "https://writings.stephenwolfram.com/2026/06/launching-version-15-of-wolfram-language-mathematica-built-in-useful-ai-lots-of-new-core-functionality",
-      "primary_url": "https://writings.stephenwolfram.com/2026/06/launching-version-15-of-wolfram-language-mathematica-built-in-useful-ai-lots-of-new-core-functionality",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "f9e2a86f0b433c417d01c65f50ac8f464695fd2b",
-          "title": "Wolfram 语言和 Mathematica 15 版发布：内置 AI 助手、符号音乐等新功能",
-          "url": "https://writings.stephenwolfram.com/2026/06/launching-version-15-of-wolfram-language-mathematica-built-in-useful-ai-lots-of-new-core-functionality",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-17T03:25:14Z"
-        },
-        {
-          "id": "a38a0d8d97acc3d58fc8e7bfaf5ae34202e6e8a3",
-          "title": "Wolfram 语言和 Mathematica 15 版、AI 助手、符号音乐等",
-          "url": "https://writings.stephenwolfram.com/2026/06/launching-version-15-of-wolfram-language-mathematica-built-in-useful-ai-lots-of-new-core-functionality",
-          "source": "writings.stephenwolfram.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-17T03:25:14.439000Z"
-        },
-        {
-          "id": "f01cdbd56e24fca32e0cd0e11316e7490ad75620",
-          "title": "Wolfram 语言和 Mathematica 15 版发布：内置 AI 助手、符号音乐等新功能 / Wolfram Language and Mathematica Version 15, AI Assistant, Symbolic Music, More",
-          "url": "https://writings.stephenwolfram.com/2026/06/launching-version-15-of-wolfram-language-mathematica-built-in-useful-ai-lots-of-new-core-functionality",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-06-16T23:15:44Z"
-        },
-        {
-          "id": "2e7e36a28713ba72bebca2554cace8a3e84840cb",
-          "title": "Wolfram 语言和 Mathematica 15 版发布：内置 AI 助手、符号音乐等新功能 / Wolfram Language and Mathematica version 15",
-          "url": "https://writings.stephenwolfram.com/2026/06/launching-version-15-of-wolfram-language-mathematica-built-in-useful-ai-lots-of-new-core-functionality",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-06-16T23:15:44Z"
-        }
-      ],
-      "source_count": 4,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "writings.stephenwolfram.com"
-      ],
-      "items": [
-        {
-          "id": "f9e2a86f0b433c417d01c65f50ac8f464695fd2b",
-          "title": "Wolfram 语言和 Mathematica 15 版发布：内置 AI 助手、符号音乐等新功能",
-          "url": "https://writings.stephenwolfram.com/2026/06/launching-version-15-of-wolfram-language-mathematica-built-in-useful-ai-lots-of-new-core-functionality",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-17T03:25:14Z"
-        },
-        {
-          "id": "a38a0d8d97acc3d58fc8e7bfaf5ae34202e6e8a3",
-          "title": "Wolfram 语言和 Mathematica 15 版、AI 助手、符号音乐等",
-          "url": "https://writings.stephenwolfram.com/2026/06/launching-version-15-of-wolfram-language-mathematica-built-in-useful-ai-lots-of-new-core-functionality",
-          "source": "writings.stephenwolfram.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-17T03:25:14.439000Z"
-        },
-        {
-          "id": "f01cdbd56e24fca32e0cd0e11316e7490ad75620",
-          "title": "Wolfram 语言和 Mathematica 15 版发布：内置 AI 助手、符号音乐等新功能 / Wolfram Language and Mathematica Version 15, AI Assistant, Symbolic Music, More",
-          "url": "https://writings.stephenwolfram.com/2026/06/launching-version-15-of-wolfram-language-mathematica-built-in-useful-ai-lots-of-new-core-functionality",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-06-16T23:15:44Z"
-        },
-        {
-          "id": "2e7e36a28713ba72bebca2554cace8a3e84840cb",
-          "title": "Wolfram 语言和 Mathematica 15 版发布：内置 AI 助手、符号音乐等新功能 / Wolfram Language and Mathematica version 15",
-          "url": "https://writings.stephenwolfram.com/2026/06/launching-version-15-of-wolfram-language-mathematica-built-in-useful-ai-lots-of-new-core-functionality",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-06-16T23:15:44Z"
-        }
-      ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.7596,
-      "importance": 0.7596,
-      "importance_score": 0.7596,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.3631,
-        "story_heat": 0.75
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-06-16T23:15:44Z",
-      "latest_at": "2026-06-17T03:25:14.439000Z",
-      "primary_item": {
-        "id": "f9e2a86f0b433c417d01c65f50ac8f464695fd2b",
-        "title": "Wolfram 语言和 Mathematica 15 版发布：内置 AI 助手、符号音乐等新功能",
-        "url": "https://writings.stephenwolfram.com/2026/06/launching-version-15-of-wolfram-language-mathematica-built-in-useful-ai-lots-of-new-core-functionality",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_c95c6a068481",
-      "title": "OpenAI被曝正筹备发布新一代双向语音模型“GPT-Bidi-1”",
-      "url": "https://www.aibase.com/news/28990",
-      "primary_url": "https://www.aibase.com/news/28990",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "3bceb974c266dab117ed2681d08dfbfb329cb562",
-          "title": "OpenAI被曝正筹备发布新一代双向语音模型“GPT-Bidi-1”",
-          "url": "https://www.aibase.com/news/28990",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-06-17T12:19:03.483993Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "3bceb974c266dab117ed2681d08dfbfb329cb562",
-          "title": "OpenAI被曝正筹备发布新一代双向语音模型“GPT-Bidi-1”",
-          "url": "https://www.aibase.com/news/28990",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-06-17T12:19:03.483993Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7588,
-      "importance": 0.7588,
-      "importance_score": 0.7588,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7338,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-06-17T12:19:03.483993Z",
-      "latest_at": "2026-06-17T12:19:03.483993Z",
-      "primary_item": {
-        "id": "3bceb974c266dab117ed2681d08dfbfb329cb562",
-        "title": "OpenAI被曝正筹备发布新一代双向语音模型“GPT-Bidi-1”",
-        "url": "https://www.aibase.com/news/28990",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_856133464961",
-      "title": "限制没有写访问权限的用户打开拉取请求 / Limit open pull requests for users without write access",
-      "url": "https://github.blog/changelog/2026-06-17-limit-open-pull-requests-for-users-without-write-access",
-      "primary_url": "https://github.blog/changelog/2026-06-17-limit-open-pull-requests-for-users-without-write-access",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "38dd7ffafedbde8afd465ffed1d262f4329e5f1b",
-          "title": "限制没有写访问权限的用户打开拉取请求 / Limit open pull requests for users without write access",
-          "url": "https://github.blog/changelog/2026-06-17-limit-open-pull-requests-for-users-without-write-access",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-06-17T16:23:56Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "38dd7ffafedbde8afd465ffed1d262f4329e5f1b",
-          "title": "限制没有写访问权限的用户打开拉取请求 / Limit open pull requests for users without write access",
-          "url": "https://github.blog/changelog/2026-06-17-limit-open-pull-requests-for-users-without-write-access",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-06-17T16:23:56Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8418,
-      "importance": 0.8418,
-      "importance_score": 0.8418,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.9039,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-06-17T16:23:56Z",
-      "latest_at": "2026-06-17T16:23:56Z",
-      "primary_item": {
-        "id": "38dd7ffafedbde8afd465ffed1d262f4329e5f1b",
-        "title": "限制没有写访问权限的用户打开拉取请求 / Limit open pull requests for users without write access",
-        "url": "https://github.blog/changelog/2026-06-17-limit-open-pull-requests-for-users-without-write-access",
-        "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     }
