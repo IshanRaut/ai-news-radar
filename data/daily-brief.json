@@ -1,109 +1,230 @@
 {
-  "generated_at": "2026-06-19T05:34:09.099198Z",
+  "generated_at": "2026-06-19T10:41:15.886565Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
-      "story_id": "story_43a940462463",
-      "title": "这家韩国电信巨头是Anthropic\"Mythos\"争议的焦点",
-      "url": "https://www.wired.com/story/[redacted-secret]",
-      "primary_url": "https://www.wired.com/story/[redacted-secret]",
+      "story_id": "story_8112b0a8a5be",
+      "title": "Humanize PPT v0.9：为演讲而生的开源PPT Skill",
+      "url": "https://mp.weixin.qq.com/s/rGoYnUcBRkfRKQPbIaawyg",
+      "primary_url": "https://mp.weixin.qq.com/s/rGoYnUcBRkfRKQPbIaawyg",
+      "source": "公众号：卡尔的AI沃茨",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "6cfa2fd31da2929fc88c17890b5c4a43e59321c0",
+          "title": "Humanize PPT v0.9：为演讲而生的开源PPT Skill",
+          "url": "https://mp.weixin.qq.com/s/rGoYnUcBRkfRKQPbIaawyg",
+          "source": "公众号：卡尔的AI沃茨",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-19T09:48:28Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "公众号：卡尔的AI沃茨"
+      ],
+      "items": [
+        {
+          "id": "6cfa2fd31da2929fc88c17890b5c4a43e59321c0",
+          "title": "Humanize PPT v0.9：为演讲而生的开源PPT Skill",
+          "url": "https://mp.weixin.qq.com/s/rGoYnUcBRkfRKQPbIaawyg",
+          "source": "公众号：卡尔的AI沃茨",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-19T09:48:28Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8047,
+      "importance": 0.8047,
+      "importance_score": 0.8047,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9633,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-19T09:48:28Z",
+      "latest_at": "2026-06-19T09:48:28Z",
+      "primary_item": {
+        "id": "6cfa2fd31da2929fc88c17890b5c4a43e59321c0",
+        "title": "Humanize PPT v0.9：为演讲而生的开源PPT Skill",
+        "url": "https://mp.weixin.qq.com/s/rGoYnUcBRkfRKQPbIaawyg",
+        "source": "公众号：卡尔的AI沃茨",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_d064b3eae2a9",
+      "title": "我们在 Elasticsearch 上构建了一个持久化代理内存层，其召回率为0.89",
+      "url": "https://www.elastic.co/search-labs/blog/agent-memory-elasticsearch",
+      "primary_url": "https://www.elastic.co/search-labs/blog/agent-memory-elasticsearch",
       "source": "Hacker News 热门（buzzing.cc 中文翻译）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "09cf5f59e090e95066695d82f7017c335690051d",
-          "title": "这家韩国电信巨头是Anthropic\"Mythos\"争议的焦点",
-          "url": "https://www.wired.com/story/[redacted-secret]",
+          "id": "2f6f11ace9b57f291b1fb01fa3b446081bdd5832",
+          "title": "我们在 Elasticsearch 上构建了一个持久化代理内存层，其召回率为0.89",
+          "url": "https://www.elastic.co/search-labs/blog/agent-memory-elasticsearch",
           "source": "Hacker News 热门（buzzing.cc 中文翻译）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-06-19T01:33:10Z"
+          "published_at": "2026-06-19T05:01:18Z"
         },
         {
-          "id": "3597dfb9b1572f104dbd35782f736ecdcf140c2b",
-          "title": "这家韩国电信巨头是Anthropic“Mythos”争议的焦点",
-          "url": "https://www.wired.com/story/[redacted-secret]",
-          "source": "www.wired.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-19T01:33:10.751000Z"
-        },
-        {
-          "id": "2550154934daa400717ced6176920aae035cf955",
-          "title": "韩国电信巨头处于 Anthropic 神话争议的中心 / The Korean telecom giant at the center of Anthropic's Mythos controversy",
-          "url": "https://www.wired.com/story/[redacted-secret]",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-06-18T12:44:09Z"
-        },
-        {
-          "id": "8b1e83b487abb2c7d6819000db48e28e6ee65a87",
-          "title": "这家韩国电信巨头是Anthropic\"Mythos\"争议的焦点 / The Korean telecom giant at the center of Anthropic's Mythos controversy",
-          "url": "https://www.wired.com/story/[redacted-secret]",
+          "id": "35845a5b78d15637e8c0122899de265ce1162228",
+          "title": "我们在 Elasticsearch 上构建了一个持久化代理内存层，其召回率为0.89 / We built a persistent agent memory layer on Elasticsearch with 0.89 recall",
+          "url": "https://www.elastic.co/search-labs/blog/agent-memory-elasticsearch",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-06-18T12:44:09Z"
+          "published_at": "2026-06-18T11:20:18Z"
         }
       ],
-      "source_count": 4,
+      "source_count": 2,
       "source_names": [
-        "Hacker News (黑客新闻)",
         "Hacker News · 24h最热",
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "www.wired.com"
+        "Hacker News 热门（buzzing.cc 中文翻译）"
       ],
       "items": [
         {
-          "id": "09cf5f59e090e95066695d82f7017c335690051d",
-          "title": "这家韩国电信巨头是Anthropic\"Mythos\"争议的焦点",
-          "url": "https://www.wired.com/story/[redacted-secret]",
+          "id": "2f6f11ace9b57f291b1fb01fa3b446081bdd5832",
+          "title": "我们在 Elasticsearch 上构建了一个持久化代理内存层，其召回率为0.89",
+          "url": "https://www.elastic.co/search-labs/blog/agent-memory-elasticsearch",
           "source": "Hacker News 热门（buzzing.cc 中文翻译）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-06-19T01:33:10Z"
+          "published_at": "2026-06-19T05:01:18Z"
         },
         {
-          "id": "3597dfb9b1572f104dbd35782f736ecdcf140c2b",
-          "title": "这家韩国电信巨头是Anthropic“Mythos”争议的焦点",
-          "url": "https://www.wired.com/story/[redacted-secret]",
-          "source": "www.wired.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-19T01:33:10.751000Z"
-        },
-        {
-          "id": "2550154934daa400717ced6176920aae035cf955",
-          "title": "韩国电信巨头处于 Anthropic 神话争议的中心 / The Korean telecom giant at the center of Anthropic's Mythos controversy",
-          "url": "https://www.wired.com/story/[redacted-secret]",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-06-18T12:44:09Z"
-        },
-        {
-          "id": "8b1e83b487abb2c7d6819000db48e28e6ee65a87",
-          "title": "这家韩国电信巨头是Anthropic\"Mythos\"争议的焦点 / The Korean telecom giant at the center of Anthropic's Mythos controversy",
-          "url": "https://www.wired.com/story/[redacted-secret]",
+          "id": "35845a5b78d15637e8c0122899de265ce1162228",
+          "title": "我们在 Elasticsearch 上构建了一个持久化代理内存层，其召回率为0.89 / We built a persistent agent memory layer on Elasticsearch with 0.89 recall",
+          "url": "https://www.elastic.co/search-labs/blog/agent-memory-elasticsearch",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-06-18T12:44:09Z"
+          "published_at": "2026-06-18T11:20:18Z"
         }
       ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.8535,
-      "importance": 0.8535,
-      "importance_score": 0.8535,
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7898,
+      "importance": 0.7898,
+      "importance_score": 0.7898,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7639,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-18T11:20:18Z",
+      "latest_at": "2026-06-19T05:01:18Z",
+      "primary_item": {
+        "id": "2f6f11ace9b57f291b1fb01fa3b446081bdd5832",
+        "title": "我们在 Elasticsearch 上构建了一个持久化代理内存层，其召回率为0.89",
+        "url": "https://www.elastic.co/search-labs/blog/agent-memory-elasticsearch",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_8d2f277efd93",
+      "title": "八部门联合发文力推\"人工智能 + 消费\"，扩大 AI 手机电脑及智能网联汽车消费",
+      "url": "https://www.ithome.com/0/966/295.htm",
+      "primary_url": "https://www.ithome.com/0/966/295.htm",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "31e504614dd0d6caadfbaa4eb8b6834ce92eccb4",
+          "title": "八部门联合发文力推\"人工智能 + 消费\"，扩大 AI 手机电脑及智能网联汽车消费",
+          "url": "https://www.ithome.com/0/966/295.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-18T23:56:08Z"
+        },
+        {
+          "id": "9b6421b74a99026eba9c8b589f4ba66792c87530",
+          "title": "八部门联合发文力推「人工智能 + 消费」，扩大 AI 手机电脑及智能网联汽车消费",
+          "url": "https://www.ithome.com/0/966/295.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "dac92555236efcfb4dd2b027e8dc73bac0447ff5",
+          "title": "八部门联合发文加快“人工智能 + 消费”发展，扩大 AI 手机电脑及智能网联汽车消费",
+          "url": "https://www.ithome.com/0/966/295.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-18T23:56:08Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "IT之家 (ITHome)",
+        "IT之家（RSS）",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "31e504614dd0d6caadfbaa4eb8b6834ce92eccb4",
+          "title": "八部门联合发文力推\"人工智能 + 消费\"，扩大 AI 手机电脑及智能网联汽车消费",
+          "url": "https://www.ithome.com/0/966/295.htm",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-18T23:56:08Z"
+        },
+        {
+          "id": "9b6421b74a99026eba9c8b589f4ba66792c87530",
+          "title": "八部门联合发文力推「人工智能 + 消费」，扩大 AI 手机电脑及智能网联汽车消费",
+          "url": "https://www.ithome.com/0/966/295.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "dac92555236efcfb4dd2b027e8dc73bac0447ff5",
+          "title": "八部门联合发文加快“人工智能 + 消费”发展，扩大 AI 手机电脑及智能网联汽车消费",
+          "url": "https://www.ithome.com/0/966/295.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-18T23:56:08Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.7724,
+      "importance": 0.7724,
+      "importance_score": 0.7724,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8326,
-        "story_heat": 0.75
+        "recency": 0.552,
+        "story_heat": 0.5
       },
       "category": "multi_source",
       "reasons": [
@@ -111,13 +232,13 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-06-18T12:44:09Z",
-      "latest_at": "2026-06-19T01:33:10.751000Z",
+      "earliest_at": "2026-06-18T23:56:08Z",
+      "latest_at": "2026-06-19T00:10:06.703144Z",
       "primary_item": {
-        "id": "09cf5f59e090e95066695d82f7017c335690051d",
-        "title": "这家韩国电信巨头是Anthropic\"Mythos\"争议的焦点",
-        "url": "https://www.wired.com/story/[redacted-secret]",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "id": "31e504614dd0d6caadfbaa4eb8b6834ce92eccb4",
+        "title": "八部门联合发文力推\"人工智能 + 消费\"，扩大 AI 手机电脑及智能网联汽车消费",
+        "url": "https://www.ithome.com/0/966/295.htm",
+        "source": "IT之家（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -156,14 +277,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8144,
-      "importance": 0.8144,
-      "importance_score": 0.8144,
+      "score": 0.7717,
+      "importance": 0.7717,
+      "importance_score": 0.7717,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.767,
+        "recency": 0.5537,
         "story_heat": 0.0
       },
       "category": "official",
@@ -217,14 +338,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8058,
-      "importance": 0.8058,
-      "importance_score": 0.8058,
+      "score": 0.7631,
+      "importance": 0.7631,
+      "importance_score": 0.7631,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9689,
+        "recency": 0.7557,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -277,14 +398,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.795,
-      "importance": 0.795,
-      "importance_score": 0.795,
+      "score": 0.7524,
+      "importance": 0.7524,
+      "importance_score": 0.7524,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9151,
+        "recency": 0.7019,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -356,14 +477,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7933,
-      "importance": 0.7933,
-      "importance_score": 0.7933,
+      "score": 0.7506,
+      "importance": 0.7506,
+      "importance_score": 0.7506,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.4763,
+        "recency": 0.263,
         "story_heat": 0.25
       },
       "category": "official",
@@ -418,20 +539,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7884,
-      "importance": 0.7884,
-      "importance_score": 0.7884,
+      "score": 0.7457,
+      "importance": 0.7457,
+      "importance_score": 0.7457,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.882,
+        "recency": 0.6687,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-06-19T02:44:12Z",
       "latest_at": "2026-06-19T02:44:12Z",
@@ -535,21 +655,20 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.7826,
-      "importance": 0.7826,
-      "importance_score": 0.7826,
+      "score": 0.74,
+      "importance": 0.74,
+      "importance_score": 0.74,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.4782,
+        "recency": 0.265,
         "story_heat": 0.75
       },
       "category": "multi_source",
       "reasons": [
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-06-18T17:02:49Z",
       "latest_at": "2026-06-18T20:00:00Z",
@@ -596,14 +715,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7988,
-      "importance": 0.7988,
-      "importance_score": 0.7988,
+      "score": 0.7561,
+      "importance": 0.7561,
+      "importance_score": 0.7561,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9338,
+        "recency": 0.7205,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -656,14 +775,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7948,
-      "importance": 0.7948,
-      "importance_score": 0.7948,
+      "score": 0.7522,
+      "importance": 0.7522,
+      "importance_score": 0.7522,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.6092,
+        "recency": 0.3959,
         "story_heat": 0.0
       },
       "category": "official",
@@ -717,20 +836,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7635,
-      "importance": 0.7635,
-      "importance_score": 0.7635,
+      "score": 0.7209,
+      "importance": 0.7209,
+      "importance_score": 0.7209,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7576,
+        "recency": 0.5443,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-06-18T23:45:03Z",
       "latest_at": "2026-06-18T23:45:03Z",
@@ -796,21 +914,20 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7572,
-      "importance": 0.7572,
-      "importance_score": 0.7572,
-      "importance_label": "行业动态",
+      "score": 0.7145,
+      "importance": 0.7145,
+      "importance_score": 0.7145,
+      "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6008,
+        "recency": 0.3876,
         "story_heat": 0.25
       },
-      "category": "industry",
+      "category": "watch",
       "reasons": [
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-06-18T19:59:22Z",
       "latest_at": "2026-06-18T19:59:22Z",
@@ -819,6 +936,65 @@
         "title": "OpenAI IPO前连下两城：招揽Transformer共同作者及前白宫AI政策官员",
         "url": "https://techcrunch.com/2026/06/18/openai-is-bringing-on-some-big-guns-in-the-lead-up-to-its-ipo",
         "source": "TechCrunch：AI（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_43a940462463",
+      "title": "这家韩国电信巨头是Anthropic\"Mythos\"争议的焦点",
+      "url": "https://www.wired.com/story/[redacted-secret]",
+      "primary_url": "https://www.wired.com/story/[redacted-secret]",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "09cf5f59e090e95066695d82f7017c335690051d",
+          "title": "这家韩国电信巨头是Anthropic\"Mythos\"争议的焦点",
+          "url": "https://www.wired.com/story/[redacted-secret]",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-19T01:33:10Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）"
+      ],
+      "items": [
+        {
+          "id": "09cf5f59e090e95066695d82f7017c335690051d",
+          "title": "这家韩国电信巨头是Anthropic\"Mythos\"争议的焦点",
+          "url": "https://www.wired.com/story/[redacted-secret]",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-19T01:33:10Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7359,
+      "importance": 0.7359,
+      "importance_score": 0.7359,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.6194,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-06-19T01:33:10Z",
+      "latest_at": "2026-06-19T01:33:10Z",
+      "primary_item": {
+        "id": "09cf5f59e090e95066695d82f7017c335690051d",
+        "title": "这家韩国电信巨头是Anthropic\"Mythos\"争议的焦点",
+        "url": "https://www.wired.com/story/[redacted-secret]",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
       }
     },
@@ -876,17 +1052,17 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7424,
-      "importance": 0.7424,
-      "importance_score": 0.7424,
-      "importance_label": "行业动态",
+      "score": 0.6998,
+      "importance": 0.6998,
+      "importance_score": 0.6998,
+      "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.5271,
+        "recency": 0.3139,
         "story_heat": 0.25
       },
-      "category": "industry",
+      "category": "watch",
       "reasons": [
         "multi_source",
         "high_ai_relevance"
@@ -936,21 +1112,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7866,
-      "importance": 0.7866,
-      "importance_score": 0.7866,
+      "score": 0.7439,
+      "importance": 0.7439,
+      "importance_score": 0.7439,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.5678,
+        "recency": 0.3546,
         "story_heat": 0.0
       },
       "category": "official",
       "reasons": [
         "official_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-06-18T19:11:51Z",
       "latest_at": "2026-06-18T19:11:51Z",
@@ -960,65 +1135,6 @@
         "url": "https://github.blog/changelog/2026-06-18-copilot-code-review-agents-md-support-and-ui-improvements",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_08eaedcc2c06",
-      "title": "OpenAI 升级 ChatGPT 医疗能力：GPT-5.5 Instant 达到 Thinking 模型水平，免费可用",
-      "url": "https://the-decoder.com/chatgpts-new-health-upgrade-beats-doctor-written-answers-openai-says",
-      "primary_url": "https://the-decoder.com/chatgpts-new-health-upgrade-beats-doctor-written-answers-openai-says",
-      "source": "The Decoder：AI News（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "d019df7b4b7f84f2d58c31319373049d9cf1a445",
-          "title": "OpenAI 升级 ChatGPT 医疗能力：GPT-5.5 Instant 达到 Thinking 模型水平，免费可用",
-          "url": "https://the-decoder.com/chatgpts-new-health-upgrade-beats-doctor-written-answers-openai-says",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-18T19:17:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "The Decoder：AI News（RSS）"
-      ],
-      "items": [
-        {
-          "id": "d019df7b4b7f84f2d58c31319373049d9cf1a445",
-          "title": "OpenAI 升级 ChatGPT 医疗能力：GPT-5.5 Instant 达到 Thinking 模型水平，免费可用",
-          "url": "https://the-decoder.com/chatgpts-new-health-upgrade-beats-doctor-written-answers-openai-says",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-18T19:17:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7263,
-      "importance": 0.7263,
-      "importance_score": 0.7263,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5714,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-18T19:17:00Z",
-      "latest_at": "2026-06-18T19:17:00Z",
-      "primary_item": {
-        "id": "d019df7b4b7f84f2d58c31319373049d9cf1a445",
-        "title": "OpenAI 升级 ChatGPT 医疗能力：GPT-5.5 Instant 达到 Thinking 模型水平，免费可用",
-        "url": "https://the-decoder.com/chatgpts-new-health-upgrade-beats-doctor-written-answers-openai-says",
-        "source": "The Decoder：AI News（RSS）",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -1075,22 +1191,21 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7553,
-      "importance": 0.7553,
-      "importance_score": 0.7553,
+      "score": 0.7126,
+      "importance": 0.7126,
+      "importance_score": 0.7126,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.2263,
+        "recency": 0.013,
         "story_heat": 0.25
       },
       "category": "official",
       "reasons": [
         "official_source",
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-06-18T11:00:00Z",
       "latest_at": "2026-06-18T11:00:00Z",
@@ -1100,124 +1215,6 @@
         "url": "https://openai.com/index/improving-health-intelligence-in-chatgpt",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_f64b3d29c984",
-      "title": "OpenClaw 接入 OpenRouter",
-      "url": "https://openrouter.ai/blog/tutorials/openclaw-openrouter",
-      "primary_url": "https://openrouter.ai/blog/tutorials/openclaw-openrouter",
-      "source": "OpenRouter：Announcements（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "5890c934d266cccea4068354758b037b969adf0b",
-          "title": "OpenClaw 接入 OpenRouter",
-          "url": "https://openrouter.ai/blog/tutorials/openclaw-openrouter",
-          "source": "OpenRouter：Announcements（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-18T19:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenRouter：Announcements（RSS）"
-      ],
-      "items": [
-        {
-          "id": "5890c934d266cccea4068354758b037b969adf0b",
-          "title": "OpenClaw 接入 OpenRouter",
-          "url": "https://openrouter.ai/blog/tutorials/openclaw-openrouter",
-          "source": "OpenRouter：Announcements（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-18T19:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7239,
-      "importance": 0.7239,
-      "importance_score": 0.7239,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5596,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-18T19:00:00Z",
-      "latest_at": "2026-06-18T19:00:00Z",
-      "primary_item": {
-        "id": "5890c934d266cccea4068354758b037b969adf0b",
-        "title": "OpenClaw 接入 OpenRouter",
-        "url": "https://openrouter.ai/blog/tutorials/openclaw-openrouter",
-        "source": "OpenRouter：Announcements（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_6cd28c156a1c",
-      "title": "Claude Code 现已支持 artifacts",
-      "url": "https://claude.com/blog/artifacts-in-claude-code",
-      "primary_url": "https://claude.com/blog/artifacts-in-claude-code",
-      "source": "Claude：Blog（网页）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "8beb9ec23f877961a60c262053d989704feceb35",
-          "title": "Claude Code 现已支持 artifacts",
-          "url": "https://claude.com/blog/artifacts-in-claude-code",
-          "source": "Claude：Blog（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-18T18:54:47Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Claude：Blog（网页）"
-      ],
-      "items": [
-        {
-          "id": "8beb9ec23f877961a60c262053d989704feceb35",
-          "title": "Claude Code 现已支持 artifacts",
-          "url": "https://claude.com/blog/artifacts-in-claude-code",
-          "source": "Claude：Blog（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-18T18:54:47Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7232,
-      "importance": 0.7232,
-      "importance_score": 0.7232,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.556,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-18T18:54:47Z",
-      "latest_at": "2026-06-18T18:54:47Z",
-      "primary_item": {
-        "id": "8beb9ec23f877961a60c262053d989704feceb35",
-        "title": "Claude Code 现已支持 artifacts",
-        "url": "https://claude.com/blog/artifacts-in-claude-code",
-        "source": "Claude：Blog（网页）",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -1274,17 +1271,17 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7391,
-      "importance": 0.7391,
-      "importance_score": 0.7391,
-      "importance_label": "行业动态",
+      "score": 0.6965,
+      "importance": 0.6965,
+      "importance_score": 0.6965,
+      "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.5106,
+        "recency": 0.2973,
         "story_heat": 0.25
       },
-      "category": "industry",
+      "category": "watch",
       "reasons": [
         "multi_source",
         "high_ai_relevance"
@@ -1297,6 +1294,66 @@
         "url": "https://techcrunch.com/2026/06/18/ai-data-centers-just-got-a-government-mandated-fast-lane-to-the-grid",
         "source": "TechCrunch：AI（RSS）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_33dd1d19c265",
+      "title": "检测重复问题 – 公共预览版和问题字段 MCP 对 GitHub 问题的支持 / Detecting Duplicate Issues – Public Preview and issue fields MCP support for GitHub Issues",
+      "url": "https://github.blog/changelog/2026-06-18-duplicate-detection-and-issue-fields-mcp-support-for-github-issues",
+      "primary_url": "https://github.blog/changelog/2026-06-18-duplicate-detection-and-issue-fields-mcp-support-for-github-issues",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "b7220a3a5665e6b0369b14118a53f9a409679b1d",
+          "title": "检测重复问题 – 公共预览版和问题字段 MCP 对 GitHub 问题的支持 / Detecting Duplicate Issues – Public Preview and issue fields MCP support for GitHub Issues",
+          "url": "https://github.blog/changelog/2026-06-18-duplicate-detection-and-issue-fields-mcp-support-for-github-issues",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-06-18T18:04:33Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "b7220a3a5665e6b0369b14118a53f9a409679b1d",
+          "title": "检测重复问题 – 公共预览版和问题字段 MCP 对 GitHub 问题的支持 / Detecting Duplicate Issues – Public Preview and issue fields MCP support for GitHub Issues",
+          "url": "https://github.blog/changelog/2026-06-18-duplicate-detection-and-issue-fields-mcp-support-for-github-issues",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-06-18T18:04:33Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7346,
+      "importance": 0.7346,
+      "importance_score": 0.7346,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.3078,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-06-18T18:04:33Z",
+      "latest_at": "2026-06-18T18:04:33Z",
+      "primary_item": {
+        "id": "b7220a3a5665e6b0369b14118a53f9a409679b1d",
+        "title": "检测重复问题 – 公共预览版和问题字段 MCP 对 GitHub 问题的支持 / Detecting Duplicate Issues – Public Preview and issue fields MCP support for GitHub Issues",
+        "url": "https://github.blog/changelog/2026-06-18-duplicate-detection-and-issue-fields-mcp-support-for-github-issues",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -1353,14 +1410,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6922,
-      "importance": 0.6922,
-      "importance_score": 0.6922,
+      "score": 0.6495,
+      "importance": 0.6495,
+      "importance_score": 0.6495,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.276,
+        "recency": 0.0627,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1376,67 +1433,6 @@
         "url": "https://www.ithome.com/0/966/233.htm",
         "source": "IT之家（RSS）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_33dd1d19c265",
-      "title": "检测重复问题 – 公共预览版和问题字段 MCP 对 GitHub 问题的支持 / Detecting Duplicate Issues – Public Preview and issue fields MCP support for GitHub Issues",
-      "url": "https://github.blog/changelog/2026-06-18-duplicate-detection-and-issue-fields-mcp-support-for-github-issues",
-      "primary_url": "https://github.blog/changelog/2026-06-18-duplicate-detection-and-issue-fields-mcp-support-for-github-issues",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "b7220a3a5665e6b0369b14118a53f9a409679b1d",
-          "title": "检测重复问题 – 公共预览版和问题字段 MCP 对 GitHub 问题的支持 / Detecting Duplicate Issues – Public Preview and issue fields MCP support for GitHub Issues",
-          "url": "https://github.blog/changelog/2026-06-18-duplicate-detection-and-issue-fields-mcp-support-for-github-issues",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-06-18T18:04:33Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "b7220a3a5665e6b0369b14118a53f9a409679b1d",
-          "title": "检测重复问题 – 公共预览版和问题字段 MCP 对 GitHub 问题的支持 / Detecting Duplicate Issues – Public Preview and issue fields MCP support for GitHub Issues",
-          "url": "https://github.blog/changelog/2026-06-18-duplicate-detection-and-issue-fields-mcp-support-for-github-issues",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-06-18T18:04:33Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7772,
-      "importance": 0.7772,
-      "importance_score": 0.7772,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.5211,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-06-18T18:04:33Z",
-      "latest_at": "2026-06-18T18:04:33Z",
-      "primary_item": {
-        "id": "b7220a3a5665e6b0369b14118a53f9a409679b1d",
-        "title": "检测重复问题 – 公共预览版和问题字段 MCP 对 GitHub 问题的支持 / Detecting Duplicate Issues – Public Preview and issue fields MCP support for GitHub Issues",
-        "url": "https://github.blog/changelog/2026-06-18-duplicate-detection-and-issue-fields-mcp-support-for-github-issues",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
       }
     }
   ]
