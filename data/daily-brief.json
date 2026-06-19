@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-18T22:12:18.522099Z",
+  "generated_at": "2026-06-19T00:10:06.703144Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,14 +38,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8562,
-      "importance": 0.8562,
-      "importance_score": 0.8562,
+      "score": 0.8398,
+      "importance": 0.8398,
+      "importance_score": 0.8398,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.916,
+        "recency": 0.8342,
         "story_heat": 0.0
       },
       "category": "official",
@@ -118,14 +118,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8546,
-      "importance": 0.8546,
-      "importance_score": 0.8546,
+      "score": 0.8383,
+      "importance": 0.8383,
+      "importance_score": 0.8383,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7831,
+        "recency": 0.7013,
         "story_heat": 0.25
       },
       "category": "official",
@@ -237,14 +237,14 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.844,
-      "importance": 0.844,
-      "importance_score": 0.844,
+      "score": 0.8277,
+      "importance": 0.8277,
+      "importance_score": 0.8277,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7851,
+        "recency": 0.7033,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -260,6 +260,146 @@
         "title": "伯尼·桑德斯提出7万亿美元AI计划：对大型AI公司征收50%股票税",
         "url": "https://arstechnica.com/tech-policy/2026/06/bernie-sanders-unveils-7-trillion-plan-to-give-americans-control-of-ai-industry",
         "source": "Ars Technica：AI（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_f1c46e9ab12a",
+      "title": "AI 员工 Viktor 登陆 Microsoft Teams，年化收入达 2000 万美元",
+      "url": "https://x.com/rohanpaul_ai/status/2067755504613613699",
+      "primary_url": "https://x.com/rohanpaul_ai/status/2067755504613613699",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "d059bbe93c69bc3f33ffaef1aec7a92e694c1d7a",
+          "title": "AI 员工 Viktor 登陆 Microsoft Teams，年化收入达 2000 万美元",
+          "url": "https://x.com/rohanpaul_ai/status/2067755504613613699",
+          "source": "X：Rohan Paul (@rohanpaul_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-18T23:45:03Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Rohan Paul (@rohanpaul_ai)"
+      ],
+      "items": [
+        {
+          "id": "d059bbe93c69bc3f33ffaef1aec7a92e694c1d7a",
+          "title": "AI 员工 Viktor 登陆 Microsoft Teams，年化收入达 2000 万美元",
+          "url": "https://x.com/rohanpaul_ai/status/2067755504613613699",
+          "source": "X：Rohan Paul (@rohanpaul_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-18T23:45:03Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8085,
+      "importance": 0.8085,
+      "importance_score": 0.8085,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9826,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-18T23:45:03Z",
+      "latest_at": "2026-06-18T23:45:03Z",
+      "primary_item": {
+        "id": "d059bbe93c69bc3f33ffaef1aec7a92e694c1d7a",
+        "title": "AI 员工 Viktor 登陆 Microsoft Teams，年化收入达 2000 万美元",
+        "url": "https://x.com/rohanpaul_ai/status/2067755504613613699",
+        "source": "X：Rohan Paul (@rohanpaul_ai)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_d9be48ef0825",
+      "title": "OpenAI IPO前连下两城：招揽Transformer共同作者及前白宫AI政策官员",
+      "url": "https://techcrunch.com/2026/06/18/openai-is-bringing-on-some-big-guns-in-the-lead-up-to-its-ipo",
+      "primary_url": "https://techcrunch.com/2026/06/18/openai-is-bringing-on-some-big-guns-in-the-lead-up-to-its-ipo",
+      "source": "TechCrunch：AI（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "47110deb7f3e162cc8901d23c0373ad57da4d3a1",
+          "title": "OpenAI IPO前连下两城：招揽Transformer共同作者及前白宫AI政策官员",
+          "url": "https://techcrunch.com/2026/06/18/openai-is-bringing-on-some-big-guns-in-the-lead-up-to-its-ipo",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-18T19:59:22Z"
+        },
+        {
+          "id": "6e30390ac2a3c0dbb1b58c7cdb702a95207f9dd3",
+          "title": "OpenAI IPO前连下两城：招揽Transformer共同作者及前白宫AI政策官员 / OpenAI is bringing on some big guns in the lead-up to its IPO",
+          "url": "https://techcrunch.com/2026/06/18/openai-is-bringing-on-some-big-guns-in-the-lead-up-to-its-ipo",
+          "source": "TechCrunch",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-06-18T19:59:22Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "TechCrunch",
+        "TechCrunch：AI（RSS）"
+      ],
+      "items": [
+        {
+          "id": "47110deb7f3e162cc8901d23c0373ad57da4d3a1",
+          "title": "OpenAI IPO前连下两城：招揽Transformer共同作者及前白宫AI政策官员",
+          "url": "https://techcrunch.com/2026/06/18/openai-is-bringing-on-some-big-guns-in-the-lead-up-to-its-ipo",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-18T19:59:22Z"
+        },
+        {
+          "id": "6e30390ac2a3c0dbb1b58c7cdb702a95207f9dd3",
+          "title": "OpenAI IPO前连下两城：招揽Transformer共同作者及前白宫AI政策官员 / OpenAI is bringing on some big guns in the lead-up to its IPO",
+          "url": "https://techcrunch.com/2026/06/18/openai-is-bringing-on-some-big-guns-in-the-lead-up-to-its-ipo",
+          "source": "TechCrunch",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-06-18T19:59:22Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8022,
+      "importance": 0.8022,
+      "importance_score": 0.8022,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8259,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-18T19:59:22Z",
+      "latest_at": "2026-06-18T19:59:22Z",
+      "primary_item": {
+        "id": "47110deb7f3e162cc8901d23c0373ad57da4d3a1",
+        "title": "OpenAI IPO前连下两城：招揽Transformer共同作者及前白宫AI政策官员",
+        "url": "https://techcrunch.com/2026/06/18/openai-is-bringing-on-some-big-guns-in-the-lead-up-to-its-ipo",
+        "source": "TechCrunch：AI（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -298,14 +438,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8479,
-      "importance": 0.8479,
-      "importance_score": 0.8479,
+      "score": 0.8316,
+      "importance": 0.8316,
+      "importance_score": 0.8316,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8747,
+        "recency": 0.7929,
         "story_heat": 0.0
       },
       "category": "official",
@@ -378,14 +518,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8038,
-      "importance": 0.8038,
-      "importance_score": 0.8038,
+      "score": 0.7874,
+      "importance": 0.7874,
+      "importance_score": 0.7874,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.834,
+        "recency": 0.7522,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -401,86 +541,6 @@
         "title": "MosaicLeaks： 你的研究智能体能保守秘密吗？",
         "url": "https://huggingface.co/blog/ServiceNow/mosaicleaks",
         "source": "Hugging Face：Blog（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_04102f06967f",
-      "title": "AI数据中心获政府强制电网快车道",
-      "url": "https://techcrunch.com/2026/06/18/ai-data-centers-just-got-a-government-mandated-fast-lane-to-the-grid",
-      "primary_url": "https://techcrunch.com/2026/06/18/ai-data-centers-just-got-a-government-mandated-fast-lane-to-the-grid",
-      "source": "TechCrunch：AI（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "776428020e6d5ff0ea46776e3abaa17a6c025c8e",
-          "title": "AI数据中心获政府强制电网快车道",
-          "url": "https://techcrunch.com/2026/06/18/ai-data-centers-just-got-a-government-mandated-fast-lane-to-the-grid",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-18T17:49:23Z"
-        },
-        {
-          "id": "3d52b11d73d39a549a9efb1d5959ab642679ad49",
-          "title": "AI数据中心获政府强制电网快车道 / AI data centers just got a government-mandated fast lane to the grid",
-          "url": "https://techcrunch.com/2026/06/18/ai-data-centers-just-got-a-government-mandated-fast-lane-to-the-grid",
-          "source": "TechCrunch",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-06-18T17:49:23Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "TechCrunch",
-        "TechCrunch：AI（RSS）"
-      ],
-      "items": [
-        {
-          "id": "776428020e6d5ff0ea46776e3abaa17a6c025c8e",
-          "title": "AI数据中心获政府强制电网快车道",
-          "url": "https://techcrunch.com/2026/06/18/ai-data-centers-just-got-a-government-mandated-fast-lane-to-the-grid",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-18T17:49:23Z"
-        },
-        {
-          "id": "3d52b11d73d39a549a9efb1d5959ab642679ad49",
-          "title": "AI数据中心获政府强制电网快车道 / AI data centers just got a government-mandated fast lane to the grid",
-          "url": "https://techcrunch.com/2026/06/18/ai-data-centers-just-got-a-government-mandated-fast-lane-to-the-grid",
-          "source": "TechCrunch",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-06-18T17:49:23Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8005,
-      "importance": 0.8005,
-      "importance_score": 0.8005,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8174,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-06-18T17:49:23Z",
-      "latest_at": "2026-06-18T17:49:23Z",
-      "primary_item": {
-        "id": "776428020e6d5ff0ea46776e3abaa17a6c025c8e",
-        "title": "AI数据中心获政府强制电网快车道",
-        "url": "https://techcrunch.com/2026/06/18/ai-data-centers-just-got-a-government-mandated-fast-lane-to-the-grid",
-        "source": "TechCrunch：AI（RSS）",
         "source_name": "AI HOT"
       }
     },
@@ -576,14 +636,14 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.7972,
-      "importance": 0.7972,
-      "importance_score": 0.7972,
+      "score": 0.7808,
+      "importance": 0.7808,
+      "importance_score": 0.7808,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.5508,
+        "recency": 0.469,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -637,14 +697,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7877,
-      "importance": 0.7877,
-      "importance_score": 0.7877,
+      "score": 0.7713,
+      "importance": 0.7713,
+      "importance_score": 0.7713,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8783,
+        "recency": 0.7965,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -716,14 +776,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8166,
-      "importance": 0.8166,
-      "importance_score": 0.8166,
+      "score": 0.8003,
+      "importance": 0.8003,
+      "importance_score": 0.8003,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.5331,
+        "recency": 0.4513,
         "story_heat": 0.25
       },
       "category": "official",
@@ -778,14 +838,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7846,
-      "importance": 0.7846,
-      "importance_score": 0.7846,
+      "score": 0.7682,
+      "importance": 0.7682,
+      "importance_score": 0.7682,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8628,
+        "recency": 0.781,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -838,14 +898,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7805,
-      "importance": 0.7805,
-      "importance_score": 0.7805,
+      "score": 0.7641,
+      "importance": 0.7641,
+      "importance_score": 0.7641,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8423,
+        "recency": 0.7605,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -898,14 +958,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8386,
-      "importance": 0.8386,
-      "importance_score": 0.8386,
+      "score": 0.8222,
+      "importance": 0.8222,
+      "importance_score": 0.8222,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8279,
+        "recency": 0.7461,
         "story_heat": 0.0
       },
       "category": "official",
@@ -922,6 +982,146 @@
         "url": "https://github.blog/changelog/2026-06-18-duplicate-detection-and-issue-fields-mcp-support-for-github-issues",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_21c045b00686",
+      "title": "OpenAI 强化学习实现广泛且持久的有益模型",
+      "url": "https://alignment.openai.com/beneficial-rl",
+      "primary_url": "https://alignment.openai.com/beneficial-rl",
+      "source": "OpenAI：Alignment 研究博客（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "9d1037e8f6df1b416dc04cd8e03558a341b85422",
+          "title": "OpenAI 强化学习实现广泛且持久的有益模型",
+          "url": "https://alignment.openai.com/beneficial-rl",
+          "source": "OpenAI：Alignment 研究博客（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-18T18:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI：Alignment 研究博客（RSS）"
+      ],
+      "items": [
+        {
+          "id": "9d1037e8f6df1b416dc04cd8e03558a341b85422",
+          "title": "OpenAI 强化学习实现广泛且持久的有益模型",
+          "url": "https://alignment.openai.com/beneficial-rl",
+          "source": "OpenAI：Alignment 研究博客（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-18T18:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7606,
+      "importance": 0.7606,
+      "importance_score": 0.7606,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.743,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-18T18:00:00Z",
+      "latest_at": "2026-06-18T18:00:00Z",
+      "primary_item": {
+        "id": "9d1037e8f6df1b416dc04cd8e03558a341b85422",
+        "title": "OpenAI 强化学习实现广泛且持久的有益模型",
+        "url": "https://alignment.openai.com/beneficial-rl",
+        "source": "OpenAI：Alignment 研究博客（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_04102f06967f",
+      "title": "AI数据中心获政府强制电网快车道",
+      "url": "https://techcrunch.com/2026/06/18/ai-data-centers-just-got-a-government-mandated-fast-lane-to-the-grid",
+      "primary_url": "https://techcrunch.com/2026/06/18/ai-data-centers-just-got-a-government-mandated-fast-lane-to-the-grid",
+      "source": "TechCrunch：AI（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "776428020e6d5ff0ea46776e3abaa17a6c025c8e",
+          "title": "AI数据中心获政府强制电网快车道",
+          "url": "https://techcrunch.com/2026/06/18/ai-data-centers-just-got-a-government-mandated-fast-lane-to-the-grid",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-18T17:49:23Z"
+        },
+        {
+          "id": "3d52b11d73d39a549a9efb1d5959ab642679ad49",
+          "title": "AI数据中心获政府强制电网快车道 / AI data centers just got a government-mandated fast lane to the grid",
+          "url": "https://techcrunch.com/2026/06/18/ai-data-centers-just-got-a-government-mandated-fast-lane-to-the-grid",
+          "source": "TechCrunch",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-06-18T17:49:23Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "TechCrunch",
+        "TechCrunch：AI（RSS）"
+      ],
+      "items": [
+        {
+          "id": "776428020e6d5ff0ea46776e3abaa17a6c025c8e",
+          "title": "AI数据中心获政府强制电网快车道",
+          "url": "https://techcrunch.com/2026/06/18/ai-data-centers-just-got-a-government-mandated-fast-lane-to-the-grid",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-18T17:49:23Z"
+        },
+        {
+          "id": "3d52b11d73d39a549a9efb1d5959ab642679ad49",
+          "title": "AI数据中心获政府强制电网快车道 / AI data centers just got a government-mandated fast lane to the grid",
+          "url": "https://techcrunch.com/2026/06/18/ai-data-centers-just-got-a-government-mandated-fast-lane-to-the-grid",
+          "source": "TechCrunch",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-06-18T17:49:23Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7841,
+      "importance": 0.7841,
+      "importance_score": 0.7841,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7356,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-18T17:49:23Z",
+      "latest_at": "2026-06-18T17:49:23Z",
+      "primary_item": {
+        "id": "776428020e6d5ff0ea46776e3abaa17a6c025c8e",
+        "title": "AI数据中心获政府强制电网快车道",
+        "url": "https://techcrunch.com/2026/06/18/ai-data-centers-just-got-a-government-mandated-fast-lane-to-the-grid",
+        "source": "TechCrunch：AI（RSS）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -959,14 +1159,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7689,
-      "importance": 0.7689,
-      "importance_score": 0.7689,
+      "score": 0.7526,
+      "importance": 0.7526,
+      "importance_score": 0.7526,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7846,
+        "recency": 0.7028,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1019,20 +1219,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7634,
-      "importance": 0.7634,
-      "importance_score": 0.7634,
+      "score": 0.7471,
+      "importance": 0.7471,
+      "importance_score": 0.7471,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7571,
+        "recency": 0.6753,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-06-18T16:22:33Z",
       "latest_at": "2026-06-18T16:22:33Z",
@@ -1098,21 +1297,20 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7536,
-      "importance": 0.7536,
-      "importance_score": 0.7536,
+      "score": 0.7372,
+      "importance": 0.7372,
+      "importance_score": 0.7372,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.5828,
+        "recency": 0.501,
         "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-06-18T12:11:32Z",
       "latest_at": "2026-06-18T12:56:28.424859Z",
@@ -1159,14 +1357,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7758,
-      "importance": 0.7758,
-      "importance_score": 0.7758,
+      "score": 0.7594,
+      "importance": 0.7594,
+      "importance_score": 0.7594,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8189,
+        "recency": 0.7371,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1182,65 +1380,6 @@
         "url": "https://claude.com/blog/enterprise-managed-auth",
         "source": "Claude：Blog（网页）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_c24c0753ac40",
-      "title": "联想推出百应AI主机300：赋能中小企业的“算力加速器”",
-      "url": "https://www.aibase.com/news/29022",
-      "primary_url": "https://www.aibase.com/news/29022",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "365f870b0a6035e75993f72f6e555cdc126da20c",
-          "title": "联想推出百应AI主机300：赋能中小企业的“算力加速器”",
-          "url": "https://www.aibase.com/news/29022",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-06-18T12:56:28.424859Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "365f870b0a6035e75993f72f6e555cdc126da20c",
-          "title": "联想推出百应AI主机300：赋能中小企业的“算力加速器”",
-          "url": "https://www.aibase.com/news/29022",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-06-18T12:56:28.424859Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7348,
-      "importance": 0.7348,
-      "importance_score": 0.7348,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.614,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-18T12:56:28.424859Z",
-      "latest_at": "2026-06-18T12:56:28.424859Z",
-      "primary_item": {
-        "id": "365f870b0a6035e75993f72f6e555cdc126da20c",
-        "title": "联想推出百应AI主机300：赋能中小企业的“算力加速器”",
-        "url": "https://www.aibase.com/news/29022",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     },
     {
@@ -1278,14 +1417,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8246,
-      "importance": 0.8246,
-      "importance_score": 0.8246,
+      "score": 0.8083,
+      "importance": 0.8083,
+      "importance_score": 0.8083,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7582,
+        "recency": 0.6764,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1301,165 +1440,6 @@
         "title": "Copilot 创作的拉取请求现已包含在作者搜索中 / Copilot-authored pull requests now included in author searches",
         "url": "https://github.blog/changelog/2026-06-18-copilot-authored-pull-requests-now-included-in-author-searches",
         "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_91992ed9f82d",
-      "title": "法典 CLI 0.141.0 / Codex CLI 0.141.0",
-      "url": "https://developers.openai.com/codex/changelog",
-      "primary_url": "https://developers.openai.com/codex/changelog",
-      "source": "OpenAI Codex Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "0456c8d5a0d56205795e8eb2712514f19e860335",
-          "title": "法典 CLI 0.141.0 / Codex CLI 0.141.0",
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-06-18T00:00:00Z"
-        },
-        {
-          "id": "58439895fb798798a16e2b39cf2320c57d74b739",
-          "title": "法典应用程序 26.616 / Codex app 26.616",
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-06-18T00:00:00Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "OpenAI Codex Changelog"
-      ],
-      "items": [
-        {
-          "id": "0456c8d5a0d56205795e8eb2712514f19e860335",
-          "title": "法典 CLI 0.141.0 / Codex CLI 0.141.0",
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-06-18T00:00:00Z"
-        },
-        {
-          "id": "58439895fb798798a16e2b39cf2320c57d74b739",
-          "title": "法典应用程序 26.616 / Codex app 26.616",
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-06-18T00:00:00Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.734,
-      "importance": 0.734,
-      "importance_score": 0.734,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.98,
-        "recency": 0.0748,
-        "story_heat": 0.25
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-18T00:00:00Z",
-      "latest_at": "2026-06-18T00:00:00Z",
-      "primary_item": {
-        "id": "0456c8d5a0d56205795e8eb2712514f19e860335",
-        "title": "法典 CLI 0.141.0 / Codex CLI 0.141.0",
-        "url": "https://developers.openai.com/codex/changelog",
-        "source": "OpenAI Codex Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_dc672d008682",
-      "title": "超越 LoRA：如何选择最佳参数高效微调技术？ / Beyond LoRA: Can you beat the most popular fine-tuning technique?",
-      "url": "https://huggingface.co/blog/peft-beyond-lora",
-      "primary_url": "https://huggingface.co/blog/peft-beyond-lora",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "4611b3ae6076f81dcf08cec64ebd2fb449e05910",
-          "title": "超越 LoRA：如何选择最佳参数高效微调技术？ / Beyond LoRA: Can you beat the most popular fine-tuning technique?",
-          "url": "https://huggingface.co/blog/peft-beyond-lora",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-06-18T00:00:00Z"
-        },
-        {
-          "id": "0f6eae03ef27eccd08c5668ef58141a2d521ca28",
-          "title": "超越 LoRA：如何选择最佳参数高效微调技术？",
-          "url": "https://huggingface.co/blog/peft-beyond-lora",
-          "source": "Hugging Face：Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-18T00:00:00Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hugging Face Blog",
-        "Hugging Face：Blog（RSS）"
-      ],
-      "items": [
-        {
-          "id": "4611b3ae6076f81dcf08cec64ebd2fb449e05910",
-          "title": "超越 LoRA：如何选择最佳参数高效微调技术？ / Beyond LoRA: Can you beat the most popular fine-tuning technique?",
-          "url": "https://huggingface.co/blog/peft-beyond-lora",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-06-18T00:00:00Z"
-        },
-        {
-          "id": "0f6eae03ef27eccd08c5668ef58141a2d521ca28",
-          "title": "超越 LoRA：如何选择最佳参数高效微调技术？",
-          "url": "https://huggingface.co/blog/peft-beyond-lora",
-          "source": "Hugging Face：Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-18T00:00:00Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.725,
-      "importance": 0.725,
-      "importance_score": 0.725,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.0748,
-        "story_heat": 0.25
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-18T00:00:00Z",
-      "latest_at": "2026-06-18T00:00:00Z",
-      "primary_item": {
-        "id": "4611b3ae6076f81dcf08cec64ebd2fb449e05910",
-        "title": "超越 LoRA：如何选择最佳参数高效微调技术？ / Beyond LoRA: Can you beat the most popular fine-tuning technique?",
-        "url": "https://huggingface.co/blog/peft-beyond-lora",
-        "source": "Hugging Face Blog",
         "source_name": "Official AI Updates"
       }
     }
