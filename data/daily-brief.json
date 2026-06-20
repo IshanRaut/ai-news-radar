@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-06-20T19:40:19.657284Z",
+  "generated_at": "2026-06-20T21:20:15.935467Z",
   "window_hours": 24,
-  "total_items": 16,
+  "total_items": 14,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260621-0540-448d-9de5-fb6211bcb10e&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260621-0540-448d-9de5-fb6211bcb10e&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260621-0720-415d-99a2-c3bb349abb33&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260621-0720-415d-99a2-c3bb349abb33&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "4bb53776cd5dfe3667f9e5a0b69413569814d4bf",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260621-0720-415d-99a2-c3bb349abb33&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "53fd8bb15826db2e94b8f9251459a5353737740f",
           "title": "点击这里进入 / Click here to enter",
@@ -39,12 +48,21 @@
           "published_at": null
         }
       ],
-      "source_count": 3,
+      "source_count": 4,
       "source_names": [
         "Page Fallback"
       ],
       "items": [
         {
+          "id": "4bb53776cd5dfe3667f9e5a0b69413569814d4bf",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260621-0720-415d-99a2-c3bb349abb33&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "53fd8bb15826db2e94b8f9251459a5353737740f",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260621-0540-448d-9de5-fb6211bcb10e&fp=-3",
@@ -72,17 +90,17 @@
           "published_at": null
         }
       ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.862,
-      "importance": 0.862,
-      "importance_score": 0.862,
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.887,
+      "importance": 0.887,
+      "importance_score": 0.887,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
         "recency": 1.0,
-        "story_heat": 0.5
+        "story_heat": 0.75
       },
       "category": "multi_source",
       "reasons": [
@@ -91,11 +109,11 @@
         "high_importance"
       ],
       "earliest_at": "2026-06-20T16:21:08.294956Z",
-      "latest_at": "2026-06-20T19:40:19.657284Z",
+      "latest_at": "2026-06-20T21:20:15.935467Z",
       "primary_item": {
-        "id": "53fd8bb15826db2e94b8f9251459a5353737740f",
+        "id": "4bb53776cd5dfe3667f9e5a0b69413569814d4bf",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260621-0540-448d-9de5-fb6211bcb10e&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260621-0720-415d-99a2-c3bb349abb33&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
       }
@@ -135,20 +153,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7503,
-      "importance": 0.7503,
-      "importance_score": 0.7503,
+      "score": 0.7364,
+      "importance": 0.7364,
+      "importance_score": 0.7364,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6916,
+        "recency": 0.6222,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-06-20T12:16:16Z",
       "latest_at": "2026-06-20T12:16:16Z",
@@ -252,14 +269,14 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5953,
-      "importance": 0.5953,
-      "importance_score": 0.5953,
+      "score": 0.5815,
+      "importance": 0.5815,
+      "importance_score": 0.5815,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9867,
+        "recency": 0.9173,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -274,6 +291,103 @@
         "url": "https://news.ycombinator.com/item?id=48611411",
         "source": "hackernews",
         "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_fd6b244d6a5f",
+      "title": "用于 AI 代理的临时 Cloudflare 账户",
+      "url": "https://blog.cloudflare.com/temporary-accounts",
+      "primary_url": "https://blog.cloudflare.com/temporary-accounts",
+      "source": "blog.cloudflare.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "cc222b16f027ccb232c72501b0ad05e63bbf6616",
+          "title": "用于 AI 代理的临时 Cloudflare 账户",
+          "url": "https://blog.cloudflare.com/temporary-accounts",
+          "source": "blog.cloudflare.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-20T20:13:09.604000Z"
+        },
+        {
+          "id": "be6db6a7713e9be8b07b1e1d8c5805eae89c1331",
+          "title": "AI 代理的临时 Cloudflare 帐户 / Temporary Cloudflare accounts for AI agents",
+          "url": "https://news.ycombinator.com/item?id=48608394",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-06-20T14:54:36.140000Z"
+        },
+        {
+          "id": "a1a87e6ee558095aa56dacea3fc7db142f61a6e0",
+          "title": "用于 AI 代理的临时 Cloudflare 账户 / Temporary Cloudflare accounts for AI agents",
+          "url": "https://blog.cloudflare.com/temporary-accounts",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-20T11:19:05Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "blog.cloudflare.com",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "cc222b16f027ccb232c72501b0ad05e63bbf6616",
+          "title": "用于 AI 代理的临时 Cloudflare 账户",
+          "url": "https://blog.cloudflare.com/temporary-accounts",
+          "source": "blog.cloudflare.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-20T20:13:09.604000Z"
+        },
+        {
+          "id": "be6db6a7713e9be8b07b1e1d8c5805eae89c1331",
+          "title": "AI 代理的临时 Cloudflare 帐户 / Temporary Cloudflare accounts for AI agents",
+          "url": "https://news.ycombinator.com/item?id=48608394",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-06-20T14:54:36.140000Z"
+        },
+        {
+          "id": "a1a87e6ee558095aa56dacea3fc7db142f61a6e0",
+          "title": "用于 AI 代理的临时 Cloudflare 账户 / Temporary Cloudflare accounts for AI agents",
+          "url": "https://blog.cloudflare.com/temporary-accounts",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-20T11:19:05Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5637,
+      "importance": 0.5637,
+      "importance_score": 0.5637,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9534,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-06-20T11:19:05Z",
+      "latest_at": "2026-06-20T20:13:09.604000Z",
+      "primary_item": {
+        "id": "cc222b16f027ccb232c72501b0ad05e63bbf6616",
+        "title": "用于 AI 代理的临时 Cloudflare 账户",
+        "url": "https://blog.cloudflare.com/temporary-accounts",
+        "source": "blog.cloudflare.com",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -330,14 +444,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5203,
-      "importance": 0.5203,
-      "importance_score": 0.5203,
+      "score": 0.5065,
+      "importance": 0.5065,
+      "importance_score": 0.5065,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8617,
+        "recency": 0.7923,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -355,7 +469,7 @@
       }
     },
     {
-      "story_id": "story_a4b90cb09aca",
+      "story_id": "story_b523c26f886c",
       "title": "育碧联合创始人克劳德·吉列莫特 (Claude Guillemot) 因飞机失事身亡 / Ubisoft co-founder Claude Guillemot has died in a plane crash",
       "url": "https://news.ycombinator.com/item?id=48609373",
       "primary_url": "https://news.ycombinator.com/item?id=48609373",
@@ -372,21 +486,21 @@
           "published_at": "2026-06-20T16:21:44.874000Z"
         },
         {
-          "id": "d56e2d49c315c846c93e5463b04609667fe77dea",
-          "title": "育碧联合创始人克劳德·吉勒莫特在空难中去世，享年69岁 / Ubisoft co-founder Claude Guillemot has died in a plane crash",
-          "url": "https://www.bloomberg.com/news/articles/2026-06-20/ubisoft-co-founder-claude-guillemot-dies-in-air-crash-at-age-69",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-06-20T14:12:50Z"
-        },
-        {
           "id": "b673cf70a74aa09757acb9494c1b6e284ab4109a",
           "title": "育碧联合创始人克劳德·吉勒莫在飞机失事中遇难 / Ubisoft co-founder Claude Guillemot has died in a plane crash",
           "url": "https://www.reuters.com/world/ubisofts-co-founder-claude-guillemot-dies-plane-crash-2026-06-20",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
+          "published_at": "2026-06-20T14:12:50Z"
+        },
+        {
+          "id": "d56e2d49c315c846c93e5463b04609667fe77dea",
+          "title": "育碧联合创始人克劳德·吉勒莫特在空难中去世，享年69岁 / Ubisoft co-founder Claude Guillemot has died in a plane crash",
+          "url": "https://www.bloomberg.com/news/articles/2026-06-20/ubisoft-co-founder-claude-guillemot-dies-in-air-crash-at-age-69",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
           "published_at": "2026-06-20T14:12:50Z"
         }
       ],
@@ -407,15 +521,6 @@
           "published_at": "2026-06-20T16:21:44.874000Z"
         },
         {
-          "id": "d56e2d49c315c846c93e5463b04609667fe77dea",
-          "title": "育碧联合创始人克劳德·吉勒莫特在空难中去世，享年69岁 / Ubisoft co-founder Claude Guillemot has died in a plane crash",
-          "url": "https://www.bloomberg.com/news/articles/2026-06-20/ubisoft-co-founder-claude-guillemot-dies-in-air-crash-at-age-69",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-06-20T14:12:50Z"
-        },
-        {
           "id": "b673cf70a74aa09757acb9494c1b6e284ab4109a",
           "title": "育碧联合创始人克劳德·吉勒莫在飞机失事中遇难 / Ubisoft co-founder Claude Guillemot has died in a plane crash",
           "url": "https://www.reuters.com/world/ubisofts-co-founder-claude-guillemot-dies-plane-crash-2026-06-20",
@@ -423,18 +528,27 @@
           "source_name": "Zeli",
           "site_id": "zeli",
           "published_at": "2026-06-20T14:12:50Z"
+        },
+        {
+          "id": "d56e2d49c315c846c93e5463b04609667fe77dea",
+          "title": "育碧联合创始人克劳德·吉勒莫特在空难中去世，享年69岁 / Ubisoft co-founder Claude Guillemot has died in a plane crash",
+          "url": "https://www.bloomberg.com/news/articles/2026-06-20/ubisoft-co-founder-claude-guillemot-dies-in-air-crash-at-age-69",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-20T14:12:50Z"
         }
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5454,
-      "importance": 0.5454,
-      "importance_score": 0.5454,
+      "score": 0.5315,
+      "importance": 0.5315,
+      "importance_score": 0.5315,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8621,
+        "recency": 0.7927,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -505,14 +619,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5126,
-      "importance": 0.5126,
-      "importance_score": 0.5126,
+      "score": 0.4987,
+      "importance": 0.4987,
+      "importance_score": 0.4987,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8228,
+        "recency": 0.7534,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -582,14 +696,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5057,
-      "importance": 0.5057,
-      "importance_score": 0.5057,
+      "score": 0.4919,
+      "importance": 0.4919,
+      "importance_score": 0.4919,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7887,
+        "recency": 0.7193,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -604,200 +718,6 @@
         "url": "https://www.ithome.com/0/966/570.htm",
         "source": "IT之家 (ITHome)",
         "source_name": "Info Flow"
-      }
-    },
-    {
-      "story_id": "story_7812c861f7d6",
-      "title": "美国科学家约翰·詹珀将离开谷歌DeepMind，加入Anthropic / US Scientist John Jumper to Leave Google DeepMind for Anthropic",
-      "url": "https://www.reuters.com/technology/us-scientist-john-jumper-leave-google-deepmind-anthropic-2026-06-19",
-      "primary_url": "https://www.reuters.com/technology/us-scientist-john-jumper-leave-google-deepmind-anthropic-2026-06-19",
-      "source": "Hacker News",
-      "source_name": "TechURLs",
-      "sources": [
-        {
-          "id": "b239c66adf4f4df412f1b935332a03ba06670a81",
-          "title": "美国科学家约翰·詹珀将离开谷歌DeepMind，加入Anthropic / US Scientist John Jumper to Leave Google DeepMind for Anthropic",
-          "url": "https://www.reuters.com/technology/us-scientist-john-jumper-leave-google-deepmind-anthropic-2026-06-19",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-06-20T14:32:15Z"
-        },
-        {
-          "id": "c5d0d6de4f33b6b777a7a8a254574b104f8fa5cd",
-          "title": "美国科学家约翰·詹珀将离开谷歌DeepMind，加入Anthropic",
-          "url": "https://www.reuters.com/technology/us-scientist-john-jumper-leave-google-deepmind-anthropic-2026-06-19",
-          "source": "www.reuters.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-19T20:45:28.300000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "www.reuters.com"
-      ],
-      "items": [
-        {
-          "id": "b239c66adf4f4df412f1b935332a03ba06670a81",
-          "title": "美国科学家约翰·詹珀将离开谷歌DeepMind，加入Anthropic / US Scientist John Jumper to Leave Google DeepMind for Anthropic",
-          "url": "https://www.reuters.com/technology/us-scientist-john-jumper-leave-google-deepmind-anthropic-2026-06-19",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-06-20T14:32:15Z"
-        },
-        {
-          "id": "c5d0d6de4f33b6b777a7a8a254574b104f8fa5cd",
-          "title": "美国科学家约翰·詹珀将离开谷歌DeepMind，加入Anthropic",
-          "url": "https://www.reuters.com/technology/us-scientist-john-jumper-leave-google-deepmind-anthropic-2026-06-19",
-          "source": "www.reuters.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-19T20:45:28.300000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5052,
-      "importance": 0.5052,
-      "importance_score": 0.5052,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7861,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-06-19T20:45:28.300000Z",
-      "latest_at": "2026-06-20T14:32:15Z",
-      "primary_item": {
-        "id": "b239c66adf4f4df412f1b935332a03ba06670a81",
-        "title": "美国科学家约翰·詹珀将离开谷歌DeepMind，加入Anthropic / US Scientist John Jumper to Leave Google DeepMind for Anthropic",
-        "url": "https://www.reuters.com/technology/us-scientist-john-jumper-leave-google-deepmind-anthropic-2026-06-19",
-        "source": "Hacker News",
-        "source_name": "TechURLs"
-      }
-    },
-    {
-      "story_id": "story_e8cd117c5165",
-      "title": "由于成本压力导致预算紧张，企业开始限制人工智能的使用",
-      "url": "https://www.ft.com/content/1d37cc08-e0aa-45a4-a45d-4ad282529314",
-      "primary_url": "https://www.ft.com/content/1d37cc08-e0aa-45a4-a45d-4ad282529314",
-      "source": "www.ft.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "236396eadebbb69083ea7d062fab849ce5788620",
-          "title": "由于成本压力导致预算紧张，企业开始限制人工智能的使用",
-          "url": "https://www.ft.com/content/1d37cc08-e0aa-45a4-a45d-4ad282529314",
-          "source": "www.ft.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-20T06:05:07.343000Z"
-        },
-        {
-          "id": "c40bcc2fd204477274b5a585c6978bcc69578bae",
-          "title": "由于成本预算紧张，公司限制人工智能的使用 / Companies rein in AI usage as costs strain budgets",
-          "url": "https://news.ycombinator.com/item?id=48602571",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-06-19T21:40:15.701000Z"
-        },
-        {
-          "id": "8780e2778dd4bdfa3e771c53ddd97591997e9566",
-          "title": "由于成本压力导致预算紧张，企业开始限制人工智能的使用 / 'We created a monster': companies rein in AI usage as costs strain budgets",
-          "url": "https://www.ft.com/content/1d37cc08-e0aa-45a4-a45d-4ad282529314",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-06-19T19:57:18Z"
-        },
-        {
-          "id": "cb78ac4e40522d8024016c4262cdff8f2a53cee8",
-          "title": "由于成本压力导致预算紧张，企业开始限制人工智能的使用 / Companies rein in AI usage as costs strain budgets",
-          "url": "https://www.ft.com/content/1d37cc08-e0aa-45a4-a45d-4ad282529314",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-06-19T19:57:18Z"
-        }
-      ],
-      "source_count": 4,
-      "source_names": [
-        "Hacker News",
-        "Hacker News (黑客新闻)",
-        "hackernews",
-        "www.ft.com"
-      ],
-      "items": [
-        {
-          "id": "236396eadebbb69083ea7d062fab849ce5788620",
-          "title": "由于成本压力导致预算紧张，企业开始限制人工智能的使用",
-          "url": "https://www.ft.com/content/1d37cc08-e0aa-45a4-a45d-4ad282529314",
-          "source": "www.ft.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-20T06:05:07.343000Z"
-        },
-        {
-          "id": "c40bcc2fd204477274b5a585c6978bcc69578bae",
-          "title": "由于成本预算紧张，公司限制人工智能的使用 / Companies rein in AI usage as costs strain budgets",
-          "url": "https://news.ycombinator.com/item?id=48602571",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-06-19T21:40:15.701000Z"
-        },
-        {
-          "id": "8780e2778dd4bdfa3e771c53ddd97591997e9566",
-          "title": "由于成本压力导致预算紧张，企业开始限制人工智能的使用 / 'We created a monster': companies rein in AI usage as costs strain budgets",
-          "url": "https://www.ft.com/content/1d37cc08-e0aa-45a4-a45d-4ad282529314",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-06-19T19:57:18Z"
-        },
-        {
-          "id": "cb78ac4e40522d8024016c4262cdff8f2a53cee8",
-          "title": "由于成本压力导致预算紧张，企业开始限制人工智能的使用 / Companies rein in AI usage as costs strain budgets",
-          "url": "https://www.ft.com/content/1d37cc08-e0aa-45a4-a45d-4ad282529314",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-06-19T19:57:18Z"
-        }
-      ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.4848,
-      "importance": 0.4848,
-      "importance_score": 0.4848,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.4339,
-        "story_heat": 0.75
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-06-19T19:57:18Z",
-      "latest_at": "2026-06-20T06:05:07.343000Z",
-      "primary_item": {
-        "id": "236396eadebbb69083ea7d062fab849ce5788620",
-        "title": "由于成本压力导致预算紧张，企业开始限制人工智能的使用",
-        "url": "https://www.ft.com/content/1d37cc08-e0aa-45a4-a45d-4ad282529314",
-        "source": "www.ft.com",
-        "source_name": "Buzzing"
       }
     },
     {
@@ -854,14 +774,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4703,
-      "importance": 0.4703,
-      "importance_score": 0.4703,
+      "score": 0.4565,
+      "importance": 0.4565,
+      "importance_score": 0.4565,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6117,
+        "recency": 0.5423,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -876,6 +796,84 @@
         "url": "https://www.businessinsider.com/replika-founder-warns-ai-protests-job-displacement-2026-6",
         "source": "www.businessinsider.com",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_7812c861f7d6",
+      "title": "美国科学家 John Jumper 离开 Google DeepMind 加入 Anthropic / US Scientist John Jumper to Leave Google DeepMind for Anthropic",
+      "url": "https://news.ycombinator.com/item?id=48609506",
+      "primary_url": "https://news.ycombinator.com/item?id=48609506",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "8868fd56b100f671a6b7df944102ad8868dbccd0",
+          "title": "美国科学家 John Jumper 离开 Google DeepMind 加入 Anthropic / US Scientist John Jumper to Leave Google DeepMind for Anthropic",
+          "url": "https://news.ycombinator.com/item?id=48609506",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-06-20T16:21:44.874000Z"
+        },
+        {
+          "id": "b239c66adf4f4df412f1b935332a03ba06670a81",
+          "title": "美国科学家 John Jumper 离开 Google DeepMind 加入 Anthropic / US Scientist John Jumper to Leave Google DeepMind for Anthropic",
+          "url": "https://www.reuters.com/technology/us-scientist-john-jumper-leave-google-deepmind-anthropic-2026-06-19",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-06-20T14:32:15Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "8868fd56b100f671a6b7df944102ad8868dbccd0",
+          "title": "美国科学家 John Jumper 离开 Google DeepMind 加入 Anthropic / US Scientist John Jumper to Leave Google DeepMind for Anthropic",
+          "url": "https://news.ycombinator.com/item?id=48609506",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-06-20T16:21:44.874000Z"
+        },
+        {
+          "id": "b239c66adf4f4df412f1b935332a03ba06670a81",
+          "title": "美国科学家 John Jumper 离开 Google DeepMind 加入 Anthropic / US Scientist John Jumper to Leave Google DeepMind for Anthropic",
+          "url": "https://www.reuters.com/technology/us-scientist-john-jumper-leave-google-deepmind-anthropic-2026-06-19",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-06-20T14:32:15Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5065,
+      "importance": 0.5065,
+      "importance_score": 0.5065,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7927,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-06-20T14:32:15Z",
+      "latest_at": "2026-06-20T16:21:44.874000Z",
+      "primary_item": {
+        "id": "8868fd56b100f671a6b7df944102ad8868dbccd0",
+        "title": "美国科学家 John Jumper 离开 Google DeepMind 加入 Anthropic / US Scientist John Jumper to Leave Google DeepMind for Anthropic",
+        "url": "https://news.ycombinator.com/item?id=48609506",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     },
     {
@@ -932,14 +930,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4879,
-      "importance": 0.4879,
-      "importance_score": 0.4879,
+      "score": 0.474,
+      "importance": 0.474,
+      "importance_score": 0.474,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6995,
+        "recency": 0.6301,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -954,84 +952,6 @@
         "url": "https://www.huxiu.com/article/4868875.html?f=rss",
         "source": "Readhub · AI",
         "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_fd6b244d6a5f",
-      "title": "AI 代理的临时 Cloudflare 帐户 / Temporary Cloudflare Accounts for AI Agents",
-      "url": "https://news.ycombinator.com/item?id=48608394",
-      "primary_url": "https://news.ycombinator.com/item?id=48608394",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "be6db6a7713e9be8b07b1e1d8c5805eae89c1331",
-          "title": "AI 代理的临时 Cloudflare 帐户 / Temporary Cloudflare Accounts for AI Agents",
-          "url": "https://news.ycombinator.com/item?id=48608394",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-06-20T14:54:36.140000Z"
-        },
-        {
-          "id": "a1a87e6ee558095aa56dacea3fc7db142f61a6e0",
-          "title": "AI 代理的临时 Cloudflare 帐户 / Temporary Cloudflare Accounts for AI Agents",
-          "url": "https://blog.cloudflare.com/temporary-accounts",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-06-20T11:19:05Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "be6db6a7713e9be8b07b1e1d8c5805eae89c1331",
-          "title": "AI 代理的临时 Cloudflare 帐户 / Temporary Cloudflare Accounts for AI Agents",
-          "url": "https://news.ycombinator.com/item?id=48608394",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-06-20T14:54:36.140000Z"
-        },
-        {
-          "id": "a1a87e6ee558095aa56dacea3fc7db142f61a6e0",
-          "title": "AI 代理的临时 Cloudflare 帐户 / Temporary Cloudflare Accounts for AI Agents",
-          "url": "https://blog.cloudflare.com/temporary-accounts",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-06-20T11:19:05Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5083,
-      "importance": 0.5083,
-      "importance_score": 0.5083,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8016,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-06-20T11:19:05Z",
-      "latest_at": "2026-06-20T14:54:36.140000Z",
-      "primary_item": {
-        "id": "be6db6a7713e9be8b07b1e1d8c5805eae89c1331",
-        "title": "AI 代理的临时 Cloudflare 帐户 / Temporary Cloudflare Accounts for AI Agents",
-        "url": "https://news.ycombinator.com/item?id=48608394",
-        "source": "hackernews",
-        "source_name": "NewsNow"
       }
     },
     {
@@ -1088,14 +1008,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.457,
-      "importance": 0.457,
-      "importance_score": 0.457,
+      "score": 0.4431,
+      "importance": 0.4431,
+      "importance_score": 0.4431,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.545,
+        "recency": 0.4756,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1110,122 +1030,6 @@
         "url": "https://www.businessinsider.com/ai-reliance-decision-making-life-advice-cognitive-surrender-2026-6",
         "source": "www.businessinsider.com",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_0a3a69608a9f",
-      "title": "亚马逊在宣布与 OpenAI 合作后放弃了山姆·奥特曼 (Sam Altman) 电影 / Amazon Drops Sam Altman Movie After Announcing OpenAI Partnership",
-      "url": "https://entertainment.slashdot.org/story/26/06/19/2146253/amazon-drops-sam-altman-movie-after-announcing-openai-partnership",
-      "primary_url": "https://entertainment.slashdot.org/story/26/06/19/2146253/amazon-drops-sam-altman-movie-after-announcing-openai-partnership",
-      "source": "Slashdot",
-      "source_name": "TechURLs",
-      "sources": [
-        {
-          "id": "e4829a0639488dbc408c6ff15fdfd20aff412033",
-          "title": "亚马逊在宣布与 OpenAI 合作后放弃了山姆·奥特曼 (Sam Altman) 电影 / Amazon Drops Sam Altman Movie After Announcing OpenAI Partnership",
-          "url": "https://entertainment.slashdot.org/story/26/06/19/2146253/amazon-drops-sam-altman-movie-after-announcing-openai-partnership",
-          "source": "Slashdot",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-06-19T23:00:00Z"
-        },
-        {
-          "id": "e5a044ee2f5e19d8a585dba0d017adf43327ba0e",
-          "title": "亚马逊在宣布与OpenAI合作后，撤下萨姆·阿尔特曼的传记电影",
-          "url": "https://www.the-independent.com/arts-entertainment/films/news/sam-altman-biopic-amazon-openai-deal-b2999321.html",
-          "source": "www.the-independent.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-19T21:33:11.069000Z"
-        },
-        {
-          "id": "aa438330809238467424b92807ea9723befccbba",
-          "title": "亚马逊在宣布与 OpenAI 合作后放弃了山姆·奥特曼 (Sam Altman) 电影 / Amazon drops Sam Altman movie after announcing OpenAI partnership",
-          "url": "https://news.ycombinator.com/item?id=48602639",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-06-19T20:40:06.985000Z"
-        },
-        {
-          "id": "789aa30f7785c13412ba5611ae67e713207fd768",
-          "title": "亚马逊在宣布与OpenAI合作后，撤下萨姆·阿尔特曼的传记电影 / Amazon drops Sam Altman movie after announcing OpenAI partnership",
-          "url": "https://www.the-independent.com/arts-entertainment/films/news/sam-altman-biopic-amazon-openai-deal-b2999321.html",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-06-19T20:03:16Z"
-        }
-      ],
-      "source_count": 4,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "Slashdot",
-        "hackernews",
-        "www.the-independent.com"
-      ],
-      "items": [
-        {
-          "id": "e4829a0639488dbc408c6ff15fdfd20aff412033",
-          "title": "亚马逊在宣布与 OpenAI 合作后放弃了山姆·奥特曼 (Sam Altman) 电影 / Amazon Drops Sam Altman Movie After Announcing OpenAI Partnership",
-          "url": "https://entertainment.slashdot.org/story/26/06/19/2146253/amazon-drops-sam-altman-movie-after-announcing-openai-partnership",
-          "source": "Slashdot",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-06-19T23:00:00Z"
-        },
-        {
-          "id": "e5a044ee2f5e19d8a585dba0d017adf43327ba0e",
-          "title": "亚马逊在宣布与OpenAI合作后，撤下萨姆·阿尔特曼的传记电影",
-          "url": "https://www.the-independent.com/arts-entertainment/films/news/sam-altman-biopic-amazon-openai-deal-b2999321.html",
-          "source": "www.the-independent.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-19T21:33:11.069000Z"
-        },
-        {
-          "id": "aa438330809238467424b92807ea9723befccbba",
-          "title": "亚马逊在宣布与 OpenAI 合作后放弃了山姆·奥特曼 (Sam Altman) 电影 / Amazon drops Sam Altman movie after announcing OpenAI partnership",
-          "url": "https://news.ycombinator.com/item?id=48602639",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-06-19T20:40:06.985000Z"
-        },
-        {
-          "id": "789aa30f7785c13412ba5611ae67e713207fd768",
-          "title": "亚马逊在宣布与OpenAI合作后，撤下萨姆·阿尔特曼的传记电影 / Amazon drops Sam Altman movie after announcing OpenAI partnership",
-          "url": "https://www.the-independent.com/arts-entertainment/films/news/sam-altman-biopic-amazon-openai-deal-b2999321.html",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-06-19T20:03:16Z"
-        }
-      ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.4257,
-      "importance": 0.4257,
-      "importance_score": 0.4257,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.1387,
-        "story_heat": 0.75
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-06-19T20:03:16Z",
-      "latest_at": "2026-06-19T23:00:00Z",
-      "primary_item": {
-        "id": "e4829a0639488dbc408c6ff15fdfd20aff412033",
-        "title": "亚马逊在宣布与 OpenAI 合作后放弃了山姆·奥特曼 (Sam Altman) 电影 / Amazon Drops Sam Altman Movie After Announcing OpenAI Partnership",
-        "url": "https://entertainment.slashdot.org/story/26/06/19/2146253/amazon-drops-sam-altman-movie-after-announcing-openai-partnership",
-        "source": "Slashdot",
-        "source_name": "TechURLs"
       }
     },
     {
@@ -1282,14 +1086,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.417,
-      "importance": 0.417,
-      "importance_score": 0.417,
+      "score": 0.4032,
+      "importance": 0.4032,
+      "importance_score": 0.4032,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.3452,
+        "recency": 0.2758,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1360,14 +1164,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.3674,
-      "importance": 0.3674,
-      "importance_score": 0.3674,
+      "score": 0.3535,
+      "importance": 0.3535,
+      "importance_score": 0.3535,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.097,
+        "recency": 0.0276,
         "story_heat": 0.25
       },
       "category": "watch",
