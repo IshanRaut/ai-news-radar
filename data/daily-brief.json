@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-20T12:27:35.554158Z",
+  "generated_at": "2026-06-20T14:54:01.440134Z",
   "window_hours": 24,
-  "total_items": 20,
+  "total_items": 19,
   "items": [
     {
       "story_id": "story_767c73782c59",
@@ -38,14 +38,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8104,
-      "importance": 0.8104,
-      "importance_score": 0.8104,
+      "score": 0.7901,
+      "importance": 0.7901,
+      "importance_score": 0.7901,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9921,
+        "recency": 0.8904,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -98,20 +98,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7617,
-      "importance": 0.7617,
-      "importance_score": 0.7617,
+      "score": 0.7414,
+      "importance": 0.7414,
+      "importance_score": 0.7414,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7485,
+        "recency": 0.6468,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-06-20T06:25:29Z",
       "latest_at": "2026-06-20T06:25:29Z",
@@ -177,14 +176,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6973,
-      "importance": 0.6973,
-      "importance_score": 0.6973,
+      "score": 0.6769,
+      "importance": 0.6769,
+      "importance_score": 0.6769,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.3013,
+        "recency": 0.1996,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -200,6 +199,84 @@
         "url": "https://www.eff.org/deeplinks/2026/06/new-bill-takes-aim-government-pressure-silence-lawful-online-speech",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_fd6b244d6a5f",
+      "title": "AI 代理的临时 Cloudflare 帐户 / Temporary Cloudflare Accounts for AI Agents",
+      "url": "https://news.ycombinator.com/item?id=48608394",
+      "primary_url": "https://news.ycombinator.com/item?id=48608394",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "be6db6a7713e9be8b07b1e1d8c5805eae89c1331",
+          "title": "AI 代理的临时 Cloudflare 帐户 / Temporary Cloudflare Accounts for AI Agents",
+          "url": "https://news.ycombinator.com/item?id=48608394",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-06-20T14:54:36.140000Z"
+        },
+        {
+          "id": "a1a87e6ee558095aa56dacea3fc7db142f61a6e0",
+          "title": "AI 代理的临时 Cloudflare 帐户 / Temporary Cloudflare Accounts for AI Agents",
+          "url": "https://blog.cloudflare.com/temporary-accounts",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-20T11:19:05Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "be6db6a7713e9be8b07b1e1d8c5805eae89c1331",
+          "title": "AI 代理的临时 Cloudflare 帐户 / Temporary Cloudflare Accounts for AI Agents",
+          "url": "https://news.ycombinator.com/item?id=48608394",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-06-20T14:54:36.140000Z"
+        },
+        {
+          "id": "a1a87e6ee558095aa56dacea3fc7db142f61a6e0",
+          "title": "AI 代理的临时 Cloudflare 帐户 / Temporary Cloudflare Accounts for AI Agents",
+          "url": "https://blog.cloudflare.com/temporary-accounts",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-20T11:19:05Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.548,
+      "importance": 0.548,
+      "importance_score": 0.548,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-06-20T11:19:05Z",
+      "latest_at": "2026-06-20T14:54:36.140000Z",
+      "primary_item": {
+        "id": "be6db6a7713e9be8b07b1e1d8c5805eae89c1331",
+        "title": "AI 代理的临时 Cloudflare 帐户 / Temporary Cloudflare Accounts for AI Agents",
+        "url": "https://news.ycombinator.com/item?id=48608394",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     },
     {
@@ -256,14 +333,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.548,
-      "importance": 0.548,
-      "importance_score": 0.548,
+      "score": 0.5277,
+      "importance": 0.5277,
+      "importance_score": 0.5277,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.8983,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -372,14 +449,14 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5449,
-      "importance": 0.5449,
-      "importance_score": 0.5449,
+      "score": 0.5245,
+      "importance": 0.5245,
+      "importance_score": 0.5245,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7344,
+        "recency": 0.6327,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -450,14 +527,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5304,
-      "importance": 0.5304,
-      "importance_score": 0.5304,
+      "score": 0.5101,
+      "importance": 0.5101,
+      "importance_score": 0.5101,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9122,
+        "recency": 0.8105,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -547,14 +624,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5177,
-      "importance": 0.5177,
-      "importance_score": 0.5177,
+      "score": 0.4973,
+      "importance": 0.4973,
+      "importance_score": 0.4973,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7233,
+        "recency": 0.6216,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -625,14 +702,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5127,
-      "importance": 0.5127,
-      "importance_score": 0.5127,
+      "score": 0.4923,
+      "importance": 0.4923,
+      "importance_score": 0.4923,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8234,
+        "recency": 0.7217,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -703,14 +780,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5171,
-      "importance": 0.5171,
-      "importance_score": 0.5171,
+      "score": 0.4968,
+      "importance": 0.4968,
+      "importance_score": 0.4968,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8455,
+        "recency": 0.7438,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -819,14 +896,14 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.4858,
-      "importance": 0.4858,
-      "importance_score": 0.4858,
+      "score": 0.4655,
+      "importance": 0.4655,
+      "importance_score": 0.4655,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.4392,
+        "recency": 0.3375,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -935,14 +1012,14 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.4782,
-      "importance": 0.4782,
-      "importance_score": 0.4782,
+      "score": 0.4579,
+      "importance": 0.4579,
+      "importance_score": 0.4579,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.4012,
+        "recency": 0.2995,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -1013,14 +1090,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4771,
-      "importance": 0.4771,
-      "importance_score": 0.4771,
+      "score": 0.4568,
+      "importance": 0.4568,
+      "importance_score": 0.4568,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6457,
+        "recency": 0.544,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1108,14 +1185,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.4032,
-      "importance": 0.4032,
-      "importance_score": 0.4032,
+      "score": 0.3828,
+      "importance": 0.3828,
+      "importance_score": 0.3828,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.1508,
+        "recency": 0.0491,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1130,6 +1207,83 @@
         "url": "https://aiclambake.com/clamtakes/linear-a",
         "source": "Hacker News · 24h最热",
         "source_name": "Zeli"
+      }
+    },
+    {
+      "story_id": "story_bac90ec5fb55",
+      "title": "世界各国领导人想要美国的人工智能，但他们不希望美国能够将其关闭。 - TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOU2RiZ01UMGxia3dEbjZJVlVjYXFKRDNMU2tZemdRVjVmMDdIc1d1LTZZUzl3ZHRrTjFyUlhtX1dkbFdoZ3R5cG41Qmw2TlVIS2VnRVhXWnV1LTdrTTlvckF5RExZTVNyS2NPQW9CVmFyOFgyN0hpM2NMdWEwTDkzZm1RZUdzVTFtUVBiQkphcy1HazdCN1B2UjZNWmFNT09Ob1FYeEJial9lT0FReFZoZDkyX2RobW5KUi1r?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "primary_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOU2RiZ01UMGxia3dEbjZJVlVjYXFKRDNMU2tZemdRVjVmMDdIc1d1LTZZUzl3ZHRrTjFyUlhtX1dkbFdoZ3R5cG41Qmw2TlVIS2VnRVhXWnV1LTdrTTlvckF5RExZTVNyS2NPQW9CVmFyOFgyN0hpM2NMdWEwTDkzZm1RZUdzVTFtUVBiQkphcy1HazdCN1B2UjZNWmFNT09Ob1FYeEJial9lT0FReFZoZDkyX2RobW5KUi1r?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "source": "news.google.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "46053d92fe22770cc36ace2a2cf1e79f3f620930",
+          "title": "世界各国领导人想要美国的人工智能，但他们不希望美国能够将其关闭。 - TechCrunch",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOU2RiZ01UMGxia3dEbjZJVlVjYXFKRDNMU2tZemdRVjVmMDdIc1d1LTZZUzl3ZHRrTjFyUlhtX1dkbFdoZ3R5cG41Qmw2TlVIS2VnRVhXWnV1LTdrTTlvckF5RExZTVNyS2NPQW9CVmFyOFgyN0hpM2NMdWEwTDkzZm1RZUdzVTFtUVBiQkphcy1HazdCN1B2UjZNWmFNT09Ob1FYeEJial9lT0FReFZoZDkyX2RobW5KUi1r?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "source": "news.google.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-19T15:41:07.266000Z"
+        },
+        {
+          "id": "0a6e44ad100c6575f10f871f5a2cb0f51ae0646e",
+          "title": "世界各国领导人想要美国的人工智能技术。他们只是不希望美国能够将其关闭。 - TechCrunch",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOU2RiZ01UMGxia3dEbjZJVlVjYXFKRDNMU2tZemdRVjVmMDdIc1d1LTZZUzl3ZHRrTjFyUlhtX1dkbFdoZ3R5cG41Qmw2TlVIS2VnRVhXWnV1LTdrTTlvckF5RExZTVNyS2NPQW9CVmFyOFgyN0hpM2NMdWEwTDkzZm1RZUdzVTFtUVBiQkphcy1HazdCN1B2UjZNWmFNT09Ob1FYeEJial9lT0FReFZoZDkyX2RobW5KUi1r?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "source": "news.google.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-19T15:41:07.211000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "news.google.com"
+      ],
+      "items": [
+        {
+          "id": "46053d92fe22770cc36ace2a2cf1e79f3f620930",
+          "title": "世界各国领导人想要美国的人工智能，但他们不希望美国能够将其关闭。 - TechCrunch",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOU2RiZ01UMGxia3dEbjZJVlVjYXFKRDNMU2tZemdRVjVmMDdIc1d1LTZZUzl3ZHRrTjFyUlhtX1dkbFdoZ3R5cG41Qmw2TlVIS2VnRVhXWnV1LTdrTTlvckF5RExZTVNyS2NPQW9CVmFyOFgyN0hpM2NMdWEwTDkzZm1RZUdzVTFtUVBiQkphcy1HazdCN1B2UjZNWmFNT09Ob1FYeEJial9lT0FReFZoZDkyX2RobW5KUi1r?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "source": "news.google.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-19T15:41:07.266000Z"
+        },
+        {
+          "id": "0a6e44ad100c6575f10f871f5a2cb0f51ae0646e",
+          "title": "世界各国领导人想要美国的人工智能技术。他们只是不希望美国能够将其关闭。 - TechCrunch",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOU2RiZ01UMGxia3dEbjZJVlVjYXFKRDNMU2tZemdRVjVmMDdIc1d1LTZZUzl3ZHRrTjFyUlhtX1dkbFdoZ3R5cG41Qmw2TlVIS2VnRVhXWnV1LTdrTTlvckF5RExZTVNyS2NPQW9CVmFyOFgyN0hpM2NMdWEwTDkzZm1RZUdzVTFtUVBiQkphcy1HazdCN1B2UjZNWmFNT09Ob1FYeEJial9lT0FReFZoZDkyX2RobW5KUi1r?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "source": "news.google.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-19T15:41:07.211000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.3545,
+      "importance": 0.3545,
+      "importance_score": 0.3545,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.0327,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-06-19T15:41:07.211000Z",
+      "latest_at": "2026-06-19T15:41:07.266000Z",
+      "primary_item": {
+        "id": "46053d92fe22770cc36ace2a2cf1e79f3f620930",
+        "title": "世界各国领导人想要美国的人工智能，但他们不希望美国能够将其关闭。 - TechCrunch",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOU2RiZ01UMGxia3dEbjZJVlVjYXFKRDNMU2tZemdRVjVmMDdIc1d1LTZZUzl3ZHRrTjFyUlhtX1dkbFdoZ3R5cG41Qmw2TlVIS2VnRVhXWnV1LTdrTTlvckF5RExZTVNyS2NPQW9CVmFyOFgyN0hpM2NMdWEwTDkzZm1RZUdzVTFtUVBiQkphcy1HazdCN1B2UjZNWmFNT09Ob1FYeEJial9lT0FReFZoZDkyX2RobW5KUi1r?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "source": "news.google.com",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -1186,14 +1340,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.3997,
-      "importance": 0.3997,
-      "importance_score": 0.3997,
+      "score": 0.3794,
+      "importance": 0.3794,
+      "importance_score": 0.3794,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.2585,
+        "recency": 0.1569,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1208,161 +1362,6 @@
         "url": "https://news.ycombinator.com/item?id=48601286",
         "source": "hackernews",
         "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_bac90ec5fb55",
-      "title": "世界各国领导人想要美国的人工智能，但他们不希望美国能够将其关闭。 - TechCrunch",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOU2RiZ01UMGxia3dEbjZJVlVjYXFKRDNMU2tZemdRVjVmMDdIc1d1LTZZUzl3ZHRrTjFyUlhtX1dkbFdoZ3R5cG41Qmw2TlVIS2VnRVhXWnV1LTdrTTlvckF5RExZTVNyS2NPQW9CVmFyOFgyN0hpM2NMdWEwTDkzZm1RZUdzVTFtUVBiQkphcy1HazdCN1B2UjZNWmFNT09Ob1FYeEJial9lT0FReFZoZDkyX2RobW5KUi1r?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "primary_url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOU2RiZ01UMGxia3dEbjZJVlVjYXFKRDNMU2tZemdRVjVmMDdIc1d1LTZZUzl3ZHRrTjFyUlhtX1dkbFdoZ3R5cG41Qmw2TlVIS2VnRVhXWnV1LTdrTTlvckF5RExZTVNyS2NPQW9CVmFyOFgyN0hpM2NMdWEwTDkzZm1RZUdzVTFtUVBiQkphcy1HazdCN1B2UjZNWmFNT09Ob1FYeEJial9lT0FReFZoZDkyX2RobW5KUi1r?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "source": "news.google.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "46053d92fe22770cc36ace2a2cf1e79f3f620930",
-          "title": "世界各国领导人想要美国的人工智能，但他们不希望美国能够将其关闭。 - TechCrunch",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOU2RiZ01UMGxia3dEbjZJVlVjYXFKRDNMU2tZemdRVjVmMDdIc1d1LTZZUzl3ZHRrTjFyUlhtX1dkbFdoZ3R5cG41Qmw2TlVIS2VnRVhXWnV1LTdrTTlvckF5RExZTVNyS2NPQW9CVmFyOFgyN0hpM2NMdWEwTDkzZm1RZUdzVTFtUVBiQkphcy1HazdCN1B2UjZNWmFNT09Ob1FYeEJial9lT0FReFZoZDkyX2RobW5KUi1r?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "source": "news.google.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-19T15:41:07.266000Z"
-        },
-        {
-          "id": "0a6e44ad100c6575f10f871f5a2cb0f51ae0646e",
-          "title": "世界各国领导人想要美国的人工智能技术。他们只是不希望美国能够将其关闭。 - TechCrunch",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOU2RiZ01UMGxia3dEbjZJVlVjYXFKRDNMU2tZemdRVjVmMDdIc1d1LTZZUzl3ZHRrTjFyUlhtX1dkbFdoZ3R5cG41Qmw2TlVIS2VnRVhXWnV1LTdrTTlvckF5RExZTVNyS2NPQW9CVmFyOFgyN0hpM2NMdWEwTDkzZm1RZUdzVTFtUVBiQkphcy1HazdCN1B2UjZNWmFNT09Ob1FYeEJial9lT0FReFZoZDkyX2RobW5KUi1r?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "source": "news.google.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-19T15:41:07.211000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "news.google.com"
-      ],
-      "items": [
-        {
-          "id": "46053d92fe22770cc36ace2a2cf1e79f3f620930",
-          "title": "世界各国领导人想要美国的人工智能，但他们不希望美国能够将其关闭。 - TechCrunch",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOU2RiZ01UMGxia3dEbjZJVlVjYXFKRDNMU2tZemdRVjVmMDdIc1d1LTZZUzl3ZHRrTjFyUlhtX1dkbFdoZ3R5cG41Qmw2TlVIS2VnRVhXWnV1LTdrTTlvckF5RExZTVNyS2NPQW9CVmFyOFgyN0hpM2NMdWEwTDkzZm1RZUdzVTFtUVBiQkphcy1HazdCN1B2UjZNWmFNT09Ob1FYeEJial9lT0FReFZoZDkyX2RobW5KUi1r?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "source": "news.google.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-19T15:41:07.266000Z"
-        },
-        {
-          "id": "0a6e44ad100c6575f10f871f5a2cb0f51ae0646e",
-          "title": "世界各国领导人想要美国的人工智能技术。他们只是不希望美国能够将其关闭。 - TechCrunch",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOU2RiZ01UMGxia3dEbjZJVlVjYXFKRDNMU2tZemdRVjVmMDdIc1d1LTZZUzl3ZHRrTjFyUlhtX1dkbFdoZ3R5cG41Qmw2TlVIS2VnRVhXWnV1LTdrTTlvckF5RExZTVNyS2NPQW9CVmFyOFgyN0hpM2NMdWEwTDkzZm1RZUdzVTFtUVBiQkphcy1HazdCN1B2UjZNWmFNT09Ob1FYeEJial9lT0FReFZoZDkyX2RobW5KUi1r?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "source": "news.google.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-19T15:41:07.211000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.3749,
-      "importance": 0.3749,
-      "importance_score": 0.3749,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.1344,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-06-19T15:41:07.211000Z",
-      "latest_at": "2026-06-19T15:41:07.266000Z",
-      "primary_item": {
-        "id": "46053d92fe22770cc36ace2a2cf1e79f3f620930",
-        "title": "世界各国领导人想要美国的人工智能，但他们不希望美国能够将其关闭。 - TechCrunch",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOU2RiZ01UMGxia3dEbjZJVlVjYXFKRDNMU2tZemdRVjVmMDdIc1d1LTZZUzl3ZHRrTjFyUlhtX1dkbFdoZ3R5cG41Qmw2TlVIS2VnRVhXWnV1LTdrTTlvckF5RExZTVNyS2NPQW9CVmFyOFgyN0hpM2NMdWEwTDkzZm1RZUdzVTFtUVBiQkphcy1HazdCN1B2UjZNWmFNT09Ob1FYeEJial9lT0FReFZoZDkyX2RobW5KUi1r?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "source": "news.google.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_c76594c12c3c",
-      "title": "aishwaryanr / awesome-generative-ai-guide",
-      "url": "https://github.com/aishwaryanr/awesome-generative-ai-guide",
-      "primary_url": "https://github.com/aishwaryanr/awesome-generative-ai-guide",
-      "source": "GitHub · Trending Today",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "1b9a49a4afb84d9495d7360ab33b73f15d3928e4",
-          "title": "aishwaryanr / awesome-generative-ai-guide",
-          "url": "https://github.com/aishwaryanr/awesome-generative-ai-guide",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "a2904a315896fd343eb7824a6d91fb1ba91abb2b",
-          "title": "aishwaryanr /      awesome-generative-ai-guide",
-          "url": "https://github.com/aishwaryanr/awesome-generative-ai-guide",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-06-19T14:04:51.741000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "GitHub · Trending Today",
-        "github"
-      ],
-      "items": [
-        {
-          "id": "1b9a49a4afb84d9495d7360ab33b73f15d3928e4",
-          "title": "aishwaryanr / awesome-generative-ai-guide",
-          "url": "https://github.com/aishwaryanr/awesome-generative-ai-guide",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "a2904a315896fd343eb7824a6d91fb1ba91abb2b",
-          "title": "aishwaryanr /      awesome-generative-ai-guide",
-          "url": "https://github.com/aishwaryanr/awesome-generative-ai-guide",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-06-19T14:04:51.741000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.3628,
-      "importance": 0.3628,
-      "importance_score": 0.3628,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.0742,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-06-19T14:04:51.741000Z",
-      "latest_at": "2026-06-19T14:14:29.867343Z",
-      "primary_item": {
-        "id": "1b9a49a4afb84d9495d7360ab33b73f15d3928e4",
-        "title": "aishwaryanr / awesome-generative-ai-guide",
-        "url": "https://github.com/aishwaryanr/awesome-generative-ai-guide",
-        "source": "GitHub · Trending Today",
-        "source_name": "TopHub"
       }
     },
     {
@@ -1419,14 +1418,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4038,
-      "importance": 0.4038,
-      "importance_score": 0.4038,
+      "score": 0.3835,
+      "importance": 0.3835,
+      "importance_score": 0.3835,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.2789,
+        "recency": 0.1773,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1441,84 +1440,6 @@
         "url": "https://www.businessinsider.com/figma-ceo-dylan-field-creative-careers-ai-graphic-design-2026-6",
         "source": "www.businessinsider.com",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_ebf58b228320",
-      "title": "与 OpenAI 合作生变：亚马逊放弃奥尔特曼传记电影《Artificial》，正在寻找新东家",
-      "url": "https://www.ithome.com/0/966/426.htm",
-      "primary_url": "https://www.ithome.com/0/966/426.htm",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "b47414843292a6e7aa1240640de86755477bc86b",
-          "title": "与 OpenAI 合作生变：亚马逊放弃奥尔特曼传记电影《Artificial》，正在寻找新东家",
-          "url": "https://www.ithome.com/0/966/426.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "1c30a2779101212b012ba1013ff5ba52f0b1d0a8",
-          "title": "与 OpenAI 合作生变：亚马逊放弃奥尔特曼传记电影《Artificial》，正在为其寻找新东家",
-          "url": "https://www.ithome.com/0/966/426.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-06-19T13:26:12Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "IT之家 (ITHome)",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "b47414843292a6e7aa1240640de86755477bc86b",
-          "title": "与 OpenAI 合作生变：亚马逊放弃奥尔特曼传记电影《Artificial》，正在寻找新东家",
-          "url": "https://www.ithome.com/0/966/426.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "1c30a2779101212b012ba1013ff5ba52f0b1d0a8",
-          "title": "与 OpenAI 合作生变：亚马逊放弃奥尔特曼传记电影《Artificial》，正在为其寻找新东家",
-          "url": "https://www.ithome.com/0/966/426.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-06-19T13:26:12Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.3628,
-      "importance": 0.3628,
-      "importance_score": 0.3628,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.0742,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-06-19T13:26:12Z",
-      "latest_at": "2026-06-19T14:14:29.867343Z",
-      "primary_item": {
-        "id": "b47414843292a6e7aa1240640de86755477bc86b",
-        "title": "与 OpenAI 合作生变：亚马逊放弃奥尔特曼传记电影《Artificial》，正在寻找新东家",
-        "url": "https://www.ithome.com/0/966/426.htm",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
       }
     },
     {
@@ -1575,14 +1496,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4015,
-      "importance": 0.4015,
-      "importance_score": 0.4015,
+      "score": 0.3812,
+      "importance": 0.3812,
+      "importance_score": 0.3812,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.2677,
+        "recency": 0.1661,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1653,14 +1574,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.3838,
-      "importance": 0.3838,
-      "importance_score": 0.3838,
+      "score": 0.3634,
+      "importance": 0.3634,
+      "importance_score": 0.3634,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.1789,
+        "recency": 0.0772,
         "story_heat": 0.25
       },
       "category": "watch",
