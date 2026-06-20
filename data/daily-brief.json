@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-06-20T17:54:43.574177Z",
+  "generated_at": "2026-06-20T19:40:19.657284Z",
   "window_hours": 24,
-  "total_items": 18,
+  "total_items": 16,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260621-0355-051b-b271-c8b24f5dfa7c&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260621-0355-051b-b271-c8b24f5dfa7c&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260621-0540-448d-9de5-fb6211bcb10e&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260621-0540-448d-9de5-fb6211bcb10e&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "53fd8bb15826db2e94b8f9251459a5353737740f",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260621-0540-448d-9de5-fb6211bcb10e&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "2577aa07b4edae9dc8cd22eba20dc0fb621c7c77",
           "title": "点击这里进入 / Click here to enter",
@@ -30,12 +39,21 @@
           "published_at": null
         }
       ],
-      "source_count": 2,
+      "source_count": 3,
       "source_names": [
         "Page Fallback"
       ],
       "items": [
         {
+          "id": "53fd8bb15826db2e94b8f9251459a5353737740f",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260621-0540-448d-9de5-fb6211bcb10e&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "2577aa07b4edae9dc8cd22eba20dc0fb621c7c77",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260621-0355-051b-b271-c8b24f5dfa7c&fp=-3",
@@ -54,30 +72,30 @@
           "published_at": null
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.837,
-      "importance": 0.837,
-      "importance_score": 0.837,
-      "importance_label": "行业动态",
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.862,
+      "importance": 0.862,
+      "importance_score": 0.862,
+      "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
         "recency": 1.0,
-        "story_heat": 0.25
+        "story_heat": 0.5
       },
-      "category": "industry",
+      "category": "multi_source",
       "reasons": [
         "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
       "earliest_at": "2026-06-20T16:21:08.294956Z",
-      "latest_at": "2026-06-20T17:54:43.574177Z",
+      "latest_at": "2026-06-20T19:40:19.657284Z",
       "primary_item": {
-        "id": "2577aa07b4edae9dc8cd22eba20dc0fb621c7c77",
+        "id": "53fd8bb15826db2e94b8f9251459a5353737740f",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260621-0355-051b-b271-c8b24f5dfa7c&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260621-0540-448d-9de5-fb6211bcb10e&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
       }
@@ -117,14 +135,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.765,
-      "importance": 0.765,
-      "importance_score": 0.765,
+      "score": 0.7503,
+      "importance": 0.7503,
+      "importance_score": 0.7503,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.765,
+        "recency": 0.6916,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -143,79 +161,117 @@
       }
     },
     {
-      "story_id": "story_a4b90cb09aca",
-      "title": "育碧联合创始人克劳德·吉列莫特 (Claude Guillemot) 因飞机失事身亡 / Ubisoft co-founder Claude Guillemot has died in a plane crash",
-      "url": "https://news.ycombinator.com/item?id=48609373",
-      "primary_url": "https://news.ycombinator.com/item?id=48609373",
+      "story_id": "story_6f673fe96a7a",
+      "title": "机构偷了畅销书作者的书，用人工智能重新推出自己的书 / Agency stole bestselling author's book, used AI to relaunch as their own",
+      "url": "https://news.ycombinator.com/item?id=48611411",
+      "primary_url": "https://news.ycombinator.com/item?id=48611411",
       "source": "hackernews",
       "source_name": "NewsNow",
       "sources": [
         {
-          "id": "74cedf8c277549ea1cea9db7f30a9db5bebd0173",
-          "title": "育碧联合创始人克劳德·吉列莫特 (Claude Guillemot) 因飞机失事身亡 / Ubisoft co-founder Claude Guillemot has died in a plane crash",
-          "url": "https://news.ycombinator.com/item?id=48609373",
+          "id": "96685bb9ea8cb02c05fed8aaf648c56b928096a5",
+          "title": "机构偷了畅销书作者的书，用人工智能重新推出自己的书 / Agency stole bestselling author's book, used AI to relaunch as their own",
+          "url": "https://news.ycombinator.com/item?id=48611411",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-06-20T16:21:44.874000Z"
+          "published_at": "2026-06-20T19:21:06.987000Z"
         },
         {
-          "id": "d56e2d49c315c846c93e5463b04609667fe77dea",
-          "title": "育碧联合创始人克劳德·吉勒莫特在空难中去世，享年69岁 / Ubisoft co-founder Claude Guillemot has died in a plane crash",
-          "url": "https://www.bloomberg.com/news/articles/2026-06-20/ubisoft-co-founder-claude-guillemot-dies-in-air-crash-at-age-69",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-06-20T14:12:50Z"
+          "id": "871696fadd40fe623ff5e452b96454f38b0a7599",
+          "title": "某经纪公司盗用畅销书作家的作品，利用人工智能将其重新包装为自家作品",
+          "url": "https://waxy.org/2026/06/the-wholesale-plagiarism-of-obscure-sorrows",
+          "source": "waxy.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-20T18:53:17.123000Z"
+        },
+        {
+          "id": "5c9a267d948401c7a9f8193cfbc23418154cbab7",
+          "title": "某经纪公司盗用畅销书作家的作品，利用人工智能将其重新包装为自家作品 / Agency stole bestselling author's book, used AI to relaunch as their own",
+          "url": "https://waxy.org/2026/06/the-wholesale-plagiarism-of-obscure-sorrows",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-06-20T18:05:31Z"
+        },
+        {
+          "id": "f02b03f7e11f94266d6ef46c18254cbe96f22333",
+          "title": "某经纪公司盗用畅销书作家的作品，利用人工智能将其重新包装为自家作品 / The Wholesale Plagiarism of Obscure Sorrows",
+          "url": "https://waxy.org/2026/06/the-wholesale-plagiarism-of-obscure-sorrows",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-06-20T18:05:31Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 4,
       "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
+        "Hacker News",
+        "Hacker News · 24h最热",
+        "hackernews",
+        "waxy.org"
       ],
       "items": [
         {
-          "id": "74cedf8c277549ea1cea9db7f30a9db5bebd0173",
-          "title": "育碧联合创始人克劳德·吉列莫特 (Claude Guillemot) 因飞机失事身亡 / Ubisoft co-founder Claude Guillemot has died in a plane crash",
-          "url": "https://news.ycombinator.com/item?id=48609373",
+          "id": "96685bb9ea8cb02c05fed8aaf648c56b928096a5",
+          "title": "机构偷了畅销书作者的书，用人工智能重新推出自己的书 / Agency stole bestselling author's book, used AI to relaunch as their own",
+          "url": "https://news.ycombinator.com/item?id=48611411",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-06-20T16:21:44.874000Z"
+          "published_at": "2026-06-20T19:21:06.987000Z"
         },
         {
-          "id": "d56e2d49c315c846c93e5463b04609667fe77dea",
-          "title": "育碧联合创始人克劳德·吉勒莫特在空难中去世，享年69岁 / Ubisoft co-founder Claude Guillemot has died in a plane crash",
-          "url": "https://www.bloomberg.com/news/articles/2026-06-20/ubisoft-co-founder-claude-guillemot-dies-in-air-crash-at-age-69",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-06-20T14:12:50Z"
+          "id": "871696fadd40fe623ff5e452b96454f38b0a7599",
+          "title": "某经纪公司盗用畅销书作家的作品，利用人工智能将其重新包装为自家作品",
+          "url": "https://waxy.org/2026/06/the-wholesale-plagiarism-of-obscure-sorrows",
+          "source": "waxy.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-20T18:53:17.123000Z"
+        },
+        {
+          "id": "5c9a267d948401c7a9f8193cfbc23418154cbab7",
+          "title": "某经纪公司盗用畅销书作家的作品，利用人工智能将其重新包装为自家作品 / Agency stole bestselling author's book, used AI to relaunch as their own",
+          "url": "https://waxy.org/2026/06/the-wholesale-plagiarism-of-obscure-sorrows",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-06-20T18:05:31Z"
+        },
+        {
+          "id": "f02b03f7e11f94266d6ef46c18254cbe96f22333",
+          "title": "某经纪公司盗用畅销书作家的作品，利用人工智能将其重新包装为自家作品 / The Wholesale Plagiarism of Obscure Sorrows",
+          "url": "https://waxy.org/2026/06/the-wholesale-plagiarism-of-obscure-sorrows",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-06-20T18:05:31Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5351,
-      "importance": 0.5351,
-      "importance_score": 0.5351,
-      "importance_label": "值得关注",
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.5953,
+      "importance": 0.5953,
+      "importance_score": 0.5953,
+      "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9354,
-        "story_heat": 0.25
+        "recency": 0.9867,
+        "story_heat": 0.75
       },
-      "category": "watch",
+      "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-06-20T14:12:50Z",
-      "latest_at": "2026-06-20T16:21:44.874000Z",
+      "earliest_at": "2026-06-20T18:05:31Z",
+      "latest_at": "2026-06-20T19:21:06.987000Z",
       "primary_item": {
-        "id": "74cedf8c277549ea1cea9db7f30a9db5bebd0173",
-        "title": "育碧联合创始人克劳德·吉列莫特 (Claude Guillemot) 因飞机失事身亡 / Ubisoft co-founder Claude Guillemot has died in a plane crash",
-        "url": "https://news.ycombinator.com/item?id=48609373",
+        "id": "96685bb9ea8cb02c05fed8aaf648c56b928096a5",
+        "title": "机构偷了畅销书作者的书，用人工智能重新推出自己的书 / Agency stole bestselling author's book, used AI to relaunch as their own",
+        "url": "https://news.ycombinator.com/item?id=48611411",
         "source": "hackernews",
         "source_name": "NewsNow"
       }
@@ -274,14 +330,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.535,
-      "importance": 0.535,
-      "importance_score": 0.535,
+      "score": 0.5203,
+      "importance": 0.5203,
+      "importance_score": 0.5203,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.935,
+        "recency": 0.8617,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -296,6 +352,103 @@
         "url": "https://www.huxiu.com/article/4868898.html?f=rss",
         "source": "Readhub · AI",
         "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_a4b90cb09aca",
+      "title": "育碧联合创始人克劳德·吉列莫特 (Claude Guillemot) 因飞机失事身亡 / Ubisoft co-founder Claude Guillemot has died in a plane crash",
+      "url": "https://news.ycombinator.com/item?id=48609373",
+      "primary_url": "https://news.ycombinator.com/item?id=48609373",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "74cedf8c277549ea1cea9db7f30a9db5bebd0173",
+          "title": "育碧联合创始人克劳德·吉列莫特 (Claude Guillemot) 因飞机失事身亡 / Ubisoft co-founder Claude Guillemot has died in a plane crash",
+          "url": "https://news.ycombinator.com/item?id=48609373",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-06-20T16:21:44.874000Z"
+        },
+        {
+          "id": "d56e2d49c315c846c93e5463b04609667fe77dea",
+          "title": "育碧联合创始人克劳德·吉勒莫特在空难中去世，享年69岁 / Ubisoft co-founder Claude Guillemot has died in a plane crash",
+          "url": "https://www.bloomberg.com/news/articles/2026-06-20/ubisoft-co-founder-claude-guillemot-dies-in-air-crash-at-age-69",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-20T14:12:50Z"
+        },
+        {
+          "id": "b673cf70a74aa09757acb9494c1b6e284ab4109a",
+          "title": "育碧联合创始人克劳德·吉勒莫在飞机失事中遇难 / Ubisoft co-founder Claude Guillemot has died in a plane crash",
+          "url": "https://www.reuters.com/world/ubisofts-co-founder-claude-guillemot-dies-plane-crash-2026-06-20",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-06-20T14:12:50Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "74cedf8c277549ea1cea9db7f30a9db5bebd0173",
+          "title": "育碧联合创始人克劳德·吉列莫特 (Claude Guillemot) 因飞机失事身亡 / Ubisoft co-founder Claude Guillemot has died in a plane crash",
+          "url": "https://news.ycombinator.com/item?id=48609373",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-06-20T16:21:44.874000Z"
+        },
+        {
+          "id": "d56e2d49c315c846c93e5463b04609667fe77dea",
+          "title": "育碧联合创始人克劳德·吉勒莫特在空难中去世，享年69岁 / Ubisoft co-founder Claude Guillemot has died in a plane crash",
+          "url": "https://www.bloomberg.com/news/articles/2026-06-20/ubisoft-co-founder-claude-guillemot-dies-in-air-crash-at-age-69",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-20T14:12:50Z"
+        },
+        {
+          "id": "b673cf70a74aa09757acb9494c1b6e284ab4109a",
+          "title": "育碧联合创始人克劳德·吉勒莫在飞机失事中遇难 / Ubisoft co-founder Claude Guillemot has died in a plane crash",
+          "url": "https://www.reuters.com/world/ubisofts-co-founder-claude-guillemot-dies-plane-crash-2026-06-20",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-06-20T14:12:50Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5454,
+      "importance": 0.5454,
+      "importance_score": 0.5454,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8621,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-06-20T14:12:50Z",
+      "latest_at": "2026-06-20T16:21:44.874000Z",
+      "primary_item": {
+        "id": "74cedf8c277549ea1cea9db7f30a9db5bebd0173",
+        "title": "育碧联合创始人克劳德·吉列莫特 (Claude Guillemot) 因飞机失事身亡 / Ubisoft co-founder Claude Guillemot has died in a plane crash",
+        "url": "https://news.ycombinator.com/item?id=48609373",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     },
     {
@@ -352,14 +505,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5272,
-      "importance": 0.5272,
-      "importance_score": 0.5272,
+      "score": 0.5126,
+      "importance": 0.5126,
+      "importance_score": 0.5126,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8961,
+        "recency": 0.8228,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -429,14 +582,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5204,
-      "importance": 0.5204,
-      "importance_score": 0.5204,
+      "score": 0.5057,
+      "importance": 0.5057,
+      "importance_score": 0.5057,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.862,
+        "recency": 0.7887,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -507,14 +660,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5199,
-      "importance": 0.5199,
-      "importance_score": 0.5199,
+      "score": 0.5052,
+      "importance": 0.5052,
+      "importance_score": 0.5052,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8594,
+        "recency": 0.7861,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -623,14 +776,14 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.4994,
-      "importance": 0.4994,
-      "importance_score": 0.4994,
+      "score": 0.4848,
+      "importance": 0.4848,
+      "importance_score": 0.4848,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.5072,
+        "recency": 0.4339,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -645,84 +798,6 @@
         "url": "https://www.ft.com/content/1d37cc08-e0aa-45a4-a45d-4ad282529314",
         "source": "www.ft.com",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_fd6b244d6a5f",
-      "title": "AI 代理的临时 Cloudflare 帐户 / Temporary Cloudflare Accounts for AI Agents",
-      "url": "https://news.ycombinator.com/item?id=48608394",
-      "primary_url": "https://news.ycombinator.com/item?id=48608394",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "be6db6a7713e9be8b07b1e1d8c5805eae89c1331",
-          "title": "AI 代理的临时 Cloudflare 帐户 / Temporary Cloudflare Accounts for AI Agents",
-          "url": "https://news.ycombinator.com/item?id=48608394",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-06-20T14:54:36.140000Z"
-        },
-        {
-          "id": "a1a87e6ee558095aa56dacea3fc7db142f61a6e0",
-          "title": "AI 代理的临时 Cloudflare 帐户 / Temporary Cloudflare Accounts for AI Agents",
-          "url": "https://blog.cloudflare.com/temporary-accounts",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-06-20T11:19:05Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "be6db6a7713e9be8b07b1e1d8c5805eae89c1331",
-          "title": "AI 代理的临时 Cloudflare 帐户 / Temporary Cloudflare Accounts for AI Agents",
-          "url": "https://news.ycombinator.com/item?id=48608394",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-06-20T14:54:36.140000Z"
-        },
-        {
-          "id": "a1a87e6ee558095aa56dacea3fc7db142f61a6e0",
-          "title": "AI 代理的临时 Cloudflare 帐户 / Temporary Cloudflare Accounts for AI Agents",
-          "url": "https://blog.cloudflare.com/temporary-accounts",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-06-20T11:19:05Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.523,
-      "importance": 0.523,
-      "importance_score": 0.523,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8749,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-06-20T11:19:05Z",
-      "latest_at": "2026-06-20T14:54:36.140000Z",
-      "primary_item": {
-        "id": "be6db6a7713e9be8b07b1e1d8c5805eae89c1331",
-        "title": "AI 代理的临时 Cloudflare 帐户 / Temporary Cloudflare Accounts for AI Agents",
-        "url": "https://news.ycombinator.com/item?id=48608394",
-        "source": "hackernews",
-        "source_name": "NewsNow"
       }
     },
     {
@@ -779,14 +854,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.485,
-      "importance": 0.485,
-      "importance_score": 0.485,
+      "score": 0.4703,
+      "importance": 0.4703,
+      "importance_score": 0.4703,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.685,
+        "recency": 0.6117,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -857,14 +932,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5026,
-      "importance": 0.5026,
-      "importance_score": 0.5026,
+      "score": 0.4879,
+      "importance": 0.4879,
+      "importance_score": 0.4879,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7728,
+        "recency": 0.6995,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -879,6 +954,84 @@
         "url": "https://www.huxiu.com/article/4868875.html?f=rss",
         "source": "Readhub · AI",
         "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_fd6b244d6a5f",
+      "title": "AI 代理的临时 Cloudflare 帐户 / Temporary Cloudflare Accounts for AI Agents",
+      "url": "https://news.ycombinator.com/item?id=48608394",
+      "primary_url": "https://news.ycombinator.com/item?id=48608394",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "be6db6a7713e9be8b07b1e1d8c5805eae89c1331",
+          "title": "AI 代理的临时 Cloudflare 帐户 / Temporary Cloudflare Accounts for AI Agents",
+          "url": "https://news.ycombinator.com/item?id=48608394",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-06-20T14:54:36.140000Z"
+        },
+        {
+          "id": "a1a87e6ee558095aa56dacea3fc7db142f61a6e0",
+          "title": "AI 代理的临时 Cloudflare 帐户 / Temporary Cloudflare Accounts for AI Agents",
+          "url": "https://blog.cloudflare.com/temporary-accounts",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-20T11:19:05Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "be6db6a7713e9be8b07b1e1d8c5805eae89c1331",
+          "title": "AI 代理的临时 Cloudflare 帐户 / Temporary Cloudflare Accounts for AI Agents",
+          "url": "https://news.ycombinator.com/item?id=48608394",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-06-20T14:54:36.140000Z"
+        },
+        {
+          "id": "a1a87e6ee558095aa56dacea3fc7db142f61a6e0",
+          "title": "AI 代理的临时 Cloudflare 帐户 / Temporary Cloudflare Accounts for AI Agents",
+          "url": "https://blog.cloudflare.com/temporary-accounts",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-20T11:19:05Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5083,
+      "importance": 0.5083,
+      "importance_score": 0.5083,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8016,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-06-20T11:19:05Z",
+      "latest_at": "2026-06-20T14:54:36.140000Z",
+      "primary_item": {
+        "id": "be6db6a7713e9be8b07b1e1d8c5805eae89c1331",
+        "title": "AI 代理的临时 Cloudflare 帐户 / Temporary Cloudflare Accounts for AI Agents",
+        "url": "https://news.ycombinator.com/item?id=48608394",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     },
     {
@@ -935,14 +1088,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4717,
-      "importance": 0.4717,
-      "importance_score": 0.4717,
+      "score": 0.457,
+      "importance": 0.457,
+      "importance_score": 0.457,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6184,
+        "recency": 0.545,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1051,14 +1204,14 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.4404,
-      "importance": 0.4404,
-      "importance_score": 0.4404,
+      "score": 0.4257,
+      "importance": 0.4257,
+      "importance_score": 0.4257,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.212,
+        "recency": 0.1387,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -1129,14 +1282,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4317,
-      "importance": 0.4317,
-      "importance_score": 0.4317,
+      "score": 0.417,
+      "importance": 0.417,
+      "importance_score": 0.417,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.4185,
+        "recency": 0.3452,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1207,14 +1360,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.3821,
-      "importance": 0.3821,
-      "importance_score": 0.3821,
+      "score": 0.3674,
+      "importance": 0.3674,
+      "importance_score": 0.3674,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.1703,
+        "recency": 0.097,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1229,240 +1382,6 @@
         "url": "https://yro.slashdot.org/story/26/06/19/2140248/norway-imposes-near-ban-on-ai-in-elementary-school",
         "source": "Slashdot (科技资讯)",
         "source_name": "Info Flow"
-      }
-    },
-    {
-      "story_id": "story_86a444136885",
-      "title": "Figma首席执行官解释了为什么创意人士不必担心人工智能生成的设计",
-      "url": "https://www.businessinsider.com/figma-ceo-dylan-field-creative-careers-ai-graphic-design-2026-6",
-      "primary_url": "https://www.businessinsider.com/figma-ceo-dylan-field-creative-careers-ai-graphic-design-2026-6",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "3377c33a8c3ec6965cb8466e5a0c8cf9b7e82929",
-          "title": "Figma首席执行官解释了为什么创意人士不必担心人工智能生成的设计",
-          "url": "https://www.businessinsider.com/figma-ceo-dylan-field-creative-careers-ai-graphic-design-2026-6",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-19T19:09:16.571000Z"
-        },
-        {
-          "id": "73d92becae663733c2283d710e2969d8d6312407",
-          "title": "Figma首席执行官解释了为什么创意人士不必担心人工智能生成的设计 / Figma CEO explains why creative people shouldn't worry about AI-generated design",
-          "url": "https://www.businessinsider.com/figma-ceo-dylan-field-creative-careers-ai-graphic-design-2026-6",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-06-19T18:50:40Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "3377c33a8c3ec6965cb8466e5a0c8cf9b7e82929",
-          "title": "Figma首席执行官解释了为什么创意人士不必担心人工智能生成的设计",
-          "url": "https://www.businessinsider.com/figma-ceo-dylan-field-creative-careers-ai-graphic-design-2026-6",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-19T19:09:16.571000Z"
-        },
-        {
-          "id": "73d92becae663733c2283d710e2969d8d6312407",
-          "title": "Figma首席执行官解释了为什么创意人士不必担心人工智能生成的设计 / Figma CEO explains why creative people shouldn't worry about AI-generated design",
-          "url": "https://www.businessinsider.com/figma-ceo-dylan-field-creative-careers-ai-graphic-design-2026-6",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-06-19T18:50:40Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.3584,
-      "importance": 0.3584,
-      "importance_score": 0.3584,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.0518,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-06-19T18:50:40Z",
-      "latest_at": "2026-06-19T19:09:16.571000Z",
-      "primary_item": {
-        "id": "3377c33a8c3ec6965cb8466e5a0c8cf9b7e82929",
-        "title": "Figma首席执行官解释了为什么创意人士不必担心人工智能生成的设计",
-        "url": "https://www.businessinsider.com/figma-ceo-dylan-field-creative-careers-ai-graphic-design-2026-6",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_d6fe158cc16a",
-      "title": "人工智能正在毁掉我们的技能吗？早期结果已经出来——但并不好 / Is AI ruining our skills? Early results are in – and they're not good",
-      "url": "https://news.ycombinator.com/item?id=48601286",
-      "primary_url": "https://news.ycombinator.com/item?id=48601286",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "b32b8da8f156b35d7489a6379637e9d5410d2f88",
-          "title": "人工智能正在毁掉我们的技能吗？早期结果已经出来——但并不好 / Is AI ruining our skills? Early results are in – and they're not good",
-          "url": "https://news.ycombinator.com/item?id=48601286",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-06-19T18:39:54.045000Z"
-        },
-        {
-          "id": "d32da68dfa47d44f485f0913e49a8fef91b9a756",
-          "title": "人工智能正在毁掉我们的技能吗？早期结果已经出来——但并不好 / Is AI ruining our skills? Early results are in – and they're not good",
-          "url": "https://www.nature.com/articles/d41586-026-01947-1",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-06-19T18:00:48Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "b32b8da8f156b35d7489a6379637e9d5410d2f88",
-          "title": "人工智能正在毁掉我们的技能吗？早期结果已经出来——但并不好 / Is AI ruining our skills? Early results are in – and they're not good",
-          "url": "https://news.ycombinator.com/item?id=48601286",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-06-19T18:39:54.045000Z"
-        },
-        {
-          "id": "d32da68dfa47d44f485f0913e49a8fef91b9a756",
-          "title": "人工智能正在毁掉我们的技能吗？早期结果已经出来——但并不好 / Is AI ruining our skills? Early results are in – and they're not good",
-          "url": "https://www.nature.com/articles/d41586-026-01947-1",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-06-19T18:00:48Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.3543,
-      "importance": 0.3543,
-      "importance_score": 0.3543,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.0314,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-06-19T18:00:48Z",
-      "latest_at": "2026-06-19T18:39:54.045000Z",
-      "primary_item": {
-        "id": "b32b8da8f156b35d7489a6379637e9d5410d2f88",
-        "title": "人工智能正在毁掉我们的技能吗？早期结果已经出来——但并不好 / Is AI ruining our skills? Early results are in – and they're not good",
-        "url": "https://news.ycombinator.com/item?id=48601286",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_d4e0bf6ebf73",
-      "title": "曾与德米斯·哈萨比斯共同荣获诺贝尔奖的AlphaFold先驱者离开谷歌DeepMind，加入Anthropic",
-      "url": "https://www.businessinsider.com/alphafold-john-jumper-leaves-google-deepmind-anthropic-demis-hassabis-nobel-2026-6",
-      "primary_url": "https://www.businessinsider.com/alphafold-john-jumper-leaves-google-deepmind-anthropic-demis-hassabis-nobel-2026-6",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "2fca10fdc703d9fd900dd704ee885738e0757e99",
-          "title": "曾与德米斯·哈萨比斯共同荣获诺贝尔奖的AlphaFold先驱者离开谷歌DeepMind，加入Anthropic",
-          "url": "https://www.businessinsider.com/alphafold-john-jumper-leaves-google-deepmind-anthropic-demis-hassabis-nobel-2026-6",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-19T18:53:08.379000Z"
-        },
-        {
-          "id": "73abdd4479b845b7e2c9dfffa32bb539c19ceac8",
-          "title": "曾与德米斯·哈萨比斯共同荣获诺贝尔奖的AlphaFold先驱者离开谷歌DeepMind，加入Anthropic / AlphaFold pioneer who won a Nobel Prize alongside Demis Hassabis leaves Google DeepMind for Anthropic",
-          "url": "https://www.businessinsider.com/alphafold-john-jumper-leaves-google-deepmind-anthropic-demis-hassabis-nobel-2026-6",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-06-19T18:33:39Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "2fca10fdc703d9fd900dd704ee885738e0757e99",
-          "title": "曾与德米斯·哈萨比斯共同荣获诺贝尔奖的AlphaFold先驱者离开谷歌DeepMind，加入Anthropic",
-          "url": "https://www.businessinsider.com/alphafold-john-jumper-leaves-google-deepmind-anthropic-demis-hassabis-nobel-2026-6",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-19T18:53:08.379000Z"
-        },
-        {
-          "id": "73abdd4479b845b7e2c9dfffa32bb539c19ceac8",
-          "title": "曾与德米斯·哈萨比斯共同荣获诺贝尔奖的AlphaFold先驱者离开谷歌DeepMind，加入Anthropic / AlphaFold pioneer who won a Nobel Prize alongside Demis Hassabis leaves Google DeepMind for Anthropic",
-          "url": "https://www.businessinsider.com/alphafold-john-jumper-leaves-google-deepmind-anthropic-demis-hassabis-nobel-2026-6",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-06-19T18:33:39Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.3561,
-      "importance": 0.3561,
-      "importance_score": 0.3561,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.0406,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-06-19T18:33:39Z",
-      "latest_at": "2026-06-19T18:53:08.379000Z",
-      "primary_item": {
-        "id": "2fca10fdc703d9fd900dd704ee885738e0757e99",
-        "title": "曾与德米斯·哈萨比斯共同荣获诺贝尔奖的AlphaFold先驱者离开谷歌DeepMind，加入Anthropic",
-        "url": "https://www.businessinsider.com/alphafold-john-jumper-leaves-google-deepmind-anthropic-demis-hassabis-nobel-2026-6",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
       }
     }
   ]
