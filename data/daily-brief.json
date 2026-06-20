@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-06-20T21:20:15.935467Z",
+  "generated_at": "2026-06-20T22:43:00.083424Z",
   "window_hours": 24,
-  "total_items": 14,
+  "total_items": 13,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260621-0720-415d-99a2-c3bb349abb33&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260621-0720-415d-99a2-c3bb349abb33&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260621-0843-2871-883d-e1d76e5525b8&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260621-0843-2871-883d-e1d76e5525b8&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "3063595cf629d4fa49aa433afad392acc761806c",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260621-0843-2871-883d-e1d76e5525b8&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "4bb53776cd5dfe3667f9e5a0b69413569814d4bf",
           "title": "点击这里进入 / Click here to enter",
@@ -48,12 +57,21 @@
           "published_at": null
         }
       ],
-      "source_count": 4,
+      "source_count": 5,
       "source_names": [
         "Page Fallback"
       ],
       "items": [
         {
+          "id": "3063595cf629d4fa49aa433afad392acc761806c",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260621-0843-2871-883d-e1d76e5525b8&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "4bb53776cd5dfe3667f9e5a0b69413569814d4bf",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260621-0720-415d-99a2-c3bb349abb33&fp=-3",
@@ -90,17 +108,17 @@
           "published_at": null
         }
       ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.887,
-      "importance": 0.887,
-      "importance_score": 0.887,
+      "item_count": 5,
+      "duplicate_count": 5,
+      "score": 0.912,
+      "importance": 0.912,
+      "importance_score": 0.912,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
         "recency": 1.0,
-        "story_heat": 0.75
+        "story_heat": 1.0
       },
       "category": "multi_source",
       "reasons": [
@@ -109,11 +127,11 @@
         "high_importance"
       ],
       "earliest_at": "2026-06-20T16:21:08.294956Z",
-      "latest_at": "2026-06-20T21:20:15.935467Z",
+      "latest_at": "2026-06-20T22:43:00.083424Z",
       "primary_item": {
-        "id": "4bb53776cd5dfe3667f9e5a0b69413569814d4bf",
+        "id": "3063595cf629d4fa49aa433afad392acc761806c",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260621-0720-415d-99a2-c3bb349abb33&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260621-0843-2871-883d-e1d76e5525b8&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
       }
@@ -153,14 +171,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7364,
-      "importance": 0.7364,
-      "importance_score": 0.7364,
+      "score": 0.725,
+      "importance": 0.725,
+      "importance_score": 0.725,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6222,
+        "recency": 0.5648,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -269,14 +287,14 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5815,
-      "importance": 0.5815,
-      "importance_score": 0.5815,
+      "score": 0.57,
+      "importance": 0.57,
+      "importance_score": 0.57,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9173,
+        "recency": 0.8598,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -366,14 +384,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5637,
-      "importance": 0.5637,
-      "importance_score": 0.5637,
+      "score": 0.5522,
+      "importance": 0.5522,
+      "importance_score": 0.5522,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9534,
+        "recency": 0.8959,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -444,14 +462,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5065,
-      "importance": 0.5065,
-      "importance_score": 0.5065,
+      "score": 0.495,
+      "importance": 0.495,
+      "importance_score": 0.495,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7923,
+        "recency": 0.7348,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -541,14 +559,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5315,
-      "importance": 0.5315,
-      "importance_score": 0.5315,
+      "score": 0.52,
+      "importance": 0.52,
+      "importance_score": 0.52,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7927,
+        "recency": 0.7352,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -619,14 +637,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4987,
-      "importance": 0.4987,
-      "importance_score": 0.4987,
+      "score": 0.4872,
+      "importance": 0.4872,
+      "importance_score": 0.4872,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7534,
+        "recency": 0.6959,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -696,14 +714,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4919,
-      "importance": 0.4919,
-      "importance_score": 0.4919,
+      "score": 0.4804,
+      "importance": 0.4804,
+      "importance_score": 0.4804,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7193,
+        "recency": 0.6618,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -774,14 +792,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4565,
-      "importance": 0.4565,
-      "importance_score": 0.4565,
+      "score": 0.445,
+      "importance": 0.445,
+      "importance_score": 0.445,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.5423,
+        "recency": 0.4848,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -852,14 +870,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5065,
-      "importance": 0.5065,
-      "importance_score": 0.5065,
+      "score": 0.495,
+      "importance": 0.495,
+      "importance_score": 0.495,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7927,
+        "recency": 0.7352,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -930,14 +948,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.474,
-      "importance": 0.474,
-      "importance_score": 0.474,
+      "score": 0.4625,
+      "importance": 0.4625,
+      "importance_score": 0.4625,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6301,
+        "recency": 0.5726,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1008,14 +1026,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4431,
-      "importance": 0.4431,
-      "importance_score": 0.4431,
+      "score": 0.4316,
+      "importance": 0.4316,
+      "importance_score": 0.4316,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.4756,
+        "recency": 0.4182,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1086,14 +1104,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4032,
-      "importance": 0.4032,
-      "importance_score": 0.4032,
+      "score": 0.3917,
+      "importance": 0.3917,
+      "importance_score": 0.3917,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.2758,
+        "recency": 0.2183,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1108,84 +1126,6 @@
         "url": "https://surfingcomplexity.blog/2026/06/19/i-am-dreading-our-llm-written-incident-report-future",
         "source": "surfingcomplexity.blog",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_7003315c4bc6",
-      "title": "挪威小学近乎禁止人工智能 / Norway Imposes Near Ban On AI In Elementary School",
-      "url": "https://yro.slashdot.org/story/26/06/19/2140248/norway-imposes-near-ban-on-ai-in-elementary-school",
-      "primary_url": "https://yro.slashdot.org/story/26/06/19/2140248/norway-imposes-near-ban-on-ai-in-elementary-school",
-      "source": "Slashdot (科技资讯)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "b129530196b10181233d9a02e60a50cb92e2cd7b",
-          "title": "挪威小学近乎禁止人工智能 / Norway Imposes Near Ban On AI In Elementary School",
-          "url": "https://yro.slashdot.org/story/26/06/19/2140248/norway-imposes-near-ban-on-ai-in-elementary-school",
-          "source": "Slashdot (科技资讯)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-06-19T22:00:00Z"
-        },
-        {
-          "id": "941a9af5e7fc879a34283cd840f84df85d53deeb",
-          "title": "挪威小学几乎禁止人工智能 / Norway imposes near ban on AI in elementary school",
-          "url": "https://news.ycombinator.com/item?id=48600093",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-06-19T21:40:15.701000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Slashdot (科技资讯)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "b129530196b10181233d9a02e60a50cb92e2cd7b",
-          "title": "挪威小学近乎禁止人工智能 / Norway Imposes Near Ban On AI In Elementary School",
-          "url": "https://yro.slashdot.org/story/26/06/19/2140248/norway-imposes-near-ban-on-ai-in-elementary-school",
-          "source": "Slashdot (科技资讯)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-06-19T22:00:00Z"
-        },
-        {
-          "id": "941a9af5e7fc879a34283cd840f84df85d53deeb",
-          "title": "挪威小学几乎禁止人工智能 / Norway imposes near ban on AI in elementary school",
-          "url": "https://news.ycombinator.com/item?id=48600093",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-06-19T21:40:15.701000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.3535,
-      "importance": 0.3535,
-      "importance_score": 0.3535,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.0276,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-06-19T21:40:15.701000Z",
-      "latest_at": "2026-06-19T22:00:00Z",
-      "primary_item": {
-        "id": "b129530196b10181233d9a02e60a50cb92e2cd7b",
-        "title": "挪威小学近乎禁止人工智能 / Norway Imposes Near Ban On AI In Elementary School",
-        "url": "https://yro.slashdot.org/story/26/06/19/2140248/norway-imposes-near-ban-on-ai-in-elementary-school",
-        "source": "Slashdot (科技资讯)",
-        "source_name": "Info Flow"
       }
     }
   ]
