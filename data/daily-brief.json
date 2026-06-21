@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-06-21T00:09:55.981761Z",
+  "generated_at": "2026-06-21T05:26:04.479206Z",
   "window_hours": 24,
-  "total_items": 12,
+  "total_items": 18,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260621-1010-42db-99af-b92fc8f94573&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260621-1010-42db-99af-b92fc8f94573&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260621-1526-333a-a75d-03a2cc99cdc1&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260621-1526-333a-a75d-03a2cc99cdc1&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "3fce900cefb7c6abc2c3d60ea75dd85a4d237088",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260621-1526-333a-a75d-03a2cc99cdc1&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "5e9190618343b068d72159a05077d2fa62a5d46d",
           "title": "点击这里进入 / Click here to enter",
@@ -66,12 +75,21 @@
           "published_at": null
         }
       ],
-      "source_count": 6,
+      "source_count": 7,
       "source_names": [
         "Page Fallback"
       ],
       "items": [
         {
+          "id": "3fce900cefb7c6abc2c3d60ea75dd85a4d237088",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260621-1526-333a-a75d-03a2cc99cdc1&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "5e9190618343b068d72159a05077d2fa62a5d46d",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260621-1010-42db-99af-b92fc8f94573&fp=-3",
@@ -126,8 +144,8 @@
           "published_at": null
         }
       ],
-      "item_count": 6,
-      "duplicate_count": 6,
+      "item_count": 7,
+      "duplicate_count": 7,
       "score": 0.912,
       "importance": 0.912,
       "importance_score": 0.912,
@@ -145,129 +163,560 @@
         "high_importance"
       ],
       "earliest_at": "2026-06-20T16:21:08.294956Z",
-      "latest_at": "2026-06-21T00:09:55.981761Z",
+      "latest_at": "2026-06-21T05:26:04.479206Z",
       "primary_item": {
-        "id": "5e9190618343b068d72159a05077d2fa62a5d46d",
+        "id": "3fce900cefb7c6abc2c3d60ea75dd85a4d237088",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260621-1010-42db-99af-b92fc8f94573&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260621-1526-333a-a75d-03a2cc99cdc1&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
       }
     },
     {
-      "story_id": "story_6f673fe96a7a",
-      "title": "机构偷了畅销书作者的书，用人工智能重新推出自己的书 / Agency stole bestselling author's book, used AI to relaunch as their own",
-      "url": "https://news.ycombinator.com/item?id=48611411",
-      "primary_url": "https://news.ycombinator.com/item?id=48611411",
+      "story_id": "story_03da314cf52b",
+      "title": "AI HOT 日报 · 2026-06-21 — 微软双向转售GPT与DeepSeek成全球最大AI中间商",
+      "url": "https://aihot.virxact.com/daily/2026-06-21",
+      "primary_url": "https://aihot.virxact.com/daily/2026-06-21",
+      "source": "AI HOT",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "b5005be1f893413cf92ebcbf024e8219d8e16853",
+          "title": "AI HOT 日报 · 2026-06-21 — 微软双向转售GPT与DeepSeek成全球最大AI中间商",
+          "url": "https://aihot.virxact.com/daily/2026-06-21",
+          "source": "AI HOT",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-21T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AI HOT"
+      ],
+      "items": [
+        {
+          "id": "b5005be1f893413cf92ebcbf024e8219d8e16853",
+          "title": "AI HOT 日报 · 2026-06-21 — 微软双向转售GPT与DeepSeek成全球最大AI中间商",
+          "url": "https://aihot.virxact.com/daily/2026-06-21",
+          "source": "AI HOT",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-21T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7667,
+      "importance": 0.7667,
+      "importance_score": 0.7667,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7736,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-21T00:00:00Z",
+      "latest_at": "2026-06-21T00:00:00Z",
+      "primary_item": {
+        "id": "b5005be1f893413cf92ebcbf024e8219d8e16853",
+        "title": "AI HOT 日报 · 2026-06-21 — 微软双向转售GPT与DeepSeek成全球最大AI中间商",
+        "url": "https://aihot.virxact.com/daily/2026-06-21",
+        "source": "AI HOT",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_bea99f24c301",
+      "title": "当我拒绝人工智能代码时，即使它有效 / When I reject AI code even if it works",
+      "url": "https://news.ycombinator.com/item?id=48614631",
+      "primary_url": "https://news.ycombinator.com/item?id=48614631",
       "source": "hackernews",
       "source_name": "NewsNow",
       "sources": [
         {
-          "id": "96685bb9ea8cb02c05fed8aaf648c56b928096a5",
-          "title": "机构偷了畅销书作者的书，用人工智能重新推出自己的书 / Agency stole bestselling author's book, used AI to relaunch as their own",
-          "url": "https://news.ycombinator.com/item?id=48611411",
+          "id": "4e8424118c861548c8df41d76a5945f555a4d0b4",
+          "title": "当我拒绝人工智能代码时，即使它有效 / When I reject AI code even if it works",
+          "url": "https://news.ycombinator.com/item?id=48614631",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-06-20T19:21:06.987000Z"
+          "published_at": "2026-06-21T05:26:41.244000Z"
         },
         {
-          "id": "871696fadd40fe623ff5e452b96454f38b0a7599",
-          "title": "某经纪公司盗用畅销书作家的作品，利用人工智能将其重新包装为自家作品",
-          "url": "https://waxy.org/2026/06/the-wholesale-plagiarism-of-obscure-sorrows",
-          "source": "waxy.org",
+          "id": "fb88692a770fabce368eb14025c417c790753116",
+          "title": "即使AI生成的代码能正常运行，我也会拒绝它",
+          "url": "https://vinibrasil.com/when-i-reject-ai-code-even-if-it-works",
+          "source": "vinibrasil.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-06-20T18:53:17.123000Z"
+          "published_at": "2026-06-21T05:01:07.092000Z"
         },
         {
-          "id": "5c9a267d948401c7a9f8193cfbc23418154cbab7",
-          "title": "某经纪公司盗用畅销书作家的作品，利用人工智能将其重新包装为自家作品 / Agency stole bestselling author's book, used AI to relaunch as their own",
-          "url": "https://waxy.org/2026/06/the-wholesale-plagiarism-of-obscure-sorrows",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-06-20T18:05:31Z"
-        },
-        {
-          "id": "f02b03f7e11f94266d6ef46c18254cbe96f22333",
-          "title": "某经纪公司盗用畅销书作家的作品，利用人工智能将其重新包装为自家作品 / The Wholesale Plagiarism of Obscure Sorrows",
-          "url": "https://waxy.org/2026/06/the-wholesale-plagiarism-of-obscure-sorrows",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-06-20T18:05:31Z"
+          "id": "c99af7d1a4986314e5bedce25a97706569fafa35",
+          "title": "即使AI生成的代码能正常运行，我也会拒绝它 / When I reject AI code even if it works",
+          "url": "https://vinibrasil.com/when-i-reject-ai-code-even-if-it-works",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-21T00:58:13Z"
         }
       ],
-      "source_count": 4,
+      "source_count": 3,
       "source_names": [
-        "Hacker News",
-        "Hacker News · 24h最热",
+        "Hacker News (黑客新闻)",
         "hackernews",
-        "waxy.org"
+        "vinibrasil.com"
       ],
       "items": [
         {
-          "id": "96685bb9ea8cb02c05fed8aaf648c56b928096a5",
-          "title": "机构偷了畅销书作者的书，用人工智能重新推出自己的书 / Agency stole bestselling author's book, used AI to relaunch as their own",
-          "url": "https://news.ycombinator.com/item?id=48611411",
+          "id": "4e8424118c861548c8df41d76a5945f555a4d0b4",
+          "title": "当我拒绝人工智能代码时，即使它有效 / When I reject AI code even if it works",
+          "url": "https://news.ycombinator.com/item?id=48614631",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-06-20T19:21:06.987000Z"
+          "published_at": "2026-06-21T05:26:41.244000Z"
         },
         {
-          "id": "871696fadd40fe623ff5e452b96454f38b0a7599",
-          "title": "某经纪公司盗用畅销书作家的作品，利用人工智能将其重新包装为自家作品",
-          "url": "https://waxy.org/2026/06/the-wholesale-plagiarism-of-obscure-sorrows",
-          "source": "waxy.org",
+          "id": "fb88692a770fabce368eb14025c417c790753116",
+          "title": "即使AI生成的代码能正常运行，我也会拒绝它",
+          "url": "https://vinibrasil.com/when-i-reject-ai-code-even-if-it-works",
+          "source": "vinibrasil.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-06-20T18:53:17.123000Z"
+          "published_at": "2026-06-21T05:01:07.092000Z"
         },
         {
-          "id": "5c9a267d948401c7a9f8193cfbc23418154cbab7",
-          "title": "某经纪公司盗用畅销书作家的作品，利用人工智能将其重新包装为自家作品 / Agency stole bestselling author's book, used AI to relaunch as their own",
-          "url": "https://waxy.org/2026/06/the-wholesale-plagiarism-of-obscure-sorrows",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-06-20T18:05:31Z"
-        },
-        {
-          "id": "f02b03f7e11f94266d6ef46c18254cbe96f22333",
-          "title": "某经纪公司盗用畅销书作家的作品，利用人工智能将其重新包装为自家作品 / The Wholesale Plagiarism of Obscure Sorrows",
-          "url": "https://waxy.org/2026/06/the-wholesale-plagiarism-of-obscure-sorrows",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-06-20T18:05:31Z"
+          "id": "c99af7d1a4986314e5bedce25a97706569fafa35",
+          "title": "即使AI生成的代码能正常运行，我也会拒绝它 / When I reject AI code even if it works",
+          "url": "https://vinibrasil.com/when-i-reject-ai-code-even-if-it-works",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-21T00:58:13Z"
         }
       ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.5579,
-      "importance": 0.5579,
-      "importance_score": 0.5579,
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.573,
+      "importance": 0.573,
+      "importance_score": 0.573,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7994,
-        "story_heat": 0.75
+        "recency": 1.0,
+        "story_heat": 0.5
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-06-20T18:05:31Z",
-      "latest_at": "2026-06-20T19:21:06.987000Z",
+      "earliest_at": "2026-06-21T00:58:13Z",
+      "latest_at": "2026-06-21T05:26:41.244000Z",
       "primary_item": {
-        "id": "96685bb9ea8cb02c05fed8aaf648c56b928096a5",
-        "title": "机构偷了畅销书作者的书，用人工智能重新推出自己的书 / Agency stole bestselling author's book, used AI to relaunch as their own",
-        "url": "https://news.ycombinator.com/item?id=48611411",
+        "id": "4e8424118c861548c8df41d76a5945f555a4d0b4",
+        "title": "当我拒绝人工智能代码时，即使它有效 / When I reject AI code even if it works",
+        "url": "https://news.ycombinator.com/item?id=48614631",
         "source": "hackernews",
         "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_550ddb14dbb9",
+      "title": "AI 巨头的「Token 补贴大战」，快打完了吗？",
+      "url": "https://www.huxiu.com/article/4868933.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4868933.html?f=rss",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "ddd5fff8563b04c4735d322daa7f51f74f1a5e08",
+          "title": "AI 巨头的「Token 补贴大战」，快打完了吗？",
+          "url": "https://www.huxiu.com/article/4868933.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "8eb3a7e5ba53729999d5fb9db3da613d4744e3f4",
+          "title": "AI巨头的“Token补贴大战”，快打完了吗？",
+          "url": "https://www.huxiu.com/article/4868933.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-21T04:06:00Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Readhub · AI",
+        "虎嗅 (Huxiu)"
+      ],
+      "items": [
+        {
+          "id": "ddd5fff8563b04c4735d322daa7f51f74f1a5e08",
+          "title": "AI 巨头的「Token 补贴大战」，快打完了吗？",
+          "url": "https://www.huxiu.com/article/4868933.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "8eb3a7e5ba53729999d5fb9db3da613d4744e3f4",
+          "title": "AI巨头的“Token补贴大战”，快打完了吗？",
+          "url": "https://www.huxiu.com/article/4868933.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-21T04:06:00Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.548,
+      "importance": 0.548,
+      "importance_score": 0.548,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-06-21T04:06:00Z",
+      "latest_at": "2026-06-21T05:26:04.479206Z",
+      "primary_item": {
+        "id": "ddd5fff8563b04c4735d322daa7f51f74f1a5e08",
+        "title": "AI 巨头的「Token 补贴大战」，快打完了吗？",
+        "url": "https://www.huxiu.com/article/4868933.html?f=rss",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_40e72acb2213",
+      "title": "大型语言模型（LLM）的有效应用场景",
+      "url": "https://aggressivelyparaphrasing.me/2026/06/21/effective-use-cases-for-llms",
+      "primary_url": "https://aggressivelyparaphrasing.me/2026/06/21/effective-use-cases-for-llms",
+      "source": "aggressivelyparaphrasing.me",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "0cbee932107e333006c4a6ce0628d0878037d0ab",
+          "title": "大型语言模型（LLM）的有效应用场景",
+          "url": "https://aggressivelyparaphrasing.me/2026/06/21/effective-use-cases-for-llms",
+          "source": "aggressivelyparaphrasing.me",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-21T04:45:05.964000Z"
+        },
+        {
+          "id": "ac484391baf82b7b5753d84e2dd834a231090fc1",
+          "title": "大型语言模型（LLM）的有效应用场景 / Effective use-cases for LLMs",
+          "url": "https://aggressivelyparaphrasing.me/2026/06/21/effective-use-cases-for-llms",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-21T04:37:33Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Lobsters (技术社区)",
+        "aggressivelyparaphrasing.me"
+      ],
+      "items": [
+        {
+          "id": "0cbee932107e333006c4a6ce0628d0878037d0ab",
+          "title": "大型语言模型（LLM）的有效应用场景",
+          "url": "https://aggressivelyparaphrasing.me/2026/06/21/effective-use-cases-for-llms",
+          "source": "aggressivelyparaphrasing.me",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-21T04:45:05.964000Z"
+        },
+        {
+          "id": "ac484391baf82b7b5753d84e2dd834a231090fc1",
+          "title": "大型语言模型（LLM）的有效应用场景 / Effective use-cases for LLMs",
+          "url": "https://aggressivelyparaphrasing.me/2026/06/21/effective-use-cases-for-llms",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-21T04:37:33Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5423,
+      "importance": 0.5423,
+      "importance_score": 0.5423,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9715,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-06-21T04:37:33Z",
+      "latest_at": "2026-06-21T04:45:05.964000Z",
+      "primary_item": {
+        "id": "0cbee932107e333006c4a6ce0628d0878037d0ab",
+        "title": "大型语言模型（LLM）的有效应用场景",
+        "url": "https://aggressivelyparaphrasing.me/2026/06/21/effective-use-cases-for-llms",
+        "source": "aggressivelyparaphrasing.me",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_05d632b02bf7",
+      "title": "一家人工智能公司为何免费帮我打扫了位于纽约市的公寓",
+      "url": "https://www.bbc.com/news/articles/cpwerjy20kyo?at_medium=RSS&at_campaign=rss",
+      "primary_url": "https://www.bbc.com/news/articles/cpwerjy20kyo?at_medium=RSS&at_campaign=rss",
+      "source": "www.bbc.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "2af27dcab649bb127da2276ae21abf4adb985bea",
+          "title": "一家人工智能公司为何免费帮我打扫了位于纽约市的公寓",
+          "url": "https://www.bbc.com/news/articles/cpwerjy20kyo?at_medium=RSS&at_campaign=rss",
+          "source": "www.bbc.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-21T03:57:20.523000Z"
+        },
+        {
+          "id": "9e3c0e7483406d467f723c2eb04003c22d463d0c",
+          "title": "一家人工智能公司为何免费帮我打扫了位于纽约市的公寓 / Why an AI company cleaned my New York City apartment for free",
+          "url": "https://www.bbc.com/news/articles/cpwerjy20kyo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News (世界新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-20T23:18:55Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "BBC News (世界新闻)",
+        "www.bbc.com"
+      ],
+      "items": [
+        {
+          "id": "2af27dcab649bb127da2276ae21abf4adb985bea",
+          "title": "一家人工智能公司为何免费帮我打扫了位于纽约市的公寓",
+          "url": "https://www.bbc.com/news/articles/cpwerjy20kyo?at_medium=RSS&at_campaign=rss",
+          "source": "www.bbc.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-21T03:57:20.523000Z"
+        },
+        {
+          "id": "9e3c0e7483406d467f723c2eb04003c22d463d0c",
+          "title": "一家人工智能公司为何免费帮我打扫了位于纽约市的公寓 / Why an AI company cleaned my New York City apartment for free",
+          "url": "https://www.bbc.com/news/articles/cpwerjy20kyo?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News (世界新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-20T23:18:55Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5357,
+      "importance": 0.5357,
+      "importance_score": 0.5357,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9384,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-06-20T23:18:55Z",
+      "latest_at": "2026-06-21T03:57:20.523000Z",
+      "primary_item": {
+        "id": "2af27dcab649bb127da2276ae21abf4adb985bea",
+        "title": "一家人工智能公司为何免费帮我打扫了位于纽约市的公寓",
+        "url": "https://www.bbc.com/news/articles/cpwerjy20kyo?at_medium=RSS&at_campaign=rss",
+        "source": "www.bbc.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_ccb7fe6d982d",
+      "title": "Anthropic 首席执行官：人工智能公司需要「数千亿美元」收入，否则将面临生存风险",
+      "url": "https://36kr.com/newsflashes/3862373538386952?f=rss",
+      "primary_url": "https://36kr.com/newsflashes/3862373538386952?f=rss",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "36bf3fc5e293c0efea1077d5a0ded09903e1c7e4",
+          "title": "Anthropic 首席执行官：人工智能公司需要「数千亿美元」收入，否则将面临生存风险",
+          "url": "https://36kr.com/newsflashes/3862373538386952?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "3b49417f33c115d34961cea30338d996d3f0c21c",
+          "title": "Anthropic首席执行官：人工智能公司需要“数千亿美元”收入，否则将面临生存风险",
+          "url": "https://36kr.com/newsflashes/3862373538386952?f=rss",
+          "source": "36氪 (36Kr)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-21T03:40:32Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "36氪 (36Kr)",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "36bf3fc5e293c0efea1077d5a0ded09903e1c7e4",
+          "title": "Anthropic 首席执行官：人工智能公司需要「数千亿美元」收入，否则将面临生存风险",
+          "url": "https://36kr.com/newsflashes/3862373538386952?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "3b49417f33c115d34961cea30338d996d3f0c21c",
+          "title": "Anthropic首席执行官：人工智能公司需要“数千亿美元”收入，否则将面临生存风险",
+          "url": "https://36kr.com/newsflashes/3862373538386952?f=rss",
+          "source": "36氪 (36Kr)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-21T03:40:32Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.548,
+      "importance": 0.548,
+      "importance_score": 0.548,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-06-21T03:40:32Z",
+      "latest_at": "2026-06-21T05:26:04.479206Z",
+      "primary_item": {
+        "id": "36bf3fc5e293c0efea1077d5a0ded09903e1c7e4",
+        "title": "Anthropic 首席执行官：人工智能公司需要「数千亿美元」收入，否则将面临生存风险",
+        "url": "https://36kr.com/newsflashes/3862373538386952?f=rss",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_35a8b0570d14",
+      "title": "Show HN: 增肌、减脂、重塑体形。计算维持热量",
+      "url": "https://macrocodex.app",
+      "primary_url": "https://macrocodex.app",
+      "source": "macrocodex.app",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "5f775c1838657617c5ced1a0da5e2d69af1c2461",
+          "title": "Show HN: 增肌、减脂、重塑体形。计算维持热量",
+          "url": "https://macrocodex.app",
+          "source": "macrocodex.app",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-21T01:49:18.185000Z"
+        },
+        {
+          "id": "87dd05ee8bb8a783498f29a539be61f9e420b354",
+          "title": "Show HN: 增肌、减脂、重塑体形。计算维持热量 / Show HN: Lean bulk, cut, body recomp. Calculate maintenance calories",
+          "url": "https://macrocodex.app",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-06-21T01:44:43Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "macrocodex.app"
+      ],
+      "items": [
+        {
+          "id": "5f775c1838657617c5ced1a0da5e2d69af1c2461",
+          "title": "Show HN: 增肌、减脂、重塑体形。计算维持热量",
+          "url": "https://macrocodex.app",
+          "source": "macrocodex.app",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-21T01:49:18.185000Z"
+        },
+        {
+          "id": "87dd05ee8bb8a783498f29a539be61f9e420b354",
+          "title": "Show HN: 增肌、减脂、重塑体形。计算维持热量 / Show HN: Lean bulk, cut, body recomp. Calculate maintenance calories",
+          "url": "https://macrocodex.app",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-06-21T01:44:43Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5179,
+      "importance": 0.5179,
+      "importance_score": 0.5179,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8495,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-06-21T01:44:43Z",
+      "latest_at": "2026-06-21T01:49:18.185000Z",
+      "primary_item": {
+        "id": "5f775c1838657617c5ced1a0da5e2d69af1c2461",
+        "title": "Show HN: 增肌、减脂、重塑体形。计算维持热量",
+        "url": "https://macrocodex.app",
+        "source": "macrocodex.app",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -343,14 +792,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5401,
-      "importance": 0.5401,
-      "importance_score": 0.5401,
+      "score": 0.4962,
+      "importance": 0.4962,
+      "importance_score": 0.4962,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8356,
+        "recency": 0.616,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -368,81 +817,177 @@
       }
     },
     {
-      "story_id": "story_c82c8f2b495b",
-      "title": "千百万「爱压抑」的网友，用 AI 把菲比和 Doro 改造成了自己的电子女儿",
-      "url": "https://www.huxiu.com/article/4868898.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4868898.html?f=rss",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
+      "story_id": "story_556f0a7eda04",
+      "title": "从图书馆租用缝纫机 / Not just books: renting a sewing machine from the library can improve democracy",
+      "url": "https://www.bbc.com/future/article/20260618-the-weird-and-wonderful-libraries-of-finland",
+      "primary_url": "https://www.bbc.com/future/article/20260618-the-weird-and-wonderful-libraries-of-finland",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
       "sources": [
         {
-          "id": "c2abc3d478f5486853f1dfd440ba748b88df0823",
-          "title": "千百万「爱压抑」的网友，用 AI 把菲比和 Doro 改造成了自己的电子女儿",
-          "url": "https://www.huxiu.com/article/4868898.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "e844eb5907042ae4890a401102eb4d875d0522a4",
+          "title": "从图书馆租用缝纫机 / Not just books: renting a sewing machine from the library can improve democracy",
+          "url": "https://www.bbc.com/future/article/20260618-the-weird-and-wonderful-libraries-of-finland",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-06-20T22:54:11Z"
         },
         {
-          "id": "34f9653c144c5b4e5529e3d82bc4892f948c83f5",
-          "title": "千百万“爱压抑”的网友，用AI把菲比和Doro改造成了自己的电子女儿",
-          "url": "https://www.huxiu.com/article/4868898.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-06-20T14:41:51Z"
+          "id": "2129afe403447f87236953853ae938bd43822789",
+          "title": "从图书馆租用缝纫机 / Renting a sewing machine from the library",
+          "url": "https://www.bbc.com/future/article/20260618-the-weird-and-wonderful-libraries-of-finland",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-06-20T22:54:11Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Readhub · AI",
-        "虎嗅 (Huxiu)"
+        "Hacker News · 24h最热"
       ],
       "items": [
         {
-          "id": "c2abc3d478f5486853f1dfd440ba748b88df0823",
-          "title": "千百万「爱压抑」的网友，用 AI 把菲比和 Doro 改造成了自己的电子女儿",
-          "url": "https://www.huxiu.com/article/4868898.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "e844eb5907042ae4890a401102eb4d875d0522a4",
+          "title": "从图书馆租用缝纫机 / Not just books: renting a sewing machine from the library can improve democracy",
+          "url": "https://www.bbc.com/future/article/20260618-the-weird-and-wonderful-libraries-of-finland",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-06-20T22:54:11Z"
         },
         {
-          "id": "34f9653c144c5b4e5529e3d82bc4892f948c83f5",
-          "title": "千百万“爱压抑”的网友，用AI把菲比和Doro改造成了自己的电子女儿",
-          "url": "https://www.huxiu.com/article/4868898.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-06-20T14:41:51Z"
+          "id": "2129afe403447f87236953853ae938bd43822789",
+          "title": "从图书馆租用缝纫机 / Renting a sewing machine from the library",
+          "url": "https://www.bbc.com/future/article/20260618-the-weird-and-wonderful-libraries-of-finland",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-06-20T22:54:11Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4829,
-      "importance": 0.4829,
-      "importance_score": 0.4829,
+      "score": 0.4936,
+      "importance": 0.4936,
+      "importance_score": 0.4936,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6744,
+        "recency": 0.7279,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-06-20T14:41:51Z",
-      "latest_at": "2026-06-20T16:21:08.294956Z",
+      "earliest_at": "2026-06-20T22:54:11Z",
+      "latest_at": "2026-06-20T22:54:11Z",
       "primary_item": {
-        "id": "c2abc3d478f5486853f1dfd440ba748b88df0823",
-        "title": "千百万「爱压抑」的网友，用 AI 把菲比和 Doro 改造成了自己的电子女儿",
-        "url": "https://www.huxiu.com/article/4868898.html?f=rss",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
+        "id": "e844eb5907042ae4890a401102eb4d875d0522a4",
+        "title": "从图书馆租用缝纫机 / Not just books: renting a sewing machine from the library can improve democracy",
+        "url": "https://www.bbc.com/future/article/20260618-the-weird-and-wonderful-libraries-of-finland",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
+      }
+    },
+    {
+      "story_id": "story_6f673fe96a7a",
+      "title": "某经纪公司盗用畅销书作家的作品，利用人工智能将其重新包装为自家作品",
+      "url": "https://waxy.org/2026/06/the-wholesale-plagiarism-of-obscure-sorrows",
+      "primary_url": "https://waxy.org/2026/06/the-wholesale-plagiarism-of-obscure-sorrows",
+      "source": "waxy.org",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "871696fadd40fe623ff5e452b96454f38b0a7599",
+          "title": "某经纪公司盗用畅销书作家的作品，利用人工智能将其重新包装为自家作品",
+          "url": "https://waxy.org/2026/06/the-wholesale-plagiarism-of-obscure-sorrows",
+          "source": "waxy.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-20T18:53:17.123000Z"
+        },
+        {
+          "id": "5c9a267d948401c7a9f8193cfbc23418154cbab7",
+          "title": "某经纪公司盗用畅销书作家的作品，利用人工智能将其重新包装为自家作品 / Agency stole bestselling author's book, used AI to relaunch as their own",
+          "url": "https://waxy.org/2026/06/the-wholesale-plagiarism-of-obscure-sorrows",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-06-20T18:05:31Z"
+        },
+        {
+          "id": "f02b03f7e11f94266d6ef46c18254cbe96f22333",
+          "title": "某经纪公司盗用畅销书作家的作品，利用人工智能将其重新包装为自家作品 / The Wholesale Plagiarism of Obscure Sorrows",
+          "url": "https://waxy.org/2026/06/the-wholesale-plagiarism-of-obscure-sorrows",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-06-20T18:05:31Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News",
+        "Hacker News · 24h最热",
+        "waxy.org"
+      ],
+      "items": [
+        {
+          "id": "871696fadd40fe623ff5e452b96454f38b0a7599",
+          "title": "某经纪公司盗用畅销书作家的作品，利用人工智能将其重新包装为自家作品",
+          "url": "https://waxy.org/2026/06/the-wholesale-plagiarism-of-obscure-sorrows",
+          "source": "waxy.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-20T18:53:17.123000Z"
+        },
+        {
+          "id": "5c9a267d948401c7a9f8193cfbc23418154cbab7",
+          "title": "某经纪公司盗用畅销书作家的作品，利用人工智能将其重新包装为自家作品 / Agency stole bestselling author's book, used AI to relaunch as their own",
+          "url": "https://waxy.org/2026/06/the-wholesale-plagiarism-of-obscure-sorrows",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-06-20T18:05:31Z"
+        },
+        {
+          "id": "f02b03f7e11f94266d6ef46c18254cbe96f22333",
+          "title": "某经纪公司盗用畅销书作家的作品，利用人工智能将其重新包装为自家作品 / The Wholesale Plagiarism of Obscure Sorrows",
+          "url": "https://waxy.org/2026/06/the-wholesale-plagiarism-of-obscure-sorrows",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-06-20T18:05:31Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.4851,
+      "importance": 0.4851,
+      "importance_score": 0.4851,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.5606,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-06-20T18:05:31Z",
+      "latest_at": "2026-06-20T18:53:17.123000Z",
+      "primary_item": {
+        "id": "871696fadd40fe623ff5e452b96454f38b0a7599",
+        "title": "某经纪公司盗用畅销书作家的作品，利用人工智能将其重新包装为自家作品",
+        "url": "https://waxy.org/2026/06/the-wholesale-plagiarism-of-obscure-sorrows",
+        "source": "waxy.org",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -518,14 +1063,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.508,
-      "importance": 0.508,
-      "importance_score": 0.508,
+      "score": 0.4641,
+      "importance": 0.4641,
+      "importance_score": 0.4641,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6749,
+        "recency": 0.4553,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -540,84 +1085,6 @@
         "url": "https://news.ycombinator.com/item?id=48609373",
         "source": "hackernews",
         "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_d9e603a6f82c",
-      "title": "如今，大型语言模型变得很复杂",
-      "url": "https://ianbarber.blog/2026/06/19/llms-are-complicated-now",
-      "primary_url": "https://ianbarber.blog/2026/06/19/llms-are-complicated-now",
-      "source": "ianbarber.blog",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "f2d4bbf8a42bd50cf1e2a1cba2a21e59bb74f67b",
-          "title": "如今，大型语言模型变得很复杂",
-          "url": "https://ianbarber.blog/2026/06/19/llms-are-complicated-now",
-          "source": "ianbarber.blog",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-20T15:25:07.111000Z"
-        },
-        {
-          "id": "ec8420c4a70c43f9abfd1ab3a0998fc05a0d0903",
-          "title": "如今，大型语言模型变得很复杂 / LLMs Are Complicated Now",
-          "url": "https://ianbarber.blog/2026/06/19/llms-are-complicated-now",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-06-20T01:25:14Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "ianbarber.blog"
-      ],
-      "items": [
-        {
-          "id": "f2d4bbf8a42bd50cf1e2a1cba2a21e59bb74f67b",
-          "title": "如今，大型语言模型变得很复杂",
-          "url": "https://ianbarber.blog/2026/06/19/llms-are-complicated-now",
-          "source": "ianbarber.blog",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-20T15:25:07.111000Z"
-        },
-        {
-          "id": "ec8420c4a70c43f9abfd1ab3a0998fc05a0d0903",
-          "title": "如今，大型语言模型变得很复杂 / LLMs Are Complicated Now",
-          "url": "https://ianbarber.blog/2026/06/19/llms-are-complicated-now",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-06-20T01:25:14Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4751,
-      "importance": 0.4751,
-      "importance_score": 0.4751,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.6355,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-06-20T01:25:14Z",
-      "latest_at": "2026-06-20T15:25:07.111000Z",
-      "primary_item": {
-        "id": "f2d4bbf8a42bd50cf1e2a1cba2a21e59bb74f67b",
-        "title": "如今，大型语言模型变得很复杂",
-        "url": "https://ianbarber.blog/2026/06/19/llms-are-complicated-now",
-        "source": "ianbarber.blog",
-        "source_name": "Buzzing"
       }
     },
     {
@@ -673,14 +1140,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4683,
-      "importance": 0.4683,
-      "importance_score": 0.4683,
+      "score": 0.4244,
+      "importance": 0.4244,
+      "importance_score": 0.4244,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6015,
+        "recency": 0.3819,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -751,14 +1218,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4329,
-      "importance": 0.4329,
-      "importance_score": 0.4329,
+      "score": 0.389,
+      "importance": 0.389,
+      "importance_score": 0.389,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.4245,
+        "recency": 0.2049,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -829,14 +1296,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.483,
-      "importance": 0.483,
-      "importance_score": 0.483,
+      "score": 0.4391,
+      "importance": 0.4391,
+      "importance_score": 0.4391,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6749,
+        "recency": 0.4553,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -854,30 +1321,30 @@
       }
     },
     {
-      "story_id": "story_93c807c0328d",
-      "title": "6 月 FOMC，沃什怎么看 AI ？",
-      "url": "https://www.huxiu.com/article/4868875.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4868875.html?f=rss",
+      "story_id": "story_c82c8f2b495b",
+      "title": "千百万「爱压抑」的网友，用 AI 把菲比和 Doro 改造成了自己的电子女儿",
+      "url": "https://www.huxiu.com/article/4868898.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4868898.html?f=rss",
       "source": "Readhub · AI",
       "source_name": "TopHub",
       "sources": [
         {
-          "id": "dc22abe74100d68e6b9d17f1c705a758287a0109",
-          "title": "6 月 FOMC，沃什怎么看 AI ？",
-          "url": "https://www.huxiu.com/article/4868875.html?f=rss",
+          "id": "c2abc3d478f5486853f1dfd440ba748b88df0823",
+          "title": "千百万「爱压抑」的网友，用 AI 把菲比和 Doro 改造成了自己的电子女儿",
+          "url": "https://www.huxiu.com/article/4868898.html?f=rss",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
         },
         {
-          "id": "43d24d84212da3b3d62f146969b7faf5d1751c24",
-          "title": "6月FOMC，沃什怎么看AI ？",
-          "url": "https://www.huxiu.com/article/4868875.html?f=rss",
+          "id": "34f9653c144c5b4e5529e3d82bc4892f948c83f5",
+          "title": "千百万“爱压抑”的网友，用AI把菲比和Doro改造成了自己的电子女儿",
+          "url": "https://www.huxiu.com/article/4868898.html?f=rss",
           "source": "虎嗅 (Huxiu)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-06-20T11:36:29Z"
+          "published_at": "2026-06-20T14:41:51Z"
         }
       ],
       "source_count": 2,
@@ -887,46 +1354,46 @@
       ],
       "items": [
         {
-          "id": "dc22abe74100d68e6b9d17f1c705a758287a0109",
-          "title": "6 月 FOMC，沃什怎么看 AI ？",
-          "url": "https://www.huxiu.com/article/4868875.html?f=rss",
+          "id": "c2abc3d478f5486853f1dfd440ba748b88df0823",
+          "title": "千百万「爱压抑」的网友，用 AI 把菲比和 Doro 改造成了自己的电子女儿",
+          "url": "https://www.huxiu.com/article/4868898.html?f=rss",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
         },
         {
-          "id": "43d24d84212da3b3d62f146969b7faf5d1751c24",
-          "title": "6月FOMC，沃什怎么看AI ？",
-          "url": "https://www.huxiu.com/article/4868875.html?f=rss",
+          "id": "34f9653c144c5b4e5529e3d82bc4892f948c83f5",
+          "title": "千百万“爱压抑”的网友，用AI把菲比和Doro改造成了自己的电子女儿",
+          "url": "https://www.huxiu.com/article/4868898.html?f=rss",
           "source": "虎嗅 (Huxiu)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-06-20T11:36:29Z"
+          "published_at": "2026-06-20T14:41:51Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4505,
-      "importance": 0.4505,
-      "importance_score": 0.4505,
+      "score": 0.439,
+      "importance": 0.439,
+      "importance_score": 0.439,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.5123,
+        "recency": 0.4549,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-06-20T11:36:29Z",
-      "latest_at": "2026-06-20T12:27:35.554158Z",
+      "earliest_at": "2026-06-20T14:41:51Z",
+      "latest_at": "2026-06-20T16:21:08.294956Z",
       "primary_item": {
-        "id": "dc22abe74100d68e6b9d17f1c705a758287a0109",
-        "title": "6 月 FOMC，沃什怎么看 AI ？",
-        "url": "https://www.huxiu.com/article/4868875.html?f=rss",
+        "id": "c2abc3d478f5486853f1dfd440ba748b88df0823",
+        "title": "千百万「爱压抑」的网友，用 AI 把菲比和 Doro 改造成了自己的电子女儿",
+        "url": "https://www.huxiu.com/article/4868898.html?f=rss",
         "source": "Readhub · AI",
         "source_name": "TopHub"
       }
@@ -985,14 +1452,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4196,
-      "importance": 0.4196,
-      "importance_score": 0.4196,
+      "score": 0.3757,
+      "importance": 0.3757,
+      "importance_score": 0.3757,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.3578,
+        "recency": 0.1383,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1010,81 +1477,81 @@
       }
     },
     {
-      "story_id": "story_d63c7e8124b7",
-      "title": "一想到将来要写由法学硕士（LLM）起草的事故报告，我就感到不寒而栗",
-      "url": "https://surfingcomplexity.blog/2026/06/19/i-am-dreading-our-llm-written-incident-report-future",
-      "primary_url": "https://surfingcomplexity.blog/2026/06/19/i-am-dreading-our-llm-written-incident-report-future",
-      "source": "surfingcomplexity.blog",
-      "source_name": "Buzzing",
+      "story_id": "story_93c807c0328d",
+      "title": "6 月 FOMC，沃什怎么看 AI ？",
+      "url": "https://www.huxiu.com/article/4868875.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4868875.html?f=rss",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
       "sources": [
         {
-          "id": "6c6438a05252ac57ef1411bbdf2806d9723bc374",
-          "title": "一想到将来要写由法学硕士（LLM）起草的事故报告，我就感到不寒而栗",
-          "url": "https://surfingcomplexity.blog/2026/06/19/i-am-dreading-our-llm-written-incident-report-future",
-          "source": "surfingcomplexity.blog",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-20T03:57:22.337000Z"
+          "id": "dc22abe74100d68e6b9d17f1c705a758287a0109",
+          "title": "6 月 FOMC，沃什怎么看 AI ？",
+          "url": "https://www.huxiu.com/article/4868875.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         },
         {
-          "id": "77ec114ae8352be86a32d60b775a25a0667a82cc",
-          "title": "一想到将来要写由法学硕士（LLM）起草的事故报告，我就感到不寒而栗 / I am dreading our LLM-written incident report future",
-          "url": "https://surfingcomplexity.blog/2026/06/19/i-am-dreading-our-llm-written-incident-report-future",
-          "source": "Lobsters (技术社区)",
+          "id": "43d24d84212da3b3d62f146969b7faf5d1751c24",
+          "title": "6月FOMC，沃什怎么看AI ？",
+          "url": "https://www.huxiu.com/article/4868875.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-06-20T00:51:33Z"
+          "published_at": "2026-06-20T11:36:29Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Lobsters (技术社区)",
-        "surfingcomplexity.blog"
+        "Readhub · AI",
+        "虎嗅 (Huxiu)"
       ],
       "items": [
         {
-          "id": "6c6438a05252ac57ef1411bbdf2806d9723bc374",
-          "title": "一想到将来要写由法学硕士（LLM）起草的事故报告，我就感到不寒而栗",
-          "url": "https://surfingcomplexity.blog/2026/06/19/i-am-dreading-our-llm-written-incident-report-future",
-          "source": "surfingcomplexity.blog",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-20T03:57:22.337000Z"
+          "id": "dc22abe74100d68e6b9d17f1c705a758287a0109",
+          "title": "6 月 FOMC，沃什怎么看 AI ？",
+          "url": "https://www.huxiu.com/article/4868875.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         },
         {
-          "id": "77ec114ae8352be86a32d60b775a25a0667a82cc",
-          "title": "一想到将来要写由法学硕士（LLM）起草的事故报告，我就感到不寒而栗 / I am dreading our LLM-written incident report future",
-          "url": "https://surfingcomplexity.blog/2026/06/19/i-am-dreading-our-llm-written-incident-report-future",
-          "source": "Lobsters (技术社区)",
+          "id": "43d24d84212da3b3d62f146969b7faf5d1751c24",
+          "title": "6月FOMC，沃什怎么看AI ？",
+          "url": "https://www.huxiu.com/article/4868875.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-06-20T00:51:33Z"
+          "published_at": "2026-06-20T11:36:29Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.3796,
-      "importance": 0.3796,
-      "importance_score": 0.3796,
+      "score": 0.4065,
+      "importance": 0.4065,
+      "importance_score": 0.4065,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.1579,
+        "recency": 0.2927,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-06-20T00:51:33Z",
-      "latest_at": "2026-06-20T03:57:22.337000Z",
+      "earliest_at": "2026-06-20T11:36:29Z",
+      "latest_at": "2026-06-20T12:27:35.554158Z",
       "primary_item": {
-        "id": "6c6438a05252ac57ef1411bbdf2806d9723bc374",
-        "title": "一想到将来要写由法学硕士（LLM）起草的事故报告，我就感到不寒而栗",
-        "url": "https://surfingcomplexity.blog/2026/06/19/i-am-dreading-our-llm-written-incident-report-future",
-        "source": "surfingcomplexity.blog",
-        "source_name": "Buzzing"
+        "id": "dc22abe74100d68e6b9d17f1c705a758287a0109",
+        "title": "6 月 FOMC，沃什怎么看 AI ？",
+        "url": "https://www.huxiu.com/article/4868875.html?f=rss",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
       }
     }
   ]
