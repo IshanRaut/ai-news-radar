@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-06-20T22:43:00.083424Z",
+  "generated_at": "2026-06-21T00:09:55.981761Z",
   "window_hours": 24,
-  "total_items": 13,
+  "total_items": 12,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260621-0843-2871-883d-e1d76e5525b8&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260621-0843-2871-883d-e1d76e5525b8&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260621-1010-42db-99af-b92fc8f94573&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260621-1010-42db-99af-b92fc8f94573&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "5e9190618343b068d72159a05077d2fa62a5d46d",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260621-1010-42db-99af-b92fc8f94573&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "3063595cf629d4fa49aa433afad392acc761806c",
           "title": "点击这里进入 / Click here to enter",
@@ -57,12 +66,21 @@
           "published_at": null
         }
       ],
-      "source_count": 5,
+      "source_count": 6,
       "source_names": [
         "Page Fallback"
       ],
       "items": [
         {
+          "id": "5e9190618343b068d72159a05077d2fa62a5d46d",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260621-1010-42db-99af-b92fc8f94573&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "3063595cf629d4fa49aa433afad392acc761806c",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260621-0843-2871-883d-e1d76e5525b8&fp=-3",
@@ -108,8 +126,8 @@
           "published_at": null
         }
       ],
-      "item_count": 5,
-      "duplicate_count": 5,
+      "item_count": 6,
+      "duplicate_count": 6,
       "score": 0.912,
       "importance": 0.912,
       "importance_score": 0.912,
@@ -127,72 +145,13 @@
         "high_importance"
       ],
       "earliest_at": "2026-06-20T16:21:08.294956Z",
-      "latest_at": "2026-06-20T22:43:00.083424Z",
+      "latest_at": "2026-06-21T00:09:55.981761Z",
       "primary_item": {
-        "id": "3063595cf629d4fa49aa433afad392acc761806c",
+        "id": "5e9190618343b068d72159a05077d2fa62a5d46d",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260621-0843-2871-883d-e1d76e5525b8&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260621-1010-42db-99af-b92fc8f94573&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
-      }
-    },
-    {
-      "story_id": "story_767c73782c59",
-      "title": "开源教程《Deep Agents 实战》发布",
-      "url": "https://x.com/shao__meng/status/2068306942184034471",
-      "primary_url": "https://x.com/shao__meng/status/2068306942184034471",
-      "source": "X：邵猛 (@shao__meng)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "70c44c96db3c855eac9ceadd458bd02b754774dd",
-          "title": "开源教程《Deep Agents 实战》发布",
-          "url": "https://x.com/shao__meng/status/2068306942184034471",
-          "source": "X：邵猛 (@shao__meng)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-20T12:16:16Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：邵猛 (@shao__meng)"
-      ],
-      "items": [
-        {
-          "id": "70c44c96db3c855eac9ceadd458bd02b754774dd",
-          "title": "开源教程《Deep Agents 实战》发布",
-          "url": "https://x.com/shao__meng/status/2068306942184034471",
-          "source": "X：邵猛 (@shao__meng)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-20T12:16:16Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.725,
-      "importance": 0.725,
-      "importance_score": 0.725,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5648,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-20T12:16:16Z",
-      "latest_at": "2026-06-20T12:16:16Z",
-      "primary_item": {
-        "id": "70c44c96db3c855eac9ceadd458bd02b754774dd",
-        "title": "开源教程《Deep Agents 实战》发布",
-        "url": "https://x.com/shao__meng/status/2068306942184034471",
-        "source": "X：邵猛 (@shao__meng)",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -287,14 +246,14 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.57,
-      "importance": 0.57,
-      "importance_score": 0.57,
+      "score": 0.5579,
+      "importance": 0.5579,
+      "importance_score": 0.5579,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8598,
+        "recency": 0.7994,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -384,14 +343,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5522,
-      "importance": 0.5522,
-      "importance_score": 0.5522,
+      "score": 0.5401,
+      "importance": 0.5401,
+      "importance_score": 0.5401,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8959,
+        "recency": 0.8356,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -462,14 +421,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.495,
-      "importance": 0.495,
-      "importance_score": 0.495,
+      "score": 0.4829,
+      "importance": 0.4829,
+      "importance_score": 0.4829,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7348,
+        "recency": 0.6744,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -559,14 +518,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.52,
-      "importance": 0.52,
-      "importance_score": 0.52,
+      "score": 0.508,
+      "importance": 0.508,
+      "importance_score": 0.508,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7352,
+        "recency": 0.6749,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -637,14 +596,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4872,
-      "importance": 0.4872,
-      "importance_score": 0.4872,
+      "score": 0.4751,
+      "importance": 0.4751,
+      "importance_score": 0.4751,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6959,
+        "recency": 0.6355,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -714,14 +673,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4804,
-      "importance": 0.4804,
-      "importance_score": 0.4804,
+      "score": 0.4683,
+      "importance": 0.4683,
+      "importance_score": 0.4683,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6618,
+        "recency": 0.6015,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -792,14 +751,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.445,
-      "importance": 0.445,
-      "importance_score": 0.445,
+      "score": 0.4329,
+      "importance": 0.4329,
+      "importance_score": 0.4329,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.4848,
+        "recency": 0.4245,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -870,14 +829,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.495,
-      "importance": 0.495,
-      "importance_score": 0.495,
+      "score": 0.483,
+      "importance": 0.483,
+      "importance_score": 0.483,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7352,
+        "recency": 0.6749,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -948,14 +907,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4625,
-      "importance": 0.4625,
-      "importance_score": 0.4625,
+      "score": 0.4505,
+      "importance": 0.4505,
+      "importance_score": 0.4505,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.5726,
+        "recency": 0.5123,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1026,14 +985,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4316,
-      "importance": 0.4316,
-      "importance_score": 0.4316,
+      "score": 0.4196,
+      "importance": 0.4196,
+      "importance_score": 0.4196,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.4182,
+        "recency": 0.3578,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1104,14 +1063,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.3917,
-      "importance": 0.3917,
-      "importance_score": 0.3917,
+      "score": 0.3796,
+      "importance": 0.3796,
+      "importance_score": 0.3796,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.2183,
+        "recency": 0.1579,
         "story_heat": 0.25
       },
       "category": "watch",
