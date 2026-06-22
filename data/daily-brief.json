@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-06-22T02:03:21.943688Z",
+  "generated_at": "2026-06-22T08:39:05.387913Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260622-1203-4687-ba91-58eeaa10de37&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260622-1203-4687-ba91-58eeaa10de37&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260622-1839-2820-8810-1c53c15281d4&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260622-1839-2820-8810-1c53c15281d4&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "05c07c862f3ab0cb476c802e2e736208123acadf",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260622-1839-2820-8810-1c53c15281d4&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "6e6c5ad87cae58147210b944f58a81146c520824",
           "title": "点击这里进入 / Click here to enter",
@@ -87,15 +96,6 @@
           "id": "bfe2de47fb3c35b627ac3e86d0a65f9d2477e25b",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260621-1909-4957-9213-a8d156fdaae1&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "3fce900cefb7c6abc2c3d60ea75dd85a4d237088",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260621-1526-333a-a75d-03a2cc99cdc1&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -108,6 +108,15 @@
       ],
       "items": [
         {
+          "id": "05c07c862f3ab0cb476c802e2e736208123acadf",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260622-1839-2820-8810-1c53c15281d4&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "6e6c5ad87cae58147210b944f58a81146c520824",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260622-1203-4687-ba91-58eeaa10de37&fp=-3",
@@ -183,15 +192,6 @@
           "id": "bfe2de47fb3c35b627ac3e86d0a65f9d2477e25b",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260621-1909-4957-9213-a8d156fdaae1&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "3fce900cefb7c6abc2c3d60ea75dd85a4d237088",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260621-1526-333a-a75d-03a2cc99cdc1&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -216,12 +216,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-06-21T05:26:04.479206Z",
-      "latest_at": "2026-06-22T02:03:21.943688Z",
+      "earliest_at": "2026-06-21T09:09:19.795324Z",
+      "latest_at": "2026-06-22T08:39:05.387913Z",
       "primary_item": {
-        "id": "6e6c5ad87cae58147210b944f58a81146c520824",
+        "id": "05c07c862f3ab0cb476c802e2e736208123acadf",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260622-1203-4687-ba91-58eeaa10de37&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260622-1839-2820-8810-1c53c15281d4&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
       }
@@ -261,14 +261,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8715,
-      "importance": 0.8715,
-      "importance_score": 0.8715,
+      "score": 0.8166,
+      "importance": 0.8166,
+      "importance_score": 0.8166,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.99,
-        "recency": 0.8727,
+        "recency": 0.5979,
         "story_heat": 0.0
       },
       "category": "official",
@@ -288,101 +288,21 @@
       }
     },
     {
-      "story_id": "story_ead0d734eb1c",
-      "title": "AI 进化的下一块拼图：GPT-5.6 或于下周登场，主打“Agent”级操作能力",
-      "url": "https://www.aibase.com/news/29029",
-      "primary_url": "https://www.aibase.com/news/29029",
+      "story_id": "story_fea130759293",
+      "title": "AI 圈太“卷”：成本压力下，微软 Copilot 拟引入 DeepSeek 模型",
+      "url": "https://www.aibase.com/news/29046",
+      "primary_url": "https://www.aibase.com/news/29046",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "a37138863d4beafe577795dc7c456c17499f6bb6",
-          "title": "AI 进化的下一块拼图：GPT-5.6 或于下周登场，主打“Agent”级操作能力",
-          "url": "https://www.aibase.com/news/29029",
+          "id": "8bd562abcb1afe6359429b3ea4d736a2d1473169",
+          "title": "AI 圈太“卷”：成本压力下，微软 Copilot 拟引入 DeepSeek 模型",
+          "url": "https://www.aibase.com/news/29046",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-06-22T02:03:21.943688Z"
-        },
-        {
-          "id": "035e7ae2326467fba532341f4113fe7366eec054",
-          "title": "AI 进化的下一块拼图：GPT-5.6 或于下周登场，主打「Agent」级操作能力",
-          "url": "https://www.aibase.com/zh/news/29029",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "a37138863d4beafe577795dc7c456c17499f6bb6",
-          "title": "AI 进化的下一块拼图：GPT-5.6 或于下周登场，主打“Agent”级操作能力",
-          "url": "https://www.aibase.com/news/29029",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-06-22T02:03:21.943688Z"
-        },
-        {
-          "id": "035e7ae2326467fba532341f4113fe7366eec054",
-          "title": "AI 进化的下一块拼图：GPT-5.6 或于下周登场，主打「Agent」级操作能力",
-          "url": "https://www.aibase.com/zh/news/29029",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.837,
-      "importance": 0.837,
-      "importance_score": 0.837,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-06-22T02:03:21.943688Z",
-      "latest_at": "2026-06-22T02:03:21.943688Z",
-      "primary_item": {
-        "id": "a37138863d4beafe577795dc7c456c17499f6bb6",
-        "title": "AI 进化的下一块拼图：GPT-5.6 或于下周登场，主打“Agent”级操作能力",
-        "url": "https://www.aibase.com/news/29029",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_05ef536d0c01",
-      "title": "AI人才争夺战再起：谷歌Gemini负责人沙泽尔转投OpenAI",
-      "url": "https://www.aibase.com/news/29031",
-      "primary_url": "https://www.aibase.com/news/29031",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "f2b56c0020de3d3e487804757d4c70c9390a63d0",
-          "title": "AI人才争夺战再起：谷歌Gemini负责人沙泽尔转投OpenAI",
-          "url": "https://www.aibase.com/news/29031",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-06-22T02:03:21.943688Z"
+          "published_at": "2026-06-22T08:39:05.387913Z"
         }
       ],
       "source_count": 1,
@@ -391,13 +311,13 @@
       ],
       "items": [
         {
-          "id": "f2b56c0020de3d3e487804757d4c70c9390a63d0",
-          "title": "AI人才争夺战再起：谷歌Gemini负责人沙泽尔转投OpenAI",
-          "url": "https://www.aibase.com/news/29031",
+          "id": "8bd562abcb1afe6359429b3ea4d736a2d1473169",
+          "title": "AI 圈太“卷”：成本压力下，微软 Copilot 拟引入 DeepSeek 模型",
+          "url": "https://www.aibase.com/news/29046",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-06-22T02:03:21.943688Z"
+          "published_at": "2026-06-22T08:39:05.387913Z"
         }
       ],
       "item_count": 1,
@@ -417,32 +337,32 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-06-22T02:03:21.943688Z",
-      "latest_at": "2026-06-22T02:03:21.943688Z",
+      "earliest_at": "2026-06-22T08:39:05.387913Z",
+      "latest_at": "2026-06-22T08:39:05.387913Z",
       "primary_item": {
-        "id": "f2b56c0020de3d3e487804757d4c70c9390a63d0",
-        "title": "AI人才争夺战再起：谷歌Gemini负责人沙泽尔转投OpenAI",
-        "url": "https://www.aibase.com/news/29031",
+        "id": "8bd562abcb1afe6359429b3ea4d736a2d1473169",
+        "title": "AI 圈太“卷”：成本压力下，微软 Copilot 拟引入 DeepSeek 模型",
+        "url": "https://www.aibase.com/news/29046",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_742f8340ff40",
-      "title": "Snap分拆生成式AI视频团队成立新公司Dotmo 缓解高昂研发成本压力",
-      "url": "https://www.aibase.com/news/29027",
-      "primary_url": "https://www.aibase.com/news/29027",
+      "story_id": "story_be49e349108e",
+      "title": "Meta前高管：AI时代别做十年规划，把握这两件事就够了",
+      "url": "https://www.aibase.com/news/29051",
+      "primary_url": "https://www.aibase.com/news/29051",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "5dbbaf4b5ab5ccf346484145e2e8228975183014",
-          "title": "Snap分拆生成式AI视频团队成立新公司Dotmo 缓解高昂研发成本压力",
-          "url": "https://www.aibase.com/news/29027",
+          "id": "1b1c9b131873a3ead7bdea760bd3fc88c248e8c4",
+          "title": "Meta前高管：AI时代别做十年规划，把握这两件事就够了",
+          "url": "https://www.aibase.com/news/29051",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-06-22T02:03:21.943688Z"
+          "published_at": "2026-06-22T08:39:05.387913Z"
         }
       ],
       "source_count": 1,
@@ -451,13 +371,13 @@
       ],
       "items": [
         {
-          "id": "5dbbaf4b5ab5ccf346484145e2e8228975183014",
-          "title": "Snap分拆生成式AI视频团队成立新公司Dotmo 缓解高昂研发成本压力",
-          "url": "https://www.aibase.com/news/29027",
+          "id": "1b1c9b131873a3ead7bdea760bd3fc88c248e8c4",
+          "title": "Meta前高管：AI时代别做十年规划，把握这两件事就够了",
+          "url": "https://www.aibase.com/news/29051",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-06-22T02:03:21.943688Z"
+          "published_at": "2026-06-22T08:39:05.387913Z"
         }
       ],
       "item_count": 1,
@@ -477,91 +397,32 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-06-22T02:03:21.943688Z",
-      "latest_at": "2026-06-22T02:03:21.943688Z",
+      "earliest_at": "2026-06-22T08:39:05.387913Z",
+      "latest_at": "2026-06-22T08:39:05.387913Z",
       "primary_item": {
-        "id": "5dbbaf4b5ab5ccf346484145e2e8228975183014",
-        "title": "Snap分拆生成式AI视频团队成立新公司Dotmo 缓解高昂研发成本压力",
-        "url": "https://www.aibase.com/news/29027",
+        "id": "1b1c9b131873a3ead7bdea760bd3fc88c248e8c4",
+        "title": "Meta前高管：AI时代别做十年规划，把握这两件事就够了",
+        "url": "https://www.aibase.com/news/29051",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_20d6a8bcb370",
-      "title": "NSA局长：Mythos数小时内攻破其几乎所有机密系统",
-      "url": "https://aihot.virxact.com/items/cmqny6q7v0288slhkbzc8ob3u",
-      "primary_url": "https://aihot.virxact.com/items/cmqny6q7v0288slhkbzc8ob3u",
-      "source": "X：AI Safety Memes (@AISafetyMemes)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "35cdf6769a86526461767eb94a8d7f7a6088e487",
-          "title": "NSA局长：Mythos数小时内攻破其几乎所有机密系统",
-          "url": "https://aihot.virxact.com/items/cmqny6q7v0288slhkbzc8ob3u",
-          "source": "X：AI Safety Memes (@AISafetyMemes)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-21T15:31:52Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：AI Safety Memes (@AISafetyMemes)"
-      ],
-      "items": [
-        {
-          "id": "35cdf6769a86526461767eb94a8d7f7a6088e487",
-          "title": "NSA局长：Mythos数小时内攻破其几乎所有机密系统",
-          "url": "https://aihot.virxact.com/items/cmqny6q7v0288slhkbzc8ob3u",
-          "source": "X：AI Safety Memes (@AISafetyMemes)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-21T15:31:52Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7243,
-      "importance": 0.7243,
-      "importance_score": 0.7243,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5615,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-21T15:31:52Z",
-      "latest_at": "2026-06-21T15:31:52Z",
-      "primary_item": {
-        "id": "35cdf6769a86526461767eb94a8d7f7a6088e487",
-        "title": "NSA局长：Mythos数小时内攻破其几乎所有机密系统",
-        "url": "https://aihot.virxact.com/items/cmqny6q7v0288slhkbzc8ob3u",
-        "source": "X：AI Safety Memes (@AISafetyMemes)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_d5129800bc55",
-      "title": "​Getty Images携手OpenAI达成合作 正版图库内容接入ChatGPT检索场景",
-      "url": "https://www.aibase.com/news/29024",
-      "primary_url": "https://www.aibase.com/news/29024",
+      "story_id": "story_099a80d37590",
+      "title": "Midjourney跨界大动作：布局人体扫描，打造“Spa”式健康体验",
+      "url": "https://www.aibase.com/news/29042",
+      "primary_url": "https://www.aibase.com/news/29042",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "b7e5b2b8fd2524b4c148e309d3b4ad9d0b16e041",
-          "title": "​Getty Images携手OpenAI达成合作 正版图库内容接入ChatGPT检索场景",
-          "url": "https://www.aibase.com/news/29024",
+          "id": "98bfaa6d97f3a421122ed44ae703f862a9e089b2",
+          "title": "Midjourney跨界大动作：布局人体扫描，打造“Spa”式健康体验",
+          "url": "https://www.aibase.com/news/29042",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-06-22T02:03:21.943688Z"
+          "published_at": "2026-06-22T08:39:05.387913Z"
         }
       ],
       "source_count": 1,
@@ -570,13 +431,13 @@
       ],
       "items": [
         {
-          "id": "b7e5b2b8fd2524b4c148e309d3b4ad9d0b16e041",
-          "title": "​Getty Images携手OpenAI达成合作 正版图库内容接入ChatGPT检索场景",
-          "url": "https://www.aibase.com/news/29024",
+          "id": "98bfaa6d97f3a421122ed44ae703f862a9e089b2",
+          "title": "Midjourney跨界大动作：布局人体扫描，打造“Spa”式健康体验",
+          "url": "https://www.aibase.com/news/29042",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-06-22T02:03:21.943688Z"
+          "published_at": "2026-06-22T08:39:05.387913Z"
         }
       ],
       "item_count": 1,
@@ -596,32 +457,32 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-06-22T02:03:21.943688Z",
-      "latest_at": "2026-06-22T02:03:21.943688Z",
+      "earliest_at": "2026-06-22T08:39:05.387913Z",
+      "latest_at": "2026-06-22T08:39:05.387913Z",
       "primary_item": {
-        "id": "b7e5b2b8fd2524b4c148e309d3b4ad9d0b16e041",
-        "title": "​Getty Images携手OpenAI达成合作 正版图库内容接入ChatGPT检索场景",
-        "url": "https://www.aibase.com/news/29024",
+        "id": "98bfaa6d97f3a421122ed44ae703f862a9e089b2",
+        "title": "Midjourney跨界大动作：布局人体扫描，打造“Spa”式健康体验",
+        "url": "https://www.aibase.com/news/29042",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_7dd658cd5e19",
-      "title": "​借 AI 编造股市虚假信息引流牟利 四川南充一女子遭行政处罚",
-      "url": "https://www.aibase.com/news/29028",
-      "primary_url": "https://www.aibase.com/news/29028",
+      "story_id": "story_40c8ae514e75",
+      "title": "OpenAI拿下史上最大企业订单！三星 12 万员工全面接入ChatGPT",
+      "url": "https://www.aibase.com/news/29061",
+      "primary_url": "https://www.aibase.com/news/29061",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "f2ca30b00113b3f5e29aa798cccf872854c96334",
-          "title": "​借 AI 编造股市虚假信息引流牟利 四川南充一女子遭行政处罚",
-          "url": "https://www.aibase.com/news/29028",
+          "id": "6f70031b454beab17cadb0a94ce602bfa1f461b7",
+          "title": "OpenAI拿下史上最大企业订单！三星 12 万员工全面接入ChatGPT",
+          "url": "https://www.aibase.com/news/29061",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-06-22T02:03:21.943688Z"
+          "published_at": "2026-06-22T08:39:05.387913Z"
         }
       ],
       "source_count": 1,
@@ -630,13 +491,13 @@
       ],
       "items": [
         {
-          "id": "f2ca30b00113b3f5e29aa798cccf872854c96334",
-          "title": "​借 AI 编造股市虚假信息引流牟利 四川南充一女子遭行政处罚",
-          "url": "https://www.aibase.com/news/29028",
+          "id": "6f70031b454beab17cadb0a94ce602bfa1f461b7",
+          "title": "OpenAI拿下史上最大企业订单！三星 12 万员工全面接入ChatGPT",
+          "url": "https://www.aibase.com/news/29061",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-06-22T02:03:21.943688Z"
+          "published_at": "2026-06-22T08:39:05.387913Z"
         }
       ],
       "item_count": 1,
@@ -656,32 +517,32 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-06-22T02:03:21.943688Z",
-      "latest_at": "2026-06-22T02:03:21.943688Z",
+      "earliest_at": "2026-06-22T08:39:05.387913Z",
+      "latest_at": "2026-06-22T08:39:05.387913Z",
       "primary_item": {
-        "id": "f2ca30b00113b3f5e29aa798cccf872854c96334",
-        "title": "​借 AI 编造股市虚假信息引流牟利 四川南充一女子遭行政处罚",
-        "url": "https://www.aibase.com/news/29028",
+        "id": "6f70031b454beab17cadb0a94ce602bfa1f461b7",
+        "title": "OpenAI拿下史上最大企业订单！三星 12 万员工全面接入ChatGPT",
+        "url": "https://www.aibase.com/news/29061",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_65b9bd9a1c48",
-      "title": "动口不动手：特斯拉即将通过 Grok 实现 FSD 语音操控",
-      "url": "https://www.aibase.com/news/29025",
-      "primary_url": "https://www.aibase.com/news/29025",
+      "story_id": "story_4d742081efb5",
+      "title": "OpenAI拿下史上最大订单：三星 12 万员工全面开启AI办公时代",
+      "url": "https://www.aibase.com/news/29056",
+      "primary_url": "https://www.aibase.com/news/29056",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "22ef72ff8b32a0780084666329a364fd39ff58e2",
-          "title": "动口不动手：特斯拉即将通过 Grok 实现 FSD 语音操控",
-          "url": "https://www.aibase.com/news/29025",
+          "id": "91cf833ffa2eb5ac209adf14ff0ac338e6d793b0",
+          "title": "OpenAI拿下史上最大订单：三星 12 万员工全面开启AI办公时代",
+          "url": "https://www.aibase.com/news/29056",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-06-22T02:03:21.943688Z"
+          "published_at": "2026-06-22T08:39:05.387913Z"
         }
       ],
       "source_count": 1,
@@ -690,13 +551,13 @@
       ],
       "items": [
         {
-          "id": "22ef72ff8b32a0780084666329a364fd39ff58e2",
-          "title": "动口不动手：特斯拉即将通过 Grok 实现 FSD 语音操控",
-          "url": "https://www.aibase.com/news/29025",
+          "id": "91cf833ffa2eb5ac209adf14ff0ac338e6d793b0",
+          "title": "OpenAI拿下史上最大订单：三星 12 万员工全面开启AI办公时代",
+          "url": "https://www.aibase.com/news/29056",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-06-22T02:03:21.943688Z"
+          "published_at": "2026-06-22T08:39:05.387913Z"
         }
       ],
       "item_count": 1,
@@ -716,32 +577,32 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-06-22T02:03:21.943688Z",
-      "latest_at": "2026-06-22T02:03:21.943688Z",
+      "earliest_at": "2026-06-22T08:39:05.387913Z",
+      "latest_at": "2026-06-22T08:39:05.387913Z",
       "primary_item": {
-        "id": "22ef72ff8b32a0780084666329a364fd39ff58e2",
-        "title": "动口不动手：特斯拉即将通过 Grok 实现 FSD 语音操控",
-        "url": "https://www.aibase.com/news/29025",
+        "id": "91cf833ffa2eb5ac209adf14ff0ac338e6d793b0",
+        "title": "OpenAI拿下史上最大订单：三星 12 万员工全面开启AI办公时代",
+        "url": "https://www.aibase.com/news/29056",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_be8a49473db1",
-      "title": "只需演示一次即可无限重复，OpenAI Codex 解锁“录制与回放”新技能",
-      "url": "https://www.aibase.com/news/29032",
-      "primary_url": "https://www.aibase.com/news/29032",
+      "story_id": "story_c19836b726bf",
+      "title": "​三星电子全球推广 ChatGPT 与 Codex，助力员工提升工作效率",
+      "url": "https://www.aibase.com/news/29044",
+      "primary_url": "https://www.aibase.com/news/29044",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "a0e09981be5e9506fde07fedb73a840f9d664aa2",
-          "title": "只需演示一次即可无限重复，OpenAI Codex 解锁“录制与回放”新技能",
-          "url": "https://www.aibase.com/news/29032",
+          "id": "ad970d08b7dbf98f3f36b22390f046b45d184ec0",
+          "title": "​三星电子全球推广 ChatGPT 与 Codex，助力员工提升工作效率",
+          "url": "https://www.aibase.com/news/29044",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-06-22T02:03:21.943688Z"
+          "published_at": "2026-06-22T08:39:05.387913Z"
         }
       ],
       "source_count": 1,
@@ -750,13 +611,13 @@
       ],
       "items": [
         {
-          "id": "a0e09981be5e9506fde07fedb73a840f9d664aa2",
-          "title": "只需演示一次即可无限重复，OpenAI Codex 解锁“录制与回放”新技能",
-          "url": "https://www.aibase.com/news/29032",
+          "id": "ad970d08b7dbf98f3f36b22390f046b45d184ec0",
+          "title": "​三星电子全球推广 ChatGPT 与 Codex，助力员工提升工作效率",
+          "url": "https://www.aibase.com/news/29044",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-06-22T02:03:21.943688Z"
+          "published_at": "2026-06-22T08:39:05.387913Z"
         }
       ],
       "item_count": 1,
@@ -776,32 +637,32 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-06-22T02:03:21.943688Z",
-      "latest_at": "2026-06-22T02:03:21.943688Z",
+      "earliest_at": "2026-06-22T08:39:05.387913Z",
+      "latest_at": "2026-06-22T08:39:05.387913Z",
       "primary_item": {
-        "id": "a0e09981be5e9506fde07fedb73a840f9d664aa2",
-        "title": "只需演示一次即可无限重复，OpenAI Codex 解锁“录制与回放”新技能",
-        "url": "https://www.aibase.com/news/29032",
+        "id": "ad970d08b7dbf98f3f36b22390f046b45d184ec0",
+        "title": "​三星电子全球推广 ChatGPT 与 Codex，助力员工提升工作效率",
+        "url": "https://www.aibase.com/news/29044",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_b353bc268dd7",
-      "title": "本地也能跑万亿大模型：苹果与 LM Studio 联手解锁 Mac Studio 算力极限",
-      "url": "https://www.aibase.com/news/29033",
-      "primary_url": "https://www.aibase.com/news/29033",
+      "story_id": "story_64d1f204ee63",
+      "title": "​亚马逊向外部出售自研 Trainium 芯片，AI 算市场前景广阔",
+      "url": "https://www.aibase.com/news/29045",
+      "primary_url": "https://www.aibase.com/news/29045",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "a40aa06921a34f551c3893e3bc2ada072b79a4e1",
-          "title": "本地也能跑万亿大模型：苹果与 LM Studio 联手解锁 Mac Studio 算力极限",
-          "url": "https://www.aibase.com/news/29033",
+          "id": "6b51d12557d6b5043f107d563143074596114109",
+          "title": "​亚马逊向外部出售自研 Trainium 芯片，AI 算市场前景广阔",
+          "url": "https://www.aibase.com/news/29045",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-06-22T02:03:21.943688Z"
+          "published_at": "2026-06-22T08:39:05.387913Z"
         }
       ],
       "source_count": 1,
@@ -810,13 +671,13 @@
       ],
       "items": [
         {
-          "id": "a40aa06921a34f551c3893e3bc2ada072b79a4e1",
-          "title": "本地也能跑万亿大模型：苹果与 LM Studio 联手解锁 Mac Studio 算力极限",
-          "url": "https://www.aibase.com/news/29033",
+          "id": "6b51d12557d6b5043f107d563143074596114109",
+          "title": "​亚马逊向外部出售自研 Trainium 芯片，AI 算市场前景广阔",
+          "url": "https://www.aibase.com/news/29045",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-06-22T02:03:21.943688Z"
+          "published_at": "2026-06-22T08:39:05.387913Z"
         }
       ],
       "item_count": 1,
@@ -836,84 +697,51 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-06-22T02:03:21.943688Z",
-      "latest_at": "2026-06-22T02:03:21.943688Z",
+      "earliest_at": "2026-06-22T08:39:05.387913Z",
+      "latest_at": "2026-06-22T08:39:05.387913Z",
       "primary_item": {
-        "id": "a40aa06921a34f551c3893e3bc2ada072b79a4e1",
-        "title": "本地也能跑万亿大模型：苹果与 LM Studio 联手解锁 Mac Studio 算力极限",
-        "url": "https://www.aibase.com/news/29033",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_992c0833980e",
-      "title": "苹果iOS27绕开传统对话式AI:系统级无感化智能成手机系统新趋势",
-      "url": "https://www.aibase.com/news/29026",
-      "primary_url": "https://www.aibase.com/news/29026",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "e5a3bcf139f218b2e4d23431c098a39052907f65",
-          "title": "苹果iOS27绕开传统对话式AI:系统级无感化智能成手机系统新趋势",
-          "url": "https://www.aibase.com/news/29026",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-06-22T02:03:21.943688Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "e5a3bcf139f218b2e4d23431c098a39052907f65",
-          "title": "苹果iOS27绕开传统对话式AI:系统级无感化智能成手机系统新趋势",
-          "url": "https://www.aibase.com/news/29026",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-06-22T02:03:21.943688Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-06-22T02:03:21.943688Z",
-      "latest_at": "2026-06-22T02:03:21.943688Z",
-      "primary_item": {
-        "id": "e5a3bcf139f218b2e4d23431c098a39052907f65",
-        "title": "苹果iOS27绕开传统对话式AI:系统级无感化智能成手机系统新趋势",
-        "url": "https://www.aibase.com/news/29026",
+        "id": "6b51d12557d6b5043f107d563143074596114109",
+        "title": "​亚马逊向外部出售自研 Trainium 芯片，AI 算市场前景广阔",
+        "url": "https://www.aibase.com/news/29045",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
       "story_id": "story_8f30dfad7969",
-      "title": "Show HN: Recall——Claude Code 的完全本地化项目内存",
-      "url": "https://github.com/raiyanyahya/recall",
-      "primary_url": "https://github.com/raiyanyahya/recall",
-      "source": "github.com",
-      "source_name": "Buzzing",
+      "title": "显示 HN：Recall – Claude Code 的本地项目内存 / Show HN: Recall – Local project memory for Claude Code",
+      "url": "https://news.ycombinator.com/item?id=48622590",
+      "primary_url": "https://news.ycombinator.com/item?id=48622590",
+      "source": "hackernews",
+      "source_name": "NewsNow",
       "sources": [
+        {
+          "id": "c92b386df11dfee5697676209e752afad953735a",
+          "title": "显示 HN：Recall – Claude Code 的本地项目内存 / Show HN: Recall – Local project memory for Claude Code",
+          "url": "https://news.ycombinator.com/item?id=48622590",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-06-22T08:18:30.052000Z"
+        },
+        {
+          "id": "ea934cb508d3b3b9d73cd9f5f090a7004b524e62",
+          "title": "Show HN: Recall——Claude Code 的本地项目内存",
+          "url": "https://github.com/raiyanyahya/recall",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-22T07:08:17.083000Z"
+        },
+        {
+          "id": "15702b5bb39284410810f0cb8b06142e07f6a367",
+          "title": "显示 HN：Recall – Claude Code 的完全本地项目内存 / Show HN: Recall – fully-local project memory for Claude Code",
+          "url": "https://news.ycombinator.com/item?id=48622590",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-06-22T01:37:08.855000Z"
+        },
         {
           "id": "fd3833f7aee6fbd1320566ee50bb2ee14874d981",
           "title": "Show HN: Recall——Claude Code 的完全本地化项目内存",
@@ -942,13 +770,41 @@
           "published_at": "2026-06-21T21:05:37Z"
         }
       ],
-      "source_count": 3,
+      "source_count": 6,
       "source_names": [
         "Hacker News · 24h最热",
-        "github.com"
+        "github.com",
+        "hackernews"
       ],
       "items": [
         {
+          "id": "c92b386df11dfee5697676209e752afad953735a",
+          "title": "显示 HN：Recall – Claude Code 的本地项目内存 / Show HN: Recall – Local project memory for Claude Code",
+          "url": "https://news.ycombinator.com/item?id=48622590",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-06-22T08:18:30.052000Z"
+        },
+        {
+          "id": "ea934cb508d3b3b9d73cd9f5f090a7004b524e62",
+          "title": "Show HN: Recall——Claude Code 的本地项目内存",
+          "url": "https://github.com/raiyanyahya/recall",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-22T07:08:17.083000Z"
+        },
+        {
+          "id": "15702b5bb39284410810f0cb8b06142e07f6a367",
+          "title": "显示 HN：Recall – Claude Code 的完全本地项目内存 / Show HN: Recall – fully-local project memory for Claude Code",
+          "url": "https://news.ycombinator.com/item?id=48622590",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-06-22T01:37:08.855000Z"
+        },
+        {
           "id": "fd3833f7aee6fbd1320566ee50bb2ee14874d981",
           "title": "Show HN: Recall——Claude Code 的完全本地化项目内存",
           "url": "https://github.com/raiyanyahya/recall",
@@ -976,30 +832,601 @@
           "published_at": "2026-06-21T21:05:37Z"
         }
       ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5598,
-      "importance": 0.5598,
-      "importance_score": 0.5598,
+      "item_count": 6,
+      "duplicate_count": 6,
+      "score": 0.6201,
+      "importance": 0.6201,
+      "importance_score": 0.6201,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9339,
-        "story_heat": 0.5
+        "recency": 0.9857,
+        "story_heat": 1.0
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
       "earliest_at": "2026-06-21T21:05:37Z",
-      "latest_at": "2026-06-22T00:28:09.030000Z",
+      "latest_at": "2026-06-22T08:18:30.052000Z",
       "primary_item": {
-        "id": "fd3833f7aee6fbd1320566ee50bb2ee14874d981",
-        "title": "Show HN: Recall——Claude Code 的完全本地化项目内存",
-        "url": "https://github.com/raiyanyahya/recall",
-        "source": "github.com",
+        "id": "c92b386df11dfee5697676209e752afad953735a",
+        "title": "显示 HN：Recall – Claude Code 的本地项目内存 / Show HN: Recall – Local project memory for Claude Code",
+        "url": "https://news.ycombinator.com/item?id=48622590",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_c74207fd6698",
+      "title": "中文在线推出逍遥海外作者平台 依托自研大模型赋能网文全链路出海",
+      "url": "https://www.aibase.com/news/29054",
+      "primary_url": "https://www.aibase.com/news/29054",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "ebfa54466bb4adcd89a79091f6add349f6e73141",
+          "title": "中文在线推出逍遥海外作者平台 依托自研大模型赋能网文全链路出海",
+          "url": "https://www.aibase.com/news/29054",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-06-22T08:39:05.387913Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "ebfa54466bb4adcd89a79091f6add349f6e73141",
+          "title": "中文在线推出逍遥海外作者平台 依托自研大模型赋能网文全链路出海",
+          "url": "https://www.aibase.com/news/29054",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-06-22T08:39:05.387913Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-22T08:39:05.387913Z",
+      "latest_at": "2026-06-22T08:39:05.387913Z",
+      "primary_item": {
+        "id": "ebfa54466bb4adcd89a79091f6add349f6e73141",
+        "title": "中文在线推出逍遥海外作者平台 依托自研大模型赋能网文全链路出海",
+        "url": "https://www.aibase.com/news/29054",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_23501d6a29e6",
+      "title": "亚马逊AI算力新策略：自研Trainium芯片或将开启“现货”出售",
+      "url": "https://www.aibase.com/news/29048",
+      "primary_url": "https://www.aibase.com/news/29048",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "0166f17f95293dc943a4426b074152a084775495",
+          "title": "亚马逊AI算力新策略：自研Trainium芯片或将开启“现货”出售",
+          "url": "https://www.aibase.com/news/29048",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-06-22T08:39:05.387913Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "0166f17f95293dc943a4426b074152a084775495",
+          "title": "亚马逊AI算力新策略：自研Trainium芯片或将开启“现货”出售",
+          "url": "https://www.aibase.com/news/29048",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-06-22T08:39:05.387913Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-22T08:39:05.387913Z",
+      "latest_at": "2026-06-22T08:39:05.387913Z",
+      "primary_item": {
+        "id": "0166f17f95293dc943a4426b074152a084775495",
+        "title": "亚马逊AI算力新策略：自研Trainium芯片或将开启“现货”出售",
+        "url": "https://www.aibase.com/news/29048",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_201ce65b3ce5",
+      "title": "通过对Qwen 3:0.6B等本地大型语言模型（LLM）进行微调，使其能够对问题进行分类，取得了良好的效果",
+      "url": "https://www.teachmecoolstuff.com/viewarticle/fine-tuning-a-local-llm-to-categorize-questions",
+      "primary_url": "https://www.teachmecoolstuff.com/viewarticle/fine-tuning-a-local-llm-to-categorize-questions",
+      "source": "www.teachmecoolstuff.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "bd8bf76d6a2a4147d0995b5d3661ec41cdb2856f",
+          "title": "通过对Qwen 3:0.6B等本地大型语言模型（LLM）进行微调，使其能够对问题进行分类，取得了良好的效果",
+          "url": "https://www.teachmecoolstuff.com/viewarticle/fine-tuning-a-local-llm-to-categorize-questions",
+          "source": "www.teachmecoolstuff.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-22T06:52:26.356000Z"
+        },
+        {
+          "id": "6b615f7e7d0c0f2e663a7622337fe642bdff2237",
+          "title": "微调本地法学硕士（如 Qwen 3:0.6B）以对问题进行分类，效果良好 / Good results fine tuning a local LLM like Qwen 3:0.6B to categorize questions",
+          "url": "https://news.ycombinator.com/item?id=48623434",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-06-22T01:37:08.855000Z"
+        },
+        {
+          "id": "fa50eb569b4bd6cda2f0096c63424f9417728b4d",
+          "title": "通过对Qwen 3:0.6B等本地大型语言模型（LLM）进行微调，使其能够对问题进行分类，取得了良好的效果 / Good results fine tuning a local LLM like Qwen 3:0.6B to categorize questions",
+          "url": "https://www.teachmecoolstuff.com/viewarticle/fine-tuning-a-local-llm-to-categorize-questions",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-06-21T22:55:23Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "hackernews",
+        "www.teachmecoolstuff.com"
+      ],
+      "items": [
+        {
+          "id": "bd8bf76d6a2a4147d0995b5d3661ec41cdb2856f",
+          "title": "通过对Qwen 3:0.6B等本地大型语言模型（LLM）进行微调，使其能够对问题进行分类，取得了良好的效果",
+          "url": "https://www.teachmecoolstuff.com/viewarticle/fine-tuning-a-local-llm-to-categorize-questions",
+          "source": "www.teachmecoolstuff.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-22T06:52:26.356000Z"
+        },
+        {
+          "id": "6b615f7e7d0c0f2e663a7622337fe642bdff2237",
+          "title": "微调本地法学硕士（如 Qwen 3:0.6B）以对问题进行分类，效果良好 / Good results fine tuning a local LLM like Qwen 3:0.6B to categorize questions",
+          "url": "https://news.ycombinator.com/item?id=48623434",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-06-22T01:37:08.855000Z"
+        },
+        {
+          "id": "fa50eb569b4bd6cda2f0096c63424f9417728b4d",
+          "title": "通过对Qwen 3:0.6B等本地大型语言模型（LLM）进行微调，使其能够对问题进行分类，取得了良好的效果 / Good results fine tuning a local LLM like Qwen 3:0.6B to categorize questions",
+          "url": "https://www.teachmecoolstuff.com/viewarticle/fine-tuning-a-local-llm-to-categorize-questions",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-06-21T22:55:23Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5582,
+      "importance": 0.5582,
+      "importance_score": 0.5582,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9259,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-06-21T22:55:23Z",
+      "latest_at": "2026-06-22T06:52:26.356000Z",
+      "primary_item": {
+        "id": "bd8bf76d6a2a4147d0995b5d3661ec41cdb2856f",
+        "title": "通过对Qwen 3:0.6B等本地大型语言模型（LLM）进行微调，使其能够对问题进行分类，取得了良好的效果",
+        "url": "https://www.teachmecoolstuff.com/viewarticle/fine-tuning-a-local-llm-to-categorize-questions",
+        "source": "www.teachmecoolstuff.com",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_03e4dc53be05",
+      "title": "卖马桶的 TOTO 杀疯了，成了 AI 芯片的幕后赢家",
+      "url": "https://www.36kr.com/p/3863808303141896",
+      "primary_url": "https://www.36kr.com/p/3863808303141896",
+      "source": "36氪 · 24小时热榜",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "b9c7a54282679fbe8c14a025a056703584eb3a27",
+          "title": "卖马桶的 TOTO 杀疯了，成了 AI 芯片的幕后赢家",
+          "url": "https://www.36kr.com/p/3863808303141896",
+          "source": "36氪 · 24小时热榜",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "d35400ef8c11b412d07b5613cdfd19209b7471fd",
+          "title": "卖马桶的TOTO 杀疯了，成了AI 芯片的幕后赢家",
+          "url": "https://www.huxiu.com/article/4869128.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-22T04:00:45Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "36氪 · 24小时热榜",
+        "虎嗅 (Huxiu)"
+      ],
+      "items": [
+        {
+          "id": "b9c7a54282679fbe8c14a025a056703584eb3a27",
+          "title": "卖马桶的 TOTO 杀疯了，成了 AI 芯片的幕后赢家",
+          "url": "https://www.36kr.com/p/3863808303141896",
+          "source": "36氪 · 24小时热榜",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "d35400ef8c11b412d07b5613cdfd19209b7471fd",
+          "title": "卖马桶的TOTO 杀疯了，成了AI 芯片的幕后赢家",
+          "url": "https://www.huxiu.com/article/4869128.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-22T04:00:45Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.548,
+      "importance": 0.548,
+      "importance_score": 0.548,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-06-22T04:00:45Z",
+      "latest_at": "2026-06-22T08:39:05.387913Z",
+      "primary_item": {
+        "id": "b9c7a54282679fbe8c14a025a056703584eb3a27",
+        "title": "卖马桶的 TOTO 杀疯了，成了 AI 芯片的幕后赢家",
+        "url": "https://www.36kr.com/p/3863808303141896",
+        "source": "36氪 · 24小时热榜",
+        "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_33bdf584ac32",
+      "title": "微软 CEO 呼吁打破 AI 巨头垄断，转向廉价模型、强化用户选择权",
+      "url": "https://36kr.com/newsflashes/3864050755933444?f=rss",
+      "primary_url": "https://36kr.com/newsflashes/3864050755933444?f=rss",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "773e3bdb2d9d23c6f116692b656958f6a5452fb6",
+          "title": "微软 CEO 呼吁打破 AI 巨头垄断，转向廉价模型、强化用户选择权",
+          "url": "https://36kr.com/newsflashes/3864050755933444?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "db763e9b0e84090ecd91e5261537d15ed8dfc372",
+          "title": "微软CEO呼吁打破AI巨头垄断，转向廉价模型、强化用户选择权",
+          "url": "https://36kr.com/newsflashes/3864050755933444?f=rss",
+          "source": "36氪 (36Kr)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-22T07:55:41Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "36氪 (36Kr)",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "773e3bdb2d9d23c6f116692b656958f6a5452fb6",
+          "title": "微软 CEO 呼吁打破 AI 巨头垄断，转向廉价模型、强化用户选择权",
+          "url": "https://36kr.com/newsflashes/3864050755933444?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "db763e9b0e84090ecd91e5261537d15ed8dfc372",
+          "title": "微软CEO呼吁打破AI巨头垄断，转向廉价模型、强化用户选择权",
+          "url": "https://36kr.com/newsflashes/3864050755933444?f=rss",
+          "source": "36氪 (36Kr)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-22T07:55:41Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.548,
+      "importance": 0.548,
+      "importance_score": 0.548,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-06-22T07:55:41Z",
+      "latest_at": "2026-06-22T08:39:05.387913Z",
+      "primary_item": {
+        "id": "773e3bdb2d9d23c6f116692b656958f6a5452fb6",
+        "title": "微软 CEO 呼吁打破 AI 巨头垄断，转向廉价模型、强化用户选择权",
+        "url": "https://36kr.com/newsflashes/3864050755933444?f=rss",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_7327d56f4117",
+      "title": "四台Mac Studio干翻云端集群！苹果联手LM Studio本地跑起万亿参数大模型",
+      "url": "https://www.aibase.com/news/29057",
+      "primary_url": "https://www.aibase.com/news/29057",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "d12353aaa60389d028e469cacb944ea88d4e0c90",
+          "title": "四台Mac Studio干翻云端集群！苹果联手LM Studio本地跑起万亿参数大模型",
+          "url": "https://www.aibase.com/news/29057",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-06-22T08:39:05.387913Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "d12353aaa60389d028e469cacb944ea88d4e0c90",
+          "title": "四台Mac Studio干翻云端集群！苹果联手LM Studio本地跑起万亿参数大模型",
+          "url": "https://www.aibase.com/news/29057",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-06-22T08:39:05.387913Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-22T08:39:05.387913Z",
+      "latest_at": "2026-06-22T08:39:05.387913Z",
+      "primary_item": {
+        "id": "d12353aaa60389d028e469cacb944ea88d4e0c90",
+        "title": "四台Mac Studio干翻云端集群！苹果联手LM Studio本地跑起万亿参数大模型",
+        "url": "https://www.aibase.com/news/29057",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_0c8b2cb87256",
+      "title": "萨卡纳·福古",
+      "url": "https://sakana.ai/fugu",
+      "primary_url": "https://sakana.ai/fugu",
+      "source": "sakana.ai",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "023fe69c459d5e8808ea84df6e56cc3eda3ad6ed",
+          "title": "萨卡纳·福古",
+          "url": "https://sakana.ai/fugu",
+          "source": "sakana.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-22T07:24:14.938000Z"
+        },
+        {
+          "id": "777c553ccdd2719300954cdee43409dd55a228b7",
+          "title": "萨卡纳·福古 / Sakana Fugu",
+          "url": "https://sakana.ai/fugu",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-06-22T02:08:18Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "sakana.ai"
+      ],
+      "items": [
+        {
+          "id": "023fe69c459d5e8808ea84df6e56cc3eda3ad6ed",
+          "title": "萨卡纳·福古",
+          "url": "https://sakana.ai/fugu",
+          "source": "sakana.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-22T07:24:14.938000Z"
+        },
+        {
+          "id": "777c553ccdd2719300954cdee43409dd55a228b7",
+          "title": "萨卡纳·福古 / Sakana Fugu",
+          "url": "https://sakana.ai/fugu",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-06-22T02:08:18Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5376,
+      "importance": 0.5376,
+      "importance_score": 0.5376,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.948,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-06-22T02:08:18Z",
+      "latest_at": "2026-06-22T07:24:14.938000Z",
+      "primary_item": {
+        "id": "023fe69c459d5e8808ea84df6e56cc3eda3ad6ed",
+        "title": "萨卡纳·福古",
+        "url": "https://sakana.ai/fugu",
+        "source": "sakana.ai",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_661dc8a68b15",
+      "title": "字节豆包灰测网约车服务，AI Agent加速重构服务入口",
+      "url": "https://www.aibase.com/news/29055",
+      "primary_url": "https://www.aibase.com/news/29055",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "8f7b3752c89f46e799160251cee546d59775f65a",
+          "title": "字节豆包灰测网约车服务，AI Agent加速重构服务入口",
+          "url": "https://www.aibase.com/news/29055",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-06-22T08:39:05.387913Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "8f7b3752c89f46e799160251cee546d59775f65a",
+          "title": "字节豆包灰测网约车服务，AI Agent加速重构服务入口",
+          "url": "https://www.aibase.com/news/29055",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-06-22T08:39:05.387913Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-22T08:39:05.387913Z",
+      "latest_at": "2026-06-22T08:39:05.387913Z",
+      "primary_item": {
+        "id": "8f7b3752c89f46e799160251cee546d59775f65a",
+        "title": "字节豆包灰测网约车服务，AI Agent加速重构服务入口",
+        "url": "https://www.aibase.com/news/29055",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -1075,14 +1502,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5509,
-      "importance": 0.5509,
-      "importance_score": 0.5509,
+      "score": 0.4959,
+      "importance": 0.4959,
+      "importance_score": 0.4959,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8894,
+        "recency": 0.6146,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1100,99 +1527,21 @@
       }
     },
     {
-      "story_id": "story_201ce65b3ce5",
-      "title": "微调本地法学硕士（如 Qwen 3:0.6B）以对问题进行分类，效果良好 / Good results fine tuning a local LLM like Qwen 3:0.6B to categorize questions",
-      "url": "https://news.ycombinator.com/item?id=48623434",
-      "primary_url": "https://news.ycombinator.com/item?id=48623434",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "6b615f7e7d0c0f2e663a7622337fe642bdff2237",
-          "title": "微调本地法学硕士（如 Qwen 3:0.6B）以对问题进行分类，效果良好 / Good results fine tuning a local LLM like Qwen 3:0.6B to categorize questions",
-          "url": "https://news.ycombinator.com/item?id=48623434",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-06-22T01:37:08.855000Z"
-        },
-        {
-          "id": "fa50eb569b4bd6cda2f0096c63424f9417728b4d",
-          "title": "微调本地法学硕士（如 Qwen 3:0.6B）以对问题进行分类，效果良好 / Good results fine tuning a local LLM like Qwen 3:0.6B to categorize questions",
-          "url": "https://www.teachmecoolstuff.com/viewarticle/fine-tuning-a-local-llm-to-categorize-questions",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-06-21T22:55:23Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "6b615f7e7d0c0f2e663a7622337fe642bdff2237",
-          "title": "微调本地法学硕士（如 Qwen 3:0.6B）以对问题进行分类，效果良好 / Good results fine tuning a local LLM like Qwen 3:0.6B to categorize questions",
-          "url": "https://news.ycombinator.com/item?id=48623434",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-06-22T01:37:08.855000Z"
-        },
-        {
-          "id": "fa50eb569b4bd6cda2f0096c63424f9417728b4d",
-          "title": "微调本地法学硕士（如 Qwen 3:0.6B）以对问题进行分类，效果良好 / Good results fine tuning a local LLM like Qwen 3:0.6B to categorize questions",
-          "url": "https://www.teachmecoolstuff.com/viewarticle/fine-tuning-a-local-llm-to-categorize-questions",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-06-21T22:55:23Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5444,
-      "importance": 0.5444,
-      "importance_score": 0.5444,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9818,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-06-21T22:55:23Z",
-      "latest_at": "2026-06-22T01:37:08.855000Z",
-      "primary_item": {
-        "id": "6b615f7e7d0c0f2e663a7622337fe642bdff2237",
-        "title": "微调本地法学硕士（如 Qwen 3:0.6B）以对问题进行分类，效果良好 / Good results fine tuning a local LLM like Qwen 3:0.6B to categorize questions",
-        "url": "https://news.ycombinator.com/item?id=48623434",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_6eed9a859336",
-      "title": "视觉盛宴接入 AI：Getty Images 与 OpenAI 达成战略授权合作",
-      "url": "https://www.aibase.com/news/29023",
-      "primary_url": "https://www.aibase.com/news/29023",
+      "story_id": "story_4abb7d52391c",
+      "title": "小米开源全屋智能AI方案Miloco 2.0：让家\"能记忆、会识人、懂执行\"",
+      "url": "https://www.aibase.com/news/29052",
+      "primary_url": "https://www.aibase.com/news/29052",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "9bb36451af8abfe871191a798128a769eb8901c3",
-          "title": "视觉盛宴接入 AI：Getty Images 与 OpenAI 达成战略授权合作",
-          "url": "https://www.aibase.com/news/29023",
+          "id": "aaefee97a68c85c58a6673951fd8be58a7dccda7",
+          "title": "小米开源全屋智能AI方案Miloco 2.0：让家\"能记忆、会识人、懂执行\"",
+          "url": "https://www.aibase.com/news/29052",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-06-22T02:03:21.943688Z"
+          "published_at": "2026-06-22T08:39:05.387913Z"
         }
       ],
       "source_count": 1,
@@ -1201,13 +1550,13 @@
       ],
       "items": [
         {
-          "id": "9bb36451af8abfe871191a798128a769eb8901c3",
-          "title": "视觉盛宴接入 AI：Getty Images 与 OpenAI 达成战略授权合作",
-          "url": "https://www.aibase.com/news/29023",
+          "id": "aaefee97a68c85c58a6673951fd8be58a7dccda7",
+          "title": "小米开源全屋智能AI方案Miloco 2.0：让家\"能记忆、会识人、懂执行\"",
+          "url": "https://www.aibase.com/news/29052",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-06-22T02:03:21.943688Z"
+          "published_at": "2026-06-22T08:39:05.387913Z"
         }
       ],
       "item_count": 1,
@@ -1227,307 +1576,14 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-06-22T02:03:21.943688Z",
-      "latest_at": "2026-06-22T02:03:21.943688Z",
+      "earliest_at": "2026-06-22T08:39:05.387913Z",
+      "latest_at": "2026-06-22T08:39:05.387913Z",
       "primary_item": {
-        "id": "9bb36451af8abfe871191a798128a769eb8901c3",
-        "title": "视觉盛宴接入 AI：Getty Images 与 OpenAI 达成战略授权合作",
-        "url": "https://www.aibase.com/news/29023",
+        "id": "aaefee97a68c85c58a6673951fd8be58a7dccda7",
+        "title": "小米开源全屋智能AI方案Miloco 2.0：让家\"能记忆、会识人、懂执行\"",
+        "url": "https://www.aibase.com/news/29052",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_66b4e5f43215",
-      "title": "纽约的租金收入下降 / Rent collections are down in New York",
-      "url": "https://www.politico.com/news/2026/06/21/rent-collections-are-down-in-new-york-and-no-ones-sure-why-00966982",
-      "primary_url": "https://www.politico.com/news/2026/06/21/rent-collections-are-down-in-new-york-and-no-ones-sure-why-00966982",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "0a2bdfed2b73f966fe64f41784cec5f3acc42bdb",
-          "title": "纽约的租金收入下降 / Rent collections are down in New York",
-          "url": "https://www.politico.com/news/2026/06/21/rent-collections-are-down-in-new-york-and-no-ones-sure-why-00966982",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-06-21T21:54:34Z"
-        },
-        {
-          "id": "8c1184cd394c4efff0733ec04b199a27eb30b802",
-          "title": "纽约的租金收入下降——没人知道原因 / Rent collections are down in New York – and no one's sure why",
-          "url": "https://www.politico.com/news/2026/06/21/rent-collections-are-down-in-new-york-and-no-ones-sure-why-00966982",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-06-21T21:54:34Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热"
-      ],
-      "items": [
-        {
-          "id": "0a2bdfed2b73f966fe64f41784cec5f3acc42bdb",
-          "title": "纽约的租金收入下降 / Rent collections are down in New York",
-          "url": "https://www.politico.com/news/2026/06/21/rent-collections-are-down-in-new-york-and-no-ones-sure-why-00966982",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-06-21T21:54:34Z"
-        },
-        {
-          "id": "8c1184cd394c4efff0733ec04b199a27eb30b802",
-          "title": "纽约的租金收入下降——没人知道原因 / Rent collections are down in New York – and no one's sure why",
-          "url": "https://www.politico.com/news/2026/06/21/rent-collections-are-down-in-new-york-and-no-ones-sure-why-00966982",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-06-21T21:54:34Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5134,
-      "importance": 0.5134,
-      "importance_score": 0.5134,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8272,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-06-21T21:54:34Z",
-      "latest_at": "2026-06-21T21:54:34Z",
-      "primary_item": {
-        "id": "0a2bdfed2b73f966fe64f41784cec5f3acc42bdb",
-        "title": "纽约的租金收入下降 / Rent collections are down in New York",
-        "url": "https://www.politico.com/news/2026/06/21/rent-collections-are-down-in-new-york-and-no-ones-sure-why-00966982",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
-      }
-    },
-    {
-      "story_id": "story_8c7eee48f31a",
-      "title": "谷歌明星研究员接连出走，诺奖得主约翰·詹珀转投 Anthropic",
-      "url": "https://www.aibase.com/news/29030",
-      "primary_url": "https://www.aibase.com/news/29030",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "d6efb0f3c8ba320cde07b145cb1987edd2bf836c",
-          "title": "谷歌明星研究员接连出走，诺奖得主约翰·詹珀转投 Anthropic",
-          "url": "https://www.aibase.com/news/29030",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-06-22T02:03:21.943688Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "d6efb0f3c8ba320cde07b145cb1987edd2bf836c",
-          "title": "谷歌明星研究员接连出走，诺奖得主约翰·詹珀转投 Anthropic",
-          "url": "https://www.aibase.com/news/29030",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-06-22T02:03:21.943688Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-06-22T02:03:21.943688Z",
-      "latest_at": "2026-06-22T02:03:21.943688Z",
-      "primary_item": {
-        "id": "d6efb0f3c8ba320cde07b145cb1987edd2bf836c",
-        "title": "谷歌明星研究员接连出走，诺奖得主约翰·詹珀转投 Anthropic",
-        "url": "https://www.aibase.com/news/29030",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_0e3cdbc242c9",
-      "title": "什么是GLM-5.2？又一款开源的中国AI模型引起了硅谷的关注。",
-      "url": "https://www.businessinsider.com/what-is-glm-5-2-chinese-ai-coding-model-2026-6",
-      "primary_url": "https://www.businessinsider.com/what-is-glm-5-2-chinese-ai-coding-model-2026-6",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "421d1b6c4db292173edd378b92dbd411898ac4af",
-          "title": "什么是GLM-5.2？又一款开源的中国AI模型引起了硅谷的关注。",
-          "url": "https://www.businessinsider.com/what-is-glm-5-2-chinese-ai-coding-model-2026-6",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-21T20:12:24.001000Z"
-        },
-        {
-          "id": "cff35a8f7510d0c54034354e7717a14d0fab73c7",
-          "title": "什么是GLM-5.2？又一款开源的中国AI模型引起了硅谷的关注。 / What is GLM-5.2? Another open-source Chinese AI model has Silicon Valley's attention.",
-          "url": "https://www.businessinsider.com/what-is-glm-5-2-chinese-ai-coding-model-2026-6",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-06-21T19:52:34Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "421d1b6c4db292173edd378b92dbd411898ac4af",
-          "title": "什么是GLM-5.2？又一款开源的中国AI模型引起了硅谷的关注。",
-          "url": "https://www.businessinsider.com/what-is-glm-5-2-chinese-ai-coding-model-2026-6",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-21T20:12:24.001000Z"
-        },
-        {
-          "id": "cff35a8f7510d0c54034354e7717a14d0fab73c7",
-          "title": "什么是GLM-5.2？又一款开源的中国AI模型引起了硅谷的关注。 / What is GLM-5.2? Another open-source Chinese AI model has Silicon Valley's attention.",
-          "url": "https://www.businessinsider.com/what-is-glm-5-2-chinese-ai-coding-model-2026-6",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-06-21T19:52:34Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4993,
-      "importance": 0.4993,
-      "importance_score": 0.4993,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7563,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-06-21T19:52:34Z",
-      "latest_at": "2026-06-21T20:12:24.001000Z",
-      "primary_item": {
-        "id": "421d1b6c4db292173edd378b92dbd411898ac4af",
-        "title": "什么是GLM-5.2？又一款开源的中国AI模型引起了硅谷的关注。",
-        "url": "https://www.businessinsider.com/what-is-glm-5-2-chinese-ai-coding-model-2026-6",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_15205fd2aacf",
-      "title": "关于当前艺术作品中出现的LLM中毒现象，有什么建议吗？",
-      "url": "https://lobste.rs/s/lbjdlo/what_s_advice_for_llm_poisoning_artwork",
-      "primary_url": "https://lobste.rs/s/lbjdlo/what_s_advice_for_llm_poisoning_artwork",
-      "source": "lobste.rs",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "5d5c463067c240ea404cd51383a3be940844dd6d",
-          "title": "关于当前艺术作品中出现的LLM中毒现象，有什么建议吗？",
-          "url": "https://lobste.rs/s/lbjdlo/what_s_advice_for_llm_poisoning_artwork",
-          "source": "lobste.rs",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-21T20:12:23.872000Z"
-        },
-        {
-          "id": "97dd14f1bd766b571d716db1318f56619a206ae0",
-          "title": "关于当前艺术作品中出现的LLM中毒现象，有什么建议吗？ / What's the advice for LLM poisoning of artwork these days?",
-          "url": "https://lobste.rs/s/lbjdlo/what_s_advice_for_llm_poisoning_artwork",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-06-21T19:57:17Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Lobsters (技术社区)",
-        "lobste.rs"
-      ],
-      "items": [
-        {
-          "id": "5d5c463067c240ea404cd51383a3be940844dd6d",
-          "title": "关于当前艺术作品中出现的LLM中毒现象，有什么建议吗？",
-          "url": "https://lobste.rs/s/lbjdlo/what_s_advice_for_llm_poisoning_artwork",
-          "source": "lobste.rs",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-21T20:12:23.872000Z"
-        },
-        {
-          "id": "97dd14f1bd766b571d716db1318f56619a206ae0",
-          "title": "关于当前艺术作品中出现的LLM中毒现象，有什么建议吗？ / What's the advice for LLM poisoning of artwork these days?",
-          "url": "https://lobste.rs/s/lbjdlo/what_s_advice_for_llm_poisoning_artwork",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-06-21T19:57:17Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4993,
-      "importance": 0.4993,
-      "importance_score": 0.4993,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7563,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-06-21T19:57:17Z",
-      "latest_at": "2026-06-21T20:12:23.872000Z",
-      "primary_item": {
-        "id": "5d5c463067c240ea404cd51383a3be940844dd6d",
-        "title": "关于当前艺术作品中出现的LLM中毒现象，有什么建议吗？",
-        "url": "https://lobste.rs/s/lbjdlo/what_s_advice_for_llm_poisoning_artwork",
-        "source": "lobste.rs",
-        "source_name": "Buzzing"
       }
     }
   ]
