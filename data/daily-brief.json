@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-06-22T18:47:50.127967Z",
+  "generated_at": "2026-06-22T21:32:03.263512Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260623-0448-1170-b105-866d7ede1403&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260623-0448-1170-b105-866d7ede1403&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260623-0732-2936-8aa2-3de32ca4f455&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260623-0732-2936-8aa2-3de32ca4f455&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "e651f44b20b38d02518b59759e99049937644592",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260623-0732-2936-8aa2-3de32ca4f455&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "5e79d451157a2eb6a4f8929ae47d3dd1ba8fd4da",
           "title": "点击这里进入 / Click here to enter",
@@ -60,15 +69,6 @@
           "id": "2c88ee88998fe683ac531be42e283435c0055680",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260622-0755-5056-bb72-7c6f82ec679f&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "2683b754832c6d5641854a496502bcef41c7ff3a",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260622-0613-03a4-806e-bef70a779f41&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -81,6 +81,15 @@
       ],
       "items": [
         {
+          "id": "e651f44b20b38d02518b59759e99049937644592",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260623-0732-2936-8aa2-3de32ca4f455&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "5e79d451157a2eb6a4f8929ae47d3dd1ba8fd4da",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260623-0448-1170-b105-866d7ede1403&fp=-3",
@@ -129,15 +138,6 @@
           "id": "2c88ee88998fe683ac531be42e283435c0055680",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260622-0755-5056-bb72-7c6f82ec679f&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "2683b754832c6d5641854a496502bcef41c7ff3a",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260622-0613-03a4-806e-bef70a779f41&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -162,12 +162,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-06-21T20:12:29.462950Z",
-      "latest_at": "2026-06-22T18:47:50.127967Z",
+      "earliest_at": "2026-06-21T21:55:28.358951Z",
+      "latest_at": "2026-06-22T21:32:03.263512Z",
       "primary_item": {
-        "id": "5e79d451157a2eb6a4f8929ae47d3dd1ba8fd4da",
+        "id": "e651f44b20b38d02518b59759e99049937644592",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260623-0448-1170-b105-866d7ede1403&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260623-0732-2936-8aa2-3de32ca4f455&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
       }
@@ -207,14 +207,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8461,
-      "importance": 0.8461,
-      "importance_score": 0.8461,
+      "score": 0.8233,
+      "importance": 0.8233,
+      "importance_score": 0.8233,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8654,
+        "recency": 0.7514,
         "story_heat": 0.0
       },
       "category": "official",
@@ -231,6 +231,186 @@
         "url": "https://github.blog/changelog/2026-06-22-new-features-and-claude-as-agent-provider-preview-in-jetbrains-ides",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_0258df06a002",
+      "title": "在 AWS、Google Cloud 和 Microsoft Foundry 上使用完整版 Claude Desktop",
+      "url": "https://aihot.virxact.com/items/cmqppyj5702txslp5d7ahupmr",
+      "primary_url": "https://aihot.virxact.com/items/cmqppyj5702txslp5d7ahupmr",
+      "source": "Claude：Blog（网页）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "1c7128ee00bf3bfb859414ea107afc4f82f37dec",
+          "title": "在 AWS、Google Cloud 和 Microsoft Foundry 上使用完整版 Claude Desktop",
+          "url": "https://aihot.virxact.com/items/cmqppyj5702txslp5d7ahupmr",
+          "source": "Claude：Blog（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-22T21:19:56Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Claude：Blog（网页）"
+      ],
+      "items": [
+        {
+          "id": "1c7128ee00bf3bfb859414ea107afc4f82f37dec",
+          "title": "在 AWS、Google Cloud 和 Microsoft Foundry 上使用完整版 Claude Desktop",
+          "url": "https://aihot.virxact.com/items/cmqppyj5702txslp5d7ahupmr",
+          "source": "Claude：Blog（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-22T21:19:56Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8103,
+      "importance": 0.8103,
+      "importance_score": 0.8103,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9916,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-22T21:19:56Z",
+      "latest_at": "2026-06-22T21:19:56Z",
+      "primary_item": {
+        "id": "1c7128ee00bf3bfb859414ea107afc4f82f37dec",
+        "title": "在 AWS、Google Cloud 和 Microsoft Foundry 上使用完整版 Claude Desktop",
+        "url": "https://aihot.virxact.com/items/cmqppyj5702txslp5d7ahupmr",
+        "source": "Claude：Blog（网页）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_72c004a2082f",
+      "title": "Show HN：Oak--专为代理设计的 Git 替代方案",
+      "url": "https://aihot.virxact.com/items/cmqppo7c402qnslp5p92n6y3b",
+      "primary_url": "https://aihot.virxact.com/items/cmqppo7c402qnslp5p92n6y3b",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "af6318199f7e2a64fe34a5c38e91885d878696ee",
+          "title": "Show HN：Oak--专为代理设计的 Git 替代方案",
+          "url": "https://aihot.virxact.com/items/cmqppo7c402qnslp5p92n6y3b",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-22T21:00:09Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）"
+      ],
+      "items": [
+        {
+          "id": "af6318199f7e2a64fe34a5c38e91885d878696ee",
+          "title": "Show HN：Oak--专为代理设计的 Git 替代方案",
+          "url": "https://aihot.virxact.com/items/cmqppo7c402qnslp5p92n6y3b",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-22T21:00:09Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8076,
+      "importance": 0.8076,
+      "importance_score": 0.8076,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9778,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-22T21:00:09Z",
+      "latest_at": "2026-06-22T21:00:09Z",
+      "primary_item": {
+        "id": "af6318199f7e2a64fe34a5c38e91885d878696ee",
+        "title": "Show HN：Oak--专为代理设计的 Git 替代方案",
+        "url": "https://aihot.virxact.com/items/cmqppo7c402qnslp5p92n6y3b",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_68ef9a11772e",
+      "title": "Google DeepMind 7500 万美元投资 A24，合作开发电影 AI 工具",
+      "url": "https://aihot.virxact.com/items/cmqpl4smd01j1slp5npj3krmn",
+      "primary_url": "https://aihot.virxact.com/items/cmqpl4smd01j1slp5npj3krmn",
+      "source": "TechCrunch：AI（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "6708c0929ef5a20f706c971e345390e6e048b757",
+          "title": "Google DeepMind 7500 万美元投资 A24，合作开发电影 AI 工具",
+          "url": "https://aihot.virxact.com/items/cmqpl4smd01j1slp5npj3krmn",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-22T18:49:44Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch：AI（RSS）"
+      ],
+      "items": [
+        {
+          "id": "6708c0929ef5a20f706c971e345390e6e048b757",
+          "title": "Google DeepMind 7500 万美元投资 A24，合作开发电影 AI 工具",
+          "url": "https://aihot.virxact.com/items/cmqpl4smd01j1slp5npj3krmn",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-22T18:49:44Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7895,
+      "importance": 0.7895,
+      "importance_score": 0.7895,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8873,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-22T18:49:44Z",
+      "latest_at": "2026-06-22T18:49:44Z",
+      "primary_item": {
+        "id": "6708c0929ef5a20f706c971e345390e6e048b757",
+        "title": "Google DeepMind 7500 万美元投资 A24，合作开发电影 AI 工具",
+        "url": "https://aihot.virxact.com/items/cmqpl4smd01j1slp5npj3krmn",
+        "source": "TechCrunch：AI（RSS）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -268,14 +448,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7982,
-      "importance": 0.7982,
-      "importance_score": 0.7982,
+      "score": 0.7754,
+      "importance": 0.7754,
+      "importance_score": 0.7754,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9312,
+        "recency": 0.8171,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -347,14 +527,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7923,
-      "importance": 0.7923,
-      "importance_score": 0.7923,
+      "score": 0.7695,
+      "importance": 0.7695,
+      "importance_score": 0.7695,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7763,
+        "recency": 0.6623,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -408,14 +588,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7903,
-      "importance": 0.7903,
-      "importance_score": 0.7903,
+      "score": 0.7675,
+      "importance": 0.7675,
+      "importance_score": 0.7675,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8916,
+        "recency": 0.7775,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -468,14 +648,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7781,
-      "importance": 0.7781,
-      "importance_score": 0.7781,
+      "score": 0.7553,
+      "importance": 0.7553,
+      "importance_score": 0.7553,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8303,
+        "recency": 0.7163,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -491,66 +671,6 @@
         "url": "https://www.aibase.com/news/29065",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_89d248392206",
-      "title": "美国国家安全局局长：代号\"Mythos\"数小时内入侵几乎所有机密系统",
-      "url": "https://aihot.virxact.com/items/cmqpbocx408r5slx692w854f5",
-      "primary_url": "https://aihot.virxact.com/items/cmqpbocx408r5slx692w854f5",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "282ea0f302399f582b70bcecb80e491d1cf75c24",
-          "title": "美国国家安全局局长：代号\"Mythos\"数小时内入侵几乎所有机密系统",
-          "url": "https://aihot.virxact.com/items/cmqpbocx408r5slx692w854f5",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-22T14:04:26Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）"
-      ],
-      "items": [
-        {
-          "id": "282ea0f302399f582b70bcecb80e491d1cf75c24",
-          "title": "美国国家安全局局长：代号\"Mythos\"数小时内入侵几乎所有机密系统",
-          "url": "https://aihot.virxact.com/items/cmqpbocx408r5slx692w854f5",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-22T14:04:26Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7726,
-      "importance": 0.7726,
-      "importance_score": 0.7726,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8032,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-06-22T14:04:26Z",
-      "latest_at": "2026-06-22T14:04:26Z",
-      "primary_item": {
-        "id": "282ea0f302399f582b70bcecb80e491d1cf75c24",
-        "title": "美国国家安全局局长：代号\"Mythos\"数小时内入侵几乎所有机密系统",
-        "url": "https://aihot.virxact.com/items/cmqpbocx408r5slx692w854f5",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -588,20 +708,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7684,
-      "importance": 0.7684,
-      "importance_score": 0.7684,
+      "score": 0.7456,
+      "importance": 0.7456,
+      "importance_score": 0.7456,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7822,
+        "recency": 0.6682,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-06-22T13:34:14Z",
       "latest_at": "2026-06-22T13:34:14Z",
@@ -648,20 +767,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7663,
-      "importance": 0.7663,
-      "importance_score": 0.7663,
+      "score": 0.7435,
+      "importance": 0.7435,
+      "importance_score": 0.7435,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7716,
+        "recency": 0.6576,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-06-22T13:18:56Z",
       "latest_at": "2026-06-22T13:18:56Z",
@@ -708,14 +826,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7899,
-      "importance": 0.7899,
-      "importance_score": 0.7899,
+      "score": 0.7671,
+      "importance": 0.7671,
+      "importance_score": 0.7671,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8895,
+        "recency": 0.7754,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -768,20 +886,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7554,
-      "importance": 0.7554,
-      "importance_score": 0.7554,
+      "score": 0.7325,
+      "importance": 0.7325,
+      "importance_score": 0.7325,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7168,
+        "recency": 0.6027,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-06-22T12:00:00Z",
       "latest_at": "2026-06-22T12:00:00Z",
@@ -828,14 +945,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7822,
-      "importance": 0.7822,
-      "importance_score": 0.7822,
+      "score": 0.7594,
+      "importance": 0.7594,
+      "importance_score": 0.7594,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8511,
+        "recency": 0.7371,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -888,14 +1005,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7781,
-      "importance": 0.7781,
-      "importance_score": 0.7781,
+      "score": 0.7553,
+      "importance": 0.7553,
+      "importance_score": 0.7553,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8303,
+        "recency": 0.7163,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -914,122 +1031,62 @@
       }
     },
     {
-      "story_id": "story_44a96488b3c5",
-      "title": "OpenAI 发布 Daybreak 安全工具：Codex Security 与 GPT-5.5-Cyber",
-      "url": "https://aihot.virxact.com/items/cmqph7ap700n2slp5g4tfjs46",
-      "primary_url": "https://aihot.virxact.com/items/cmqph7ap700n2slp5g4tfjs46",
-      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+      "story_id": "story_89d248392206",
+      "title": "美国国家安全局局长：代号\"Mythos\"数小时内入侵几乎所有机密系统",
+      "url": "https://aihot.virxact.com/items/cmqpbocx408r5slx692w854f5",
+      "primary_url": "https://aihot.virxact.com/items/cmqpbocx408r5slx692w854f5",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "f25530b6f429bee5531bb9893e433440685bf5a6",
-          "title": "OpenAI 发布 Daybreak 安全工具：Codex Security 与 GPT-5.5-Cyber",
-          "url": "https://aihot.virxact.com/items/cmqph7ap700n2slp5g4tfjs46",
-          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+          "id": "282ea0f302399f582b70bcecb80e491d1cf75c24",
+          "title": "美国国家安全局局长：代号\"Mythos\"数小时内入侵几乎所有机密系统",
+          "url": "https://aihot.virxact.com/items/cmqpbocx408r5slx692w854f5",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-06-22T10:00:00Z"
+          "published_at": "2026-06-22T14:04:26Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "OpenAI：官网动态（RSS · 排除企业/客户案例）"
+        "Hacker News 热门（buzzing.cc 中文翻译）"
       ],
       "items": [
         {
-          "id": "f25530b6f429bee5531bb9893e433440685bf5a6",
-          "title": "OpenAI 发布 Daybreak 安全工具：Codex Security 与 GPT-5.5-Cyber",
-          "url": "https://aihot.virxact.com/items/cmqph7ap700n2slp5g4tfjs46",
-          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+          "id": "282ea0f302399f582b70bcecb80e491d1cf75c24",
+          "title": "美国国家安全局局长：代号\"Mythos\"数小时内入侵几乎所有机密系统",
+          "url": "https://aihot.virxact.com/items/cmqpbocx408r5slx692w854f5",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-06-22T10:00:00Z"
+          "published_at": "2026-06-22T14:04:26Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7387,
-      "importance": 0.7387,
-      "importance_score": 0.7387,
+      "score": 0.7498,
+      "importance": 0.7498,
+      "importance_score": 0.7498,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6334,
+        "recency": 0.6892,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-06-22T10:00:00Z",
-      "latest_at": "2026-06-22T10:00:00Z",
+      "earliest_at": "2026-06-22T14:04:26Z",
+      "latest_at": "2026-06-22T14:04:26Z",
       "primary_item": {
-        "id": "f25530b6f429bee5531bb9893e433440685bf5a6",
-        "title": "OpenAI 发布 Daybreak 安全工具：Codex Security 与 GPT-5.5-Cyber",
-        "url": "https://aihot.virxact.com/items/cmqph7ap700n2slp5g4tfjs46",
-        "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+        "id": "282ea0f302399f582b70bcecb80e491d1cf75c24",
+        "title": "美国国家安全局局长：代号\"Mythos\"数小时内入侵几乎所有机密系统",
+        "url": "https://aihot.virxact.com/items/cmqpbocx408r5slx692w854f5",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_eebdb7f63bb5",
-      "title": "三星电子为员工带来 ChatGPT 和 Codex / Samsung Electronics brings ChatGPT and Codex to employees",
-      "url": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
-      "primary_url": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "957f60d86dcc03204f3632edf8a0863569c85141",
-          "title": "三星电子为员工带来 ChatGPT 和 Codex / Samsung Electronics brings ChatGPT and Codex to employees",
-          "url": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-06-21T23:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "957f60d86dcc03204f3632edf8a0863569c85141",
-          "title": "三星电子为员工带来 ChatGPT 和 Codex / Samsung Electronics brings ChatGPT and Codex to employees",
-          "url": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-06-21T23:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.732,
-      "importance": 0.732,
-      "importance_score": 0.732,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.99,
-        "recency": 0.1751,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-21T23:00:00Z",
-      "latest_at": "2026-06-21T23:00:00Z",
-      "primary_item": {
-        "id": "957f60d86dcc03204f3632edf8a0863569c85141",
-        "title": "三星电子为员工带来 ChatGPT 和 Codex / Samsung Electronics brings ChatGPT and Codex to employees",
-        "url": "https://openai.com/index/samsung-electronics-chatgpt-codex-deployment",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -1067,14 +1124,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7781,
-      "importance": 0.7781,
-      "importance_score": 0.7781,
+      "score": 0.7553,
+      "importance": 0.7553,
+      "importance_score": 0.7553,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8303,
+        "recency": 0.7163,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1093,240 +1150,275 @@
       }
     },
     {
-      "story_id": "story_6fdda2fdc1d8",
-      "title": "Codex-maxxing 适用于长时间运行的工作 / Codex-maxxing for long-running work",
-      "url": "https://openai.com/index/codex-maxxing-long-running-work",
-      "primary_url": "https://openai.com/index/codex-maxxing-long-running-work",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
+      "story_id": "story_72e247ee906f",
+      "title": "Show HN：Oak – 专为代理设计的 Git 替代方案 / Show HN: Oak – Git alternative designed for agents",
+      "url": "https://news.ycombinator.com/item?id=48631726",
+      "primary_url": "https://news.ycombinator.com/item?id=48631726",
+      "source": "hackernews",
+      "source_name": "NewsNow",
       "sources": [
         {
-          "id": "f6601459bcd3041228e1a04c57e1638aaecbcb10",
-          "title": "Codex-maxxing 适用于长时间运行的工作 / Codex-maxxing for long-running work",
-          "url": "https://openai.com/index/codex-maxxing-long-running-work",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-06-22T00:00:00Z"
+          "id": "c49703343289304e950aa718d749f947186da345",
+          "title": "Show HN：Oak – 专为代理设计的 Git 替代方案 / Show HN: Oak – Git alternative designed for agents",
+          "url": "https://news.ycombinator.com/item?id=48631726",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-06-22T21:32:34.114000Z"
+        },
+        {
+          "id": "a2e801a509db7942693d3773582a00abd57084b5",
+          "title": "Show HN：Oak – 专为代理设计的 Git 替代品 / Show HN: Oak – Git replacement designed for agents",
+          "url": "https://news.ycombinator.com/item?id=48631726",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-06-22T18:22:45.737000Z"
+        },
+        {
+          "id": "82cbde6c31bdfaa899618a062587f9f96d8673b9",
+          "title": "Show HN: Oak——专为代理设计的 Git 替代方案 / Show HN: Oak – Git alternative designed for agents",
+          "url": "https://oak.space/oak/oak",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-22T15:37:48Z"
+        },
+        {
+          "id": "8afcf61040a1d73c7bcdfe0792c2c5127b9ddf42",
+          "title": "Show HN: Oak——专为代理设计的 Git 替代方案 / Show HN: Oak – Git replacement designed for agents",
+          "url": "https://oak.space/oak/oak",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-06-22T15:37:48Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 4,
       "source_names": [
-        "OpenAI News"
+        "Hacker News",
+        "Hacker News (黑客新闻)",
+        "hackernews"
       ],
       "items": [
         {
-          "id": "f6601459bcd3041228e1a04c57e1638aaecbcb10",
-          "title": "Codex-maxxing 适用于长时间运行的工作 / Codex-maxxing for long-running work",
-          "url": "https://openai.com/index/codex-maxxing-long-running-work",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-06-22T00:00:00Z"
+          "id": "c49703343289304e950aa718d749f947186da345",
+          "title": "Show HN：Oak – 专为代理设计的 Git 替代方案 / Show HN: Oak – Git alternative designed for agents",
+          "url": "https://news.ycombinator.com/item?id=48631726",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-06-22T21:32:34.114000Z"
+        },
+        {
+          "id": "a2e801a509db7942693d3773582a00abd57084b5",
+          "title": "Show HN：Oak – 专为代理设计的 Git 替代品 / Show HN: Oak – Git replacement designed for agents",
+          "url": "https://news.ycombinator.com/item?id=48631726",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-06-22T18:22:45.737000Z"
+        },
+        {
+          "id": "82cbde6c31bdfaa899618a062587f9f96d8673b9",
+          "title": "Show HN: Oak——专为代理设计的 Git 替代方案 / Show HN: Oak – Git alternative designed for agents",
+          "url": "https://oak.space/oak/oak",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-22T15:37:48Z"
+        },
+        {
+          "id": "8afcf61040a1d73c7bcdfe0792c2c5127b9ddf42",
+          "title": "Show HN: Oak——专为代理设计的 Git 替代方案 / Show HN: Oak – Git replacement designed for agents",
+          "url": "https://oak.space/oak/oak",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-06-22T15:37:48Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7284,
-      "importance": 0.7284,
-      "importance_score": 0.7284,
-      "importance_label": "官方更新",
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.598,
+      "importance": 0.598,
+      "importance_score": 0.598,
+      "importance_label": "多源热议",
       "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.2168,
-        "story_heat": 0.0
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.75
       },
-      "category": "official",
+      "category": "multi_source",
       "reasons": [
-        "official_source",
-        "high_ai_relevance"
+        "multi_source"
       ],
-      "earliest_at": "2026-06-22T00:00:00Z",
-      "latest_at": "2026-06-22T00:00:00Z",
+      "earliest_at": "2026-06-22T15:37:48Z",
+      "latest_at": "2026-06-22T21:32:34.114000Z",
       "primary_item": {
-        "id": "f6601459bcd3041228e1a04c57e1638aaecbcb10",
-        "title": "Codex-maxxing 适用于长时间运行的工作 / Codex-maxxing for long-running work",
-        "url": "https://openai.com/index/codex-maxxing-long-running-work",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
+        "id": "c49703343289304e950aa718d749f947186da345",
+        "title": "Show HN：Oak – 专为代理设计的 Git 替代方案 / Show HN: Oak – Git alternative designed for agents",
+        "url": "https://news.ycombinator.com/item?id=48631726",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     },
     {
-      "story_id": "story_fea130759293",
-      "title": "AI 圈太“卷”：成本压力下，微软 Copilot 拟引入 DeepSeek 模型",
-      "url": "https://www.aibase.com/news/29046",
-      "primary_url": "https://www.aibase.com/news/29046",
+      "story_id": "story_ead0d734eb1c",
+      "title": "AI 进化的下一块拼图：GPT-5.6 或于下周登场，主打“Agent”级操作能力",
+      "url": "https://www.aibase.com/news/29029",
+      "primary_url": "https://www.aibase.com/news/29029",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "8bd562abcb1afe6359429b3ea4d736a2d1473169",
-          "title": "AI 圈太“卷”：成本压力下，微软 Copilot 拟引入 DeepSeek 模型",
-          "url": "https://www.aibase.com/news/29046",
+          "id": "a37138863d4beafe577795dc7c456c17499f6bb6",
+          "title": "AI 进化的下一块拼图：GPT-5.6 或于下周登场，主打“Agent”级操作能力",
+          "url": "https://www.aibase.com/news/29029",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-06-22T08:39:05.387913Z"
+          "published_at": "2026-06-22T02:03:21.943688Z"
+        },
+        {
+          "id": "035e7ae2326467fba532341f4113fe7366eec054",
+          "title": "AI 进化的下一块拼图：GPT-5.6 或于下周登场，主打「Agent」级操作能力",
+          "url": "https://www.aibase.com/zh/news/29029",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "AIbase"
+        "AIbase",
+        "Readhub · AI"
       ],
       "items": [
         {
-          "id": "8bd562abcb1afe6359429b3ea4d736a2d1473169",
-          "title": "AI 圈太“卷”：成本压力下，微软 Copilot 拟引入 DeepSeek 模型",
-          "url": "https://www.aibase.com/news/29046",
+          "id": "a37138863d4beafe577795dc7c456c17499f6bb6",
+          "title": "AI 进化的下一块拼图：GPT-5.6 或于下周登场，主打“Agent”级操作能力",
+          "url": "https://www.aibase.com/news/29029",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-06-22T08:39:05.387913Z"
+          "published_at": "2026-06-22T02:03:21.943688Z"
+        },
+        {
+          "id": "035e7ae2326467fba532341f4113fe7366eec054",
+          "title": "AI 进化的下一块拼图：GPT-5.6 或于下周登场，主打「Agent」级操作能力",
+          "url": "https://www.aibase.com/zh/news/29029",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7275,
-      "importance": 0.7275,
-      "importance_score": 0.7275,
-      "importance_label": "行业动态",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6747,
+      "importance": 0.6747,
+      "importance_score": 0.6747,
+      "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.5773,
-        "story_heat": 0.0
+        "recency": 0.1884,
+        "story_heat": 0.25
       },
-      "category": "industry",
+      "category": "watch",
       "reasons": [
+        "multi_source",
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-06-22T08:39:05.387913Z",
-      "latest_at": "2026-06-22T08:39:05.387913Z",
+      "earliest_at": "2026-06-22T02:03:21.943688Z",
+      "latest_at": "2026-06-22T02:03:21.943688Z",
       "primary_item": {
-        "id": "8bd562abcb1afe6359429b3ea4d736a2d1473169",
-        "title": "AI 圈太“卷”：成本压力下，微软 Copilot 拟引入 DeepSeek 模型",
-        "url": "https://www.aibase.com/news/29046",
+        "id": "a37138863d4beafe577795dc7c456c17499f6bb6",
+        "title": "AI 进化的下一块拼图：GPT-5.6 或于下周登场，主打“Agent”级操作能力",
+        "url": "https://www.aibase.com/news/29029",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_be49e349108e",
-      "title": "Meta前高管：AI时代别做十年规划，把握这两件事就够了",
-      "url": "https://www.aibase.com/news/29051",
-      "primary_url": "https://www.aibase.com/news/29051",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_d16966e63aaa",
+      "title": "作为角色混淆的提示注入 / A Theory of Why Prompt Injection Works",
+      "url": "https://role-confusion.github.io",
+      "primary_url": "https://role-confusion.github.io",
+      "source": "Hacker News",
+      "source_name": "TechURLs",
       "sources": [
         {
-          "id": "1b1c9b131873a3ead7bdea760bd3fc88c248e8c4",
-          "title": "Meta前高管：AI时代别做十年规划，把握这两件事就够了",
-          "url": "https://www.aibase.com/news/29051",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-06-22T08:39:05.387913Z"
+          "id": "4e73e5b49561c244720d3fa628f976322f4755b3",
+          "title": "作为角色混淆的提示注入 / A Theory of Why Prompt Injection Works",
+          "url": "https://role-confusion.github.io",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-06-22T15:48:55Z"
+        },
+        {
+          "id": "804f9f33bf14a150d8bb6a41bdcf6ab8064b9dfc",
+          "title": "作为角色混淆的提示注入 / Prompt Injection as Role Confusion",
+          "url": "https://role-confusion.github.io",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-06-22T15:48:55Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "AIbase"
+        "Hacker News",
+        "Hacker News · 24h最热"
       ],
       "items": [
         {
-          "id": "1b1c9b131873a3ead7bdea760bd3fc88c248e8c4",
-          "title": "Meta前高管：AI时代别做十年规划，把握这两件事就够了",
-          "url": "https://www.aibase.com/news/29051",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-06-22T08:39:05.387913Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7275,
-      "importance": 0.7275,
-      "importance_score": 0.7275,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5773,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-22T08:39:05.387913Z",
-      "latest_at": "2026-06-22T08:39:05.387913Z",
-      "primary_item": {
-        "id": "1b1c9b131873a3ead7bdea760bd3fc88c248e8c4",
-        "title": "Meta前高管：AI时代别做十年规划，把握这两件事就够了",
-        "url": "https://www.aibase.com/news/29051",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_099a80d37590",
-      "title": "Midjourney跨界大动作：布局人体扫描，打造“Spa”式健康体验",
-      "url": "https://www.aibase.com/news/29042",
-      "primary_url": "https://www.aibase.com/news/29042",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
+          "id": "4e73e5b49561c244720d3fa628f976322f4755b3",
+          "title": "作为角色混淆的提示注入 / A Theory of Why Prompt Injection Works",
+          "url": "https://role-confusion.github.io",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-06-22T15:48:55Z"
+        },
         {
-          "id": "98bfaa6d97f3a421122ed44ae703f862a9e089b2",
-          "title": "Midjourney跨界大动作：布局人体扫描，打造“Spa”式健康体验",
-          "url": "https://www.aibase.com/news/29042",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-06-22T08:39:05.387913Z"
+          "id": "804f9f33bf14a150d8bb6a41bdcf6ab8064b9dfc",
+          "title": "作为角色混淆的提示注入 / Prompt Injection as Role Confusion",
+          "url": "https://role-confusion.github.io",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-06-22T15:48:55Z"
         }
       ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "98bfaa6d97f3a421122ed44ae703f862a9e089b2",
-          "title": "Midjourney跨界大动作：布局人体扫描，打造“Spa”式健康体验",
-          "url": "https://www.aibase.com/news/29042",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-06-22T08:39:05.387913Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7275,
-      "importance": 0.7275,
-      "importance_score": 0.7275,
-      "importance_label": "行业动态",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5003,
+      "importance": 0.5003,
+      "importance_score": 0.5003,
+      "importance_label": "值得关注",
       "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5773,
-        "story_heat": 0.0
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7617,
+        "story_heat": 0.25
       },
-      "category": "industry",
+      "category": "watch",
       "reasons": [
-        "high_ai_relevance"
+        "multi_source"
       ],
-      "earliest_at": "2026-06-22T08:39:05.387913Z",
-      "latest_at": "2026-06-22T08:39:05.387913Z",
+      "earliest_at": "2026-06-22T15:48:55Z",
+      "latest_at": "2026-06-22T15:48:55Z",
       "primary_item": {
-        "id": "98bfaa6d97f3a421122ed44ae703f862a9e089b2",
-        "title": "Midjourney跨界大动作：布局人体扫描，打造“Spa”式健康体验",
-        "url": "https://www.aibase.com/news/29042",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "id": "4e73e5b49561c244720d3fa628f976322f4755b3",
+        "title": "作为角色混淆的提示注入 / A Theory of Why Prompt Injection Works",
+        "url": "https://role-confusion.github.io",
+        "source": "Hacker News",
+        "source_name": "TechURLs"
       }
     }
   ]
