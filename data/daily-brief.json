@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-06-25T22:39:58.059602Z",
+  "generated_at": "2026-06-26T00:12:07.101576Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260626-0840-2404-b440-c18944d7fd39&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260626-0840-2404-b440-c18944d7fd39&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260626-1012-35b0-9900-a229a152155c&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260626-1012-35b0-9900-a229a152155c&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "4c36bdc24cccdfb25edc19effe218c76836883da",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260626-1012-35b0-9900-a229a152155c&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "bd84c182373538c7e1d68a1156b3d77d8dcdc5b0",
           "title": "点击这里进入 / Click here to enter",
@@ -78,15 +87,6 @@
           "id": "2a45a646c16b91705b5594a1561c955111ea2e8f",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260625-1016-011d-a9db-d7f59d98a273&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "cd9ae92ba0a557283346f3db86009778f3ac1f91",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260625-0849-0295-82c7-797a65a33e46&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -99,6 +99,15 @@
       ],
       "items": [
         {
+          "id": "4c36bdc24cccdfb25edc19effe218c76836883da",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260626-1012-35b0-9900-a229a152155c&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "bd84c182373538c7e1d68a1156b3d77d8dcdc5b0",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260626-0840-2404-b440-c18944d7fd39&fp=-3",
@@ -165,15 +174,6 @@
           "id": "2a45a646c16b91705b5594a1561c955111ea2e8f",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260625-1016-011d-a9db-d7f59d98a273&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "cd9ae92ba0a557283346f3db86009778f3ac1f91",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260625-0849-0295-82c7-797a65a33e46&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -198,14 +198,75 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-06-24T22:48:32.904330Z",
-      "latest_at": "2026-06-25T22:39:58.059602Z",
+      "earliest_at": "2026-06-25T00:15:32.668418Z",
+      "latest_at": "2026-06-26T00:12:07.101576Z",
       "primary_item": {
-        "id": "bd84c182373538c7e1d68a1156b3d77d8dcdc5b0",
+        "id": "4c36bdc24cccdfb25edc19effe218c76836883da",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260626-0840-2404-b440-c18944d7fd39&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260626-1012-35b0-9900-a229a152155c&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
+      }
+    },
+    {
+      "story_id": "story_b6ca7e75baf6",
+      "title": "跨模型和任务评估 GitHub Copilot 代理工具的性能和效率 / Evaluating performance and efficiency of the GitHub Copilot agentic harness across models and tasks",
+      "url": "https://github.blog/ai-and-ml/github-copilot/evaluating-performance-and-efficiency-of-the-github-copilot-agentic-harness-across-models-and-tasks",
+      "primary_url": "https://github.blog/ai-and-ml/github-copilot/evaluating-performance-and-efficiency-of-the-github-copilot-agentic-harness-across-models-and-tasks",
+      "source": "GitHub AI & ML",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "3eeda0e5a1767c3afa60d81325deae82928f1c10",
+          "title": "跨模型和任务评估 GitHub Copilot 代理工具的性能和效率 / Evaluating performance and efficiency of the GitHub Copilot agentic harness across models and tasks",
+          "url": "https://github.blog/ai-and-ml/github-copilot/evaluating-performance-and-efficiency-of-the-github-copilot-agentic-harness-across-models-and-tasks",
+          "source": "GitHub AI & ML",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-06-25T22:59:45Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub AI & ML"
+      ],
+      "items": [
+        {
+          "id": "3eeda0e5a1767c3afa60d81325deae82928f1c10",
+          "title": "跨模型和任务评估 GitHub Copilot 代理工具的性能和效率 / Evaluating performance and efficiency of the GitHub Copilot agentic harness across models and tasks",
+          "url": "https://github.blog/ai-and-ml/github-copilot/evaluating-performance-and-efficiency-of-the-github-copilot-agentic-harness-across-models-and-tasks",
+          "source": "GitHub AI & ML",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-06-25T22:59:45Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8629,
+      "importance": 0.8629,
+      "importance_score": 0.8629,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9497,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-25T22:59:45Z",
+      "latest_at": "2026-06-25T22:59:45Z",
+      "primary_item": {
+        "id": "3eeda0e5a1767c3afa60d81325deae82928f1c10",
+        "title": "跨模型和任务评估 GitHub Copilot 代理工具的性能和效率 / Evaluating performance and efficiency of the GitHub Copilot agentic harness across models and tasks",
+        "url": "https://github.blog/ai-and-ml/github-copilot/evaluating-performance-and-efficiency-of-the-github-copilot-agentic-harness-across-models-and-tasks",
+        "source": "GitHub AI & ML",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -243,14 +304,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8649,
-      "importance": 0.8649,
-      "importance_score": 0.8649,
+      "score": 0.8521,
+      "importance": 0.8521,
+      "importance_score": 0.8521,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9593,
+        "recency": 0.8953,
         "story_heat": 0.0
       },
       "category": "official",
@@ -304,14 +365,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8634,
-      "importance": 0.8634,
-      "importance_score": 0.8634,
+      "score": 0.8506,
+      "importance": 0.8506,
+      "importance_score": 0.8506,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9519,
+        "recency": 0.8879,
         "story_heat": 0.0
       },
       "category": "official",
@@ -328,6 +389,66 @@
         "url": "https://github.blog/changelog/2026-06-25-enterprise-managed-settings-now-support-strictknownmarketplaces-in-vs-code-and-the-cli",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_81aa61a2cba5",
+      "title": "@exponentialview 发布《State of the AI Economy》报告：AI经济年化收入超1750亿美元",
+      "url": "https://aihot.virxact.com/items/cmqu5r7al01j7sl80meg0lje3",
+      "primary_url": "https://aihot.virxact.com/items/cmqu5r7al01j7sl80meg0lje3",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "edbd2b685fa19902e9d684ce2381b3e22559165c",
+          "title": "@exponentialview 发布《State of the AI Economy》报告：AI经济年化收入超1750亿美元",
+          "url": "https://aihot.virxact.com/items/cmqu5r7al01j7sl80meg0lje3",
+          "source": "X：Rohan Paul (@rohanpaul_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-25T23:29:52Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Rohan Paul (@rohanpaul_ai)"
+      ],
+      "items": [
+        {
+          "id": "edbd2b685fa19902e9d684ce2381b3e22559165c",
+          "title": "@exponentialview 发布《State of the AI Economy》报告：AI经济年化收入超1750亿美元",
+          "url": "https://aihot.virxact.com/items/cmqu5r7al01j7sl80meg0lje3",
+          "source": "X：Rohan Paul (@rohanpaul_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-25T23:29:52Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8061,
+      "importance": 0.8061,
+      "importance_score": 0.8061,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9707,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-25T23:29:52Z",
+      "latest_at": "2026-06-25T23:29:52Z",
+      "primary_item": {
+        "id": "edbd2b685fa19902e9d684ce2381b3e22559165c",
+        "title": "@exponentialview 发布《State of the AI Economy》报告：AI经济年化收入超1750亿美元",
+        "url": "https://aihot.virxact.com/items/cmqu5r7al01j7sl80meg0lje3",
+        "source": "X：Rohan Paul (@rohanpaul_ai)",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -365,14 +486,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8054,
-      "importance": 0.8054,
-      "importance_score": 0.8054,
+      "score": 0.7927,
+      "importance": 0.7927,
+      "importance_score": 0.7927,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7222,
+        "recency": 0.6583,
         "story_heat": 0.0
       },
       "category": "official",
@@ -426,14 +547,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8045,
-      "importance": 0.8045,
-      "importance_score": 0.8045,
+      "score": 0.7917,
+      "importance": 0.7917,
+      "importance_score": 0.7917,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9625,
+        "recency": 0.8985,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -486,14 +607,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8002,
-      "importance": 0.8002,
-      "importance_score": 0.8002,
+      "score": 0.7874,
+      "importance": 0.7874,
+      "importance_score": 0.7874,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9412,
+        "recency": 0.8772,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -508,66 +629,6 @@
         "title": "Codex 在 ChatGPT 移动 App 正式可用",
         "url": "https://aihot.virxact.com/items/cmqu0cbyl006isl80rufd707u",
         "source": "X：OpenAI Developers (@OpenAIDevs)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_5a8b089c1f0e",
-      "title": "美国政府要求OpenAI暂缓GPT-5.6广泛发布",
-      "url": "https://aihot.virxact.com/items/cmqu0e95l006ysl8097qhn8ny",
-      "primary_url": "https://aihot.virxact.com/items/cmqu0e95l006ysl8097qhn8ny",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "e980e1beb95c845381e4dfcbb76694f62cae5353",
-          "title": "美国政府要求OpenAI暂缓GPT-5.6广泛发布",
-          "url": "https://aihot.virxact.com/items/cmqu0e95l006ysl8097qhn8ny",
-          "source": "X：Rohan Paul (@rohanpaul_ai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-25T21:06:58Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Rohan Paul (@rohanpaul_ai)"
-      ],
-      "items": [
-        {
-          "id": "e980e1beb95c845381e4dfcbb76694f62cae5353",
-          "title": "美国政府要求OpenAI暂缓GPT-5.6广泛发布",
-          "url": "https://aihot.virxact.com/items/cmqu0e95l006ysl8097qhn8ny",
-          "source": "X：Rohan Paul (@rohanpaul_ai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-25T21:06:58Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7991,
-      "importance": 0.7991,
-      "importance_score": 0.7991,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9354,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-06-25T21:06:58Z",
-      "latest_at": "2026-06-25T21:06:58Z",
-      "primary_item": {
-        "id": "e980e1beb95c845381e4dfcbb76694f62cae5353",
-        "title": "美国政府要求OpenAI暂缓GPT-5.6广泛发布",
-        "url": "https://aihot.virxact.com/items/cmqu0e95l006ysl8097qhn8ny",
-        "source": "X：Rohan Paul (@rohanpaul_ai)",
         "source_name": "AI HOT"
       }
     },
@@ -606,14 +667,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.783,
-      "importance": 0.783,
-      "importance_score": 0.783,
+      "score": 0.7702,
+      "importance": 0.7702,
+      "importance_score": 0.7702,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8549,
+        "recency": 0.7909,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -666,14 +727,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7803,
-      "importance": 0.7803,
-      "importance_score": 0.7803,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8417,
+        "recency": 0.7778,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -726,14 +787,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7801,
-      "importance": 0.7801,
-      "importance_score": 0.7801,
+      "score": 0.7673,
+      "importance": 0.7673,
+      "importance_score": 0.7673,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8405,
+        "recency": 0.7765,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -786,14 +847,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7789,
-      "importance": 0.7789,
-      "importance_score": 0.7789,
+      "score": 0.7661,
+      "importance": 0.7661,
+      "importance_score": 0.7661,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8347,
+        "recency": 0.7707,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -808,6 +869,66 @@
         "title": "Runway发布Agent 2.0",
         "url": "https://aihot.virxact.com/items/cmqtun7jv06zvsl0ejc2rnrpp",
         "source": "Runway：News（网页）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_5a8b089c1f0e",
+      "title": "美国政府要求OpenAI暂缓GPT-5.6广泛发布",
+      "url": "https://aihot.virxact.com/items/cmqu0e95l006ysl8097qhn8ny",
+      "primary_url": "https://aihot.virxact.com/items/cmqu0e95l006ysl8097qhn8ny",
+      "source": "X：Rohan Paul (@rohanpaul_ai)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "e980e1beb95c845381e4dfcbb76694f62cae5353",
+          "title": "美国政府要求OpenAI暂缓GPT-5.6广泛发布",
+          "url": "https://aihot.virxact.com/items/cmqu0e95l006ysl8097qhn8ny",
+          "source": "X：Rohan Paul (@rohanpaul_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-25T21:06:58Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Rohan Paul (@rohanpaul_ai)"
+      ],
+      "items": [
+        {
+          "id": "e980e1beb95c845381e4dfcbb76694f62cae5353",
+          "title": "美国政府要求OpenAI暂缓GPT-5.6广泛发布",
+          "url": "https://aihot.virxact.com/items/cmqu0e95l006ysl8097qhn8ny",
+          "source": "X：Rohan Paul (@rohanpaul_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-25T21:06:58Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7863,
+      "importance": 0.7863,
+      "importance_score": 0.7863,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8714,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-25T21:06:58Z",
+      "latest_at": "2026-06-25T21:06:58Z",
+      "primary_item": {
+        "id": "e980e1beb95c845381e4dfcbb76694f62cae5353",
+        "title": "美国政府要求OpenAI暂缓GPT-5.6广泛发布",
+        "url": "https://aihot.virxact.com/items/cmqu0e95l006ysl8097qhn8ny",
+        "source": "X：Rohan Paul (@rohanpaul_ai)",
         "source_name": "AI HOT"
       }
     },
@@ -846,14 +967,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8261,
-      "importance": 0.8261,
-      "importance_score": 0.8261,
+      "score": 0.8133,
+      "importance": 0.8133,
+      "importance_score": 0.8133,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8257,
+        "recency": 0.7617,
         "story_heat": 0.0
       },
       "category": "official",
@@ -907,20 +1028,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7581,
-      "importance": 0.7581,
-      "importance_score": 0.7581,
+      "score": 0.7453,
+      "importance": 0.7453,
+      "importance_score": 0.7453,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7304,
+        "recency": 0.6664,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-06-25T16:11:42Z",
       "latest_at": "2026-06-25T16:11:42Z",
@@ -967,20 +1087,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7571,
-      "importance": 0.7571,
-      "importance_score": 0.7571,
+      "score": 0.7443,
+      "importance": 0.7443,
+      "importance_score": 0.7443,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7254,
+        "recency": 0.6614,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-06-25T16:04:32Z",
       "latest_at": "2026-06-25T16:04:32Z",
@@ -1027,20 +1146,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7565,
-      "importance": 0.7565,
-      "importance_score": 0.7565,
+      "score": 0.7437,
+      "importance": 0.7437,
+      "importance_score": 0.7437,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7225,
+        "recency": 0.6585,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-06-25T16:00:25Z",
       "latest_at": "2026-06-25T16:00:25Z",
@@ -1087,20 +1205,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7564,
-      "importance": 0.7564,
-      "importance_score": 0.7564,
+      "score": 0.7437,
+      "importance": 0.7437,
+      "importance_score": 0.7437,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7222,
+        "recency": 0.6583,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-06-25T16:00:00Z",
       "latest_at": "2026-06-25T16:00:00Z",
@@ -1147,20 +1264,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7564,
-      "importance": 0.7564,
-      "importance_score": 0.7564,
+      "score": 0.7437,
+      "importance": 0.7437,
+      "importance_score": 0.7437,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7222,
+        "recency": 0.6583,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-06-25T16:00:00Z",
       "latest_at": "2026-06-25T16:00:00Z",
@@ -1170,104 +1286,6 @@
         "url": "https://aihot.virxact.com/items/cmqtp7ycw05lbsl0ei7dpsv19",
         "source": "Google Blog：AI（RSS）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_91992ed9f82d",
-      "title": "法典 CLI 0.142.1 / Codex CLI 0.142.1",
-      "url": "https://developers.openai.com/codex/changelog",
-      "primary_url": "https://developers.openai.com/codex/changelog",
-      "source": "OpenAI Codex Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "e329806d2a8fe2fa8d5dc5cc9468d3c4f40ae990",
-          "title": "法典 CLI 0.142.1 / Codex CLI 0.142.1",
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-06-25T00:00:00Z"
-        },
-        {
-          "id": "e73b44a9f3f8de9b98166406b22d8635d858fd45",
-          "title": "法典 CLI 0.142.2 / Codex CLI 0.142.2",
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-06-25T00:00:00Z"
-        },
-        {
-          "id": "06bdf1d58aed83751fe9dcd3cce0d615c652331f",
-          "title": "Codex Remote 全面上市 / Codex Remote reaches general availability",
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-06-25T00:00:00Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "OpenAI Codex Changelog"
-      ],
-      "items": [
-        {
-          "id": "e329806d2a8fe2fa8d5dc5cc9468d3c4f40ae990",
-          "title": "法典 CLI 0.142.1 / Codex CLI 0.142.1",
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-06-25T00:00:00Z"
-        },
-        {
-          "id": "e73b44a9f3f8de9b98166406b22d8635d858fd45",
-          "title": "法典 CLI 0.142.2 / Codex CLI 0.142.2",
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-06-25T00:00:00Z"
-        },
-        {
-          "id": "06bdf1d58aed83751fe9dcd3cce0d615c652331f",
-          "title": "Codex Remote 全面上市 / Codex Remote reaches general availability",
-          "url": "https://developers.openai.com/codex/changelog",
-          "source": "OpenAI Codex Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-06-25T00:00:00Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.7551,
-      "importance": 0.7551,
-      "importance_score": 0.7551,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.98,
-        "recency": 0.0556,
-        "story_heat": 0.5
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-06-25T00:00:00Z",
-      "latest_at": "2026-06-25T00:00:00Z",
-      "primary_item": {
-        "id": "e329806d2a8fe2fa8d5dc5cc9468d3c4f40ae990",
-        "title": "法典 CLI 0.142.1 / Codex CLI 0.142.1",
-        "url": "https://developers.openai.com/codex/changelog",
-        "source": "OpenAI Codex Changelog",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -1305,20 +1323,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7524,
-      "importance": 0.7524,
-      "importance_score": 0.7524,
+      "score": 0.7396,
+      "importance": 0.7396,
+      "importance_score": 0.7396,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7019,
+        "recency": 0.6379,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-06-25T15:30:41Z",
       "latest_at": "2026-06-25T15:30:41Z",
@@ -1327,66 +1344,6 @@
         "title": "Ornith-1.0 开源模型家族发布，专注 Agentic Coding 全参数规模",
         "url": "https://aihot.virxact.com/items/cmqtpj36o05pusl0e9ingyoye",
         "source": "X：Berry Xia (@berryxia)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_e673d987a164",
-      "title": "OpenAI 内部论文：Codex 已占 99.8% 内部输出 tokens，智能体正向全部门扩散",
-      "url": "https://aihot.virxact.com/items/cmqtw3tq007ensl0e5jarmydw",
-      "primary_url": "https://aihot.virxact.com/items/cmqtw3tq007ensl0e5jarmydw",
-      "source": "X：Rohan Paul (@rohanpaul_ai)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "27fea087d1b3b5f4727c09bc46e3e2a0f4e5d578",
-          "title": "OpenAI 内部论文：Codex 已占 99.8% 内部输出 tokens，智能体正向全部门扩散",
-          "url": "https://aihot.virxact.com/items/cmqtw3tq007ensl0e5jarmydw",
-          "source": "X：Rohan Paul (@rohanpaul_ai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-25T19:04:32Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Rohan Paul (@rohanpaul_ai)"
-      ],
-      "items": [
-        {
-          "id": "27fea087d1b3b5f4727c09bc46e3e2a0f4e5d578",
-          "title": "OpenAI 内部论文：Codex 已占 99.8% 内部输出 tokens，智能体正向全部门扩散",
-          "url": "https://aihot.virxact.com/items/cmqtw3tq007ensl0e5jarmydw",
-          "source": "X：Rohan Paul (@rohanpaul_ai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-25T19:04:32Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7821,
-      "importance": 0.7821,
-      "importance_score": 0.7821,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8504,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-06-25T19:04:32Z",
-      "latest_at": "2026-06-25T19:04:32Z",
-      "primary_item": {
-        "id": "27fea087d1b3b5f4727c09bc46e3e2a0f4e5d578",
-        "title": "OpenAI 内部论文：Codex 已占 99.8% 内部输出 tokens，智能体正向全部门扩散",
-        "url": "https://aihot.virxact.com/items/cmqtw3tq007ensl0e5jarmydw",
-        "source": "X：Rohan Paul (@rohanpaul_ai)",
         "source_name": "AI HOT"
       }
     }
