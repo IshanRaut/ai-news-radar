@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-06-26T23:43:41.086566Z",
+  "generated_at": "2026-06-27T03:39:40.115207Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260627-0944-1197-8050-946748dd8cd3&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260627-0944-1197-8050-946748dd8cd3&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260627-1339-594e-9156-5e853e63d64b&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260627-1339-594e-9156-5e853e63d64b&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "171d077dc67331470777f370c501a1c45e324b88",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260627-1339-594e-9156-5e853e63d64b&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "f7a017d879564b7d820cb206943d61f65f715f5f",
           "title": "点击这里进入 / Click here to enter",
@@ -87,15 +96,6 @@
           "id": "ffca4a6963309061f2b32c5152a7ee57956cc683",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260626-1450-4909-b07c-bb6007887590&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "4c36bdc24cccdfb25edc19effe218c76836883da",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260626-1012-35b0-9900-a229a152155c&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -108,6 +108,15 @@
       ],
       "items": [
         {
+          "id": "171d077dc67331470777f370c501a1c45e324b88",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260627-1339-594e-9156-5e853e63d64b&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "f7a017d879564b7d820cb206943d61f65f715f5f",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260627-0944-1197-8050-946748dd8cd3&fp=-3",
@@ -183,15 +192,6 @@
           "id": "ffca4a6963309061f2b32c5152a7ee57956cc683",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260626-1450-4909-b07c-bb6007887590&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "4c36bdc24cccdfb25edc19effe218c76836883da",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260626-1012-35b0-9900-a229a152155c&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -216,12 +216,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-06-26T00:12:07.101576Z",
-      "latest_at": "2026-06-26T23:43:41.086566Z",
+      "earliest_at": "2026-06-26T04:50:15.259201Z",
+      "latest_at": "2026-06-27T03:39:40.115207Z",
       "primary_item": {
-        "id": "f7a017d879564b7d820cb206943d61f65f715f5f",
+        "id": "171d077dc67331470777f370c501a1c45e324b88",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260627-0944-1197-8050-946748dd8cd3&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260627-1339-594e-9156-5e853e63d64b&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
       }
@@ -261,14 +261,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8376,
-      "importance": 0.8376,
-      "importance_score": 0.8376,
+      "score": 0.8048,
+      "importance": 0.8048,
+      "importance_score": 0.8048,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8829,
+        "recency": 0.719,
         "story_heat": 0.0
       },
       "category": "official",
@@ -285,6 +285,66 @@
         "url": "https://github.blog/changelog/2026-06-26-track-total-merges-by-adoption-phase-in-enterprise-and-organization-reports",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_40c9e862254e",
+      "title": "国家统计局：1-5月规上工业企业利润增18.8%，电子行业利润增103.9%贡献43.1%",
+      "url": "https://aihot.virxact.com/items/cmqvpp1zi0f57sl80zxcbnmqz",
+      "primary_url": "https://aihot.virxact.com/items/cmqvpp1zi0f57sl80zxcbnmqz",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "1e668d2f49984689b2f510d41f1adef9684d12f9",
+          "title": "国家统计局：1-5月规上工业企业利润增18.8%，电子行业利润增103.9%贡献43.1%",
+          "url": "https://aihot.virxact.com/items/cmqvpp1zi0f57sl80zxcbnmqz",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-27T01:43:18Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "1e668d2f49984689b2f510d41f1adef9684d12f9",
+          "title": "国家统计局：1-5月规上工业企业利润增18.8%，电子行业利润增103.9%贡献43.1%",
+          "url": "https://aihot.virxact.com/items/cmqvpp1zi0f57sl80zxcbnmqz",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-27T01:43:18Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7958,
+      "importance": 0.7958,
+      "importance_score": 0.7958,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9192,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-27T01:43:18Z",
+      "latest_at": "2026-06-27T01:43:18Z",
+      "primary_item": {
+        "id": "1e668d2f49984689b2f510d41f1adef9684d12f9",
+        "title": "国家统计局：1-5月规上工业企业利润增18.8%，电子行业利润增103.9%贡献43.1%",
+        "url": "https://aihot.virxact.com/items/cmqvpp1zi0f57sl80zxcbnmqz",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -360,14 +420,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8206,
-      "importance": 0.8206,
-      "importance_score": 0.8206,
+      "score": 0.7878,
+      "importance": 0.7878,
+      "importance_score": 0.7878,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.428,
+        "recency": 0.2641,
         "story_heat": 0.5
       },
       "category": "official",
@@ -422,14 +482,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8103,
-      "importance": 0.8103,
-      "importance_score": 0.8103,
+      "score": 0.7775,
+      "importance": 0.7775,
+      "importance_score": 0.7775,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9915,
+        "recency": 0.8276,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -482,14 +542,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8135,
-      "importance": 0.8135,
-      "importance_score": 0.8135,
+      "score": 0.7807,
+      "importance": 0.7807,
+      "importance_score": 0.7807,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7024,
+        "recency": 0.5385,
         "story_heat": 0.0
       },
       "category": "official",
@@ -543,20 +603,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7816,
-      "importance": 0.7816,
-      "importance_score": 0.7816,
+      "score": 0.7488,
+      "importance": 0.7488,
+      "importance_score": 0.7488,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8481,
+        "recency": 0.6842,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-06-26T20:04:55Z",
       "latest_at": "2026-06-26T20:04:55Z",
@@ -603,20 +662,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7687,
-      "importance": 0.7687,
-      "importance_score": 0.7687,
+      "score": 0.736,
+      "importance": 0.736,
+      "importance_score": 0.736,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7837,
+        "recency": 0.6198,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-06-26T18:32:14Z",
       "latest_at": "2026-06-26T18:32:14Z",
@@ -663,20 +721,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7547,
-      "importance": 0.7547,
-      "importance_score": 0.7547,
+      "score": 0.7219,
+      "importance": 0.7219,
+      "importance_score": 0.7219,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7136,
+        "recency": 0.5497,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-06-26T16:51:17Z",
       "latest_at": "2026-06-26T16:51:17Z",
@@ -685,124 +742,6 @@
         "title": "华盛顿邮报报告：AI聊天机器人存在左翼偏见",
         "url": "https://aihot.virxact.com/items/cmqv67led0aejsl80grsdthsq",
         "source": "X：Rohan Paul (@rohanpaul_ai)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_85a7e86ef122",
-      "title": "Leaf 开源项目：将网红峰哥做成实时通话 AI 分身",
-      "url": "https://aihot.virxact.com/items/cmqv4vak40a1ssl805nqs76uk",
-      "primary_url": "https://aihot.virxact.com/items/cmqv4vak40a1ssl805nqs76uk",
-      "source": "X：阿易 AI Notes (@AYi_AInotes)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "75f80c4f643bb0829d4aae02817330f957d3a809",
-          "title": "Leaf 开源项目：将网红峰哥做成实时通话 AI 分身",
-          "url": "https://aihot.virxact.com/items/cmqv4vak40a1ssl805nqs76uk",
-          "source": "X：阿易 AI Notes (@AYi_AInotes)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-26T15:37:43Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：阿易 AI Notes (@AYi_AInotes)"
-      ],
-      "items": [
-        {
-          "id": "75f80c4f643bb0829d4aae02817330f957d3a809",
-          "title": "Leaf 开源项目：将网红峰哥做成实时通话 AI 分身",
-          "url": "https://aihot.virxact.com/items/cmqv4vak40a1ssl805nqs76uk",
-          "source": "X：阿易 AI Notes (@AYi_AInotes)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-26T15:37:43Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7445,
-      "importance": 0.7445,
-      "importance_score": 0.7445,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6625,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-26T15:37:43Z",
-      "latest_at": "2026-06-26T15:37:43Z",
-      "primary_item": {
-        "id": "75f80c4f643bb0829d4aae02817330f957d3a809",
-        "title": "Leaf 开源项目：将网红峰哥做成实时通话 AI 分身",
-        "url": "https://aihot.virxact.com/items/cmqv4vak40a1ssl805nqs76uk",
-        "source": "X：阿易 AI Notes (@AYi_AInotes)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_6d47132200c0",
-      "title": "Anthropic Economic Index 报告：使用节奏",
-      "url": "https://aihot.virxact.com/items/cmqv2tn1509khsl80vpek6zqe",
-      "primary_url": "https://aihot.virxact.com/items/cmqv2tn1509khsl80vpek6zqe",
-      "source": "Anthropic：Research（发表成果 · 网页）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "c4c90d6cd63d919109debcf0033616b65b4108d7",
-          "title": "Anthropic Economic Index 报告：使用节奏",
-          "url": "https://aihot.virxact.com/items/cmqv2tn1509khsl80vpek6zqe",
-          "source": "Anthropic：Research（发表成果 · 网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-26T15:18:56Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Anthropic：Research（发表成果 · 网页）"
-      ],
-      "items": [
-        {
-          "id": "c4c90d6cd63d919109debcf0033616b65b4108d7",
-          "title": "Anthropic Economic Index 报告：使用节奏",
-          "url": "https://aihot.virxact.com/items/cmqv2tn1509khsl80vpek6zqe",
-          "source": "Anthropic：Research（发表成果 · 网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-26T15:18:56Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7419,
-      "importance": 0.7419,
-      "importance_score": 0.7419,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6495,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-26T15:18:56Z",
-      "latest_at": "2026-06-26T15:18:56Z",
-      "primary_item": {
-        "id": "c4c90d6cd63d919109debcf0033616b65b4108d7",
-        "title": "Anthropic Economic Index 报告：使用节奏",
-        "url": "https://aihot.virxact.com/items/cmqv2tn1509khsl80vpek6zqe",
-        "source": "Anthropic：Research（发表成果 · 网页）",
         "source_name": "AI HOT"
       }
     },
@@ -841,21 +780,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7632,
-      "importance": 0.7632,
-      "importance_score": 0.7632,
+      "score": 0.7304,
+      "importance": 0.7304,
+      "importance_score": 0.7304,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.4509,
+        "recency": 0.287,
         "story_heat": 0.0
       },
       "category": "official",
       "reasons": [
         "official_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-06-26T10:32:58Z",
       "latest_at": "2026-06-26T10:32:58Z",
@@ -865,6 +803,393 @@
         "url": "https://github.blog/changelog/2026-06-26-github-desktop-3-6-worktrees-and-deeper-copilot-integration",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_2f3830581c59",
+      "title": "数学领域的人工智能正在提出重大问题 / AI in mathematics is forcing big questions",
+      "url": "https://news.ycombinator.com/item?id=48692883",
+      "primary_url": "https://news.ycombinator.com/item?id=48692883",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "812158c826547bb11f3c1a4f6e3e6825270b50a7",
+          "title": "数学领域的人工智能正在提出重大问题 / AI in mathematics is forcing big questions",
+          "url": "https://news.ycombinator.com/item?id=48692883",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-06-27T03:17:10.887000Z"
+        },
+        {
+          "id": "5d84d25fe2ac570f1b4903abb2a5d2454d2837f4",
+          "title": "当人工智能来处理数学计算时，作为一名数学家意味着什么？",
+          "url": "https://spectrum.ieee.org/ai-in-mathematics",
+          "source": "spectrum.ieee.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-27T02:52:01.640000Z"
+        },
+        {
+          "id": "bbe48ed56aada2c99206584379926d65038647e1",
+          "title": "当人工智能来处理数学计算时，作为一名数学家意味着什么？ / What does it mean to be a mathematician when AI does the math?",
+          "url": "https://spectrum.ieee.org/ai-in-mathematics",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-27T00:27:42Z"
+        },
+        {
+          "id": "b9c3fc59a5cff8cfbd7bf152d105512b9b046926",
+          "title": "当人工智能来处理数学计算时，作为一名数学家意味着什么？ / AI in mathematics is forcing big questions",
+          "url": "https://spectrum.ieee.org/ai-in-mathematics",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-06-26T22:36:51Z"
+        }
+      ],
+      "source_count": 4,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "Lobsters (技术社区)",
+        "hackernews",
+        "spectrum.ieee.org"
+      ],
+      "items": [
+        {
+          "id": "812158c826547bb11f3c1a4f6e3e6825270b50a7",
+          "title": "数学领域的人工智能正在提出重大问题 / AI in mathematics is forcing big questions",
+          "url": "https://news.ycombinator.com/item?id=48692883",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-06-27T03:17:10.887000Z"
+        },
+        {
+          "id": "5d84d25fe2ac570f1b4903abb2a5d2454d2837f4",
+          "title": "当人工智能来处理数学计算时，作为一名数学家意味着什么？",
+          "url": "https://spectrum.ieee.org/ai-in-mathematics",
+          "source": "spectrum.ieee.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-27T02:52:01.640000Z"
+        },
+        {
+          "id": "bbe48ed56aada2c99206584379926d65038647e1",
+          "title": "当人工智能来处理数学计算时，作为一名数学家意味着什么？ / What does it mean to be a mathematician when AI does the math?",
+          "url": "https://spectrum.ieee.org/ai-in-mathematics",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-27T00:27:42Z"
+        },
+        {
+          "id": "b9c3fc59a5cff8cfbd7bf152d105512b9b046926",
+          "title": "当人工智能来处理数学计算时，作为一名数学家意味着什么？ / AI in mathematics is forcing big questions",
+          "url": "https://spectrum.ieee.org/ai-in-mathematics",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-06-26T22:36:51Z"
+        }
+      ],
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.5949,
+      "importance": 0.5949,
+      "importance_score": 0.5949,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9844,
+        "story_heat": 0.75
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-06-26T22:36:51Z",
+      "latest_at": "2026-06-27T03:17:10.887000Z",
+      "primary_item": {
+        "id": "812158c826547bb11f3c1a4f6e3e6825270b50a7",
+        "title": "数学领域的人工智能正在提出重大问题 / AI in mathematics is forcing big questions",
+        "url": "https://news.ycombinator.com/item?id=48692883",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_7bd447334a41",
+      "title": "开源大型语言模型（LLM）与闭源大型语言模型（LLM）之间的差距",
+      "url": "https://blog.doubleword.ai/frontier-os-llm",
+      "primary_url": "https://blog.doubleword.ai/frontier-os-llm",
+      "source": "blog.doubleword.ai",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "c0cea761cd223ced74db626a74d58a583d591be7",
+          "title": "开源大型语言模型（LLM）与闭源大型语言模型（LLM）之间的差距",
+          "url": "https://blog.doubleword.ai/frontier-os-llm",
+          "source": "blog.doubleword.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-27T00:43:50.307000Z"
+        },
+        {
+          "id": "de5f49ef44e5d186d8d35e7331728e0c607fc613",
+          "title": "开放式权重法学硕士和闭源法学硕士之间的差距 / The gap between open weights LLMs and closed source LLMs",
+          "url": "https://news.ycombinator.com/item?id=48692058",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-06-26T22:02:40.025000Z"
+        },
+        {
+          "id": "e50f09f9cfe7b2f6f88e7caaf16e3072b4817a11",
+          "title": "开源大型语言模型（LLM）与闭源大型语言模型（LLM）之间的差距 / The gap between open weights LLMs and closed source LLMs",
+          "url": "https://blog.doubleword.ai/frontier-os-llm",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-06-26T21:14:47Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "blog.doubleword.ai",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "c0cea761cd223ced74db626a74d58a583d591be7",
+          "title": "开源大型语言模型（LLM）与闭源大型语言模型（LLM）之间的差距",
+          "url": "https://blog.doubleword.ai/frontier-os-llm",
+          "source": "blog.doubleword.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-27T00:43:50.307000Z"
+        },
+        {
+          "id": "de5f49ef44e5d186d8d35e7331728e0c607fc613",
+          "title": "开放式权重法学硕士和闭源法学硕士之间的差距 / The gap between open weights LLMs and closed source LLMs",
+          "url": "https://news.ycombinator.com/item?id=48692058",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-06-26T22:02:40.025000Z"
+        },
+        {
+          "id": "e50f09f9cfe7b2f6f88e7caaf16e3072b4817a11",
+          "title": "开源大型语言模型（LLM）与闭源大型语言模型（LLM）之间的差距 / The gap between open weights LLMs and closed source LLMs",
+          "url": "https://blog.doubleword.ai/frontier-os-llm",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-06-26T21:14:47Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5486,
+      "importance": 0.5486,
+      "importance_score": 0.5486,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8779,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-06-26T21:14:47Z",
+      "latest_at": "2026-06-27T00:43:50.307000Z",
+      "primary_item": {
+        "id": "c0cea761cd223ced74db626a74d58a583d591be7",
+        "title": "开源大型语言模型（LLM）与闭源大型语言模型（LLM）之间的差距",
+        "url": "https://blog.doubleword.ai/frontier-os-llm",
+        "source": "blog.doubleword.ai",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_6735a7a91e9b",
+      "title": "OpenAI：开启下一代模型 GPT-5.6 系列的限量预览",
+      "url": "https://36kr.com/newsflashes/3870811056821506?f=rss",
+      "primary_url": "https://36kr.com/newsflashes/3870811056821506?f=rss",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "be624ebbaaf1703de293c7a1fcee0ed6f348f96a",
+          "title": "OpenAI：开启下一代模型 GPT-5.6 系列的限量预览",
+          "url": "https://36kr.com/newsflashes/3870811056821506?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "6e14a03fb82d079de48161be2300fc339f9b3b3d",
+          "title": "OpenAI：开启下一代模型GPT-5.6系列的限量预览",
+          "url": "https://36kr.com/newsflashes/3870811056821506?f=rss",
+          "source": "36氪 (36Kr)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-27T02:32:37Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "36氪 (36Kr)",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "be624ebbaaf1703de293c7a1fcee0ed6f348f96a",
+          "title": "OpenAI：开启下一代模型 GPT-5.6 系列的限量预览",
+          "url": "https://36kr.com/newsflashes/3870811056821506?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "6e14a03fb82d079de48161be2300fc339f9b3b3d",
+          "title": "OpenAI：开启下一代模型GPT-5.6系列的限量预览",
+          "url": "https://36kr.com/newsflashes/3870811056821506?f=rss",
+          "source": "36氪 (36Kr)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-27T02:32:37Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.548,
+      "importance": 0.548,
+      "importance_score": 0.548,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-06-27T02:32:37Z",
+      "latest_at": "2026-06-27T03:39:40.115207Z",
+      "primary_item": {
+        "id": "be624ebbaaf1703de293c7a1fcee0ed6f348f96a",
+        "title": "OpenAI：开启下一代模型 GPT-5.6 系列的限量预览",
+        "url": "https://36kr.com/newsflashes/3870811056821506?f=rss",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_5a8665b1ad52",
+      "title": "美国允许Anthropic向“可信合作伙伴”发布Mythos",
+      "url": "https://www.reuters.com/technology/us-releases-anthropic-model-mythos-some-us-companies-semafor-reports-2026-06-26",
+      "primary_url": "https://www.reuters.com/technology/us-releases-anthropic-model-mythos-some-us-companies-semafor-reports-2026-06-26",
+      "source": "www.reuters.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "6a701187d56861ab5100c26279c3f03d91efb511",
+          "title": "美国允许Anthropic向“可信合作伙伴”发布Mythos",
+          "url": "https://www.reuters.com/technology/us-releases-anthropic-model-mythos-some-us-companies-semafor-reports-2026-06-26",
+          "source": "www.reuters.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-27T00:11:58.551000Z"
+        },
+        {
+          "id": "809c1c6fcf94a70f5cc968075e4f1d90474cab77",
+          "title": "美国允许Anthropic向部分美国公司发布Mythos",
+          "url": "https://www.reuters.com/technology/us-releases-anthropic-model-mythos-some-us-companies-semafor-reports-2026-06-26",
+          "source": "www.reuters.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-26T23:08:04.089000Z"
+        },
+        {
+          "id": "c28716b9f2da3d92791681425fbe5ce9f748b641",
+          "title": "美国允许Anthropic向部分美国公司发布Mythos / US allows Anthropic to release Mythos to 'trusted partners'",
+          "url": "https://www.reuters.com/technology/us-releases-anthropic-model-mythos-some-us-companies-semafor-reports-2026-06-26",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-06-26T22:48:28Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News",
+        "www.reuters.com"
+      ],
+      "items": [
+        {
+          "id": "6a701187d56861ab5100c26279c3f03d91efb511",
+          "title": "美国允许Anthropic向“可信合作伙伴”发布Mythos",
+          "url": "https://www.reuters.com/technology/us-releases-anthropic-model-mythos-some-us-companies-semafor-reports-2026-06-26",
+          "source": "www.reuters.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-27T00:11:58.551000Z"
+        },
+        {
+          "id": "809c1c6fcf94a70f5cc968075e4f1d90474cab77",
+          "title": "美国允许Anthropic向部分美国公司发布Mythos",
+          "url": "https://www.reuters.com/technology/us-releases-anthropic-model-mythos-some-us-companies-semafor-reports-2026-06-26",
+          "source": "www.reuters.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-26T23:08:04.089000Z"
+        },
+        {
+          "id": "c28716b9f2da3d92791681425fbe5ce9f748b641",
+          "title": "美国允许Anthropic向部分美国公司发布Mythos / US allows Anthropic to release Mythos to 'trusted partners'",
+          "url": "https://www.reuters.com/technology/us-releases-anthropic-model-mythos-some-us-companies-semafor-reports-2026-06-26",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-06-26T22:48:28Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5442,
+      "importance": 0.5442,
+      "importance_score": 0.5442,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8558,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-06-26T22:48:28Z",
+      "latest_at": "2026-06-27T00:11:58.551000Z",
+      "primary_item": {
+        "id": "6a701187d56861ab5100c26279c3f03d91efb511",
+        "title": "美国允许Anthropic向“可信合作伙伴”发布Mythos",
+        "url": "https://www.reuters.com/technology/us-releases-anthropic-model-mythos-some-us-companies-semafor-reports-2026-06-26",
+        "source": "www.reuters.com",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -977,14 +1302,14 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.5965,
-      "importance": 0.5965,
-      "importance_score": 0.5965,
+      "score": 0.5637,
+      "importance": 0.5637,
+      "importance_score": 0.5637,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8673,
+        "recency": 0.7034,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -999,6 +1324,162 @@
         "url": "https://news.ycombinator.com/item?id=48690101",
         "source": "hackernews",
         "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_c791ccfc6401",
+      "title": "NLNet Labs 大型语言模型政策",
+      "url": "https://nlnetlabs.nl/llm-policy",
+      "primary_url": "https://nlnetlabs.nl/llm-policy",
+      "source": "nlnetlabs.nl",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "4255a35b2c2b2cc7c616d9de474fcec61e585aa5",
+          "title": "NLNet Labs 大型语言模型政策",
+          "url": "https://nlnetlabs.nl/llm-policy",
+          "source": "nlnetlabs.nl",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-27T00:27:51.623000Z"
+        },
+        {
+          "id": "5b211aabb67b1169d98b2a26a634fd924972d84c",
+          "title": "NLNet Labs 大型语言模型政策 / NLNet Labs LLM Policy",
+          "url": "https://nlnetlabs.nl/llm-policy",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-27T00:08:45Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Lobsters (技术社区)",
+        "nlnetlabs.nl"
+      ],
+      "items": [
+        {
+          "id": "4255a35b2c2b2cc7c616d9de474fcec61e585aa5",
+          "title": "NLNet Labs 大型语言模型政策",
+          "url": "https://nlnetlabs.nl/llm-policy",
+          "source": "nlnetlabs.nl",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-27T00:27:51.623000Z"
+        },
+        {
+          "id": "5b211aabb67b1169d98b2a26a634fd924972d84c",
+          "title": "NLNet Labs 大型语言模型政策 / NLNet Labs LLM Policy",
+          "url": "https://nlnetlabs.nl/llm-policy",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-27T00:08:45Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5214,
+      "importance": 0.5214,
+      "importance_score": 0.5214,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8668,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-06-27T00:08:45Z",
+      "latest_at": "2026-06-27T00:27:51.623000Z",
+      "primary_item": {
+        "id": "4255a35b2c2b2cc7c616d9de474fcec61e585aa5",
+        "title": "NLNet Labs 大型语言模型政策",
+        "url": "https://nlnetlabs.nl/llm-policy",
+        "source": "nlnetlabs.nl",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_2783f5563750",
+      "title": "上线 14 个月，Notion 关掉了自己的 AI 邮件产品",
+      "url": "https://www.huxiu.com/article/4870821.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4870821.html?f=rss",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "2ccee9bf80a180b7fdc0aeaecb9c4361f8966bb4",
+          "title": "上线 14 个月，Notion 关掉了自己的 AI 邮件产品",
+          "url": "https://www.huxiu.com/article/4870821.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "052cc5724193b74a6b8ba34d4e2d6d71e08e603b",
+          "title": "上线14个月，Notion 关掉了自己的AI 邮件产品",
+          "url": "https://www.huxiu.com/article/4870821.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-27T02:36:57Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Readhub · AI",
+        "虎嗅 (Huxiu)"
+      ],
+      "items": [
+        {
+          "id": "2ccee9bf80a180b7fdc0aeaecb9c4361f8966bb4",
+          "title": "上线 14 个月，Notion 关掉了自己的 AI 邮件产品",
+          "url": "https://www.huxiu.com/article/4870821.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "052cc5724193b74a6b8ba34d4e2d6d71e08e603b",
+          "title": "上线14个月，Notion 关掉了自己的AI 邮件产品",
+          "url": "https://www.huxiu.com/article/4870821.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-27T02:36:57Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.548,
+      "importance": 0.548,
+      "importance_score": 0.548,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-06-27T02:36:57Z",
+      "latest_at": "2026-06-27T03:39:40.115207Z",
+      "primary_item": {
+        "id": "2ccee9bf80a180b7fdc0aeaecb9c4361f8966bb4",
+        "title": "上线 14 个月，Notion 关掉了自己的 AI 邮件产品",
+        "url": "https://www.huxiu.com/article/4870821.html?f=rss",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
       }
     },
     {
@@ -1074,14 +1555,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.548,
-      "importance": 0.548,
-      "importance_score": 0.548,
+      "score": 0.5152,
+      "importance": 0.5152,
+      "importance_score": 0.5152,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8751,
+        "recency": 0.7112,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1169,14 +1650,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.548,
-      "importance": 0.548,
-      "importance_score": 0.548,
+      "score": 0.5152,
+      "importance": 0.5152,
+      "importance_score": 0.5152,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8751,
+        "recency": 0.7112,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1194,508 +1675,80 @@
       }
     },
     {
-      "story_id": "story_47c56e9adbe9",
-      "title": "人工智能行业正向美国大选投入数百万美元",
-      "url": "https://www.bloodinthemachine.com/p/the-ai-industry-is-pouring-hundreds",
-      "primary_url": "https://www.bloodinthemachine.com/p/the-ai-industry-is-pouring-hundreds",
-      "source": "www.bloodinthemachine.com",
-      "source_name": "Buzzing",
+      "story_id": "story_22da7d729815",
+      "title": "IT早报 0627：GPT-5.6 系列登场；王兴称美团成立至今个人一股没卖；微信回应互删后朋友圈互动不可见；曝苹果 iPhone 18 Pro / 阔折叠均为万元机...",
+      "url": "https://www.ithome.com/0/969/278.htm",
+      "primary_url": "https://www.ithome.com/0/969/278.htm",
+      "source": "IT之家 (ITHome)",
+      "source_name": "Info Flow",
       "sources": [
         {
-          "id": "302d3242dca4082ea23fcfa58655edda17b41eb9",
-          "title": "人工智能行业正向美国大选投入数百万美元",
-          "url": "https://www.bloodinthemachine.com/p/the-ai-industry-is-pouring-hundreds",
-          "source": "www.bloodinthemachine.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-26T18:35:53.860000Z"
-        },
-        {
-          "id": "72b490f39d560e4ec870e6aad9cbe467a1dce229",
-          "title": "人工智能行业正在向美国大选投入数百万美元 / The AI industry is pouring millions into US elections",
-          "url": "https://news.ycombinator.com/item?id=48687483",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-06-26T16:33:58.352000Z"
-        },
-        {
-          "id": "8d7180c5e1d968d6a61917a29a49da5afcc9fb16",
-          "title": "人工智能行业正向美国大选投入数百万美元 / The AI industry is pouring millions into US elections",
-          "url": "https://www.bloodinthemachine.com/p/the-ai-industry-is-pouring-hundreds",
-          "source": "Hacker News (黑客新闻)",
+          "id": "7bb1a29b113bb060f6fa99f728d361f712fb198e",
+          "title": "IT早报 0627：GPT-5.6 系列登场；王兴称美团成立至今个人一股没卖；微信回应互删后朋友圈互动不可见；曝苹果 iPhone 18 Pro / 阔折叠均为万元机...",
+          "url": "https://www.ithome.com/0/969/278.htm",
+          "source": "IT之家 (ITHome)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-06-26T15:02:43Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews",
-        "www.bloodinthemachine.com"
-      ],
-      "items": [
-        {
-          "id": "302d3242dca4082ea23fcfa58655edda17b41eb9",
-          "title": "人工智能行业正向美国大选投入数百万美元",
-          "url": "https://www.bloodinthemachine.com/p/the-ai-industry-is-pouring-hundreds",
-          "source": "www.bloodinthemachine.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-26T18:35:53.860000Z"
+          "published_at": "2026-06-26T23:17:55Z"
         },
         {
-          "id": "72b490f39d560e4ec870e6aad9cbe467a1dce229",
-          "title": "人工智能行业正在向美国大选投入数百万美元 / The AI industry is pouring millions into US elections",
-          "url": "https://news.ycombinator.com/item?id=48687483",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-06-26T16:33:58.352000Z"
-        },
-        {
-          "id": "8d7180c5e1d968d6a61917a29a49da5afcc9fb16",
-          "title": "人工智能行业正向美国大选投入数百万美元 / The AI industry is pouring millions into US elections",
-          "url": "https://www.bloodinthemachine.com/p/the-ai-industry-is-pouring-hundreds",
-          "source": "Hacker News (黑客新闻)",
+          "id": "e24a132a8136d16958b63735ce16f8454c0b47a3",
+          "title": "IT早报 0627：王兴称美团成立至今个人一股没卖；GPT-5.6 系列登场；微信回应互删后朋友圈互动不可见；曝苹果 iPhone 18 Pro / 阔折叠均为万元机...",
+          "url": "https://www.ithome.com/0/969/278.htm",
+          "source": "IT之家 (ITHome)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-06-26T15:02:43Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5303,
-      "importance": 0.5303,
-      "importance_score": 0.5303,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7863,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-06-26T15:02:43Z",
-      "latest_at": "2026-06-26T18:35:53.860000Z",
-      "primary_item": {
-        "id": "302d3242dca4082ea23fcfa58655edda17b41eb9",
-        "title": "人工智能行业正向美国大选投入数百万美元",
-        "url": "https://www.bloodinthemachine.com/p/the-ai-industry-is-pouring-hundreds",
-        "source": "www.bloodinthemachine.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_2732ab390af9",
-      "title": "《纽约时报》抨击微软为OpenAI打造侵犯版权的超级计算机",
-      "url": "https://arstechnica.com/tech-policy/2026/06/microsoft-built-supercomputer-to-help-openai-infringe-copyrights-nyt-alleged",
-      "primary_url": "https://arstechnica.com/tech-policy/2026/06/microsoft-built-supercomputer-to-help-openai-infringe-copyrights-nyt-alleged",
-      "source": "arstechnica.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "b2a5d3138fa1afa073ecd616c259865d74987ca0",
-          "title": "《纽约时报》抨击微软为OpenAI打造侵犯版权的超级计算机",
-          "url": "https://arstechnica.com/tech-policy/2026/06/microsoft-built-supercomputer-to-help-openai-infringe-copyrights-nyt-alleged",
-          "source": "arstechnica.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-26T21:15:51.287000Z"
-        },
-        {
-          "id": "80bafd5e654681731a91d6b23ef573c7518ffc58",
-          "title": "《纽约时报》抨击微软为OpenAI打造侵犯版权的超级计算机 / NYT slams Microsoft for building copyright-infringing supercomputer for OpenAI",
-          "url": "https://arstechnica.com/tech-policy/2026/06/microsoft-built-supercomputer-to-help-openai-infringe-copyrights-nyt-alleged",
-          "source": "Ars Technica (科技媒体)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-06-26T20:04:55Z"
+          "published_at": "2026-06-26T23:17:55Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Ars Technica (科技媒体)",
-        "arstechnica.com"
+        "IT之家 (ITHome)"
       ],
       "items": [
         {
-          "id": "b2a5d3138fa1afa073ecd616c259865d74987ca0",
-          "title": "《纽约时报》抨击微软为OpenAI打造侵犯版权的超级计算机",
-          "url": "https://arstechnica.com/tech-policy/2026/06/microsoft-built-supercomputer-to-help-openai-infringe-copyrights-nyt-alleged",
-          "source": "arstechnica.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-26T21:15:51.287000Z"
-        },
-        {
-          "id": "80bafd5e654681731a91d6b23ef573c7518ffc58",
-          "title": "《纽约时报》抨击微软为OpenAI打造侵犯版权的超级计算机 / NYT slams Microsoft for building copyright-infringing supercomputer for OpenAI",
-          "url": "https://arstechnica.com/tech-policy/2026/06/microsoft-built-supercomputer-to-help-openai-infringe-copyrights-nyt-alleged",
-          "source": "Ars Technica (科技媒体)",
+          "id": "7bb1a29b113bb060f6fa99f728d361f712fb198e",
+          "title": "IT早报 0627：GPT-5.6 系列登场；王兴称美团成立至今个人一股没卖；微信回应互删后朋友圈互动不可见；曝苹果 iPhone 18 Pro / 阔折叠均为万元机...",
+          "url": "https://www.ithome.com/0/969/278.htm",
+          "source": "IT之家 (ITHome)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-06-26T20:04:55Z"
+          "published_at": "2026-06-26T23:17:55Z"
+        },
+        {
+          "id": "e24a132a8136d16958b63735ce16f8454c0b47a3",
+          "title": "IT早报 0627：王兴称美团成立至今个人一股没卖；GPT-5.6 系列登场；微信回应互删后朋友圈互动不可见；曝苹果 iPhone 18 Pro / 阔折叠均为万元机...",
+          "url": "https://www.ithome.com/0/969/278.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-26T23:17:55Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5275,
-      "importance": 0.5275,
-      "importance_score": 0.5275,
+      "score": 0.5116,
+      "importance": 0.5116,
+      "importance_score": 0.5116,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8973,
+        "recency": 0.8182,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-06-26T20:04:55Z",
-      "latest_at": "2026-06-26T21:15:51.287000Z",
+      "earliest_at": "2026-06-26T23:17:55Z",
+      "latest_at": "2026-06-26T23:17:55Z",
       "primary_item": {
-        "id": "b2a5d3138fa1afa073ecd616c259865d74987ca0",
-        "title": "《纽约时报》抨击微软为OpenAI打造侵犯版权的超级计算机",
-        "url": "https://arstechnica.com/tech-policy/2026/06/microsoft-built-supercomputer-to-help-openai-infringe-copyrights-nyt-alleged",
-        "source": "arstechnica.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_7bd447334a41",
-      "title": "开放式权重法学硕士和闭源法学硕士之间的差距 / The gap between open weights LLMs and closed source LLMs",
-      "url": "https://news.ycombinator.com/item?id=48692058",
-      "primary_url": "https://news.ycombinator.com/item?id=48692058",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "de5f49ef44e5d186d8d35e7331728e0c607fc613",
-          "title": "开放式权重法学硕士和闭源法学硕士之间的差距 / The gap between open weights LLMs and closed source LLMs",
-          "url": "https://news.ycombinator.com/item?id=48692058",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-06-26T22:02:40.025000Z"
-        },
-        {
-          "id": "e50f09f9cfe7b2f6f88e7caaf16e3072b4817a11",
-          "title": "开放式权重法学硕士和闭源法学硕士之间的差距 / The gap between open weights LLMs and closed source LLMs",
-          "url": "https://blog.doubleword.ai/frontier-os-llm",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-06-26T21:14:47Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "de5f49ef44e5d186d8d35e7331728e0c607fc613",
-          "title": "开放式权重法学硕士和闭源法学硕士之间的差距 / The gap between open weights LLMs and closed source LLMs",
-          "url": "https://news.ycombinator.com/item?id=48692058",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-06-26T22:02:40.025000Z"
-        },
-        {
-          "id": "e50f09f9cfe7b2f6f88e7caaf16e3072b4817a11",
-          "title": "开放式权重法学硕士和闭源法学硕士之间的差距 / The gap between open weights LLMs and closed source LLMs",
-          "url": "https://blog.doubleword.ai/frontier-os-llm",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-06-26T21:14:47Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.534,
-      "importance": 0.534,
-      "importance_score": 0.534,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9298,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-06-26T21:14:47Z",
-      "latest_at": "2026-06-26T22:02:40.025000Z",
-      "primary_item": {
-        "id": "de5f49ef44e5d186d8d35e7331728e0c607fc613",
-        "title": "开放式权重法学硕士和闭源法学硕士之间的差距 / The gap between open weights LLMs and closed source LLMs",
-        "url": "https://news.ycombinator.com/item?id=48692058",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_2e3b818d6fcb",
-      "title": "OpenAI表示，应美国政府要求，其新推出的GPT-5.6模型的访问权限受到限制",
-      "url": "https://www.businessinsider.com/openai-gpt-5-6-limited-preview-us-government-ai-security-2026-6",
-      "primary_url": "https://www.businessinsider.com/openai-gpt-5-6-limited-preview-us-government-ai-security-2026-6",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "36b4285f6b4371c7c659ca7e25dd898443263958",
-          "title": "OpenAI表示，应美国政府要求，其新推出的GPT-5.6模型的访问权限受到限制",
-          "url": "https://www.businessinsider.com/openai-gpt-5-6-limited-preview-us-government-ai-security-2026-6",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-26T18:19:56.134000Z"
-        },
-        {
-          "id": "df8f9e3a09b10c7d004d38c5d83a373c955ad7a9",
-          "title": "OpenAI表示，应美国政府要求，其新推出的GPT-5.6模型的访问权限受到限制 / OpenAI says access to its new GPT-5.6 model is limited at the US government's request",
-          "url": "https://www.businessinsider.com/openai-gpt-5-6-limited-preview-us-government-ai-security-2026-6",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-06-26T18:08:58Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "36b4285f6b4371c7c659ca7e25dd898443263958",
-          "title": "OpenAI表示，应美国政府要求，其新推出的GPT-5.6模型的访问权限受到限制",
-          "url": "https://www.businessinsider.com/openai-gpt-5-6-limited-preview-us-government-ai-security-2026-6",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-26T18:19:56.134000Z"
-        },
-        {
-          "id": "df8f9e3a09b10c7d004d38c5d83a373c955ad7a9",
-          "title": "OpenAI表示，应美国政府要求，其新推出的GPT-5.6模型的访问权限受到限制 / OpenAI says access to its new GPT-5.6 model is limited at the US government's request",
-          "url": "https://www.businessinsider.com/openai-gpt-5-6-limited-preview-us-government-ai-security-2026-6",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-06-26T18:08:58Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.503,
-      "importance": 0.503,
-      "importance_score": 0.503,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7752,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-06-26T18:08:58Z",
-      "latest_at": "2026-06-26T18:19:56.134000Z",
-      "primary_item": {
-        "id": "36b4285f6b4371c7c659ca7e25dd898443263958",
-        "title": "OpenAI表示，应美国政府要求，其新推出的GPT-5.6模型的访问权限受到限制",
-        "url": "https://www.businessinsider.com/openai-gpt-5-6-limited-preview-us-government-ai-security-2026-6",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_97cd865b7971",
-      "title": "数据中心引发选民强烈反对 / 'Cost Me the Election': Data Centers Trigger Voter Backlash",
-      "url": "https://www.newsweek.com/cost-me-the-election-data-centers-trigger-voter-backlash-12118327",
-      "primary_url": "https://www.newsweek.com/cost-me-the-election-data-centers-trigger-voter-backlash-12118327",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "8039e1c921617aa6f773bf8a3b2253e5064aee51",
-          "title": "数据中心引发选民强烈反对 / 'Cost Me the Election': Data Centers Trigger Voter Backlash",
-          "url": "https://www.newsweek.com/cost-me-the-election-data-centers-trigger-voter-backlash-12118327",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-06-26T17:24:21Z"
-        },
-        {
-          "id": "c6e602d768e577b77a3ac835795dafc86e8dd8dc",
-          "title": "数据中心引发选民强烈反对 / Data centers trigger voter backlash",
-          "url": "https://www.newsweek.com/cost-me-the-election-data-centers-trigger-voter-backlash-12118327",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-06-26T17:24:21Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热"
-      ],
-      "items": [
-        {
-          "id": "8039e1c921617aa6f773bf8a3b2253e5064aee51",
-          "title": "数据中心引发选民强烈反对 / 'Cost Me the Election': Data Centers Trigger Voter Backlash",
-          "url": "https://www.newsweek.com/cost-me-the-election-data-centers-trigger-voter-backlash-12118327",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-06-26T17:24:21Z"
-        },
-        {
-          "id": "c6e602d768e577b77a3ac835795dafc86e8dd8dc",
-          "title": "数据中心引发选民强烈反对 / Data centers trigger voter backlash",
-          "url": "https://www.newsweek.com/cost-me-the-election-data-centers-trigger-voter-backlash-12118327",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-06-26T17:24:21Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4953,
-      "importance": 0.4953,
-      "importance_score": 0.4953,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7366,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-06-26T17:24:21Z",
-      "latest_at": "2026-06-26T17:24:21Z",
-      "primary_item": {
-        "id": "8039e1c921617aa6f773bf8a3b2253e5064aee51",
-        "title": "数据中心引发选民强烈反对 / 'Cost Me the Election': Data Centers Trigger Voter Backlash",
-        "url": "https://www.newsweek.com/cost-me-the-election-data-centers-trigger-voter-backlash-12118327",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
-      }
-    },
-    {
-      "story_id": "story_49daf822efec",
-      "title": "为什么当前的大型语言模型（LLM）成本不可持续",
-      "url": "https://aditya.patadia.org/p/ai-and-cloud-costs",
-      "primary_url": "https://aditya.patadia.org/p/ai-and-cloud-costs",
-      "source": "aditya.patadia.org",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "b266dd9cf47d5332213dcb9bddee28ab35a120c6",
-          "title": "为什么当前的大型语言模型（LLM）成本不可持续",
-          "url": "https://aditya.patadia.org/p/ai-and-cloud-costs",
-          "source": "aditya.patadia.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-26T14:03:56.675000Z"
-        },
-        {
-          "id": "3b0fe275f30e3ab52456570752c5d1a175d81b25",
-          "title": "为什么目前的 LLM 成本不可持续 / Why current LLM costs are not sustainable",
-          "url": "https://news.ycombinator.com/item?id=48683588",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-06-26T08:31:30.099000Z"
-        },
-        {
-          "id": "ed4108fecdac389889078a43dfee07250df47c30",
-          "title": "为什么当前的大型语言模型（LLM）成本不可持续 / Why current LLM costs are not sustainable",
-          "url": "https://aditya.patadia.org/p/ai-and-cloud-costs",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-06-26T07:44:11Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "aditya.patadia.org",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "b266dd9cf47d5332213dcb9bddee28ab35a120c6",
-          "title": "为什么当前的大型语言模型（LLM）成本不可持续",
-          "url": "https://aditya.patadia.org/p/ai-and-cloud-costs",
-          "source": "aditya.patadia.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-26T14:03:56.675000Z"
-        },
-        {
-          "id": "3b0fe275f30e3ab52456570752c5d1a175d81b25",
-          "title": "为什么目前的 LLM 成本不可持续 / Why current LLM costs are not sustainable",
-          "url": "https://news.ycombinator.com/item?id=48683588",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-06-26T08:31:30.099000Z"
-        },
-        {
-          "id": "ed4108fecdac389889078a43dfee07250df47c30",
-          "title": "为什么当前的大型语言模型（LLM）成本不可持续 / Why current LLM costs are not sustainable",
-          "url": "https://aditya.patadia.org/p/ai-and-cloud-costs",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-06-26T07:44:11Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.4925,
-      "importance": 0.4925,
-      "importance_score": 0.4925,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.5974,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-06-26T07:44:11Z",
-      "latest_at": "2026-06-26T14:03:56.675000Z",
-      "primary_item": {
-        "id": "b266dd9cf47d5332213dcb9bddee28ab35a120c6",
-        "title": "为什么当前的大型语言模型（LLM）成本不可持续",
-        "url": "https://aditya.patadia.org/p/ai-and-cloud-costs",
-        "source": "aditya.patadia.org",
-        "source_name": "Buzzing"
+        "id": "7bb1a29b113bb060f6fa99f728d361f712fb198e",
+        "title": "IT早报 0627：GPT-5.6 系列登场；王兴称美团成立至今个人一股没卖；微信回应互删后朋友圈互动不可见；曝苹果 iPhone 18 Pro / 阔折叠均为万元机...",
+        "url": "https://www.ithome.com/0/969/278.htm",
+        "source": "IT之家 (ITHome)",
+        "source_name": "Info Flow"
       }
     }
   ]
