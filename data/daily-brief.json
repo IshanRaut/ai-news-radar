@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-06-27T14:44:27.238795Z",
+  "generated_at": "2026-06-27T16:07:04.372235Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260628-0044-54db-ae59-f8493550b0fe&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260628-0044-54db-ae59-f8493550b0fe&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260628-0207-3430-bd31-ca2dcde9f976&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260628-0207-3430-bd31-ca2dcde9f976&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "ca9baa72966d4d26e92c1bf26488ef8ec48dea43",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260628-0207-3430-bd31-ca2dcde9f976&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "4406e2abca441a1c987fef3622eec6afbd03b0fd",
           "title": "点击这里进入 / Click here to enter",
@@ -111,12 +120,21 @@
           "published_at": null
         }
       ],
-      "source_count": 11,
+      "source_count": 12,
       "source_names": [
         "Page Fallback"
       ],
       "items": [
         {
+          "id": "ca9baa72966d4d26e92c1bf26488ef8ec48dea43",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260628-0207-3430-bd31-ca2dcde9f976&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "4406e2abca441a1c987fef3622eec6afbd03b0fd",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260628-0044-54db-ae59-f8493550b0fe&fp=-3",
@@ -216,8 +234,8 @@
           "published_at": null
         }
       ],
-      "item_count": 11,
-      "duplicate_count": 11,
+      "item_count": 12,
+      "duplicate_count": 12,
       "score": 0.912,
       "importance": 0.912,
       "importance_score": 0.912,
@@ -235,13 +253,73 @@
         "high_importance"
       ],
       "earliest_at": "2026-06-26T16:33:24.585028Z",
-      "latest_at": "2026-06-27T14:44:27.238795Z",
+      "latest_at": "2026-06-27T16:07:04.372235Z",
       "primary_item": {
-        "id": "4406e2abca441a1c987fef3622eec6afbd03b0fd",
+        "id": "ca9baa72966d4d26e92c1bf26488ef8ec48dea43",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260628-0044-54db-ae59-f8493550b0fe&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260628-0207-3430-bd31-ca2dcde9f976&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
+      }
+    },
+    {
+      "story_id": "story_ed562065c656",
+      "title": "一次失败的（民族国家？）攻击的剖析",
+      "url": "https://aihot.virxact.com/items/cmqwju303014msly0vp9nlrjv",
+      "primary_url": "https://aihot.virxact.com/items/cmqwju303014msly0vp9nlrjv",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "0c599b1c9fce09f0e49b9e92eee79d4e9a0371ab",
+          "title": "一次失败的（民族国家？）攻击的剖析",
+          "url": "https://aihot.virxact.com/items/cmqwju303014msly0vp9nlrjv",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-27T15:39:53Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）"
+      ],
+      "items": [
+        {
+          "id": "0c599b1c9fce09f0e49b9e92eee79d4e9a0371ab",
+          "title": "一次失败的（民族国家？）攻击的剖析",
+          "url": "https://aihot.virxact.com/items/cmqwju303014msly0vp9nlrjv",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-27T15:39:53Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8082,
+      "importance": 0.8082,
+      "importance_score": 0.8082,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9811,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-27T15:39:53Z",
+      "latest_at": "2026-06-27T15:39:53Z",
+      "primary_item": {
+        "id": "0c599b1c9fce09f0e49b9e92eee79d4e9a0371ab",
+        "title": "一次失败的（民族国家？）攻击的剖析",
+        "url": "https://aihot.virxact.com/items/cmqwju303014msly0vp9nlrjv",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -317,14 +395,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8081,
-      "importance": 0.8081,
-      "importance_score": 0.8081,
+      "score": 0.7966,
+      "importance": 0.7966,
+      "importance_score": 0.7966,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7303,
+        "recency": 0.673,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -378,14 +456,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7978,
-      "importance": 0.7978,
-      "importance_score": 0.7978,
+      "score": 0.7863,
+      "importance": 0.7863,
+      "importance_score": 0.7863,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9289,
+        "recency": 0.8715,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -438,14 +516,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7927,
-      "importance": 0.7927,
-      "importance_score": 0.7927,
+      "score": 0.7812,
+      "importance": 0.7812,
+      "importance_score": 0.7812,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9034,
+        "recency": 0.846,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -517,14 +595,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7446,
-      "importance": 0.7446,
-      "importance_score": 0.7446,
+      "score": 0.7331,
+      "importance": 0.7331,
+      "importance_score": 0.7331,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.5379,
+        "recency": 0.4806,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -652,14 +730,14 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.623,
-      "importance": 0.623,
-      "importance_score": 0.623,
+      "score": 0.6116,
+      "importance": 0.6116,
+      "importance_score": 0.6116,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9431,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -786,14 +864,14 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.5574,
-      "importance": 0.5574,
-      "importance_score": 0.5574,
+      "score": 0.5459,
+      "importance": 0.5459,
+      "importance_score": 0.5459,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6718,
+        "recency": 0.6144,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -807,6 +885,162 @@
         "title": "数学领域的人工智能正引发重大问题",
         "url": "https://spectrum.ieee.org/ai-in-mathematics",
         "source": "spectrum.ieee.org",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_0ef8d971e203",
+      "title": "GPT2-BASIC：基于BASIC语言的便携式机器智能",
+      "url": "https://github.com/tsotchke/gpt2-basic",
+      "primary_url": "https://github.com/tsotchke/gpt2-basic",
+      "source": "github.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "69bb89922907c4c98f1a90bd240ba766aa3597c7",
+          "title": "GPT2-BASIC：基于BASIC语言的便携式机器智能",
+          "url": "https://github.com/tsotchke/gpt2-basic",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-27T15:40:00.164000Z"
+        },
+        {
+          "id": "1f3cd163375630758cae5afa63cf4e14f136d4ec",
+          "title": "GPT2-BASIC：基于BASIC语言的便携式机器智能 / GPT2-BASIC: Portable Machine Intelligence in BASIC",
+          "url": "https://github.com/tsotchke/gpt2-basic",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-27T15:15:46Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Lobsters (技术社区)",
+        "github.com"
+      ],
+      "items": [
+        {
+          "id": "69bb89922907c4c98f1a90bd240ba766aa3597c7",
+          "title": "GPT2-BASIC：基于BASIC语言的便携式机器智能",
+          "url": "https://github.com/tsotchke/gpt2-basic",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-27T15:40:00.164000Z"
+        },
+        {
+          "id": "1f3cd163375630758cae5afa63cf4e14f136d4ec",
+          "title": "GPT2-BASIC：基于BASIC语言的便携式机器智能 / GPT2-BASIC: Portable Machine Intelligence in BASIC",
+          "url": "https://github.com/tsotchke/gpt2-basic",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-27T15:15:46Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5442,
+      "importance": 0.5442,
+      "importance_score": 0.5442,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9812,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-06-27T15:15:46Z",
+      "latest_at": "2026-06-27T15:40:00.164000Z",
+      "primary_item": {
+        "id": "69bb89922907c4c98f1a90bd240ba766aa3597c7",
+        "title": "GPT2-BASIC：基于BASIC语言的便携式机器智能",
+        "url": "https://github.com/tsotchke/gpt2-basic",
+        "source": "github.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_e8bcf2c1d04c",
+      "title": "在人工智能时代，要做建设者或销售者，而不是衡量者",
+      "url": "https://www.businessinsider.com/ai-tech-jobs-builder-seller-not-measurer-cloudflare-2026-6",
+      "primary_url": "https://www.businessinsider.com/ai-tech-jobs-builder-seller-not-measurer-cloudflare-2026-6",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "18c574420f32f556ee7b2ec492319dc57e3ad7a2",
+          "title": "在人工智能时代，要做建设者或销售者，而不是衡量者",
+          "url": "https://www.businessinsider.com/ai-tech-jobs-builder-seller-not-measurer-cloudflare-2026-6",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-27T15:07:55.982000Z"
+        },
+        {
+          "id": "6b4574824a6a72d3af152b3f4e844a68a8c6af6a",
+          "title": "在人工智能时代，要做建设者或销售者，而不是衡量者 / In the AI era, be a builder or a seller, not a measurer",
+          "url": "https://www.businessinsider.com/ai-tech-jobs-builder-seller-not-measurer-cloudflare-2026-6",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-06-27T14:01:01Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "18c574420f32f556ee7b2ec492319dc57e3ad7a2",
+          "title": "在人工智能时代，要做建设者或销售者，而不是衡量者",
+          "url": "https://www.businessinsider.com/ai-tech-jobs-builder-seller-not-measurer-cloudflare-2026-6",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-27T15:07:55.982000Z"
+        },
+        {
+          "id": "6b4574824a6a72d3af152b3f4e844a68a8c6af6a",
+          "title": "在人工智能时代，要做建设者或销售者，而不是衡量者 / In the AI era, be a builder or a seller, not a measurer",
+          "url": "https://www.businessinsider.com/ai-tech-jobs-builder-seller-not-measurer-cloudflare-2026-6",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-06-27T14:01:01Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5398,
+      "importance": 0.5398,
+      "importance_score": 0.5398,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9589,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-06-27T14:01:01Z",
+      "latest_at": "2026-06-27T15:07:55.982000Z",
+      "primary_item": {
+        "id": "18c574420f32f556ee7b2ec492319dc57e3ad7a2",
+        "title": "在人工智能时代，要做建设者或销售者，而不是衡量者",
+        "url": "https://www.businessinsider.com/ai-tech-jobs-builder-seller-not-measurer-cloudflare-2026-6",
+        "source": "www.businessinsider.com",
         "source_name": "Buzzing"
       }
     },
@@ -864,14 +1098,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.548,
-      "importance": 0.548,
-      "importance_score": 0.548,
+      "score": 0.5365,
+      "importance": 0.5365,
+      "importance_score": 0.5365,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9426,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -893,16 +1127,16 @@
       "title": "亚洲人工智能初创公司推出类似神话的模型 / Asian AI startups launch Mythos-like models",
       "url": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on",
       "primary_url": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
+      "source": "Hacker News",
+      "source_name": "TechURLs",
       "sources": [
         {
-          "id": "526e3927ab62f5ef9f85969d9f2422de36437190",
+          "id": "f7378cf11663c2d8781d9aa1109001a0ba153fbd",
           "title": "亚洲人工智能初创公司推出类似神话的模型 / Asian AI startups launch Mythos-like models",
           "url": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
           "published_at": "2026-06-27T13:10:21Z"
         },
         {
@@ -917,17 +1151,17 @@
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News · 24h最热",
+        "Hacker News",
         "TechCrunch"
       ],
       "items": [
         {
-          "id": "526e3927ab62f5ef9f85969d9f2422de36437190",
+          "id": "f7378cf11663c2d8781d9aa1109001a0ba153fbd",
           "title": "亚洲人工智能初创公司推出类似神话的模型 / Asian AI startups launch Mythos-like models",
           "url": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
           "published_at": "2026-06-27T13:10:21Z"
         },
         {
@@ -942,14 +1176,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5349,
-      "importance": 0.5349,
-      "importance_score": 0.5349,
+      "score": 0.5235,
+      "importance": 0.5235,
+      "importance_score": 0.5235,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9347,
+        "recency": 0.8773,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -959,11 +1193,11 @@
       "earliest_at": "2026-06-27T12:00:00Z",
       "latest_at": "2026-06-27T13:10:21Z",
       "primary_item": {
-        "id": "526e3927ab62f5ef9f85969d9f2422de36437190",
+        "id": "f7378cf11663c2d8781d9aa1109001a0ba153fbd",
         "title": "亚洲人工智能初创公司推出类似神话的模型 / Asian AI startups launch Mythos-like models",
         "url": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
+        "source": "Hacker News",
+        "source_name": "TechURLs"
       }
     },
     {
@@ -1020,14 +1254,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5324,
-      "importance": 0.5324,
-      "importance_score": 0.5324,
+      "score": 0.5209,
+      "importance": 0.5209,
+      "importance_score": 0.5209,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.922,
+        "recency": 0.8646,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1042,84 +1276,6 @@
         "url": "https://github.com/Anil-matcha/Open-Generative-AI",
         "source": "GitHub · Trending Today",
         "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_64d9d42451e6",
-      "title": "我试用了DoorDash的新AI搜索功能。作为一名家庭厨师，这项功能让我深感满意。",
-      "url": "https://www.businessinsider.com/how-ask-doordash-ai-grocery-ordering-tool-works-2026-6",
-      "primary_url": "https://www.businessinsider.com/how-ask-doordash-ai-grocery-ordering-tool-works-2026-6",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "741a55884485351a658d521cdf0869ad1db6872e",
-          "title": "我试用了DoorDash的新AI搜索功能。作为一名家庭厨师，这项功能让我深感满意。",
-          "url": "https://www.businessinsider.com/how-ask-doordash-ai-grocery-ordering-tool-works-2026-6",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-27T10:03:56.528000Z"
-        },
-        {
-          "id": "198cb79d83bd6cc167d2c93c6d85ee706994b486",
-          "title": "我试用了DoorDash的新AI搜索功能。作为一名家庭厨师，这项功能让我深感满意。 / I tried DoorDash's new AI search. As a home cook, this feature won me over.",
-          "url": "https://www.businessinsider.com/how-ask-doordash-ai-grocery-ordering-tool-works-2026-6",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-06-27T09:48:02Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "741a55884485351a658d521cdf0869ad1db6872e",
-          "title": "我试用了DoorDash的新AI搜索功能。作为一名家庭厨师，这项功能让我深感满意。",
-          "url": "https://www.businessinsider.com/how-ask-doordash-ai-grocery-ordering-tool-works-2026-6",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-27T10:03:56.528000Z"
-        },
-        {
-          "id": "198cb79d83bd6cc167d2c93c6d85ee706994b486",
-          "title": "我试用了DoorDash的新AI搜索功能。作为一名家庭厨师，这项功能让我深感满意。 / I tried DoorDash's new AI search. As a home cook, this feature won me over.",
-          "url": "https://www.businessinsider.com/how-ask-doordash-ai-grocery-ordering-tool-works-2026-6",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-06-27T09:48:02Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.509,
-      "importance": 0.509,
-      "importance_score": 0.509,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8052,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-06-27T09:48:02Z",
-      "latest_at": "2026-06-27T10:03:56.528000Z",
-      "primary_item": {
-        "id": "741a55884485351a658d521cdf0869ad1db6872e",
-        "title": "我试用了DoorDash的新AI搜索功能。作为一名家庭厨师，这项功能让我深感满意。",
-        "url": "https://www.businessinsider.com/how-ask-doordash-ai-grocery-ordering-tool-works-2026-6",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
       }
     },
     {
@@ -1176,14 +1332,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5046,
-      "importance": 0.5046,
-      "importance_score": 0.5046,
+      "score": 0.4931,
+      "importance": 0.4931,
+      "importance_score": 0.4931,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.783,
+        "recency": 0.7256,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1254,14 +1410,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5324,
-      "importance": 0.5324,
-      "importance_score": 0.5324,
+      "score": 0.5209,
+      "importance": 0.5209,
+      "importance_score": 0.5209,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.922,
+        "recency": 0.8646,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1332,14 +1488,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5324,
-      "importance": 0.5324,
-      "importance_score": 0.5324,
+      "score": 0.5209,
+      "importance": 0.5209,
+      "importance_score": 0.5209,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.922,
+        "recency": 0.8646,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1410,14 +1566,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4827,
-      "importance": 0.4827,
-      "importance_score": 0.4827,
+      "score": 0.4712,
+      "importance": 0.4712,
+      "importance_score": 0.4712,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6734,
+        "recency": 0.6161,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1432,6 +1588,84 @@
         "url": "https://www.36kr.com/p/3870720040588295",
         "source": "36氪 · 24小时热榜",
         "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_64d9d42451e6",
+      "title": "我试用了DoorDash的新AI搜索功能。作为一名家庭厨师，这项功能让我深感满意。",
+      "url": "https://www.businessinsider.com/how-ask-doordash-ai-grocery-ordering-tool-works-2026-6",
+      "primary_url": "https://www.businessinsider.com/how-ask-doordash-ai-grocery-ordering-tool-works-2026-6",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "741a55884485351a658d521cdf0869ad1db6872e",
+          "title": "我试用了DoorDash的新AI搜索功能。作为一名家庭厨师，这项功能让我深感满意。",
+          "url": "https://www.businessinsider.com/how-ask-doordash-ai-grocery-ordering-tool-works-2026-6",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-27T10:03:56.528000Z"
+        },
+        {
+          "id": "198cb79d83bd6cc167d2c93c6d85ee706994b486",
+          "title": "我试用了DoorDash的新AI搜索功能。作为一名家庭厨师，这项功能让我深感满意。 / I tried DoorDash's new AI search. As a home cook, this feature won me over.",
+          "url": "https://www.businessinsider.com/how-ask-doordash-ai-grocery-ordering-tool-works-2026-6",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-06-27T09:48:02Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "741a55884485351a658d521cdf0869ad1db6872e",
+          "title": "我试用了DoorDash的新AI搜索功能。作为一名家庭厨师，这项功能让我深感满意。",
+          "url": "https://www.businessinsider.com/how-ask-doordash-ai-grocery-ordering-tool-works-2026-6",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-27T10:03:56.528000Z"
+        },
+        {
+          "id": "198cb79d83bd6cc167d2c93c6d85ee706994b486",
+          "title": "我试用了DoorDash的新AI搜索功能。作为一名家庭厨师，这项功能让我深感满意。 / I tried DoorDash's new AI search. As a home cook, this feature won me over.",
+          "url": "https://www.businessinsider.com/how-ask-doordash-ai-grocery-ordering-tool-works-2026-6",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-06-27T09:48:02Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4976,
+      "importance": 0.4976,
+      "importance_score": 0.4976,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7478,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-06-27T09:48:02Z",
+      "latest_at": "2026-06-27T10:03:56.528000Z",
+      "primary_item": {
+        "id": "741a55884485351a658d521cdf0869ad1db6872e",
+        "title": "我试用了DoorDash的新AI搜索功能。作为一名家庭厨师，这项功能让我深感满意。",
+        "url": "https://www.businessinsider.com/how-ask-doordash-ai-grocery-ordering-tool-works-2026-6",
+        "source": "www.businessinsider.com",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -1488,14 +1722,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5186,
-      "importance": 0.5186,
-      "importance_score": 0.5186,
+      "score": 0.5071,
+      "importance": 0.5071,
+      "importance_score": 0.5071,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8528,
+        "recency": 0.7954,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1585,14 +1819,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.4562,
-      "importance": 0.4562,
-      "importance_score": 0.4562,
+      "score": 0.4448,
+      "importance": 0.4448,
+      "importance_score": 0.4448,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.4162,
+        "recency": 0.3589,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1606,258 +1840,6 @@
         "title": "开源大型语言模型（LLM）与闭源大型语言模型（LLM）之间的差距",
         "url": "https://blog.doubleword.ai/frontier-os-llm",
         "source": "blog.doubleword.ai",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_736b32438d56",
-      "title": "Ask HN: MacBook 与 LLM 专用显卡的对比",
-      "url": "https://news.ycombinator.com/item?id=48694802",
-      "primary_url": "https://news.ycombinator.com/item?id=48694802",
-      "source": "news.ycombinator.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "37a3d2b33f0e017aa248cc14bdfea0772fb3c975",
-          "title": "Ask HN: MacBook 与 LLM 专用显卡的对比",
-          "url": "https://news.ycombinator.com/item?id=48694802",
-          "source": "news.ycombinator.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-27T03:23:57.492000Z"
-        },
-        {
-          "id": "cfdb7b2578397d43dc87b361a0f5617a2263cdf1",
-          "title": "Ask HN: MacBook 与 LLM 专用显卡的对比 / Ask HN: MacBook vs. Dedicated GPU for LLM",
-          "url": "https://news.ycombinator.com/item?id=48694802",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-06-27T03:17:43Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "news.ycombinator.com"
-      ],
-      "items": [
-        {
-          "id": "37a3d2b33f0e017aa248cc14bdfea0772fb3c975",
-          "title": "Ask HN: MacBook 与 LLM 专用显卡的对比",
-          "url": "https://news.ycombinator.com/item?id=48694802",
-          "source": "news.ycombinator.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-27T03:23:57.492000Z"
-        },
-        {
-          "id": "cfdb7b2578397d43dc87b361a0f5617a2263cdf1",
-          "title": "Ask HN: MacBook 与 LLM 专用显卡的对比 / Ask HN: MacBook vs. Dedicated GPU for LLM",
-          "url": "https://news.ycombinator.com/item?id=48694802",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-06-27T03:17:43Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4535,
-      "importance": 0.4535,
-      "importance_score": 0.4535,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.5274,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-06-27T03:17:43Z",
-      "latest_at": "2026-06-27T03:23:57.492000Z",
-      "primary_item": {
-        "id": "37a3d2b33f0e017aa248cc14bdfea0772fb3c975",
-        "title": "Ask HN: MacBook 与 LLM 专用显卡的对比",
-        "url": "https://news.ycombinator.com/item?id=48694802",
-        "source": "news.ycombinator.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_5a8665b1ad52",
-      "title": "美国允许Anthropic向“可信合作伙伴”发布Mythos",
-      "url": "https://www.reuters.com/technology/us-releases-anthropic-model-mythos-some-us-companies-semafor-reports-2026-06-26",
-      "primary_url": "https://www.reuters.com/technology/us-releases-anthropic-model-mythos-some-us-companies-semafor-reports-2026-06-26",
-      "source": "www.reuters.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "6a701187d56861ab5100c26279c3f03d91efb511",
-          "title": "美国允许Anthropic向“可信合作伙伴”发布Mythos",
-          "url": "https://www.reuters.com/technology/us-releases-anthropic-model-mythos-some-us-companies-semafor-reports-2026-06-26",
-          "source": "www.reuters.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-27T00:11:58.551000Z"
-        },
-        {
-          "id": "809c1c6fcf94a70f5cc968075e4f1d90474cab77",
-          "title": "美国允许Anthropic向部分美国公司发布Mythos",
-          "url": "https://www.reuters.com/technology/us-releases-anthropic-model-mythos-some-us-companies-semafor-reports-2026-06-26",
-          "source": "www.reuters.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-26T23:08:04.089000Z"
-        },
-        {
-          "id": "c28716b9f2da3d92791681425fbe5ce9f748b641",
-          "title": "美国允许Anthropic向部分美国公司发布Mythos / US allows Anthropic to release Mythos to 'trusted partners'",
-          "url": "https://www.reuters.com/technology/us-releases-anthropic-model-mythos-some-us-companies-semafor-reports-2026-06-26",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-06-26T22:48:28Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News",
-        "www.reuters.com"
-      ],
-      "items": [
-        {
-          "id": "6a701187d56861ab5100c26279c3f03d91efb511",
-          "title": "美国允许Anthropic向“可信合作伙伴”发布Mythos",
-          "url": "https://www.reuters.com/technology/us-releases-anthropic-model-mythos-some-us-companies-semafor-reports-2026-06-26",
-          "source": "www.reuters.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-27T00:11:58.551000Z"
-        },
-        {
-          "id": "809c1c6fcf94a70f5cc968075e4f1d90474cab77",
-          "title": "美国允许Anthropic向部分美国公司发布Mythos",
-          "url": "https://www.reuters.com/technology/us-releases-anthropic-model-mythos-some-us-companies-semafor-reports-2026-06-26",
-          "source": "www.reuters.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-26T23:08:04.089000Z"
-        },
-        {
-          "id": "c28716b9f2da3d92791681425fbe5ce9f748b641",
-          "title": "美国允许Anthropic向部分美国公司发布Mythos / US allows Anthropic to release Mythos to 'trusted partners'",
-          "url": "https://www.reuters.com/technology/us-releases-anthropic-model-mythos-some-us-companies-semafor-reports-2026-06-26",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-06-26T22:48:28Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.4518,
-      "importance": 0.4518,
-      "importance_score": 0.4518,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.3941,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-06-26T22:48:28Z",
-      "latest_at": "2026-06-27T00:11:58.551000Z",
-      "primary_item": {
-        "id": "6a701187d56861ab5100c26279c3f03d91efb511",
-        "title": "美国允许Anthropic向“可信合作伙伴”发布Mythos",
-        "url": "https://www.reuters.com/technology/us-releases-anthropic-model-mythos-some-us-companies-semafor-reports-2026-06-26",
-        "source": "www.reuters.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_c791ccfc6401",
-      "title": "NLNet Labs 大型语言模型政策",
-      "url": "https://nlnetlabs.nl/llm-policy",
-      "primary_url": "https://nlnetlabs.nl/llm-policy",
-      "source": "nlnetlabs.nl",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "4255a35b2c2b2cc7c616d9de474fcec61e585aa5",
-          "title": "NLNet Labs 大型语言模型政策",
-          "url": "https://nlnetlabs.nl/llm-policy",
-          "source": "nlnetlabs.nl",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-27T00:27:51.623000Z"
-        },
-        {
-          "id": "5b211aabb67b1169d98b2a26a634fd924972d84c",
-          "title": "NLNet Labs 大型语言模型政策 / NLNet Labs LLM Policy",
-          "url": "https://nlnetlabs.nl/llm-policy",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-06-27T00:08:45Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Lobsters (技术社区)",
-        "nlnetlabs.nl"
-      ],
-      "items": [
-        {
-          "id": "4255a35b2c2b2cc7c616d9de474fcec61e585aa5",
-          "title": "NLNet Labs 大型语言模型政策",
-          "url": "https://nlnetlabs.nl/llm-policy",
-          "source": "nlnetlabs.nl",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-27T00:27:51.623000Z"
-        },
-        {
-          "id": "5b211aabb67b1169d98b2a26a634fd924972d84c",
-          "title": "NLNet Labs 大型语言模型政策 / NLNet Labs LLM Policy",
-          "url": "https://nlnetlabs.nl/llm-policy",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-06-27T00:08:45Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.429,
-      "importance": 0.429,
-      "importance_score": 0.429,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.4051,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-06-27T00:08:45Z",
-      "latest_at": "2026-06-27T00:27:51.623000Z",
-      "primary_item": {
-        "id": "4255a35b2c2b2cc7c616d9de474fcec61e585aa5",
-        "title": "NLNet Labs 大型语言模型政策",
-        "url": "https://nlnetlabs.nl/llm-policy",
-        "source": "nlnetlabs.nl",
         "source_name": "Buzzing"
       }
     }
