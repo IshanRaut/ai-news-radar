@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-06-27T12:52:05.330891Z",
+  "generated_at": "2026-06-27T14:44:27.238795Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260627-2252-332a-9b6c-c63bf7d446cc&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260627-2252-332a-9b6c-c63bf7d446cc&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260628-0044-54db-ae59-f8493550b0fe&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260628-0044-54db-ae59-f8493550b0fe&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "4406e2abca441a1c987fef3622eec6afbd03b0fd",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260628-0044-54db-ae59-f8493550b0fe&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "e982e3f0014503f92c45ac9c0f94e9e4e2a6010a",
           "title": "点击这里进入 / Click here to enter",
@@ -96,15 +105,6 @@
           "id": "633f6fd71c63f63efd56d672d6f8f505ecf68466",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260627-0233-52f3-9217-f394fa013d3e&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "855abacbde54fb4f6785ac7bd6e09c8a74a43e0e",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260627-0029-47ef-a589-6038604b5470&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -117,6 +117,15 @@
       ],
       "items": [
         {
+          "id": "4406e2abca441a1c987fef3622eec6afbd03b0fd",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260628-0044-54db-ae59-f8493550b0fe&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "e982e3f0014503f92c45ac9c0f94e9e4e2a6010a",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260627-2252-332a-9b6c-c63bf7d446cc&fp=-3",
@@ -201,15 +210,6 @@
           "id": "633f6fd71c63f63efd56d672d6f8f505ecf68466",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260627-0233-52f3-9217-f394fa013d3e&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "855abacbde54fb4f6785ac7bd6e09c8a74a43e0e",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260627-0029-47ef-a589-6038604b5470&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -234,12 +234,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-06-26T14:29:18.126885Z",
-      "latest_at": "2026-06-27T12:52:05.330891Z",
+      "earliest_at": "2026-06-26T16:33:24.585028Z",
+      "latest_at": "2026-06-27T14:44:27.238795Z",
       "primary_item": {
-        "id": "e982e3f0014503f92c45ac9c0f94e9e4e2a6010a",
+        "id": "4406e2abca441a1c987fef3622eec6afbd03b0fd",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260627-2252-332a-9b6c-c63bf7d446cc&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260628-0044-54db-ae59-f8493550b0fe&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
       }
@@ -317,14 +317,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8237,
-      "importance": 0.8237,
-      "importance_score": 0.8237,
+      "score": 0.8081,
+      "importance": 0.8081,
+      "importance_score": 0.8081,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8084,
+        "recency": 0.7303,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -340,6 +340,66 @@
         "title": "AI 账单失控后 DeepSeek 成\"香饽饽\"，部分美国企业已 100% 切换",
         "url": "https://aihot.virxact.com/items/cmqw4pe3v007islohecqcejvi",
         "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_803668c7791b",
+      "title": "Runway API 推出广告本地化 Recipe",
+      "url": "https://aihot.virxact.com/items/cmqwe6jrq000isl6uw2i3e6zy",
+      "primary_url": "https://aihot.virxact.com/items/cmqwe6jrq000isl6uw2i3e6zy",
+      "source": "X：Runway (@runwayml)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "5cbe948822e0c30093f97e5d36ba484a9bbd3b19",
+          "title": "Runway API 推出广告本地化 Recipe",
+          "url": "https://aihot.virxact.com/items/cmqwe6jrq000isl6uw2i3e6zy",
+          "source": "X：Runway (@runwayml)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-27T13:02:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Runway (@runwayml)"
+      ],
+      "items": [
+        {
+          "id": "5cbe948822e0c30093f97e5d36ba484a9bbd3b19",
+          "title": "Runway API 推出广告本地化 Recipe",
+          "url": "https://aihot.virxact.com/items/cmqwe6jrq000isl6uw2i3e6zy",
+          "source": "X：Runway (@runwayml)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-27T13:02:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7978,
+      "importance": 0.7978,
+      "importance_score": 0.7978,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9289,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-27T13:02:00Z",
+      "latest_at": "2026-06-27T13:02:00Z",
+      "primary_item": {
+        "id": "5cbe948822e0c30093f97e5d36ba484a9bbd3b19",
+        "title": "Runway API 推出广告本地化 Recipe",
+        "url": "https://aihot.virxact.com/items/cmqwe6jrq000isl6uw2i3e6zy",
+        "source": "X：Runway (@runwayml)",
         "source_name": "AI HOT"
       }
     },
@@ -378,14 +438,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8083,
-      "importance": 0.8083,
-      "importance_score": 0.8083,
+      "score": 0.7927,
+      "importance": 0.7927,
+      "importance_score": 0.7927,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9814,
+        "recency": 0.9034,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -404,7 +464,7 @@
       }
     },
     {
-      "story_id": "story_8a4fe10cc807",
+      "story_id": "story_11c996ddf30f",
       "title": "阿里千问输入法上线 macOS 版：最快 300 字/分，AI 自动润色",
       "url": "https://aihot.virxact.com/items/cmqvtzehe0g65sl800jrc1x17",
       "primary_url": "https://aihot.virxact.com/items/cmqvtzehe0g65sl800jrc1x17",
@@ -457,21 +517,20 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7602,
-      "importance": 0.7602,
-      "importance_score": 0.7602,
+      "score": 0.7446,
+      "importance": 0.7446,
+      "importance_score": 0.7446,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.616,
+        "recency": 0.5379,
         "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-06-27T03:39:06Z",
       "latest_at": "2026-06-27T03:39:06Z",
@@ -484,63 +543,137 @@
       }
     },
     {
-      "story_id": "story_006c35e4141f",
-      "title": "在企业和组织报告中按采用阶段跟踪合并总数 / Track total merges by adoption phase in enterprise and organization reports",
-      "url": "https://github.blog/changelog/2026-06-26-track-total-merges-by-adoption-phase-in-enterprise-and-organization-reports",
-      "primary_url": "https://github.blog/changelog/2026-06-26-track-total-merges-by-adoption-phase-in-enterprise-and-organization-reports",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
+      "story_id": "story_42658ae9e5a8",
+      "title": "DSpark：推测性解码加速 LLM 推理 [pdf] / DSpark: Speculative decoding accelerates LLM inference [pdf]",
+      "url": "https://news.ycombinator.com/item?id=48696585",
+      "primary_url": "https://news.ycombinator.com/item?id=48696585",
+      "source": "hackernews",
+      "source_name": "NewsNow",
       "sources": [
         {
-          "id": "93767bf0d3b908546b5f1810d8baa64e3ed7d74c",
-          "title": "在企业和组织报告中按采用阶段跟踪合并总数 / Track total merges by adoption phase in enterprise and organization reports",
-          "url": "https://github.blog/changelog/2026-06-26-track-total-merges-by-adoption-phase-in-enterprise-and-organization-reports",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-06-26T20:55:03Z"
+          "id": "9c08323f2fcab504c57ecf9599b56e86b968e29d",
+          "title": "DSpark：推测性解码加速 LLM 推理 [pdf] / DSpark: Speculative decoding accelerates LLM inference [pdf]",
+          "url": "https://news.ycombinator.com/item?id=48696585",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-06-27T14:45:04.835000Z"
+        },
+        {
+          "id": "cf2a5476f20349e7fee6c5b6f9676a5b91fde490",
+          "title": "DeepSeek 开源推理优化，生成速度提高 60–85% [pdf] / DeepSeek open-sources inference optimizations with 60–85% faster generation [pdf]",
+          "url": "https://news.ycombinator.com/item?id=48696585",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-06-27T10:53:24.405000Z"
+        },
+        {
+          "id": "9fb1184850fee3daac49d53b98e20d76bc5f04a9",
+          "title": "DeepSeek 开源了推理优化方案，生成速度提升了 60% 至 85% [pdf]",
+          "url": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-27T10:19:53.844000Z"
+        },
+        {
+          "id": "6bec3c0adfd0daa4ecf03f6687b322ae4d4cc6df",
+          "title": "DeepSeek 开源了推理优化方案，生成速度提升了 60% 至 85% [pdf] / DSpark: Speculative decoding accelerates LLM inference [pdf]",
+          "url": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-06-27T09:18:52Z"
+        },
+        {
+          "id": "e98297a754737fb90175d27eef8575e462557009",
+          "title": "DeepSeek 开源了推理优化方案，生成速度提升了 60% 至 85% [pdf] / DeepSeek open-sources inference optimizations with 60–85% faster generation [pdf]",
+          "url": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-27T09:18:52Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 5,
       "source_names": [
-        "GitHub Changelog"
+        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
+        "github.com",
+        "hackernews"
       ],
       "items": [
         {
-          "id": "93767bf0d3b908546b5f1810d8baa64e3ed7d74c",
-          "title": "在企业和组织报告中按采用阶段跟踪合并总数 / Track total merges by adoption phase in enterprise and organization reports",
-          "url": "https://github.blog/changelog/2026-06-26-track-total-merges-by-adoption-phase-in-enterprise-and-organization-reports",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-06-26T20:55:03Z"
+          "id": "9c08323f2fcab504c57ecf9599b56e86b968e29d",
+          "title": "DSpark：推测性解码加速 LLM 推理 [pdf] / DSpark: Speculative decoding accelerates LLM inference [pdf]",
+          "url": "https://news.ycombinator.com/item?id=48696585",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-06-27T14:45:04.835000Z"
+        },
+        {
+          "id": "cf2a5476f20349e7fee6c5b6f9676a5b91fde490",
+          "title": "DeepSeek 开源推理优化，生成速度提高 60–85% [pdf] / DeepSeek open-sources inference optimizations with 60–85% faster generation [pdf]",
+          "url": "https://news.ycombinator.com/item?id=48696585",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-06-27T10:53:24.405000Z"
+        },
+        {
+          "id": "9fb1184850fee3daac49d53b98e20d76bc5f04a9",
+          "title": "DeepSeek 开源了推理优化方案，生成速度提升了 60% 至 85% [pdf]",
+          "url": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-27T10:19:53.844000Z"
+        },
+        {
+          "id": "6bec3c0adfd0daa4ecf03f6687b322ae4d4cc6df",
+          "title": "DeepSeek 开源了推理优化方案，生成速度提升了 60% 至 85% [pdf] / DSpark: Speculative decoding accelerates LLM inference [pdf]",
+          "url": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-06-27T09:18:52Z"
+        },
+        {
+          "id": "e98297a754737fb90175d27eef8575e462557009",
+          "title": "DeepSeek 开源了推理优化方案，生成速度提升了 60% 至 85% [pdf] / DeepSeek open-sources inference optimizations with 60–85% faster generation [pdf]",
+          "url": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-27T09:18:52Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7281,
-      "importance": 0.7281,
-      "importance_score": 0.7281,
-      "importance_label": "官方更新",
+      "item_count": 5,
+      "duplicate_count": 5,
+      "score": 0.623,
+      "importance": 0.623,
+      "importance_score": 0.623,
+      "importance_label": "多源热议",
       "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.3354,
-        "story_heat": 0.0
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 1.0
       },
-      "category": "official",
+      "category": "multi_source",
       "reasons": [
-        "official_source",
-        "high_ai_relevance"
+        "multi_source"
       ],
-      "earliest_at": "2026-06-26T20:55:03Z",
-      "latest_at": "2026-06-26T20:55:03Z",
+      "earliest_at": "2026-06-27T09:18:52Z",
+      "latest_at": "2026-06-27T14:45:04.835000Z",
       "primary_item": {
-        "id": "93767bf0d3b908546b5f1810d8baa64e3ed7d74c",
-        "title": "在企业和组织报告中按采用阶段跟踪合并总数 / Track total merges by adoption phase in enterprise and organization reports",
-        "url": "https://github.blog/changelog/2026-06-26-track-total-merges-by-adoption-phase-in-enterprise-and-organization-reports",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
+        "id": "9c08323f2fcab504c57ecf9599b56e86b968e29d",
+        "title": "DSpark：推测性解码加速 LLM 推理 [pdf] / DSpark: Speculative decoding accelerates LLM inference [pdf]",
+        "url": "https://news.ycombinator.com/item?id=48696585",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     },
     {
@@ -653,14 +786,14 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.573,
-      "importance": 0.573,
-      "importance_score": 0.573,
+      "score": 0.5574,
+      "importance": 0.5574,
+      "importance_score": 0.5574,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7498,
+        "recency": 0.6718,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -678,100 +811,159 @@
       }
     },
     {
-      "story_id": "story_42658ae9e5a8",
-      "title": "DeepSeek 开源推理优化，生成速度提高 60–85% [pdf] / DeepSeek open-sources inference optimizations with 60–85% faster generation [pdf]",
-      "url": "https://news.ycombinator.com/item?id=48696585",
-      "primary_url": "https://news.ycombinator.com/item?id=48696585",
-      "source": "hackernews",
-      "source_name": "NewsNow",
+      "story_id": "story_8da79cacec05",
+      "title": "上半年 AI 热钱涌动，国资基金抢滩人工智能",
+      "url": "https://www.huxiu.com/article/4870924.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4870924.html?f=rss",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
       "sources": [
         {
-          "id": "cf2a5476f20349e7fee6c5b6f9676a5b91fde490",
-          "title": "DeepSeek 开源推理优化，生成速度提高 60–85% [pdf] / DeepSeek open-sources inference optimizations with 60–85% faster generation [pdf]",
-          "url": "https://news.ycombinator.com/item?id=48696585",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-06-27T10:53:24.405000Z"
+          "id": "3baf68967756702c3479c9f934846f2fe7b520e4",
+          "title": "上半年 AI 热钱涌动，国资基金抢滩人工智能",
+          "url": "https://www.huxiu.com/article/4870924.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         },
         {
-          "id": "9fb1184850fee3daac49d53b98e20d76bc5f04a9",
-          "title": "DeepSeek 开源了推理优化方案，生成速度提升了 60% 至 85% [pdf]",
-          "url": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-27T10:19:53.844000Z"
-        },
-        {
-          "id": "e98297a754737fb90175d27eef8575e462557009",
-          "title": "DeepSeek 开源了推理优化方案，生成速度提升了 60% 至 85% [pdf] / DeepSeek open-sources inference optimizations with 60–85% faster generation [pdf]",
-          "url": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf",
-          "source": "Hacker News (黑客新闻)",
+          "id": "163a8b16d62dddd1d91d9cb66bbfcbd8c8f46693",
+          "title": "上半年AI热钱涌动，国资基金抢滩人工智能",
+          "url": "https://www.huxiu.com/article/4870924.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-06-27T09:18:52Z"
+          "published_at": "2026-06-27T12:59:27Z"
         }
       ],
-      "source_count": 3,
+      "source_count": 2,
       "source_names": [
-        "Hacker News (黑客新闻)",
-        "github.com",
-        "hackernews"
+        "Readhub · AI",
+        "虎嗅 (Huxiu)"
       ],
       "items": [
         {
-          "id": "cf2a5476f20349e7fee6c5b6f9676a5b91fde490",
-          "title": "DeepSeek 开源推理优化，生成速度提高 60–85% [pdf] / DeepSeek open-sources inference optimizations with 60–85% faster generation [pdf]",
-          "url": "https://news.ycombinator.com/item?id=48696585",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-06-27T10:53:24.405000Z"
+          "id": "3baf68967756702c3479c9f934846f2fe7b520e4",
+          "title": "上半年 AI 热钱涌动，国资基金抢滩人工智能",
+          "url": "https://www.huxiu.com/article/4870924.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         },
         {
-          "id": "9fb1184850fee3daac49d53b98e20d76bc5f04a9",
-          "title": "DeepSeek 开源了推理优化方案，生成速度提升了 60% 至 85% [pdf]",
-          "url": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-27T10:19:53.844000Z"
-        },
-        {
-          "id": "e98297a754737fb90175d27eef8575e462557009",
-          "title": "DeepSeek 开源了推理优化方案，生成速度提升了 60% 至 85% [pdf] / DeepSeek open-sources inference optimizations with 60–85% faster generation [pdf]",
-          "url": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf",
-          "source": "Hacker News (黑客新闻)",
+          "id": "163a8b16d62dddd1d91d9cb66bbfcbd8c8f46693",
+          "title": "上半年AI热钱涌动，国资基金抢滩人工智能",
+          "url": "https://www.huxiu.com/article/4870924.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-06-27T09:18:52Z"
+          "published_at": "2026-06-27T12:59:27Z"
         }
       ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5565,
-      "importance": 0.5565,
-      "importance_score": 0.5565,
-      "importance_label": "多源热议",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.548,
+      "importance": 0.548,
+      "importance_score": 0.548,
+      "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9176,
-        "story_heat": 0.5
+        "recency": 1.0,
+        "story_heat": 0.25
       },
-      "category": "multi_source",
+      "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-06-27T09:18:52Z",
-      "latest_at": "2026-06-27T10:53:24.405000Z",
+      "earliest_at": "2026-06-27T12:59:27Z",
+      "latest_at": "2026-06-27T14:44:27.238795Z",
       "primary_item": {
-        "id": "cf2a5476f20349e7fee6c5b6f9676a5b91fde490",
-        "title": "DeepSeek 开源推理优化，生成速度提高 60–85% [pdf] / DeepSeek open-sources inference optimizations with 60–85% faster generation [pdf]",
-        "url": "https://news.ycombinator.com/item?id=48696585",
-        "source": "hackernews",
-        "source_name": "NewsNow"
+        "id": "3baf68967756702c3479c9f934846f2fe7b520e4",
+        "title": "上半年 AI 热钱涌动，国资基金抢滩人工智能",
+        "url": "https://www.huxiu.com/article/4870924.html?f=rss",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_84e0d65e5b7f",
+      "title": "亚洲人工智能初创公司推出类似神话的模型 / Asian AI startups launch Mythos-like models",
+      "url": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on",
+      "primary_url": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "526e3927ab62f5ef9f85969d9f2422de36437190",
+          "title": "亚洲人工智能初创公司推出类似神话的模型 / Asian AI startups launch Mythos-like models",
+          "url": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-06-27T13:10:21Z"
+        },
+        {
+          "id": "006a45531c3bb609d42ec69fab3f40b69c45f411",
+          "title": "随着 Anthropic 出口禁令的拖延，亚洲人工智能初创公司推出类似 Mythos 的模型 / Asian AI startups launch Mythos-like  models as Anthropic’s export ban drags on",
+          "url": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on",
+          "source": "TechCrunch",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-06-27T12:00:00Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "TechCrunch"
+      ],
+      "items": [
+        {
+          "id": "526e3927ab62f5ef9f85969d9f2422de36437190",
+          "title": "亚洲人工智能初创公司推出类似神话的模型 / Asian AI startups launch Mythos-like models",
+          "url": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-06-27T13:10:21Z"
+        },
+        {
+          "id": "006a45531c3bb609d42ec69fab3f40b69c45f411",
+          "title": "随着 Anthropic 出口禁令的拖延，亚洲人工智能初创公司推出类似 Mythos 的模型 / Asian AI startups launch Mythos-like  models as Anthropic’s export ban drags on",
+          "url": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on",
+          "source": "TechCrunch",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-06-27T12:00:00Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5349,
+      "importance": 0.5349,
+      "importance_score": 0.5349,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9347,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-06-27T12:00:00Z",
+      "latest_at": "2026-06-27T13:10:21Z",
+      "primary_item": {
+        "id": "526e3927ab62f5ef9f85969d9f2422de36437190",
+        "title": "亚洲人工智能初创公司推出类似神话的模型 / Asian AI startups launch Mythos-like models",
+        "url": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
       }
     },
     {
@@ -828,14 +1020,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.548,
-      "importance": 0.548,
-      "importance_score": 0.548,
+      "score": 0.5324,
+      "importance": 0.5324,
+      "importance_score": 0.5324,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.922,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -849,84 +1041,6 @@
         "title": "Anil-抹茶 / 开放生成-AI / Anil-matcha / Open-Generative-AI",
         "url": "https://github.com/Anil-matcha/Open-Generative-AI",
         "source": "GitHub · Trending Today",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_da2ca93e797f",
-      "title": "DeepSeek 开始造富",
-      "url": "https://www.huxiu.com/article/4870918.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4870918.html?f=rss",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "f6d682d371b543296dd4ab8902db4f0c9dfa0a12",
-          "title": "DeepSeek 开始造富",
-          "url": "https://www.huxiu.com/article/4870918.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "d2e47da75d198ec6bd3885f844609d2692bd7480",
-          "title": "DeepSeek开始造富",
-          "url": "https://www.huxiu.com/article/4870918.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-06-27T12:14:04Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Readhub · AI",
-        "虎嗅 (Huxiu)"
-      ],
-      "items": [
-        {
-          "id": "f6d682d371b543296dd4ab8902db4f0c9dfa0a12",
-          "title": "DeepSeek 开始造富",
-          "url": "https://www.huxiu.com/article/4870918.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "d2e47da75d198ec6bd3885f844609d2692bd7480",
-          "title": "DeepSeek开始造富",
-          "url": "https://www.huxiu.com/article/4870918.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-06-27T12:14:04Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.548,
-      "importance": 0.548,
-      "importance_score": 0.548,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-06-27T12:14:04Z",
-      "latest_at": "2026-06-27T12:52:05.330891Z",
-      "primary_item": {
-        "id": "f6d682d371b543296dd4ab8902db4f0c9dfa0a12",
-        "title": "DeepSeek 开始造富",
-        "url": "https://www.huxiu.com/article/4870918.html?f=rss",
-        "source": "Readhub · AI",
         "source_name": "TopHub"
       }
     },
@@ -984,14 +1098,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5246,
-      "importance": 0.5246,
-      "importance_score": 0.5246,
+      "score": 0.509,
+      "importance": 0.509,
+      "importance_score": 0.509,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8832,
+        "recency": 0.8052,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1062,14 +1176,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5202,
-      "importance": 0.5202,
-      "importance_score": 0.5202,
+      "score": 0.5046,
+      "importance": 0.5046,
+      "importance_score": 0.5046,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.861,
+        "recency": 0.783,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1084,6 +1198,84 @@
         "url": "https://www.youtube.com/watch?v=OBUzl_IaWIw",
         "source": "www.youtube.com",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_da2ca93e797f",
+      "title": "DeepSeek 开始造富",
+      "url": "https://www.huxiu.com/article/4870918.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4870918.html?f=rss",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "f6d682d371b543296dd4ab8902db4f0c9dfa0a12",
+          "title": "DeepSeek 开始造富",
+          "url": "https://www.huxiu.com/article/4870918.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "d2e47da75d198ec6bd3885f844609d2692bd7480",
+          "title": "DeepSeek开始造富",
+          "url": "https://www.huxiu.com/article/4870918.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-27T12:14:04Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Readhub · AI",
+        "虎嗅 (Huxiu)"
+      ],
+      "items": [
+        {
+          "id": "f6d682d371b543296dd4ab8902db4f0c9dfa0a12",
+          "title": "DeepSeek 开始造富",
+          "url": "https://www.huxiu.com/article/4870918.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "d2e47da75d198ec6bd3885f844609d2692bd7480",
+          "title": "DeepSeek开始造富",
+          "url": "https://www.huxiu.com/article/4870918.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-06-27T12:14:04Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5324,
+      "importance": 0.5324,
+      "importance_score": 0.5324,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.922,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-06-27T12:14:04Z",
+      "latest_at": "2026-06-27T12:52:05.330891Z",
+      "primary_item": {
+        "id": "f6d682d371b543296dd4ab8902db4f0c9dfa0a12",
+        "title": "DeepSeek 开始造富",
+        "url": "https://www.huxiu.com/article/4870918.html?f=rss",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
       }
     },
     {
@@ -1140,14 +1332,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.548,
-      "importance": 0.548,
-      "importance_score": 0.548,
+      "score": 0.5324,
+      "importance": 0.5324,
+      "importance_score": 0.5324,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.922,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1161,84 +1353,6 @@
         "title": "Fission-AI / OpenSpec",
         "url": "https://github.com/Fission-AI/OpenSpec",
         "source": "GitHub · Trending Today",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_9d9e6dcf15a6",
-      "title": "人形机器人降至万元级，上半年具身智能融资超 460 亿元",
-      "url": "https://www.huxiu.com/article/4870890.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4870890.html?f=rss",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "4a68575e4d7ff5af1b6ab7613b3e9aeddde29637",
-          "title": "人形机器人降至万元级，上半年具身智能融资超 460 亿元",
-          "url": "https://www.huxiu.com/article/4870890.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "e2ee4058ee386ce6a101df8dcb2f92f2d9a28fa3",
-          "title": "人形机器人降至万元级，上半年具身智能融资超460亿元",
-          "url": "https://www.huxiu.com/article/4870890.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-06-27T09:31:07Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Readhub · AI",
-        "虎嗅 (Huxiu)"
-      ],
-      "items": [
-        {
-          "id": "4a68575e4d7ff5af1b6ab7613b3e9aeddde29637",
-          "title": "人形机器人降至万元级，上半年具身智能融资超 460 亿元",
-          "url": "https://www.huxiu.com/article/4870890.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "e2ee4058ee386ce6a101df8dcb2f92f2d9a28fa3",
-          "title": "人形机器人降至万元级，上半年具身智能融资超460亿元",
-          "url": "https://www.huxiu.com/article/4870890.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-06-27T09:31:07Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5342,
-      "importance": 0.5342,
-      "importance_score": 0.5342,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9308,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-06-27T09:31:07Z",
-      "latest_at": "2026-06-27T11:12:25.773372Z",
-      "primary_item": {
-        "id": "4a68575e4d7ff5af1b6ab7613b3e9aeddde29637",
-        "title": "人形机器人降至万元级，上半年具身智能融资超 460 亿元",
-        "url": "https://www.huxiu.com/article/4870890.html?f=rss",
-        "source": "Readhub · AI",
         "source_name": "TopHub"
       }
     },
@@ -1296,14 +1410,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4983,
-      "importance": 0.4983,
-      "importance_score": 0.4983,
+      "score": 0.4827,
+      "importance": 0.4827,
+      "importance_score": 0.4827,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7515,
+        "recency": 0.6734,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1321,79 +1435,79 @@
       }
     },
     {
-      "story_id": "story_56d1d6c35c6b",
-      "title": "具身世界模型「我悟」通过合规备案",
-      "url": "https://36kr.com/newsflashes/3871213411128577?f=rss",
-      "primary_url": "https://36kr.com/newsflashes/3871213411128577?f=rss",
+      "story_id": "story_9d9e6dcf15a6",
+      "title": "人形机器人降至万元级，上半年具身智能融资超 460 亿元",
+      "url": "https://www.huxiu.com/article/4870890.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4870890.html?f=rss",
       "source": "Readhub · AI",
       "source_name": "TopHub",
       "sources": [
         {
-          "id": "2cd6138aa8866a488910eae33bac3e286b5772df",
-          "title": "具身世界模型「我悟」通过合规备案",
-          "url": "https://36kr.com/newsflashes/3871213411128577?f=rss",
+          "id": "4a68575e4d7ff5af1b6ab7613b3e9aeddde29637",
+          "title": "人形机器人降至万元级，上半年具身智能融资超 460 亿元",
+          "url": "https://www.huxiu.com/article/4870890.html?f=rss",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
         },
         {
-          "id": "13334370ee6b7b88b02258b1d0e4c27c9cdee742",
-          "title": "具身世界模型“我悟”通过合规备案",
-          "url": "https://36kr.com/newsflashes/3871213411128577?f=rss",
-          "source": "36氪 (36Kr)",
+          "id": "e2ee4058ee386ce6a101df8dcb2f92f2d9a28fa3",
+          "title": "人形机器人降至万元级，上半年具身智能融资超460亿元",
+          "url": "https://www.huxiu.com/article/4870890.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-06-27T09:21:55Z"
+          "published_at": "2026-06-27T09:31:07Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "36氪 (36Kr)",
-        "Readhub · AI"
+        "Readhub · AI",
+        "虎嗅 (Huxiu)"
       ],
       "items": [
         {
-          "id": "2cd6138aa8866a488910eae33bac3e286b5772df",
-          "title": "具身世界模型「我悟」通过合规备案",
-          "url": "https://36kr.com/newsflashes/3871213411128577?f=rss",
+          "id": "4a68575e4d7ff5af1b6ab7613b3e9aeddde29637",
+          "title": "人形机器人降至万元级，上半年具身智能融资超 460 亿元",
+          "url": "https://www.huxiu.com/article/4870890.html?f=rss",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
         },
         {
-          "id": "13334370ee6b7b88b02258b1d0e4c27c9cdee742",
-          "title": "具身世界模型“我悟”通过合规备案",
-          "url": "https://36kr.com/newsflashes/3871213411128577?f=rss",
-          "source": "36氪 (36Kr)",
+          "id": "e2ee4058ee386ce6a101df8dcb2f92f2d9a28fa3",
+          "title": "人形机器人降至万元级，上半年具身智能融资超460亿元",
+          "url": "https://www.huxiu.com/article/4870890.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-06-27T09:21:55Z"
+          "published_at": "2026-06-27T09:31:07Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5342,
-      "importance": 0.5342,
-      "importance_score": 0.5342,
+      "score": 0.5186,
+      "importance": 0.5186,
+      "importance_score": 0.5186,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9308,
+        "recency": 0.8528,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-06-27T09:21:55Z",
+      "earliest_at": "2026-06-27T09:31:07Z",
       "latest_at": "2026-06-27T11:12:25.773372Z",
       "primary_item": {
-        "id": "2cd6138aa8866a488910eae33bac3e286b5772df",
-        "title": "具身世界模型「我悟」通过合规备案",
-        "url": "https://36kr.com/newsflashes/3871213411128577?f=rss",
+        "id": "4a68575e4d7ff5af1b6ab7613b3e9aeddde29637",
+        "title": "人形机器人降至万元级，上半年具身智能融资超 460 亿元",
+        "url": "https://www.huxiu.com/article/4870890.html?f=rss",
         "source": "Readhub · AI",
         "source_name": "TopHub"
       }
@@ -1471,14 +1585,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.4719,
-      "importance": 0.4719,
-      "importance_score": 0.4719,
+      "score": 0.4562,
+      "importance": 0.4562,
+      "importance_score": 0.4562,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.4943,
+        "recency": 0.4162,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1549,14 +1663,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4691,
-      "importance": 0.4691,
-      "importance_score": 0.4691,
+      "score": 0.4535,
+      "importance": 0.4535,
+      "importance_score": 0.4535,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6055,
+        "recency": 0.5274,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1645,14 +1759,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.4674,
-      "importance": 0.4674,
-      "importance_score": 0.4674,
+      "score": 0.4518,
+      "importance": 0.4518,
+      "importance_score": 0.4518,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.4721,
+        "recency": 0.3941,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1723,14 +1837,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4446,
-      "importance": 0.4446,
-      "importance_score": 0.4446,
+      "score": 0.429,
+      "importance": 0.429,
+      "importance_score": 0.429,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.4832,
+        "recency": 0.4051,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1745,84 +1859,6 @@
         "url": "https://nlnetlabs.nl/llm-policy",
         "source": "nlnetlabs.nl",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_285309cbf846",
-      "title": "梁文锋署名论文，DeepSeek 首轮融资后大动作：生成速度大涨 85%",
-      "url": "https://www.huxiu.com/article/4870885.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4870885.html?f=rss",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "d3ecec4e61a20f7745633edddbf4ac39a2eb80c1",
-          "title": "梁文锋署名论文，DeepSeek 首轮融资后大动作：生成速度大涨 85%",
-          "url": "https://www.huxiu.com/article/4870885.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "fd37c906594f975eb2219161c3496e78f5020a38",
-          "title": "梁文锋署名论文，DeepSeek首轮融资后大动作：生成速度大涨85%",
-          "url": "https://www.huxiu.com/article/4870885.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-06-27T08:59:55Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Readhub · AI",
-        "虎嗅 (Huxiu)"
-      ],
-      "items": [
-        {
-          "id": "d3ecec4e61a20f7745633edddbf4ac39a2eb80c1",
-          "title": "梁文锋署名论文，DeepSeek 首轮融资后大动作：生成速度大涨 85%",
-          "url": "https://www.huxiu.com/article/4870885.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "fd37c906594f975eb2219161c3496e78f5020a38",
-          "title": "梁文锋署名论文，DeepSeek首轮融资后大动作：生成速度大涨85%",
-          "url": "https://www.huxiu.com/article/4870885.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-06-27T08:59:55Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5342,
-      "importance": 0.5342,
-      "importance_score": 0.5342,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9308,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-06-27T08:59:55Z",
-      "latest_at": "2026-06-27T11:12:25.773372Z",
-      "primary_item": {
-        "id": "d3ecec4e61a20f7745633edddbf4ac39a2eb80c1",
-        "title": "梁文锋署名论文，DeepSeek 首轮融资后大动作：生成速度大涨 85%",
-        "url": "https://www.huxiu.com/article/4870885.html?f=rss",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
       }
     }
   ]
