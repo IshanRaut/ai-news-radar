@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-06-28T21:38:36.683267Z",
+  "generated_at": "2026-06-28T23:04:58.969498Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260629-0739-0209-91a2-c98c2c3e336a&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260629-0739-0209-91a2-c98c2c3e336a&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260629-0905-253a-bd2a-2ccae5c2d61d&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260629-0905-253a-bd2a-2ccae5c2d61d&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "dde4b3265129b41cabbd2045fb506145e0a150ac",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260629-0905-253a-bd2a-2ccae5c2d61d&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "c4a421bc3cb07607a7246a4c4fe89d0cd6cb5731",
           "title": "点击这里进入 / Click here to enter",
@@ -105,15 +114,6 @@
           "id": "0ba407f9966d4dac529d9eb2dd18f89e7b567454",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260628-0934-590c-8017-cbc0920f392c&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "6cf351faee131be13afc79bb86bfbc1e1f911588",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260628-0805-29f0-aadf-e676c685a187&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -126,6 +126,15 @@
       ],
       "items": [
         {
+          "id": "dde4b3265129b41cabbd2045fb506145e0a150ac",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260629-0905-253a-bd2a-2ccae5c2d61d&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "c4a421bc3cb07607a7246a4c4fe89d0cd6cb5731",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260629-0739-0209-91a2-c98c2c3e336a&fp=-3",
@@ -219,15 +228,6 @@
           "id": "0ba407f9966d4dac529d9eb2dd18f89e7b567454",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260628-0934-590c-8017-cbc0920f392c&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "6cf351faee131be13afc79bb86bfbc1e1f911588",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260628-0805-29f0-aadf-e676c685a187&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -252,12 +252,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-06-27T22:05:01.807713Z",
-      "latest_at": "2026-06-28T21:38:36.683267Z",
+      "earliest_at": "2026-06-27T23:34:32.571617Z",
+      "latest_at": "2026-06-28T23:04:58.969498Z",
       "primary_item": {
-        "id": "c4a421bc3cb07607a7246a4c4fe89d0cd6cb5731",
+        "id": "dde4b3265129b41cabbd2045fb506145e0a150ac",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260629-0739-0209-91a2-c98c2c3e336a&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260629-0905-253a-bd2a-2ccae5c2d61d&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
       }
@@ -297,14 +297,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7737,
-      "importance": 0.7737,
-      "importance_score": 0.7737,
+      "score": 0.7617,
+      "importance": 0.7617,
+      "importance_score": 0.7617,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8087,
+        "recency": 0.7487,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -357,14 +357,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7732,
-      "importance": 0.7732,
-      "importance_score": 0.7732,
+      "score": 0.7612,
+      "importance": 0.7612,
+      "importance_score": 0.7612,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8058,
+        "recency": 0.7458,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -379,65 +379,6 @@
         "title": "Wayfinder Router：在本地和托管的大语言模型之间进行确定性查询路由",
         "url": "https://aihot.virxact.com/items/cmqy1fj3003cislwfljtykjvx",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_c36e601e1443",
-      "title": "Grok 4.5 私测于 SpaceX 和 Tesla，性能接近 Opus",
-      "url": "https://aihot.virxact.com/items/cmqxo43c90009slwfmy4wm3z3",
-      "primary_url": "https://aihot.virxact.com/items/cmqxo43c90009slwfmy4wm3z3",
-      "source": "X：Elon Musk (@elonmusk, xAI)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "250e1d4a5349a5d6a316be89bbfc5c43e41f2e62",
-          "title": "Grok 4.5 私测于 SpaceX 和 Tesla，性能接近 Opus",
-          "url": "https://aihot.virxact.com/items/cmqxo43c90009slwfmy4wm3z3",
-          "source": "X：Elon Musk (@elonmusk, xAI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-28T10:50:05Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Elon Musk (@elonmusk, xAI)"
-      ],
-      "items": [
-        {
-          "id": "250e1d4a5349a5d6a316be89bbfc5c43e41f2e62",
-          "title": "Grok 4.5 私测于 SpaceX 和 Tesla，性能接近 Opus",
-          "url": "https://aihot.virxact.com/items/cmqxo43c90009slwfmy4wm3z3",
-          "source": "X：Elon Musk (@elonmusk, xAI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-28T10:50:05Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7219,
-      "importance": 0.7219,
-      "importance_score": 0.7219,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5496,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-28T10:50:05Z",
-      "latest_at": "2026-06-28T10:50:05Z",
-      "primary_item": {
-        "id": "250e1d4a5349a5d6a316be89bbfc5c43e41f2e62",
-        "title": "Grok 4.5 私测于 SpaceX 和 Tesla，性能接近 Opus",
-        "url": "https://aihot.virxact.com/items/cmqxo43c90009slwfmy4wm3z3",
-        "source": "X：Elon Musk (@elonmusk, xAI)",
         "source_name": "AI HOT"
       }
     },
@@ -551,14 +492,14 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.6219,
-      "importance": 0.6219,
-      "importance_score": 0.6219,
+      "score": 0.6099,
+      "importance": 0.6099,
+      "importance_score": 0.6099,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9946,
+        "recency": 0.9346,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -572,6 +513,103 @@
         "title": "在我们的基准测试中，GLM 5.2 表现优于 Claude",
         "url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks",
         "source": "semgrep.dev",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_acc0f3def671",
+      "title": "教授谴责布朗大学考试中发生的大规模AI作弊事件",
+      "url": "https://english.elpais.com/education/2026-06-28/ai-fraud-at-brown-university-academic-integrity-is-at-risk.html",
+      "primary_url": "https://english.elpais.com/education/2026-06-28/ai-fraud-at-brown-university-academic-integrity-is-at-risk.html",
+      "source": "english.elpais.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "856e729c926dd4817551c31ca1cdff62575b5c65",
+          "title": "教授谴责布朗大学考试中发生的大规模AI作弊事件",
+          "url": "https://english.elpais.com/education/2026-06-28/ai-fraud-at-brown-university-academic-integrity-is-at-risk.html",
+          "source": "english.elpais.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-28T22:50:52.752000Z"
+        },
+        {
+          "id": "eaa244fb73fda7e73e8404129f3938dc23a9c3d0",
+          "title": "布朗大学教授谴责大规模人工智能考试作弊 / Professor denounces mass AI fraud on an exam at Brown",
+          "url": "https://news.ycombinator.com/item?id=48708991",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-06-28T21:39:05.963000Z"
+        },
+        {
+          "id": "d7b4c20f3f10cd8bb951a6f223d010c060aaae7a",
+          "title": "教授谴责布朗大学考试中发生的大规模AI作弊事件 / Professor denounces mass AI fraud on an exam at Brown",
+          "url": "https://english.elpais.com/education/2026-06-28/ai-fraud-at-brown-university-academic-integrity-is-at-risk.html",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-06-28T16:41:12Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "english.elpais.com",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "856e729c926dd4817551c31ca1cdff62575b5c65",
+          "title": "教授谴责布朗大学考试中发生的大规模AI作弊事件",
+          "url": "https://english.elpais.com/education/2026-06-28/ai-fraud-at-brown-university-academic-integrity-is-at-risk.html",
+          "source": "english.elpais.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-28T22:50:52.752000Z"
+        },
+        {
+          "id": "eaa244fb73fda7e73e8404129f3938dc23a9c3d0",
+          "title": "布朗大学教授谴责大规模人工智能考试作弊 / Professor denounces mass AI fraud on an exam at Brown",
+          "url": "https://news.ycombinator.com/item?id=48708991",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-06-28T21:39:05.963000Z"
+        },
+        {
+          "id": "d7b4c20f3f10cd8bb951a6f223d010c060aaae7a",
+          "title": "教授谴责布朗大学考试中发生的大规模AI作弊事件 / Professor denounces mass AI fraud on an exam at Brown",
+          "url": "https://english.elpais.com/education/2026-06-28/ai-fraud-at-brown-university-academic-integrity-is-at-risk.html",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-06-28T16:41:12Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.571,
+      "importance": 0.571,
+      "importance_score": 0.571,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9902,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-06-28T16:41:12Z",
+      "latest_at": "2026-06-28T22:50:52.752000Z",
+      "primary_item": {
+        "id": "856e729c926dd4817551c31ca1cdff62575b5c65",
+        "title": "教授谴责布朗大学考试中发生的大规模AI作弊事件",
+        "url": "https://english.elpais.com/education/2026-06-28/ai-fraud-at-brown-university-academic-integrity-is-at-risk.html",
+        "source": "english.elpais.com",
         "source_name": "Buzzing"
       }
     },
@@ -648,14 +686,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5592,
-      "importance": 0.5592,
-      "importance_score": 0.5592,
+      "score": 0.5472,
+      "importance": 0.5472,
+      "importance_score": 0.5472,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9309,
+        "recency": 0.871,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -745,14 +783,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5475,
-      "importance": 0.5475,
-      "importance_score": 0.5475,
+      "score": 0.5355,
+      "importance": 0.5355,
+      "importance_score": 0.5355,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8726,
+        "recency": 0.8126,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -842,14 +880,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5364,
-      "importance": 0.5364,
-      "importance_score": 0.5364,
+      "score": 0.5244,
+      "importance": 0.5244,
+      "importance_score": 0.5244,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8168,
+        "recency": 0.7569,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -939,14 +977,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5342,
-      "importance": 0.5342,
-      "importance_score": 0.5342,
+      "score": 0.5222,
+      "importance": 0.5222,
+      "importance_score": 0.5222,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8058,
+        "recency": 0.7458,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1017,14 +1055,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.532,
-      "importance": 0.532,
-      "importance_score": 0.532,
+      "score": 0.52,
+      "importance": 0.52,
+      "importance_score": 0.52,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9198,
+        "recency": 0.8598,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1094,14 +1132,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5244,
-      "importance": 0.5244,
-      "importance_score": 0.5244,
+      "score": 0.5124,
+      "importance": 0.5124,
+      "importance_score": 0.5124,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8821,
+        "recency": 0.8222,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1171,14 +1209,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.548,
-      "importance": 0.548,
-      "importance_score": 0.548,
+      "score": 0.5361,
+      "importance": 0.5361,
+      "importance_score": 0.5361,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9404,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1249,14 +1287,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5136,
-      "importance": 0.5136,
-      "importance_score": 0.5136,
+      "score": 0.5016,
+      "importance": 0.5016,
+      "importance_score": 0.5016,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.828,
+        "recency": 0.768,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1327,14 +1365,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5114,
-      "importance": 0.5114,
-      "importance_score": 0.5114,
+      "score": 0.4995,
+      "importance": 0.4995,
+      "importance_score": 0.4995,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8172,
+        "recency": 0.7573,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1424,14 +1462,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5297,
-      "importance": 0.5297,
-      "importance_score": 0.5297,
+      "score": 0.5177,
+      "importance": 0.5177,
+      "importance_score": 0.5177,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7835,
+        "recency": 0.7236,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1466,18 +1504,18 @@
           "published_at": "2026-06-28T21:39:05.963000Z"
         },
         {
-          "id": "7ff90936302d133cf59a242452884af783dc9c1f",
+          "id": "8961e5546fc8cc7c0bc5a209bdd28fdbb6393ee8",
           "title": "LLM 能通过镜像测试吗？ / Do LLMs pass the mirror test?",
           "url": "https://blog.pascalschuster.de/article/do-llms-pass-the-mirror-test",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-06-28T19:06:07Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
         "hackernews"
       ],
       "items": [
@@ -1491,25 +1529,25 @@
           "published_at": "2026-06-28T21:39:05.963000Z"
         },
         {
-          "id": "7ff90936302d133cf59a242452884af783dc9c1f",
+          "id": "8961e5546fc8cc7c0bc5a209bdd28fdbb6393ee8",
           "title": "LLM 能通过镜像测试吗？ / Do LLMs pass the mirror test?",
           "url": "https://blog.pascalschuster.de/article/do-llms-pass-the-mirror-test",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-06-28T19:06:07Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.548,
-      "importance": 0.548,
-      "importance_score": 0.548,
+      "score": 0.5361,
+      "importance": 0.5361,
+      "importance_score": 0.5361,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9404,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1579,14 +1617,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4876,
-      "importance": 0.4876,
-      "importance_score": 0.4876,
+      "score": 0.4756,
+      "importance": 0.4756,
+      "importance_score": 0.4756,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6982,
+        "recency": 0.6382,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1657,14 +1695,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4869,
-      "importance": 0.4869,
-      "importance_score": 0.4869,
+      "score": 0.4749,
+      "importance": 0.4749,
+      "importance_score": 0.4749,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6946,
+        "recency": 0.6346,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1734,14 +1772,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.505,
-      "importance": 0.505,
-      "importance_score": 0.505,
+      "score": 0.493,
+      "importance": 0.493,
+      "importance_score": 0.493,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7849,
+        "recency": 0.7249,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1812,14 +1850,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4997,
-      "importance": 0.4997,
-      "importance_score": 0.4997,
+      "score": 0.4877,
+      "importance": 0.4877,
+      "importance_score": 0.4877,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7585,
+        "recency": 0.6986,
         "story_heat": 0.25
       },
       "category": "watch",
