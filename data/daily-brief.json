@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-06-28T10:40:25.004814Z",
+  "generated_at": "2026-06-28T12:17:22.866354Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260628-2040-51f6-9f88-98b05ff44eef&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260628-2040-51f6-9f88-98b05ff44eef&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260628-2217-502b-abc8-e99115338fdc&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260628-2217-502b-abc8-e99115338fdc&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "cbce3fa9e54d57ffcc1cea58fa56ebce11fe4500",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260628-2217-502b-abc8-e99115338fdc&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "43ba5f3909c1916530d0b13dd404ff1d26be9f01",
           "title": "点击这里进入 / Click here to enter",
@@ -105,15 +114,6 @@
           "id": "e982e3f0014503f92c45ac9c0f94e9e4e2a6010a",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260627-2252-332a-9b6c-c63bf7d446cc&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "1d1e00f53f128fe1863edcd9fcf00777f9ce88bb",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260627-2112-56e1-883d-63ec8dfe9251&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -126,6 +126,15 @@
       ],
       "items": [
         {
+          "id": "cbce3fa9e54d57ffcc1cea58fa56ebce11fe4500",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260628-2217-502b-abc8-e99115338fdc&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "43ba5f3909c1916530d0b13dd404ff1d26be9f01",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260628-2040-51f6-9f88-98b05ff44eef&fp=-3",
@@ -219,15 +228,6 @@
           "id": "e982e3f0014503f92c45ac9c0f94e9e4e2a6010a",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260627-2252-332a-9b6c-c63bf7d446cc&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "1d1e00f53f128fe1863edcd9fcf00777f9ce88bb",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260627-2112-56e1-883d-63ec8dfe9251&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -252,14 +252,134 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-06-27T11:12:25.773372Z",
-      "latest_at": "2026-06-28T10:40:25.004814Z",
+      "earliest_at": "2026-06-27T12:52:05.330891Z",
+      "latest_at": "2026-06-28T12:17:22.866354Z",
       "primary_item": {
-        "id": "43ba5f3909c1916530d0b13dd404ff1d26be9f01",
+        "id": "cbce3fa9e54d57ffcc1cea58fa56ebce11fe4500",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260628-2040-51f6-9f88-98b05ff44eef&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260628-2217-502b-abc8-e99115338fdc&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
+      }
+    },
+    {
+      "story_id": "story_c36e601e1443",
+      "title": "Grok 4.5 私测于 SpaceX 和 Tesla，性能接近 Opus",
+      "url": "https://aihot.virxact.com/items/cmqxo43c90009slwfmy4wm3z3",
+      "primary_url": "https://aihot.virxact.com/items/cmqxo43c90009slwfmy4wm3z3",
+      "source": "X：Elon Musk (@elonmusk, xAI)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "250e1d4a5349a5d6a316be89bbfc5c43e41f2e62",
+          "title": "Grok 4.5 私测于 SpaceX 和 Tesla，性能接近 Opus",
+          "url": "https://aihot.virxact.com/items/cmqxo43c90009slwfmy4wm3z3",
+          "source": "X：Elon Musk (@elonmusk, xAI)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-28T10:50:05Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Elon Musk (@elonmusk, xAI)"
+      ],
+      "items": [
+        {
+          "id": "250e1d4a5349a5d6a316be89bbfc5c43e41f2e62",
+          "title": "Grok 4.5 私测于 SpaceX 和 Tesla，性能接近 Opus",
+          "url": "https://aihot.virxact.com/items/cmqxo43c90009slwfmy4wm3z3",
+          "source": "X：Elon Musk (@elonmusk, xAI)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-28T10:50:05Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7999,
+      "importance": 0.7999,
+      "importance_score": 0.7999,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9394,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-28T10:50:05Z",
+      "latest_at": "2026-06-28T10:50:05Z",
+      "primary_item": {
+        "id": "250e1d4a5349a5d6a316be89bbfc5c43e41f2e62",
+        "title": "Grok 4.5 私测于 SpaceX 和 Tesla，性能接近 Opus",
+        "url": "https://aihot.virxact.com/items/cmqxo43c90009slwfmy4wm3z3",
+        "source": "X：Elon Musk (@elonmusk, xAI)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_ec922c144a2a",
+      "title": "仅有三个AI模型在500天创业测试中盈利超过起始资本",
+      "url": "https://aihot.virxact.com/items/cmqxnrjtc004ssljh9zvejgbo",
+      "primary_url": "https://aihot.virxact.com/items/cmqxnrjtc004ssljh9zvejgbo",
+      "source": "The Decoder：AI News（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "0d5eadb5cfaa6e000d572386aea769226f75caef",
+          "title": "仅有三个AI模型在500天创业测试中盈利超过起始资本",
+          "url": "https://aihot.virxact.com/items/cmqxnrjtc004ssljh9zvejgbo",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-28T10:16:13Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "The Decoder：AI News（RSS）"
+      ],
+      "items": [
+        {
+          "id": "0d5eadb5cfaa6e000d572386aea769226f75caef",
+          "title": "仅有三个AI模型在500天创业测试中盈利超过起始资本",
+          "url": "https://aihot.virxact.com/items/cmqxnrjtc004ssljh9zvejgbo",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-28T10:16:13Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7952,
+      "importance": 0.7952,
+      "importance_score": 0.7952,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9159,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-28T10:16:13Z",
+      "latest_at": "2026-06-28T10:16:13Z",
+      "primary_item": {
+        "id": "0d5eadb5cfaa6e000d572386aea769226f75caef",
+        "title": "仅有三个AI模型在500天创业测试中盈利超过起始资本",
+        "url": "https://aihot.virxact.com/items/cmqxnrjtc004ssljh9zvejgbo",
+        "source": "The Decoder：AI News（RSS）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -297,14 +417,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7876,
-      "importance": 0.7876,
-      "importance_score": 0.7876,
+      "score": 0.7741,
+      "importance": 0.7741,
+      "importance_score": 0.7741,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.878,
+        "recency": 0.8106,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -357,20 +477,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7557,
-      "importance": 0.7557,
-      "importance_score": 0.7557,
+      "score": 0.7423,
+      "importance": 0.7423,
+      "importance_score": 0.7423,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7187,
+        "recency": 0.6513,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-06-28T03:55:17Z",
       "latest_at": "2026-06-28T03:55:17Z",
@@ -417,14 +536,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.746,
-      "importance": 0.746,
-      "importance_score": 0.746,
+      "score": 0.7325,
+      "importance": 0.7325,
+      "importance_score": 0.7325,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.67,
+        "recency": 0.6027,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -551,14 +670,14 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.6012,
-      "importance": 0.6012,
-      "importance_score": 0.6012,
+      "score": 0.5878,
+      "importance": 0.5878,
+      "importance_score": 0.5878,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8911,
+        "recency": 0.8238,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -573,6 +692,84 @@
         "url": "https://news.ycombinator.com/item?id=48703452",
         "source": "hackernews",
         "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_2d1c4bbb7305",
+      "title": "我在谷歌工作一年赚了近100万美元后离职了。对裁员的担忧以及担心错过人工智能热潮，促使我做出了这个决定。",
+      "url": "https://www.businessinsider.com/google-employee-made-one-million-explains-why-left-big-tech2026-6",
+      "primary_url": "https://www.businessinsider.com/google-employee-made-one-million-explains-why-left-big-tech2026-6",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "d39af94e37461f11bb2515c4e62d3bce99dff17d",
+          "title": "我在谷歌工作一年赚了近100万美元后离职了。对裁员的担忧以及担心错过人工智能热潮，促使我做出了这个决定。",
+          "url": "https://www.businessinsider.com/google-employee-made-one-million-explains-why-left-big-tech2026-6",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-28T11:39:05.500000Z"
+        },
+        {
+          "id": "54b9121a1757e10a1a058dac0971a043a7a63d00",
+          "title": "我在谷歌工作一年赚了近100万美元后离职了。对裁员的担忧以及担心错过人工智能热潮，促使我做出了这个决定。 / I left Google after making nearly $1M in a year. Fears about layoffs and missing out on the AI boom gave me the push.",
+          "url": "https://www.businessinsider.com/google-employee-made-one-million-explains-why-left-big-tech2026-6",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-06-28T11:15:56Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "d39af94e37461f11bb2515c4e62d3bce99dff17d",
+          "title": "我在谷歌工作一年赚了近100万美元后离职了。对裁员的担忧以及担心错过人工智能热潮，促使我做出了这个决定。",
+          "url": "https://www.businessinsider.com/google-employee-made-one-million-explains-why-left-big-tech2026-6",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-28T11:39:05.500000Z"
+        },
+        {
+          "id": "54b9121a1757e10a1a058dac0971a043a7a63d00",
+          "title": "我在谷歌工作一年赚了近100万美元后离职了。对裁员的担忧以及担心错过人工智能热潮，促使我做出了这个决定。 / I left Google after making nearly $1M in a year. Fears about layoffs and missing out on the AI boom gave me the push.",
+          "url": "https://www.businessinsider.com/google-employee-made-one-million-explains-why-left-big-tech2026-6",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-06-28T11:15:56Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5427,
+      "importance": 0.5427,
+      "importance_score": 0.5427,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9734,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-06-28T11:15:56Z",
+      "latest_at": "2026-06-28T11:39:05.500000Z",
+      "primary_item": {
+        "id": "d39af94e37461f11bb2515c4e62d3bce99dff17d",
+        "title": "我在谷歌工作一年赚了近100万美元后离职了。对裁员的担忧以及担心错过人工智能热潮，促使我做出了这个决定。",
+        "url": "https://www.businessinsider.com/google-employee-made-one-million-explains-why-left-big-tech2026-6",
+        "source": "www.businessinsider.com",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -629,14 +826,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.548,
-      "importance": 0.548,
-      "importance_score": 0.548,
+      "score": 0.5345,
+      "importance": 0.5345,
+      "importance_score": 0.5345,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9327,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -726,14 +923,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5367,
-      "importance": 0.5367,
-      "importance_score": 0.5367,
+      "score": 0.5232,
+      "importance": 0.5232,
+      "importance_score": 0.5232,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8185,
+        "recency": 0.7512,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -804,14 +1001,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.548,
-      "importance": 0.548,
-      "importance_score": 0.548,
+      "score": 0.5345,
+      "importance": 0.5345,
+      "importance_score": 0.5345,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9327,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -826,6 +1023,84 @@
         "url": "https://www.huxiu.com/article/4871008.html?f=rss",
         "source": "Readhub · AI",
         "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_0abb98afea04",
+      "title": "我成功入职了一家科技巨头的人工智能岗位。将职业生涯视为一个科学实验室，这帮助我克服了对学习人工智能的恐惧。",
+      "url": "https://www.businessinsider.com/treating-career-science-lab-ladder-overcome-ai-job-fear-2026-6",
+      "primary_url": "https://www.businessinsider.com/treating-career-science-lab-ladder-overcome-ai-job-fear-2026-6",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "25c4194048e608f8543bef737df7b671ad7c7e80",
+          "title": "我成功入职了一家科技巨头的人工智能岗位。将职业生涯视为一个科学实验室，这帮助我克服了对学习人工智能的恐惧。",
+          "url": "https://www.businessinsider.com/treating-career-science-lab-ladder-overcome-ai-job-fear-2026-6",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-28T09:31:05.394000Z"
+        },
+        {
+          "id": "f31e3718d5c61afca07bbc1bb7b40065848c7a47",
+          "title": "我成功入职了一家科技巨头的人工智能岗位。将职业生涯视为一个科学实验室，这帮助我克服了对学习人工智能的恐惧。 / I landed a Big Tech AI job. Treating my career like a science lab helped me overcome my fear of learning AI.",
+          "url": "https://www.businessinsider.com/treating-career-science-lab-ladder-overcome-ai-job-fear-2026-6",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-06-28T09:23:01Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "25c4194048e608f8543bef737df7b671ad7c7e80",
+          "title": "我成功入职了一家科技巨头的人工智能岗位。将职业生涯视为一个科学实验室，这帮助我克服了对学习人工智能的恐惧。",
+          "url": "https://www.businessinsider.com/treating-career-science-lab-ladder-overcome-ai-job-fear-2026-6",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-06-28T09:31:05.394000Z"
+        },
+        {
+          "id": "f31e3718d5c61afca07bbc1bb7b40065848c7a47",
+          "title": "我成功入职了一家科技巨头的人工智能岗位。将职业生涯视为一个科学实验室，这帮助我克服了对学习人工智能的恐惧。 / I landed a Big Tech AI job. Treating my career like a science lab helped me overcome my fear of learning AI.",
+          "url": "https://www.businessinsider.com/treating-career-science-lab-ladder-overcome-ai-job-fear-2026-6",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-06-28T09:23:01Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5249,
+      "importance": 0.5249,
+      "importance_score": 0.5249,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8845,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-06-28T09:23:01Z",
+      "latest_at": "2026-06-28T09:31:05.394000Z",
+      "primary_item": {
+        "id": "25c4194048e608f8543bef737df7b671ad7c7e80",
+        "title": "我成功入职了一家科技巨头的人工智能岗位。将职业生涯视为一个科学实验室，这帮助我克服了对学习人工智能的恐惧。",
+        "url": "https://www.businessinsider.com/treating-career-science-lab-ladder-overcome-ai-job-fear-2026-6",
+        "source": "www.businessinsider.com",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -882,14 +1157,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5262,
-      "importance": 0.5262,
-      "importance_score": 0.5262,
+      "score": 0.5128,
+      "importance": 0.5128,
+      "importance_score": 0.5128,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8911,
+        "recency": 0.8238,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -959,14 +1234,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4904,
-      "importance": 0.4904,
-      "importance_score": 0.4904,
+      "score": 0.4769,
+      "importance": 0.4769,
+      "importance_score": 0.4769,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7119,
+        "recency": 0.6446,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1037,14 +1312,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.548,
-      "importance": 0.548,
-      "importance_score": 0.548,
+      "score": 0.5345,
+      "importance": 0.5345,
+      "importance_score": 0.5345,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9327,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1079,6 +1354,15 @@
           "published_at": "2026-06-27T23:23:10.059000Z"
         },
         {
+          "id": "994bd7eb8abfa7af57b78f1f22a884ba805a401e",
+          "title": "亚洲人工智能初创公司推出类似神话的模型 / Asian AI startups launch Mythos-like models",
+          "url": "https://news.ycombinator.com/item?id=48697958",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-06-27T14:45:04.835000Z"
+        },
+        {
           "id": "f7378cf11663c2d8781d9aa1109001a0ba153fbd",
           "title": "亚洲人工智能初创企业推出类似Mythos的模型 / Asian AI startups launch Mythos-like models",
           "url": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on",
@@ -1086,21 +1370,12 @@
           "source_name": "TechURLs",
           "site_id": "techurls",
           "published_at": "2026-06-27T13:10:21Z"
-        },
-        {
-          "id": "006a45531c3bb609d42ec69fab3f40b69c45f411",
-          "title": "亚洲人工智能初创企业推出类似Mythos的模型 / Asian AI startups launch Mythos-like  models as Anthropic’s export ban drags on",
-          "url": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on",
-          "source": "TechCrunch",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-06-27T12:00:00Z"
         }
       ],
       "source_count": 3,
       "source_names": [
         "Hacker News",
-        "TechCrunch",
+        "hackernews",
         "techcrunch.com"
       ],
       "items": [
@@ -1114,6 +1389,15 @@
           "published_at": "2026-06-27T23:23:10.059000Z"
         },
         {
+          "id": "994bd7eb8abfa7af57b78f1f22a884ba805a401e",
+          "title": "亚洲人工智能初创公司推出类似神话的模型 / Asian AI startups launch Mythos-like models",
+          "url": "https://news.ycombinator.com/item?id=48697958",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-06-27T14:45:04.835000Z"
+        },
+        {
           "id": "f7378cf11663c2d8781d9aa1109001a0ba153fbd",
           "title": "亚洲人工智能初创企业推出类似Mythos的模型 / Asian AI startups launch Mythos-like models",
           "url": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on",
@@ -1121,34 +1405,25 @@
           "source_name": "TechURLs",
           "site_id": "techurls",
           "published_at": "2026-06-27T13:10:21Z"
-        },
-        {
-          "id": "006a45531c3bb609d42ec69fab3f40b69c45f411",
-          "title": "亚洲人工智能初创企业推出类似Mythos的模型 / Asian AI startups launch Mythos-like  models as Anthropic’s export ban drags on",
-          "url": "https://techcrunch.com/2026/06/27/asian-ai-startups-launch-mythos-like-models-as-anthropics-export-ban-drags-on",
-          "source": "TechCrunch",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-06-27T12:00:00Z"
         }
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.4789,
-      "importance": 0.4789,
-      "importance_score": 0.4789,
+      "score": 0.4655,
+      "importance": 0.4655,
+      "importance_score": 0.4655,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.5297,
+        "recency": 0.4624,
         "story_heat": 0.5
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-06-27T12:00:00Z",
+      "earliest_at": "2026-06-27T13:10:21Z",
       "latest_at": "2026-06-27T23:23:10.059000Z",
       "primary_item": {
         "id": "b26206afe1b583847b1ea18a5794848ac9e9ab8b",
@@ -1211,14 +1486,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4751,
-      "importance": 0.4751,
-      "importance_score": 0.4751,
+      "score": 0.4616,
+      "importance": 0.4616,
+      "importance_score": 0.4616,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6354,
+        "recency": 0.568,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1289,14 +1564,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.548,
-      "importance": 0.548,
-      "importance_score": 0.548,
+      "score": 0.5345,
+      "importance": 0.5345,
+      "importance_score": 0.5345,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9327,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1367,14 +1642,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4118,
-      "importance": 0.4118,
-      "importance_score": 0.4118,
+      "score": 0.3984,
+      "importance": 0.3984,
+      "importance_score": 0.3984,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.3191,
+        "recency": 0.2518,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1444,14 +1719,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4388,
-      "importance": 0.4388,
-      "importance_score": 0.4388,
+      "score": 0.4253,
+      "importance": 0.4253,
+      "importance_score": 0.4253,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.4539,
+        "recency": 0.3866,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1466,317 +1741,6 @@
         "url": "https://www.psychologytoday.com/au/blog/mood-by-microbe/202606/what-ozempic-does-to-the-gut-brain-axis",
         "source": "Hacker News · 24h最热",
         "source_name": "Zeli"
-      }
-    },
-    {
-      "story_id": "story_d09e82ac0371",
-      "title": "Nature: AI 医生 MIRA 首次「全流程上岗」",
-      "url": "https://www.huxiu.com/article/4870997.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4870997.html?f=rss",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "71ae3cee521b155c3d55df95c7fb5c9ca8a35ece",
-          "title": "Nature: AI 医生 MIRA 首次「全流程上岗」",
-          "url": "https://www.huxiu.com/article/4870997.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "d767eaf2ab241138c7277c6797637da7b521f79d",
-          "title": "Nature: AI医生MIRA首次“全流程上岗”",
-          "url": "https://www.huxiu.com/article/4870997.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-06-28T06:37:06Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Readhub · AI",
-        "虎嗅 (Huxiu)"
-      ],
-      "items": [
-        {
-          "id": "71ae3cee521b155c3d55df95c7fb5c9ca8a35ece",
-          "title": "Nature: AI 医生 MIRA 首次「全流程上岗」",
-          "url": "https://www.huxiu.com/article/4870997.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "d767eaf2ab241138c7277c6797637da7b521f79d",
-          "title": "Nature: AI医生MIRA首次“全流程上岗”",
-          "url": "https://www.huxiu.com/article/4870997.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-06-28T06:37:06Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5261,
-      "importance": 0.5261,
-      "importance_score": 0.5261,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8907,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-06-28T06:37:06Z",
-      "latest_at": "2026-06-28T08:03:01.518590Z",
-      "primary_item": {
-        "id": "71ae3cee521b155c3d55df95c7fb5c9ca8a35ece",
-        "title": "Nature: AI 医生 MIRA 首次「全流程上岗」",
-        "url": "https://www.huxiu.com/article/4870997.html?f=rss",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_0ef8d971e203",
-      "title": "GPT2-BASIC：基于BASIC语言的便携式机器智能",
-      "url": "https://github.com/tsotchke/gpt2-basic",
-      "primary_url": "https://github.com/tsotchke/gpt2-basic",
-      "source": "github.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "69bb89922907c4c98f1a90bd240ba766aa3597c7",
-          "title": "GPT2-BASIC：基于BASIC语言的便携式机器智能",
-          "url": "https://github.com/tsotchke/gpt2-basic",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-27T15:40:00.164000Z"
-        },
-        {
-          "id": "1f3cd163375630758cae5afa63cf4e14f136d4ec",
-          "title": "GPT2-BASIC：基于BASIC语言的便携式机器智能 / GPT2-BASIC: Portable Machine Intelligence in BASIC",
-          "url": "https://github.com/tsotchke/gpt2-basic",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-06-27T15:15:46Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Lobsters (技术社区)",
-        "github.com"
-      ],
-      "items": [
-        {
-          "id": "69bb89922907c4c98f1a90bd240ba766aa3597c7",
-          "title": "GPT2-BASIC：基于BASIC语言的便携式机器智能",
-          "url": "https://github.com/tsotchke/gpt2-basic",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-27T15:40:00.164000Z"
-        },
-        {
-          "id": "1f3cd163375630758cae5afa63cf4e14f136d4ec",
-          "title": "GPT2-BASIC：基于BASIC语言的便携式机器智能 / GPT2-BASIC: Portable Machine Intelligence in BASIC",
-          "url": "https://github.com/tsotchke/gpt2-basic",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-06-27T15:15:46Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.3896,
-      "importance": 0.3896,
-      "importance_score": 0.3896,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.208,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-06-27T15:15:46Z",
-      "latest_at": "2026-06-27T15:40:00.164000Z",
-      "primary_item": {
-        "id": "69bb89922907c4c98f1a90bd240ba766aa3597c7",
-        "title": "GPT2-BASIC：基于BASIC语言的便携式机器智能",
-        "url": "https://github.com/tsotchke/gpt2-basic",
-        "source": "github.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_e8bcf2c1d04c",
-      "title": "在人工智能时代，要做建设者或销售者，而不是衡量者",
-      "url": "https://www.businessinsider.com/ai-tech-jobs-builder-seller-not-measurer-cloudflare-2026-6",
-      "primary_url": "https://www.businessinsider.com/ai-tech-jobs-builder-seller-not-measurer-cloudflare-2026-6",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "18c574420f32f556ee7b2ec492319dc57e3ad7a2",
-          "title": "在人工智能时代，要做建设者或销售者，而不是衡量者",
-          "url": "https://www.businessinsider.com/ai-tech-jobs-builder-seller-not-measurer-cloudflare-2026-6",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-27T15:07:55.982000Z"
-        },
-        {
-          "id": "6b4574824a6a72d3af152b3f4e844a68a8c6af6a",
-          "title": "在人工智能时代，要做建设者或销售者，而不是衡量者 / In the AI era, be a builder or a seller, not a measurer",
-          "url": "https://www.businessinsider.com/ai-tech-jobs-builder-seller-not-measurer-cloudflare-2026-6",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-06-27T14:01:01Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "18c574420f32f556ee7b2ec492319dc57e3ad7a2",
-          "title": "在人工智能时代，要做建设者或销售者，而不是衡量者",
-          "url": "https://www.businessinsider.com/ai-tech-jobs-builder-seller-not-measurer-cloudflare-2026-6",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-06-27T15:07:55.982000Z"
-        },
-        {
-          "id": "6b4574824a6a72d3af152b3f4e844a68a8c6af6a",
-          "title": "在人工智能时代，要做建设者或销售者，而不是衡量者 / In the AI era, be a builder or a seller, not a measurer",
-          "url": "https://www.businessinsider.com/ai-tech-jobs-builder-seller-not-measurer-cloudflare-2026-6",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-06-27T14:01:01Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.3852,
-      "importance": 0.3852,
-      "importance_score": 0.3852,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.1858,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-06-27T14:01:01Z",
-      "latest_at": "2026-06-27T15:07:55.982000Z",
-      "primary_item": {
-        "id": "18c574420f32f556ee7b2ec492319dc57e3ad7a2",
-        "title": "在人工智能时代，要做建设者或销售者，而不是衡量者",
-        "url": "https://www.businessinsider.com/ai-tech-jobs-builder-seller-not-measurer-cloudflare-2026-6",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_6d131501ab11",
-      "title": "AI 学习 RFIC 设计的“黑暗艺术” / AI learns the “dark art” of RFIC design",
-      "url": "https://news.ycombinator.com/item?id=48660021",
-      "primary_url": "https://news.ycombinator.com/item?id=48660021",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "d7b963c6b8c3428fb2d463d91d6679992ba2ff87",
-          "title": "AI 学习 RFIC 设计的“黑暗艺术” / AI learns the “dark art” of RFIC design",
-          "url": "https://news.ycombinator.com/item?id=48660021",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-06-27T21:39:54.343000Z"
-        },
-        {
-          "id": "37daa431b76ee0255792b33b9cea8c900abecaac",
-          "title": "人工智能正在设计人类无法想象的无线电芯片 / AI Is Designing Radio Chips That Humans Couldn't Even Imagine",
-          "url": "https://news.ycombinator.com/item?id=48660021",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-06-27T19:09:28.335000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "d7b963c6b8c3428fb2d463d91d6679992ba2ff87",
-          "title": "AI 学习 RFIC 设计的“黑暗艺术” / AI learns the “dark art” of RFIC design",
-          "url": "https://news.ycombinator.com/item?id=48660021",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-06-27T21:39:54.343000Z"
-        },
-        {
-          "id": "37daa431b76ee0255792b33b9cea8c900abecaac",
-          "title": "人工智能正在设计人类无法想象的无线电芯片 / AI Is Designing Radio Chips That Humans Couldn't Even Imagine",
-          "url": "https://news.ycombinator.com/item?id=48660021",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-06-27T19:09:28.335000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4396,
-      "importance": 0.4396,
-      "importance_score": 0.4396,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.458,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-06-27T19:09:28.335000Z",
-      "latest_at": "2026-06-27T21:39:54.343000Z",
-      "primary_item": {
-        "id": "d7b963c6b8c3428fb2d463d91d6679992ba2ff87",
-        "title": "AI 学习 RFIC 设计的“黑暗艺术” / AI learns the “dark art” of RFIC design",
-        "url": "https://news.ycombinator.com/item?id=48660021",
-        "source": "hackernews",
-        "source_name": "NewsNow"
       }
     }
   ]
