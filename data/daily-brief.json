@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-06-30T06:14:46.295683Z",
+  "generated_at": "2026-06-30T10:07:11.621038Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260630-1615-1460-a617-aac1b53fd424&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260630-1615-1460-a617-aac1b53fd424&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260630-2007-3363-9ff9-d4a599c6fc79&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260630-2007-3363-9ff9-d4a599c6fc79&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "be51f5bce867fb6b05921ae9f42897d689a7fe0e",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260630-2007-3363-9ff9-d4a599c6fc79&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "5ee2166c39eb1f9c6a2f426ee3cfaa0fa2e05155",
           "title": "点击这里进入 / Click here to enter",
@@ -78,15 +87,6 @@
           "id": "17d17f3125a0351b86274566077d1b1fd4d4e672",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260629-2201-4115-bb92-1bfc5475cb35&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "98a56f7a08463a0e0e7614af8c635e339c10bbca",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260629-1651-59af-ad3f-0b1534816b82&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -99,6 +99,15 @@
       ],
       "items": [
         {
+          "id": "be51f5bce867fb6b05921ae9f42897d689a7fe0e",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260630-2007-3363-9ff9-d4a599c6fc79&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "5ee2166c39eb1f9c6a2f426ee3cfaa0fa2e05155",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260630-1615-1460-a617-aac1b53fd424&fp=-3",
@@ -165,15 +174,6 @@
           "id": "17d17f3125a0351b86274566077d1b1fd4d4e672",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260629-2201-4115-bb92-1bfc5475cb35&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "98a56f7a08463a0e0e7614af8c635e339c10bbca",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260629-1651-59af-ad3f-0b1534816b82&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -198,12 +198,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-06-29T06:51:29.971919Z",
-      "latest_at": "2026-06-30T06:14:46.295683Z",
+      "earliest_at": "2026-06-29T12:01:16.889007Z",
+      "latest_at": "2026-06-30T10:07:11.621038Z",
       "primary_item": {
-        "id": "5ee2166c39eb1f9c6a2f426ee3cfaa0fa2e05155",
+        "id": "be51f5bce867fb6b05921ae9f42897d689a7fe0e",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260630-1615-1460-a617-aac1b53fd424&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260630-2007-3363-9ff9-d4a599c6fc79&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
       }
@@ -243,14 +243,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8589,
-      "importance": 0.8589,
-      "importance_score": 0.8589,
+      "score": 0.8267,
+      "importance": 0.8267,
+      "importance_score": 0.8267,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9897,
+        "recency": 0.8283,
         "story_heat": 0.0
       },
       "category": "official",
@@ -270,81 +270,181 @@
       }
     },
     {
-      "story_id": "story_bd5eb4f456c8",
-      "title": "算力界的“巨无霸”来了：美团开源万亿参数模型 LongCat-2.0",
-      "url": "https://www.aibase.com/news/29267",
-      "primary_url": "https://www.aibase.com/news/29267",
+      "story_id": "story_ed4246327d3e",
+      "title": "偷梁换柱！黑客滥用OpenAI邀请功能精准钓鱼企业员工",
+      "url": "https://www.aibase.com/news/29271",
+      "primary_url": "https://www.aibase.com/news/29271",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "75c35982365717edb018d24f4c9dd77e5ba7282d",
-          "title": "算力界的“巨无霸”来了：美团开源万亿参数模型 LongCat-2.0",
-          "url": "https://www.aibase.com/news/29267",
+          "id": "2c1b54c68211e5dec948ea50c60ce9db4f0c4d1a",
+          "title": "偷梁换柱！黑客滥用OpenAI邀请功能精准钓鱼企业员工",
+          "url": "https://www.aibase.com/news/29271",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-06-30T06:14:46.295683Z"
-        },
-        {
-          "id": "511408447f7f2a63447b4bbb004d4203c51ea8d3",
-          "title": "算力界的「巨无霸」来了：美团开源万亿参数模型 LongCat-2.0",
-          "url": "https://www.aibase.com/zh/news/29267",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "published_at": "2026-06-30T10:07:11.621038Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "AIbase",
-        "Readhub · AI"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "75c35982365717edb018d24f4c9dd77e5ba7282d",
-          "title": "算力界的“巨无霸”来了：美团开源万亿参数模型 LongCat-2.0",
-          "url": "https://www.aibase.com/news/29267",
+          "id": "2c1b54c68211e5dec948ea50c60ce9db4f0c4d1a",
+          "title": "偷梁换柱！黑客滥用OpenAI邀请功能精准钓鱼企业员工",
+          "url": "https://www.aibase.com/news/29271",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-06-30T06:14:46.295683Z"
-        },
-        {
-          "id": "511408447f7f2a63447b4bbb004d4203c51ea8d3",
-          "title": "算力界的「巨无霸」来了：美团开源万亿参数模型 LongCat-2.0",
-          "url": "https://www.aibase.com/zh/news/29267",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "published_at": "2026-06-30T10:07:11.621038Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.837,
-      "importance": 0.837,
-      "importance_score": 0.837,
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
         "recency": 1.0,
-        "story_heat": 0.25
+        "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-06-30T06:14:46.295683Z",
-      "latest_at": "2026-06-30T06:14:46.295683Z",
+      "earliest_at": "2026-06-30T10:07:11.621038Z",
+      "latest_at": "2026-06-30T10:07:11.621038Z",
       "primary_item": {
-        "id": "75c35982365717edb018d24f4c9dd77e5ba7282d",
-        "title": "算力界的“巨无霸”来了：美团开源万亿参数模型 LongCat-2.0",
-        "url": "https://www.aibase.com/news/29267",
+        "id": "2c1b54c68211e5dec948ea50c60ce9db4f0c4d1a",
+        "title": "偷梁换柱！黑客滥用OpenAI邀请功能精准钓鱼企业员工",
+        "url": "https://www.aibase.com/news/29271",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_3fc7a3c57899",
+      "title": "黑石未来3~5年拟投300亿美元在日本建AI数据中心，联合成立AI XPV平台",
+      "url": "https://aihot.virxact.com/items/cmr0czddc00pyslole7byaugu",
+      "primary_url": "https://aihot.virxact.com/items/cmr0czddc00pyslole7byaugu",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "24c386907103941fb36b1b6ec41c630f73c33c24",
+          "title": "黑石未来3~5年拟投300亿美元在日本建AI数据中心，联合成立AI XPV平台",
+          "url": "https://aihot.virxact.com/items/cmr0czddc00pyslole7byaugu",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-30T07:56:46Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "24c386907103941fb36b1b6ec41c630f73c33c24",
+          "title": "黑石未来3~5年拟投300亿美元在日本建AI数据中心，联合成立AI XPV平台",
+          "url": "https://aihot.virxact.com/items/cmr0czddc00pyslole7byaugu",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-30T07:56:46Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7939,
+      "importance": 0.7939,
+      "importance_score": 0.7939,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9094,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-30T07:56:46Z",
+      "latest_at": "2026-06-30T07:56:46Z",
+      "primary_item": {
+        "id": "24c386907103941fb36b1b6ec41c630f73c33c24",
+        "title": "黑石未来3~5年拟投300亿美元在日本建AI数据中心，联合成立AI XPV平台",
+        "url": "https://aihot.virxact.com/items/cmr0czddc00pyslole7byaugu",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_7c79beeefd85",
+      "title": "华为openPangu2.0双版本亮相:加速Agent时代算力与生态双向突围",
+      "url": "https://www.aibase.com/news/29268",
+      "primary_url": "https://www.aibase.com/news/29268",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "2516d61fc6f2862d6faa0c0f483895667cac7f2c",
+          "title": "华为openPangu2.0双版本亮相:加速Agent时代算力与生态双向突围",
+          "url": "https://www.aibase.com/news/29268",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-06-30T10:07:11.621038Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "2516d61fc6f2862d6faa0c0f483895667cac7f2c",
+          "title": "华为openPangu2.0双版本亮相:加速Agent时代算力与生态双向突围",
+          "url": "https://www.aibase.com/news/29268",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-06-30T10:07:11.621038Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-30T10:07:11.621038Z",
+      "latest_at": "2026-06-30T10:07:11.621038Z",
+      "primary_item": {
+        "id": "2516d61fc6f2862d6faa0c0f483895667cac7f2c",
+        "title": "华为openPangu2.0双版本亮相:加速Agent时代算力与生态双向突围",
+        "url": "https://www.aibase.com/news/29268",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -384,14 +484,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8075,
-      "importance": 0.8075,
-      "importance_score": 0.8075,
+      "score": 0.7753,
+      "importance": 0.7753,
+      "importance_score": 0.7753,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9777,
+        "recency": 0.8163,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -407,86 +507,6 @@
         "url": "https://aihot.virxact.com/items/cmr08dev204qjslkit52gdrur",
         "source": "X：硅基流动 SiliconFlow (@SiliconFlowAI)",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_9b84b41f8bed",
-      "title": "菜鸟推出科技出海全链路物流方案，重点服务AI算力与机器人跨境需求",
-      "url": "https://www.aibase.com/news/29265",
-      "primary_url": "https://www.aibase.com/news/29265",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "855117a5ec09de3ec494643cf5185a1203bd812b",
-          "title": "菜鸟推出科技出海全链路物流方案，重点服务AI算力与机器人跨境需求",
-          "url": "https://www.aibase.com/news/29265",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-06-30T06:14:46.295683Z"
-        },
-        {
-          "id": "5f4c85b2ea314d28143b5cb632e28925ac59c129",
-          "title": "菜鸟推出科技出海全链路物流方案，重点服务 AI 算力与机器人跨境需求",
-          "url": "https://www.aibase.com/zh/news/29265",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "855117a5ec09de3ec494643cf5185a1203bd812b",
-          "title": "菜鸟推出科技出海全链路物流方案，重点服务AI算力与机器人跨境需求",
-          "url": "https://www.aibase.com/news/29265",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-06-30T06:14:46.295683Z"
-        },
-        {
-          "id": "5f4c85b2ea314d28143b5cb632e28925ac59c129",
-          "title": "菜鸟推出科技出海全链路物流方案，重点服务 AI 算力与机器人跨境需求",
-          "url": "https://www.aibase.com/zh/news/29265",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.837,
-      "importance": 0.837,
-      "importance_score": 0.837,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-06-30T06:14:46.295683Z",
-      "latest_at": "2026-06-30T06:14:46.295683Z",
-      "primary_item": {
-        "id": "855117a5ec09de3ec494643cf5185a1203bd812b",
-        "title": "菜鸟推出科技出海全链路物流方案，重点服务AI算力与机器人跨境需求",
-        "url": "https://www.aibase.com/news/29265",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     },
     {
@@ -524,14 +544,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7989,
-      "importance": 0.7989,
-      "importance_score": 0.7989,
+      "score": 0.7666,
+      "importance": 0.7666,
+      "importance_score": 0.7666,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9345,
+        "recency": 0.7731,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -584,14 +604,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7934,
-      "importance": 0.7934,
-      "importance_score": 0.7934,
+      "score": 0.7611,
+      "importance": 0.7611,
+      "importance_score": 0.7611,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9071,
+        "recency": 0.7457,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -644,14 +664,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7882,
-      "importance": 0.7882,
-      "importance_score": 0.7882,
+      "score": 0.7559,
+      "importance": 0.7559,
+      "importance_score": 0.7559,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.881,
+        "recency": 0.7196,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -667,6 +687,126 @@
         "url": "https://aihot.virxact.com/items/cmr03h5tq03jjslki3a281zet",
         "source": "X：小互 (@xiaohu)",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_49003d531983",
+      "title": "特斯拉Cybercab量产版在奥斯汀启动公开道路工程测试",
+      "url": "https://aihot.virxact.com/items/cmr0au6v3005gslol3ritaun0",
+      "primary_url": "https://aihot.virxact.com/items/cmr0au6v3005gslol3ritaun0",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "7da2f3be798e240c98f0ce8587cb69b58531083d",
+          "title": "特斯拉Cybercab量产版在奥斯汀启动公开道路工程测试",
+          "url": "https://aihot.virxact.com/items/cmr0au6v3005gslol3ritaun0",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-30T06:45:03Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "7da2f3be798e240c98f0ce8587cb69b58531083d",
+          "title": "特斯拉Cybercab量产版在奥斯汀启动公开道路工程测试",
+          "url": "https://aihot.virxact.com/items/cmr0au6v3005gslol3ritaun0",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-06-30T06:45:03Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7839,
+      "importance": 0.7839,
+      "importance_score": 0.7839,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8596,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-30T06:45:03Z",
+      "latest_at": "2026-06-30T06:45:03Z",
+      "primary_item": {
+        "id": "7da2f3be798e240c98f0ce8587cb69b58531083d",
+        "title": "特斯拉Cybercab量产版在奥斯汀启动公开道路工程测试",
+        "url": "https://aihot.virxact.com/items/cmr0au6v3005gslol3ritaun0",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_7eaad8c16868",
+      "title": "商业化路径初显：月之暗面黄震昕详解 Kimi 差异化战略",
+      "url": "https://www.aibase.com/news/29276",
+      "primary_url": "https://www.aibase.com/news/29276",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "375ce12a8fa35677cc0d45680b4935a2c10d72ab",
+          "title": "商业化路径初显：月之暗面黄震昕详解 Kimi 差异化战略",
+          "url": "https://www.aibase.com/news/29276",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-06-30T10:07:11.621038Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "375ce12a8fa35677cc0d45680b4935a2c10d72ab",
+          "title": "商业化路径初显：月之暗面黄震昕详解 Kimi 差异化战略",
+          "url": "https://www.aibase.com/news/29276",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-06-30T10:07:11.621038Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-30T10:07:11.621038Z",
+      "latest_at": "2026-06-30T10:07:11.621038Z",
+      "primary_item": {
+        "id": "375ce12a8fa35677cc0d45680b4935a2c10d72ab",
+        "title": "商业化路径初显：月之暗面黄震昕详解 Kimi 差异化战略",
+        "url": "https://www.aibase.com/news/29276",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -704,20 +844,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7763,
-      "importance": 0.7763,
-      "importance_score": 0.7763,
+      "score": 0.7441,
+      "importance": 0.7441,
+      "importance_score": 0.7441,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8217,
+        "recency": 0.6603,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-06-30T01:58:00Z",
       "latest_at": "2026-06-30T01:58:00Z",
@@ -764,20 +903,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7748,
-      "importance": 0.7748,
-      "importance_score": 0.7748,
+      "score": 0.7425,
+      "importance": 0.7425,
+      "importance_score": 0.7425,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.814,
+        "recency": 0.6526,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-06-30T01:47:00Z",
       "latest_at": "2026-06-30T01:47:00Z",
@@ -824,21 +962,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7728,
-      "importance": 0.7728,
-      "importance_score": 0.7728,
+      "score": 0.7406,
+      "importance": 0.7406,
+      "importance_score": 0.7406,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.4392,
+        "recency": 0.2778,
         "story_heat": 0.0
       },
       "category": "official",
       "reasons": [
         "official_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-06-29T16:47:16Z",
       "latest_at": "2026-06-29T16:47:16Z",
@@ -851,356 +988,21 @@
       }
     },
     {
-      "story_id": "story_b7abc0f829a9",
-      "title": "今天起，全美谷歌 Gemini 免费用户都可使用个性化 AI 生图功能",
-      "url": "https://www.aibase.com/news/29240",
-      "primary_url": "https://www.aibase.com/news/29240",
+      "story_id": "story_3fc589d804fb",
+      "title": "工业智造新突破：全球首个工业跨具身泛化大模型“智合”在沪发布",
+      "url": "https://www.aibase.com/news/29272",
+      "primary_url": "https://www.aibase.com/news/29272",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "77517201b056f92ebf014910ed17b392a7b0c9a7",
-          "title": "今天起，全美谷歌 Gemini 免费用户都可使用个性化 AI 生图功能",
-          "url": "https://www.aibase.com/news/29240",
+          "id": "60de1a406a8e570cb3f742cca7ecdfcd45b8777d",
+          "title": "工业智造新突破：全球首个工业跨具身泛化大模型“智合”在沪发布",
+          "url": "https://www.aibase.com/news/29272",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-06-30T01:30:43.041959Z"
-        },
-        {
-          "id": "fbaf956c0946494772b9078f6f47a3838dac68e9",
-          "title": "今天起，全美谷歌 Gemini 免费用户都可使用个性化 AI 生图功能",
-          "url": "https://www.aibase.com/zh/news/29240",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "191b1c116caef695d159d893b969b89049f3d202",
-          "title": "即日起，全美谷歌 Gemini 免费用户都可使用个性化 AI 生图功能",
-          "url": "https://www.ithome.com/0/970/251.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-06-29T23:35:52Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "AIbase",
-        "IT之家 (ITHome)",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "77517201b056f92ebf014910ed17b392a7b0c9a7",
-          "title": "今天起，全美谷歌 Gemini 免费用户都可使用个性化 AI 生图功能",
-          "url": "https://www.aibase.com/news/29240",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-06-30T01:30:43.041959Z"
-        },
-        {
-          "id": "fbaf956c0946494772b9078f6f47a3838dac68e9",
-          "title": "今天起，全美谷歌 Gemini 免费用户都可使用个性化 AI 生图功能",
-          "url": "https://www.aibase.com/zh/news/29240",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "191b1c116caef695d159d893b969b89049f3d202",
-          "title": "即日起，全美谷歌 Gemini 免费用户都可使用个性化 AI 生图功能",
-          "url": "https://www.ithome.com/0/970/251.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-06-29T23:35:52Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.8225,
-      "importance": 0.8225,
-      "importance_score": 0.8225,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8027,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-06-29T23:35:52Z",
-      "latest_at": "2026-06-30T01:30:43.041959Z",
-      "primary_item": {
-        "id": "77517201b056f92ebf014910ed17b392a7b0c9a7",
-        "title": "今天起，全美谷歌 Gemini 免费用户都可使用个性化 AI 生图功能",
-        "url": "https://www.aibase.com/news/29240",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_016fea7a781f",
-      "title": "为 Amazon Bedrock 和 Google Cloud 推出的 Claude apps gateway",
-      "url": "https://aihot.virxact.com/items/cmqzq4so7002zslki45ad5xtq",
-      "primary_url": "https://aihot.virxact.com/items/cmqzq4so7002zslki45ad5xtq",
-      "source": "Claude：Blog（网页）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "d6e9949635583ce62f711462f6e58b3b7ba80bc5",
-          "title": "为 Amazon Bedrock 和 Google Cloud 推出的 Claude apps gateway",
-          "url": "https://aihot.virxact.com/items/cmqzq4so7002zslki45ad5xtq",
-          "source": "Claude：Blog（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-29T21:22:33Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Claude：Blog（网页）"
-      ],
-      "items": [
-        {
-          "id": "d6e9949635583ce62f711462f6e58b3b7ba80bc5",
-          "title": "为 Amazon Bedrock 和 Google Cloud 推出的 Claude apps gateway",
-          "url": "https://aihot.virxact.com/items/cmqzq4so7002zslki45ad5xtq",
-          "source": "Claude：Blog（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-29T21:22:33Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7381,
-      "importance": 0.7381,
-      "importance_score": 0.7381,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6304,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-29T21:22:33Z",
-      "latest_at": "2026-06-29T21:22:33Z",
-      "primary_item": {
-        "id": "d6e9949635583ce62f711462f6e58b3b7ba80bc5",
-        "title": "为 Amazon Bedrock 和 Google Cloud 推出的 Claude apps gateway",
-        "url": "https://aihot.virxact.com/items/cmqzq4so7002zslki45ad5xtq",
-        "source": "Claude：Blog（网页）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_ad01905c73cb",
-      "title": "美团LongCat Owl Alpha：OpenRouter最流行模型，1.6万亿MoE，国产ASIC训练",
-      "url": "https://aihot.virxact.com/items/cmqzqabkh0069slkildw65dhy",
-      "primary_url": "https://aihot.virxact.com/items/cmqzqabkh0069slkildw65dhy",
-      "source": "X：Emad Mostaque (@EMostaque)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "21fec12a8ca51fdf375734b796c46fd7c2ec0637",
-          "title": "美团LongCat Owl Alpha：OpenRouter最流行模型，1.6万亿MoE，国产ASIC训练",
-          "url": "https://aihot.virxact.com/items/cmqzqabkh0069slkildw65dhy",
-          "source": "X：Emad Mostaque (@EMostaque)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-29T21:06:43Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Emad Mostaque (@EMostaque)"
-      ],
-      "items": [
-        {
-          "id": "21fec12a8ca51fdf375734b796c46fd7c2ec0637",
-          "title": "美团LongCat Owl Alpha：OpenRouter最流行模型，1.6万亿MoE，国产ASIC训练",
-          "url": "https://aihot.virxact.com/items/cmqzqabkh0069slkildw65dhy",
-          "source": "X：Emad Mostaque (@EMostaque)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-29T21:06:43Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7359,
-      "importance": 0.7359,
-      "importance_score": 0.7359,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6194,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-29T21:06:43Z",
-      "latest_at": "2026-06-29T21:06:43Z",
-      "primary_item": {
-        "id": "21fec12a8ca51fdf375734b796c46fd7c2ec0637",
-        "title": "美团LongCat Owl Alpha：OpenRouter最流行模型，1.6万亿MoE，国产ASIC训练",
-        "url": "https://aihot.virxact.com/items/cmqzqabkh0069slkildw65dhy",
-        "source": "X：Emad Mostaque (@EMostaque)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_c45adfe3885e",
-      "title": "Rubin Ultra取消，新版尺寸性能减半",
-      "url": "https://aihot.virxact.com/items/cmqzpe7kz003xslznxpw78tx5",
-      "primary_url": "https://aihot.virxact.com/items/cmqzpe7kz003xslznxpw78tx5",
-      "source": "X：SemiAnalysis (@SemiAnalysis_)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "cd61f746be4ad004e05721998eeb869ea27345e2",
-          "title": "Rubin Ultra取消，新版尺寸性能减半",
-          "url": "https://aihot.virxact.com/items/cmqzpe7kz003xslznxpw78tx5",
-          "source": "X：SemiAnalysis (@SemiAnalysis_)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-29T21:00:47Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：SemiAnalysis (@SemiAnalysis_)"
-      ],
-      "items": [
-        {
-          "id": "cd61f746be4ad004e05721998eeb869ea27345e2",
-          "title": "Rubin Ultra取消，新版尺寸性能减半",
-          "url": "https://aihot.virxact.com/items/cmqzpe7kz003xslznxpw78tx5",
-          "source": "X：SemiAnalysis (@SemiAnalysis_)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-29T21:00:47Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7351,
-      "importance": 0.7351,
-      "importance_score": 0.7351,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6153,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-29T21:00:47Z",
-      "latest_at": "2026-06-29T21:00:47Z",
-      "primary_item": {
-        "id": "cd61f746be4ad004e05721998eeb869ea27345e2",
-        "title": "Rubin Ultra取消，新版尺寸性能减半",
-        "url": "https://aihot.virxact.com/items/cmqzpe7kz003xslznxpw78tx5",
-        "source": "X：SemiAnalysis (@SemiAnalysis_)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_83328dc63cac",
-      "title": "OpenClaw 发布原生 iOS 与 Android 应用",
-      "url": "https://aihot.virxact.com/items/cmqzo4q2o005oslkhjl7jdtoc",
-      "primary_url": "https://aihot.virxact.com/items/cmqzo4q2o005oslkhjl7jdtoc",
-      "source": "X：OpenClaw (@openclaw)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "f78f8a24da66b53b2dd37bad0fbf6332ce08675e",
-          "title": "OpenClaw 发布原生 iOS 与 Android 应用",
-          "url": "https://aihot.virxact.com/items/cmqzo4q2o005oslkhjl7jdtoc",
-          "source": "X：OpenClaw (@openclaw)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-29T20:11:33Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：OpenClaw (@openclaw)"
-      ],
-      "items": [
-        {
-          "id": "f78f8a24da66b53b2dd37bad0fbf6332ce08675e",
-          "title": "OpenClaw 发布原生 iOS 与 Android 应用",
-          "url": "https://aihot.virxact.com/items/cmqzo4q2o005oslkhjl7jdtoc",
-          "source": "X：OpenClaw (@openclaw)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-06-29T20:11:33Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7282,
-      "importance": 0.7282,
-      "importance_score": 0.7282,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5811,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-29T20:11:33Z",
-      "latest_at": "2026-06-29T20:11:33Z",
-      "primary_item": {
-        "id": "f78f8a24da66b53b2dd37bad0fbf6332ce08675e",
-        "title": "OpenClaw 发布原生 iOS 与 Android 应用",
-        "url": "https://aihot.virxact.com/items/cmqzo4q2o005oslkhjl7jdtoc",
-        "source": "X：OpenClaw (@openclaw)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_9e9d9601be4a",
-      "title": "AI 代理进化加速：Anthropic Claude 携手英伟达 GB300 落地 Azure",
-      "url": "https://www.aibase.com/news/29255",
-      "primary_url": "https://www.aibase.com/news/29255",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "1da7b60498c063673e487a6683e92d20f27bb44b",
-          "title": "AI 代理进化加速：Anthropic Claude 携手英伟达 GB300 落地 Azure",
-          "url": "https://www.aibase.com/news/29255",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-06-30T06:14:46.295683Z"
+          "published_at": "2026-06-30T10:07:11.621038Z"
         }
       ],
       "source_count": 1,
@@ -1209,13 +1011,13 @@
       ],
       "items": [
         {
-          "id": "1da7b60498c063673e487a6683e92d20f27bb44b",
-          "title": "AI 代理进化加速：Anthropic Claude 携手英伟达 GB300 落地 Azure",
-          "url": "https://www.aibase.com/news/29255",
+          "id": "60de1a406a8e570cb3f742cca7ecdfcd45b8777d",
+          "title": "工业智造新突破：全球首个工业跨具身泛化大模型“智合”在沪发布",
+          "url": "https://www.aibase.com/news/29272",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-06-30T06:14:46.295683Z"
+          "published_at": "2026-06-30T10:07:11.621038Z"
         }
       ],
       "item_count": 1,
@@ -1235,152 +1037,32 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-06-30T06:14:46.295683Z",
-      "latest_at": "2026-06-30T06:14:46.295683Z",
+      "earliest_at": "2026-06-30T10:07:11.621038Z",
+      "latest_at": "2026-06-30T10:07:11.621038Z",
       "primary_item": {
-        "id": "1da7b60498c063673e487a6683e92d20f27bb44b",
-        "title": "AI 代理进化加速：Anthropic Claude 携手英伟达 GB300 落地 Azure",
-        "url": "https://www.aibase.com/news/29255",
+        "id": "60de1a406a8e570cb3f742cca7ecdfcd45b8777d",
+        "title": "工业智造新突破：全球首个工业跨具身泛化大模型“智合”在沪发布",
+        "url": "https://www.aibase.com/news/29272",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_022b5040aeb6",
-      "title": "仅限协作者创建问题 / Restrict issue creation to collaborators only",
-      "url": "https://github.blog/changelog/2026-06-29-restrict-issue-creation-to-collaborators-only",
-      "primary_url": "https://github.blog/changelog/2026-06-29-restrict-issue-creation-to-collaborators-only",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "6964bb97755e9216734e48a0fad3ffd1e88ffa7b",
-          "title": "仅限协作者创建问题 / Restrict issue creation to collaborators only",
-          "url": "https://github.blog/changelog/2026-06-29-restrict-issue-creation-to-collaborators-only",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-06-29T16:08:23Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "6964bb97755e9216734e48a0fad3ffd1e88ffa7b",
-          "title": "仅限协作者创建问题 / Restrict issue creation to collaborators only",
-          "url": "https://github.blog/changelog/2026-06-29-restrict-issue-creation-to-collaborators-only",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-06-29T16:08:23Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7434,
-      "importance": 0.7434,
-      "importance_score": 0.7434,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.4122,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-29T16:08:23Z",
-      "latest_at": "2026-06-29T16:08:23Z",
-      "primary_item": {
-        "id": "6964bb97755e9216734e48a0fad3ffd1e88ffa7b",
-        "title": "仅限协作者创建问题 / Restrict issue creation to collaborators only",
-        "url": "https://github.blog/changelog/2026-06-29-restrict-issue-creation-to-collaborators-only",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_f1de547afb62",
-      "title": "问AI专家：全栈到底是什么？ / Ask an AI expert: What exactly is the full stack?",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/full-stack-ai-explainer",
-      "primary_url": "https://blog.google/innovation-and-ai/technology/ai/full-stack-ai-explainer",
-      "source": "Google AI Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "6104a52f754d1628b780723c885f853753cd4e9e",
-          "title": "问AI专家：全栈到底是什么？ / Ask an AI expert: What exactly is the full stack?",
-          "url": "https://blog.google/innovation-and-ai/technology/ai/full-stack-ai-explainer",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-06-29T16:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google AI Blog"
-      ],
-      "items": [
-        {
-          "id": "6104a52f754d1628b780723c885f853753cd4e9e",
-          "title": "问AI专家：全栈到底是什么？ / Ask an AI expert: What exactly is the full stack?",
-          "url": "https://blog.google/innovation-and-ai/technology/ai/full-stack-ai-explainer",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-06-29T16:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7423,
-      "importance": 0.7423,
-      "importance_score": 0.7423,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.4064,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-06-29T16:00:00Z",
-      "latest_at": "2026-06-29T16:00:00Z",
-      "primary_item": {
-        "id": "6104a52f754d1628b780723c885f853753cd4e9e",
-        "title": "问AI专家：全栈到底是什么？ / Ask an AI expert: What exactly is the full stack?",
-        "url": "https://blog.google/innovation-and-ai/technology/ai/full-stack-ai-explainer",
-        "source": "Google AI Blog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_557d0e475992",
-      "title": "AI撞墙期？美名校毕业生投 8000 份简历空手而归",
-      "url": "https://www.aibase.com/news/29260",
-      "primary_url": "https://www.aibase.com/news/29260",
+      "story_id": "story_522d50461dd0",
+      "title": "平安银行联合腾讯云与中国银联推出“AI智算卡”，下月将推AI主题信用卡",
+      "url": "https://www.aibase.com/news/29273",
+      "primary_url": "https://www.aibase.com/news/29273",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "9755e6518f57f0beda2faf4b3e8add03faa5ce06",
-          "title": "AI撞墙期？美名校毕业生投 8000 份简历空手而归",
-          "url": "https://www.aibase.com/news/29260",
+          "id": "b84c701ab0d2b6aec08394580d4c43f893baaac9",
+          "title": "平安银行联合腾讯云与中国银联推出“AI智算卡”，下月将推AI主题信用卡",
+          "url": "https://www.aibase.com/news/29273",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-06-30T06:14:46.295683Z"
+          "published_at": "2026-06-30T10:07:11.621038Z"
         }
       ],
       "source_count": 1,
@@ -1389,13 +1071,13 @@
       ],
       "items": [
         {
-          "id": "9755e6518f57f0beda2faf4b3e8add03faa5ce06",
-          "title": "AI撞墙期？美名校毕业生投 8000 份简历空手而归",
-          "url": "https://www.aibase.com/news/29260",
+          "id": "b84c701ab0d2b6aec08394580d4c43f893baaac9",
+          "title": "平安银行联合腾讯云与中国银联推出“AI智算卡”，下月将推AI主题信用卡",
+          "url": "https://www.aibase.com/news/29273",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-06-30T06:14:46.295683Z"
+          "published_at": "2026-06-30T10:07:11.621038Z"
         }
       ],
       "item_count": 1,
@@ -1415,12 +1097,252 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-06-30T06:14:46.295683Z",
-      "latest_at": "2026-06-30T06:14:46.295683Z",
+      "earliest_at": "2026-06-30T10:07:11.621038Z",
+      "latest_at": "2026-06-30T10:07:11.621038Z",
       "primary_item": {
-        "id": "9755e6518f57f0beda2faf4b3e8add03faa5ce06",
-        "title": "AI撞墙期？美名校毕业生投 8000 份简历空手而归",
-        "url": "https://www.aibase.com/news/29260",
+        "id": "b84c701ab0d2b6aec08394580d4c43f893baaac9",
+        "title": "平安银行联合腾讯云与中国银联推出“AI智算卡”，下月将推AI主题信用卡",
+        "url": "https://www.aibase.com/news/29273",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_dca46b3f7e38",
+      "title": "打破低价神话？DeepSeek V4 下月上线将引入峰谷定价机制",
+      "url": "https://www.aibase.com/news/29275",
+      "primary_url": "https://www.aibase.com/news/29275",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "071b6730da5faa086481bbae84e3bdf84b4625cd",
+          "title": "打破低价神话？DeepSeek V4 下月上线将引入峰谷定价机制",
+          "url": "https://www.aibase.com/news/29275",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-06-30T10:07:11.621038Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "071b6730da5faa086481bbae84e3bdf84b4625cd",
+          "title": "打破低价神话？DeepSeek V4 下月上线将引入峰谷定价机制",
+          "url": "https://www.aibase.com/news/29275",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-06-30T10:07:11.621038Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-30T10:07:11.621038Z",
+      "latest_at": "2026-06-30T10:07:11.621038Z",
+      "primary_item": {
+        "id": "071b6730da5faa086481bbae84e3bdf84b4625cd",
+        "title": "打破低价神话？DeepSeek V4 下月上线将引入峰谷定价机制",
+        "url": "https://www.aibase.com/news/29275",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_e2deaca679f7",
+      "title": "穿越千年的“AI 导游”：全球首个多模态文旅大模型在西安开启规模化应用",
+      "url": "https://www.aibase.com/news/29270",
+      "primary_url": "https://www.aibase.com/news/29270",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "a3ad640c0bc34ac3dc5fa479a8042aae9725cb95",
+          "title": "穿越千年的“AI 导游”：全球首个多模态文旅大模型在西安开启规模化应用",
+          "url": "https://www.aibase.com/news/29270",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-06-30T10:07:11.621038Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "a3ad640c0bc34ac3dc5fa479a8042aae9725cb95",
+          "title": "穿越千年的“AI 导游”：全球首个多模态文旅大模型在西安开启规模化应用",
+          "url": "https://www.aibase.com/news/29270",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-06-30T10:07:11.621038Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-30T10:07:11.621038Z",
+      "latest_at": "2026-06-30T10:07:11.621038Z",
+      "primary_item": {
+        "id": "a3ad640c0bc34ac3dc5fa479a8042aae9725cb95",
+        "title": "穿越千年的“AI 导游”：全球首个多模态文旅大模型在西安开启规模化应用",
+        "url": "https://www.aibase.com/news/29270",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_3e4925d75eb2",
+      "title": "算力短缺瓶颈显现:谷歌限制Meta访问Gemini AI模型",
+      "url": "https://www.aibase.com/news/29269",
+      "primary_url": "https://www.aibase.com/news/29269",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "90a9e645e811a46f370f8f9861e8277cd008a395",
+          "title": "算力短缺瓶颈显现:谷歌限制Meta访问Gemini AI模型",
+          "url": "https://www.aibase.com/news/29269",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-06-30T10:07:11.621038Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "90a9e645e811a46f370f8f9861e8277cd008a395",
+          "title": "算力短缺瓶颈显现:谷歌限制Meta访问Gemini AI模型",
+          "url": "https://www.aibase.com/news/29269",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-06-30T10:07:11.621038Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-30T10:07:11.621038Z",
+      "latest_at": "2026-06-30T10:07:11.621038Z",
+      "primary_item": {
+        "id": "90a9e645e811a46f370f8f9861e8277cd008a395",
+        "title": "算力短缺瓶颈显现:谷歌限制Meta访问Gemini AI模型",
+        "url": "https://www.aibase.com/news/29269",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_bedec3827b0a",
+      "title": "联想 ThinkPad P1 AI 2026 正式发布：重塑超便携高性能移动工作站标杆",
+      "url": "https://www.aibase.com/news/29277",
+      "primary_url": "https://www.aibase.com/news/29277",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "6ce7c0f4cd7f3c03e0a901d0a0ca5bf80bcc1ce1",
+          "title": "联想 ThinkPad P1 AI 2026 正式发布：重塑超便携高性能移动工作站标杆",
+          "url": "https://www.aibase.com/news/29277",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-06-30T10:07:11.621038Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "6ce7c0f4cd7f3c03e0a901d0a0ca5bf80bcc1ce1",
+          "title": "联想 ThinkPad P1 AI 2026 正式发布：重塑超便携高性能移动工作站标杆",
+          "url": "https://www.aibase.com/news/29277",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-06-30T10:07:11.621038Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-06-30T10:07:11.621038Z",
+      "latest_at": "2026-06-30T10:07:11.621038Z",
+      "primary_item": {
+        "id": "6ce7c0f4cd7f3c03e0a901d0a0ca5bf80bcc1ce1",
+        "title": "联想 ThinkPad P1 AI 2026 正式发布：重塑超便携高性能移动工作站标杆",
+        "url": "https://www.aibase.com/news/29277",
         "source": "AIbase",
         "source_name": "AIbase"
       }
