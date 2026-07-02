@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-07-02T22:09:21.245614Z",
+  "generated_at": "2026-07-02T23:38:10.252486Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260703-0643-252e-9c6e-2aa403be7c8a&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260703-0643-252e-9c6e-2aa403be7c8a&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260703-0938-3630-89c8-086842dae593&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260703-0938-3630-89c8-086842dae593&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "4f301666a708206b3bddec86a0041df99aa696b3",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260703-0938-3630-89c8-086842dae593&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "19942f23d00664e6d88420390595bd125bfb8c14",
           "title": "点击这里进入 / Click here to enter",
@@ -87,15 +96,6 @@
           "id": "1d27d33e6b08107ad221c1f6f236f17ecedc51dd",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260702-1012-3167-9632-2d88956c6986&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "1bfd1518d3565377d08a567576f352381e4f8931",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260702-0850-0596-ad91-d1353a80d534&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -108,6 +108,15 @@
       ],
       "items": [
         {
+          "id": "4f301666a708206b3bddec86a0041df99aa696b3",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260703-0938-3630-89c8-086842dae593&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "19942f23d00664e6d88420390595bd125bfb8c14",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260703-0643-252e-9c6e-2aa403be7c8a&fp=-3",
@@ -187,27 +196,18 @@
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
           "published_at": null
-        },
-        {
-          "id": "1bfd1518d3565377d08a567576f352381e4f8931",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260702-0850-0596-ad91-d1353a80d534&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
         }
       ],
       "item_count": 10,
       "duplicate_count": 10,
-      "score": 0.9,
-      "importance": 0.9,
-      "importance_score": 0.9,
+      "score": 0.912,
+      "importance": 0.912,
+      "importance_score": 0.912,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9401,
+        "recency": 1.0,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -216,12 +216,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-01T22:47:47.321398Z",
-      "latest_at": "2026-07-02T20:43:04.527365Z",
+      "earliest_at": "2026-07-02T00:10:12.433086Z",
+      "latest_at": "2026-07-02T23:38:10.252486Z",
       "primary_item": {
-        "id": "19942f23d00664e6d88420390595bd125bfb8c14",
+        "id": "4f301666a708206b3bddec86a0041df99aa696b3",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260703-0643-252e-9c6e-2aa403be7c8a&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260703-0938-3630-89c8-086842dae593&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
       }
@@ -261,14 +261,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8586,
-      "importance": 0.8586,
-      "importance_score": 0.8586,
+      "score": 0.8462,
+      "importance": 0.8462,
+      "importance_score": 0.8462,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9279,
+        "recency": 0.8662,
         "story_heat": 0.0
       },
       "category": "official",
@@ -322,14 +322,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8391,
-      "importance": 0.8391,
-      "importance_score": 0.8391,
+      "score": 0.8267,
+      "importance": 0.8267,
+      "importance_score": 0.8267,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8304,
+        "recency": 0.7687,
         "story_heat": 0.0
       },
       "category": "official",
@@ -383,14 +383,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8012,
-      "importance": 0.8012,
-      "importance_score": 0.8012,
+      "score": 0.7889,
+      "importance": 0.7889,
+      "importance_score": 0.7889,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.946,
+        "recency": 0.8844,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -443,14 +443,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7974,
-      "importance": 0.7974,
-      "importance_score": 0.7974,
+      "score": 0.7851,
+      "importance": 0.7851,
+      "importance_score": 0.7851,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9269,
+        "recency": 0.8653,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -503,14 +503,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7883,
-      "importance": 0.7883,
-      "importance_score": 0.7883,
+      "score": 0.7759,
+      "importance": 0.7759,
+      "importance_score": 0.7759,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8813,
+        "recency": 0.8197,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -563,14 +563,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7826,
-      "importance": 0.7826,
-      "importance_score": 0.7826,
+      "score": 0.7703,
+      "importance": 0.7703,
+      "importance_score": 0.7703,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8532,
+        "recency": 0.7915,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -623,14 +623,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7778,
-      "importance": 0.7778,
-      "importance_score": 0.7778,
+      "score": 0.7655,
+      "importance": 0.7655,
+      "importance_score": 0.7655,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8292,
+        "recency": 0.7675,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -683,14 +683,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7755,
-      "importance": 0.7755,
-      "importance_score": 0.7755,
+      "score": 0.7632,
+      "importance": 0.7632,
+      "importance_score": 0.7632,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8175,
+        "recency": 0.7558,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -743,14 +743,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7641,
-      "importance": 0.7641,
-      "importance_score": 0.7641,
+      "score": 0.7518,
+      "importance": 0.7518,
+      "importance_score": 0.7518,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7607,
+        "recency": 0.6991,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -803,20 +803,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7575,
-      "importance": 0.7575,
-      "importance_score": 0.7575,
+      "score": 0.7451,
+      "importance": 0.7451,
+      "importance_score": 0.7451,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7273,
+        "recency": 0.6656,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-02T15:36:38Z",
       "latest_at": "2026-07-02T15:36:38Z",
@@ -863,14 +862,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8098,
-      "importance": 0.8098,
-      "importance_score": 0.8098,
+      "score": 0.7975,
+      "importance": 0.7975,
+      "importance_score": 0.7975,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7441,
+        "recency": 0.6824,
         "story_heat": 0.0
       },
       "category": "official",
@@ -887,124 +886,6 @@
         "url": "https://github.blog/changelog/2026-07-02-cost-centers-now-support-included-usage-caps",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_12dca60d063e",
-      "title": "browser-use 发布开源 AI 视频剪辑 Skill「video-use」",
-      "url": "https://aihot.virxact.com/items/cmr3fluhr00i3sllxli2a5uko",
-      "primary_url": "https://aihot.virxact.com/items/cmr3fluhr00i3sllxli2a5uko",
-      "source": "X：邵猛 (@shao__meng)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "7bcaf32a7bf405dd9fb3590ecc45235859906841",
-          "title": "browser-use 发布开源 AI 视频剪辑 Skill「video-use」",
-          "url": "https://aihot.virxact.com/items/cmr3fluhr00i3sllxli2a5uko",
-          "source": "X：邵猛 (@shao__meng)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-02T11:33:01Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：邵猛 (@shao__meng)"
-      ],
-      "items": [
-        {
-          "id": "7bcaf32a7bf405dd9fb3590ecc45235859906841",
-          "title": "browser-use 发布开源 AI 视频剪辑 Skill「video-use」",
-          "url": "https://aihot.virxact.com/items/cmr3fluhr00i3sllxli2a5uko",
-          "source": "X：邵猛 (@shao__meng)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-02T11:33:01Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7236,
-      "importance": 0.7236,
-      "importance_score": 0.7236,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5581,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-02T11:33:01Z",
-      "latest_at": "2026-07-02T11:33:01Z",
-      "primary_item": {
-        "id": "7bcaf32a7bf405dd9fb3590ecc45235859906841",
-        "title": "browser-use 发布开源 AI 视频剪辑 Skill「video-use」",
-        "url": "https://aihot.virxact.com/items/cmr3fluhr00i3sllxli2a5uko",
-        "source": "X：邵猛 (@shao__meng)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_b5afe5ee83db",
-      "title": "谷歌AI建设导致2025年用电量增长37%",
-      "url": "https://aihot.virxact.com/items/cmr3fmggw00ihsllxizuvjt33",
-      "primary_url": "https://aihot.virxact.com/items/cmr3fmggw00ihsllxizuvjt33",
-      "source": "Ars Technica：AI（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "d4f62a2274cd5ee1e0518ef3110d5f602344bb14",
-          "title": "谷歌AI建设导致2025年用电量增长37%",
-          "url": "https://aihot.virxact.com/items/cmr3fmggw00ihsllxizuvjt33",
-          "source": "Ars Technica：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-02T11:15:49Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Ars Technica：AI（RSS）"
-      ],
-      "items": [
-        {
-          "id": "d4f62a2274cd5ee1e0518ef3110d5f602344bb14",
-          "title": "谷歌AI建设导致2025年用电量增长37%",
-          "url": "https://aihot.virxact.com/items/cmr3fmggw00ihsllxizuvjt33",
-          "source": "Ars Technica：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-02T11:15:49Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7212,
-      "importance": 0.7212,
-      "importance_score": 0.7212,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5462,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-02T11:15:49Z",
-      "latest_at": "2026-07-02T11:15:49Z",
-      "primary_item": {
-        "id": "d4f62a2274cd5ee1e0518ef3110d5f602344bb14",
-        "title": "谷歌AI建设导致2025年用电量增长37%",
-        "url": "https://aihot.virxact.com/items/cmr3fmggw00ihsllxizuvjt33",
-        "source": "Ars Technica：AI（RSS）",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -1061,17 +942,17 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7208,
-      "importance": 0.7208,
-      "importance_score": 0.7208,
-      "importance_label": "行业动态",
+      "score": 0.7085,
+      "importance": 0.7085,
+      "importance_score": 0.7085,
+      "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.419,
+        "recency": 0.3573,
         "story_heat": 0.25
       },
-      "category": "industry",
+      "category": "watch",
       "reasons": [
         "multi_source",
         "high_ai_relevance"
@@ -1121,14 +1002,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7472,
-      "importance": 0.7472,
-      "importance_score": 0.7472,
+      "score": 0.7349,
+      "importance": 0.7349,
+      "importance_score": 0.7349,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.676,
+        "recency": 0.6143,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1180,14 +1061,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7326,
-      "importance": 0.7326,
-      "importance_score": 0.7326,
+      "score": 0.7203,
+      "importance": 0.7203,
+      "importance_score": 0.7203,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6031,
+        "recency": 0.5414,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1202,124 +1083,6 @@
         "url": "https://aihot.virxact.com/items/cmr3hyp3j0139sllxjjc2fk8h",
         "source": "The Decoder：AI News（RSS）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_90ddcf143e5b",
-      "title": "AI 互动酿成悲剧：用户起诉 OpenAI，称 ChatGPT 加剧其心理病情",
-      "url": "https://www.aibase.com/news/29346",
-      "primary_url": "https://www.aibase.com/news/29346",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "e3fd6f46e1c44cebcb0e0842f72861cc237a73ed",
-          "title": "AI 互动酿成悲剧：用户起诉 OpenAI，称 ChatGPT 加剧其心理病情",
-          "url": "https://www.aibase.com/news/29346",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-02T11:07:54.619309Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "e3fd6f46e1c44cebcb0e0842f72861cc237a73ed",
-          "title": "AI 互动酿成悲剧：用户起诉 OpenAI，称 ChatGPT 加剧其心理病情",
-          "url": "https://www.aibase.com/news/29346",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-02T11:07:54.619309Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7201,
-      "importance": 0.7201,
-      "importance_score": 0.7201,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5407,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-02T11:07:54.619309Z",
-      "latest_at": "2026-07-02T11:07:54.619309Z",
-      "primary_item": {
-        "id": "e3fd6f46e1c44cebcb0e0842f72861cc237a73ed",
-        "title": "AI 互动酿成悲剧：用户起诉 OpenAI，称 ChatGPT 加剧其心理病情",
-        "url": "https://www.aibase.com/news/29346",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_41cf2f9ed76c",
-      "title": "Anthropic 移除 Claude Code 中隐藏的用户代码引发关注",
-      "url": "https://www.aibase.com/news/29347",
-      "primary_url": "https://www.aibase.com/news/29347",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "4828a4c1675d9973c58a7519851767a715973ae1",
-          "title": "Anthropic 移除 Claude Code 中隐藏的用户代码引发关注",
-          "url": "https://www.aibase.com/news/29347",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-02T11:07:54.619309Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "4828a4c1675d9973c58a7519851767a715973ae1",
-          "title": "Anthropic 移除 Claude Code 中隐藏的用户代码引发关注",
-          "url": "https://www.aibase.com/news/29347",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-02T11:07:54.619309Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7201,
-      "importance": 0.7201,
-      "importance_score": 0.7201,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5407,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-02T11:07:54.619309Z",
-      "latest_at": "2026-07-02T11:07:54.619309Z",
-      "primary_item": {
-        "id": "4828a4c1675d9973c58a7519851767a715973ae1",
-        "title": "Anthropic 移除 Claude Code 中隐藏的用户代码引发关注",
-        "url": "https://www.aibase.com/news/29347",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     },
     {
@@ -1357,14 +1120,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7454,
-      "importance": 0.7454,
-      "importance_score": 0.7454,
+      "score": 0.7331,
+      "importance": 0.7331,
+      "importance_score": 0.7331,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.4222,
+        "recency": 0.3605,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1380,6 +1143,355 @@
         "url": "https://github.blog/changelog/2026-07-02-issue-fields-are-now-generally-available",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_8e25decb970b",
+      "title": "Meta的扎克伯格表示，AI代理技术的发展速度低于预期",
+      "url": "https://www.reuters.com/business/zuckerberg-says-ai-agent-development-going-slower-than-expected-2026-07-02",
+      "primary_url": "https://www.reuters.com/business/zuckerberg-says-ai-agent-development-going-slower-than-expected-2026-07-02",
+      "source": "www.reuters.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "562915f52f301e0fb4f5726a8e68974e5a9246a3",
+          "title": "Meta的扎克伯格表示，AI代理技术的发展速度低于预期",
+          "url": "https://www.reuters.com/business/zuckerberg-says-ai-agent-development-going-slower-than-expected-2026-07-02",
+          "source": "www.reuters.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-02T23:20:11.269000Z"
+        },
+        {
+          "id": "ac75f6d9bab04dab26a5e88cb538bfa9224deeac",
+          "title": "扎克伯格表示，人工智能代理的开发进度慢于预期 / Zuckerberg says AI agent development going slower than expected",
+          "url": "https://www.reuters.com/business/zuckerberg-says-ai-agent-development-going-slower-than-expected-2026-07-02",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-02T20:38:06Z"
+        },
+        {
+          "id": "c881781b4d2af277b8616059f286f2dde9c50112",
+          "title": "扎克伯格表示，人工智能代理的开发进度慢于预期",
+          "url": "https://www.reuters.com/business/zuckerberg-says-ai-agent-development-going-slower-than-expected-2026-07-02",
+          "source": "www.reuters.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-02T20:24:26.706000Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "www.reuters.com"
+      ],
+      "items": [
+        {
+          "id": "562915f52f301e0fb4f5726a8e68974e5a9246a3",
+          "title": "Meta的扎克伯格表示，AI代理技术的发展速度低于预期",
+          "url": "https://www.reuters.com/business/zuckerberg-says-ai-agent-development-going-slower-than-expected-2026-07-02",
+          "source": "www.reuters.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-02T23:20:11.269000Z"
+        },
+        {
+          "id": "ac75f6d9bab04dab26a5e88cb538bfa9224deeac",
+          "title": "扎克伯格表示，人工智能代理的开发进度慢于预期 / Zuckerberg says AI agent development going slower than expected",
+          "url": "https://www.reuters.com/business/zuckerberg-says-ai-agent-development-going-slower-than-expected-2026-07-02",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-02T20:38:06Z"
+        },
+        {
+          "id": "c881781b4d2af277b8616059f286f2dde9c50112",
+          "title": "扎克伯格表示，人工智能代理的开发进度慢于预期",
+          "url": "https://www.reuters.com/business/zuckerberg-says-ai-agent-development-going-slower-than-expected-2026-07-02",
+          "source": "www.reuters.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-02T20:24:26.706000Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5705,
+      "importance": 0.5705,
+      "importance_score": 0.5705,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9875,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-02T20:24:26.706000Z",
+      "latest_at": "2026-07-02T23:20:11.269000Z",
+      "primary_item": {
+        "id": "562915f52f301e0fb4f5726a8e68974e5a9246a3",
+        "title": "Meta的扎克伯格表示，AI代理技术的发展速度低于预期",
+        "url": "https://www.reuters.com/business/zuckerberg-says-ai-agent-development-going-slower-than-expected-2026-07-02",
+        "source": "www.reuters.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_ddd8a2f4f4b0",
+      "title": "Meta低调推出AI社交应用Pocket，主打互动小游戏",
+      "url": "https://36kr.com/newsflashes/3879110494351622?f=rss",
+      "primary_url": "https://36kr.com/newsflashes/3879110494351622?f=rss",
+      "source": "36氪 (36Kr)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "343e9fc14e6cda8b35770fa48448953e5f7674ee",
+          "title": "Meta低调推出AI社交应用Pocket，主打互动小游戏",
+          "url": "https://36kr.com/newsflashes/3879110494351622?f=rss",
+          "source": "36氪 (36Kr)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-02T23:15:15Z"
+        },
+        {
+          "id": "d777c1b77e70a4d0f1101dbf54bea71eacc73310",
+          "title": "Meta 低调推出 AI 社交应用 Pocket，主打互动小游戏",
+          "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-03/doc-inifnaiq3931977.shtml",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "36氪 (36Kr)",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "343e9fc14e6cda8b35770fa48448953e5f7674ee",
+          "title": "Meta低调推出AI社交应用Pocket，主打互动小游戏",
+          "url": "https://36kr.com/newsflashes/3879110494351622?f=rss",
+          "source": "36氪 (36Kr)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-02T23:15:15Z"
+        },
+        {
+          "id": "d777c1b77e70a4d0f1101dbf54bea71eacc73310",
+          "title": "Meta 低调推出 AI 社交应用 Pocket，主打互动小游戏",
+          "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-03/doc-inifnaiq3931977.shtml",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5448,
+      "importance": 0.5448,
+      "importance_score": 0.5448,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9841,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-02T19:27:19.366523Z",
+      "latest_at": "2026-07-02T23:15:15Z",
+      "primary_item": {
+        "id": "343e9fc14e6cda8b35770fa48448953e5f7674ee",
+        "title": "Meta低调推出AI社交应用Pocket，主打互动小游戏",
+        "url": "https://36kr.com/newsflashes/3879110494351622?f=rss",
+        "source": "36氪 (36Kr)",
+        "source_name": "Info Flow"
+      }
+    },
+    {
+      "story_id": "story_e4c33c654314",
+      "title": "依赖项中没有 LLM 代码",
+      "url": "https://joeyh.name/blog/entry/no_LLM_code_in_dependencies",
+      "primary_url": "https://joeyh.name/blog/entry/no_LLM_code_in_dependencies",
+      "source": "joeyh.name",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "bec112756a72ecf9f1f1ba359fc8468bad74781d",
+          "title": "依赖项中没有 LLM 代码",
+          "url": "https://joeyh.name/blog/entry/no_LLM_code_in_dependencies",
+          "source": "joeyh.name",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-02T19:36:17.736000Z"
+        },
+        {
+          "id": "59a1926e8355f3b43ccb10e6bd9be5978dfdabd9",
+          "title": "依赖项中没有 LLM 代码 / No LLM Code in Dependencies",
+          "url": "https://news.ycombinator.com/item?id=48762008",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-02T19:27:48.179000Z"
+        },
+        {
+          "id": "525e5eea4a101cd1a4073187c10ed643c70353b2",
+          "title": "依赖项中没有 LLM 代码 / No LLM code in dependencies",
+          "url": "https://joeyh.name/blog/entry/no_LLM_code_in_dependencies",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-02T18:43:32Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Lobsters (技术社区)",
+        "hackernews",
+        "joeyh.name"
+      ],
+      "items": [
+        {
+          "id": "bec112756a72ecf9f1f1ba359fc8468bad74781d",
+          "title": "依赖项中没有 LLM 代码",
+          "url": "https://joeyh.name/blog/entry/no_LLM_code_in_dependencies",
+          "source": "joeyh.name",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-02T19:36:17.736000Z"
+        },
+        {
+          "id": "59a1926e8355f3b43ccb10e6bd9be5978dfdabd9",
+          "title": "依赖项中没有 LLM 代码 / No LLM Code in Dependencies",
+          "url": "https://news.ycombinator.com/item?id=48762008",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-02T19:27:48.179000Z"
+        },
+        {
+          "id": "525e5eea4a101cd1a4073187c10ed643c70353b2",
+          "title": "依赖项中没有 LLM 代码 / No LLM code in dependencies",
+          "url": "https://joeyh.name/blog/entry/no_LLM_code_in_dependencies",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-02T18:43:32Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5394,
+      "importance": 0.5394,
+      "importance_score": 0.5394,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.832,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-02T18:43:32Z",
+      "latest_at": "2026-07-02T19:36:17.736000Z",
+      "primary_item": {
+        "id": "bec112756a72ecf9f1f1ba359fc8468bad74781d",
+        "title": "依赖项中没有 LLM 代码",
+        "url": "https://joeyh.name/blog/entry/no_LLM_code_in_dependencies",
+        "source": "joeyh.name",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_23b80c5183ce",
+      "title": "当 AI 短剧把「爽感」做到极致，真人短剧的下一站在哪？",
+      "url": "https://www.huxiu.com/article/4872259.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4872259.html?f=rss",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "9a0f4b998a9eb881c4e83ee7567cf0cd9e00bd5c",
+          "title": "当 AI 短剧把「爽感」做到极致，真人短剧的下一站在哪？",
+          "url": "https://www.huxiu.com/article/4872259.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "b9126dea313f3507068d2a2292545d20d1314de1",
+          "title": "当AI短剧把“爽感”做到极致，真人短剧的下一站在哪？",
+          "url": "https://www.huxiu.com/article/4872259.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-02T20:31:06Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Readhub · AI",
+        "虎嗅 (Huxiu)"
+      ],
+      "items": [
+        {
+          "id": "9a0f4b998a9eb881c4e83ee7567cf0cd9e00bd5c",
+          "title": "当 AI 短剧把「爽感」做到极致，真人短剧的下一站在哪？",
+          "url": "https://www.huxiu.com/article/4872259.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "b9126dea313f3507068d2a2292545d20d1314de1",
+          "title": "当AI短剧把“爽感”做到极致，真人短剧的下一站在哪？",
+          "url": "https://www.huxiu.com/article/4872259.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-02T20:31:06Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5357,
+      "importance": 0.5357,
+      "importance_score": 0.5357,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9383,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-02T20:31:06Z",
+      "latest_at": "2026-07-02T22:09:21.245614Z",
+      "primary_item": {
+        "id": "9a0f4b998a9eb881c4e83ee7567cf0cd9e00bd5c",
+        "title": "当 AI 短剧把「爽感」做到极致，真人短剧的下一站在哪？",
+        "url": "https://www.huxiu.com/article/4872259.html?f=rss",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
       }
     }
   ]
