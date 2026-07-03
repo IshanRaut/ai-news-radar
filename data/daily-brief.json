@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-07-02T23:38:10.252486Z",
+  "generated_at": "2026-07-03T03:29:23.035073Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260703-0938-3630-89c8-086842dae593&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260703-0938-3630-89c8-086842dae593&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260703-1330-02cf-a7fa-119d7ae50599&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260703-1330-02cf-a7fa-119d7ae50599&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "7aacb4cf03a3adb38c8eb7bc483f1a91c96ea454",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260703-1330-02cf-a7fa-119d7ae50599&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "4f301666a708206b3bddec86a0041df99aa696b3",
           "title": "点击这里进入 / Click here to enter",
@@ -87,15 +96,6 @@
           "id": "7b31a341d4550e0255300a6b87b50e090e6bfd60",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260702-1441-01ce-b4f7-ec8a12148ff5&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "1d27d33e6b08107ad221c1f6f236f17ecedc51dd",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260702-1012-3167-9632-2d88956c6986&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -108,6 +108,15 @@
       ],
       "items": [
         {
+          "id": "7aacb4cf03a3adb38c8eb7bc483f1a91c96ea454",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260703-1330-02cf-a7fa-119d7ae50599&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "4f301666a708206b3bddec86a0041df99aa696b3",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260703-0938-3630-89c8-086842dae593&fp=-3",
@@ -183,15 +192,6 @@
           "id": "7b31a341d4550e0255300a6b87b50e090e6bfd60",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260702-1441-01ce-b4f7-ec8a12148ff5&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "1d27d33e6b08107ad221c1f6f236f17ecedc51dd",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260702-1012-3167-9632-2d88956c6986&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -216,32 +216,32 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-02T00:10:12.433086Z",
-      "latest_at": "2026-07-02T23:38:10.252486Z",
+      "earliest_at": "2026-07-02T04:40:36.683501Z",
+      "latest_at": "2026-07-03T03:29:23.035073Z",
       "primary_item": {
-        "id": "4f301666a708206b3bddec86a0041df99aa696b3",
+        "id": "7aacb4cf03a3adb38c8eb7bc483f1a91c96ea454",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260703-0938-3630-89c8-086842dae593&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260703-1330-02cf-a7fa-119d7ae50599&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
       }
     },
     {
-      "story_id": "story_841cfa5430ed",
-      "title": "Copilot CLI 不再需要 GitHub Actions 中的个人访问令牌 / Copilot CLI no longer needs a personal access token in GitHub Actions",
-      "url": "https://github.blog/changelog/2026-07-02-copilot-cli-no-longer-needs-a-personal-access-token-in-github-actions",
-      "primary_url": "https://github.blog/changelog/2026-07-02-copilot-cli-no-longer-needs-a-personal-access-token-in-github-actions",
+      "story_id": "story_43115179668d",
+      "title": "提高了 Copilot 使用指标报告的准确性和覆盖范围 / Improved accuracy and coverage in Copilot usage metrics reports",
+      "url": "https://github.blog/changelog/2026-07-02-improved-accuracy-and-coverage-in-copilot-usage-metrics-reports",
+      "primary_url": "https://github.blog/changelog/2026-07-02-improved-accuracy-and-coverage-in-copilot-usage-metrics-reports",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "d676d74aa767d40c91fc2ca65d0e0784a4d9bcd6",
-          "title": "Copilot CLI 不再需要 GitHub Actions 中的个人访问令牌 / Copilot CLI no longer needs a personal access token in GitHub Actions",
-          "url": "https://github.blog/changelog/2026-07-02-copilot-cli-no-longer-needs-a-personal-access-token-in-github-actions",
+          "id": "228bd82c5e1882bc3980ce4e9a48f75ff4da2c9c",
+          "title": "提高了 Copilot 使用指标报告的准确性和覆盖范围 / Improved accuracy and coverage in Copilot usage metrics reports",
+          "url": "https://github.blog/changelog/2026-07-02-improved-accuracy-and-coverage-in-copilot-usage-metrics-reports",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-02T20:25:32Z"
+          "published_at": "2026-07-02T23:19:06Z"
         }
       ],
       "source_count": 1,
@@ -250,25 +250,25 @@
       ],
       "items": [
         {
-          "id": "d676d74aa767d40c91fc2ca65d0e0784a4d9bcd6",
-          "title": "Copilot CLI 不再需要 GitHub Actions 中的个人访问令牌 / Copilot CLI no longer needs a personal access token in GitHub Actions",
-          "url": "https://github.blog/changelog/2026-07-02-copilot-cli-no-longer-needs-a-personal-access-token-in-github-actions",
+          "id": "228bd82c5e1882bc3980ce4e9a48f75ff4da2c9c",
+          "title": "提高了 Copilot 使用指标报告的准确性和覆盖范围 / Improved accuracy and coverage in Copilot usage metrics reports",
+          "url": "https://github.blog/changelog/2026-07-02-improved-accuracy-and-coverage-in-copilot-usage-metrics-reports",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-02T20:25:32Z"
+          "published_at": "2026-07-02T23:19:06Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8462,
-      "importance": 0.8462,
-      "importance_score": 0.8462,
+      "score": 0.8382,
+      "importance": 0.8382,
+      "importance_score": 0.8382,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8662,
+        "recency": 0.8262,
         "story_heat": 0.0
       },
       "category": "official",
@@ -277,32 +277,92 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-02T20:25:32Z",
-      "latest_at": "2026-07-02T20:25:32Z",
+      "earliest_at": "2026-07-02T23:19:06Z",
+      "latest_at": "2026-07-02T23:19:06Z",
       "primary_item": {
-        "id": "d676d74aa767d40c91fc2ca65d0e0784a4d9bcd6",
-        "title": "Copilot CLI 不再需要 GitHub Actions 中的个人访问令牌 / Copilot CLI no longer needs a personal access token in GitHub Actions",
-        "url": "https://github.blog/changelog/2026-07-02-copilot-cli-no-longer-needs-a-personal-access-token-in-github-actions",
+        "id": "228bd82c5e1882bc3980ce4e9a48f75ff4da2c9c",
+        "title": "提高了 Copilot 使用指标报告的准确性和覆盖范围 / Improved accuracy and coverage in Copilot usage metrics reports",
+        "url": "https://github.blog/changelog/2026-07-02-improved-accuracy-and-coverage-in-copilot-usage-metrics-reports",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_1bf7e1ec92fc",
-      "title": "Copilot 座席会话流现已提供公共预览版 / Copilot agent session streaming is now in public preview",
-      "url": "https://github.blog/changelog/2026-07-02-copilot-agent-session-streaming-is-now-in-public-preview",
-      "primary_url": "https://github.blog/changelog/2026-07-02-copilot-agent-session-streaming-is-now-in-public-preview",
+      "story_id": "story_d27ddcf10896",
+      "title": "AI 发展跨入新纪元，奥尔特曼呼吁全球共筑安全防线",
+      "url": "https://www.aibase.com/news/29353",
+      "primary_url": "https://www.aibase.com/news/29353",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "7ee12cafd69632ffa600d6b95259d2c0ba72501e",
+          "title": "AI 发展跨入新纪元，奥尔特曼呼吁全球共筑安全防线",
+          "url": "https://www.aibase.com/news/29353",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-03T03:29:23.035073Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "7ee12cafd69632ffa600d6b95259d2c0ba72501e",
+          "title": "AI 发展跨入新纪元，奥尔特曼呼吁全球共筑安全防线",
+          "url": "https://www.aibase.com/news/29353",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-03T03:29:23.035073Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-03T03:29:23.035073Z",
+      "latest_at": "2026-07-03T03:29:23.035073Z",
+      "primary_item": {
+        "id": "7ee12cafd69632ffa600d6b95259d2c0ba72501e",
+        "title": "AI 发展跨入新纪元，奥尔特曼呼吁全球共筑安全防线",
+        "url": "https://www.aibase.com/news/29353",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_95944acec510",
+      "title": "Gemini 2.5 Pro 和 Gemini 3 Flash 即将弃用 / Upcoming deprecation of Gemini 2.5 Pro and Gemini 3 Flash",
+      "url": "https://github.blog/changelog/2026-07-02-upcoming-deprecation-of-gemini-2-5-pro-and-gemini-3-flash",
+      "primary_url": "https://github.blog/changelog/2026-07-02-upcoming-deprecation-of-gemini-2-5-pro-and-gemini-3-flash",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "b0b3ca409b0523b5f1ec6e57c8e8200a193c77ed",
-          "title": "Copilot 座席会话流现已提供公共预览版 / Copilot agent session streaming is now in public preview",
-          "url": "https://github.blog/changelog/2026-07-02-copilot-agent-session-streaming-is-now-in-public-preview",
+          "id": "da60a954d2bf69a6dc4bb0470f095a332144c2d6",
+          "title": "Gemini 2.5 Pro 和 Gemini 3 Flash 即将弃用 / Upcoming deprecation of Gemini 2.5 Pro and Gemini 3 Flash",
+          "url": "https://github.blog/changelog/2026-07-02-upcoming-deprecation-of-gemini-2-5-pro-and-gemini-3-flash",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-02T18:05:05Z"
+          "published_at": "2026-07-02T23:07:06Z"
         }
       ],
       "source_count": 1,
@@ -311,25 +371,25 @@
       ],
       "items": [
         {
-          "id": "b0b3ca409b0523b5f1ec6e57c8e8200a193c77ed",
-          "title": "Copilot 座席会话流现已提供公共预览版 / Copilot agent session streaming is now in public preview",
-          "url": "https://github.blog/changelog/2026-07-02-copilot-agent-session-streaming-is-now-in-public-preview",
+          "id": "da60a954d2bf69a6dc4bb0470f095a332144c2d6",
+          "title": "Gemini 2.5 Pro 和 Gemini 3 Flash 即将弃用 / Upcoming deprecation of Gemini 2.5 Pro and Gemini 3 Flash",
+          "url": "https://github.blog/changelog/2026-07-02-upcoming-deprecation-of-gemini-2-5-pro-and-gemini-3-flash",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-02T18:05:05Z"
+          "published_at": "2026-07-02T23:07:06Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8267,
-      "importance": 0.8267,
-      "importance_score": 0.8267,
+      "score": 0.8366,
+      "importance": 0.8366,
+      "importance_score": 0.8366,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7687,
+        "recency": 0.8179,
         "story_heat": 0.0
       },
       "category": "official",
@@ -338,14 +398,254 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-02T18:05:05Z",
-      "latest_at": "2026-07-02T18:05:05Z",
+      "earliest_at": "2026-07-02T23:07:06Z",
+      "latest_at": "2026-07-02T23:07:06Z",
       "primary_item": {
-        "id": "b0b3ca409b0523b5f1ec6e57c8e8200a193c77ed",
-        "title": "Copilot 座席会话流现已提供公共预览版 / Copilot agent session streaming is now in public preview",
-        "url": "https://github.blog/changelog/2026-07-02-copilot-agent-session-streaming-is-now-in-public-preview",
+        "id": "da60a954d2bf69a6dc4bb0470f095a332144c2d6",
+        "title": "Gemini 2.5 Pro 和 Gemini 3 Flash 即将弃用 / Upcoming deprecation of Gemini 2.5 Pro and Gemini 3 Flash",
+        "url": "https://github.blog/changelog/2026-07-02-upcoming-deprecation-of-gemini-2-5-pro-and-gemini-3-flash",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_e3cac0e30f5a",
+      "title": "Claude Fable 5 自主优化 AIHOT 网站 SEO/GEO 全记录",
+      "url": "https://aihot.virxact.com/items/cmr4768yq013qsl3g29wasjnp",
+      "primary_url": "https://aihot.virxact.com/items/cmr4768yq013qsl3g29wasjnp",
+      "source": "公众号：数字生命卡兹克",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "d167dd0ceb3e478404150771b3a7d8943204c70f",
+          "title": "Claude Fable 5 自主优化 AIHOT 网站 SEO/GEO 全记录",
+          "url": "https://aihot.virxact.com/items/cmr4768yq013qsl3g29wasjnp",
+          "source": "公众号：数字生命卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-03T00:16:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "公众号：数字生命卡兹克"
+      ],
+      "items": [
+        {
+          "id": "d167dd0ceb3e478404150771b3a7d8943204c70f",
+          "title": "Claude Fable 5 自主优化 AIHOT 网站 SEO/GEO 全记录",
+          "url": "https://aihot.virxact.com/items/cmr4768yq013qsl3g29wasjnp",
+          "source": "公众号：数字生命卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-03T00:16:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7851,
+      "importance": 0.7851,
+      "importance_score": 0.7851,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8657,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-03T00:16:00Z",
+      "latest_at": "2026-07-03T00:16:00Z",
+      "primary_item": {
+        "id": "d167dd0ceb3e478404150771b3a7d8943204c70f",
+        "title": "Claude Fable 5 自主优化 AIHOT 网站 SEO/GEO 全记录",
+        "url": "https://aihot.virxact.com/items/cmr4768yq013qsl3g29wasjnp",
+        "source": "公众号：数字生命卡兹克",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_9425deafab70",
+      "title": "AI 成本失控警报：大厂相继祭出“限流令”，旗舰模型成了“奢侈品”",
+      "url": "https://www.aibase.com/news/29357",
+      "primary_url": "https://www.aibase.com/news/29357",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "67d61511e88d800fc0153ddef899081752e64fa5",
+          "title": "AI 成本失控警报：大厂相继祭出“限流令”，旗舰模型成了“奢侈品”",
+          "url": "https://www.aibase.com/news/29357",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-03T03:29:23.035073Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "67d61511e88d800fc0153ddef899081752e64fa5",
+          "title": "AI 成本失控警报：大厂相继祭出“限流令”，旗舰模型成了“奢侈品”",
+          "url": "https://www.aibase.com/news/29357",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-03T03:29:23.035073Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-03T03:29:23.035073Z",
+      "latest_at": "2026-07-03T03:29:23.035073Z",
+      "primary_item": {
+        "id": "67d61511e88d800fc0153ddef899081752e64fa5",
+        "title": "AI 成本失控警报：大厂相继祭出“限流令”，旗舰模型成了“奢侈品”",
+        "url": "https://www.aibase.com/news/29357",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_dc2fc1977cf5",
+      "title": "得州特斯拉致命车祸：司机嫌FSD太保守，加速踏板踩死致76岁居民死亡",
+      "url": "https://aihot.virxact.com/items/cmr46bm6n00xesl3gigy5su8z",
+      "primary_url": "https://aihot.virxact.com/items/cmr46bm6n00xesl3gigy5su8z",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "59487305b8c3df894be84917b22c27c22099326c",
+          "title": "得州特斯拉致命车祸：司机嫌FSD太保守，加速踏板踩死致76岁居民死亡",
+          "url": "https://aihot.virxact.com/items/cmr46bm6n00xesl3gigy5su8z",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-02T23:43:15Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "59487305b8c3df894be84917b22c27c22099326c",
+          "title": "得州特斯拉致命车祸：司机嫌FSD太保守，加速踏板踩死致76岁居民死亡",
+          "url": "https://aihot.virxact.com/items/cmr46bm6n00xesl3gigy5su8z",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-02T23:43:15Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7806,
+      "importance": 0.7806,
+      "importance_score": 0.7806,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.843,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-02T23:43:15Z",
+      "latest_at": "2026-07-02T23:43:15Z",
+      "primary_item": {
+        "id": "59487305b8c3df894be84917b22c27c22099326c",
+        "title": "得州特斯拉致命车祸：司机嫌FSD太保守，加速踏板踩死致76岁居民死亡",
+        "url": "https://aihot.virxact.com/items/cmr46bm6n00xesl3gigy5su8z",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_7f9d98d00210",
+      "title": "扎克伯格称AI智能体开发速度未如预期",
+      "url": "https://aihot.virxact.com/items/cmr46bjmz00x0sl3g5rj6sp46",
+      "primary_url": "https://aihot.virxact.com/items/cmr46bjmz00x0sl3g5rj6sp46",
+      "source": "TechCrunch：AI（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "e4e38334e1e72c33d909f6cabb6967346de0b128",
+          "title": "扎克伯格称AI智能体开发速度未如预期",
+          "url": "https://aihot.virxact.com/items/cmr46bjmz00x0sl3g5rj6sp46",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-02T23:38:10Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch：AI（RSS）"
+      ],
+      "items": [
+        {
+          "id": "e4e38334e1e72c33d909f6cabb6967346de0b128",
+          "title": "扎克伯格称AI智能体开发速度未如预期",
+          "url": "https://aihot.virxact.com/items/cmr46bjmz00x0sl3g5rj6sp46",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-02T23:38:10Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7799,
+      "importance": 0.7799,
+      "importance_score": 0.7799,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8394,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-02T23:38:10Z",
+      "latest_at": "2026-07-02T23:38:10Z",
+      "primary_item": {
+        "id": "e4e38334e1e72c33d909f6cabb6967346de0b128",
+        "title": "扎克伯格称AI智能体开发速度未如预期",
+        "url": "https://aihot.virxact.com/items/cmr46bjmz00x0sl3g5rj6sp46",
+        "source": "TechCrunch：AI（RSS）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -383,14 +683,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7889,
-      "importance": 0.7889,
-      "importance_score": 0.7889,
+      "score": 0.7568,
+      "importance": 0.7568,
+      "importance_score": 0.7568,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8844,
+        "recency": 0.7238,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -406,6 +706,67 @@
         "url": "https://aihot.virxact.com/items/cmr3zye9z00qfslw2sg1izmks",
         "source": "MarkTechPost（RSS）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_841cfa5430ed",
+      "title": "Copilot CLI 不再需要 GitHub Actions 中的个人访问令牌 / Copilot CLI no longer needs a personal access token in GitHub Actions",
+      "url": "https://github.blog/changelog/2026-07-02-copilot-cli-no-longer-needs-a-personal-access-token-in-github-actions",
+      "primary_url": "https://github.blog/changelog/2026-07-02-copilot-cli-no-longer-needs-a-personal-access-token-in-github-actions",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "d676d74aa767d40c91fc2ca65d0e0784a4d9bcd6",
+          "title": "Copilot CLI 不再需要 GitHub Actions 中的个人访问令牌 / Copilot CLI no longer needs a personal access token in GitHub Actions",
+          "url": "https://github.blog/changelog/2026-07-02-copilot-cli-no-longer-needs-a-personal-access-token-in-github-actions",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-02T20:25:32Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "d676d74aa767d40c91fc2ca65d0e0784a4d9bcd6",
+          "title": "Copilot CLI 不再需要 GitHub Actions 中的个人访问令牌 / Copilot CLI no longer needs a personal access token in GitHub Actions",
+          "url": "https://github.blog/changelog/2026-07-02-copilot-cli-no-longer-needs-a-personal-access-token-in-github-actions",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-02T20:25:32Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8141,
+      "importance": 0.8141,
+      "importance_score": 0.8141,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.7057,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-02T20:25:32Z",
+      "latest_at": "2026-07-02T20:25:32Z",
+      "primary_item": {
+        "id": "d676d74aa767d40c91fc2ca65d0e0784a4d9bcd6",
+        "title": "Copilot CLI 不再需要 GitHub Actions 中的个人访问令牌 / Copilot CLI no longer needs a personal access token in GitHub Actions",
+        "url": "https://github.blog/changelog/2026-07-02-copilot-cli-no-longer-needs-a-personal-access-token-in-github-actions",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -443,14 +804,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7851,
-      "importance": 0.7851,
-      "importance_score": 0.7851,
+      "score": 0.7529,
+      "importance": 0.7529,
+      "importance_score": 0.7529,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8653,
+        "recency": 0.7047,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -466,6 +827,66 @@
         "url": "https://aihot.virxact.com/items/cmr3yrwnf00e1slw21f16oh2d",
         "source": "X：Ethan Mollick (@emollick)",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_2f4f958a7788",
+      "title": "AI 芯片自研大军再添新援：Anthropic 启动早期开发，拟采用三星 2nm 工艺",
+      "url": "https://www.aibase.com/news/29350",
+      "primary_url": "https://www.aibase.com/news/29350",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "8a24a130ae9b1cf3c6ac22111849360402bad0b6",
+          "title": "AI 芯片自研大军再添新援：Anthropic 启动早期开发，拟采用三星 2nm 工艺",
+          "url": "https://www.aibase.com/news/29350",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-03T03:29:23.035073Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "8a24a130ae9b1cf3c6ac22111849360402bad0b6",
+          "title": "AI 芯片自研大军再添新援：Anthropic 启动早期开发，拟采用三星 2nm 工艺",
+          "url": "https://www.aibase.com/news/29350",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-03T03:29:23.035073Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-03T03:29:23.035073Z",
+      "latest_at": "2026-07-03T03:29:23.035073Z",
+      "primary_item": {
+        "id": "8a24a130ae9b1cf3c6ac22111849360402bad0b6",
+        "title": "AI 芯片自研大军再添新援：Anthropic 启动早期开发，拟采用三星 2nm 工艺",
+        "url": "https://www.aibase.com/news/29350",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -503,20 +924,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7759,
-      "importance": 0.7759,
-      "importance_score": 0.7759,
+      "score": 0.7438,
+      "importance": 0.7438,
+      "importance_score": 0.7438,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8197,
+        "recency": 0.6591,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-02T19:18:29Z",
       "latest_at": "2026-07-02T19:18:29Z",
@@ -563,20 +983,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7703,
-      "importance": 0.7703,
-      "importance_score": 0.7703,
+      "score": 0.7382,
+      "importance": 0.7382,
+      "importance_score": 0.7382,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7915,
+        "recency": 0.6309,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-02T18:37:56Z",
       "latest_at": "2026-07-02T18:37:56Z",
@@ -623,20 +1042,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7655,
-      "importance": 0.7655,
-      "importance_score": 0.7655,
+      "score": 0.7334,
+      "importance": 0.7334,
+      "importance_score": 0.7334,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7675,
+        "recency": 0.6069,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-02T18:03:22Z",
       "latest_at": "2026-07-02T18:03:22Z",
@@ -683,20 +1101,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7632,
-      "importance": 0.7632,
-      "importance_score": 0.7632,
+      "score": 0.731,
+      "importance": 0.731,
+      "importance_score": 0.731,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7558,
+        "recency": 0.5952,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-02T17:46:31Z",
       "latest_at": "2026-07-02T17:46:31Z",
@@ -709,398 +1126,81 @@
       }
     },
     {
-      "story_id": "story_74f030d9e8a6",
-      "title": "Anthropic与五角大楼控权之争：Claude军事用途护栏分歧",
-      "url": "https://aihot.virxact.com/items/cmr3pz3hx00w5sl7lk3qk71x5",
-      "primary_url": "https://aihot.virxact.com/items/cmr3pz3hx00w5sl7lk3qk71x5",
-      "source": "X：Kim (@kimmonismus)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "ce144a7eff765b23d4b5f7eb07f2dcbf5df3fb80",
-          "title": "Anthropic与五角大楼控权之争：Claude军事用途护栏分歧",
-          "url": "https://aihot.virxact.com/items/cmr3pz3hx00w5sl7lk3qk71x5",
-          "source": "X：Kim (@kimmonismus)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-02T16:24:50Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Kim (@kimmonismus)"
-      ],
-      "items": [
-        {
-          "id": "ce144a7eff765b23d4b5f7eb07f2dcbf5df3fb80",
-          "title": "Anthropic与五角大楼控权之争：Claude军事用途护栏分歧",
-          "url": "https://aihot.virxact.com/items/cmr3pz3hx00w5sl7lk3qk71x5",
-          "source": "X：Kim (@kimmonismus)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-02T16:24:50Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7518,
-      "importance": 0.7518,
-      "importance_score": 0.7518,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6991,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-02T16:24:50Z",
-      "latest_at": "2026-07-02T16:24:50Z",
-      "primary_item": {
-        "id": "ce144a7eff765b23d4b5f7eb07f2dcbf5df3fb80",
-        "title": "Anthropic与五角大楼控权之争：Claude军事用途护栏分歧",
-        "url": "https://aihot.virxact.com/items/cmr3pz3hx00w5sl7lk3qk71x5",
-        "source": "X：Kim (@kimmonismus)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_9b3407d64917",
-      "title": "快手可灵AI获初始投资者20.28亿美元注资，投后估值180亿美元",
-      "url": "https://aihot.virxact.com/items/cmr3p5u0c00qwsl7lyxbee0nd",
-      "primary_url": "https://aihot.virxact.com/items/cmr3p5u0c00qwsl7lyxbee0nd",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "90f85f4e595dae1268923a74c67883199b62be2b",
-          "title": "快手可灵AI获初始投资者20.28亿美元注资，投后估值180亿美元",
-          "url": "https://aihot.virxact.com/items/cmr3p5u0c00qwsl7lyxbee0nd",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-02T15:36:38Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "90f85f4e595dae1268923a74c67883199b62be2b",
-          "title": "快手可灵AI获初始投资者20.28亿美元注资，投后估值180亿美元",
-          "url": "https://aihot.virxact.com/items/cmr3p5u0c00qwsl7lyxbee0nd",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-02T15:36:38Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7451,
-      "importance": 0.7451,
-      "importance_score": 0.7451,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6656,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-02T15:36:38Z",
-      "latest_at": "2026-07-02T15:36:38Z",
-      "primary_item": {
-        "id": "90f85f4e595dae1268923a74c67883199b62be2b",
-        "title": "快手可灵AI获初始投资者20.28亿美元注资，投后估值180亿美元",
-        "url": "https://aihot.virxact.com/items/cmr3p5u0c00qwsl7lyxbee0nd",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_2153c74c2c67",
-      "title": "成本中心现在支持人工智能信用池 / Cost centers now support AI credit pools",
-      "url": "https://github.blog/changelog/2026-07-02-cost-centers-now-support-included-usage-caps",
-      "primary_url": "https://github.blog/changelog/2026-07-02-cost-centers-now-support-included-usage-caps",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "1371e792e9cc2672eb0efec9d42bf2cc8240a9eb",
-          "title": "成本中心现在支持人工智能信用池 / Cost centers now support AI credit pools",
-          "url": "https://github.blog/changelog/2026-07-02-cost-centers-now-support-included-usage-caps",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-02T16:00:51Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "1371e792e9cc2672eb0efec9d42bf2cc8240a9eb",
-          "title": "成本中心现在支持人工智能信用池 / Cost centers now support AI credit pools",
-          "url": "https://github.blog/changelog/2026-07-02-cost-centers-now-support-included-usage-caps",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-02T16:00:51Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7975,
-      "importance": 0.7975,
-      "importance_score": 0.7975,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.6824,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-02T16:00:51Z",
-      "latest_at": "2026-07-02T16:00:51Z",
-      "primary_item": {
-        "id": "1371e792e9cc2672eb0efec9d42bf2cc8240a9eb",
-        "title": "成本中心现在支持人工智能信用池 / Cost centers now support AI credit pools",
-        "url": "https://github.blog/changelog/2026-07-02-cost-centers-now-support-included-usage-caps",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_49bd0efe02c7",
-      "title": "让Agent越用越强:AReaL2.0开源，打造面向自演进智能体的RL基础设施",
-      "url": "https://www.aibase.com/news/29342",
-      "primary_url": "https://www.aibase.com/news/29342",
+      "story_id": "story_78be58dd87aa",
+      "title": "AI 行情带动股市走强，瑞银报告：2025 年全球新增近百万美元富翁",
+      "url": "https://www.aibase.com/news/29360",
+      "primary_url": "https://www.aibase.com/news/29360",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "4e187cc5a75e659bddcd8249d066f15587e7b3bb",
-          "title": "让Agent越用越强:AReaL2.0开源，打造面向自演进智能体的RL基础设施",
-          "url": "https://www.aibase.com/news/29342",
+          "id": "94caa5548266e92a48c08e867d42ee6f42b159a6",
+          "title": "AI 行情带动股市走强，瑞银报告：2025 年全球新增近百万美元富翁",
+          "url": "https://www.aibase.com/news/29360",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-02T08:12:44.708800Z"
-        },
-        {
-          "id": "c79946eea79ed513406f94c906906633d71cea5b",
-          "title": "让Agent越用越强：AReaL 2.0开源，打造面向自演进智能体的RL基础设施",
-          "url": "https://www.qbitai.com/2026/07/442134.html",
-          "source": "量子位 · 每日最新",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "published_at": "2026-07-03T03:29:23.035073Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "AIbase",
-        "量子位 · 每日最新"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "4e187cc5a75e659bddcd8249d066f15587e7b3bb",
-          "title": "让Agent越用越强:AReaL2.0开源，打造面向自演进智能体的RL基础设施",
-          "url": "https://www.aibase.com/news/29342",
+          "id": "94caa5548266e92a48c08e867d42ee6f42b159a6",
+          "title": "AI 行情带动股市走强，瑞银报告：2025 年全球新增近百万美元富翁",
+          "url": "https://www.aibase.com/news/29360",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-02T08:12:44.708800Z"
-        },
-        {
-          "id": "c79946eea79ed513406f94c906906633d71cea5b",
-          "title": "让Agent越用越强：AReaL 2.0开源，打造面向自演进智能体的RL基础设施",
-          "url": "https://www.qbitai.com/2026/07/442134.html",
-          "source": "量子位 · 每日最新",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "published_at": "2026-07-03T03:29:23.035073Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7085,
-      "importance": 0.7085,
-      "importance_score": 0.7085,
-      "importance_label": "值得关注",
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
+      "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.3573,
-        "story_heat": 0.25
+        "recency": 1.0,
+        "story_heat": 0.0
       },
-      "category": "watch",
+      "category": "industry",
       "reasons": [
-        "multi_source",
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-07-02T08:12:44.708800Z",
-      "latest_at": "2026-07-02T13:17:34.179316Z",
+      "earliest_at": "2026-07-03T03:29:23.035073Z",
+      "latest_at": "2026-07-03T03:29:23.035073Z",
       "primary_item": {
-        "id": "4e187cc5a75e659bddcd8249d066f15587e7b3bb",
-        "title": "让Agent越用越强:AReaL2.0开源，打造面向自演进智能体的RL基础设施",
-        "url": "https://www.aibase.com/news/29342",
+        "id": "94caa5548266e92a48c08e867d42ee6f42b159a6",
+        "title": "AI 行情带动股市走强，瑞银报告：2025 年全球新增近百万美元富翁",
+        "url": "https://www.aibase.com/news/29360",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_a209015f6304",
-      "title": "花旗、Adobe等企业限制员工使用AI旗舰模型以控制成本",
-      "url": "https://aihot.virxact.com/items/cmr3n0nvi006usl7l9bxrmouw",
-      "primary_url": "https://aihot.virxact.com/items/cmr3n0nvi006usl7l9bxrmouw",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "fcd597989f4e1567d64284bed56a568ba6ed3974",
-          "title": "花旗、Adobe等企业限制员工使用AI旗舰模型以控制成本",
-          "url": "https://aihot.virxact.com/items/cmr3n0nvi006usl7l9bxrmouw",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-02T14:22:49Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "fcd597989f4e1567d64284bed56a568ba6ed3974",
-          "title": "花旗、Adobe等企业限制员工使用AI旗舰模型以控制成本",
-          "url": "https://aihot.virxact.com/items/cmr3n0nvi006usl7l9bxrmouw",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-02T14:22:49Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7349,
-      "importance": 0.7349,
-      "importance_score": 0.7349,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6143,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-02T14:22:49Z",
-      "latest_at": "2026-07-02T14:22:49Z",
-      "primary_item": {
-        "id": "fcd597989f4e1567d64284bed56a568ba6ed3974",
-        "title": "花旗、Adobe等企业限制员工使用AI旗舰模型以控制成本",
-        "url": "https://aihot.virxact.com/items/cmr3n0nvi006usl7l9bxrmouw",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_2afdb3c90329",
-      "title": "Fable 5 在 RLI 基准中达成 16.1% 自动化率，较八个月前提升六倍",
-      "url": "https://aihot.virxact.com/items/cmr3hyp3j0139sllxjjc2fk8h",
-      "primary_url": "https://aihot.virxact.com/items/cmr3hyp3j0139sllxjjc2fk8h",
-      "source": "The Decoder：AI News（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "84ae6dad2369911041e6220aef4433fd27bf9df0",
-          "title": "Fable 5 在 RLI 基准中达成 16.1% 自动化率，较八个月前提升六倍",
-          "url": "https://aihot.virxact.com/items/cmr3hyp3j0139sllxjjc2fk8h",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-02T12:37:49Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "The Decoder：AI News（RSS）"
-      ],
-      "items": [
-        {
-          "id": "84ae6dad2369911041e6220aef4433fd27bf9df0",
-          "title": "Fable 5 在 RLI 基准中达成 16.1% 自动化率，较八个月前提升六倍",
-          "url": "https://aihot.virxact.com/items/cmr3hyp3j0139sllxjjc2fk8h",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-02T12:37:49Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7203,
-      "importance": 0.7203,
-      "importance_score": 0.7203,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5414,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-02T12:37:49Z",
-      "latest_at": "2026-07-02T12:37:49Z",
-      "primary_item": {
-        "id": "84ae6dad2369911041e6220aef4433fd27bf9df0",
-        "title": "Fable 5 在 RLI 基准中达成 16.1% 自动化率，较八个月前提升六倍",
-        "url": "https://aihot.virxact.com/items/cmr3hyp3j0139sllxjjc2fk8h",
-        "source": "The Decoder：AI News（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_155ea32414b0",
-      "title": "问题字段现已普遍可用 / Issue fields are now generally available",
-      "url": "https://github.blog/changelog/2026-07-02-issue-fields-are-now-generally-available",
-      "primary_url": "https://github.blog/changelog/2026-07-02-issue-fields-are-now-generally-available",
+      "story_id": "story_1bf7e1ec92fc",
+      "title": "Copilot 座席会话流现已提供公共预览版 / Copilot agent session streaming is now in public preview",
+      "url": "https://github.blog/changelog/2026-07-02-copilot-agent-session-streaming-is-now-in-public-preview",
+      "primary_url": "https://github.blog/changelog/2026-07-02-copilot-agent-session-streaming-is-now-in-public-preview",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "b954e525e8b0e58dae91fe2ac4b715b3283c2dd6",
-          "title": "问题字段现已普遍可用 / Issue fields are now generally available",
-          "url": "https://github.blog/changelog/2026-07-02-issue-fields-are-now-generally-available",
+          "id": "b0b3ca409b0523b5f1ec6e57c8e8200a193c77ed",
+          "title": "Copilot 座席会话流现已提供公共预览版 / Copilot agent session streaming is now in public preview",
+          "url": "https://github.blog/changelog/2026-07-02-copilot-agent-session-streaming-is-now-in-public-preview",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-02T08:17:17Z"
+          "published_at": "2026-07-02T18:05:05Z"
         }
       ],
       "source_count": 1,
@@ -1109,389 +1209,161 @@
       ],
       "items": [
         {
-          "id": "b954e525e8b0e58dae91fe2ac4b715b3283c2dd6",
-          "title": "问题字段现已普遍可用 / Issue fields are now generally available",
-          "url": "https://github.blog/changelog/2026-07-02-issue-fields-are-now-generally-available",
+          "id": "b0b3ca409b0523b5f1ec6e57c8e8200a193c77ed",
+          "title": "Copilot 座席会话流现已提供公共预览版 / Copilot agent session streaming is now in public preview",
+          "url": "https://github.blog/changelog/2026-07-02-copilot-agent-session-streaming-is-now-in-public-preview",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-02T08:17:17Z"
+          "published_at": "2026-07-02T18:05:05Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7331,
-      "importance": 0.7331,
-      "importance_score": 0.7331,
+      "score": 0.7946,
+      "importance": 0.7946,
+      "importance_score": 0.7946,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.3605,
+        "ai_relevance": 0.91,
+        "recency": 0.6081,
         "story_heat": 0.0
       },
       "category": "official",
       "reasons": [
         "official_source",
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-07-02T08:17:17Z",
-      "latest_at": "2026-07-02T08:17:17Z",
+      "earliest_at": "2026-07-02T18:05:05Z",
+      "latest_at": "2026-07-02T18:05:05Z",
       "primary_item": {
-        "id": "b954e525e8b0e58dae91fe2ac4b715b3283c2dd6",
-        "title": "问题字段现已普遍可用 / Issue fields are now generally available",
-        "url": "https://github.blog/changelog/2026-07-02-issue-fields-are-now-generally-available",
+        "id": "b0b3ca409b0523b5f1ec6e57c8e8200a193c77ed",
+        "title": "Copilot 座席会话流现已提供公共预览版 / Copilot agent session streaming is now in public preview",
+        "url": "https://github.blog/changelog/2026-07-02-copilot-agent-session-streaming-is-now-in-public-preview",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
     },
     {
-      "story_id": "story_8e25decb970b",
-      "title": "Meta的扎克伯格表示，AI代理技术的发展速度低于预期",
-      "url": "https://www.reuters.com/business/zuckerberg-says-ai-agent-development-going-slower-than-expected-2026-07-02",
-      "primary_url": "https://www.reuters.com/business/zuckerberg-says-ai-agent-development-going-slower-than-expected-2026-07-02",
-      "source": "www.reuters.com",
-      "source_name": "Buzzing",
+      "story_id": "story_a57359c8dab2",
+      "title": "Meta 低调杀入 AI 原生社交，掌上应用 Pocket 开启趣味互动新玩法",
+      "url": "https://www.aibase.com/news/29358",
+      "primary_url": "https://www.aibase.com/news/29358",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "562915f52f301e0fb4f5726a8e68974e5a9246a3",
-          "title": "Meta的扎克伯格表示，AI代理技术的发展速度低于预期",
-          "url": "https://www.reuters.com/business/zuckerberg-says-ai-agent-development-going-slower-than-expected-2026-07-02",
-          "source": "www.reuters.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-02T23:20:11.269000Z"
-        },
-        {
-          "id": "ac75f6d9bab04dab26a5e88cb538bfa9224deeac",
-          "title": "扎克伯格表示，人工智能代理的开发进度慢于预期 / Zuckerberg says AI agent development going slower than expected",
-          "url": "https://www.reuters.com/business/zuckerberg-says-ai-agent-development-going-slower-than-expected-2026-07-02",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-02T20:38:06Z"
-        },
-        {
-          "id": "c881781b4d2af277b8616059f286f2dde9c50112",
-          "title": "扎克伯格表示，人工智能代理的开发进度慢于预期",
-          "url": "https://www.reuters.com/business/zuckerberg-says-ai-agent-development-going-slower-than-expected-2026-07-02",
-          "source": "www.reuters.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-02T20:24:26.706000Z"
+          "id": "1db3273b6371cd4ebe70e6a10fea6e3024cbb047",
+          "title": "Meta 低调杀入 AI 原生社交，掌上应用 Pocket 开启趣味互动新玩法",
+          "url": "https://www.aibase.com/news/29358",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-03T03:29:23.035073Z"
         }
       ],
-      "source_count": 3,
+      "source_count": 1,
       "source_names": [
-        "Hacker News · 24h最热",
-        "www.reuters.com"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "562915f52f301e0fb4f5726a8e68974e5a9246a3",
-          "title": "Meta的扎克伯格表示，AI代理技术的发展速度低于预期",
-          "url": "https://www.reuters.com/business/zuckerberg-says-ai-agent-development-going-slower-than-expected-2026-07-02",
-          "source": "www.reuters.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-02T23:20:11.269000Z"
-        },
-        {
-          "id": "ac75f6d9bab04dab26a5e88cb538bfa9224deeac",
-          "title": "扎克伯格表示，人工智能代理的开发进度慢于预期 / Zuckerberg says AI agent development going slower than expected",
-          "url": "https://www.reuters.com/business/zuckerberg-says-ai-agent-development-going-slower-than-expected-2026-07-02",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-02T20:38:06Z"
-        },
-        {
-          "id": "c881781b4d2af277b8616059f286f2dde9c50112",
-          "title": "扎克伯格表示，人工智能代理的开发进度慢于预期",
-          "url": "https://www.reuters.com/business/zuckerberg-says-ai-agent-development-going-slower-than-expected-2026-07-02",
-          "source": "www.reuters.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-02T20:24:26.706000Z"
+          "id": "1db3273b6371cd4ebe70e6a10fea6e3024cbb047",
+          "title": "Meta 低调杀入 AI 原生社交，掌上应用 Pocket 开启趣味互动新玩法",
+          "url": "https://www.aibase.com/news/29358",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-03T03:29:23.035073Z"
         }
       ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5705,
-      "importance": 0.5705,
-      "importance_score": 0.5705,
-      "importance_label": "多源热议",
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9875,
-        "story_heat": 0.5
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
       },
-      "category": "multi_source",
+      "category": "industry",
       "reasons": [
-        "multi_source"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-07-02T20:24:26.706000Z",
-      "latest_at": "2026-07-02T23:20:11.269000Z",
+      "earliest_at": "2026-07-03T03:29:23.035073Z",
+      "latest_at": "2026-07-03T03:29:23.035073Z",
       "primary_item": {
-        "id": "562915f52f301e0fb4f5726a8e68974e5a9246a3",
-        "title": "Meta的扎克伯格表示，AI代理技术的发展速度低于预期",
-        "url": "https://www.reuters.com/business/zuckerberg-says-ai-agent-development-going-slower-than-expected-2026-07-02",
-        "source": "www.reuters.com",
-        "source_name": "Buzzing"
+        "id": "1db3273b6371cd4ebe70e6a10fea6e3024cbb047",
+        "title": "Meta 低调杀入 AI 原生社交，掌上应用 Pocket 开启趣味互动新玩法",
+        "url": "https://www.aibase.com/news/29358",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_ddd8a2f4f4b0",
-      "title": "Meta低调推出AI社交应用Pocket，主打互动小游戏",
-      "url": "https://36kr.com/newsflashes/3879110494351622?f=rss",
-      "primary_url": "https://36kr.com/newsflashes/3879110494351622?f=rss",
-      "source": "36氪 (36Kr)",
-      "source_name": "Info Flow",
+      "story_id": "story_8519429706e7",
+      "title": "不向供应链低头！Meta联手台积电美光让新服务器用上旧内存",
+      "url": "https://www.aibase.com/news/29354",
+      "primary_url": "https://www.aibase.com/news/29354",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "343e9fc14e6cda8b35770fa48448953e5f7674ee",
-          "title": "Meta低调推出AI社交应用Pocket，主打互动小游戏",
-          "url": "https://36kr.com/newsflashes/3879110494351622?f=rss",
-          "source": "36氪 (36Kr)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-02T23:15:15Z"
-        },
-        {
-          "id": "d777c1b77e70a4d0f1101dbf54bea71eacc73310",
-          "title": "Meta 低调推出 AI 社交应用 Pocket，主打互动小游戏",
-          "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-03/doc-inifnaiq3931977.shtml",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "fd771267bc8662c3757b09d4896871b9cde51c23",
+          "title": "不向供应链低头！Meta联手台积电美光让新服务器用上旧内存",
+          "url": "https://www.aibase.com/news/29354",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-03T03:29:23.035073Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 1,
       "source_names": [
-        "36氪 (36Kr)",
-        "Readhub · AI"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "343e9fc14e6cda8b35770fa48448953e5f7674ee",
-          "title": "Meta低调推出AI社交应用Pocket，主打互动小游戏",
-          "url": "https://36kr.com/newsflashes/3879110494351622?f=rss",
-          "source": "36氪 (36Kr)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-02T23:15:15Z"
-        },
-        {
-          "id": "d777c1b77e70a4d0f1101dbf54bea71eacc73310",
-          "title": "Meta 低调推出 AI 社交应用 Pocket，主打互动小游戏",
-          "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-03/doc-inifnaiq3931977.shtml",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "fd771267bc8662c3757b09d4896871b9cde51c23",
+          "title": "不向供应链低头！Meta联手台积电美光让新服务器用上旧内存",
+          "url": "https://www.aibase.com/news/29354",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-03T03:29:23.035073Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5448,
-      "importance": 0.5448,
-      "importance_score": 0.5448,
-      "importance_label": "值得关注",
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9841,
-        "story_heat": 0.25
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
       },
-      "category": "watch",
+      "category": "industry",
       "reasons": [
-        "multi_source"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-07-02T19:27:19.366523Z",
-      "latest_at": "2026-07-02T23:15:15Z",
+      "earliest_at": "2026-07-03T03:29:23.035073Z",
+      "latest_at": "2026-07-03T03:29:23.035073Z",
       "primary_item": {
-        "id": "343e9fc14e6cda8b35770fa48448953e5f7674ee",
-        "title": "Meta低调推出AI社交应用Pocket，主打互动小游戏",
-        "url": "https://36kr.com/newsflashes/3879110494351622?f=rss",
-        "source": "36氪 (36Kr)",
-        "source_name": "Info Flow"
-      }
-    },
-    {
-      "story_id": "story_e4c33c654314",
-      "title": "依赖项中没有 LLM 代码",
-      "url": "https://joeyh.name/blog/entry/no_LLM_code_in_dependencies",
-      "primary_url": "https://joeyh.name/blog/entry/no_LLM_code_in_dependencies",
-      "source": "joeyh.name",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "bec112756a72ecf9f1f1ba359fc8468bad74781d",
-          "title": "依赖项中没有 LLM 代码",
-          "url": "https://joeyh.name/blog/entry/no_LLM_code_in_dependencies",
-          "source": "joeyh.name",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-02T19:36:17.736000Z"
-        },
-        {
-          "id": "59a1926e8355f3b43ccb10e6bd9be5978dfdabd9",
-          "title": "依赖项中没有 LLM 代码 / No LLM Code in Dependencies",
-          "url": "https://news.ycombinator.com/item?id=48762008",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-02T19:27:48.179000Z"
-        },
-        {
-          "id": "525e5eea4a101cd1a4073187c10ed643c70353b2",
-          "title": "依赖项中没有 LLM 代码 / No LLM code in dependencies",
-          "url": "https://joeyh.name/blog/entry/no_LLM_code_in_dependencies",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-02T18:43:32Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Lobsters (技术社区)",
-        "hackernews",
-        "joeyh.name"
-      ],
-      "items": [
-        {
-          "id": "bec112756a72ecf9f1f1ba359fc8468bad74781d",
-          "title": "依赖项中没有 LLM 代码",
-          "url": "https://joeyh.name/blog/entry/no_LLM_code_in_dependencies",
-          "source": "joeyh.name",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-02T19:36:17.736000Z"
-        },
-        {
-          "id": "59a1926e8355f3b43ccb10e6bd9be5978dfdabd9",
-          "title": "依赖项中没有 LLM 代码 / No LLM Code in Dependencies",
-          "url": "https://news.ycombinator.com/item?id=48762008",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-02T19:27:48.179000Z"
-        },
-        {
-          "id": "525e5eea4a101cd1a4073187c10ed643c70353b2",
-          "title": "依赖项中没有 LLM 代码 / No LLM code in dependencies",
-          "url": "https://joeyh.name/blog/entry/no_LLM_code_in_dependencies",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-02T18:43:32Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5394,
-      "importance": 0.5394,
-      "importance_score": 0.5394,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.832,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-02T18:43:32Z",
-      "latest_at": "2026-07-02T19:36:17.736000Z",
-      "primary_item": {
-        "id": "bec112756a72ecf9f1f1ba359fc8468bad74781d",
-        "title": "依赖项中没有 LLM 代码",
-        "url": "https://joeyh.name/blog/entry/no_LLM_code_in_dependencies",
-        "source": "joeyh.name",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_23b80c5183ce",
-      "title": "当 AI 短剧把「爽感」做到极致，真人短剧的下一站在哪？",
-      "url": "https://www.huxiu.com/article/4872259.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4872259.html?f=rss",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "9a0f4b998a9eb881c4e83ee7567cf0cd9e00bd5c",
-          "title": "当 AI 短剧把「爽感」做到极致，真人短剧的下一站在哪？",
-          "url": "https://www.huxiu.com/article/4872259.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "b9126dea313f3507068d2a2292545d20d1314de1",
-          "title": "当AI短剧把“爽感”做到极致，真人短剧的下一站在哪？",
-          "url": "https://www.huxiu.com/article/4872259.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-02T20:31:06Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Readhub · AI",
-        "虎嗅 (Huxiu)"
-      ],
-      "items": [
-        {
-          "id": "9a0f4b998a9eb881c4e83ee7567cf0cd9e00bd5c",
-          "title": "当 AI 短剧把「爽感」做到极致，真人短剧的下一站在哪？",
-          "url": "https://www.huxiu.com/article/4872259.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "b9126dea313f3507068d2a2292545d20d1314de1",
-          "title": "当AI短剧把“爽感”做到极致，真人短剧的下一站在哪？",
-          "url": "https://www.huxiu.com/article/4872259.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-02T20:31:06Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5357,
-      "importance": 0.5357,
-      "importance_score": 0.5357,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9383,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-02T20:31:06Z",
-      "latest_at": "2026-07-02T22:09:21.245614Z",
-      "primary_item": {
-        "id": "9a0f4b998a9eb881c4e83ee7567cf0cd9e00bd5c",
-        "title": "当 AI 短剧把「爽感」做到极致，真人短剧的下一站在哪？",
-        "url": "https://www.huxiu.com/article/4872259.html?f=rss",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
+        "id": "fd771267bc8662c3757b09d4896871b9cde51c23",
+        "title": "不向供应链低头！Meta联手台积电美光让新服务器用上旧内存",
+        "url": "https://www.aibase.com/news/29354",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     }
   ]
