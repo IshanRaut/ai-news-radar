@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-07-04T07:22:55.662637Z",
+  "generated_at": "2026-07-04T09:36:47.156023Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260704-1723-2408-b869-d19c9083c69c&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260704-1723-2408-b869-d19c9083c69c&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260704-1937-0823-b35f-3c9948286e44&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260704-1937-0823-b35f-3c9948286e44&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "9cb65846f7d529de45970ec9447b95052a2a64e3",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260704-1937-0823-b35f-3c9948286e44&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "51ef7fed6fd633cb8b5c649b2570dfcded043170",
           "title": "点击这里进入 / Click here to enter",
@@ -111,12 +120,21 @@
           "published_at": null
         }
       ],
-      "source_count": 11,
+      "source_count": 12,
       "source_names": [
         "Page Fallback"
       ],
       "items": [
         {
+          "id": "9cb65846f7d529de45970ec9447b95052a2a64e3",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260704-1937-0823-b35f-3c9948286e44&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "51ef7fed6fd633cb8b5c649b2570dfcded043170",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260704-1723-2408-b869-d19c9083c69c&fp=-3",
@@ -216,8 +234,8 @@
           "published_at": null
         }
       ],
-      "item_count": 11,
-      "duplicate_count": 11,
+      "item_count": 12,
+      "duplicate_count": 12,
       "score": 0.912,
       "importance": 0.912,
       "importance_score": 0.912,
@@ -235,11 +253,11 @@
         "high_importance"
       ],
       "earliest_at": "2026-07-03T10:06:48.763760Z",
-      "latest_at": "2026-07-04T07:22:55.662637Z",
+      "latest_at": "2026-07-04T09:36:47.156023Z",
       "primary_item": {
-        "id": "51ef7fed6fd633cb8b5c649b2570dfcded043170",
+        "id": "9cb65846f7d529de45970ec9447b95052a2a64e3",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260704-1723-2408-b869-d19c9083c69c&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260704-1937-0823-b35f-3c9948286e44&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
       }
@@ -298,14 +316,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6751,
-      "importance": 0.6751,
-      "importance_score": 0.6751,
+      "score": 0.6565,
+      "importance": 0.6565,
+      "importance_score": 0.6565,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.1903,
+        "recency": 0.0974,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -377,14 +395,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6696,
-      "importance": 0.6696,
-      "importance_score": 0.6696,
+      "score": 0.651,
+      "importance": 0.651,
+      "importance_score": 0.651,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.1631,
+        "recency": 0.0701,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -456,14 +474,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6588,
-      "importance": 0.6588,
-      "importance_score": 0.6588,
+      "score": 0.6402,
+      "importance": 0.6402,
+      "importance_score": 0.6402,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.1089,
+        "recency": 0.0159,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -479,6 +497,103 @@
         "url": "https://aihot.virxact.com/items/cmr4s179804l5sll5u47j7031",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_616f8e70b9f8",
+      "title": "在Claude Mythos预览版发布前后，新发现的严重漏洞数量激增",
+      "url": "https://epoch.ai/data-insights/cve-severity-spike",
+      "primary_url": "https://epoch.ai/data-insights/cve-severity-spike",
+      "source": "epoch.ai",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "7b0bcf1e441f6017f37dafeb3786a3bbce814539",
+          "title": "在Claude Mythos预览版发布前后，新发现的严重漏洞数量激增",
+          "url": "https://epoch.ai/data-insights/cve-severity-spike",
+          "source": "epoch.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-04T09:11:45.212000Z"
+        },
+        {
+          "id": "49b6ac7b0f225bb8a3b657f8a856d972ca57dcca",
+          "title": "Claude Mythos 预览版发布后新的严重漏洞激增 / New serious vulnerabilities spiked around release of Claude Mythos Preview",
+          "url": "https://news.ycombinator.com/item?id=48780056",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-03T22:34:52.358000Z"
+        },
+        {
+          "id": "b8ad25ecb85d7d27d79b8b2b6cc61cf5a704bb72",
+          "title": "在Claude Mythos预览版发布前后，新发现的严重漏洞数量激增 / New serious vulnerabilities spiked around release of Claude Mythos Preview",
+          "url": "https://epoch.ai/data-insights/cve-severity-spike",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-03T21:16:16Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News",
+        "epoch.ai",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "7b0bcf1e441f6017f37dafeb3786a3bbce814539",
+          "title": "在Claude Mythos预览版发布前后，新发现的严重漏洞数量激增",
+          "url": "https://epoch.ai/data-insights/cve-severity-spike",
+          "source": "epoch.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-04T09:11:45.212000Z"
+        },
+        {
+          "id": "49b6ac7b0f225bb8a3b657f8a856d972ca57dcca",
+          "title": "Claude Mythos 预览版发布后新的严重漏洞激增 / New serious vulnerabilities spiked around release of Claude Mythos Preview",
+          "url": "https://news.ycombinator.com/item?id=48780056",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-03T22:34:52.358000Z"
+        },
+        {
+          "id": "b8ad25ecb85d7d27d79b8b2b6cc61cf5a704bb72",
+          "title": "在Claude Mythos预览版发布前后，新发现的严重漏洞数量激增 / New serious vulnerabilities spiked around release of Claude Mythos Preview",
+          "url": "https://epoch.ai/data-insights/cve-severity-spike",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-03T21:16:16Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5695,
+      "importance": 0.5695,
+      "importance_score": 0.5695,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9826,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-03T21:16:16Z",
+      "latest_at": "2026-07-04T09:11:45.212000Z",
+      "primary_item": {
+        "id": "7b0bcf1e441f6017f37dafeb3786a3bbce814539",
+        "title": "在Claude Mythos预览版发布前后，新发现的严重漏洞数量激增",
+        "url": "https://epoch.ai/data-insights/cve-severity-spike",
+        "source": "epoch.ai",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -499,18 +614,18 @@
           "published_at": "2026-07-04T07:23:47.112000Z"
         },
         {
-          "id": "2ba94d9ff80b4c00c8b51a3abbc68560800488a2",
+          "id": "3ad65146723681c00fd161d9c447915426c1c85b",
           "title": "2026年Unslop人工智能小说大赛结果 / 2026 Unslop AI-Written Fiction Contest Results",
           "url": "https://www.hyperstitionai.com/unslop-results",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-07-04T05:37:25Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News",
+        "Hacker News · 24h最热",
         "hackernews"
       ],
       "items": [
@@ -524,25 +639,25 @@
           "published_at": "2026-07-04T07:23:47.112000Z"
         },
         {
-          "id": "2ba94d9ff80b4c00c8b51a3abbc68560800488a2",
+          "id": "3ad65146723681c00fd161d9c447915426c1c85b",
           "title": "2026年Unslop人工智能小说大赛结果 / 2026 Unslop AI-Written Fiction Contest Results",
           "url": "https://www.hyperstitionai.com/unslop-results",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-07-04T05:37:25Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.548,
-      "importance": 0.548,
-      "importance_score": 0.548,
+      "score": 0.5295,
+      "importance": 0.5295,
+      "importance_score": 0.5295,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9076,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -613,14 +728,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.548,
-      "importance": 0.548,
-      "importance_score": 0.548,
+      "score": 0.5294,
+      "importance": 0.5294,
+      "importance_score": 0.5294,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.907,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -709,14 +824,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5325,
-      "importance": 0.5325,
-      "importance_score": 0.5325,
+      "score": 0.5139,
+      "importance": 0.5139,
+      "importance_score": 0.5139,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7977,
+        "recency": 0.7047,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -787,14 +902,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.525,
-      "importance": 0.525,
-      "importance_score": 0.525,
+      "score": 0.5064,
+      "importance": 0.5064,
+      "importance_score": 0.5064,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8849,
+        "recency": 0.792,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -865,14 +980,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5215,
-      "importance": 0.5215,
-      "importance_score": 0.5215,
+      "score": 0.5029,
+      "importance": 0.5029,
+      "importance_score": 0.5029,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8676,
+        "recency": 0.7746,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -943,14 +1058,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.548,
-      "importance": 0.548,
-      "importance_score": 0.548,
+      "score": 0.5294,
+      "importance": 0.5294,
+      "importance_score": 0.5294,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.907,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1021,14 +1136,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.512,
-      "importance": 0.512,
-      "importance_score": 0.512,
+      "score": 0.4934,
+      "importance": 0.4934,
+      "importance_score": 0.4934,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8199,
+        "recency": 0.727,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1137,14 +1252,14 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5065,
-      "importance": 0.5065,
-      "importance_score": 0.5065,
+      "score": 0.4879,
+      "importance": 0.4879,
+      "importance_score": 0.4879,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.5423,
+        "recency": 0.4493,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -1215,14 +1330,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4765,
-      "importance": 0.4765,
-      "importance_score": 0.4765,
+      "score": 0.4579,
+      "importance": 0.4579,
+      "importance_score": 0.4579,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6424,
+        "recency": 0.5494,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1312,14 +1427,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.4681,
-      "importance": 0.4681,
-      "importance_score": 0.4681,
+      "score": 0.4495,
+      "importance": 0.4495,
+      "importance_score": 0.4495,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.4756,
+        "recency": 0.3826,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1337,274 +1452,159 @@
       }
     },
     {
-      "story_id": "story_30ac56cabc02",
-      "title": "阿姆斯特丹发明了消防队 / Amsterdam invented the fire department",
-      "url": "https://worksinprogress.co/issue/how-amsterdam-invented-the-fire-department",
-      "primary_url": "https://worksinprogress.co/issue/how-amsterdam-invented-the-fire-department",
+      "story_id": "story_2e04f3e69e59",
+      "title": "Claude 的 Electron Mac 应用程序极其糟糕，是内部人员所为 / Claude's Criminally Bad Electron Mac App Is an Inside Job",
+      "url": "https://daringfireball.net/2026/07/claudes_criminally_bad_mac_app_is_an_inside_job",
+      "primary_url": "https://daringfireball.net/2026/07/claudes_criminally_bad_mac_app_is_an_inside_job",
       "source": "Hacker News · 24h最热",
       "source_name": "Zeli",
       "sources": [
         {
-          "id": "0f5897aec7717231ec2963b2b5a1b7ac3bf536ad",
-          "title": "阿姆斯特丹发明了消防队 / Amsterdam invented the fire department",
-          "url": "https://worksinprogress.co/issue/how-amsterdam-invented-the-fire-department",
+          "id": "6946947ee19f4eabd1b586cc7da5f48be7d20b02",
+          "title": "Claude 的 Electron Mac 应用程序极其糟糕，是内部人员所为 / Claude's Criminally Bad Electron Mac App Is an Inside Job",
+          "url": "https://daringfireball.net/2026/07/claudes_criminally_bad_mac_app_is_an_inside_job",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-07-03T22:46:18Z"
+          "published_at": "2026-07-04T00:01:23Z"
         },
         {
-          "id": "dd3e44657bab409de0897fbaad07d9ca7ae06604",
-          "title": "17世纪阿姆斯特丹范德海登兄弟的消防系统 / The firefighting system of the Van der Heyden brothers in 17th century Amsterdam",
-          "url": "https://worksinprogress.co/issue/how-amsterdam-invented-the-fire-department",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-03T22:46:18Z"
+          "id": "2678cac44e38d601f3f5c52843d9c80fd1afe32c",
+          "title": "★ Claude 的极其糟糕的 Electron Mac 应用程序是内部人员所为 / ★ Claude’s Criminally Bad Electron Mac App Is an Inside Job",
+          "url": "https://daringfireball.net/2026/07/claudes_criminally_bad_mac_app_is_an_inside_job",
+          "source": "Daring Fireball",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-03T21:24:05Z"
         }
       ],
       "source_count": 2,
       "source_names": [
+        "Daring Fireball",
         "Hacker News · 24h最热"
       ],
       "items": [
         {
-          "id": "0f5897aec7717231ec2963b2b5a1b7ac3bf536ad",
-          "title": "阿姆斯特丹发明了消防队 / Amsterdam invented the fire department",
-          "url": "https://worksinprogress.co/issue/how-amsterdam-invented-the-fire-department",
+          "id": "6946947ee19f4eabd1b586cc7da5f48be7d20b02",
+          "title": "Claude 的 Electron Mac 应用程序极其糟糕，是内部人员所为 / Claude's Criminally Bad Electron Mac App Is an Inside Job",
+          "url": "https://daringfireball.net/2026/07/claudes_criminally_bad_mac_app_is_an_inside_job",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-07-03T22:46:18Z"
+          "published_at": "2026-07-04T00:01:23Z"
         },
         {
-          "id": "dd3e44657bab409de0897fbaad07d9ca7ae06604",
-          "title": "17世纪阿姆斯特丹范德海登兄弟的消防系统 / The firefighting system of the Van der Heyden brothers in 17th century Amsterdam",
-          "url": "https://worksinprogress.co/issue/how-amsterdam-invented-the-fire-department",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-03T22:46:18Z"
+          "id": "2678cac44e38d601f3f5c52843d9c80fd1afe32c",
+          "title": "★ Claude 的极其糟糕的 Electron Mac 应用程序是内部人员所为 / ★ Claude’s Criminally Bad Electron Mac App Is an Inside Job",
+          "url": "https://daringfireball.net/2026/07/claudes_criminally_bad_mac_app_is_an_inside_job",
+          "source": "Daring Fireball",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-03T21:24:05Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4762,
-      "importance": 0.4762,
-      "importance_score": 0.4762,
+      "score": 0.4681,
+      "importance": 0.4681,
+      "importance_score": 0.4681,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6412,
+        "recency": 0.6004,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-03T22:46:18Z",
-      "latest_at": "2026-07-03T22:46:18Z",
+      "earliest_at": "2026-07-03T21:24:05Z",
+      "latest_at": "2026-07-04T00:01:23Z",
       "primary_item": {
-        "id": "0f5897aec7717231ec2963b2b5a1b7ac3bf536ad",
-        "title": "阿姆斯特丹发明了消防队 / Amsterdam invented the fire department",
-        "url": "https://worksinprogress.co/issue/how-amsterdam-invented-the-fire-department",
+        "id": "6946947ee19f4eabd1b586cc7da5f48be7d20b02",
+        "title": "Claude 的 Electron Mac 应用程序极其糟糕，是内部人员所为 / Claude's Criminally Bad Electron Mac App Is an Inside Job",
+        "url": "https://daringfireball.net/2026/07/claudes_criminally_bad_mac_app_is_an_inside_job",
         "source": "Hacker News · 24h最热",
         "source_name": "Zeli"
       }
     },
     {
-      "story_id": "story_616f8e70b9f8",
-      "title": "Claude Mythos 预览版发布后新的严重漏洞激增 / New serious vulnerabilities spiked around release of Claude Mythos Preview",
-      "url": "https://news.ycombinator.com/item?id=48780056",
-      "primary_url": "https://news.ycombinator.com/item?id=48780056",
+      "story_id": "story_551c2101be10",
+      "title": "Kagi 变更日志（7 月 2 日）：正面、反面和 AI 切换 / Kagi Changelog (July 2): Heads, tails, and an AI toggle",
+      "url": "https://news.ycombinator.com/item?id=48779352",
+      "primary_url": "https://news.ycombinator.com/item?id=48779352",
       "source": "hackernews",
       "source_name": "NewsNow",
       "sources": [
         {
-          "id": "49b6ac7b0f225bb8a3b657f8a856d972ca57dcca",
-          "title": "Claude Mythos 预览版发布后新的严重漏洞激增 / New serious vulnerabilities spiked around release of Claude Mythos Preview",
-          "url": "https://news.ycombinator.com/item?id=48780056",
+          "id": "88f14b3b5327d5cf3324b82907c58c754a730393",
+          "title": "Kagi 变更日志（7 月 2 日）：正面、反面和 AI 切换 / Kagi Changelog (July 2): Heads, tails, and an AI toggle",
+          "url": "https://news.ycombinator.com/item?id=48779352",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
           "published_at": "2026-07-03T22:34:52.358000Z"
         },
         {
-          "id": "b8ad25ecb85d7d27d79b8b2b6cc61cf5a704bb72",
-          "title": "Claude Mythos 预览版发布后新的严重漏洞激增 / New serious vulnerabilities spiked around release of Claude Mythos Preview",
-          "url": "https://epoch.ai/data-insights/cve-severity-spike",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-03T21:16:16Z"
+          "id": "cb37321763617c01ea664225410a7bb64e9029ce",
+          "title": "Kagi 变更日志（7 月 2 日）：正面、反面和 AI 切换 / Kagi Changelog (July 2): Heads, tails, and an AI toggle",
+          "url": "https://kagi.com/changelog",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-03T20:08:01Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News",
+        "Hacker News · 24h最热",
         "hackernews"
       ],
       "items": [
         {
-          "id": "49b6ac7b0f225bb8a3b657f8a856d972ca57dcca",
-          "title": "Claude Mythos 预览版发布后新的严重漏洞激增 / New serious vulnerabilities spiked around release of Claude Mythos Preview",
-          "url": "https://news.ycombinator.com/item?id=48780056",
+          "id": "88f14b3b5327d5cf3324b82907c58c754a730393",
+          "title": "Kagi 变更日志（7 月 2 日）：正面、反面和 AI 切换 / Kagi Changelog (July 2): Heads, tails, and an AI toggle",
+          "url": "https://news.ycombinator.com/item?id=48779352",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
           "published_at": "2026-07-03T22:34:52.358000Z"
         },
         {
-          "id": "b8ad25ecb85d7d27d79b8b2b6cc61cf5a704bb72",
-          "title": "Claude Mythos 预览版发布后新的严重漏洞激增 / New serious vulnerabilities spiked around release of Claude Mythos Preview",
-          "url": "https://epoch.ai/data-insights/cve-severity-spike",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-03T21:16:16Z"
+          "id": "cb37321763617c01ea664225410a7bb64e9029ce",
+          "title": "Kagi 变更日志（7 月 2 日）：正面、反面和 AI 切换 / Kagi Changelog (July 2): Heads, tails, and an AI toggle",
+          "url": "https://kagi.com/changelog",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-03T20:08:01Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4747,
-      "importance": 0.4747,
-      "importance_score": 0.4747,
+      "score": 0.4561,
+      "importance": 0.4561,
+      "importance_score": 0.4561,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6333,
+        "recency": 0.5403,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-03T21:16:16Z",
+      "earliest_at": "2026-07-03T20:08:01Z",
       "latest_at": "2026-07-03T22:34:52.358000Z",
       "primary_item": {
-        "id": "49b6ac7b0f225bb8a3b657f8a856d972ca57dcca",
-        "title": "Claude Mythos 预览版发布后新的严重漏洞激增 / New serious vulnerabilities spiked around release of Claude Mythos Preview",
-        "url": "https://news.ycombinator.com/item?id=48780056",
+        "id": "88f14b3b5327d5cf3324b82907c58c754a730393",
+        "title": "Kagi 变更日志（7 月 2 日）：正面、反面和 AI 切换 / Kagi Changelog (July 2): Heads, tails, and an AI toggle",
+        "url": "https://news.ycombinator.com/item?id=48779352",
         "source": "hackernews",
         "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_db7c575dece9",
-      "title": "消息人士称，阿里巴巴将因涉嫌后门风险而在工作场所禁止使用Claude Code",
-      "url": "https://www.reuters.com/world/china/alibaba-ban-claude-code-workplace-over-alleged-backdoor-risks-source-says-2026-07-03",
-      "primary_url": "https://www.reuters.com/world/china/alibaba-ban-claude-code-workplace-over-alleged-backdoor-risks-source-says-2026-07-03",
-      "source": "www.reuters.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "d577e65916d0132a8d722321af0a77d645f856f1",
-          "title": "消息人士称，阿里巴巴将因涉嫌后门风险而在工作场所禁止使用Claude Code",
-          "url": "https://www.reuters.com/world/china/alibaba-ban-claude-code-workplace-over-alleged-backdoor-risks-source-says-2026-07-03",
-          "source": "www.reuters.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-03T11:19:37.346000Z"
-        },
-        {
-          "id": "50b1f168d4efdd1d1e1c1cf16380387fc31e2cb4",
-          "title": "消息人士称，阿里巴巴因涉嫌后门风险而禁止在工作场所使用克劳德·代码 / Alibaba to ban Claude Code in workplace over alleged backdoor risks, source says",
-          "url": "https://news.ycombinator.com/item?id=48772443",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-03T09:38:08.759000Z"
-        },
-        {
-          "id": "664aff5b8d44231669ac962aa750d3d424376895",
-          "title": "消息人士称，阿里巴巴将因涉嫌后门风险而在工作场所禁止使用Claude Code / Alibaba to ban Claude Code in workplace over alleged backdoor risks, source says",
-          "url": "https://www.reuters.com/world/china/alibaba-ban-claude-code-workplace-over-alleged-backdoor-risks-source-says-2026-07-03",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-03T08:31:37Z"
-        },
-        {
-          "id": "ecc88efcbba254270fce1bb2e7a14d4ff60b4dc5",
-          "title": "消息人士称，阿里巴巴因涉嫌后门风险而禁止 Claude Code / Alibaba to ban Claude Code over alleged backdoor risk, source says",
-          "url": "https://thenextweb.com/news/alibaba-bans-claude-code-alleged-backdoor-risk",
-          "source": "The Next Web",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-03T07:30:12Z"
-        }
-      ],
-      "source_count": 4,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "The Next Web",
-        "hackernews",
-        "www.reuters.com"
-      ],
-      "items": [
-        {
-          "id": "d577e65916d0132a8d722321af0a77d645f856f1",
-          "title": "消息人士称，阿里巴巴将因涉嫌后门风险而在工作场所禁止使用Claude Code",
-          "url": "https://www.reuters.com/world/china/alibaba-ban-claude-code-workplace-over-alleged-backdoor-risks-source-says-2026-07-03",
-          "source": "www.reuters.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-03T11:19:37.346000Z"
-        },
-        {
-          "id": "50b1f168d4efdd1d1e1c1cf16380387fc31e2cb4",
-          "title": "消息人士称，阿里巴巴因涉嫌后门风险而禁止在工作场所使用克劳德·代码 / Alibaba to ban Claude Code in workplace over alleged backdoor risks, source says",
-          "url": "https://news.ycombinator.com/item?id=48772443",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-03T09:38:08.759000Z"
-        },
-        {
-          "id": "664aff5b8d44231669ac962aa750d3d424376895",
-          "title": "消息人士称，阿里巴巴将因涉嫌后门风险而在工作场所禁止使用Claude Code / Alibaba to ban Claude Code in workplace over alleged backdoor risks, source says",
-          "url": "https://www.reuters.com/world/china/alibaba-ban-claude-code-workplace-over-alleged-backdoor-risks-source-says-2026-07-03",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-03T08:31:37Z"
-        },
-        {
-          "id": "ecc88efcbba254270fce1bb2e7a14d4ff60b4dc5",
-          "title": "消息人士称，阿里巴巴因涉嫌后门风险而禁止 Claude Code / Alibaba to ban Claude Code over alleged backdoor risk, source says",
-          "url": "https://thenextweb.com/news/alibaba-bans-claude-code-alleged-backdoor-risk",
-          "source": "The Next Web",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-03T07:30:12Z"
-        }
-      ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.4309,
-      "importance": 0.4309,
-      "importance_score": 0.4309,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.1644,
-        "story_heat": 0.75
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-03T07:30:12Z",
-      "latest_at": "2026-07-03T11:19:37.346000Z",
-      "primary_item": {
-        "id": "d577e65916d0132a8d722321af0a77d645f856f1",
-        "title": "消息人士称，阿里巴巴将因涉嫌后门风险而在工作场所禁止使用Claude Code",
-        "url": "https://www.reuters.com/world/china/alibaba-ban-claude-code-workplace-over-alleged-backdoor-risks-source-says-2026-07-03",
-        "source": "www.reuters.com",
-        "source_name": "Buzzing"
       }
     },
     {
@@ -1660,14 +1660,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4276,
-      "importance": 0.4276,
-      "importance_score": 0.4276,
+      "score": 0.409,
+      "importance": 0.409,
+      "importance_score": 0.409,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.3979,
+        "recency": 0.3049,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1737,14 +1737,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4254,
-      "importance": 0.4254,
-      "importance_score": 0.4254,
+      "score": 0.4068,
+      "importance": 0.4068,
+      "importance_score": 0.4068,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.3868,
+        "recency": 0.2939,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1815,14 +1815,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4776,
-      "importance": 0.4776,
-      "importance_score": 0.4776,
+      "score": 0.459,
+      "importance": 0.459,
+      "importance_score": 0.459,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.66,
-        "recency": 0.6328,
+        "recency": 0.5398,
         "story_heat": 0.25
       },
       "category": "watch",
