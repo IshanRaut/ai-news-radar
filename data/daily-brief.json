@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-07-04T19:44:45.197655Z",
+  "generated_at": "2026-07-04T20:59:59.062309Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260705-0545-143f-a2b7-6edb0d7792bd&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260705-0545-143f-a2b7-6edb0d7792bd&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260705-0700-31a7-9d8f-1dd732f97f76&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260705-0700-31a7-9d8f-1dd732f97f76&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "f241e582cb4efad731b2f85be503b312a110b476",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260705-0700-31a7-9d8f-1dd732f97f76&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "fa922a4041e110ba492f82b580a3f7ceb116dfeb",
           "title": "点击这里进入 / Click here to enter",
@@ -120,12 +129,21 @@
           "published_at": null
         }
       ],
-      "source_count": 12,
+      "source_count": 13,
       "source_names": [
         "Page Fallback"
       ],
       "items": [
         {
+          "id": "f241e582cb4efad731b2f85be503b312a110b476",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260705-0700-31a7-9d8f-1dd732f97f76&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "fa922a4041e110ba492f82b580a3f7ceb116dfeb",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260705-0545-143f-a2b7-6edb0d7792bd&fp=-3",
@@ -234,8 +252,8 @@
           "published_at": null
         }
       ],
-      "item_count": 12,
-      "duplicate_count": 12,
+      "item_count": 13,
+      "duplicate_count": 13,
       "score": 0.912,
       "importance": 0.912,
       "importance_score": 0.912,
@@ -253,72 +271,13 @@
         "high_importance"
       ],
       "earliest_at": "2026-07-03T21:09:28.613161Z",
-      "latest_at": "2026-07-04T19:44:45.197655Z",
+      "latest_at": "2026-07-04T20:59:59.062309Z",
       "primary_item": {
-        "id": "fa922a4041e110ba492f82b580a3f7ceb116dfeb",
+        "id": "f241e582cb4efad731b2f85be503b312a110b476",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260705-0545-143f-a2b7-6edb0d7792bd&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260705-0700-31a7-9d8f-1dd732f97f76&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
-      }
-    },
-    {
-      "story_id": "story_b4c457344c84",
-      "title": "26000名学生研究显示AI隐藏学习成本需两年才显现",
-      "url": "https://aihot.virxact.com/items/cmr65ieko002tslf0xiomac0c",
-      "primary_url": "https://aihot.virxact.com/items/cmr65ieko002tslf0xiomac0c",
-      "source": "The Decoder：AI News（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "8db562233cdd62b87251df755c323271a3ff4ed3",
-          "title": "26000名学生研究显示AI隐藏学习成本需两年才显现",
-          "url": "https://aihot.virxact.com/items/cmr65ieko002tslf0xiomac0c",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-04T09:08:41Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "The Decoder：AI News（RSS）"
-      ],
-      "items": [
-        {
-          "id": "8db562233cdd62b87251df755c323271a3ff4ed3",
-          "title": "26000名学生研究显示AI隐藏学习成本需两年才显现",
-          "url": "https://aihot.virxact.com/items/cmr65ieko002tslf0xiomac0c",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-04T09:08:41Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7237,
-      "importance": 0.7237,
-      "importance_score": 0.7237,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5583,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-04T09:08:41Z",
-      "latest_at": "2026-07-04T09:08:41Z",
-      "primary_item": {
-        "id": "8db562233cdd62b87251df755c323271a3ff4ed3",
-        "title": "26000名学生研究显示AI隐藏学习成本需两年才显现",
-        "url": "https://aihot.virxact.com/items/cmr65ieko002tslf0xiomac0c",
-        "source": "The Decoder：AI News（RSS）",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -374,14 +333,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4971,
-      "importance": 0.4971,
-      "importance_score": 0.4971,
+      "score": 0.4866,
+      "importance": 0.4866,
+      "importance_score": 0.4866,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7453,
+        "recency": 0.693,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -471,14 +430,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.4851,
-      "importance": 0.4851,
-      "importance_score": 0.4851,
+      "score": 0.4746,
+      "importance": 0.4746,
+      "importance_score": 0.4746,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.5604,
+        "recency": 0.5082,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -549,14 +508,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4798,
-      "importance": 0.4798,
-      "importance_score": 0.4798,
+      "score": 0.4693,
+      "importance": 0.4693,
+      "importance_score": 0.4693,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6589,
+        "recency": 0.6067,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -627,14 +586,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4667,
-      "importance": 0.4667,
-      "importance_score": 0.4667,
+      "score": 0.4563,
+      "importance": 0.4563,
+      "importance_score": 0.4563,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.5936,
+        "recency": 0.5414,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -705,14 +664,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4798,
-      "importance": 0.4798,
-      "importance_score": 0.4798,
+      "score": 0.4693,
+      "importance": 0.4693,
+      "importance_score": 0.4693,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6589,
+        "recency": 0.6067,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -783,14 +742,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4451,
-      "importance": 0.4451,
-      "importance_score": 0.4451,
+      "score": 0.4346,
+      "importance": 0.4346,
+      "importance_score": 0.4346,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.4854,
+        "recency": 0.4332,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -861,14 +820,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4623,
-      "importance": 0.4623,
-      "importance_score": 0.4623,
+      "score": 0.4518,
+      "importance": 0.4518,
+      "importance_score": 0.4518,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.5714,
+        "recency": 0.5192,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -957,14 +916,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.4295,
-      "importance": 0.4295,
-      "importance_score": 0.4295,
+      "score": 0.4191,
+      "importance": 0.4191,
+      "importance_score": 0.4191,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.2825,
+        "recency": 0.2303,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1035,14 +994,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.422,
-      "importance": 0.422,
-      "importance_score": 0.422,
+      "score": 0.4115,
+      "importance": 0.4115,
+      "importance_score": 0.4115,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.3698,
+        "recency": 0.3175,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1113,14 +1072,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4798,
-      "importance": 0.4798,
-      "importance_score": 0.4798,
+      "score": 0.4693,
+      "importance": 0.4693,
+      "importance_score": 0.4693,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6589,
+        "recency": 0.6067,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1191,14 +1150,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4185,
-      "importance": 0.4185,
-      "importance_score": 0.4185,
+      "score": 0.408,
+      "importance": 0.408,
+      "importance_score": 0.408,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.3524,
+        "recency": 0.3002,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1269,14 +1228,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.445,
-      "importance": 0.445,
-      "importance_score": 0.445,
+      "score": 0.4345,
+      "importance": 0.4345,
+      "importance_score": 0.4345,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.4848,
+        "recency": 0.4326,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1347,14 +1306,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.409,
-      "importance": 0.409,
-      "importance_score": 0.409,
+      "score": 0.3985,
+      "importance": 0.3985,
+      "importance_score": 0.3985,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.3048,
+        "recency": 0.2525,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1425,14 +1384,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.445,
-      "importance": 0.445,
-      "importance_score": 0.445,
+      "score": 0.4345,
+      "importance": 0.4345,
+      "importance_score": 0.4345,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.4848,
+        "recency": 0.4326,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1503,14 +1462,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.3836,
-      "importance": 0.3836,
-      "importance_score": 0.3836,
+      "score": 0.3732,
+      "importance": 0.3732,
+      "importance_score": 0.3732,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.1782,
+        "recency": 0.126,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1525,162 +1484,6 @@
         "url": "https://daringfireball.net/2026/07/claudes_criminally_bad_mac_app_is_an_inside_job",
         "source": "Hacker News · 24h最热",
         "source_name": "Zeli"
-      }
-    },
-    {
-      "story_id": "story_551c2101be10",
-      "title": "Kagi 变更日志（7 月 2 日）：正面、反面和 AI 切换 / Kagi Changelog (July 2): Heads, tails, and an AI toggle",
-      "url": "https://news.ycombinator.com/item?id=48779352",
-      "primary_url": "https://news.ycombinator.com/item?id=48779352",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "88f14b3b5327d5cf3324b82907c58c754a730393",
-          "title": "Kagi 变更日志（7 月 2 日）：正面、反面和 AI 切换 / Kagi Changelog (July 2): Heads, tails, and an AI toggle",
-          "url": "https://news.ycombinator.com/item?id=48779352",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-03T22:34:52.358000Z"
-        },
-        {
-          "id": "cb37321763617c01ea664225410a7bb64e9029ce",
-          "title": "Kagi 变更日志（7 月 2 日）：正面、反面和 AI 切换 / Kagi Changelog (July 2): Heads, tails, and an AI toggle",
-          "url": "https://kagi.com/changelog",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-03T20:08:01Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "88f14b3b5327d5cf3324b82907c58c754a730393",
-          "title": "Kagi 变更日志（7 月 2 日）：正面、反面和 AI 切换 / Kagi Changelog (July 2): Heads, tails, and an AI toggle",
-          "url": "https://news.ycombinator.com/item?id=48779352",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-03T22:34:52.358000Z"
-        },
-        {
-          "id": "cb37321763617c01ea664225410a7bb64e9029ce",
-          "title": "Kagi 变更日志（7 月 2 日）：正面、反面和 AI 切换 / Kagi Changelog (July 2): Heads, tails, and an AI toggle",
-          "url": "https://kagi.com/changelog",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-03T20:08:01Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.3716,
-      "importance": 0.3716,
-      "importance_score": 0.3716,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.1181,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-03T20:08:01Z",
-      "latest_at": "2026-07-03T22:34:52.358000Z",
-      "primary_item": {
-        "id": "88f14b3b5327d5cf3324b82907c58c754a730393",
-        "title": "Kagi 变更日志（7 月 2 日）：正面、反面和 AI 切换 / Kagi Changelog (July 2): Heads, tails, and an AI toggle",
-        "url": "https://news.ycombinator.com/item?id=48779352",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_17fc9c6b8121",
-      "title": "一项对数百万条招聘信息的分析发现，企业招聘的正是人工智能无法胜任的工作",
-      "url": "https://www.businessinsider.com/ai-tech-jobs-skills-employers-want-2026-7",
-      "primary_url": "https://www.businessinsider.com/ai-tech-jobs-skills-employers-want-2026-7",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "69ce6334123f06d08a596817abda7f041e1fd040",
-          "title": "一项对数百万条招聘信息的分析发现，企业招聘的正是人工智能无法胜任的工作",
-          "url": "https://www.businessinsider.com/ai-tech-jobs-skills-employers-want-2026-7",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-03T22:47:55.026000Z"
-        },
-        {
-          "id": "22f7ac03a76289d8eb4d728fcc6d2322bbfd1bd5",
-          "title": "一项对数百万条招聘信息的分析发现，企业招聘的正是人工智能无法胜任的工作 / Companies are hiring for something AI can't do, a review of millions of job listings found",
-          "url": "https://www.businessinsider.com/ai-tech-jobs-skills-employers-want-2026-7",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-03T20:27:34Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "69ce6334123f06d08a596817abda7f041e1fd040",
-          "title": "一项对数百万条招聘信息的分析发现，企业招聘的正是人工智能无法胜任的工作",
-          "url": "https://www.businessinsider.com/ai-tech-jobs-skills-employers-want-2026-7",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-03T22:47:55.026000Z"
-        },
-        {
-          "id": "22f7ac03a76289d8eb4d728fcc6d2322bbfd1bd5",
-          "title": "一项对数百万条招聘信息的分析发现，企业招聘的正是人工智能无法胜任的工作 / Companies are hiring for something AI can't do, a review of millions of job listings found",
-          "url": "https://www.businessinsider.com/ai-tech-jobs-skills-employers-want-2026-7",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-03T20:27:34Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.3734,
-      "importance": 0.3734,
-      "importance_score": 0.3734,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.1272,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-03T20:27:34Z",
-      "latest_at": "2026-07-03T22:47:55.026000Z",
-      "primary_item": {
-        "id": "69ce6334123f06d08a596817abda7f041e1fd040",
-        "title": "一项对数百万条招聘信息的分析发现，企业招聘的正是人工智能无法胜任的工作",
-        "url": "https://www.businessinsider.com/ai-tech-jobs-skills-employers-want-2026-7",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
       }
     },
     {
@@ -1736,14 +1539,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.3732,
-      "importance": 0.3732,
-      "importance_score": 0.3732,
+      "score": 0.3628,
+      "importance": 0.3628,
+      "importance_score": 0.3628,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.1261,
+        "recency": 0.0738,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1758,6 +1561,239 @@
         "url": "https://worksinprogress.co/issue/how-amsterdam-invented-the-fire-department",
         "source": "Hacker News · 24h最热",
         "source_name": "Zeli"
+      }
+    },
+    {
+      "story_id": "story_d73ee8c7b5f3",
+      "title": "GPU 帝国松动：推理芯片正在重写 AI 算力格局",
+      "url": "https://www.huxiu.com/article/4872597.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4872597.html?f=rss",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "cd7180fffe94a5207edaa3826d07636fbe1cd096",
+          "title": "GPU 帝国松动：推理芯片正在重写 AI 算力格局",
+          "url": "https://www.huxiu.com/article/4872597.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "76e79084efd3930c63d23172944ba84805e8b824",
+          "title": "GPU帝国松动：推理芯片正在重写AI算力格局",
+          "url": "https://www.huxiu.com/article/4872597.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-03T21:28:39Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Readhub · AI",
+        "虎嗅 (Huxiu)"
+      ],
+      "items": [
+        {
+          "id": "cd7180fffe94a5207edaa3826d07636fbe1cd096",
+          "title": "GPU 帝国松动：推理芯片正在重写 AI 算力格局",
+          "url": "https://www.huxiu.com/article/4872597.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "76e79084efd3930c63d23172944ba84805e8b824",
+          "title": "GPU帝国松动：推理芯片正在重写AI算力格局",
+          "url": "https://www.huxiu.com/article/4872597.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-03T21:28:39Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.3641,
+      "importance": 0.3641,
+      "importance_score": 0.3641,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.66,
+        "recency": 0.0654,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-03T21:28:39Z",
+      "latest_at": "2026-07-03T22:34:07.220184Z",
+      "primary_item": {
+        "id": "cd7180fffe94a5207edaa3826d07636fbe1cd096",
+        "title": "GPU 帝国松动：推理芯片正在重写 AI 算力格局",
+        "url": "https://www.huxiu.com/article/4872597.html?f=rss",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_374bcce2a56f",
+      "title": "巨树向顶端树枝输送水分毫无困难 / Giant trees have no trouble pumping water to top branches",
+      "url": "https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/giant-trees-have-no-trouble-pumping-water-to-top-branches",
+      "primary_url": "https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/giant-trees-have-no-trouble-pumping-water-to-top-branches",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "149bb261267401f1de46a124cee45d1503b04343",
+          "title": "巨树向顶端树枝输送水分毫无困难 / Giant trees have no trouble pumping water to top branches",
+          "url": "https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/giant-trees-have-no-trouble-pumping-water-to-top-branches",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-03T22:40:29Z"
+        },
+        {
+          "id": "021404ebcdd10f9848461b5c0b211ecc57ff9f11",
+          "title": "巨树向顶端树枝输送水分毫无困难 / Giant trees have no trouble pumping water to top branches: new research",
+          "url": "https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/giant-trees-have-no-trouble-pumping-water-to-top-branches",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-03T22:40:29Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热"
+      ],
+      "items": [
+        {
+          "id": "149bb261267401f1de46a124cee45d1503b04343",
+          "title": "巨树向顶端树枝输送水分毫无困难 / Giant trees have no trouble pumping water to top branches",
+          "url": "https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/giant-trees-have-no-trouble-pumping-water-to-top-branches",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-03T22:40:29Z"
+        },
+        {
+          "id": "021404ebcdd10f9848461b5c0b211ecc57ff9f11",
+          "title": "巨树向顶端树枝输送水分毫无困难 / Giant trees have no trouble pumping water to top branches: new research",
+          "url": "https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/giant-trees-have-no-trouble-pumping-water-to-top-branches",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-03T22:40:29Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.362,
+      "importance": 0.362,
+      "importance_score": 0.362,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.0698,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-03T22:40:29Z",
+      "latest_at": "2026-07-03T22:40:29Z",
+      "primary_item": {
+        "id": "149bb261267401f1de46a124cee45d1503b04343",
+        "title": "巨树向顶端树枝输送水分毫无困难 / Giant trees have no trouble pumping water to top branches",
+        "url": "https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/giant-trees-have-no-trouble-pumping-water-to-top-branches",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
+      }
+    },
+    {
+      "story_id": "story_c1684a2b8eee",
+      "title": "Meta「算力过剩」疑云背后：扎克伯格说 AI 进展慢了，AI 负责人新模型说已追上 GPT-5.5",
+      "url": "https://www.huxiu.com/article/4872592.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4872592.html?f=rss",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "4253949248bcd3e2a8592fb2ea782d12fdb92d51",
+          "title": "Meta「算力过剩」疑云背后：扎克伯格说 AI 进展慢了，AI 负责人新模型说已追上 GPT-5.5",
+          "url": "https://www.huxiu.com/article/4872592.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "058ee1328dbe08a55f985cd70f0f1ac051dd497f",
+          "title": "Meta“算力过剩”疑云背后：扎克伯格说AI进展慢了，AI负责人新模型说已追上GPT-5.5",
+          "url": "https://www.huxiu.com/article/4872592.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-03T21:02:49Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Readhub · AI",
+        "虎嗅 (Huxiu)"
+      ],
+      "items": [
+        {
+          "id": "4253949248bcd3e2a8592fb2ea782d12fdb92d51",
+          "title": "Meta「算力过剩」疑云背后：扎克伯格说 AI 进展慢了，AI 负责人新模型说已追上 GPT-5.5",
+          "url": "https://www.huxiu.com/article/4872592.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "058ee1328dbe08a55f985cd70f0f1ac051dd497f",
+          "title": "Meta“算力过剩”疑云背后：扎克伯格说AI进展慢了，AI负责人新模型说已追上GPT-5.5",
+          "url": "https://www.huxiu.com/article/4872592.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-03T21:02:49Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.3611,
+      "importance": 0.3611,
+      "importance_score": 0.3611,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.0654,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-03T21:02:49Z",
+      "latest_at": "2026-07-03T22:34:07.220184Z",
+      "primary_item": {
+        "id": "4253949248bcd3e2a8592fb2ea782d12fdb92d51",
+        "title": "Meta「算力过剩」疑云背后：扎克伯格说 AI 进展慢了，AI 负责人新模型说已追上 GPT-5.5",
+        "url": "https://www.huxiu.com/article/4872592.html?f=rss",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
       }
     }
   ]
