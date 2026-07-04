@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-07-04T20:59:59.062309Z",
+  "generated_at": "2026-07-04T22:06:51.264528Z",
   "window_hours": 24,
-  "total_items": 20,
+  "total_items": 16,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260705-0700-31a7-9d8f-1dd732f97f76&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260705-0700-31a7-9d8f-1dd732f97f76&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260705-0807-112e-baef-4ff2b764e904&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260705-0807-112e-baef-4ff2b764e904&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "a09968acac2dab519efbe94b8c52d6ccbbb17588",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260705-0807-112e-baef-4ff2b764e904&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "f241e582cb4efad731b2f85be503b312a110b476",
           "title": "点击这里进入 / Click here to enter",
@@ -114,15 +123,6 @@
           "id": "7ee7e074789352fee2e5e4a543aaee4aa28a59e2",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260704-0834-29e2-9a43-abc383df4f56&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "26a349310dc4b9b34ba3630cd97e837214e14145",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260704-0709-548f-a5af-2a980f229418&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -135,6 +135,15 @@
       ],
       "items": [
         {
+          "id": "a09968acac2dab519efbe94b8c52d6ccbbb17588",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260705-0807-112e-baef-4ff2b764e904&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "f241e582cb4efad731b2f85be503b312a110b476",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260705-0700-31a7-9d8f-1dd732f97f76&fp=-3",
@@ -237,15 +246,6 @@
           "id": "7ee7e074789352fee2e5e4a543aaee4aa28a59e2",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260704-0834-29e2-9a43-abc383df4f56&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "26a349310dc4b9b34ba3630cd97e837214e14145",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260704-0709-548f-a5af-2a980f229418&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -270,14 +270,91 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-03T21:09:28.613161Z",
-      "latest_at": "2026-07-04T20:59:59.062309Z",
+      "earliest_at": "2026-07-03T22:34:07.220184Z",
+      "latest_at": "2026-07-04T22:06:51.264528Z",
       "primary_item": {
-        "id": "f241e582cb4efad731b2f85be503b312a110b476",
+        "id": "a09968acac2dab519efbe94b8c52d6ccbbb17588",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260705-0700-31a7-9d8f-1dd732f97f76&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260705-0807-112e-baef-4ff2b764e904&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
+      }
+    },
+    {
+      "story_id": "story_9c79f138d1f8",
+      "title": "关于编程代理的思考 · rakyll.org / Thoughts on coding agents",
+      "url": "https://rakyll.org/coding-agents",
+      "primary_url": "https://rakyll.org/coding-agents",
+      "source": "Lobsters (技术社区)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "8c196101e3bd2aae0cffc8298c99b28fb503daa5",
+          "title": "关于编程代理的思考 · rakyll.org / Thoughts on coding agents",
+          "url": "https://rakyll.org/coding-agents",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-04T18:30:17Z"
+        },
+        {
+          "id": "0849b3f7c13f90597fa11b68b3cb61ba05a04fc9",
+          "title": "关于编程代理的思考 · rakyll.org / Thoughts on coding agents · rakyll.org",
+          "url": "https://rakyll.org/coding-agents",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-04T18:30:17Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Lobsters (技术社区)"
+      ],
+      "items": [
+        {
+          "id": "8c196101e3bd2aae0cffc8298c99b28fb503daa5",
+          "title": "关于编程代理的思考 · rakyll.org / Thoughts on coding agents",
+          "url": "https://rakyll.org/coding-agents",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-04T18:30:17Z"
+        },
+        {
+          "id": "0849b3f7c13f90597fa11b68b3cb61ba05a04fc9",
+          "title": "关于编程代理的思考 · rakyll.org / Thoughts on coding agents · rakyll.org",
+          "url": "https://rakyll.org/coding-agents",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-04T18:30:17Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5179,
+      "importance": 0.5179,
+      "importance_score": 0.5179,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8496,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-04T18:30:17Z",
+      "latest_at": "2026-07-04T18:30:17Z",
+      "primary_item": {
+        "id": "8c196101e3bd2aae0cffc8298c99b28fb503daa5",
+        "title": "关于编程代理的思考 · rakyll.org / Thoughts on coding agents",
+        "url": "https://rakyll.org/coding-agents",
+        "source": "Lobsters (技术社区)",
+        "source_name": "Info Flow"
       }
     },
     {
@@ -333,14 +410,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4866,
-      "importance": 0.4866,
-      "importance_score": 0.4866,
+      "score": 0.4773,
+      "importance": 0.4773,
+      "importance_score": 0.4773,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.693,
+        "recency": 0.6466,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -355,103 +432,6 @@
         "url": "https://api3.cls.cn/share/article/2417160?os=web&sv=8.4.6&app=CailianpressWeb",
         "source": "Readhub · AI",
         "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_616f8e70b9f8",
-      "title": "在Claude Mythos预览版发布前后，新发现的严重漏洞数量激增",
-      "url": "https://epoch.ai/data-insights/cve-severity-spike",
-      "primary_url": "https://epoch.ai/data-insights/cve-severity-spike",
-      "source": "epoch.ai",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "7b0bcf1e441f6017f37dafeb3786a3bbce814539",
-          "title": "在Claude Mythos预览版发布前后，新发现的严重漏洞数量激增",
-          "url": "https://epoch.ai/data-insights/cve-severity-spike",
-          "source": "epoch.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-04T09:11:45.212000Z"
-        },
-        {
-          "id": "49b6ac7b0f225bb8a3b657f8a856d972ca57dcca",
-          "title": "Claude Mythos 预览版发布后新的严重漏洞激增 / New serious vulnerabilities spiked around release of Claude Mythos Preview",
-          "url": "https://news.ycombinator.com/item?id=48780056",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-03T22:34:52.358000Z"
-        },
-        {
-          "id": "b8ad25ecb85d7d27d79b8b2b6cc61cf5a704bb72",
-          "title": "在Claude Mythos预览版发布前后，新发现的严重漏洞数量激增 / New serious vulnerabilities spiked around release of Claude Mythos Preview",
-          "url": "https://epoch.ai/data-insights/cve-severity-spike",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-03T21:16:16Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News",
-        "epoch.ai",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "7b0bcf1e441f6017f37dafeb3786a3bbce814539",
-          "title": "在Claude Mythos预览版发布前后，新发现的严重漏洞数量激增",
-          "url": "https://epoch.ai/data-insights/cve-severity-spike",
-          "source": "epoch.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-04T09:11:45.212000Z"
-        },
-        {
-          "id": "49b6ac7b0f225bb8a3b657f8a856d972ca57dcca",
-          "title": "Claude Mythos 预览版发布后新的严重漏洞激增 / New serious vulnerabilities spiked around release of Claude Mythos Preview",
-          "url": "https://news.ycombinator.com/item?id=48780056",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-03T22:34:52.358000Z"
-        },
-        {
-          "id": "b8ad25ecb85d7d27d79b8b2b6cc61cf5a704bb72",
-          "title": "在Claude Mythos预览版发布前后，新发现的严重漏洞数量激增 / New serious vulnerabilities spiked around release of Claude Mythos Preview",
-          "url": "https://epoch.ai/data-insights/cve-severity-spike",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-03T21:16:16Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.4746,
-      "importance": 0.4746,
-      "importance_score": 0.4746,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.5082,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-03T21:16:16Z",
-      "latest_at": "2026-07-04T09:11:45.212000Z",
-      "primary_item": {
-        "id": "7b0bcf1e441f6017f37dafeb3786a3bbce814539",
-        "title": "在Claude Mythos预览版发布前后，新发现的严重漏洞数量激增",
-        "url": "https://epoch.ai/data-insights/cve-severity-spike",
-        "source": "epoch.ai",
-        "source_name": "Buzzing"
       }
     },
     {
@@ -508,14 +488,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4693,
-      "importance": 0.4693,
-      "importance_score": 0.4693,
+      "score": 0.46,
+      "importance": 0.46,
+      "importance_score": 0.46,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6067,
+        "recency": 0.5602,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -586,14 +566,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4563,
-      "importance": 0.4563,
-      "importance_score": 0.4563,
+      "score": 0.447,
+      "importance": 0.447,
+      "importance_score": 0.447,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.5414,
+        "recency": 0.4949,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -664,14 +644,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4693,
-      "importance": 0.4693,
-      "importance_score": 0.4693,
+      "score": 0.46,
+      "importance": 0.46,
+      "importance_score": 0.46,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6067,
+        "recency": 0.5602,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -742,14 +722,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4346,
-      "importance": 0.4346,
-      "importance_score": 0.4346,
+      "score": 0.4254,
+      "importance": 0.4254,
+      "importance_score": 0.4254,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.4332,
+        "recency": 0.3868,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -820,14 +800,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4518,
-      "importance": 0.4518,
-      "importance_score": 0.4518,
+      "score": 0.4426,
+      "importance": 0.4426,
+      "importance_score": 0.4426,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.5192,
+        "recency": 0.4728,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -841,102 +821,6 @@
         "title": "担心人工智能会抢走你的工作？未来30天内请这样做。",
         "url": "https://www.businessinsider.com/scared-ai-will-take-job-do-this-next-30-days-2026-7",
         "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_b7e86ff92336",
-      "title": "在 AMD MI355X 上运行的 GLM5.2，每节点吞吐量达 2626 tok/s，成本仅为 Blackwell 的不到一半",
-      "url": "https://www.wafer.ai/blog/glm52-amd",
-      "primary_url": "https://www.wafer.ai/blog/glm52-amd",
-      "source": "www.wafer.ai",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "080d7749fd52aba3fb6472de65e14d78b7d7af7e",
-          "title": "在 AMD MI355X 上运行的 GLM5.2，每节点吞吐量达 2626 tok/s，成本仅为 Blackwell 的不到一半",
-          "url": "https://www.wafer.ai/blog/glm52-amd",
-          "source": "www.wafer.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-04T02:31:35.646000Z"
-        },
-        {
-          "id": "faa9fd4ba6a828ca085b5ca81ab9627a0f7b7ec1",
-          "title": "在 AMD MI355X 上运行的 GLM5.2，每节点吞吐量达 2626 tok/s，成本仅为 Blackwell 的不到一半 / GLM5.2 on AMD MI355X at 2626 tok/s/node at over 2x lower cost than Blackwell",
-          "url": "https://www.wafer.ai/blog/glm52-amd",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-03T21:49:06Z"
-        },
-        {
-          "id": "b986b1f1bad4ec4a98858ccd0d413cec6f0f82d5",
-          "title": "在 AMD MI355X 上运行的 GLM5.2，每节点吞吐量达 2626 tok/s，成本仅为 Blackwell 的不到一半 / Performance per dollar is getting faster and cheaper",
-          "url": "https://www.wafer.ai/blog/glm52-amd",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-03T21:49:06Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "www.wafer.ai"
-      ],
-      "items": [
-        {
-          "id": "080d7749fd52aba3fb6472de65e14d78b7d7af7e",
-          "title": "在 AMD MI355X 上运行的 GLM5.2，每节点吞吐量达 2626 tok/s，成本仅为 Blackwell 的不到一半",
-          "url": "https://www.wafer.ai/blog/glm52-amd",
-          "source": "www.wafer.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-04T02:31:35.646000Z"
-        },
-        {
-          "id": "faa9fd4ba6a828ca085b5ca81ab9627a0f7b7ec1",
-          "title": "在 AMD MI355X 上运行的 GLM5.2，每节点吞吐量达 2626 tok/s，成本仅为 Blackwell 的不到一半 / GLM5.2 on AMD MI355X at 2626 tok/s/node at over 2x lower cost than Blackwell",
-          "url": "https://www.wafer.ai/blog/glm52-amd",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-03T21:49:06Z"
-        },
-        {
-          "id": "b986b1f1bad4ec4a98858ccd0d413cec6f0f82d5",
-          "title": "在 AMD MI355X 上运行的 GLM5.2，每节点吞吐量达 2626 tok/s，成本仅为 Blackwell 的不到一半 / Performance per dollar is getting faster and cheaper",
-          "url": "https://www.wafer.ai/blog/glm52-amd",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-03T21:49:06Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.4191,
-      "importance": 0.4191,
-      "importance_score": 0.4191,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.2303,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-03T21:49:06Z",
-      "latest_at": "2026-07-04T02:31:35.646000Z",
-      "primary_item": {
-        "id": "080d7749fd52aba3fb6472de65e14d78b7d7af7e",
-        "title": "在 AMD MI355X 上运行的 GLM5.2，每节点吞吐量达 2626 tok/s，成本仅为 Blackwell 的不到一半",
-        "url": "https://www.wafer.ai/blog/glm52-amd",
-        "source": "www.wafer.ai",
         "source_name": "Buzzing"
       }
     },
@@ -994,14 +878,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4115,
-      "importance": 0.4115,
-      "importance_score": 0.4115,
+      "score": 0.4022,
+      "importance": 0.4022,
+      "importance_score": 0.4022,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.3175,
+        "recency": 0.2711,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1072,14 +956,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4693,
-      "importance": 0.4693,
-      "importance_score": 0.4693,
+      "score": 0.46,
+      "importance": 0.46,
+      "importance_score": 0.46,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6067,
+        "recency": 0.5602,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1150,14 +1034,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.408,
-      "importance": 0.408,
-      "importance_score": 0.408,
+      "score": 0.3988,
+      "importance": 0.3988,
+      "importance_score": 0.3988,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.3002,
+        "recency": 0.2538,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1228,14 +1112,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4345,
-      "importance": 0.4345,
-      "importance_score": 0.4345,
+      "score": 0.4252,
+      "importance": 0.4252,
+      "importance_score": 0.4252,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.4326,
+        "recency": 0.3862,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1306,14 +1190,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.3985,
-      "importance": 0.3985,
-      "importance_score": 0.3985,
+      "score": 0.3892,
+      "importance": 0.3892,
+      "importance_score": 0.3892,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.2525,
+        "recency": 0.2061,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1384,14 +1268,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4345,
-      "importance": 0.4345,
-      "importance_score": 0.4345,
+      "score": 0.4252,
+      "importance": 0.4252,
+      "importance_score": 0.4252,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.4326,
+        "recency": 0.3862,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1406,84 +1290,6 @@
         "url": "https://www.gelonghui.com/live/2536725",
         "source": "Readhub · AI",
         "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_2e04f3e69e59",
-      "title": "Claude 的 Electron Mac 应用程序极其糟糕，是内部人员所为 / Claude's Criminally Bad Electron Mac App Is an Inside Job",
-      "url": "https://daringfireball.net/2026/07/claudes_criminally_bad_mac_app_is_an_inside_job",
-      "primary_url": "https://daringfireball.net/2026/07/claudes_criminally_bad_mac_app_is_an_inside_job",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "6946947ee19f4eabd1b586cc7da5f48be7d20b02",
-          "title": "Claude 的 Electron Mac 应用程序极其糟糕，是内部人员所为 / Claude's Criminally Bad Electron Mac App Is an Inside Job",
-          "url": "https://daringfireball.net/2026/07/claudes_criminally_bad_mac_app_is_an_inside_job",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-04T00:01:23Z"
-        },
-        {
-          "id": "2678cac44e38d601f3f5c52843d9c80fd1afe32c",
-          "title": "★ Claude 的极其糟糕的 Electron Mac 应用程序是内部人员所为 / ★ Claude’s Criminally Bad Electron Mac App Is an Inside Job",
-          "url": "https://daringfireball.net/2026/07/claudes_criminally_bad_mac_app_is_an_inside_job",
-          "source": "Daring Fireball",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-03T21:24:05Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Daring Fireball",
-        "Hacker News · 24h最热"
-      ],
-      "items": [
-        {
-          "id": "6946947ee19f4eabd1b586cc7da5f48be7d20b02",
-          "title": "Claude 的 Electron Mac 应用程序极其糟糕，是内部人员所为 / Claude's Criminally Bad Electron Mac App Is an Inside Job",
-          "url": "https://daringfireball.net/2026/07/claudes_criminally_bad_mac_app_is_an_inside_job",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-04T00:01:23Z"
-        },
-        {
-          "id": "2678cac44e38d601f3f5c52843d9c80fd1afe32c",
-          "title": "★ Claude 的极其糟糕的 Electron Mac 应用程序是内部人员所为 / ★ Claude’s Criminally Bad Electron Mac App Is an Inside Job",
-          "url": "https://daringfireball.net/2026/07/claudes_criminally_bad_mac_app_is_an_inside_job",
-          "source": "Daring Fireball",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-03T21:24:05Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.3732,
-      "importance": 0.3732,
-      "importance_score": 0.3732,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.126,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-03T21:24:05Z",
-      "latest_at": "2026-07-04T00:01:23Z",
-      "primary_item": {
-        "id": "6946947ee19f4eabd1b586cc7da5f48be7d20b02",
-        "title": "Claude 的 Electron Mac 应用程序极其糟糕，是内部人员所为 / Claude's Criminally Bad Electron Mac App Is an Inside Job",
-        "url": "https://daringfireball.net/2026/07/claudes_criminally_bad_mac_app_is_an_inside_job",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
       }
     },
     {
@@ -1539,14 +1345,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.3628,
-      "importance": 0.3628,
-      "importance_score": 0.3628,
+      "score": 0.3535,
+      "importance": 0.3535,
+      "importance_score": 0.3535,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.0738,
+        "recency": 0.0274,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1561,84 +1367,6 @@
         "url": "https://worksinprogress.co/issue/how-amsterdam-invented-the-fire-department",
         "source": "Hacker News · 24h最热",
         "source_name": "Zeli"
-      }
-    },
-    {
-      "story_id": "story_d73ee8c7b5f3",
-      "title": "GPU 帝国松动：推理芯片正在重写 AI 算力格局",
-      "url": "https://www.huxiu.com/article/4872597.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4872597.html?f=rss",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "cd7180fffe94a5207edaa3826d07636fbe1cd096",
-          "title": "GPU 帝国松动：推理芯片正在重写 AI 算力格局",
-          "url": "https://www.huxiu.com/article/4872597.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "76e79084efd3930c63d23172944ba84805e8b824",
-          "title": "GPU帝国松动：推理芯片正在重写AI算力格局",
-          "url": "https://www.huxiu.com/article/4872597.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-03T21:28:39Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Readhub · AI",
-        "虎嗅 (Huxiu)"
-      ],
-      "items": [
-        {
-          "id": "cd7180fffe94a5207edaa3826d07636fbe1cd096",
-          "title": "GPU 帝国松动：推理芯片正在重写 AI 算力格局",
-          "url": "https://www.huxiu.com/article/4872597.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "76e79084efd3930c63d23172944ba84805e8b824",
-          "title": "GPU帝国松动：推理芯片正在重写AI算力格局",
-          "url": "https://www.huxiu.com/article/4872597.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-03T21:28:39Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.3641,
-      "importance": 0.3641,
-      "importance_score": 0.3641,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.66,
-        "recency": 0.0654,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-03T21:28:39Z",
-      "latest_at": "2026-07-03T22:34:07.220184Z",
-      "primary_item": {
-        "id": "cd7180fffe94a5207edaa3826d07636fbe1cd096",
-        "title": "GPU 帝国松动：推理芯片正在重写 AI 算力格局",
-        "url": "https://www.huxiu.com/article/4872597.html?f=rss",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
       }
     },
     {
@@ -1694,14 +1422,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.362,
-      "importance": 0.362,
-      "importance_score": 0.362,
+      "score": 0.3527,
+      "importance": 0.3527,
+      "importance_score": 0.3527,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.0698,
+        "recency": 0.0234,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1716,84 +1444,6 @@
         "url": "https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/giant-trees-have-no-trouble-pumping-water-to-top-branches",
         "source": "Hacker News · 24h最热",
         "source_name": "Zeli"
-      }
-    },
-    {
-      "story_id": "story_c1684a2b8eee",
-      "title": "Meta「算力过剩」疑云背后：扎克伯格说 AI 进展慢了，AI 负责人新模型说已追上 GPT-5.5",
-      "url": "https://www.huxiu.com/article/4872592.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4872592.html?f=rss",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "4253949248bcd3e2a8592fb2ea782d12fdb92d51",
-          "title": "Meta「算力过剩」疑云背后：扎克伯格说 AI 进展慢了，AI 负责人新模型说已追上 GPT-5.5",
-          "url": "https://www.huxiu.com/article/4872592.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "058ee1328dbe08a55f985cd70f0f1ac051dd497f",
-          "title": "Meta“算力过剩”疑云背后：扎克伯格说AI进展慢了，AI负责人新模型说已追上GPT-5.5",
-          "url": "https://www.huxiu.com/article/4872592.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-03T21:02:49Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Readhub · AI",
-        "虎嗅 (Huxiu)"
-      ],
-      "items": [
-        {
-          "id": "4253949248bcd3e2a8592fb2ea782d12fdb92d51",
-          "title": "Meta「算力过剩」疑云背后：扎克伯格说 AI 进展慢了，AI 负责人新模型说已追上 GPT-5.5",
-          "url": "https://www.huxiu.com/article/4872592.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "058ee1328dbe08a55f985cd70f0f1ac051dd497f",
-          "title": "Meta“算力过剩”疑云背后：扎克伯格说AI进展慢了，AI负责人新模型说已追上GPT-5.5",
-          "url": "https://www.huxiu.com/article/4872592.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-03T21:02:49Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.3611,
-      "importance": 0.3611,
-      "importance_score": 0.3611,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.0654,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-03T21:02:49Z",
-      "latest_at": "2026-07-03T22:34:07.220184Z",
-      "primary_item": {
-        "id": "4253949248bcd3e2a8592fb2ea782d12fdb92d51",
-        "title": "Meta「算力过剩」疑云背后：扎克伯格说 AI 进展慢了，AI 负责人新模型说已追上 GPT-5.5",
-        "url": "https://www.huxiu.com/article/4872592.html?f=rss",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
       }
     }
   ]
