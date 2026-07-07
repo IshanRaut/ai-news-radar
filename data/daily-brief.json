@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-07-07T19:04:03.202828Z",
+  "generated_at": "2026-07-07T21:06:20.604661Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260708-0504-2741-af0f-b55968376875&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260708-0504-2741-af0f-b55968376875&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260708-0706-4198-a552-7e2333bbd599&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260708-0706-4198-a552-7e2333bbd599&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "ffb52d1a3c71b7df26ffe0417efe7c5dec9e27dd",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260708-0706-4198-a552-7e2333bbd599&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "fd15e0c67d6ef7c3d1cae5d35d3b377257170400",
           "title": "点击这里进入 / Click here to enter",
@@ -51,15 +60,6 @@
           "id": "0fac3d84699c2a9bc21110fc87cd1be2e4be5338",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260707-0815-1727-a74a-5c955d36d8b2&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "a31d38777f63efc3193fdcbe32dbf40d2fe78923",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260707-0654-4759-a69b-f30b4770df27&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -72,6 +72,15 @@
       ],
       "items": [
         {
+          "id": "ffb52d1a3c71b7df26ffe0417efe7c5dec9e27dd",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260708-0706-4198-a552-7e2333bbd599&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "fd15e0c67d6ef7c3d1cae5d35d3b377257170400",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260708-0504-2741-af0f-b55968376875&fp=-3",
@@ -111,15 +120,6 @@
           "id": "0fac3d84699c2a9bc21110fc87cd1be2e4be5338",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260707-0815-1727-a74a-5c955d36d8b2&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "a31d38777f63efc3193fdcbe32dbf40d2fe78923",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260707-0654-4759-a69b-f30b4770df27&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -144,12 +144,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-06T20:54:18.397322Z",
-      "latest_at": "2026-07-07T19:04:03.202828Z",
+      "earliest_at": "2026-07-06T22:14:49.559577Z",
+      "latest_at": "2026-07-07T21:06:20.604661Z",
       "primary_item": {
-        "id": "fd15e0c67d6ef7c3d1cae5d35d3b377257170400",
+        "id": "ffb52d1a3c71b7df26ffe0417efe7c5dec9e27dd",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260708-0504-2741-af0f-b55968376875&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260708-0706-4198-a552-7e2333bbd599&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
       }
@@ -189,14 +189,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8539,
-      "importance": 0.8539,
-      "importance_score": 0.8539,
+      "score": 0.8369,
+      "importance": 0.8369,
+      "importance_score": 0.8369,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8445,
+        "recency": 0.7596,
         "story_heat": 0.0
       },
       "category": "official",
@@ -213,6 +213,187 @@
         "url": "https://huggingface.co/blog/microsoft/foundry-managed-compute",
         "source": "Hugging Face Blog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_7722e8723f31",
+      "title": "计费 UI 中成本中心的每用户预算 / Per-user budgets for cost centers in the billing UI",
+      "url": "https://github.blog/changelog/2026-07-07-per-user-budgets-for-cost-centers-in-the-billing-ui",
+      "primary_url": "https://github.blog/changelog/2026-07-07-per-user-budgets-for-cost-centers-in-the-billing-ui",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "9acf313aec6d252f00f1098c103512a60ea8d45d",
+          "title": "计费 UI 中成本中心的每用户预算 / Per-user budgets for cost centers in the billing UI",
+          "url": "https://github.blog/changelog/2026-07-07-per-user-budgets-for-cost-centers-in-the-billing-ui",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-07T17:09:29Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "9acf313aec6d252f00f1098c103512a60ea8d45d",
+          "title": "计费 UI 中成本中心的每用户预算 / Per-user budgets for cost centers in the billing UI",
+          "url": "https://github.blog/changelog/2026-07-07-per-user-budgets-for-cost-centers-in-the-billing-ui",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-07T17:09:29Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8281,
+      "importance": 0.8281,
+      "importance_score": 0.8281,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.8355,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-07T17:09:29Z",
+      "latest_at": "2026-07-07T17:09:29Z",
+      "primary_item": {
+        "id": "9acf313aec6d252f00f1098c103512a60ea8d45d",
+        "title": "计费 UI 中成本中心的每用户预算 / Per-user budgets for cost centers in the billing UI",
+        "url": "https://github.blog/changelog/2026-07-07-per-user-budgets-for-cost-centers-in-the-billing-ui",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_db893fc62a8e",
+      "title": "Krea 2 身份保留功能上线",
+      "url": "https://aihot.virxact.com/items/cmrb4j2zx00n4ihl14u6xv7kz",
+      "primary_url": "https://aihot.virxact.com/items/cmrb4j2zx00n4ihl14u6xv7kz",
+      "source": "X：Krea AI (@krea_ai)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "27b94df3f51f4b70748931425c57430f982bd5fc",
+          "title": "Krea 2 身份保留功能上线",
+          "url": "https://aihot.virxact.com/items/cmrb4j2zx00n4ihl14u6xv7kz",
+          "source": "X：Krea AI (@krea_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-07T20:22:46Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Krea AI (@krea_ai)"
+      ],
+      "items": [
+        {
+          "id": "27b94df3f51f4b70748931425c57430f982bd5fc",
+          "title": "Krea 2 身份保留功能上线",
+          "url": "https://aihot.virxact.com/items/cmrb4j2zx00n4ihl14u6xv7kz",
+          "source": "X：Krea AI (@krea_ai)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-07T20:22:46Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8059,
+      "importance": 0.8059,
+      "importance_score": 0.8059,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9697,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-07T20:22:46Z",
+      "latest_at": "2026-07-07T20:22:46Z",
+      "primary_item": {
+        "id": "27b94df3f51f4b70748931425c57430f982bd5fc",
+        "title": "Krea 2 身份保留功能上线",
+        "url": "https://aihot.virxact.com/items/cmrb4j2zx00n4ihl14u6xv7kz",
+        "source": "X：Krea AI (@krea_ai)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_b39e53757bd9",
+      "title": "Meta Superintelligence Labs 推出 Muse Image 和 Muse Video",
+      "url": "https://aihot.virxact.com/items/cmrb2mxmc0072ihl1mx0aw1bz",
+      "primary_url": "https://aihot.virxact.com/items/cmrb2mxmc0072ihl1mx0aw1bz",
+      "source": "X：AI at Meta (@AIatMeta)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "d88cdc42adc41e5ec0327d93d050e0542e461f1b",
+          "title": "Meta Superintelligence Labs 推出 Muse Image 和 Muse Video",
+          "url": "https://aihot.virxact.com/items/cmrb2mxmc0072ihl1mx0aw1bz",
+          "source": "X：AI at Meta (@AIatMeta)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-07T19:33:53Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：AI at Meta (@AIatMeta)"
+      ],
+      "items": [
+        {
+          "id": "d88cdc42adc41e5ec0327d93d050e0542e461f1b",
+          "title": "Meta Superintelligence Labs 推出 Muse Image 和 Muse Video",
+          "url": "https://aihot.virxact.com/items/cmrb2mxmc0072ihl1mx0aw1bz",
+          "source": "X：AI at Meta (@AIatMeta)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-07T19:33:53Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7992,
+      "importance": 0.7992,
+      "importance_score": 0.7992,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9358,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-07T19:33:53Z",
+      "latest_at": "2026-07-07T19:33:53Z",
+      "primary_item": {
+        "id": "d88cdc42adc41e5ec0327d93d050e0542e461f1b",
+        "title": "Meta Superintelligence Labs 推出 Muse Image 和 Muse Video",
+        "url": "https://aihot.virxact.com/items/cmrb2mxmc0072ihl1mx0aw1bz",
+        "source": "X：AI at Meta (@AIatMeta)",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -250,14 +431,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8414,
-      "importance": 0.8414,
-      "importance_score": 0.8414,
+      "score": 0.8244,
+      "importance": 0.8244,
+      "importance_score": 0.8244,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9021,
+        "recency": 0.8172,
         "story_heat": 0.0
       },
       "category": "official",
@@ -277,64 +458,63 @@
       }
     },
     {
-      "story_id": "story_5b541b9a66cd",
-      "title": "GitHub Copilot 应用程序可供所有人使用 / GitHub Copilot app available to all",
-      "url": "https://github.blog/changelog/2026-07-07-github-copilot-app-available-to-all",
-      "primary_url": "https://github.blog/changelog/2026-07-07-github-copilot-app-available-to-all",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
+      "story_id": "story_87f69b1f29d7",
+      "title": "微软为降成本在Copilot中用自研MAI模型替换OpenAI和Anthropic模型",
+      "url": "https://aihot.virxact.com/items/cmrb0u6pv02qtihogovduu795",
+      "primary_url": "https://aihot.virxact.com/items/cmrb0u6pv02qtihogovduu795",
+      "source": "The Decoder：AI News（RSS）",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "485931b5be1c4b99e962f863a02cd56259d817d7",
-          "title": "GitHub Copilot 应用程序可供所有人使用 / GitHub Copilot app available to all",
-          "url": "https://github.blog/changelog/2026-07-07-github-copilot-app-available-to-all",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-07T15:10:14Z"
+          "id": "bb35b38ed1684020a0ecbea51c6a187797b4ad1f",
+          "title": "微软为降成本在Copilot中用自研MAI模型替换OpenAI和Anthropic模型",
+          "url": "https://aihot.virxact.com/items/cmrb0u6pv02qtihogovduu795",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-07T18:35:58Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "GitHub Changelog"
+        "The Decoder：AI News（RSS）"
       ],
       "items": [
         {
-          "id": "485931b5be1c4b99e962f863a02cd56259d817d7",
-          "title": "GitHub Copilot 应用程序可供所有人使用 / GitHub Copilot app available to all",
-          "url": "https://github.blog/changelog/2026-07-07-github-copilot-app-available-to-all",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-07T15:10:14Z"
+          "id": "bb35b38ed1684020a0ecbea51c6a187797b4ad1f",
+          "title": "微软为降成本在Copilot中用自研MAI模型替换OpenAI和Anthropic模型",
+          "url": "https://aihot.virxact.com/items/cmrb0u6pv02qtihogovduu795",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-07T18:35:58Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8405,
-      "importance": 0.8405,
-      "importance_score": 0.8405,
-      "importance_label": "官方更新",
+      "score": 0.7911,
+      "importance": 0.7911,
+      "importance_score": 0.7911,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.8376,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8956,
         "story_heat": 0.0
       },
-      "category": "official",
+      "category": "industry",
       "reasons": [
-        "official_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-07T15:10:14Z",
-      "latest_at": "2026-07-07T15:10:14Z",
+      "earliest_at": "2026-07-07T18:35:58Z",
+      "latest_at": "2026-07-07T18:35:58Z",
       "primary_item": {
-        "id": "485931b5be1c4b99e962f863a02cd56259d817d7",
-        "title": "GitHub Copilot 应用程序可供所有人使用 / GitHub Copilot app available to all",
-        "url": "https://github.blog/changelog/2026-07-07-github-copilot-app-available-to-all",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
+        "id": "bb35b38ed1684020a0ecbea51c6a187797b4ad1f",
+        "title": "微软为降成本在Copilot中用自研MAI模型替换OpenAI和Anthropic模型",
+        "url": "https://aihot.virxact.com/items/cmrb0u6pv02qtihogovduu795",
+        "source": "The Decoder：AI News（RSS）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -372,14 +552,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.802,
-      "importance": 0.802,
-      "importance_score": 0.802,
+      "score": 0.785,
+      "importance": 0.785,
+      "importance_score": 0.785,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9501,
+        "recency": 0.8652,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -432,14 +612,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8016,
-      "importance": 0.8016,
-      "importance_score": 0.8016,
+      "score": 0.7846,
+      "importance": 0.7846,
+      "importance_score": 0.7846,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9478,
+        "recency": 0.8628,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -492,14 +672,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8003,
-      "importance": 0.8003,
-      "importance_score": 0.8003,
+      "score": 0.7833,
+      "importance": 0.7833,
+      "importance_score": 0.7833,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.5764,
+        "recency": 0.4914,
         "story_heat": 0.0
       },
       "category": "official",
@@ -553,14 +733,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7935,
-      "importance": 0.7935,
-      "importance_score": 0.7935,
+      "score": 0.7765,
+      "importance": 0.7765,
+      "importance_score": 0.7765,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9075,
+        "recency": 0.8226,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -613,14 +793,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7898,
-      "importance": 0.7898,
-      "importance_score": 0.7898,
+      "score": 0.7728,
+      "importance": 0.7728,
+      "importance_score": 0.7728,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.889,
+        "recency": 0.8041,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -636,6 +816,67 @@
         "url": "https://aihot.virxact.com/items/cmrav068k01b6ihogth8k26f6",
         "source": "Claude：Blog（网页）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_5b541b9a66cd",
+      "title": "GitHub Copilot 应用程序可供所有人使用 / GitHub Copilot app available to all",
+      "url": "https://github.blog/changelog/2026-07-07-github-copilot-app-available-to-all",
+      "primary_url": "https://github.blog/changelog/2026-07-07-github-copilot-app-available-to-all",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "485931b5be1c4b99e962f863a02cd56259d817d7",
+          "title": "GitHub Copilot 应用程序可供所有人使用 / GitHub Copilot app available to all",
+          "url": "https://github.blog/changelog/2026-07-07-github-copilot-app-available-to-all",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-07T15:10:14Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "485931b5be1c4b99e962f863a02cd56259d817d7",
+          "title": "GitHub Copilot 应用程序可供所有人使用 / GitHub Copilot app available to all",
+          "url": "https://github.blog/changelog/2026-07-07-github-copilot-app-available-to-all",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-07T15:10:14Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8235,
+      "importance": 0.8235,
+      "importance_score": 0.8235,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.7527,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-07T15:10:14Z",
+      "latest_at": "2026-07-07T15:10:14Z",
+      "primary_item": {
+        "id": "485931b5be1c4b99e962f863a02cd56259d817d7",
+        "title": "GitHub Copilot 应用程序可供所有人使用 / GitHub Copilot app available to all",
+        "url": "https://github.blog/changelog/2026-07-07-github-copilot-app-available-to-all",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -673,14 +914,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7801,
-      "importance": 0.7801,
-      "importance_score": 0.7801,
+      "score": 0.7631,
+      "importance": 0.7631,
+      "importance_score": 0.7631,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8406,
+        "recency": 0.7557,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -696,67 +937,6 @@
         "url": "https://aihot.virxact.com/items/cmrasueu500qmihog3d8up11t",
         "source": "X：Rohan Paul (@rohanpaul_ai)",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_18e9ce98bcc6",
-      "title": "Copilot Billing Preview 应用程序将于 8 月 3 日停用 / Copilot Billing Preview app will be retired on August 3",
-      "url": "https://github.blog/changelog/2026-07-07-copilot-billing-preview-app-will-be-retired-on-august-3",
-      "primary_url": "https://github.blog/changelog/2026-07-07-copilot-billing-preview-app-will-be-retired-on-august-3",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "898a48642e6c2c52576eb7470528a0c8db51b043",
-          "title": "Copilot Billing Preview 应用程序将于 8 月 3 日停用 / Copilot Billing Preview app will be retired on August 3",
-          "url": "https://github.blog/changelog/2026-07-07-copilot-billing-preview-app-will-be-retired-on-august-3",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-07T14:51:13Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "898a48642e6c2c52576eb7470528a0c8db51b043",
-          "title": "Copilot Billing Preview 应用程序将于 8 月 3 日停用 / Copilot Billing Preview app will be retired on August 3",
-          "url": "https://github.blog/changelog/2026-07-07-copilot-billing-preview-app-will-be-retired-on-august-3",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-07T14:51:13Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8379,
-      "importance": 0.8379,
-      "importance_score": 0.8379,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.8244,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-07T14:51:13Z",
-      "latest_at": "2026-07-07T14:51:13Z",
-      "primary_item": {
-        "id": "898a48642e6c2c52576eb7470528a0c8db51b043",
-        "title": "Copilot Billing Preview 应用程序将于 8 月 3 日停用 / Copilot Billing Preview app will be retired on August 3",
-        "url": "https://github.blog/changelog/2026-07-07-copilot-billing-preview-app-will-be-retired-on-august-3",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -794,14 +974,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7767,
-      "importance": 0.7767,
-      "importance_score": 0.7767,
+      "score": 0.7597,
+      "importance": 0.7597,
+      "importance_score": 0.7597,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8234,
+        "recency": 0.7385,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -854,14 +1034,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7718,
-      "importance": 0.7718,
-      "importance_score": 0.7718,
+      "score": 0.7549,
+      "importance": 0.7549,
+      "importance_score": 0.7549,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7992,
+        "recency": 0.7143,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -914,20 +1094,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7662,
-      "importance": 0.7662,
-      "importance_score": 0.7662,
+      "score": 0.7493,
+      "importance": 0.7493,
+      "importance_score": 0.7493,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7712,
+        "recency": 0.6863,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-07T13:34:34.079480Z",
       "latest_at": "2026-07-07T13:34:34.079480Z",
@@ -974,14 +1153,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7898,
-      "importance": 0.7898,
-      "importance_score": 0.7898,
+      "score": 0.7728,
+      "importance": 0.7728,
+      "importance_score": 0.7728,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.889,
+        "recency": 0.8041,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1000,21 +1179,21 @@
       }
     },
     {
-      "story_id": "story_32d22c096387",
-      "title": "限制谁可以驳回规则集中的评论 / Restrict who can dismiss reviews in rulesets",
-      "url": "https://github.blog/changelog/2026-07-07-restrict-who-can-dismiss-reviews-in-rulesets",
-      "primary_url": "https://github.blog/changelog/2026-07-07-restrict-who-can-dismiss-reviews-in-rulesets",
+      "story_id": "story_18e9ce98bcc6",
+      "title": "Copilot Billing Preview 应用程序将于 8 月 3 日停用 / Copilot Billing Preview app will be retired on August 3",
+      "url": "https://github.blog/changelog/2026-07-07-copilot-billing-preview-app-will-be-retired-on-august-3",
+      "primary_url": "https://github.blog/changelog/2026-07-07-copilot-billing-preview-app-will-be-retired-on-august-3",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "bb1779795055e47ea058f91b62cd7116ec8b849d",
-          "title": "限制谁可以驳回规则集中的评论 / Restrict who can dismiss reviews in rulesets",
-          "url": "https://github.blog/changelog/2026-07-07-restrict-who-can-dismiss-reviews-in-rulesets",
+          "id": "898a48642e6c2c52576eb7470528a0c8db51b043",
+          "title": "Copilot Billing Preview 应用程序将于 8 月 3 日停用 / Copilot Billing Preview app will be retired on August 3",
+          "url": "https://github.blog/changelog/2026-07-07-copilot-billing-preview-app-will-be-retired-on-august-3",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-07T15:15:54Z"
+          "published_at": "2026-07-07T14:51:13Z"
         }
       ],
       "source_count": 1,
@@ -1023,25 +1202,25 @@
       ],
       "items": [
         {
-          "id": "bb1779795055e47ea058f91b62cd7116ec8b849d",
-          "title": "限制谁可以驳回规则集中的评论 / Restrict who can dismiss reviews in rulesets",
-          "url": "https://github.blog/changelog/2026-07-07-restrict-who-can-dismiss-reviews-in-rulesets",
+          "id": "898a48642e6c2c52576eb7470528a0c8db51b043",
+          "title": "Copilot Billing Preview 应用程序将于 8 月 3 日停用 / Copilot Billing Preview app will be retired on August 3",
+          "url": "https://github.blog/changelog/2026-07-07-copilot-billing-preview-app-will-be-retired-on-august-3",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-07T15:15:54Z"
+          "published_at": "2026-07-07T14:51:13Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8293,
-      "importance": 0.8293,
-      "importance_score": 0.8293,
+      "score": 0.8209,
+      "importance": 0.8209,
+      "importance_score": 0.8209,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.8416,
+        "ai_relevance": 0.91,
+        "recency": 0.7395,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1050,12 +1229,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-07T15:15:54Z",
-      "latest_at": "2026-07-07T15:15:54Z",
+      "earliest_at": "2026-07-07T14:51:13Z",
+      "latest_at": "2026-07-07T14:51:13Z",
       "primary_item": {
-        "id": "bb1779795055e47ea058f91b62cd7116ec8b849d",
-        "title": "限制谁可以驳回规则集中的评论 / Restrict who can dismiss reviews in rulesets",
-        "url": "https://github.blog/changelog/2026-07-07-restrict-who-can-dismiss-reviews-in-rulesets",
+        "id": "898a48642e6c2c52576eb7470528a0c8db51b043",
+        "title": "Copilot Billing Preview 应用程序将于 8 月 3 日停用 / Copilot Billing Preview app will be retired on August 3",
+        "url": "https://github.blog/changelog/2026-07-07-copilot-billing-preview-app-will-be-retired-on-august-3",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
@@ -1095,14 +1274,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7381,
-      "importance": 0.7381,
-      "importance_score": 0.7381,
+      "score": 0.7211,
+      "importance": 0.7211,
+      "importance_score": 0.7211,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.99,
-        "recency": 0.2055,
+        "recency": 0.1206,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1118,184 +1297,6 @@
         "url": "https://openai.com/index/australian-payments-plus",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_6e07258dc312",
-      "title": "​微信大招加码： 10 亿大模型额度免费送，AI生图额度暴涨十倍",
-      "url": "https://www.aibase.com/news/29443",
-      "primary_url": "https://www.aibase.com/news/29443",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "a550fd5e9c689a4783c9472218dbf6f20d247c28",
-          "title": "​微信大招加码： 10 亿大模型额度免费送，AI生图额度暴涨十倍",
-          "url": "https://www.aibase.com/news/29443",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-07T13:34:34.079480Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "a550fd5e9c689a4783c9472218dbf6f20d247c28",
-          "title": "​微信大招加码： 10 亿大模型额度免费送，AI生图额度暴涨十倍",
-          "url": "https://www.aibase.com/news/29443",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-07T13:34:34.079480Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7662,
-      "importance": 0.7662,
-      "importance_score": 0.7662,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7712,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-07T13:34:34.079480Z",
-      "latest_at": "2026-07-07T13:34:34.079480Z",
-      "primary_item": {
-        "id": "a550fd5e9c689a4783c9472218dbf6f20d247c28",
-        "title": "​微信大招加码： 10 亿大模型额度免费送，AI生图额度暴涨十倍",
-        "url": "https://www.aibase.com/news/29443",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_e16ebf254737",
-      "title": "智能免费，然后呢？--Data Systems for， of， and by Agents",
-      "url": "https://aihot.virxact.com/items/cmrawne9601nfihogtkxwy0bs",
-      "primary_url": "https://aihot.virxact.com/items/cmrawne9601nfihogtkxwy0bs",
-      "source": "BAIR：Berkeley AI Research Blog",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "90eebb306962cbedc161daa0b8e0e82937f28c84",
-          "title": "智能免费，然后呢？--Data Systems for， of， and by Agents",
-          "url": "https://aihot.virxact.com/items/cmrawne9601nfihogtkxwy0bs",
-          "source": "BAIR：Berkeley AI Research Blog",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-07T09:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "BAIR：Berkeley AI Research Blog"
-      ],
-      "items": [
-        {
-          "id": "90eebb306962cbedc161daa0b8e0e82937f28c84",
-          "title": "智能免费，然后呢？--Data Systems for， of， and by Agents",
-          "url": "https://aihot.virxact.com/items/cmrawne9601nfihogtkxwy0bs",
-          "source": "BAIR：Berkeley AI Research Blog",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-07T09:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7281,
-      "importance": 0.7281,
-      "importance_score": 0.7281,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5805,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-07T09:00:00Z",
-      "latest_at": "2026-07-07T09:00:00Z",
-      "primary_item": {
-        "id": "90eebb306962cbedc161daa0b8e0e82937f28c84",
-        "title": "智能免费，然后呢？--Data Systems for， of， and by Agents",
-        "url": "https://aihot.virxact.com/items/cmrawne9601nfihogtkxwy0bs",
-        "source": "BAIR：Berkeley AI Research Blog",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_eb05edfa90f4",
-      "title": "美国首批自主地面车辆在乌克兰参战",
-      "url": "https://aihot.virxact.com/items/cmrafv8m40090ihuamebn107w",
-      "primary_url": "https://aihot.virxact.com/items/cmrafv8m40090ihuamebn107w",
-      "source": "TechCrunch：AI（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "1f2ea86d57c0b8eaf05c69ee032b17f564c2452b",
-          "title": "美国首批自主地面车辆在乌克兰参战",
-          "url": "https://aihot.virxact.com/items/cmrafv8m40090ihuamebn107w",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-07T09:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "TechCrunch：AI（RSS）"
-      ],
-      "items": [
-        {
-          "id": "1f2ea86d57c0b8eaf05c69ee032b17f564c2452b",
-          "title": "美国首批自主地面车辆在乌克兰参战",
-          "url": "https://aihot.virxact.com/items/cmrafv8m40090ihuamebn107w",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-07T09:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7281,
-      "importance": 0.7281,
-      "importance_score": 0.7281,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5805,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-07T09:00:00Z",
-      "latest_at": "2026-07-07T09:00:00Z",
-      "primary_item": {
-        "id": "1f2ea86d57c0b8eaf05c69ee032b17f564c2452b",
-        "title": "美国首批自主地面车辆在乌克兰参战",
-        "url": "https://aihot.virxact.com/items/cmrafv8m40090ihuamebn107w",
-        "source": "TechCrunch：AI（RSS）",
-        "source_name": "AI HOT"
       }
     }
   ]
