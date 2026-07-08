@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-07-08T03:36:11.459850Z",
+  "generated_at": "2026-07-08T06:29:43.990027Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260708-1336-3358-97f5-4bbaae109b06&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260708-1336-3358-97f5-4bbaae109b06&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260708-1630-13d1-8b8e-b35fe0dc1a74&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260708-1630-13d1-8b8e-b35fe0dc1a74&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "abd5ace9ccc48a86f75bb87ebb03faebb4a52b32",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260708-1630-13d1-8b8e-b35fe0dc1a74&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "b1af937ebf554efbd0e6f60b908e671e2632ecd5",
           "title": "点击这里进入 / Click here to enter",
@@ -60,15 +69,6 @@
           "id": "bac532b1b51b91fcb3bf79b67c4ae36161c136dc",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260707-2335-029f-acf5-f20058b3bf9a&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "76975bed5e748cef8795c7cdb6fbc0cf6c0a4386",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260707-1337-502b-aa38-010c9b9f9cb4&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -81,6 +81,15 @@
       ],
       "items": [
         {
+          "id": "abd5ace9ccc48a86f75bb87ebb03faebb4a52b32",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260708-1630-13d1-8b8e-b35fe0dc1a74&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "b1af937ebf554efbd0e6f60b908e671e2632ecd5",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260708-1336-3358-97f5-4bbaae109b06&fp=-3",
@@ -129,15 +138,6 @@
           "id": "bac532b1b51b91fcb3bf79b67c4ae36161c136dc",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260707-2335-029f-acf5-f20058b3bf9a&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "76975bed5e748cef8795c7cdb6fbc0cf6c0a4386",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260707-1337-502b-aa38-010c9b9f9cb4&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -162,14 +162,75 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-07T03:37:21.581229Z",
-      "latest_at": "2026-07-08T03:36:11.459850Z",
+      "earliest_at": "2026-07-07T13:34:34.079480Z",
+      "latest_at": "2026-07-08T06:29:43.990027Z",
       "primary_item": {
-        "id": "b1af937ebf554efbd0e6f60b908e671e2632ecd5",
+        "id": "abd5ace9ccc48a86f75bb87ebb03faebb4a52b32",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260708-1336-3358-97f5-4bbaae109b06&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260708-1630-13d1-8b8e-b35fe0dc1a74&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
+      }
+    },
+    {
+      "story_id": "story_69bcbdfd037d",
+      "title": "在使用 API 中添加审核周期和采用阶段的时间 / Add review cycles and time to adoption phases in the usage API",
+      "url": "https://github.blog/changelog/2026-07-07-add-review-cycles-and-time-to-adoption-phases-in-the-usage-api",
+      "primary_url": "https://github.blog/changelog/2026-07-07-add-review-cycles-and-time-to-adoption-phases-in-the-usage-api",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "a5feaff0761a737305f4d564bc7d2bcb7df6d254",
+          "title": "在使用 API 中添加审核周期和采用阶段的时间 / Add review cycles and time to adoption phases in the usage API",
+          "url": "https://github.blog/changelog/2026-07-07-add-review-cycles-and-time-to-adoption-phases-in-the-usage-api",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-08T04:53:01Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "a5feaff0761a737305f4d564bc7d2bcb7df6d254",
+          "title": "在使用 API 中添加审核周期和采用阶段的时间 / Add review cycles and time to adoption phases in the usage API",
+          "url": "https://github.blog/changelog/2026-07-07-add-review-cycles-and-time-to-adoption-phases-in-the-usage-api",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-08T04:53:01Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8476,
+      "importance": 0.8476,
+      "importance_score": 0.8476,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9328,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-08T04:53:01Z",
+      "latest_at": "2026-07-08T04:53:01Z",
+      "primary_item": {
+        "id": "a5feaff0761a737305f4d564bc7d2bcb7df6d254",
+        "title": "在使用 API 中添加审核周期和采用阶段的时间 / Add review cycles and time to adoption phases in the usage API",
+        "url": "https://github.blog/changelog/2026-07-07-add-review-cycles-and-time-to-adoption-phases-in-the-usage-api",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -207,14 +268,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.864,
-      "importance": 0.864,
-      "importance_score": 0.864,
+      "score": 0.8399,
+      "importance": 0.8399,
+      "importance_score": 0.8399,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.8499,
+        "recency": 0.7294,
         "story_heat": 0.0
       },
       "category": "official",
@@ -234,64 +295,143 @@
       }
     },
     {
-      "story_id": "story_d4caa9e3147d",
-      "title": "Kimi K2.7 现已适用于 Copilot Business 和 Enterprise / Kimi K2.7 now available for Copilot Business and Enterprise",
-      "url": "https://github.blog/changelog/2026-07-07-kimi-k2-7-now-available-for-copilot-business-and-enterprise",
-      "primary_url": "https://github.blog/changelog/2026-07-07-kimi-k2-7-now-available-for-copilot-business-and-enterprise",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
+      "story_id": "story_f600a6e67868",
+      "title": "具身智能新突破：蚂蚁集团开源LingBot-Vision，让机器人拥有“空间感”",
+      "url": "https://www.aibase.com/news/29459",
+      "primary_url": "https://www.aibase.com/news/29459",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "b427cd492df69b4d3c3f1408299434345a197ded",
-          "title": "Kimi K2.7 现已适用于 Copilot Business 和 Enterprise / Kimi K2.7 now available for Copilot Business and Enterprise",
-          "url": "https://github.blog/changelog/2026-07-07-kimi-k2-7-now-available-for-copilot-business-and-enterprise",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-08T00:05:35Z"
+          "id": "7a92c143270425caade2184bdd60a069a74edb2c",
+          "title": "具身智能新突破：蚂蚁集团开源LingBot-Vision，让机器人拥有“空间感”",
+          "url": "https://www.aibase.com/news/29459",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-08T06:29:43.990027Z"
+        },
+        {
+          "id": "1ca39323ea3e5260790f99d1c09eb5a95a08b5bc",
+          "title": "具身智能新突破：蚂蚁集团开源 LingBot-Vision，让机器人拥有「空间感」",
+          "url": "https://www.aibase.com/zh/news/29459",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "7a92c143270425caade2184bdd60a069a74edb2c",
+          "title": "具身智能新突破：蚂蚁集团开源LingBot-Vision，让机器人拥有“空间感”",
+          "url": "https://www.aibase.com/news/29459",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-08T06:29:43.990027Z"
+        },
+        {
+          "id": "1ca39323ea3e5260790f99d1c09eb5a95a08b5bc",
+          "title": "具身智能新突破：蚂蚁集团开源 LingBot-Vision，让机器人拥有「空间感」",
+          "url": "https://www.aibase.com/zh/news/29459",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.837,
+      "importance": 0.837,
+      "importance_score": 0.837,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-08T06:29:43.990027Z",
+      "latest_at": "2026-07-08T06:29:43.990027Z",
+      "primary_item": {
+        "id": "7a92c143270425caade2184bdd60a069a74edb2c",
+        "title": "具身智能新突破：蚂蚁集团开源LingBot-Vision，让机器人拥有“空间感”",
+        "url": "https://www.aibase.com/news/29459",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_be33949633ec",
+      "title": "工信部发布Claude Code后门安全风险提示",
+      "url": "https://aihot.virxact.com/items/cmrboci2105r3ihl1zmi6wgpf",
+      "primary_url": "https://aihot.virxact.com/items/cmrboci2105r3ihl1zmi6wgpf",
+      "source": "X：小互 (@xiaohu)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "88bbf0c47d86a22d60db30a10d7c985520c5d0df",
+          "title": "工信部发布Claude Code后门安全风险提示",
+          "url": "https://aihot.virxact.com/items/cmrboci2105r3ihl1zmi6wgpf",
+          "source": "X：小互 (@xiaohu)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-08T06:05:32Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "GitHub Changelog"
+        "X：小互 (@xiaohu)"
       ],
       "items": [
         {
-          "id": "b427cd492df69b4d3c3f1408299434345a197ded",
-          "title": "Kimi K2.7 现已适用于 Copilot Business 和 Enterprise / Kimi K2.7 now available for Copilot Business and Enterprise",
-          "url": "https://github.blog/changelog/2026-07-07-kimi-k2-7-now-available-for-copilot-business-and-enterprise",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-08T00:05:35Z"
+          "id": "88bbf0c47d86a22d60db30a10d7c985520c5d0df",
+          "title": "工信部发布Claude Code后门安全风险提示",
+          "url": "https://aihot.virxact.com/items/cmrboci2105r3ihl1zmi6wgpf",
+          "source": "X：小互 (@xiaohu)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-08T06:05:32Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8437,
-      "importance": 0.8437,
-      "importance_score": 0.8437,
-      "importance_label": "官方更新",
+      "score": 0.8086,
+      "importance": 0.8086,
+      "importance_score": 0.8086,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.8537,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9832,
         "story_heat": 0.0
       },
-      "category": "official",
+      "category": "industry",
       "reasons": [
-        "official_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-08T00:05:35Z",
-      "latest_at": "2026-07-08T00:05:35Z",
+      "earliest_at": "2026-07-08T06:05:32Z",
+      "latest_at": "2026-07-08T06:05:32Z",
       "primary_item": {
-        "id": "b427cd492df69b4d3c3f1408299434345a197ded",
-        "title": "Kimi K2.7 现已适用于 Copilot Business 和 Enterprise / Kimi K2.7 now available for Copilot Business and Enterprise",
-        "url": "https://github.blog/changelog/2026-07-07-kimi-k2-7-now-available-for-copilot-business-and-enterprise",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
+        "id": "88bbf0c47d86a22d60db30a10d7c985520c5d0df",
+        "title": "工信部发布Claude Code后门安全风险提示",
+        "url": "https://aihot.virxact.com/items/cmrboci2105r3ihl1zmi6wgpf",
+        "source": "X：小互 (@xiaohu)",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -329,14 +469,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8321,
-      "importance": 0.8321,
-      "importance_score": 0.8321,
+      "score": 0.808,
+      "importance": 0.808,
+      "importance_score": 0.808,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7357,
+        "recency": 0.6152,
         "story_heat": 0.0
       },
       "category": "official",
@@ -356,48 +496,128 @@
       }
     },
     {
-      "story_id": "story_5146272332c9",
-      "title": "AI 电子宠物的进阶：追觅推出内置大模型新品 Domi",
-      "url": "https://www.aibase.com/news/29446",
-      "primary_url": "https://www.aibase.com/news/29446",
+      "story_id": "story_4b1b22ceb7bd",
+      "title": "美国放行GPT-5.6，OpenAI多款重磅模型本周上线",
+      "url": "https://www.aibase.com/news/29458",
+      "primary_url": "https://www.aibase.com/news/29458",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "3ddce5c23632664cd2c517a3de197f6fb9ee5d58",
-          "title": "AI 电子宠物的进阶：追觅推出内置大模型新品 Domi",
-          "url": "https://www.aibase.com/news/29446",
+          "id": "297d4d06dfead3a012d6cb818d89184d5beddaec",
+          "title": "美国放行GPT-5.6，OpenAI多款重磅模型本周上线",
+          "url": "https://www.aibase.com/news/29458",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-08T03:36:11.459850Z"
+          "published_at": "2026-07-08T06:29:43.990027Z"
+        },
+        {
+          "id": "0133aaadbe743ac33b2825a2e16ac148ac91c091",
+          "title": "美国放行 GPT-5.6，OpenAI 多款重磅模型本周上线",
+          "url": "https://www.aibase.com/zh/news/29458",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "AIbase"
+        "AIbase",
+        "Readhub · AI"
       ],
       "items": [
         {
-          "id": "3ddce5c23632664cd2c517a3de197f6fb9ee5d58",
-          "title": "AI 电子宠物的进阶：追觅推出内置大模型新品 Domi",
-          "url": "https://www.aibase.com/news/29446",
+          "id": "297d4d06dfead3a012d6cb818d89184d5beddaec",
+          "title": "美国放行GPT-5.6，OpenAI多款重磅模型本周上线",
+          "url": "https://www.aibase.com/news/29458",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-08T03:36:11.459850Z"
+          "published_at": "2026-07-08T06:29:43.990027Z"
+        },
+        {
+          "id": "0133aaadbe743ac33b2825a2e16ac148ac91c091",
+          "title": "美国放行 GPT-5.6，OpenAI 多款重磅模型本周上线",
+          "url": "https://www.aibase.com/zh/news/29458",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.837,
+      "importance": 0.837,
+      "importance_score": 0.837,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
         "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-08T06:29:43.990027Z",
+      "latest_at": "2026-07-08T06:29:43.990027Z",
+      "primary_item": {
+        "id": "297d4d06dfead3a012d6cb818d89184d5beddaec",
+        "title": "美国放行GPT-5.6，OpenAI多款重磅模型本周上线",
+        "url": "https://www.aibase.com/news/29458",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_edaa3c81e2bf",
+      "title": "AI 审计代理在 Cloudflare CIRCL 中发现 7 个漏洞",
+      "url": "https://aihot.virxact.com/items/cmrblfb8a050sihl1484pa3wo",
+      "primary_url": "https://aihot.virxact.com/items/cmrblfb8a050sihl1484pa3wo",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "f87f18dbe2b56dd7d465b58913c2e2d3bf64ba91",
+          "title": "AI 审计代理在 Cloudflare CIRCL 中发现 7 个漏洞",
+          "url": "https://aihot.virxact.com/items/cmrblfb8a050sihl1484pa3wo",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-08T04:29:33Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）"
+      ],
+      "items": [
+        {
+          "id": "f87f18dbe2b56dd7d465b58913c2e2d3bf64ba91",
+          "title": "AI 审计代理在 Cloudflare CIRCL 中发现 7 个漏洞",
+          "url": "https://aihot.virxact.com/items/cmrblfb8a050sihl1484pa3wo",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-08T04:29:33Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7953,
+      "importance": 0.7953,
+      "importance_score": 0.7953,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9165,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -405,14 +625,135 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-08T03:36:11.459850Z",
-      "latest_at": "2026-07-08T03:36:11.459850Z",
+      "earliest_at": "2026-07-08T04:29:33Z",
+      "latest_at": "2026-07-08T04:29:33Z",
       "primary_item": {
-        "id": "3ddce5c23632664cd2c517a3de197f6fb9ee5d58",
-        "title": "AI 电子宠物的进阶：追觅推出内置大模型新品 Domi",
-        "url": "https://www.aibase.com/news/29446",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "id": "f87f18dbe2b56dd7d465b58913c2e2d3bf64ba91",
+        "title": "AI 审计代理在 Cloudflare CIRCL 中发现 7 个漏洞",
+        "url": "https://aihot.virxact.com/items/cmrblfb8a050sihl1484pa3wo",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_d4caa9e3147d",
+      "title": "Kimi K2.7 现已适用于 Copilot Business 和 Enterprise / Kimi K2.7 now available for Copilot Business and Enterprise",
+      "url": "https://github.blog/changelog/2026-07-07-kimi-k2-7-now-available-for-copilot-business-and-enterprise",
+      "primary_url": "https://github.blog/changelog/2026-07-07-kimi-k2-7-now-available-for-copilot-business-and-enterprise",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "b427cd492df69b4d3c3f1408299434345a197ded",
+          "title": "Kimi K2.7 现已适用于 Copilot Business 和 Enterprise / Kimi K2.7 now available for Copilot Business and Enterprise",
+          "url": "https://github.blog/changelog/2026-07-07-kimi-k2-7-now-available-for-copilot-business-and-enterprise",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-08T00:05:35Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "b427cd492df69b4d3c3f1408299434345a197ded",
+          "title": "Kimi K2.7 现已适用于 Copilot Business 和 Enterprise / Kimi K2.7 now available for Copilot Business and Enterprise",
+          "url": "https://github.blog/changelog/2026-07-07-kimi-k2-7-now-available-for-copilot-business-and-enterprise",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-08T00:05:35Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8196,
+      "importance": 0.8196,
+      "importance_score": 0.8196,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.7332,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-08T00:05:35Z",
+      "latest_at": "2026-07-08T00:05:35Z",
+      "primary_item": {
+        "id": "b427cd492df69b4d3c3f1408299434345a197ded",
+        "title": "Kimi K2.7 现已适用于 Copilot Business 和 Enterprise / Kimi K2.7 now available for Copilot Business and Enterprise",
+        "url": "https://github.blog/changelog/2026-07-07-kimi-k2-7-now-available-for-copilot-business-and-enterprise",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_73f9e5df44be",
+      "title": "美国商务部批准OpenAI大规模发布GPT-5.6，Sol明日亮相",
+      "url": "https://aihot.virxact.com/items/cmrbkf2e804qlihl1e8qe5q4a",
+      "primary_url": "https://aihot.virxact.com/items/cmrbkf2e804qlihl1e8qe5q4a",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "997c844c0f3e4df366628cc3c47c58d95f42f277",
+          "title": "美国商务部批准OpenAI大规模发布GPT-5.6，Sol明日亮相",
+          "url": "https://aihot.virxact.com/items/cmrbkf2e804qlihl1e8qe5q4a",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-08T03:30:52Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "997c844c0f3e4df366628cc3c47c58d95f42f277",
+          "title": "美国商务部批准OpenAI大规模发布GPT-5.6，Sol明日亮相",
+          "url": "https://aihot.virxact.com/items/cmrbkf2e804qlihl1e8qe5q4a",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-08T03:30:52Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7872,
+      "importance": 0.7872,
+      "importance_score": 0.7872,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8758,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-08T03:30:52Z",
+      "latest_at": "2026-07-08T03:30:52Z",
+      "primary_item": {
+        "id": "997c844c0f3e4df366628cc3c47c58d95f42f277",
+        "title": "美国商务部批准OpenAI大规模发布GPT-5.6，Sol明日亮相",
+        "url": "https://aihot.virxact.com/items/cmrbkf2e804qlihl1e8qe5q4a",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -450,14 +791,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8074,
-      "importance": 0.8074,
-      "importance_score": 0.8074,
+      "score": 0.7833,
+      "importance": 0.7833,
+      "importance_score": 0.7833,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9772,
+        "recency": 0.8567,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -476,63 +817,83 @@
       }
     },
     {
-      "story_id": "story_1914d2df88e3",
-      "title": "Pulpie：用于清理网络的Pareto最优模型",
-      "url": "https://aihot.virxact.com/items/cmrbez8y903b9ihl133b5wr18",
-      "primary_url": "https://aihot.virxact.com/items/cmrbez8y903b9ihl133b5wr18",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
+      "story_id": "story_39ce028bf57e",
+      "title": "英伟达Vera CPU来了：专为AI代理从零设计，速度快1. 5 倍，OpenAI和Anthropic都要用",
+      "url": "https://www.aibase.com/news/29460",
+      "primary_url": "https://www.aibase.com/news/29460",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "d8355baeae99484972fd4d46c8079da011af0ea3",
-          "title": "Pulpie：用于清理网络的Pareto最优模型",
-          "url": "https://aihot.virxact.com/items/cmrbez8y903b9ihl133b5wr18",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-08T01:33:24Z"
+          "id": "4ae2123d2e89dd031faade94c203066795857759",
+          "title": "英伟达Vera CPU来了：专为AI代理从零设计，速度快1. 5 倍，OpenAI和Anthropic都要用",
+          "url": "https://www.aibase.com/news/29460",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-08T06:29:43.990027Z"
+        },
+        {
+          "id": "9b7f13e6e28cb58698a4ed59f7be9a1d443bd2cb",
+          "title": "英伟达 Vera CPU 来了：专为 AI 代理从零设计，速度快 1. 5 倍，OpenAI 和 Anthropic 都要用",
+          "url": "https://www.aibase.com/zh/news/29460",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）"
+        "AIbase",
+        "Readhub · AI"
       ],
       "items": [
         {
-          "id": "d8355baeae99484972fd4d46c8079da011af0ea3",
-          "title": "Pulpie：用于清理网络的Pareto最优模型",
-          "url": "https://aihot.virxact.com/items/cmrbez8y903b9ihl133b5wr18",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-08T01:33:24Z"
+          "id": "4ae2123d2e89dd031faade94c203066795857759",
+          "title": "英伟达Vera CPU来了：专为AI代理从零设计，速度快1. 5 倍，OpenAI和Anthropic都要用",
+          "url": "https://www.aibase.com/news/29460",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-08T06:29:43.990027Z"
+        },
+        {
+          "id": "9b7f13e6e28cb58698a4ed59f7be9a1d443bd2cb",
+          "title": "英伟达 Vera CPU 来了：专为 AI 代理从零设计，速度快 1. 5 倍，OpenAI 和 Anthropic 都要用",
+          "url": "https://www.aibase.com/zh/news/29460",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7949,
-      "importance": 0.7949,
-      "importance_score": 0.7949,
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.837,
+      "importance": 0.837,
+      "importance_score": 0.837,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9147,
-        "story_heat": 0.0
+        "recency": 1.0,
+        "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
+        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-08T01:33:24Z",
-      "latest_at": "2026-07-08T01:33:24Z",
+      "earliest_at": "2026-07-08T06:29:43.990027Z",
+      "latest_at": "2026-07-08T06:29:43.990027Z",
       "primary_item": {
-        "id": "d8355baeae99484972fd4d46c8079da011af0ea3",
-        "title": "Pulpie：用于清理网络的Pareto最优模型",
-        "url": "https://aihot.virxact.com/items/cmrbez8y903b9ihl133b5wr18",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
+        "id": "4ae2123d2e89dd031faade94c203066795857759",
+        "title": "英伟达Vera CPU来了：专为AI代理从零设计，速度快1. 5 倍，OpenAI和Anthropic都要用",
+        "url": "https://www.aibase.com/news/29460",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -570,14 +931,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7911,
-      "importance": 0.7911,
-      "importance_score": 0.7911,
+      "score": 0.767,
+      "importance": 0.767,
+      "importance_score": 0.767,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8957,
+        "recency": 0.7752,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -630,14 +991,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7903,
-      "importance": 0.7903,
-      "importance_score": 0.7903,
+      "score": 0.7662,
+      "importance": 0.7662,
+      "importance_score": 0.7662,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8915,
+        "recency": 0.771,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -690,14 +1051,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7837,
-      "importance": 0.7837,
-      "importance_score": 0.7837,
+      "score": 0.7596,
+      "importance": 0.7596,
+      "importance_score": 0.7596,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8583,
+        "recency": 0.7378,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -716,48 +1077,48 @@
       }
     },
     {
-      "story_id": "story_8ca1e5e1fa54",
-      "title": "AI办公新动作：Claude Cowork 移动端与网页版正式上线",
-      "url": "https://www.aibase.com/news/29445",
-      "primary_url": "https://www.aibase.com/news/29445",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_1914d2df88e3",
+      "title": "Pulpie：用于清理网络的Pareto最优模型",
+      "url": "https://aihot.virxact.com/items/cmrbez8y903b9ihl133b5wr18",
+      "primary_url": "https://aihot.virxact.com/items/cmrbez8y903b9ihl133b5wr18",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "1551e6a51c3fde23e405759647f859d5b7082328",
-          "title": "AI办公新动作：Claude Cowork 移动端与网页版正式上线",
-          "url": "https://www.aibase.com/news/29445",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-08T03:36:11.459850Z"
+          "id": "d8355baeae99484972fd4d46c8079da011af0ea3",
+          "title": "Pulpie：用于清理网络的Pareto最优模型",
+          "url": "https://aihot.virxact.com/items/cmrbez8y903b9ihl133b5wr18",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-08T01:33:24Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "AIbase"
+        "Hacker News 热门（buzzing.cc 中文翻译）"
       ],
       "items": [
         {
-          "id": "1551e6a51c3fde23e405759647f859d5b7082328",
-          "title": "AI办公新动作：Claude Cowork 移动端与网页版正式上线",
-          "url": "https://www.aibase.com/news/29445",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-08T03:36:11.459850Z"
+          "id": "d8355baeae99484972fd4d46c8079da011af0ea3",
+          "title": "Pulpie：用于清理网络的Pareto最优模型",
+          "url": "https://aihot.virxact.com/items/cmrbez8y903b9ihl133b5wr18",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-08T01:33:24Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
+      "score": 0.7708,
+      "importance": 0.7708,
+      "importance_score": 0.7708,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.7942,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -765,14 +1126,14 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-08T03:36:11.459850Z",
-      "latest_at": "2026-07-08T03:36:11.459850Z",
+      "earliest_at": "2026-07-08T01:33:24Z",
+      "latest_at": "2026-07-08T01:33:24Z",
       "primary_item": {
-        "id": "1551e6a51c3fde23e405759647f859d5b7082328",
-        "title": "AI办公新动作：Claude Cowork 移动端与网页版正式上线",
-        "url": "https://www.aibase.com/news/29445",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "id": "d8355baeae99484972fd4d46c8079da011af0ea3",
+        "title": "Pulpie：用于清理网络的Pareto最优模型",
+        "url": "https://aihot.virxact.com/items/cmrbez8y903b9ihl133b5wr18",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -810,14 +1171,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7828,
-      "importance": 0.7828,
-      "importance_score": 0.7828,
+      "score": 0.7587,
+      "importance": 0.7587,
+      "importance_score": 0.7587,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.4888,
+        "recency": 0.3683,
         "story_heat": 0.0
       },
       "category": "official",
@@ -834,66 +1195,6 @@
         "url": "https://huggingface.co/blog/microsoft/foundry-managed-compute",
         "source": "Hugging Face Blog",
         "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_8a44728534d6",
-      "title": "Anthropic纽约大扩军：租赁曼哈顿 16 层办公楼，员工规模翻番至 1000 人",
-      "url": "https://www.aibase.com/news/29454",
-      "primary_url": "https://www.aibase.com/news/29454",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "db66ebb0383b1f71591bbd8d41c19941fdc1d346",
-          "title": "Anthropic纽约大扩军：租赁曼哈顿 16 层办公楼，员工规模翻番至 1000 人",
-          "url": "https://www.aibase.com/news/29454",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-08T03:36:11.459850Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "db66ebb0383b1f71591bbd8d41c19941fdc1d346",
-          "title": "Anthropic纽约大扩军：租赁曼哈顿 16 层办公楼，员工规模翻番至 1000 人",
-          "url": "https://www.aibase.com/news/29454",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-08T03:36:11.459850Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-08T03:36:11.459850Z",
-      "latest_at": "2026-07-08T03:36:11.459850Z",
-      "primary_item": {
-        "id": "db66ebb0383b1f71591bbd8d41c19941fdc1d346",
-        "title": "Anthropic纽约大扩军：租赁曼哈顿 16 层办公楼，员工规模翻番至 1000 人",
-        "url": "https://www.aibase.com/news/29454",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     },
     {
@@ -931,20 +1232,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7518,
-      "importance": 0.7518,
-      "importance_score": 0.7518,
+      "score": 0.7277,
+      "importance": 0.7277,
+      "importance_score": 0.7277,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.699,
+        "recency": 0.5785,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-07T20:22:46Z",
       "latest_at": "2026-07-07T20:22:46Z",
@@ -954,6 +1254,66 @@
         "url": "https://aihot.virxact.com/items/cmrb4j2zx00n4ihl14u6xv7kz",
         "source": "X：Krea AI (@krea_ai)",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_1f4fda0f31b1",
+      "title": "OpenAI又走一员大将：田永龙疑似投奔腾讯混元，将执掌多模态方向",
+      "url": "https://www.aibase.com/news/29462",
+      "primary_url": "https://www.aibase.com/news/29462",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "ddd02c1813df9d6a91eab631f2481cab8eb062fb",
+          "title": "OpenAI又走一员大将：田永龙疑似投奔腾讯混元，将执掌多模态方向",
+          "url": "https://www.aibase.com/news/29462",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-08T06:29:43.990027Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "ddd02c1813df9d6a91eab631f2481cab8eb062fb",
+          "title": "OpenAI又走一员大将：田永龙疑似投奔腾讯混元，将执掌多模态方向",
+          "url": "https://www.aibase.com/news/29462",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-08T06:29:43.990027Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-08T06:29:43.990027Z",
+      "latest_at": "2026-07-08T06:29:43.990027Z",
+      "primary_item": {
+        "id": "ddd02c1813df9d6a91eab631f2481cab8eb062fb",
+        "title": "OpenAI又走一员大将：田永龙疑似投奔腾讯混元，将执掌多模态方向",
+        "url": "https://www.aibase.com/news/29462",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -991,14 +1351,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.745,
-      "importance": 0.745,
-      "importance_score": 0.745,
+      "score": 0.7209,
+      "importance": 0.7209,
+      "importance_score": 0.7209,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6651,
+        "recency": 0.5445,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1013,305 +1373,6 @@
         "url": "https://aihot.virxact.com/items/cmrb2mxmc0072ihl1mx0aw1bz",
         "source": "X：AI at Meta (@AIatMeta)",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_7722e8723f31",
-      "title": "计费 UI 中成本中心的每用户预算 / Per-user budgets for cost centers in the billing UI",
-      "url": "https://github.blog/changelog/2026-07-07-per-user-budgets-for-cost-centers-in-the-billing-ui",
-      "primary_url": "https://github.blog/changelog/2026-07-07-per-user-budgets-for-cost-centers-in-the-billing-ui",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "9acf313aec6d252f00f1098c103512a60ea8d45d",
-          "title": "计费 UI 中成本中心的每用户预算 / Per-user budgets for cost centers in the billing UI",
-          "url": "https://github.blog/changelog/2026-07-07-per-user-budgets-for-cost-centers-in-the-billing-ui",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-07T17:09:29Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "9acf313aec6d252f00f1098c103512a60ea8d45d",
-          "title": "计费 UI 中成本中心的每用户预算 / Per-user budgets for cost centers in the billing UI",
-          "url": "https://github.blog/changelog/2026-07-07-per-user-budgets-for-cost-centers-in-the-billing-ui",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-07T17:09:29Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.774,
-      "importance": 0.774,
-      "importance_score": 0.774,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.5648,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-07T17:09:29Z",
-      "latest_at": "2026-07-07T17:09:29Z",
-      "primary_item": {
-        "id": "9acf313aec6d252f00f1098c103512a60ea8d45d",
-        "title": "计费 UI 中成本中心的每用户预算 / Per-user budgets for cost centers in the billing UI",
-        "url": "https://github.blog/changelog/2026-07-07-per-user-budgets-for-cost-centers-in-the-billing-ui",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_87f69b1f29d7",
-      "title": "微软为降成本在Copilot中用自研MAI模型替换OpenAI和Anthropic模型",
-      "url": "https://aihot.virxact.com/items/cmrb0u6pv02qtihogovduu795",
-      "primary_url": "https://aihot.virxact.com/items/cmrb0u6pv02qtihogovduu795",
-      "source": "The Decoder：AI News（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "bb35b38ed1684020a0ecbea51c6a187797b4ad1f",
-          "title": "微软为降成本在Copilot中用自研MAI模型替换OpenAI和Anthropic模型",
-          "url": "https://aihot.virxact.com/items/cmrb0u6pv02qtihogovduu795",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-07T18:35:58Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "The Decoder：AI News（RSS）"
-      ],
-      "items": [
-        {
-          "id": "bb35b38ed1684020a0ecbea51c6a187797b4ad1f",
-          "title": "微软为降成本在Copilot中用自研MAI模型替换OpenAI和Anthropic模型",
-          "url": "https://aihot.virxact.com/items/cmrb0u6pv02qtihogovduu795",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-07T18:35:58Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.737,
-      "importance": 0.737,
-      "importance_score": 0.737,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6248,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-07T18:35:58Z",
-      "latest_at": "2026-07-07T18:35:58Z",
-      "primary_item": {
-        "id": "bb35b38ed1684020a0ecbea51c6a187797b4ad1f",
-        "title": "微软为降成本在Copilot中用自研MAI模型替换OpenAI和Anthropic模型",
-        "url": "https://aihot.virxact.com/items/cmrb0u6pv02qtihogovduu795",
-        "source": "The Decoder：AI News（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_ccfc900bc193",
-      "title": "NotebookLM短视频概览正式上线",
-      "url": "https://aihot.virxact.com/items/cmray36fg021nihogfo205417",
-      "primary_url": "https://aihot.virxact.com/items/cmray36fg021nihogfo205417",
-      "source": "X：NotebookLM (@NotebookLM)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "f8af11111c8cd99293ea955766fd0ca3438c04d0",
-          "title": "NotebookLM短视频概览正式上线",
-          "url": "https://aihot.virxact.com/items/cmray36fg021nihogfo205417",
-          "source": "X：NotebookLM (@NotebookLM)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-07T17:48:50Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：NotebookLM (@NotebookLM)"
-      ],
-      "items": [
-        {
-          "id": "f8af11111c8cd99293ea955766fd0ca3438c04d0",
-          "title": "NotebookLM短视频概览正式上线",
-          "url": "https://aihot.virxact.com/items/cmray36fg021nihogfo205417",
-          "source": "X：NotebookLM (@NotebookLM)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-07T17:48:50Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7304,
-      "importance": 0.7304,
-      "importance_score": 0.7304,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5921,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-07T17:48:50Z",
-      "latest_at": "2026-07-07T17:48:50Z",
-      "primary_item": {
-        "id": "f8af11111c8cd99293ea955766fd0ca3438c04d0",
-        "title": "NotebookLM短视频概览正式上线",
-        "url": "https://aihot.virxact.com/items/cmray36fg021nihogfo205417",
-        "source": "X：NotebookLM (@NotebookLM)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_f7eb2a868aac",
-      "title": "在 Gemini API 中扩展托管代理：后台任务、远程 MCP 等 / Expanding Managed Agents in Gemini API:  background tasks, remote MCP and more",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api",
-      "primary_url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api",
-      "source": "Google AI Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "c6e9c87080b9903129bdf910f08b8f6718a04542",
-          "title": "在 Gemini API 中扩展托管代理：后台任务、远程 MCP 等 / Expanding Managed Agents in Gemini API:  background tasks, remote MCP and more",
-          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-07T08:54:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google AI Blog"
-      ],
-      "items": [
-        {
-          "id": "c6e9c87080b9903129bdf910f08b8f6718a04542",
-          "title": "在 Gemini API 中扩展托管代理：后台任务、远程 MCP 等 / Expanding Managed Agents in Gemini API:  background tasks, remote MCP and more",
-          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-07T08:54:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7291,
-      "importance": 0.7291,
-      "importance_score": 0.7291,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.2207,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-07T08:54:00Z",
-      "latest_at": "2026-07-07T08:54:00Z",
-      "primary_item": {
-        "id": "c6e9c87080b9903129bdf910f08b8f6718a04542",
-        "title": "在 Gemini API 中扩展托管代理：后台任务、远程 MCP 等 / Expanding Managed Agents in Gemini API:  background tasks, remote MCP and more",
-        "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api",
-        "source": "Google AI Blog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_5467c6cdcd66",
-      "title": "Claude Cowork登陆网页和手机端：超九成用户拿它干非编程活，跨设备接力干活",
-      "url": "https://www.aibase.com/news/29447",
-      "primary_url": "https://www.aibase.com/news/29447",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "e63f94ac66f9ed2cc7d162ed1c9abae5000dd26d",
-          "title": "Claude Cowork登陆网页和手机端：超九成用户拿它干非编程活，跨设备接力干活",
-          "url": "https://www.aibase.com/news/29447",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-08T03:36:11.459850Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "e63f94ac66f9ed2cc7d162ed1c9abae5000dd26d",
-          "title": "Claude Cowork登陆网页和手机端：超九成用户拿它干非编程活，跨设备接力干活",
-          "url": "https://www.aibase.com/news/29447",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-08T03:36:11.459850Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-08T03:36:11.459850Z",
-      "latest_at": "2026-07-08T03:36:11.459850Z",
-      "primary_item": {
-        "id": "e63f94ac66f9ed2cc7d162ed1c9abae5000dd26d",
-        "title": "Claude Cowork登陆网页和手机端：超九成用户拿它干非编程活，跨设备接力干活",
-        "url": "https://www.aibase.com/news/29447",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     }
   ]
