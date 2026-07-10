@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-07-10T20:50:05.408246Z",
+  "generated_at": "2026-07-10T22:05:34.223621Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260711-0650-2678-b70e-17475dc60f21&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260711-0650-2678-b70e-17475dc60f21&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260711-0805-57d5-bb11-cc3bbb464773&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260711-0805-57d5-bb11-cc3bbb464773&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "1641001ec13540a4c3118ec16170d04097e42401",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260711-0805-57d5-bb11-cc3bbb464773&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "172f6de27b9866704a3fb075667c5ccbb159d014",
           "title": "点击这里进入 / Click here to enter",
@@ -87,15 +96,6 @@
           "id": "4a686a9a38159807a62b052bbd7515b9a587cca5",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260710-0921-23e0-ad70-5b627f758c4c&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "ad5c2d04cc31c7084768a2837356f5abcf2f1b8d",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260710-0759-2670-8c9d-ecba5f111726&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -108,6 +108,15 @@
       ],
       "items": [
         {
+          "id": "1641001ec13540a4c3118ec16170d04097e42401",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260711-0805-57d5-bb11-cc3bbb464773&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "172f6de27b9866704a3fb075667c5ccbb159d014",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260711-0650-2678-b70e-17475dc60f21&fp=-3",
@@ -183,15 +192,6 @@
           "id": "4a686a9a38159807a62b052bbd7515b9a587cca5",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260710-0921-23e0-ad70-5b627f758c4c&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "ad5c2d04cc31c7084768a2837356f5abcf2f1b8d",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260710-0759-2670-8c9d-ecba5f111726&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -216,14 +216,75 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-09T21:59:00.975856Z",
-      "latest_at": "2026-07-10T20:50:05.408246Z",
+      "earliest_at": "2026-07-09T23:20:56.890950Z",
+      "latest_at": "2026-07-10T22:05:34.223621Z",
       "primary_item": {
-        "id": "172f6de27b9866704a3fb075667c5ccbb159d014",
+        "id": "1641001ec13540a4c3118ec16170d04097e42401",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260711-0650-2678-b70e-17475dc60f21&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260711-0805-57d5-bb11-cc3bbb464773&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
+      }
+    },
+    {
+      "story_id": "story_4071a63c6a0f",
+      "title": "CodeQL 2.26.0 添加了 Kotlin 2.4.0 支持和 AI 提示注入检测 / CodeQL 2.26.0 adds Kotlin 2.4.0 support and AI prompt injection detection",
+      "url": "https://github.blog/changelog/2026-07-10-codeql-2-26-0-adds-kotlin-2-4-0-support-and-ai-prompt-injection-detection",
+      "primary_url": "https://github.blog/changelog/2026-07-10-codeql-2-26-0-adds-kotlin-2-4-0-support-and-ai-prompt-injection-detection",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "d8457b94acb37a2054f723256d6ae150cceb3685",
+          "title": "CodeQL 2.26.0 添加了 Kotlin 2.4.0 支持和 AI 提示注入检测 / CodeQL 2.26.0 adds Kotlin 2.4.0 support and AI prompt injection detection",
+          "url": "https://github.blog/changelog/2026-07-10-codeql-2-26-0-adds-kotlin-2-4-0-support-and-ai-prompt-injection-detection",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-10T20:40:56Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "d8457b94acb37a2054f723256d6ae150cceb3685",
+          "title": "CodeQL 2.26.0 添加了 Kotlin 2.4.0 支持和 AI 提示注入检测 / CodeQL 2.26.0 adds Kotlin 2.4.0 support and AI prompt injection detection",
+          "url": "https://github.blog/changelog/2026-07-10-codeql-2-26-0-adds-kotlin-2-4-0-support-and-ai-prompt-injection-detection",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-10T20:40:56Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8612,
+      "importance": 0.8612,
+      "importance_score": 0.8612,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9412,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-10T20:40:56Z",
+      "latest_at": "2026-07-10T20:40:56Z",
+      "primary_item": {
+        "id": "d8457b94acb37a2054f723256d6ae150cceb3685",
+        "title": "CodeQL 2.26.0 添加了 Kotlin 2.4.0 支持和 AI 提示注入检测 / CodeQL 2.26.0 adds Kotlin 2.4.0 support and AI prompt injection detection",
+        "url": "https://github.blog/changelog/2026-07-10-codeql-2-26-0-adds-kotlin-2-4-0-support-and-ai-prompt-injection-detection",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -261,14 +322,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8324,
-      "importance": 0.8324,
-      "importance_score": 0.8324,
+      "score": 0.8219,
+      "importance": 0.8219,
+      "importance_score": 0.8219,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.797,
+        "recency": 0.7446,
         "story_heat": 0.0
       },
       "category": "official",
@@ -288,21 +349,21 @@
       }
     },
     {
-      "story_id": "story_2a4bac593207",
-      "title": "REST API 中多用户预算的每用户状态 / Per-user states for multi-user budgets in the REST API",
-      "url": "https://github.blog/changelog/2026-07-10-per-user-states-for-multi-user-budgets-in-the-rest-api",
-      "primary_url": "https://github.blog/changelog/2026-07-10-per-user-states-for-multi-user-budgets-in-the-rest-api",
+      "story_id": "story_f46516359f1f",
+      "title": "秘密扫描探测器类型的更清晰名称 / Clearer names for secret scanning detector types",
+      "url": "https://github.blog/changelog/2026-07-10-clearer-names-for-secret-scanning-detector-types",
+      "primary_url": "https://github.blog/changelog/2026-07-10-clearer-names-for-secret-scanning-detector-types",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "3edcd8bc72d3751e46f3afad8c59e8e7ef5b38ed",
-          "title": "REST API 中多用户预算的每用户状态 / Per-user states for multi-user budgets in the REST API",
-          "url": "https://github.blog/changelog/2026-07-10-per-user-states-for-multi-user-budgets-in-the-rest-api",
+          "id": "054a567c7fb2381c6cffea83b4146c1ae7fe4abb",
+          "title": "秘密扫描探测器类型的更清晰名称 / Clearer names for secret scanning detector types",
+          "url": "https://github.blog/changelog/2026-07-10-clearer-names-for-secret-scanning-detector-types",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-10T15:07:23Z"
+          "published_at": "2026-07-10T20:06:10Z"
         }
       ],
       "source_count": 1,
@@ -311,25 +372,25 @@
       ],
       "items": [
         {
-          "id": "3edcd8bc72d3751e46f3afad8c59e8e7ef5b38ed",
-          "title": "REST API 中多用户预算的每用户状态 / Per-user states for multi-user budgets in the REST API",
-          "url": "https://github.blog/changelog/2026-07-10-per-user-states-for-multi-user-budgets-in-the-rest-api",
+          "id": "054a567c7fb2381c6cffea83b4146c1ae7fe4abb",
+          "title": "秘密扫描探测器类型的更清晰名称 / Clearer names for secret scanning detector types",
+          "url": "https://github.blog/changelog/2026-07-10-clearer-names-for-secret-scanning-detector-types",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-10T15:07:23Z"
+          "published_at": "2026-07-10T20:06:10Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8134,
-      "importance": 0.8134,
-      "importance_score": 0.8134,
+      "score": 0.8444,
+      "importance": 0.8444,
+      "importance_score": 0.8444,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.762,
+        "recency": 0.9171,
         "story_heat": 0.0
       },
       "category": "official",
@@ -338,14 +399,74 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-10T15:07:23Z",
-      "latest_at": "2026-07-10T15:07:23Z",
+      "earliest_at": "2026-07-10T20:06:10Z",
+      "latest_at": "2026-07-10T20:06:10Z",
       "primary_item": {
-        "id": "3edcd8bc72d3751e46f3afad8c59e8e7ef5b38ed",
-        "title": "REST API 中多用户预算的每用户状态 / Per-user states for multi-user budgets in the REST API",
-        "url": "https://github.blog/changelog/2026-07-10-per-user-states-for-multi-user-budgets-in-the-rest-api",
+        "id": "054a567c7fb2381c6cffea83b4146c1ae7fe4abb",
+        "title": "秘密扫描探测器类型的更清晰名称 / Clearer names for secret scanning detector types",
+        "url": "https://github.blog/changelog/2026-07-10-clearer-names-for-secret-scanning-detector-types",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_a9e2c15864a7",
+      "title": "Apple 起诉 OpenAI 窃取商业机密",
+      "url": "https://aihot.virxact.com/items/cmrfep0gs01ljihxb6uazy2jn",
+      "primary_url": "https://aihot.virxact.com/items/cmrfep0gs01ljihxb6uazy2jn",
+      "source": "TechCrunch：AI（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "ffb0f0ea5036955b8b127faaa8cf74f9db0cc49f",
+          "title": "Apple 起诉 OpenAI 窃取商业机密",
+          "url": "https://aihot.virxact.com/items/cmrfep0gs01ljihxb6uazy2jn",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-10T20:32:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "TechCrunch：AI（RSS）"
+      ],
+      "items": [
+        {
+          "id": "ffb0f0ea5036955b8b127faaa8cf74f9db0cc49f",
+          "title": "Apple 起诉 OpenAI 窃取商业机密",
+          "url": "https://aihot.virxact.com/items/cmrfep0gs01ljihxb6uazy2jn",
+          "source": "TechCrunch：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-10T20:32:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.799,
+      "importance": 0.799,
+      "importance_score": 0.799,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.935,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-10T20:32:00Z",
+      "latest_at": "2026-07-10T20:32:00Z",
+      "primary_item": {
+        "id": "ffb0f0ea5036955b8b127faaa8cf74f9db0cc49f",
+        "title": "Apple 起诉 OpenAI 窃取商业机密",
+        "url": "https://aihot.virxact.com/items/cmrfep0gs01ljihxb6uazy2jn",
+        "source": "TechCrunch：AI（RSS）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -383,14 +504,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7945,
-      "importance": 0.7945,
-      "importance_score": 0.7945,
+      "score": 0.784,
+      "importance": 0.784,
+      "importance_score": 0.784,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9123,
+        "recency": 0.8599,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -443,14 +564,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7921,
-      "importance": 0.7921,
-      "importance_score": 0.7921,
+      "score": 0.7816,
+      "importance": 0.7816,
+      "importance_score": 0.7816,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9005,
+        "recency": 0.8481,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -503,14 +624,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7878,
-      "importance": 0.7878,
-      "importance_score": 0.7878,
+      "score": 0.7773,
+      "importance": 0.7773,
+      "importance_score": 0.7773,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.879,
+        "recency": 0.8266,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -563,14 +684,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7851,
-      "importance": 0.7851,
-      "importance_score": 0.7851,
+      "score": 0.7746,
+      "importance": 0.7746,
+      "importance_score": 0.7746,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8656,
+        "recency": 0.8131,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -623,14 +744,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7827,
-      "importance": 0.7827,
-      "importance_score": 0.7827,
+      "score": 0.7722,
+      "importance": 0.7722,
+      "importance_score": 0.7722,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8535,
+        "recency": 0.8011,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -683,14 +804,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7654,
-      "importance": 0.7654,
-      "importance_score": 0.7654,
+      "score": 0.7549,
+      "importance": 0.7549,
+      "importance_score": 0.7549,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7669,
+        "recency": 0.7145,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -743,21 +864,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7577,
-      "importance": 0.7577,
-      "importance_score": 0.7577,
+      "score": 0.7472,
+      "importance": 0.7472,
+      "importance_score": 0.7472,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.4235,
+        "recency": 0.3711,
         "story_heat": 0.0
       },
       "category": "official",
       "reasons": [
         "official_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-10T07:00:00Z",
       "latest_at": "2026-07-10T07:00:00Z",
@@ -804,20 +924,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7548,
-      "importance": 0.7548,
-      "importance_score": 0.7548,
+      "score": 0.7443,
+      "importance": 0.7443,
+      "importance_score": 0.7443,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7139,
+        "recency": 0.6615,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-10T13:58:07Z",
       "latest_at": "2026-07-10T13:58:07Z",
@@ -830,21 +949,21 @@
       }
     },
     {
-      "story_id": "story_fd60211f7949",
-      "title": "GitHub Mobile：改进了 Copilot 会话的过滤器和排序 / GitHub Mobile: Improved filters and sorting for Copilot sessions",
-      "url": "https://github.blog/changelog/2026-07-10-github-mobile-improved-filters-and-sorting-for-copilot-sessions",
-      "primary_url": "https://github.blog/changelog/2026-07-10-github-mobile-improved-filters-and-sorting-for-copilot-sessions",
+      "story_id": "story_2a4bac593207",
+      "title": "REST API 中多用户预算的每用户状态 / Per-user states for multi-user budgets in the REST API",
+      "url": "https://github.blog/changelog/2026-07-10-per-user-states-for-multi-user-budgets-in-the-rest-api",
+      "primary_url": "https://github.blog/changelog/2026-07-10-per-user-states-for-multi-user-budgets-in-the-rest-api",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "34c48a4ad2e50ee457f65cc325d95bd6e7c0b929",
-          "title": "GitHub Mobile：改进了 Copilot 会话的过滤器和排序 / GitHub Mobile: Improved filters and sorting for Copilot sessions",
-          "url": "https://github.blog/changelog/2026-07-10-github-mobile-improved-filters-and-sorting-for-copilot-sessions",
+          "id": "3edcd8bc72d3751e46f3afad8c59e8e7ef5b38ed",
+          "title": "REST API 中多用户预算的每用户状态 / Per-user states for multi-user budgets in the REST API",
+          "url": "https://github.blog/changelog/2026-07-10-per-user-states-for-multi-user-budgets-in-the-rest-api",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-10T09:45:30Z"
+          "published_at": "2026-07-10T15:07:23Z"
         }
       ],
       "source_count": 1,
@@ -853,25 +972,25 @@
       ],
       "items": [
         {
-          "id": "34c48a4ad2e50ee457f65cc325d95bd6e7c0b929",
-          "title": "GitHub Mobile：改进了 Copilot 会话的过滤器和排序 / GitHub Mobile: Improved filters and sorting for Copilot sessions",
-          "url": "https://github.blog/changelog/2026-07-10-github-mobile-improved-filters-and-sorting-for-copilot-sessions",
+          "id": "3edcd8bc72d3751e46f3afad8c59e8e7ef5b38ed",
+          "title": "REST API 中多用户预算的每用户状态 / Per-user states for multi-user budgets in the REST API",
+          "url": "https://github.blog/changelog/2026-07-10-per-user-states-for-multi-user-budgets-in-the-rest-api",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-10T09:45:30Z"
+          "published_at": "2026-07-10T15:07:23Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7807,
-      "importance": 0.7807,
-      "importance_score": 0.7807,
+      "score": 0.8029,
+      "importance": 0.8029,
+      "importance_score": 0.8029,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.5385,
+        "ai_relevance": 0.87,
+        "recency": 0.7096,
         "story_heat": 0.0
       },
       "category": "official",
@@ -880,12 +999,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-10T09:45:30Z",
-      "latest_at": "2026-07-10T09:45:30Z",
+      "earliest_at": "2026-07-10T15:07:23Z",
+      "latest_at": "2026-07-10T15:07:23Z",
       "primary_item": {
-        "id": "34c48a4ad2e50ee457f65cc325d95bd6e7c0b929",
-        "title": "GitHub Mobile：改进了 Copilot 会话的过滤器和排序 / GitHub Mobile: Improved filters and sorting for Copilot sessions",
-        "url": "https://github.blog/changelog/2026-07-10-github-mobile-improved-filters-and-sorting-for-copilot-sessions",
+        "id": "3edcd8bc72d3751e46f3afad8c59e8e7ef5b38ed",
+        "title": "REST API 中多用户预算的每用户状态 / Per-user states for multi-user budgets in the REST API",
+        "url": "https://github.blog/changelog/2026-07-10-per-user-states-for-multi-user-budgets-in-the-rest-api",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
@@ -944,17 +1063,17 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7253,
-      "importance": 0.7253,
-      "importance_score": 0.7253,
-      "importance_label": "行业动态",
+      "score": 0.7149,
+      "importance": 0.7149,
+      "importance_score": 0.7149,
+      "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.4417,
+        "recency": 0.3893,
         "story_heat": 0.25
       },
-      "category": "industry",
+      "category": "watch",
       "reasons": [
         "multi_source",
         "high_ai_relevance"
@@ -970,158 +1089,64 @@
       }
     },
     {
-      "story_id": "story_099be7faa245",
-      "title": "小红书发布大模型新架构 PIPO",
-      "url": "https://aihot.virxact.com/items/cmrerlfrs0046ihm87smc2el4",
-      "primary_url": "https://aihot.virxact.com/items/cmrerlfrs0046ihm87smc2el4",
-      "source": "公众号：小红书技术（dots.llm）",
-      "source_name": "AI HOT",
+      "story_id": "story_fd60211f7949",
+      "title": "GitHub Mobile：改进了 Copilot 会话的过滤器和排序 / GitHub Mobile: Improved filters and sorting for Copilot sessions",
+      "url": "https://github.blog/changelog/2026-07-10-github-mobile-improved-filters-and-sorting-for-copilot-sessions",
+      "primary_url": "https://github.blog/changelog/2026-07-10-github-mobile-improved-filters-and-sorting-for-copilot-sessions",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "3441630213ff9e9417498851b64e450adb39dbe9",
-          "title": "小红书发布大模型新架构 PIPO",
-          "url": "https://aihot.virxact.com/items/cmrerlfrs0046ihm87smc2el4",
-          "source": "公众号：小红书技术（dots.llm）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-10T09:59:00Z"
+          "id": "34c48a4ad2e50ee457f65cc325d95bd6e7c0b929",
+          "title": "GitHub Mobile：改进了 Copilot 会话的过滤器和排序 / GitHub Mobile: Improved filters and sorting for Copilot sessions",
+          "url": "https://github.blog/changelog/2026-07-10-github-mobile-improved-filters-and-sorting-for-copilot-sessions",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-10T09:45:30Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "公众号：小红书技术（dots.llm）"
+        "GitHub Changelog"
       ],
       "items": [
         {
-          "id": "3441630213ff9e9417498851b64e450adb39dbe9",
-          "title": "小红书发布大模型新架构 PIPO",
-          "url": "https://aihot.virxact.com/items/cmrerlfrs0046ihm87smc2el4",
-          "source": "公众号：小红书技术（dots.llm）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-10T09:59:00Z"
+          "id": "34c48a4ad2e50ee457f65cc325d95bd6e7c0b929",
+          "title": "GitHub Mobile：改进了 Copilot 会话的过滤器和排序 / GitHub Mobile: Improved filters and sorting for Copilot sessions",
+          "url": "https://github.blog/changelog/2026-07-10-github-mobile-improved-filters-and-sorting-for-copilot-sessions",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-10T09:45:30Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7216,
-      "importance": 0.7216,
-      "importance_score": 0.7216,
-      "importance_label": "行业动态",
+      "score": 0.7702,
+      "importance": 0.7702,
+      "importance_score": 0.7702,
+      "importance_label": "官方更新",
       "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5479,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.4861,
         "story_heat": 0.0
       },
-      "category": "industry",
+      "category": "official",
       "reasons": [
-        "high_ai_relevance"
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-07-10T09:59:00Z",
-      "latest_at": "2026-07-10T09:59:00Z",
+      "earliest_at": "2026-07-10T09:45:30Z",
+      "latest_at": "2026-07-10T09:45:30Z",
       "primary_item": {
-        "id": "3441630213ff9e9417498851b64e450adb39dbe9",
-        "title": "小红书发布大模型新架构 PIPO",
-        "url": "https://aihot.virxact.com/items/cmrerlfrs0046ihm87smc2el4",
-        "source": "公众号：小红书技术（dots.llm）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_13243758b119",
-      "title": "Cognition 推出 SWE-1.7，接近 GPT 5.5 与 Opus 智能水平",
-      "url": "https://aihot.virxact.com/items/cmre2mjao00nrihwkhnv9ahqj",
-      "primary_url": "https://aihot.virxact.com/items/cmre2mjao00nrihwkhnv9ahqj",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "51372e1e55f8303fcbf4f816ab6a35439ab103aa",
-          "title": "Cognition 推出 SWE-1.7，接近 GPT 5.5 与 Opus 智能水平",
-          "url": "https://aihot.virxact.com/items/cmre2mjao00nrihwkhnv9ahqj",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-09T21:46:17Z"
-        },
-        {
-          "id": "3ff7c88892d9ebe006dbd32980f29249968951f5",
-          "title": "SWE-1.7 的覆盖范围接近 GPT 5.5 和 Opus Intelligence",
-          "url": "https://aihot.virxact.com/items/cmre2mjao00nrihwkhnv9ahqj",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-09T21:46:17Z"
-        },
-        {
-          "id": "a577f832d907d3556babb431fa9407548eded23d",
-          "title": "title",
-          "url": "https://aihot.virxact.com/items/cmre2mjao00nrihwkhnv9ahqj",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-09T21:46:17Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）"
-      ],
-      "items": [
-        {
-          "id": "51372e1e55f8303fcbf4f816ab6a35439ab103aa",
-          "title": "Cognition 推出 SWE-1.7，接近 GPT 5.5 与 Opus 智能水平",
-          "url": "https://aihot.virxact.com/items/cmre2mjao00nrihwkhnv9ahqj",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-09T21:46:17Z"
-        },
-        {
-          "id": "3ff7c88892d9ebe006dbd32980f29249968951f5",
-          "title": "SWE-1.7 的覆盖范围接近 GPT 5.5 和 Opus Intelligence",
-          "url": "https://aihot.virxact.com/items/cmre2mjao00nrihwkhnv9ahqj",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-09T21:46:17Z"
-        },
-        {
-          "id": "a577f832d907d3556babb431fa9407548eded23d",
-          "title": "title",
-          "url": "https://aihot.virxact.com/items/cmre2mjao00nrihwkhnv9ahqj",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-09T21:46:17Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.6698,
-      "importance": 0.6698,
-      "importance_score": 0.6698,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.039,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-09T21:46:17Z",
-      "latest_at": "2026-07-09T21:46:17Z",
-      "primary_item": {
-        "id": "51372e1e55f8303fcbf4f816ab6a35439ab103aa",
-        "title": "Cognition 推出 SWE-1.7，接近 GPT 5.5 与 Opus 智能水平",
-        "url": "https://aihot.virxact.com/items/cmre2mjao00nrihwkhnv9ahqj",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
+        "id": "34c48a4ad2e50ee457f65cc325d95bd6e7c0b929",
+        "title": "GitHub Mobile：改进了 Copilot 会话的过滤器和排序 / GitHub Mobile: Improved filters and sorting for Copilot sessions",
+        "url": "https://github.blog/changelog/2026-07-10-github-mobile-improved-filters-and-sorting-for-copilot-sessions",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -1197,14 +1222,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.573,
-      "importance": 0.573,
-      "importance_score": 0.573,
+      "score": 0.5626,
+      "importance": 0.5626,
+      "importance_score": 0.5626,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9479,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1222,79 +1247,156 @@
       }
     },
     {
-      "story_id": "story_2f6e5ceea008",
-      "title": "不要停止 Gemini 2.5 Flash / Don't discontinue Gemini 2.5 Flash",
-      "url": "https://news.ycombinator.com/item?id=48864507",
-      "primary_url": "https://news.ycombinator.com/item?id=48864507",
-      "source": "hackernews",
-      "source_name": "NewsNow",
+      "story_id": "story_1edff711d52c",
+      "title": "马姆达尼市长宣布具有里程碑意义的“点击取消”消费者保护规定 / Mayor Mamdani Announces Landmark \"Click-to-Cancel\" Consumer Protection Rules",
+      "url": "https://www.nyc.gov/mayors-office/news/2026/07/mayor-mamdani-announces-landmark--click-to-cancel--consumer-prot",
+      "primary_url": "https://www.nyc.gov/mayors-office/news/2026/07/mayor-mamdani-announces-landmark--click-to-cancel--consumer-prot",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
       "sources": [
         {
-          "id": "024611519b6d16eb0b01635334dfcab40f2c12b8",
-          "title": "不要停止 Gemini 2.5 Flash / Don't discontinue Gemini 2.5 Flash",
-          "url": "https://news.ycombinator.com/item?id=48864507",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-10T20:50:29.497000Z"
+          "id": "023ea6b019a1b245dcaf094f6d06dc9d93dee610",
+          "title": "马姆达尼市长宣布具有里程碑意义的“点击取消”消费者保护规定 / Mayor Mamdani Announces Landmark \"Click-to-Cancel\" Consumer Protection Rules",
+          "url": "https://www.nyc.gov/mayors-office/news/2026/07/mayor-mamdani-announces-landmark--click-to-cancel--consumer-prot",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-10T19:30:12Z"
         },
         {
-          "id": "9ab7593cd90bea20a6612496a0a5855bf0f16108",
-          "title": "不要停止 Gemini 2.5 Flash / Don't discontinue Gemini 2.5 Flash",
-          "url": "https://discuss.ai.google.dev/t/please-dont-discontinue-gemini-2-5-flash/174246",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-10T20:00:28Z"
+          "id": "5ce3527d1576a7705acb40f9be3844e99151f0ed",
+          "title": "马姆达尼市长宣布具有里程碑意义的“点击取消”消费者保护规定 / Mayor Mamdani announces \"Click-to-Cancel\" rules",
+          "url": "https://www.nyc.gov/mayors-office/news/2026/07/mayor-mamdani-announces-landmark--click-to-cancel--consumer-prot",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-10T19:30:12Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News",
-        "hackernews"
+        "Hacker News · 24h最热"
       ],
       "items": [
         {
-          "id": "024611519b6d16eb0b01635334dfcab40f2c12b8",
-          "title": "不要停止 Gemini 2.5 Flash / Don't discontinue Gemini 2.5 Flash",
-          "url": "https://news.ycombinator.com/item?id=48864507",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-10T20:50:29.497000Z"
+          "id": "023ea6b019a1b245dcaf094f6d06dc9d93dee610",
+          "title": "马姆达尼市长宣布具有里程碑意义的“点击取消”消费者保护规定 / Mayor Mamdani Announces Landmark \"Click-to-Cancel\" Consumer Protection Rules",
+          "url": "https://www.nyc.gov/mayors-office/news/2026/07/mayor-mamdani-announces-landmark--click-to-cancel--consumer-prot",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-10T19:30:12Z"
         },
         {
-          "id": "9ab7593cd90bea20a6612496a0a5855bf0f16108",
-          "title": "不要停止 Gemini 2.5 Flash / Don't discontinue Gemini 2.5 Flash",
-          "url": "https://discuss.ai.google.dev/t/please-dont-discontinue-gemini-2-5-flash/174246",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-10T20:00:28Z"
+          "id": "5ce3527d1576a7705acb40f9be3844e99151f0ed",
+          "title": "马姆达尼市长宣布具有里程碑意义的“点击取消”消费者保护规定 / Mayor Mamdani announces \"Click-to-Cancel\" rules",
+          "url": "https://www.nyc.gov/mayors-office/news/2026/07/mayor-mamdani-announces-landmark--click-to-cancel--consumer-prot",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-10T19:30:12Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.548,
-      "importance": 0.548,
-      "importance_score": 0.548,
+      "score": 0.5264,
+      "importance": 0.5264,
+      "importance_score": 0.5264,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.8921,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-10T20:00:28Z",
-      "latest_at": "2026-07-10T20:50:29.497000Z",
+      "earliest_at": "2026-07-10T19:30:12Z",
+      "latest_at": "2026-07-10T19:30:12Z",
       "primary_item": {
-        "id": "024611519b6d16eb0b01635334dfcab40f2c12b8",
-        "title": "不要停止 Gemini 2.5 Flash / Don't discontinue Gemini 2.5 Flash",
-        "url": "https://news.ycombinator.com/item?id=48864507",
+        "id": "023ea6b019a1b245dcaf094f6d06dc9d93dee610",
+        "title": "马姆达尼市长宣布具有里程碑意义的“点击取消”消费者保护规定 / Mayor Mamdani Announces Landmark \"Click-to-Cancel\" Consumer Protection Rules",
+        "url": "https://www.nyc.gov/mayors-office/news/2026/07/mayor-mamdani-announces-landmark--click-to-cancel--consumer-prot",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
+      }
+    },
+    {
+      "story_id": "story_50774a9f366d",
+      "title": "GPT-5.6、Grok 4.5、Claude 和 Muse Spark 构建了相同的 4 个应用程序 / GPT-5.6, Grok 4.5, Claude, and Muse Spark build the same 4 apps",
+      "url": "https://news.ycombinator.com/item?id=48865093",
+      "primary_url": "https://news.ycombinator.com/item?id=48865093",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "5be73f16217dd795fa5a8b41a1360643c81272f7",
+          "title": "GPT-5.6、Grok 4.5、Claude 和 Muse Spark 构建了相同的 4 个应用程序 / GPT-5.6, Grok 4.5, Claude, and Muse Spark build the same 4 apps",
+          "url": "https://news.ycombinator.com/item?id=48865093",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-10T21:47:15.925000Z"
+        },
+        {
+          "id": "c7fcdc3ef440c29bc4acc539a72c07685a527504",
+          "title": "GPT-5.6、Grok 4.5、Claude 和 Muse Spark 构建了相同的 4 个应用程序 / GPT-5.6, Grok 4.5, Claude, and Muse Spark build the same 4 apps",
+          "url": "https://www.tryai.dev/blog/gpt-5.6-build-off-12-models",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-10T20:52:28Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "5be73f16217dd795fa5a8b41a1360643c81272f7",
+          "title": "GPT-5.6、Grok 4.5、Claude 和 Muse Spark 构建了相同的 4 个应用程序 / GPT-5.6, Grok 4.5, Claude, and Muse Spark build the same 4 apps",
+          "url": "https://news.ycombinator.com/item?id=48865093",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-10T21:47:15.925000Z"
+        },
+        {
+          "id": "c7fcdc3ef440c29bc4acc539a72c07685a527504",
+          "title": "GPT-5.6、Grok 4.5、Claude 和 Muse Spark 构建了相同的 4 个应用程序 / GPT-5.6, Grok 4.5, Claude, and Muse Spark build the same 4 apps",
+          "url": "https://www.tryai.dev/blog/gpt-5.6-build-off-12-models",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-10T20:52:28Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5455,
+      "importance": 0.5455,
+      "importance_score": 0.5455,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9873,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-10T20:52:28Z",
+      "latest_at": "2026-07-10T21:47:15.925000Z",
+      "primary_item": {
+        "id": "5be73f16217dd795fa5a8b41a1360643c81272f7",
+        "title": "GPT-5.6、Grok 4.5、Claude 和 Muse Spark 构建了相同的 4 个应用程序 / GPT-5.6, Grok 4.5, Claude, and Muse Spark build the same 4 apps",
+        "url": "https://news.ycombinator.com/item?id=48865093",
         "source": "hackernews",
         "source_name": "NewsNow"
       }
@@ -1353,14 +1455,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5143,
-      "importance": 0.5143,
-      "importance_score": 0.5143,
+      "score": 0.5038,
+      "importance": 0.5038,
+      "importance_score": 0.5038,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8314,
+        "recency": 0.779,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1375,181 +1477,6 @@
         "url": "https://www.businessinsider.com/adam-mosseri-instagram-ai-costs-2026-7",
         "source": "www.businessinsider.com",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_c2a3f0d7ae30",
-      "title": "由人工智能生成的视频，旨在最大限度地刺激目标脑区",
-      "url": "https://nevo-project.epfl.ch",
-      "primary_url": "https://nevo-project.epfl.ch",
-      "source": "nevo-project.epfl.ch",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "347408dd650d20f023f11eb5cb4a11fa872e6992",
-          "title": "由人工智能生成的视频，旨在最大限度地刺激目标脑区",
-          "url": "https://nevo-project.epfl.ch",
-          "source": "nevo-project.epfl.ch",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-10T12:15:35.260000Z"
-        },
-        {
-          "id": "77250f068e5bfeeb2aa5d9d3063f88aff5a1b953",
-          "title": "人工智能生成的视频可最大程度地驱动目标大脑区域 / AI-generated videos to maximally drive a target brain region",
-          "url": "https://news.ycombinator.com/item?id=48856904",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-10T09:15:24.983000Z"
-        },
-        {
-          "id": "d9cbaaf5378ca57ca055fc09bc7a5461308c46cd",
-          "title": "由人工智能生成的视频，旨在最大限度地刺激目标脑区 / AI-generated videos to maximally drive a target brain region",
-          "url": "https://nevo-project.epfl.ch",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-10T07:39:11Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News",
-        "hackernews",
-        "nevo-project.epfl.ch"
-      ],
-      "items": [
-        {
-          "id": "347408dd650d20f023f11eb5cb4a11fa872e6992",
-          "title": "由人工智能生成的视频，旨在最大限度地刺激目标脑区",
-          "url": "https://nevo-project.epfl.ch",
-          "source": "nevo-project.epfl.ch",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-10T12:15:35.260000Z"
-        },
-        {
-          "id": "77250f068e5bfeeb2aa5d9d3063f88aff5a1b953",
-          "title": "人工智能生成的视频可最大程度地驱动目标大脑区域 / AI-generated videos to maximally drive a target brain region",
-          "url": "https://news.ycombinator.com/item?id=48856904",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-10T09:15:24.983000Z"
-        },
-        {
-          "id": "d9cbaaf5378ca57ca055fc09bc7a5461308c46cd",
-          "title": "由人工智能生成的视频，旨在最大限度地刺激目标脑区 / AI-generated videos to maximally drive a target brain region",
-          "url": "https://nevo-project.epfl.ch",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-10T07:39:11Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5015,
-      "importance": 0.5015,
-      "importance_score": 0.5015,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.6427,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-10T07:39:11Z",
-      "latest_at": "2026-07-10T12:15:35.260000Z",
-      "primary_item": {
-        "id": "347408dd650d20f023f11eb5cb4a11fa872e6992",
-        "title": "由人工智能生成的视频，旨在最大限度地刺激目标脑区",
-        "url": "https://nevo-project.epfl.ch",
-        "source": "nevo-project.epfl.ch",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_622ba985642e",
-      "title": "Meta 出租算力，AI 支出见顶了吗",
-      "url": "https://www.huxiu.com/article/4874412.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4874412.html?f=rss",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "4c967f0a4ec4c56c616b9ef649feb98b57990a18",
-          "title": "Meta 出租算力，AI 支出见顶了吗",
-          "url": "https://www.huxiu.com/article/4874412.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "730d1aabd8bb9b2915928ad47d006624370e885d",
-          "title": "Meta出租算力，AI支出见顶了吗",
-          "url": "https://www.huxiu.com/article/4874412.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-10T14:08:59Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Readhub · AI",
-        "虎嗅 (Huxiu)"
-      ],
-      "items": [
-        {
-          "id": "4c967f0a4ec4c56c616b9ef649feb98b57990a18",
-          "title": "Meta 出租算力，AI 支出见顶了吗",
-          "url": "https://www.huxiu.com/article/4874412.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "730d1aabd8bb9b2915928ad47d006624370e885d",
-          "title": "Meta出租算力，AI支出见顶了吗",
-          "url": "https://www.huxiu.com/article/4874412.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-10T14:08:59Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5013,
-      "importance": 0.5013,
-      "importance_score": 0.5013,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7665,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-10T14:08:59Z",
-      "latest_at": "2026-07-10T15:13:47.902224Z",
-      "primary_item": {
-        "id": "4c967f0a4ec4c56c616b9ef649feb98b57990a18",
-        "title": "Meta 出租算力，AI 支出见顶了吗",
-        "url": "https://www.huxiu.com/article/4874412.html?f=rss",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
       }
     }
   ]
