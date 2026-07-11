@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-07-11T15:58:07.469121Z",
+  "generated_at": "2026-07-11T17:07:30.517669Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260712-0158-3565-8659-042b651d0d50&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260712-0158-3565-8659-042b651d0d50&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260712-0307-5674-8dcf-014a2d9cef08&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260712-0307-5674-8dcf-014a2d9cef08&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "0c1e584cd6472b82ec0bec04934f838db8c34f85",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260712-0307-5674-8dcf-014a2d9cef08&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "df621b5ace295d03b1e25ab9f61cba33ee89b088",
           "title": "点击这里进入 / Click here to enter",
@@ -138,12 +147,21 @@
           "published_at": null
         }
       ],
-      "source_count": 14,
+      "source_count": 15,
       "source_names": [
         "Page Fallback"
       ],
       "items": [
         {
+          "id": "0c1e584cd6472b82ec0bec04934f838db8c34f85",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260712-0307-5674-8dcf-014a2d9cef08&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "df621b5ace295d03b1e25ab9f61cba33ee89b088",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260712-0158-3565-8659-042b651d0d50&fp=-3",
@@ -270,8 +288,8 @@
           "published_at": null
         }
       ],
-      "item_count": 14,
-      "duplicate_count": 14,
+      "item_count": 15,
+      "duplicate_count": 15,
       "score": 0.912,
       "importance": 0.912,
       "importance_score": 0.912,
@@ -289,11 +307,11 @@
         "high_importance"
       ],
       "earliest_at": "2026-07-10T17:19:16.376606Z",
-      "latest_at": "2026-07-11T15:58:07.469121Z",
+      "latest_at": "2026-07-11T17:07:30.517669Z",
       "primary_item": {
-        "id": "df621b5ace295d03b1e25ab9f61cba33ee89b088",
+        "id": "0c1e584cd6472b82ec0bec04934f838db8c34f85",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260712-0158-3565-8659-042b651d0d50&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260712-0307-5674-8dcf-014a2d9cef08&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
       }
@@ -352,14 +370,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7669,
-      "importance": 0.7669,
-      "importance_score": 0.7669,
+      "score": 0.7572,
+      "importance": 0.7572,
+      "importance_score": 0.7572,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6493,
+        "recency": 0.6011,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -413,14 +431,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7451,
-      "importance": 0.7451,
-      "importance_score": 0.7451,
+      "score": 0.7354,
+      "importance": 0.7354,
+      "importance_score": 0.7354,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6653,
+        "recency": 0.6171,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -439,12 +457,21 @@
     },
     {
       "story_id": "story_9c885636aaf2",
-      "title": "Ghost Font：人类可以阅读但人工智能无法阅读的字体 / Ghost Font: A font that humans can read but AI cannot",
-      "url": "https://news.ycombinator.com/item?id=48870381",
-      "primary_url": "https://news.ycombinator.com/item?id=48870381",
-      "source": "hackernews",
-      "source_name": "NewsNow",
+      "title": "幽灵字体：一种人类能读懂但人工智能无法识别的字体",
+      "url": "https://www.mixfont.com/ghost-font",
+      "primary_url": "https://www.mixfont.com/ghost-font",
+      "source": "www.mixfont.com",
+      "source_name": "Buzzing",
       "sources": [
+        {
+          "id": "9c719a18c6ac7008e0b327dadfc75ea3ce2f0ac3",
+          "title": "幽灵字体：一种人类能读懂但人工智能无法识别的字体",
+          "url": "https://www.mixfont.com/ghost-font",
+          "source": "www.mixfont.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-11T16:31:09.615000Z"
+        },
         {
           "id": "04148b5458523d25e939c0c2a26ac81bf999237b",
           "title": "Ghost Font：人类可以阅读但人工智能无法阅读的字体 / Ghost Font: A font that humans can read but AI cannot",
@@ -465,7 +492,7 @@
         },
         {
           "id": "cb6a376ca1fb345a1316621b0f5c859e5e150750",
-          "title": "人类可以阅读但人工智能无法阅读的字体 / A font that humans can read but AI cannot",
+          "title": "幽灵字体：一种人类能读懂但人工智能无法识别的字体 / A font that humans can read but AI cannot",
           "url": "https://www.mixfont.com/ghost-font",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
@@ -474,7 +501,7 @@
         },
         {
           "id": "cc62ede02ce938a357a2e51d126c92f8f13e83f5",
-          "title": "Ghost Font：人类可以阅读但人工智能无法阅读的字体 / Ghost Font: A font that humans can read but AI cannot",
+          "title": "幽灵字体：一种人类能读懂但人工智能无法识别的字体 / Ghost Font: A font that humans can read but AI cannot",
           "url": "https://www.mixfont.com/ghost-font",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
@@ -482,13 +509,23 @@
           "published_at": "2026-07-11T09:36:53Z"
         }
       ],
-      "source_count": 4,
+      "source_count": 5,
       "source_names": [
         "Hacker News · 24h最热",
-        "hackernews"
+        "hackernews",
+        "www.mixfont.com"
       ],
       "items": [
         {
+          "id": "9c719a18c6ac7008e0b327dadfc75ea3ce2f0ac3",
+          "title": "幽灵字体：一种人类能读懂但人工智能无法识别的字体",
+          "url": "https://www.mixfont.com/ghost-font",
+          "source": "www.mixfont.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-11T16:31:09.615000Z"
+        },
+        {
           "id": "04148b5458523d25e939c0c2a26ac81bf999237b",
           "title": "Ghost Font：人类可以阅读但人工智能无法阅读的字体 / Ghost Font: A font that humans can read but AI cannot",
           "url": "https://news.ycombinator.com/item?id=48870381",
@@ -508,7 +545,7 @@
         },
         {
           "id": "cb6a376ca1fb345a1316621b0f5c859e5e150750",
-          "title": "人类可以阅读但人工智能无法阅读的字体 / A font that humans can read but AI cannot",
+          "title": "幽灵字体：一种人类能读懂但人工智能无法识别的字体 / A font that humans can read but AI cannot",
           "url": "https://www.mixfont.com/ghost-font",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
@@ -517,7 +554,7 @@
         },
         {
           "id": "cc62ede02ce938a357a2e51d126c92f8f13e83f5",
-          "title": "Ghost Font：人类可以阅读但人工智能无法阅读的字体 / Ghost Font: A font that humans can read but AI cannot",
+          "title": "幽灵字体：一种人类能读懂但人工智能无法识别的字体 / Ghost Font: A font that humans can read but AI cannot",
           "url": "https://www.mixfont.com/ghost-font",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
@@ -525,30 +562,107 @@
           "published_at": "2026-07-11T09:36:53Z"
         }
       ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.5955,
-      "importance": 0.5955,
-      "importance_score": 0.5955,
+      "item_count": 5,
+      "duplicate_count": 5,
+      "score": 0.618,
+      "importance": 0.618,
+      "importance_score": 0.618,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9877,
-        "story_heat": 0.75
+        "recency": 0.9748,
+        "story_heat": 1.0
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
       "earliest_at": "2026-07-11T09:36:53Z",
-      "latest_at": "2026-07-11T15:40:23.149000Z",
+      "latest_at": "2026-07-11T16:31:09.615000Z",
       "primary_item": {
-        "id": "04148b5458523d25e939c0c2a26ac81bf999237b",
-        "title": "Ghost Font：人类可以阅读但人工智能无法阅读的字体 / Ghost Font: A font that humans can read but AI cannot",
-        "url": "https://news.ycombinator.com/item?id=48870381",
-        "source": "hackernews",
-        "source_name": "NewsNow"
+        "id": "9c719a18c6ac7008e0b327dadfc75ea3ce2f0ac3",
+        "title": "幽灵字体：一种人类能读懂但人工智能无法识别的字体",
+        "url": "https://www.mixfont.com/ghost-font",
+        "source": "www.mixfont.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_11aee9868a58",
+      "title": "恐怖组织如何利用人工智能在战场上获得优势",
+      "url": "https://www.nytimes.com/2026/07/10/us/politics/ai-terrorism-boko-haram-nigeria.html?smid=bs-share",
+      "primary_url": "https://www.nytimes.com/2026/07/10/us/politics/ai-terrorism-boko-haram-nigeria.html?smid=bs-share",
+      "source": "www.nytimes.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "c9f9e6ceac4ce68c15659da61fa410990ee17b04",
+          "title": "恐怖组织如何利用人工智能在战场上获得优势",
+          "url": "https://www.nytimes.com/2026/07/10/us/politics/ai-terrorism-boko-haram-nigeria.html?smid=bs-share",
+          "source": "www.nytimes.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-11T16:15:25.572000Z"
+        },
+        {
+          "id": "a2040695558392388b00a287a81225749694df3f",
+          "title": "恐怖组织如何利用人工智能在战场上取得优势（赠阅文章）",
+          "url": "https://www.nytimes.com/2026/07/10/us/politics/ai-terrorism-boko-haram-nigeria.html?unlocked_article_code=1.wlA.zOjJ._h4F-7KJwp3D&smid=url-share",
+          "source": "www.nytimes.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-11T01:03:10.067000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "www.nytimes.com"
+      ],
+      "items": [
+        {
+          "id": "c9f9e6ceac4ce68c15659da61fa410990ee17b04",
+          "title": "恐怖组织如何利用人工智能在战场上获得优势",
+          "url": "https://www.nytimes.com/2026/07/10/us/politics/ai-terrorism-boko-haram-nigeria.html?smid=bs-share",
+          "source": "www.nytimes.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-11T16:15:25.572000Z"
+        },
+        {
+          "id": "a2040695558392388b00a287a81225749694df3f",
+          "title": "恐怖组织如何利用人工智能在战场上取得优势（赠阅文章）",
+          "url": "https://www.nytimes.com/2026/07/10/us/politics/ai-terrorism-boko-haram-nigeria.html?unlocked_article_code=1.wlA.zOjJ._h4F-7KJwp3D&smid=url-share",
+          "source": "www.nytimes.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-11T01:03:10.067000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5408,
+      "importance": 0.5408,
+      "importance_score": 0.5408,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9638,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-11T01:03:10.067000Z",
+      "latest_at": "2026-07-11T16:15:25.572000Z",
+      "primary_item": {
+        "id": "c9f9e6ceac4ce68c15659da61fa410990ee17b04",
+        "title": "恐怖组织如何利用人工智能在战场上获得优势",
+        "url": "https://www.nytimes.com/2026/07/10/us/politics/ai-terrorism-boko-haram-nigeria.html?smid=bs-share",
+        "source": "www.nytimes.com",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -605,14 +719,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5392,
-      "importance": 0.5392,
-      "importance_score": 0.5392,
+      "score": 0.5296,
+      "importance": 0.5296,
+      "importance_score": 0.5296,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9562,
+        "recency": 0.908,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -682,14 +796,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5192,
-      "importance": 0.5192,
-      "importance_score": 0.5192,
+      "score": 0.5096,
+      "importance": 0.5096,
+      "importance_score": 0.5096,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.856,
+        "recency": 0.8078,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -707,7 +821,7 @@
       }
     },
     {
-      "story_id": "story_4881a4da7655",
+      "story_id": "story_9e4cd6c746a9",
       "title": "尽管遭到强烈抗议，美国联邦通信委员会还是批准了太空镜照亮夜空的测试 / FCC Approves Test of Space Mirror to Light Night Sky Despite Outcry",
       "url": "https://www.nytimes.com/2026/07/10/climate/fcc-space-mirror.html",
       "primary_url": "https://www.nytimes.com/2026/07/10/climate/fcc-space-mirror.html",
@@ -759,14 +873,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5167,
-      "importance": 0.5167,
-      "importance_score": 0.5167,
+      "score": 0.507,
+      "importance": 0.507,
+      "importance_score": 0.507,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8434,
+        "recency": 0.7952,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -837,14 +951,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5142,
-      "importance": 0.5142,
-      "importance_score": 0.5142,
+      "score": 0.5046,
+      "importance": 0.5046,
+      "importance_score": 0.5046,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8311,
+        "recency": 0.7829,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -915,14 +1029,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5142,
-      "importance": 0.5142,
-      "importance_score": 0.5142,
+      "score": 0.5045,
+      "importance": 0.5045,
+      "importance_score": 0.5045,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8308,
+        "recency": 0.7826,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -993,14 +1107,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5041,
-      "importance": 0.5041,
-      "importance_score": 0.5041,
+      "score": 0.4945,
+      "importance": 0.4945,
+      "importance_score": 0.4945,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7806,
+        "recency": 0.7324,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1071,14 +1185,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.497,
-      "importance": 0.497,
-      "importance_score": 0.497,
+      "score": 0.4874,
+      "importance": 0.4874,
+      "importance_score": 0.4874,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7452,
+        "recency": 0.697,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1149,14 +1263,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5193,
-      "importance": 0.5193,
-      "importance_score": 0.5193,
+      "score": 0.5097,
+      "importance": 0.5097,
+      "importance_score": 0.5097,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8565,
+        "recency": 0.8083,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1171,6 +1285,84 @@
         "url": "https://www.businessinsider.com/openai-codex-niche-macbook-idea-five-minutes-vide-coding-2026-7",
         "source": "www.businessinsider.com",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_a0a97dcb67b7",
+      "title": "各公司都在争先恐后地削减不断飙升的人工智能成本 / Companies are scrambling to curtail soaring AI costs",
+      "url": "https://news.ycombinator.com/item?id=48870035",
+      "primary_url": "https://news.ycombinator.com/item?id=48870035",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "9a9211026b98767f05a9f00728d2ffe36ad44ce3",
+          "title": "各公司都在争先恐后地削减不断飙升的人工智能成本 / Companies are scrambling to curtail soaring AI costs",
+          "url": "https://news.ycombinator.com/item?id=48870035",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-11T08:49:11.865000Z"
+        },
+        {
+          "id": "de34c1aa791ff2fd1df6bd301072e5c09f918f60",
+          "title": "各公司都在争先恐后地削减不断飙升的人工智能成本 / Companies are scrambling to curtail soaring AI costs",
+          "url": "https://www.economist.com/business/2026/06/14/companies-are-scrambling-to-curtail-soaring-ai-costs",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-11T08:29:43Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "9a9211026b98767f05a9f00728d2ffe36ad44ce3",
+          "title": "各公司都在争先恐后地削减不断飙升的人工智能成本 / Companies are scrambling to curtail soaring AI costs",
+          "url": "https://news.ycombinator.com/item?id=48870035",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-11T08:49:11.865000Z"
+        },
+        {
+          "id": "de34c1aa791ff2fd1df6bd301072e5c09f918f60",
+          "title": "各公司都在争先恐后地削减不断飙升的人工智能成本 / Companies are scrambling to curtail soaring AI costs",
+          "url": "https://www.economist.com/business/2026/06/14/companies-are-scrambling-to-curtail-soaring-ai-costs",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-11T08:29:43Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4788,
+      "importance": 0.4788,
+      "importance_score": 0.4788,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.654,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-11T08:29:43Z",
+      "latest_at": "2026-07-11T08:49:11.865000Z",
+      "primary_item": {
+        "id": "9a9211026b98767f05a9f00728d2ffe36ad44ce3",
+        "title": "各公司都在争先恐后地削减不断飙升的人工智能成本 / Companies are scrambling to curtail soaring AI costs",
+        "url": "https://news.ycombinator.com/item?id=48870035",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     },
     {
@@ -1227,14 +1419,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4876,
-      "importance": 0.4876,
-      "importance_score": 0.4876,
+      "score": 0.478,
+      "importance": 0.478,
+      "importance_score": 0.478,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.698,
+        "recency": 0.6498,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1305,14 +1497,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5142,
-      "importance": 0.5142,
-      "importance_score": 0.5142,
+      "score": 0.5046,
+      "importance": 0.5046,
+      "importance_score": 0.5046,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8311,
+        "recency": 0.7829,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1383,14 +1575,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5041,
-      "importance": 0.5041,
-      "importance_score": 0.5041,
+      "score": 0.4945,
+      "importance": 0.4945,
+      "importance_score": 0.4945,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7806,
+        "recency": 0.7324,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1499,14 +1691,14 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.4626,
-      "importance": 0.4626,
-      "importance_score": 0.4626,
+      "score": 0.453,
+      "importance": 0.453,
+      "importance_score": 0.453,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.3232,
+        "recency": 0.275,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -1576,14 +1768,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4922,
-      "importance": 0.4922,
-      "importance_score": 0.4922,
+      "score": 0.4825,
+      "importance": 0.4825,
+      "importance_score": 0.4825,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7209,
+        "recency": 0.6727,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1654,14 +1846,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.491,
-      "importance": 0.491,
-      "importance_score": 0.491,
+      "score": 0.4814,
+      "importance": 0.4814,
+      "importance_score": 0.4814,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7151,
+        "recency": 0.6669,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1675,162 +1867,6 @@
         "title": "中国首个十万卡集群落成！全国产算力支撑“十万卡时代”",
         "url": "https://www.qbitai.com/2026/07/447891.html",
         "source": "量子位 · 每日最新",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_a0a97dcb67b7",
-      "title": "各公司都在争先恐后地削减不断飙升的人工智能成本 / Companies are scrambling to curtail soaring AI costs",
-      "url": "https://news.ycombinator.com/item?id=48870035",
-      "primary_url": "https://news.ycombinator.com/item?id=48870035",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "9a9211026b98767f05a9f00728d2ffe36ad44ce3",
-          "title": "各公司都在争先恐后地削减不断飙升的人工智能成本 / Companies are scrambling to curtail soaring AI costs",
-          "url": "https://news.ycombinator.com/item?id=48870035",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-11T08:49:11.865000Z"
-        },
-        {
-          "id": "de34c1aa791ff2fd1df6bd301072e5c09f918f60",
-          "title": "各公司都在争先恐后地削减不断飙升的人工智能成本 / Companies are scrambling to curtail soaring AI costs",
-          "url": "https://www.economist.com/business/2026/06/14/companies-are-scrambling-to-curtail-soaring-ai-costs",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-11T08:29:43Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "9a9211026b98767f05a9f00728d2ffe36ad44ce3",
-          "title": "各公司都在争先恐后地削减不断飙升的人工智能成本 / Companies are scrambling to curtail soaring AI costs",
-          "url": "https://news.ycombinator.com/item?id=48870035",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-11T08:49:11.865000Z"
-        },
-        {
-          "id": "de34c1aa791ff2fd1df6bd301072e5c09f918f60",
-          "title": "各公司都在争先恐后地削减不断飙升的人工智能成本 / Companies are scrambling to curtail soaring AI costs",
-          "url": "https://www.economist.com/business/2026/06/14/companies-are-scrambling-to-curtail-soaring-ai-costs",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-11T08:29:43Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4884,
-      "importance": 0.4884,
-      "importance_score": 0.4884,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7021,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-11T08:29:43Z",
-      "latest_at": "2026-07-11T08:49:11.865000Z",
-      "primary_item": {
-        "id": "9a9211026b98767f05a9f00728d2ffe36ad44ce3",
-        "title": "各公司都在争先恐后地削减不断飙升的人工智能成本 / Companies are scrambling to curtail soaring AI costs",
-        "url": "https://news.ycombinator.com/item?id=48870035",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_f07fb12bd2d8",
-      "title": "9点1氪丨“国产存储第一股”长鑫科技公布承销团阵容；SK海力士登陆美股，上市首日大涨近13%；OpenAI推出ChatGPT智能体",
-      "url": "https://www.36kr.com/p/3890553690192384",
-      "primary_url": "https://www.36kr.com/p/3890553690192384",
-      "source": "36氪 · 24小时热榜",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "5ac7d6a052762c6fd8edd05a363062aa5edd6506",
-          "title": "9点1氪丨“国产存储第一股”长鑫科技公布承销团阵容；SK海力士登陆美股，上市首日大涨近13%；OpenAI推出ChatGPT智能体",
-          "url": "https://www.36kr.com/p/3890553690192384",
-          "source": "36氪 · 24小时热榜",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "9607e41c6dc0d856c6804c2a3500947a4efc7c35",
-          "title": "9点1氪丨“国产存储第一股”长鑫科技公布承销团阵容；SK海力士登陆美股，上市首日大涨近13%；OpenAI推出ChatGPT智能体",
-          "url": "https://36kr.com/p/3890553690192384?f=rss",
-          "source": "36氪 (36Kr)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-11T01:24:06Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "36氪 (36Kr)",
-        "36氪 · 24小时热榜"
-      ],
-      "items": [
-        {
-          "id": "5ac7d6a052762c6fd8edd05a363062aa5edd6506",
-          "title": "9点1氪丨“国产存储第一股”长鑫科技公布承销团阵容；SK海力士登陆美股，上市首日大涨近13%；OpenAI推出ChatGPT智能体",
-          "url": "https://www.36kr.com/p/3890553690192384",
-          "source": "36氪 · 24小时热榜",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "9607e41c6dc0d856c6804c2a3500947a4efc7c35",
-          "title": "9点1氪丨“国产存储第一股”长鑫科技公布承销团阵容；SK海力士登陆美股，上市首日大涨近13%；OpenAI推出ChatGPT智能体",
-          "url": "https://36kr.com/p/3890553690192384?f=rss",
-          "source": "36氪 (36Kr)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-11T01:24:06Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4542,
-      "importance": 0.4542,
-      "importance_score": 0.4542,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.5309,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-11T01:24:06Z",
-      "latest_at": "2026-07-11T04:42:36.640947Z",
-      "primary_item": {
-        "id": "5ac7d6a052762c6fd8edd05a363062aa5edd6506",
-        "title": "9点1氪丨“国产存储第一股”长鑫科技公布承销团阵容；SK海力士登陆美股，上市首日大涨近13%；OpenAI推出ChatGPT智能体",
-        "url": "https://www.36kr.com/p/3890553690192384",
-        "source": "36氪 · 24小时热榜",
         "source_name": "TopHub"
       }
     }
