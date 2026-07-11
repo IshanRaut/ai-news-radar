@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-07-11T13:23:47.929662Z",
+  "generated_at": "2026-07-11T14:35:18.178673Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260711-2324-140a-9fe2-19c31ed56ee7&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260711-2324-140a-9fe2-19c31ed56ee7&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260712-0035-43e9-a4f5-c2c2ec1499a1&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260712-0035-43e9-a4f5-c2c2ec1499a1&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "08a0c3b4b026b6681dc39b7c8910d5cd78e0d8ea",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260712-0035-43e9-a4f5-c2c2ec1499a1&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "ffe9a68b8e9eb854a20bb2f82b57a17ce7e74ef4",
           "title": "点击这里进入 / Click here to enter",
@@ -129,12 +138,21 @@
           "published_at": null
         }
       ],
-      "source_count": 13,
+      "source_count": 14,
       "source_names": [
         "Page Fallback"
       ],
       "items": [
         {
+          "id": "08a0c3b4b026b6681dc39b7c8910d5cd78e0d8ea",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260712-0035-43e9-a4f5-c2c2ec1499a1&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "ffe9a68b8e9eb854a20bb2f82b57a17ce7e74ef4",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260711-2324-140a-9fe2-19c31ed56ee7&fp=-3",
@@ -252,8 +270,8 @@
           "published_at": null
         }
       ],
-      "item_count": 13,
-      "duplicate_count": 13,
+      "item_count": 14,
+      "duplicate_count": 14,
       "score": 0.912,
       "importance": 0.912,
       "importance_score": 0.912,
@@ -271,13 +289,93 @@
         "high_importance"
       ],
       "earliest_at": "2026-07-10T15:13:47.902224Z",
-      "latest_at": "2026-07-11T13:23:47.929662Z",
+      "latest_at": "2026-07-11T14:35:18.178673Z",
       "primary_item": {
-        "id": "ffe9a68b8e9eb854a20bb2f82b57a17ce7e74ef4",
+        "id": "08a0c3b4b026b6681dc39b7c8910d5cd78e0d8ea",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260711-2324-140a-9fe2-19c31ed56ee7&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260712-0035-43e9-a4f5-c2c2ec1499a1&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
+      }
+    },
+    {
+      "story_id": "story_6d7dc2911118",
+      "title": "11天Claude Fable 5写超100万行代码：Rust重构JavaScript运行时Bun",
+      "url": "https://aihot.virxact.com/items/cmrg3syhp00l7iha7a3ansg62",
+      "primary_url": "https://aihot.virxact.com/items/cmrg3syhp00l7iha7a3ansg62",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "7de54891d6cddd36b8ddda06e061b94ee905afcc",
+          "title": "11天Claude Fable 5写超100万行代码：Rust重构JavaScript运行时Bun",
+          "url": "https://aihot.virxact.com/items/cmrg3syhp00l7iha7a3ansg62",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-11T07:33:08Z"
+        },
+        {
+          "id": "48ab288af4e443d20b63901488425e4a96338a61",
+          "title": "11 天 Claude Fable 5 狂写超 100 万行代码：Rust 重构 JavaScript 运行时 Bun",
+          "url": "https://www.ithome.com/0/975/469.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-11T07:33:08Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "IT之家 (ITHome)",
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "7de54891d6cddd36b8ddda06e061b94ee905afcc",
+          "title": "11天Claude Fable 5写超100万行代码：Rust重构JavaScript运行时Bun",
+          "url": "https://aihot.virxact.com/items/cmrg3syhp00l7iha7a3ansg62",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-11T07:33:08Z"
+        },
+        {
+          "id": "48ab288af4e443d20b63901488425e4a96338a61",
+          "title": "11 天 Claude Fable 5 狂写超 100 万行代码：Rust 重构 JavaScript 运行时 Bun",
+          "url": "https://www.ithome.com/0/975/469.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-11T07:33:08Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7784,
+      "importance": 0.7784,
+      "importance_score": 0.7784,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7068,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-11T07:33:08Z",
+      "latest_at": "2026-07-11T07:33:08Z",
+      "primary_item": {
+        "id": "7de54891d6cddd36b8ddda06e061b94ee905afcc",
+        "title": "11天Claude Fable 5写超100万行代码：Rust重构JavaScript运行时Bun",
+        "url": "https://aihot.virxact.com/items/cmrg3syhp00l7iha7a3ansg62",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -315,14 +413,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7665,
-      "importance": 0.7665,
-      "importance_score": 0.7665,
+      "score": 0.7566,
+      "importance": 0.7566,
+      "importance_score": 0.7566,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7725,
+        "recency": 0.7228,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -375,14 +473,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7337,
-      "importance": 0.7337,
-      "importance_score": 0.7337,
+      "score": 0.7238,
+      "importance": 0.7238,
+      "importance_score": 0.7238,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.3036,
+        "recency": 0.2539,
         "story_heat": 0.0
       },
       "category": "official",
@@ -398,6 +496,161 @@
         "url": "https://github.blog/changelog/2026-07-10-codeql-2-26-0-adds-kotlin-2-4-0-support-and-ai-prompt-injection-detection",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_c8fd19569bf4",
+      "title": "我的同事想为他的MacBook找一款小众的极客工具。Codex几分钟内就搞定了。",
+      "url": "https://www.businessinsider.com/openai-codex-niche-macbook-idea-five-minutes-vide-coding-2026-7",
+      "primary_url": "https://www.businessinsider.com/openai-codex-niche-macbook-idea-five-minutes-vide-coding-2026-7",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "fe186640c19ea072e5436ee7506b50b13ffe9e8f",
+          "title": "我的同事想为他的MacBook找一款小众的极客工具。Codex几分钟内就搞定了。",
+          "url": "https://www.businessinsider.com/openai-codex-niche-macbook-idea-five-minutes-vide-coding-2026-7",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-11T12:31:28.579000Z"
+        },
+        {
+          "id": "793f4218e5c58b5f1defb509d2e0323d8530a50f",
+          "title": "我的同事想为他的MacBook找一款小众的极客工具。Codex几分钟内就搞定了。 / My colleague wanted a nerdy, niche tool for his MacBook. Codex whipped it up in minutes.",
+          "url": "https://www.businessinsider.com/openai-codex-niche-macbook-idea-five-minutes-vide-coding-2026-7",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-11T12:02:01Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "fe186640c19ea072e5436ee7506b50b13ffe9e8f",
+          "title": "我的同事想为他的MacBook找一款小众的极客工具。Codex几分钟内就搞定了。",
+          "url": "https://www.businessinsider.com/openai-codex-niche-macbook-idea-five-minutes-vide-coding-2026-7",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-11T12:31:28.579000Z"
+        },
+        {
+          "id": "793f4218e5c58b5f1defb509d2e0323d8530a50f",
+          "title": "我的同事想为他的MacBook找一款小众的极客工具。Codex几分钟内就搞定了。 / My colleague wanted a nerdy, niche tool for his MacBook. Codex whipped it up in minutes.",
+          "url": "https://www.businessinsider.com/openai-codex-niche-macbook-idea-five-minutes-vide-coding-2026-7",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-11T12:02:01Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5308,
+      "importance": 0.5308,
+      "importance_score": 0.5308,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.914,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-11T12:02:01Z",
+      "latest_at": "2026-07-11T12:31:28.579000Z",
+      "primary_item": {
+        "id": "fe186640c19ea072e5436ee7506b50b13ffe9e8f",
+        "title": "我的同事想为他的MacBook找一款小众的极客工具。Codex几分钟内就搞定了。",
+        "url": "https://www.businessinsider.com/openai-codex-niche-macbook-idea-five-minutes-vide-coding-2026-7",
+        "source": "www.businessinsider.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_5a71c356e918",
+      "title": "[OpenAI] 网页的 GPT 的回答开始加入广告投流了",
+      "url": "https://www.v2ex.com/t/1226598",
+      "primary_url": "https://www.v2ex.com/t/1226598",
+      "source": "V2EX (创意工作者社区)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "3b869f6c63bb0cacc1f413b2de5ce2730b722ba8",
+          "title": "[OpenAI] 网页的 GPT 的回答开始加入广告投流了",
+          "url": "https://www.v2ex.com/t/1226598",
+          "source": "V2EX (创意工作者社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-11T12:30:42Z"
+        },
+        {
+          "id": "f5fee8bca4c64698709febcf41796369c8fde897",
+          "title": "[程序员] 网页的 GPT 的回答开始加入广告投流了",
+          "url": "https://www.v2ex.com/t/1226598",
+          "source": "V2EX (创意工作者社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-11T12:30:42Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "V2EX (创意工作者社区)"
+      ],
+      "items": [
+        {
+          "id": "3b869f6c63bb0cacc1f413b2de5ce2730b722ba8",
+          "title": "[OpenAI] 网页的 GPT 的回答开始加入广告投流了",
+          "url": "https://www.v2ex.com/t/1226598",
+          "source": "V2EX (创意工作者社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-11T12:30:42Z"
+        },
+        {
+          "id": "f5fee8bca4c64698709febcf41796369c8fde897",
+          "title": "[程序员] 网页的 GPT 的回答开始加入广告投流了",
+          "url": "https://www.v2ex.com/t/1226598",
+          "source": "V2EX (创意工作者社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-11T12:30:42Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5307,
+      "importance": 0.5307,
+      "importance_score": 0.5307,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9135,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-11T12:30:42Z",
+      "latest_at": "2026-07-11T12:30:42Z",
+      "primary_item": {
+        "id": "3b869f6c63bb0cacc1f413b2de5ce2730b722ba8",
+        "title": "[OpenAI] 网页的 GPT 的回答开始加入广告投流了",
+        "url": "https://www.v2ex.com/t/1226598",
+        "source": "V2EX (创意工作者社区)",
+        "source_name": "Info Flow"
       }
     },
     {
@@ -454,14 +707,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5356,
-      "importance": 0.5356,
-      "importance_score": 0.5356,
+      "score": 0.5257,
+      "importance": 0.5257,
+      "importance_score": 0.5257,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9382,
+        "recency": 0.8886,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -532,14 +785,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5356,
-      "importance": 0.5356,
-      "importance_score": 0.5356,
+      "score": 0.5257,
+      "importance": 0.5257,
+      "importance_score": 0.5257,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9379,
+        "recency": 0.8883,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -610,14 +863,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5256,
-      "importance": 0.5256,
-      "importance_score": 0.5256,
+      "score": 0.5157,
+      "importance": 0.5157,
+      "importance_score": 0.5157,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8881,
+        "recency": 0.8384,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -688,14 +941,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5255,
-      "importance": 0.5255,
-      "importance_score": 0.5255,
+      "score": 0.5156,
+      "importance": 0.5156,
+      "importance_score": 0.5156,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8877,
+        "recency": 0.8381,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -766,14 +1019,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5185,
-      "importance": 0.5185,
-      "importance_score": 0.5185,
+      "score": 0.5085,
+      "importance": 0.5085,
+      "importance_score": 0.5085,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8523,
+        "recency": 0.8027,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -844,14 +1097,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.509,
-      "importance": 0.509,
-      "importance_score": 0.509,
+      "score": 0.4991,
+      "importance": 0.4991,
+      "importance_score": 0.4991,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8052,
+        "recency": 0.7555,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -922,14 +1175,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5356,
-      "importance": 0.5356,
-      "importance_score": 0.5356,
+      "score": 0.5257,
+      "importance": 0.5257,
+      "importance_score": 0.5257,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9382,
+        "recency": 0.8886,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1000,14 +1253,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5255,
-      "importance": 0.5255,
-      "importance_score": 0.5255,
+      "score": 0.5156,
+      "importance": 0.5156,
+      "importance_score": 0.5156,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8877,
+        "recency": 0.8381,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1116,14 +1369,14 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.4841,
-      "importance": 0.4841,
-      "importance_score": 0.4841,
+      "score": 0.4741,
+      "importance": 0.4741,
+      "importance_score": 0.4741,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.4304,
+        "recency": 0.3807,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -1194,14 +1447,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5125,
-      "importance": 0.5125,
-      "importance_score": 0.5125,
+      "score": 0.5025,
+      "importance": 0.5025,
+      "importance_score": 0.5025,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8223,
+        "recency": 0.7726,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1272,14 +1525,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5099,
-      "importance": 0.5099,
-      "importance_score": 0.5099,
+      "score": 0.4999,
+      "importance": 0.4999,
+      "importance_score": 0.4999,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8093,
+        "recency": 0.7596,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1350,14 +1603,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4756,
-      "importance": 0.4756,
-      "importance_score": 0.4756,
+      "score": 0.4657,
+      "importance": 0.4657,
+      "importance_score": 0.4657,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6381,
+        "recency": 0.5884,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1375,175 +1628,79 @@
       }
     },
     {
-      "story_id": "story_55a96852ef7e",
-      "title": "[OpenAI] codex 的重置卡过期是废弃还是自动重置一次",
-      "url": "https://www.v2ex.com/t/1226547",
-      "primary_url": "https://www.v2ex.com/t/1226547",
-      "source": "V2EX (创意工作者社区)",
-      "source_name": "Info Flow",
+      "story_id": "story_f0d7e1dfb642",
+      "title": "在全球强烈反对后，Meta 删除了 Instagram 上的人工智能功能 / Meta removes AI feature on Instagram after global backlash",
+      "url": "https://www.rnz.co.nz/news/science-and-technology/700735/missed-the-mark-meta-removes-ai-feature-on-instagram-after-global-backlash",
+      "primary_url": "https://www.rnz.co.nz/news/science-and-technology/700735/missed-the-mark-meta-removes-ai-feature-on-instagram-after-global-backlash",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
       "sources": [
         {
-          "id": "7ec729f57b4fd66a086f7fc19e8aa37090206f78",
-          "title": "[OpenAI] codex 的重置卡过期是废弃还是自动重置一次",
-          "url": "https://www.v2ex.com/t/1226547",
-          "source": "V2EX (创意工作者社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-11T03:59:09Z"
+          "id": "186da3c1056f44662615673e6f2b840362fde05c",
+          "title": "在全球强烈反对后，Meta 删除了 Instagram 上的人工智能功能 / Meta removes AI feature on Instagram after global backlash",
+          "url": "https://www.rnz.co.nz/news/science-and-technology/700735/missed-the-mark-meta-removes-ai-feature-on-instagram-after-global-backlash",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-11T04:19:14Z"
         },
         {
-          "id": "39ec0ab7b6ad09f57fbb3a6c9f4b474fc55da97e",
-          "title": "[问与答] codex 的重置卡过期是废弃还是自动重置一次",
-          "url": "https://www.v2ex.com/t/1226547",
-          "source": "V2EX (创意工作者社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-11T03:59:09Z"
+          "id": "511271e0bb213a59d6c6403f1ab80d1585194f63",
+          "title": "Meta 删除了 A.I.经过几天的强烈反对后，Instagram 上出现了专题 / Meta Removes A.I. Feature on Instagram After Days of Backlash",
+          "url": "https://www.nytimes.com/2026/07/10/technology/meta-muse-images-instagram-removal.html",
+          "source": "New York Times",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-11T00:56:41Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "V2EX (创意工作者社区)"
+        "Hacker News · 24h最热",
+        "New York Times"
       ],
       "items": [
         {
-          "id": "7ec729f57b4fd66a086f7fc19e8aa37090206f78",
-          "title": "[OpenAI] codex 的重置卡过期是废弃还是自动重置一次",
-          "url": "https://www.v2ex.com/t/1226547",
-          "source": "V2EX (创意工作者社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-11T03:59:09Z"
+          "id": "186da3c1056f44662615673e6f2b840362fde05c",
+          "title": "在全球强烈反对后，Meta 删除了 Instagram 上的人工智能功能 / Meta removes AI feature on Instagram after global backlash",
+          "url": "https://www.rnz.co.nz/news/science-and-technology/700735/missed-the-mark-meta-removes-ai-feature-on-instagram-after-global-backlash",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-11T04:19:14Z"
         },
         {
-          "id": "39ec0ab7b6ad09f57fbb3a6c9f4b474fc55da97e",
-          "title": "[问与答] codex 的重置卡过期是废弃还是自动重置一次",
-          "url": "https://www.v2ex.com/t/1226547",
-          "source": "V2EX (创意工作者社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-11T03:59:09Z"
+          "id": "511271e0bb213a59d6c6403f1ab80d1585194f63",
+          "title": "Meta 删除了 A.I.经过几天的强烈反对后，Instagram 上出现了专题 / Meta Removes A.I. Feature on Instagram After Days of Backlash",
+          "url": "https://www.nytimes.com/2026/07/10/technology/meta-muse-images-instagram-removal.html",
+          "source": "New York Times",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-11T00:56:41Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4696,
-      "importance": 0.4696,
-      "importance_score": 0.4696,
+      "score": 0.4624,
+      "importance": 0.4624,
+      "importance_score": 0.4624,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6079,
+        "recency": 0.5722,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-11T03:59:09Z",
-      "latest_at": "2026-07-11T03:59:09Z",
+      "earliest_at": "2026-07-11T00:56:41Z",
+      "latest_at": "2026-07-11T04:19:14Z",
       "primary_item": {
-        "id": "7ec729f57b4fd66a086f7fc19e8aa37090206f78",
-        "title": "[OpenAI] codex 的重置卡过期是废弃还是自动重置一次",
-        "url": "https://www.v2ex.com/t/1226547",
-        "source": "V2EX (创意工作者社区)",
-        "source_name": "Info Flow"
-      }
-    },
-    {
-      "story_id": "story_73fcd4d646ac",
-      "title": "经过几天的强烈反对后，Meta 取消了新的人工智能图像功能 / Meta pulls new AI image feature after days of backlash",
-      "url": "https://www.bbc.com/news/articles/c2dy6e8klw0o",
-      "primary_url": "https://www.bbc.com/news/articles/c2dy6e8klw0o",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "405dbcbcc163f829cf77129a1e5ba48df18e0af8",
-          "title": "经过几天的强烈反对后，Meta 取消了新的人工智能图像功能 / Meta pulls new AI image feature after days of backlash",
-          "url": "https://www.bbc.com/news/articles/c2dy6e8klw0o",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-11T00:40:36Z"
-        },
-        {
-          "id": "c7316a1195f303b2080c2007d353fd2b3844d683",
-          "title": "Meta在遭遇数日舆论反弹后下架了新推出的AI图像功能",
-          "url": "https://www.bbc.co.uk/news/articles/c2dy6e8klw0o?at_medium=RSS&at_campaign=rss",
-          "source": "www.bbc.co.uk",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-11T00:31:06.190000Z"
-        },
-        {
-          "id": "1a7c58a30a67a05c464fe35afa858a688ecfe0f8",
-          "title": "Meta在遭遇数日舆论反弹后下架了新推出的AI图像功能 / Meta pulls new AI image feature after days of backlash",
-          "url": "https://www.bbc.co.uk/news/articles/c2dy6e8klw0o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News (世界新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-11T00:17:54Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "BBC News (世界新闻)",
-        "Hacker News · 24h最热",
-        "www.bbc.co.uk"
-      ],
-      "items": [
-        {
-          "id": "405dbcbcc163f829cf77129a1e5ba48df18e0af8",
-          "title": "经过几天的强烈反对后，Meta 取消了新的人工智能图像功能 / Meta pulls new AI image feature after days of backlash",
-          "url": "https://www.bbc.com/news/articles/c2dy6e8klw0o",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-11T00:40:36Z"
-        },
-        {
-          "id": "c7316a1195f303b2080c2007d353fd2b3844d683",
-          "title": "Meta在遭遇数日舆论反弹后下架了新推出的AI图像功能",
-          "url": "https://www.bbc.co.uk/news/articles/c2dy6e8klw0o?at_medium=RSS&at_campaign=rss",
-          "source": "www.bbc.co.uk",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-11T00:31:06.190000Z"
-        },
-        {
-          "id": "1a7c58a30a67a05c464fe35afa858a688ecfe0f8",
-          "title": "Meta在遭遇数日舆论反弹后下架了新推出的AI图像功能 / Meta pulls new AI image feature after days of backlash",
-          "url": "https://www.bbc.co.uk/news/articles/c2dy6e8klw0o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News (世界新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-11T00:17:54Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.467,
-      "importance": 0.467,
-      "importance_score": 0.467,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.47,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-11T00:17:54Z",
-      "latest_at": "2026-07-11T00:40:36Z",
-      "primary_item": {
-        "id": "405dbcbcc163f829cf77129a1e5ba48df18e0af8",
-        "title": "经过几天的强烈反对后，Meta 取消了新的人工智能图像功能 / Meta pulls new AI image feature after days of backlash",
-        "url": "https://www.bbc.com/news/articles/c2dy6e8klw0o",
+        "id": "186da3c1056f44662615673e6f2b840362fde05c",
+        "title": "在全球强烈反对后，Meta 删除了 Instagram 上的人工智能功能 / Meta removes AI feature on Instagram after global backlash",
+        "url": "https://www.rnz.co.nz/news/science-and-technology/700735/missed-the-mark-meta-removes-ai-feature-on-instagram-after-global-backlash",
         "source": "Hacker News · 24h最热",
         "source_name": "Zeli"
       }
@@ -1621,14 +1778,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.4479,
-      "importance": 0.4479,
-      "importance_score": 0.4479,
+      "score": 0.438,
+      "importance": 0.438,
+      "importance_score": 0.438,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.3746,
+        "recency": 0.3249,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1642,181 +1799,6 @@
         "title": "GPT-5.6、Grok 4.5、Claude 和 Muse Spark 开发了相同的 4 款应用",
         "url": "https://www.tryai.dev/blog/gpt-5.6-build-off-12-models",
         "source": "www.tryai.dev",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_04c3e5477225",
-      "title": "恐怖组织“博科圣地”如何利用前沿人工智能技术",
-      "url": "https://casp.ac/reports/ai-enabled-terrorism",
-      "primary_url": "https://casp.ac/reports/ai-enabled-terrorism",
-      "source": "casp.ac",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "bc0ebf0121053d0d65b1953369d9ca71e7c0692f",
-          "title": "恐怖组织“博科圣地”如何利用前沿人工智能技术",
-          "url": "https://casp.ac/reports/ai-enabled-terrorism",
-          "source": "casp.ac",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-10T22:07:19.177000Z"
-        },
-        {
-          "id": "45cfc2d272a9cca3a071eed8914214dc54508623",
-          "title": "恐怖组织博科圣地如何使用前沿人工智能 / How the terrorist group Boko Haram uses frontier AI",
-          "url": "https://news.ycombinator.com/item?id=48863707",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-10T20:50:29.497000Z"
-        },
-        {
-          "id": "f3f21b38ff239d6bbad2008e192df6da39e68b17",
-          "title": "恐怖组织“博科圣地”如何利用前沿人工智能技术 / How the terrorist group Boko Haram uses frontier AI",
-          "url": "https://casp.ac/reports/ai-enabled-terrorism",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-10T18:49:26Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "casp.ac",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "bc0ebf0121053d0d65b1953369d9ca71e7c0692f",
-          "title": "恐怖组织“博科圣地”如何利用前沿人工智能技术",
-          "url": "https://casp.ac/reports/ai-enabled-terrorism",
-          "source": "casp.ac",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-10T22:07:19.177000Z"
-        },
-        {
-          "id": "45cfc2d272a9cca3a071eed8914214dc54508623",
-          "title": "恐怖组织博科圣地如何使用前沿人工智能 / How the terrorist group Boko Haram uses frontier AI",
-          "url": "https://news.ycombinator.com/item?id=48863707",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-10T20:50:29.497000Z"
-        },
-        {
-          "id": "f3f21b38ff239d6bbad2008e192df6da39e68b17",
-          "title": "恐怖组织“博科圣地”如何利用前沿人工智能技术 / How the terrorist group Boko Haram uses frontier AI",
-          "url": "https://casp.ac/reports/ai-enabled-terrorism",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-10T18:49:26Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.4457,
-      "importance": 0.4457,
-      "importance_score": 0.4457,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.3636,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-10T18:49:26Z",
-      "latest_at": "2026-07-10T22:07:19.177000Z",
-      "primary_item": {
-        "id": "bc0ebf0121053d0d65b1953369d9ca71e7c0692f",
-        "title": "恐怖组织“博科圣地”如何利用前沿人工智能技术",
-        "url": "https://casp.ac/reports/ai-enabled-terrorism",
-        "source": "casp.ac",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_df21c02ebeab",
-      "title": "Meta 在推出 AI 图片功能数日后便将其下线",
-      "url": "https://reut.rs/4yffVil",
-      "primary_url": "https://reut.rs/4yffVil",
-      "source": "reut.rs",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "f3df2b264784f409d596d270254550e49c4f3e88",
-          "title": "Meta 在推出 AI 图片功能数日后便将其下线",
-          "url": "https://reut.rs/4yffVil",
-          "source": "reut.rs",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-11T01:03:10.113000Z"
-        },
-        {
-          "id": "1dde102e0585ef45d7ebcc116856f330fa857b7d",
-          "title": "Meta在推出AI图像功能数日后便将其下线",
-          "url": "https://www.reuters.com/technology/meta-discontinues-ai-image-feature-days-after-launch-2026-07-10",
-          "source": "www.reuters.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-10T23:43:31.828000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "reut.rs",
-        "www.reuters.com"
-      ],
-      "items": [
-        {
-          "id": "f3df2b264784f409d596d270254550e49c4f3e88",
-          "title": "Meta 在推出 AI 图片功能数日后便将其下线",
-          "url": "https://reut.rs/4yffVil",
-          "source": "reut.rs",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-11T01:03:10.113000Z"
-        },
-        {
-          "id": "1dde102e0585ef45d7ebcc116856f330fa857b7d",
-          "title": "Meta在推出AI图像功能数日后便将其下线",
-          "url": "https://www.reuters.com/technology/meta-discontinues-ai-image-feature-days-after-launch-2026-07-10",
-          "source": "www.reuters.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-10T23:43:31.828000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4451,
-      "importance": 0.4451,
-      "importance_score": 0.4451,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.4857,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-10T23:43:31.828000Z",
-      "latest_at": "2026-07-11T01:03:10.113000Z",
-      "primary_item": {
-        "id": "f3df2b264784f409d596d270254550e49c4f3e88",
-        "title": "Meta 在推出 AI 图片功能数日后便将其下线",
-        "url": "https://reut.rs/4yffVil",
-        "source": "reut.rs",
         "source_name": "Buzzing"
       }
     }
