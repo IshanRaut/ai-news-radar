@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-07-11T07:11:50.034149Z",
+  "generated_at": "2026-07-11T09:07:51.358981Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260711-1712-140c-8a9a-baa84424f11d&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260711-1712-140c-8a9a-baa84424f11d&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260711-1908-20c7-be14-336c6429641b&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260711-1908-20c7-be14-336c6429641b&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "425891240dd3958a58577977f2a797809452e57b",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260711-1908-20c7-be14-336c6429641b&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "164db7ab0c992a0ea164a583436fed6d0919bb39",
           "title": "点击这里进入 / Click here to enter",
@@ -111,12 +120,21 @@
           "published_at": null
         }
       ],
-      "source_count": 11,
+      "source_count": 12,
       "source_names": [
         "Page Fallback"
       ],
       "items": [
         {
+          "id": "425891240dd3958a58577977f2a797809452e57b",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260711-1908-20c7-be14-336c6429641b&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "164db7ab0c992a0ea164a583436fed6d0919bb39",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260711-1712-140c-8a9a-baa84424f11d&fp=-3",
@@ -216,8 +234,8 @@
           "published_at": null
         }
       ],
-      "item_count": 11,
-      "duplicate_count": 11,
+      "item_count": 12,
+      "duplicate_count": 12,
       "score": 0.912,
       "importance": 0.912,
       "importance_score": 0.912,
@@ -235,13 +253,73 @@
         "high_importance"
       ],
       "earliest_at": "2026-07-10T09:38:58.620515Z",
-      "latest_at": "2026-07-11T07:11:50.034149Z",
+      "latest_at": "2026-07-11T09:07:51.358981Z",
       "primary_item": {
-        "id": "164db7ab0c992a0ea164a583436fed6d0919bb39",
+        "id": "425891240dd3958a58577977f2a797809452e57b",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260711-1712-140c-8a9a-baa84424f11d&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260711-1908-20c7-be14-336c6429641b&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
+      }
+    },
+    {
+      "story_id": "story_26aa619f99b8",
+      "title": "蚂蚁集团 Robbyant 发布 LingBot-VA 2.0，首个原生具身基础模型",
+      "url": "https://aihot.virxact.com/items/cmrg3dsyt00g4iha7og0687tc",
+      "primary_url": "https://aihot.virxact.com/items/cmrg3dsyt00g4iha7og0687tc",
+      "source": "MarkTechPost（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "27dcb4d45e59d6c551d13978c87ea5686e3b597c",
+          "title": "蚂蚁集团 Robbyant 发布 LingBot-VA 2.0，首个原生具身基础模型",
+          "url": "https://aihot.virxact.com/items/cmrg3dsyt00g4iha7og0687tc",
+          "source": "MarkTechPost（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-11T07:56:11Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "MarkTechPost（RSS）"
+      ],
+      "items": [
+        {
+          "id": "27dcb4d45e59d6c551d13978c87ea5686e3b597c",
+          "title": "蚂蚁集团 Robbyant 发布 LingBot-VA 2.0，首个原生具身基础模型",
+          "url": "https://aihot.virxact.com/items/cmrg3dsyt00g4iha7og0687tc",
+          "source": "MarkTechPost（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-11T07:56:11Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.802,
+      "importance": 0.802,
+      "importance_score": 0.802,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9502,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-11T07:56:11Z",
+      "latest_at": "2026-07-11T07:56:11Z",
+      "primary_item": {
+        "id": "27dcb4d45e59d6c551d13978c87ea5686e3b597c",
+        "title": "蚂蚁集团 Robbyant 发布 LingBot-VA 2.0，首个原生具身基础模型",
+        "url": "https://aihot.virxact.com/items/cmrg3dsyt00g4iha7og0687tc",
+        "source": "MarkTechPost（RSS）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -279,14 +357,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7854,
-      "importance": 0.7854,
-      "importance_score": 0.7854,
+      "score": 0.7693,
+      "importance": 0.7693,
+      "importance_score": 0.7693,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.5619,
+        "recency": 0.4813,
         "story_heat": 0.0
       },
       "category": "official",
@@ -340,14 +418,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7683,
-      "importance": 0.7683,
-      "importance_score": 0.7683,
+      "score": 0.7521,
+      "importance": 0.7521,
+      "importance_score": 0.7521,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7813,
+        "recency": 0.7007,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -400,14 +478,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.746,
-      "importance": 0.746,
-      "importance_score": 0.746,
+      "score": 0.7299,
+      "importance": 0.7299,
+      "importance_score": 0.7299,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.3652,
+        "recency": 0.2847,
         "story_heat": 0.0
       },
       "category": "official",
@@ -460,14 +538,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7685,
-      "importance": 0.7685,
-      "importance_score": 0.7685,
+      "score": 0.7524,
+      "importance": 0.7524,
+      "importance_score": 0.7524,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.5377,
+        "recency": 0.4572,
         "story_heat": 0.0
       },
       "category": "official",
@@ -521,14 +599,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7364,
-      "importance": 0.7364,
-      "importance_score": 0.7364,
+      "score": 0.7203,
+      "importance": 0.7203,
+      "importance_score": 0.7203,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6219,
+        "recency": 0.5413,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -546,201 +624,237 @@
       }
     },
     {
-      "story_id": "story_a9e2c15864a7",
-      "title": "Apple 起诉 OpenAI 窃取商业机密",
-      "url": "https://aihot.virxact.com/items/cmrfep0gs01ljihxb6uazy2jn",
-      "primary_url": "https://aihot.virxact.com/items/cmrfep0gs01ljihxb6uazy2jn",
-      "source": "TechCrunch：AI（RSS）",
-      "source_name": "AI HOT",
+      "story_id": "story_0cfeb65a5957",
+      "title": "中国首个十万卡集群落成！全国产算力支撑“十万卡时代”",
+      "url": "https://www.qbitai.com/2026/07/447891.html",
+      "primary_url": "https://www.qbitai.com/2026/07/447891.html",
+      "source": "量子位 · 每日最新",
+      "source_name": "TopHub",
       "sources": [
         {
-          "id": "ffb0f0ea5036955b8b127faaa8cf74f9db0cc49f",
-          "title": "Apple 起诉 OpenAI 窃取商业机密",
-          "url": "https://aihot.virxact.com/items/cmrfep0gs01ljihxb6uazy2jn",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-10T20:32:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "TechCrunch：AI（RSS）"
-      ],
-      "items": [
-        {
-          "id": "ffb0f0ea5036955b8b127faaa8cf74f9db0cc49f",
-          "title": "Apple 起诉 OpenAI 窃取商业机密",
-          "url": "https://aihot.virxact.com/items/cmrfep0gs01ljihxb6uazy2jn",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-10T20:32:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7231,
-      "importance": 0.7231,
-      "importance_score": 0.7231,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5557,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-10T20:32:00Z",
-      "latest_at": "2026-07-10T20:32:00Z",
-      "primary_item": {
-        "id": "ffb0f0ea5036955b8b127faaa8cf74f9db0cc49f",
-        "title": "Apple 起诉 OpenAI 窃取商业机密",
-        "url": "https://aihot.virxact.com/items/cmrfep0gs01ljihxb6uazy2jn",
-        "source": "TechCrunch：AI（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_2a4bac593207",
-      "title": "REST API 中多用户预算的每用户状态 / Per-user states for multi-user budgets in the REST API",
-      "url": "https://github.blog/changelog/2026-07-10-per-user-states-for-multi-user-budgets-in-the-rest-api",
-      "primary_url": "https://github.blog/changelog/2026-07-10-per-user-states-for-multi-user-budgets-in-the-rest-api",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "3edcd8bc72d3751e46f3afad8c59e8e7ef5b38ed",
-          "title": "REST API 中多用户预算的每用户状态 / Per-user states for multi-user budgets in the REST API",
-          "url": "https://github.blog/changelog/2026-07-10-per-user-states-for-multi-user-budgets-in-the-rest-api",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-10T15:07:23Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "3edcd8bc72d3751e46f3afad8c59e8e7ef5b38ed",
-          "title": "REST API 中多用户预算的每用户状态 / Per-user states for multi-user budgets in the REST API",
-          "url": "https://github.blog/changelog/2026-07-10-per-user-states-for-multi-user-budgets-in-the-rest-api",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-10T15:07:23Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.727,
-      "importance": 0.727,
-      "importance_score": 0.727,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.3302,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-10T15:07:23Z",
-      "latest_at": "2026-07-10T15:07:23Z",
-      "primary_item": {
-        "id": "3edcd8bc72d3751e46f3afad8c59e8e7ef5b38ed",
-        "title": "REST API 中多用户预算的每用户状态 / Per-user states for multi-user budgets in the REST API",
-        "url": "https://github.blog/changelog/2026-07-10-per-user-states-for-multi-user-budgets-in-the-rest-api",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_5ddec36afac5",
-      "title": "扎克伯格首度回应 Meta\"算力过剩\"：没人会嫌算力太多，但租出去更赚钱",
-      "url": "https://aihot.virxact.com/items/cmrem518401w2ihcl3vs3c152",
-      "primary_url": "https://aihot.virxact.com/items/cmrem518401w2ihcl3vs3c152",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "dd71bb9ba6fe440a244bd52b1dd4e58a86ac5a80",
-          "title": "扎克伯格首度回应 Meta\"算力过剩\"：没人会嫌算力太多，但租出去更赚钱",
-          "url": "https://aihot.virxact.com/items/cmrem518401w2ihcl3vs3c152",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-10T07:26:10Z"
+          "id": "a117e60ed43c2859771c730ebc5d465306effe3f",
+          "title": "中国首个十万卡集群落成！全国产算力支撑“十万卡时代”",
+          "url": "https://www.qbitai.com/2026/07/447891.html",
+          "source": "量子位 · 每日最新",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         },
         {
-          "id": "a27cd8c18b7359149d81583486c91663f5b1e80a",
-          "title": "扎克伯格首度回应 Meta“算力过剩”：没人会嫌算力太多，但租出去更赚钱",
-          "url": "https://www.ithome.com/0/975/078.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-10T07:26:10Z"
+          "id": "073d82cfd7c0cd9c6800e8537e85bc6b16b34134",
+          "title": "中国首个十万卡集群落成！全国产算力支撑「十万卡时代」",
+          "url": "https://www.qbitai.com/2026/07/447891.html",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
       "source_count": 2,
       "source_names": [
-        "IT之家 (ITHome)",
-        "IT之家（RSS）"
+        "Readhub · AI",
+        "量子位 · 每日最新"
       ],
       "items": [
         {
-          "id": "dd71bb9ba6fe440a244bd52b1dd4e58a86ac5a80",
-          "title": "扎克伯格首度回应 Meta\"算力过剩\"：没人会嫌算力太多，但租出去更赚钱",
-          "url": "https://aihot.virxact.com/items/cmrem518401w2ihcl3vs3c152",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-10T07:26:10Z"
+          "id": "a117e60ed43c2859771c730ebc5d465306effe3f",
+          "title": "中国首个十万卡集群落成！全国产算力支撑“十万卡时代”",
+          "url": "https://www.qbitai.com/2026/07/447891.html",
+          "source": "量子位 · 每日最新",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         },
         {
-          "id": "a27cd8c18b7359149d81583486c91663f5b1e80a",
-          "title": "扎克伯格首度回应 Meta“算力过剩”：没人会嫌算力太多，但租出去更赚钱",
-          "url": "https://www.ithome.com/0/975/078.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-10T07:26:10Z"
+          "id": "073d82cfd7c0cd9c6800e8537e85bc6b16b34134",
+          "title": "中国首个十万卡集群落成！全国产算力支撑「十万卡时代」",
+          "url": "https://www.qbitai.com/2026/07/447891.html",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.639,
-      "importance": 0.639,
-      "importance_score": 0.639,
+      "score": 0.548,
+      "importance": 0.548,
+      "importance_score": 0.548,
       "importance_label": "值得关注",
       "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.01,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
-        "multi_source",
-        "high_ai_relevance"
+        "multi_source"
       ],
-      "earliest_at": "2026-07-10T07:26:10Z",
-      "latest_at": "2026-07-10T07:26:10Z",
+      "earliest_at": "2026-07-11T07:11:50.034149Z",
+      "latest_at": "2026-07-11T09:07:51.358981Z",
       "primary_item": {
-        "id": "dd71bb9ba6fe440a244bd52b1dd4e58a86ac5a80",
-        "title": "扎克伯格首度回应 Meta\"算力过剩\"：没人会嫌算力太多，但租出去更赚钱",
-        "url": "https://aihot.virxact.com/items/cmrem518401w2ihcl3vs3c152",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
+        "id": "a117e60ed43c2859771c730ebc5d465306effe3f",
+        "title": "中国首个十万卡集群落成！全国产算力支撑“十万卡时代”",
+        "url": "https://www.qbitai.com/2026/07/447891.html",
+        "source": "量子位 · 每日最新",
+        "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_a0a97dcb67b7",
+      "title": "各公司都在争先恐后地削减不断飙升的人工智能成本 / Companies are scrambling to curtail soaring AI costs",
+      "url": "https://news.ycombinator.com/item?id=48870035",
+      "primary_url": "https://news.ycombinator.com/item?id=48870035",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "9a9211026b98767f05a9f00728d2ffe36ad44ce3",
+          "title": "各公司都在争先恐后地削减不断飙升的人工智能成本 / Companies are scrambling to curtail soaring AI costs",
+          "url": "https://news.ycombinator.com/item?id=48870035",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-11T08:49:11.865000Z"
+        },
+        {
+          "id": "de34c1aa791ff2fd1df6bd301072e5c09f918f60",
+          "title": "各公司都在争先恐后地削减不断飙升的人工智能成本 / Companies are scrambling to curtail soaring AI costs",
+          "url": "https://www.economist.com/business/2026/06/14/companies-are-scrambling-to-curtail-soaring-ai-costs",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-11T08:29:43Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "9a9211026b98767f05a9f00728d2ffe36ad44ce3",
+          "title": "各公司都在争先恐后地削减不断飙升的人工智能成本 / Companies are scrambling to curtail soaring AI costs",
+          "url": "https://news.ycombinator.com/item?id=48870035",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-11T08:49:11.865000Z"
+        },
+        {
+          "id": "de34c1aa791ff2fd1df6bd301072e5c09f918f60",
+          "title": "各公司都在争先恐后地削减不断飙升的人工智能成本 / Companies are scrambling to curtail soaring AI costs",
+          "url": "https://www.economist.com/business/2026/06/14/companies-are-scrambling-to-curtail-soaring-ai-costs",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-11T08:29:43Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5454,
+      "importance": 0.5454,
+      "importance_score": 0.5454,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.987,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-11T08:29:43Z",
+      "latest_at": "2026-07-11T08:49:11.865000Z",
+      "primary_item": {
+        "id": "9a9211026b98767f05a9f00728d2ffe36ad44ce3",
+        "title": "各公司都在争先恐后地削减不断飙升的人工智能成本 / Companies are scrambling to curtail soaring AI costs",
+        "url": "https://news.ycombinator.com/item?id=48870035",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_31136afe5d04",
+      "title": "图解 120 个大语言模型（LLM）核心概念（31-60）",
+      "url": "https://juejin.cn/post/7660697431320690723",
+      "primary_url": "https://juejin.cn/post/7660697431320690723",
+      "source": "juejin",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "710a0661c81f186f5ecca862f64f2d555e22862d",
+          "title": "图解 120 个大语言模型（LLM）核心概念（31-60）",
+          "url": "https://juejin.cn/post/7660697431320690723",
+          "source": "juejin",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-11T08:43:15.877000Z"
+        },
+        {
+          "id": "ba8969538a1b8c40f719a7bc5e2d3f26de20986a",
+          "title": "图解 120 个大语言模型（LLM）核心概念（1-30）",
+          "url": "https://juejin.cn/post/7660708287620808739",
+          "source": "掘金 · 人工智能本周最热",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "juejin",
+        "掘金 · 人工智能本周最热"
+      ],
+      "items": [
+        {
+          "id": "710a0661c81f186f5ecca862f64f2d555e22862d",
+          "title": "图解 120 个大语言模型（LLM）核心概念（31-60）",
+          "url": "https://juejin.cn/post/7660697431320690723",
+          "source": "juejin",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-11T08:43:15.877000Z"
+        },
+        {
+          "id": "ba8969538a1b8c40f719a7bc5e2d3f26de20986a",
+          "title": "图解 120 个大语言模型（LLM）核心概念（1-30）",
+          "url": "https://juejin.cn/post/7660708287620808739",
+          "source": "掘金 · 人工智能本周最热",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5446,
+      "importance": 0.5446,
+      "importance_score": 0.5446,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9829,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-11T04:42:36.640947Z",
+      "latest_at": "2026-07-11T08:43:15.877000Z",
+      "primary_item": {
+        "id": "710a0661c81f186f5ecca862f64f2d555e22862d",
+        "title": "图解 120 个大语言模型（LLM）核心概念（31-60）",
+        "url": "https://juejin.cn/post/7660697431320690723",
+        "source": "juejin",
+        "source_name": "NewsNow"
       }
     },
     {
@@ -835,14 +949,14 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5357,
-      "importance": 0.5357,
-      "importance_score": 0.5357,
+      "score": 0.5196,
+      "importance": 0.5196,
+      "importance_score": 0.5196,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6887,
+        "recency": 0.6081,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -913,14 +1027,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5273,
-      "importance": 0.5273,
-      "importance_score": 0.5273,
+      "score": 0.5112,
+      "importance": 0.5112,
+      "importance_score": 0.5112,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8964,
+        "recency": 0.8158,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -990,14 +1104,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5212,
-      "importance": 0.5212,
-      "importance_score": 0.5212,
+      "score": 0.5051,
+      "importance": 0.5051,
+      "importance_score": 0.5051,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8662,
+        "recency": 0.7856,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1087,14 +1201,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5187,
-      "importance": 0.5187,
-      "importance_score": 0.5187,
+      "score": 0.5025,
+      "importance": 0.5025,
+      "importance_score": 0.5025,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7283,
+        "recency": 0.6477,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1109,103 +1223,6 @@
         "url": "https://www.bbc.com/news/articles/c2dy6e8klw0o",
         "source": "Hacker News · 24h最热",
         "source_name": "Zeli"
-      }
-    },
-    {
-      "story_id": "story_be1720d248f4",
-      "title": "苹果起诉 OpenAI，指控其前员工窃取商业机密 / Apple sues OpenAI, accuses ex-employees of stealing trade secrets",
-      "url": "https://news.ycombinator.com/item?id=48865019",
-      "primary_url": "https://news.ycombinator.com/item?id=48865019",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "6f0abfaa01d6de5c38b4b10e8770e9838c11ff43",
-          "title": "苹果起诉 OpenAI，指控其前员工窃取商业机密 / Apple sues OpenAI, accuses ex-employees of stealing trade secrets",
-          "url": "https://news.ycombinator.com/item?id=48865019",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-10T23:17:22.747000Z"
-        },
-        {
-          "id": "2e4fae73d6e65a31d6b11518881ef7406520ddeb",
-          "title": "苹果起诉OpenAI窃取商业机密以开发人工智能硬件",
-          "url": "https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft",
-          "source": "9to5mac.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-10T23:11:12.310000Z"
-        },
-        {
-          "id": "e4e0c2527c40fcd87e7452e0f86beecc75b4e728",
-          "title": "苹果起诉OpenAI窃取商业机密以开发人工智能硬件 / Apple sues OpenAI, accuses ex-employees of stealing trade secrets",
-          "url": "https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-10T20:47:09Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "9to5mac.com",
-        "Hacker News",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "6f0abfaa01d6de5c38b4b10e8770e9838c11ff43",
-          "title": "苹果起诉 OpenAI，指控其前员工窃取商业机密 / Apple sues OpenAI, accuses ex-employees of stealing trade secrets",
-          "url": "https://news.ycombinator.com/item?id=48865019",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-10T23:17:22.747000Z"
-        },
-        {
-          "id": "2e4fae73d6e65a31d6b11518881ef7406520ddeb",
-          "title": "苹果起诉OpenAI窃取商业机密以开发人工智能硬件",
-          "url": "https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft",
-          "source": "9to5mac.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-10T23:11:12.310000Z"
-        },
-        {
-          "id": "e4e0c2527c40fcd87e7452e0f86beecc75b4e728",
-          "title": "苹果起诉OpenAI窃取商业机密以开发人工智能硬件 / Apple sues OpenAI, accuses ex-employees of stealing trade secrets",
-          "url": "https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-10T20:47:09Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5071,
-      "importance": 0.5071,
-      "importance_score": 0.5071,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.6705,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-10T20:47:09Z",
-      "latest_at": "2026-07-10T23:17:22.747000Z",
-      "primary_item": {
-        "id": "6f0abfaa01d6de5c38b4b10e8770e9838c11ff43",
-        "title": "苹果起诉 OpenAI，指控其前员工窃取商业机密 / Apple sues OpenAI, accuses ex-employees of stealing trade secrets",
-        "url": "https://news.ycombinator.com/item?id=48865019",
-        "source": "hackernews",
-        "source_name": "NewsNow"
       }
     },
     {
@@ -1281,14 +1298,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.4996,
-      "importance": 0.4996,
-      "importance_score": 0.4996,
+      "score": 0.4835,
+      "importance": 0.4835,
+      "importance_score": 0.4835,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6329,
+        "recency": 0.5523,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1378,14 +1395,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.4974,
-      "importance": 0.4974,
-      "importance_score": 0.4974,
+      "score": 0.4813,
+      "importance": 0.4813,
+      "importance_score": 0.4813,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6219,
+        "recency": 0.5413,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1456,14 +1473,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4968,
-      "importance": 0.4968,
-      "importance_score": 0.4968,
+      "score": 0.4807,
+      "importance": 0.4807,
+      "importance_score": 0.4807,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.744,
+        "recency": 0.6634,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1534,14 +1551,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4968,
-      "importance": 0.4968,
-      "importance_score": 0.4968,
+      "score": 0.4807,
+      "importance": 0.4807,
+      "importance_score": 0.4807,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.744,
+        "recency": 0.6634,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1612,14 +1629,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4968,
-      "importance": 0.4968,
-      "importance_score": 0.4968,
+      "score": 0.4807,
+      "importance": 0.4807,
+      "importance_score": 0.4807,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.744,
+        "recency": 0.6634,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1690,14 +1707,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4967,
-      "importance": 0.4967,
-      "importance_score": 0.4967,
+      "score": 0.4806,
+      "importance": 0.4806,
+      "importance_score": 0.4806,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7437,
+        "recency": 0.6631,
         "story_heat": 0.25
       },
       "category": "watch",
