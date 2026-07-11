@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-07-11T10:42:07.188387Z",
+  "generated_at": "2026-07-11T11:54:25.343157Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260711-2042-3132-9238-fc4f2e0dc8a2&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260711-2042-3132-9238-fc4f2e0dc8a2&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260711-2154-49f1-93cf-8ac4b86c9aaa&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260711-2154-49f1-93cf-8ac4b86c9aaa&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "354b55483aaaada20c03609883c263d40deddf88",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260711-2154-49f1-93cf-8ac4b86c9aaa&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "5fd5f03b9a886a34b3af6dc131df612efeea2d36",
           "title": "点击这里进入 / Click here to enter",
@@ -120,12 +129,21 @@
           "published_at": null
         }
       ],
-      "source_count": 12,
+      "source_count": 13,
       "source_names": [
         "Page Fallback"
       ],
       "items": [
         {
+          "id": "354b55483aaaada20c03609883c263d40deddf88",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260711-2154-49f1-93cf-8ac4b86c9aaa&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "5fd5f03b9a886a34b3af6dc131df612efeea2d36",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260711-2042-3132-9238-fc4f2e0dc8a2&fp=-3",
@@ -234,8 +252,8 @@
           "published_at": null
         }
       ],
-      "item_count": 12,
-      "duplicate_count": 12,
+      "item_count": 13,
+      "duplicate_count": 13,
       "score": 0.912,
       "importance": 0.912,
       "importance_score": 0.912,
@@ -253,11 +271,11 @@
         "high_importance"
       ],
       "earliest_at": "2026-07-10T12:26:39.639259Z",
-      "latest_at": "2026-07-11T10:42:07.188387Z",
+      "latest_at": "2026-07-11T11:54:25.343157Z",
       "primary_item": {
-        "id": "5fd5f03b9a886a34b3af6dc131df612efeea2d36",
+        "id": "354b55483aaaada20c03609883c263d40deddf88",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260711-2042-3132-9238-fc4f2e0dc8a2&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260711-2154-49f1-93cf-8ac4b86c9aaa&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
       }
@@ -297,14 +315,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.789,
-      "importance": 0.789,
-      "importance_score": 0.789,
+      "score": 0.7789,
+      "importance": 0.7789,
+      "importance_score": 0.7789,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8848,
+        "recency": 0.8346,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -357,21 +375,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7562,
-      "importance": 0.7562,
-      "importance_score": 0.7562,
+      "score": 0.7461,
+      "importance": 0.7461,
+      "importance_score": 0.7461,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.4158,
+        "recency": 0.3656,
         "story_heat": 0.0
       },
       "category": "official",
       "reasons": [
         "official_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-10T20:40:56Z",
       "latest_at": "2026-07-10T20:40:56Z",
@@ -418,14 +435,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7391,
-      "importance": 0.7391,
-      "importance_score": 0.7391,
+      "score": 0.729,
+      "importance": 0.729,
+      "importance_score": 0.729,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6353,
+        "recency": 0.5851,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -477,14 +494,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7393,
-      "importance": 0.7393,
-      "importance_score": 0.7393,
+      "score": 0.7293,
+      "importance": 0.7293,
+      "importance_score": 0.7293,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.3917,
+        "recency": 0.3415,
         "story_heat": 0.0
       },
       "category": "official",
@@ -500,6 +517,162 @@
         "url": "https://github.blog/changelog/2026-07-10-clearer-names-for-secret-scanning-detector-types",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_b3a404e8e56a",
+      "title": "DayuanJiang /      next-ai-draw-io",
+      "url": "https://github.com/DayuanJiang/next-ai-draw-io",
+      "primary_url": "https://github.com/DayuanJiang/next-ai-draw-io",
+      "source": "github",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "55b4e69ab6c54ed4dc6d6609bdd4cf8c1ede8c0f",
+          "title": "DayuanJiang /      next-ai-draw-io",
+          "url": "https://github.com/DayuanJiang/next-ai-draw-io",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-11T11:54:52.274000Z"
+        },
+        {
+          "id": "63f6d5619308cbff63b1cac7f51b3cbd341b046e",
+          "title": "DayuanJiang / next-ai-draw-io",
+          "url": "https://github.com/DayuanJiang/next-ai-draw-io",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "GitHub · Trending Today",
+        "github"
+      ],
+      "items": [
+        {
+          "id": "55b4e69ab6c54ed4dc6d6609bdd4cf8c1ede8c0f",
+          "title": "DayuanJiang /      next-ai-draw-io",
+          "url": "https://github.com/DayuanJiang/next-ai-draw-io",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-11T11:54:52.274000Z"
+        },
+        {
+          "id": "63f6d5619308cbff63b1cac7f51b3cbd341b046e",
+          "title": "DayuanJiang / next-ai-draw-io",
+          "url": "https://github.com/DayuanJiang/next-ai-draw-io",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.548,
+      "importance": 0.548,
+      "importance_score": 0.548,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-11T11:54:25.343157Z",
+      "latest_at": "2026-07-11T11:54:52.274000Z",
+      "primary_item": {
+        "id": "55b4e69ab6c54ed4dc6d6609bdd4cf8c1ede8c0f",
+        "title": "DayuanJiang /      next-ai-draw-io",
+        "url": "https://github.com/DayuanJiang/next-ai-draw-io",
+        "source": "github",
+        "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_1b89591e8184",
+      "title": "中国首个十万卡集群落成！全国产算力支撑“十万卡时代”",
+      "url": "https://www.qbitai.com/2026/07/447902.html",
+      "primary_url": "https://www.qbitai.com/2026/07/447902.html",
+      "source": "量子位 · 每日最新",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "b41c66bc4be1aa47f1747df59d02763cc23d6347",
+          "title": "中国首个十万卡集群落成！全国产算力支撑“十万卡时代”",
+          "url": "https://www.qbitai.com/2026/07/447902.html",
+          "source": "量子位 · 每日最新",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "69fcefe45f77192fd3f487e9ca42990a3f7b22f7",
+          "title": "中国首个十万卡集群落成！全国产算力支撑「十万卡时代」",
+          "url": "https://www.qbitai.com/2026/07/447902.html",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Readhub · AI",
+        "量子位 · 每日最新"
+      ],
+      "items": [
+        {
+          "id": "b41c66bc4be1aa47f1747df59d02763cc23d6347",
+          "title": "中国首个十万卡集群落成！全国产算力支撑“十万卡时代”",
+          "url": "https://www.qbitai.com/2026/07/447902.html",
+          "source": "量子位 · 每日最新",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "69fcefe45f77192fd3f487e9ca42990a3f7b22f7",
+          "title": "中国首个十万卡集群落成！全国产算力支撑「十万卡时代」",
+          "url": "https://www.qbitai.com/2026/07/447902.html",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.548,
+      "importance": 0.548,
+      "importance_score": 0.548,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-11T10:42:07.188387Z",
+      "latest_at": "2026-07-11T11:54:25.343157Z",
+      "primary_item": {
+        "id": "b41c66bc4be1aa47f1747df59d02763cc23d6347",
+        "title": "中国首个十万卡集群落成！全国产算力支撑“十万卡时代”",
+        "url": "https://www.qbitai.com/2026/07/447902.html",
+        "source": "量子位 · 每日最新",
+        "source_name": "TopHub"
       }
     },
     {
@@ -556,14 +729,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.548,
-      "importance": 0.548,
-      "importance_score": 0.548,
+      "score": 0.538,
+      "importance": 0.538,
+      "importance_score": 0.538,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9501,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -634,14 +807,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.548,
-      "importance": 0.548,
-      "importance_score": 0.548,
+      "score": 0.538,
+      "importance": 0.538,
+      "importance_score": 0.538,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9498,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -712,14 +885,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5409,
-      "importance": 0.5409,
-      "importance_score": 0.5409,
+      "score": 0.5309,
+      "importance": 0.5309,
+      "importance_score": 0.5309,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9646,
+        "recency": 0.9144,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -734,84 +907,6 @@
         "url": "https://www.schneier.com/blog/archives/2026/07/ai-surveillance-and-social-progress.html",
         "source": "www.schneier.com",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_0cfeb65a5957",
-      "title": "中国首个十万卡集群落成！全国产算力支撑“十万卡时代”",
-      "url": "https://www.qbitai.com/2026/07/447891.html",
-      "primary_url": "https://www.qbitai.com/2026/07/447891.html",
-      "source": "量子位 · 每日最新",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "a117e60ed43c2859771c730ebc5d465306effe3f",
-          "title": "中国首个十万卡集群落成！全国产算力支撑“十万卡时代”",
-          "url": "https://www.qbitai.com/2026/07/447891.html",
-          "source": "量子位 · 每日最新",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "073d82cfd7c0cd9c6800e8537e85bc6b16b34134",
-          "title": "中国首个十万卡集群落成！全国产算力支撑「十万卡时代」",
-          "url": "https://www.qbitai.com/2026/07/447891.html",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Readhub · AI",
-        "量子位 · 每日最新"
-      ],
-      "items": [
-        {
-          "id": "a117e60ed43c2859771c730ebc5d465306effe3f",
-          "title": "中国首个十万卡集群落成！全国产算力支撑“十万卡时代”",
-          "url": "https://www.qbitai.com/2026/07/447891.html",
-          "source": "量子位 · 每日最新",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "073d82cfd7c0cd9c6800e8537e85bc6b16b34134",
-          "title": "中国首个十万卡集群落成！全国产算力支撑「十万卡时代」",
-          "url": "https://www.qbitai.com/2026/07/447891.html",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5349,
-      "importance": 0.5349,
-      "importance_score": 0.5349,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9345,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-11T07:11:50.034149Z",
-      "latest_at": "2026-07-11T09:07:51.358981Z",
-      "primary_item": {
-        "id": "a117e60ed43c2859771c730ebc5d465306effe3f",
-        "title": "中国首个十万卡集群落成！全国产算力支撑“十万卡时代”",
-        "url": "https://www.qbitai.com/2026/07/447891.html",
-        "source": "量子位 · 每日最新",
-        "source_name": "TopHub"
       }
     },
     {
@@ -868,14 +963,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5315,
-      "importance": 0.5315,
-      "importance_score": 0.5315,
+      "score": 0.5215,
+      "importance": 0.5215,
+      "importance_score": 0.5215,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9175,
+        "recency": 0.8673,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -889,6 +984,84 @@
         "title": "图解 120 个大语言模型（LLM）核心概念（31-60）",
         "url": "https://juejin.cn/post/7660697431320690723",
         "source": "juejin",
+        "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_1936484a24f4",
+      "title": "openai/插件 / openai /      plugins",
+      "url": "https://github.com/openai/plugins",
+      "primary_url": "https://github.com/openai/plugins",
+      "source": "github",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "5c8c9c242defeba8e85fb442d350aa8117ab9b08",
+          "title": "openai/插件 / openai /      plugins",
+          "url": "https://github.com/openai/plugins",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-11T11:54:52.274000Z"
+        },
+        {
+          "id": "fa828145e4bc618a2d5310eed9994469d1be5f06",
+          "title": "openai/插件 / openai / plugins",
+          "url": "https://github.com/openai/plugins",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "GitHub · Trending Today",
+        "github"
+      ],
+      "items": [
+        {
+          "id": "5c8c9c242defeba8e85fb442d350aa8117ab9b08",
+          "title": "openai/插件 / openai /      plugins",
+          "url": "https://github.com/openai/plugins",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-11T11:54:52.274000Z"
+        },
+        {
+          "id": "fa828145e4bc618a2d5310eed9994469d1be5f06",
+          "title": "openai/插件 / openai / plugins",
+          "url": "https://github.com/openai/plugins",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.548,
+      "importance": 0.548,
+      "importance_score": 0.548,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-11T11:54:25.343157Z",
+      "latest_at": "2026-07-11T11:54:52.274000Z",
+      "primary_item": {
+        "id": "5c8c9c242defeba8e85fb442d350aa8117ab9b08",
+        "title": "openai/插件 / openai /      plugins",
+        "url": "https://github.com/openai/plugins",
+        "source": "github",
         "source_name": "NewsNow"
       }
     },
@@ -946,14 +1119,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.548,
-      "importance": 0.548,
-      "importance_score": 0.548,
+      "score": 0.538,
+      "importance": 0.538,
+      "importance_score": 0.538,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9498,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1062,14 +1235,14 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5065,
-      "importance": 0.5065,
-      "importance_score": 0.5065,
+      "score": 0.4965,
+      "importance": 0.4965,
+      "importance_score": 0.4965,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.5426,
+        "recency": 0.4924,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -1084,6 +1257,84 @@
         "url": "https://discuss.ai.google.dev/t/please-dont-discontinue-gemini-2-5-flash/174246",
         "source": "discuss.ai.google.dev",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_0cfeb65a5957",
+      "title": "中国首个十万卡集群落成！全国产算力支撑“十万卡时代”",
+      "url": "https://www.qbitai.com/2026/07/447891.html",
+      "primary_url": "https://www.qbitai.com/2026/07/447891.html",
+      "source": "量子位 · 每日最新",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "a117e60ed43c2859771c730ebc5d465306effe3f",
+          "title": "中国首个十万卡集群落成！全国产算力支撑“十万卡时代”",
+          "url": "https://www.qbitai.com/2026/07/447891.html",
+          "source": "量子位 · 每日最新",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "073d82cfd7c0cd9c6800e8537e85bc6b16b34134",
+          "title": "中国首个十万卡集群落成！全国产算力支撑「十万卡时代」",
+          "url": "https://www.qbitai.com/2026/07/447891.html",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Readhub · AI",
+        "量子位 · 每日最新"
+      ],
+      "items": [
+        {
+          "id": "a117e60ed43c2859771c730ebc5d465306effe3f",
+          "title": "中国首个十万卡集群落成！全国产算力支撑“十万卡时代”",
+          "url": "https://www.qbitai.com/2026/07/447891.html",
+          "source": "量子位 · 每日最新",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "073d82cfd7c0cd9c6800e8537e85bc6b16b34134",
+          "title": "中国首个十万卡集群落成！全国产算力支撑「十万卡时代」",
+          "url": "https://www.qbitai.com/2026/07/447891.html",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5249,
+      "importance": 0.5249,
+      "importance_score": 0.5249,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8843,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-11T07:11:50.034149Z",
+      "latest_at": "2026-07-11T09:07:51.358981Z",
+      "primary_item": {
+        "id": "a117e60ed43c2859771c730ebc5d465306effe3f",
+        "title": "中国首个十万卡集群落成！全国产算力支撑“十万卡时代”",
+        "url": "https://www.qbitai.com/2026/07/447891.html",
+        "source": "量子位 · 每日最新",
+        "source_name": "TopHub"
       }
     },
     {
@@ -1140,14 +1391,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5323,
-      "importance": 0.5323,
-      "importance_score": 0.5323,
+      "score": 0.5223,
+      "importance": 0.5223,
+      "importance_score": 0.5223,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9216,
+        "recency": 0.8714,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1218,14 +1469,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4981,
-      "importance": 0.4981,
-      "importance_score": 0.4981,
+      "score": 0.488,
+      "importance": 0.488,
+      "importance_score": 0.488,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7503,
+        "recency": 0.7001,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1295,14 +1546,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.492,
-      "importance": 0.492,
-      "importance_score": 0.492,
+      "score": 0.482,
+      "importance": 0.482,
+      "importance_score": 0.482,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7202,
+        "recency": 0.6699,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1392,14 +1643,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.4895,
-      "importance": 0.4895,
-      "importance_score": 0.4895,
+      "score": 0.4794,
+      "importance": 0.4794,
+      "importance_score": 0.4794,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.5823,
+        "recency": 0.5321,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1489,14 +1740,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.4704,
-      "importance": 0.4704,
-      "importance_score": 0.4704,
+      "score": 0.4603,
+      "importance": 0.4603,
+      "importance_score": 0.4603,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.4869,
+        "recency": 0.4367,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1510,259 +1761,6 @@
         "title": "GPT-5.6、Grok 4.5、Claude 和 Muse Spark 开发了相同的 4 款应用",
         "url": "https://www.tryai.dev/blog/gpt-5.6-build-off-12-models",
         "source": "www.tryai.dev",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_04c3e5477225",
-      "title": "恐怖组织“博科圣地”如何利用前沿人工智能技术",
-      "url": "https://casp.ac/reports/ai-enabled-terrorism",
-      "primary_url": "https://casp.ac/reports/ai-enabled-terrorism",
-      "source": "casp.ac",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "bc0ebf0121053d0d65b1953369d9ca71e7c0692f",
-          "title": "恐怖组织“博科圣地”如何利用前沿人工智能技术",
-          "url": "https://casp.ac/reports/ai-enabled-terrorism",
-          "source": "casp.ac",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-10T22:07:19.177000Z"
-        },
-        {
-          "id": "45cfc2d272a9cca3a071eed8914214dc54508623",
-          "title": "恐怖组织博科圣地如何使用前沿人工智能 / How the terrorist group Boko Haram uses frontier AI",
-          "url": "https://news.ycombinator.com/item?id=48863707",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-10T20:50:29.497000Z"
-        },
-        {
-          "id": "f3f21b38ff239d6bbad2008e192df6da39e68b17",
-          "title": "恐怖组织“博科圣地”如何利用前沿人工智能技术 / How the terrorist group Boko Haram uses frontier AI",
-          "url": "https://casp.ac/reports/ai-enabled-terrorism",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-10T18:49:26Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "casp.ac",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "bc0ebf0121053d0d65b1953369d9ca71e7c0692f",
-          "title": "恐怖组织“博科圣地”如何利用前沿人工智能技术",
-          "url": "https://casp.ac/reports/ai-enabled-terrorism",
-          "source": "casp.ac",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-10T22:07:19.177000Z"
-        },
-        {
-          "id": "45cfc2d272a9cca3a071eed8914214dc54508623",
-          "title": "恐怖组织博科圣地如何使用前沿人工智能 / How the terrorist group Boko Haram uses frontier AI",
-          "url": "https://news.ycombinator.com/item?id=48863707",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-10T20:50:29.497000Z"
-        },
-        {
-          "id": "f3f21b38ff239d6bbad2008e192df6da39e68b17",
-          "title": "恐怖组织“博科圣地”如何利用前沿人工智能技术 / How the terrorist group Boko Haram uses frontier AI",
-          "url": "https://casp.ac/reports/ai-enabled-terrorism",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-10T18:49:26Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.4682,
-      "importance": 0.4682,
-      "importance_score": 0.4682,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.4758,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-10T18:49:26Z",
-      "latest_at": "2026-07-10T22:07:19.177000Z",
-      "primary_item": {
-        "id": "bc0ebf0121053d0d65b1953369d9ca71e7c0692f",
-        "title": "恐怖组织“博科圣地”如何利用前沿人工智能技术",
-        "url": "https://casp.ac/reports/ai-enabled-terrorism",
-        "source": "casp.ac",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_df21c02ebeab",
-      "title": "Meta 在推出 AI 图片功能数日后便将其下线",
-      "url": "https://reut.rs/4yffVil",
-      "primary_url": "https://reut.rs/4yffVil",
-      "source": "reut.rs",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "f3df2b264784f409d596d270254550e49c4f3e88",
-          "title": "Meta 在推出 AI 图片功能数日后便将其下线",
-          "url": "https://reut.rs/4yffVil",
-          "source": "reut.rs",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-11T01:03:10.113000Z"
-        },
-        {
-          "id": "1dde102e0585ef45d7ebcc116856f330fa857b7d",
-          "title": "Meta在推出AI图像功能数日后便将其下线",
-          "url": "https://www.reuters.com/technology/meta-discontinues-ai-image-feature-days-after-launch-2026-07-10",
-          "source": "www.reuters.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-10T23:43:31.828000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "reut.rs",
-        "www.reuters.com"
-      ],
-      "items": [
-        {
-          "id": "f3df2b264784f409d596d270254550e49c4f3e88",
-          "title": "Meta 在推出 AI 图片功能数日后便将其下线",
-          "url": "https://reut.rs/4yffVil",
-          "source": "reut.rs",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-11T01:03:10.113000Z"
-        },
-        {
-          "id": "1dde102e0585ef45d7ebcc116856f330fa857b7d",
-          "title": "Meta在推出AI图像功能数日后便将其下线",
-          "url": "https://www.reuters.com/technology/meta-discontinues-ai-image-feature-days-after-launch-2026-07-10",
-          "source": "www.reuters.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-10T23:43:31.828000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4676,
-      "importance": 0.4676,
-      "importance_score": 0.4676,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.598,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-10T23:43:31.828000Z",
-      "latest_at": "2026-07-11T01:03:10.113000Z",
-      "primary_item": {
-        "id": "f3df2b264784f409d596d270254550e49c4f3e88",
-        "title": "Meta 在推出 AI 图片功能数日后便将其下线",
-        "url": "https://reut.rs/4yffVil",
-        "source": "reut.rs",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_943ef637620d",
-      "title": "人工智能辅助作弊正迫使一些学校回归传统方式",
-      "url": "https://www.businessinsider.com/laptops-closed-chicago-law-school-adopts-new-rule-combat-ai-2026-7",
-      "primary_url": "https://www.businessinsider.com/laptops-closed-chicago-law-school-adopts-new-rule-combat-ai-2026-7",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "6a7b550893422b4d1325af44f00c3dada4895bbc",
-          "title": "人工智能辅助作弊正迫使一些学校回归传统方式",
-          "url": "https://www.businessinsider.com/laptops-closed-chicago-law-school-adopts-new-rule-combat-ai-2026-7",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-11T01:03:10.840000Z"
-        },
-        {
-          "id": "3b7429e45738404d7c93673361ce8d45b5a6c2ea",
-          "title": "人工智能辅助作弊正迫使一些学校回归传统方式 / AI-enabled cheating is forcing some schools to go analog",
-          "url": "https://www.businessinsider.com/laptops-closed-chicago-law-school-adopts-new-rule-combat-ai-2026-7",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-11T00:55:46Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "6a7b550893422b4d1325af44f00c3dada4895bbc",
-          "title": "人工智能辅助作弊正迫使一些学校回归传统方式",
-          "url": "https://www.businessinsider.com/laptops-closed-chicago-law-school-adopts-new-rule-combat-ai-2026-7",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-11T01:03:10.840000Z"
-        },
-        {
-          "id": "3b7429e45738404d7c93673361ce8d45b5a6c2ea",
-          "title": "人工智能辅助作弊正迫使一些学校回归传统方式 / AI-enabled cheating is forcing some schools to go analog",
-          "url": "https://www.businessinsider.com/laptops-closed-chicago-law-school-adopts-new-rule-combat-ai-2026-7",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-11T00:55:46Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4676,
-      "importance": 0.4676,
-      "importance_score": 0.4676,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.598,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-11T00:55:46Z",
-      "latest_at": "2026-07-11T01:03:10.840000Z",
-      "primary_item": {
-        "id": "6a7b550893422b4d1325af44f00c3dada4895bbc",
-        "title": "人工智能辅助作弊正迫使一些学校回归传统方式",
-        "url": "https://www.businessinsider.com/laptops-closed-chicago-law-school-adopts-new-rule-combat-ai-2026-7",
-        "source": "www.businessinsider.com",
         "source_name": "Buzzing"
       }
     }
