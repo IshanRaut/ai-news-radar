@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-07-12T14:04:19.129622Z",
+  "generated_at": "2026-07-12T15:33:35.046910Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260713-0004-44dd-a6f1-69568f399a5e&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260713-0004-44dd-a6f1-69568f399a5e&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260713-0133-5994-8e39-24240e7955d5&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260713-0133-5994-8e39-24240e7955d5&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "66b3aa290f90c8a17a1e2ca013beda4f5fa6ea2f",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260713-0133-5994-8e39-24240e7955d5&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "a80bc0fa02123641ac5432fd4bfad5e2665ca789",
           "title": "点击这里进入 / Click here to enter",
@@ -132,15 +141,6 @@
           "id": "df621b5ace295d03b1e25ab9f61cba33ee89b088",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260712-0158-3565-8659-042b651d0d50&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "08a0c3b4b026b6681dc39b7c8910d5cd78e0d8ea",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260712-0035-43e9-a4f5-c2c2ec1499a1&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -153,6 +153,15 @@
       ],
       "items": [
         {
+          "id": "66b3aa290f90c8a17a1e2ca013beda4f5fa6ea2f",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260713-0133-5994-8e39-24240e7955d5&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "a80bc0fa02123641ac5432fd4bfad5e2665ca789",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260713-0004-44dd-a6f1-69568f399a5e&fp=-3",
@@ -273,15 +282,6 @@
           "id": "df621b5ace295d03b1e25ab9f61cba33ee89b088",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260712-0158-3565-8659-042b651d0d50&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "08a0c3b4b026b6681dc39b7c8910d5cd78e0d8ea",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260712-0035-43e9-a4f5-c2c2ec1499a1&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -306,14 +306,74 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-11T14:35:18.178673Z",
-      "latest_at": "2026-07-12T14:04:19.129622Z",
+      "earliest_at": "2026-07-11T15:58:07.469121Z",
+      "latest_at": "2026-07-12T15:33:35.046910Z",
       "primary_item": {
-        "id": "a80bc0fa02123641ac5432fd4bfad5e2665ca789",
+        "id": "66b3aa290f90c8a17a1e2ca013beda4f5fa6ea2f",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260713-0004-44dd-a6f1-69568f399a5e&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260713-0133-5994-8e39-24240e7955d5&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
+      }
+    },
+    {
+      "story_id": "story_3ec33267905e",
+      "title": "Mindwalk：在代码库 3D 地图上回放编码代理会话",
+      "url": "https://aihot.virxact.com/items/cmrhvwe6k00y7biidjabepmem",
+      "primary_url": "https://aihot.virxact.com/items/cmrhvwe6k00y7biidjabepmem",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "b9760a6806171026f9ecb3a0afc88f17312ecd27",
+          "title": "Mindwalk：在代码库 3D 地图上回放编码代理会话",
+          "url": "https://aihot.virxact.com/items/cmrhvwe6k00y7biidjabepmem",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-12T13:51:05Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）"
+      ],
+      "items": [
+        {
+          "id": "b9760a6806171026f9ecb3a0afc88f17312ecd27",
+          "title": "Mindwalk：在代码库 3D 地图上回放编码代理会话",
+          "url": "https://aihot.virxact.com/items/cmrhvwe6k00y7biidjabepmem",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-12T13:51:05Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7978,
+      "importance": 0.7978,
+      "importance_score": 0.7978,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9288,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-12T13:51:05Z",
+      "latest_at": "2026-07-12T13:51:05Z",
+      "primary_item": {
+        "id": "b9760a6806171026f9ecb3a0afc88f17312ecd27",
+        "title": "Mindwalk：在代码库 3D 地图上回放编码代理会话",
+        "url": "https://aihot.virxact.com/items/cmrhvwe6k00y7biidjabepmem",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -351,14 +411,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7719,
-      "importance": 0.7719,
-      "importance_score": 0.7719,
+      "score": 0.7595,
+      "importance": 0.7595,
+      "importance_score": 0.7595,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7997,
+        "recency": 0.7377,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -373,65 +433,6 @@
         "title": "OpenAI CEO Altman 改口称 AI 净创造就业，Anthropic CEO 也修正早期言论",
         "url": "https://aihot.virxact.com/items/cmrhlbx2v01a4bimnlcgw5m7y",
         "source": "The Decoder：AI News（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_c6c9c9525400",
-      "title": "xAI Grok Build CLI 网络流量分析：上传仓库全部文件及 git 历史",
-      "url": "https://aihot.virxact.com/items/cmrhagju201pqbir7t0tnsgfy",
-      "primary_url": "https://aihot.virxact.com/items/cmrhagju201pqbir7t0tnsgfy",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "99f4f8738716b7ba8175e9fd1022480f487d86cf",
-          "title": "xAI Grok Build CLI 网络流量分析：上传仓库全部文件及 git 历史",
-          "url": "https://aihot.virxact.com/items/cmrhagju201pqbir7t0tnsgfy",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-12T03:59:09Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）"
-      ],
-      "items": [
-        {
-          "id": "99f4f8738716b7ba8175e9fd1022480f487d86cf",
-          "title": "xAI Grok Build CLI 网络流量分析：上传仓库全部文件及 git 历史",
-          "url": "https://aihot.virxact.com/items/cmrhagju201pqbir7t0tnsgfy",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-12T03:59:09Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7279,
-      "importance": 0.7279,
-      "importance_score": 0.7279,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5797,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-12T03:59:09Z",
-      "latest_at": "2026-07-12T03:59:09Z",
-      "primary_item": {
-        "id": "99f4f8738716b7ba8175e9fd1022480f487d86cf",
-        "title": "xAI Grok Build CLI 网络流量分析：上传仓库全部文件及 git 历史",
-        "url": "https://aihot.virxact.com/items/cmrhagju201pqbir7t0tnsgfy",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
       }
     },
@@ -489,14 +490,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7144,
-      "importance": 0.7144,
-      "importance_score": 0.7144,
+      "score": 0.7021,
+      "importance": 0.7021,
+      "importance_score": 0.7021,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.3872,
+        "recency": 0.3253,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -512,6 +513,103 @@
         "url": "https://aihot.virxact.com/items/cmrgzykqg00jabid4acp6zpjm",
         "source": "IT之家（RSS）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_af41461907f9",
+      "title": "Show HN：4,356 个可访问的 MCP 服务器中只有 1 个已准备好满足 2026-07-28 规范 / Show HN: Only 1 of 4,356 reachable MCP servers is ready for the 2026-07-28 spec",
+      "url": "https://news.ycombinator.com/item?id=48881009",
+      "primary_url": "https://news.ycombinator.com/item?id=48881009",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "601d0ade200a1b26af0af0bd0256fdc751a7b11d",
+          "title": "Show HN：4,356 个可访问的 MCP 服务器中只有 1 个已准备好满足 2026-07-28 规范 / Show HN: Only 1 of 4,356 reachable MCP servers is ready for the 2026-07-28 spec",
+          "url": "https://news.ycombinator.com/item?id=48881009",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-12T15:23:43.975000Z"
+        },
+        {
+          "id": "78e767314a8d61d7d850cf22cfae10317bf705f2",
+          "title": "Show HN: 在4,356台可联系到的MCP服务器中，仅有1台符合2026-07-28规范",
+          "url": "https://github.com/Roee-Tsur/mcp-spec-check",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-12T13:35:15.303000Z"
+        },
+        {
+          "id": "89fb1b44dc3744f1e0f801a30f2663400c1e74c9",
+          "title": "Show HN: 在4,356台可联系到的MCP服务器中，仅有1台符合2026-07-28规范 / Show HN: Only 1 of 4,356 reachable MCP servers is ready for the 2026-07-28 spec",
+          "url": "https://github.com/Roee-Tsur/mcp-spec-check",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-12T13:21:01Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News",
+        "github.com",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "601d0ade200a1b26af0af0bd0256fdc751a7b11d",
+          "title": "Show HN：4,356 个可访问的 MCP 服务器中只有 1 个已准备好满足 2026-07-28 规范 / Show HN: Only 1 of 4,356 reachable MCP servers is ready for the 2026-07-28 spec",
+          "url": "https://news.ycombinator.com/item?id=48881009",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-12T15:23:43.975000Z"
+        },
+        {
+          "id": "78e767314a8d61d7d850cf22cfae10317bf705f2",
+          "title": "Show HN: 在4,356台可联系到的MCP服务器中，仅有1台符合2026-07-28规范",
+          "url": "https://github.com/Roee-Tsur/mcp-spec-check",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-12T13:35:15.303000Z"
+        },
+        {
+          "id": "89fb1b44dc3744f1e0f801a30f2663400c1e74c9",
+          "title": "Show HN: 在4,356台可联系到的MCP服务器中，仅有1台符合2026-07-28规范 / Show HN: Only 1 of 4,356 reachable MCP servers is ready for the 2026-07-28 spec",
+          "url": "https://github.com/Roee-Tsur/mcp-spec-check",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-12T13:21:01Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5716,
+      "importance": 0.5716,
+      "importance_score": 0.5716,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9932,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-12T13:21:01Z",
+      "latest_at": "2026-07-12T15:23:43.975000Z",
+      "primary_item": {
+        "id": "601d0ade200a1b26af0af0bd0256fdc751a7b11d",
+        "title": "Show HN：4,356 个可访问的 MCP 服务器中只有 1 个已准备好满足 2026-07-28 规范 / Show HN: Only 1 of 4,356 reachable MCP servers is ready for the 2026-07-28 spec",
+        "url": "https://news.ycombinator.com/item?id=48881009",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     },
     {
@@ -568,14 +666,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.548,
-      "importance": 0.548,
-      "importance_score": 0.548,
+      "score": 0.5356,
+      "importance": 0.5356,
+      "importance_score": 0.5356,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.938,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -646,14 +744,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5312,
-      "importance": 0.5312,
-      "importance_score": 0.5312,
+      "score": 0.5188,
+      "importance": 0.5188,
+      "importance_score": 0.5188,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9159,
+        "recency": 0.8539,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -667,6 +765,84 @@
         "title": "Nutlope / 标志 / Nutlope /      hallmark",
         "url": "https://github.com/Nutlope/hallmark",
         "source": "github",
+        "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_e7c3ab251152",
+      "title": "人工智能促进了研究事业的发展，但使科学发现变得扁平化 / AI Boosts Research Careers but Flattens Scientific Discovery",
+      "url": "https://news.ycombinator.com/item?id=48881043",
+      "primary_url": "https://news.ycombinator.com/item?id=48881043",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "983038c47ecd6992db219057cf19179bb2bbf884",
+          "title": "人工智能促进了研究事业的发展，但使科学发现变得扁平化 / AI Boosts Research Careers but Flattens Scientific Discovery",
+          "url": "https://news.ycombinator.com/item?id=48881043",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-12T15:23:43.975000Z"
+        },
+        {
+          "id": "a4d49f966f117131e6d4f0ef049a504dcd24d33b",
+          "title": "人工智能促进了研究事业的发展，但使科学发现变得扁平化 / AI Boosts Research Careers but Flattens Scientific Discovery",
+          "url": "https://spectrum.ieee.org/ai-science-research-flattens-discovery",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-12T13:26:13Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "983038c47ecd6992db219057cf19179bb2bbf884",
+          "title": "人工智能促进了研究事业的发展，但使科学发现变得扁平化 / AI Boosts Research Careers but Flattens Scientific Discovery",
+          "url": "https://news.ycombinator.com/item?id=48881043",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-12T15:23:43.975000Z"
+        },
+        {
+          "id": "a4d49f966f117131e6d4f0ef049a504dcd24d33b",
+          "title": "人工智能促进了研究事业的发展，但使科学发现变得扁平化 / AI Boosts Research Careers but Flattens Scientific Discovery",
+          "url": "https://spectrum.ieee.org/ai-science-research-flattens-discovery",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-12T13:26:13Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5466,
+      "importance": 0.5466,
+      "importance_score": 0.5466,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9932,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-12T13:26:13Z",
+      "latest_at": "2026-07-12T15:23:43.975000Z",
+      "primary_item": {
+        "id": "983038c47ecd6992db219057cf19179bb2bbf884",
+        "title": "人工智能促进了研究事业的发展，但使科学发现变得扁平化 / AI Boosts Research Careers but Flattens Scientific Discovery",
+        "url": "https://news.ycombinator.com/item?id=48881043",
+        "source": "hackernews",
         "source_name": "NewsNow"
       }
     },
@@ -724,14 +900,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5276,
-      "importance": 0.5276,
-      "importance_score": 0.5276,
+      "score": 0.5152,
+      "importance": 0.5152,
+      "importance_score": 0.5152,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8981,
+        "recency": 0.8361,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -802,14 +978,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5239,
-      "importance": 0.5239,
-      "importance_score": 0.5239,
+      "score": 0.5115,
+      "importance": 0.5115,
+      "importance_score": 0.5115,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8797,
+        "recency": 0.8177,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -918,14 +1094,14 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5228,
-      "importance": 0.5228,
-      "importance_score": 0.5228,
+      "score": 0.5104,
+      "importance": 0.5104,
+      "importance_score": 0.5104,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6241,
+        "recency": 0.5621,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -996,14 +1172,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.548,
-      "importance": 0.548,
-      "importance_score": 0.548,
+      "score": 0.5356,
+      "importance": 0.5356,
+      "importance_score": 0.5356,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.938,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1073,14 +1249,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5105,
-      "importance": 0.5105,
-      "importance_score": 0.5105,
+      "score": 0.4981,
+      "importance": 0.4981,
+      "importance_score": 0.4981,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8123,
+        "recency": 0.7503,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1151,14 +1327,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5312,
-      "importance": 0.5312,
-      "importance_score": 0.5312,
+      "score": 0.5188,
+      "importance": 0.5188,
+      "importance_score": 0.5188,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9159,
+        "recency": 0.8539,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1229,14 +1405,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.548,
-      "importance": 0.548,
-      "importance_score": 0.548,
+      "score": 0.5356,
+      "importance": 0.5356,
+      "importance_score": 0.5356,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.938,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1326,14 +1502,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.4756,
-      "importance": 0.4756,
-      "importance_score": 0.4756,
+      "score": 0.4632,
+      "importance": 0.4632,
+      "importance_score": 0.4632,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.513,
+        "recency": 0.451,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1404,14 +1580,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5312,
-      "importance": 0.5312,
-      "importance_score": 0.5312,
+      "score": 0.5188,
+      "importance": 0.5188,
+      "importance_score": 0.5188,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9159,
+        "recency": 0.8539,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1481,14 +1657,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4968,
-      "importance": 0.4968,
-      "importance_score": 0.4968,
+      "score": 0.4844,
+      "importance": 0.4844,
+      "importance_score": 0.4844,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7441,
+        "recency": 0.6822,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1559,14 +1735,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4617,
-      "importance": 0.4617,
-      "importance_score": 0.4617,
+      "score": 0.4493,
+      "importance": 0.4493,
+      "importance_score": 0.4493,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.5686,
+        "recency": 0.5066,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1637,14 +1813,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.548,
-      "importance": 0.548,
-      "importance_score": 0.548,
+      "score": 0.5356,
+      "importance": 0.5356,
+      "importance_score": 0.5356,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.938,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1659,180 +1835,6 @@
         "url": "https://www.ithome.com/0/975/816.htm",
         "source": "Readhub · AI",
         "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_afc80c46cea0",
-      "title": "别再让我去问LLM了",
-      "url": "https://blog.yaelwrites.com/stop-telling-me-to-ask-an-llm",
-      "primary_url": "https://blog.yaelwrites.com/stop-telling-me-to-ask-an-llm",
-      "source": "blog.yaelwrites.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "d3c7dfebcf3cfef4260e34b94be9c61110f5d26c",
-          "title": "别再让我去问LLM了",
-          "url": "https://blog.yaelwrites.com/stop-telling-me-to-ask-an-llm",
-          "source": "blog.yaelwrites.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-11T23:59:09.075000Z"
-        },
-        {
-          "id": "36ea69c2b9d8f7394a0e114f6978e5543014760c",
-          "title": "别再告诉我去申请法学硕士 / Stop Telling Me to Ask an LLM",
-          "url": "https://news.ycombinator.com/item?id=48876441",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-11T23:41:34.370000Z"
-        },
-        {
-          "id": "f7d74b1b9d5f71c14c4e25c689bf4eefece9df05",
-          "title": "别再让我去问LLM了 / Stop Telling Me to Ask an LLM",
-          "url": "https://blog.yaelwrites.com/stop-telling-me-to-ask-an-llm",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-11T22:28:48Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News",
-        "blog.yaelwrites.com",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "d3c7dfebcf3cfef4260e34b94be9c61110f5d26c",
-          "title": "别再让我去问LLM了",
-          "url": "https://blog.yaelwrites.com/stop-telling-me-to-ask-an-llm",
-          "source": "blog.yaelwrites.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-11T23:59:09.075000Z"
-        },
-        {
-          "id": "36ea69c2b9d8f7394a0e114f6978e5543014760c",
-          "title": "别再告诉我去申请法学硕士 / Stop Telling Me to Ask an LLM",
-          "url": "https://news.ycombinator.com/item?id=48876441",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-11T23:41:34.370000Z"
-        },
-        {
-          "id": "f7d74b1b9d5f71c14c4e25c689bf4eefece9df05",
-          "title": "别再让我去问LLM了 / Stop Telling Me to Ask an LLM",
-          "url": "https://blog.yaelwrites.com/stop-telling-me-to-ask-an-llm",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-11T22:28:48Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.4556,
-      "importance": 0.4556,
-      "importance_score": 0.4556,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.4131,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-11T22:28:48Z",
-      "latest_at": "2026-07-11T23:59:09.075000Z",
-      "primary_item": {
-        "id": "d3c7dfebcf3cfef4260e34b94be9c61110f5d26c",
-        "title": "别再让我去问LLM了",
-        "url": "https://blog.yaelwrites.com/stop-telling-me-to-ask-an-llm",
-        "source": "blog.yaelwrites.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_d510ab3ae5b4",
-      "title": "简单液体中意外的类固体断裂 / Unexpected Solidlike Fracture in Simple Liquids",
-      "url": "https://www.quantamagazine.org/we-know-simple-fluids-can-flow-turns-out-some-can-fracture-20260710",
-      "primary_url": "https://www.quantamagazine.org/we-know-simple-fluids-can-flow-turns-out-some-can-fracture-20260710",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "cbe7f28694f1ae7931a8fc5325df06ca77669066",
-          "title": "简单液体中意外的类固体断裂 / Unexpected Solidlike Fracture in Simple Liquids",
-          "url": "https://www.quantamagazine.org/we-know-simple-fluids-can-flow-turns-out-some-can-fracture-20260710",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-12T02:13:46Z"
-        },
-        {
-          "id": "72c7edbdcba05dbee3f4f23c1d9dd80461dd3bd1",
-          "title": "我们知道简单的流体可以流动。事实证明，有些会骨折 / We Know Simple Fluids Can Flow. Turns Out, Some Can Fracture",
-          "url": "https://www.quantamagazine.org/we-know-simple-fluids-can-flow-turns-out-some-can-fracture-20260710",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-12T02:13:46Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热"
-      ],
-      "items": [
-        {
-          "id": "cbe7f28694f1ae7931a8fc5325df06ca77669066",
-          "title": "简单液体中意外的类固体断裂 / Unexpected Solidlike Fracture in Simple Liquids",
-          "url": "https://www.quantamagazine.org/we-know-simple-fluids-can-flow-turns-out-some-can-fracture-20260710",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-12T02:13:46Z"
-        },
-        {
-          "id": "72c7edbdcba05dbee3f4f23c1d9dd80461dd3bd1",
-          "title": "我们知道简单的流体可以流动。事实证明，有些会骨折 / We Know Simple Fluids Can Flow. Turns Out, Some Can Fracture",
-          "url": "https://www.quantamagazine.org/we-know-simple-fluids-can-flow-turns-out-some-can-fracture-20260710",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-12T02:13:46Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4493,
-      "importance": 0.4493,
-      "importance_score": 0.4493,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.5066,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-12T02:13:46Z",
-      "latest_at": "2026-07-12T02:13:46Z",
-      "primary_item": {
-        "id": "cbe7f28694f1ae7931a8fc5325df06ca77669066",
-        "title": "简单液体中意外的类固体断裂 / Unexpected Solidlike Fracture in Simple Liquids",
-        "url": "https://www.quantamagazine.org/we-know-simple-fluids-can-flow-turns-out-some-can-fracture-20260710",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
       }
     }
   ]
