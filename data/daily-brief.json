@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-07-12T10:54:00.380035Z",
+  "generated_at": "2026-07-12T12:02:35.150289Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260712-2054-29a1-86d1-1ff216b2bacb&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260712-2054-29a1-86d1-1ff216b2bacb&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260712-2203-04d9-b6b2-d5de6022f079&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260712-2203-04d9-b6b2-d5de6022f079&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "def57eff2b5cb6a1b6daddd2e9f47a45a27dde76",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260712-2203-04d9-b6b2-d5de6022f079&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "006f06b4af6c30fdb5c68d079747c806cf360d53",
           "title": "点击这里进入 / Click here to enter",
@@ -132,15 +141,6 @@
           "id": "ffe9a68b8e9eb854a20bb2f82b57a17ce7e74ef4",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260711-2324-140a-9fe2-19c31ed56ee7&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "354b55483aaaada20c03609883c263d40deddf88",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260711-2154-49f1-93cf-8ac4b86c9aaa&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -153,6 +153,15 @@
       ],
       "items": [
         {
+          "id": "def57eff2b5cb6a1b6daddd2e9f47a45a27dde76",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260712-2203-04d9-b6b2-d5de6022f079&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "006f06b4af6c30fdb5c68d079747c806cf360d53",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260712-2054-29a1-86d1-1ff216b2bacb&fp=-3",
@@ -273,15 +282,6 @@
           "id": "ffe9a68b8e9eb854a20bb2f82b57a17ce7e74ef4",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260711-2324-140a-9fe2-19c31ed56ee7&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "354b55483aaaada20c03609883c263d40deddf88",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260711-2154-49f1-93cf-8ac4b86c9aaa&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -306,12 +306,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-11T11:54:25.343157Z",
-      "latest_at": "2026-07-12T10:54:00.380035Z",
+      "earliest_at": "2026-07-11T13:23:47.929662Z",
+      "latest_at": "2026-07-12T12:02:35.150289Z",
       "primary_item": {
-        "id": "006f06b4af6c30fdb5c68d079747c806cf360d53",
+        "id": "def57eff2b5cb6a1b6daddd2e9f47a45a27dde76",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260712-2054-29a1-86d1-1ff216b2bacb&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260712-2203-04d9-b6b2-d5de6022f079&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
       }
@@ -351,14 +351,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7984,
-      "importance": 0.7984,
-      "importance_score": 0.7984,
+      "score": 0.7888,
+      "importance": 0.7888,
+      "importance_score": 0.7888,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9318,
+        "recency": 0.8842,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -411,20 +411,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7544,
-      "importance": 0.7544,
-      "importance_score": 0.7544,
+      "score": 0.7449,
+      "importance": 0.7449,
+      "importance_score": 0.7449,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7119,
+        "recency": 0.6643,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-12T03:59:09Z",
       "latest_at": "2026-07-12T03:59:09Z",
@@ -471,14 +470,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.743,
-      "importance": 0.743,
-      "importance_score": 0.743,
+      "score": 0.7335,
+      "importance": 0.7335,
+      "importance_score": 0.7335,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6551,
+        "recency": 0.6075,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -530,14 +529,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7351,
-      "importance": 0.7351,
-      "importance_score": 0.7351,
+      "score": 0.7255,
+      "importance": 0.7255,
+      "importance_score": 0.7255,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6153,
+        "recency": 0.5677,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -589,14 +588,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.741,
-      "importance": 0.741,
-      "importance_score": 0.741,
+      "score": 0.7315,
+      "importance": 0.7315,
+      "importance_score": 0.7315,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6452,
+        "recency": 0.5976,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -667,14 +666,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7409,
-      "importance": 0.7409,
-      "importance_score": 0.7409,
+      "score": 0.7314,
+      "importance": 0.7314,
+      "importance_score": 0.7314,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.5194,
+        "recency": 0.4718,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -693,62 +692,237 @@
       }
     },
     {
-      "story_id": "story_be1e44355660",
-      "title": "OpenAI GPT-5.6 Sol Ultra 一小时证明 50 年图论猜想",
-      "url": "https://aihot.virxact.com/items/cmrh4d5cj009ubir7yazlez7q",
-      "primary_url": "https://aihot.virxact.com/items/cmrh4d5cj009ubir7yazlez7q",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
+      "story_id": "story_e2469c92ba3c",
+      "title": "Nutlope / 标志 / Nutlope /      hallmark",
+      "url": "https://github.com/Nutlope/hallmark",
+      "primary_url": "https://github.com/Nutlope/hallmark",
+      "source": "github",
+      "source_name": "NewsNow",
       "sources": [
         {
-          "id": "15a556277c5cc79572b3c3ef9c42fbe803bd2aec",
-          "title": "OpenAI GPT-5.6 Sol Ultra 一小时证明 50 年图论猜想",
-          "url": "https://aihot.virxact.com/items/cmrh4d5cj009ubir7yazlez7q",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-12T00:44:43Z"
+          "id": "c184ec6af08c879301b34b3fa32262ce94b7724f",
+          "title": "Nutlope / 标志 / Nutlope /      hallmark",
+          "url": "https://github.com/Nutlope/hallmark",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-12T12:03:10.950000Z"
+        },
+        {
+          "id": "9d9d46ea318e17d7b19a45915b764698fa9a3240",
+          "title": "Nutlope / 标志 / Nutlope / hallmark",
+          "url": "https://github.com/Nutlope/hallmark",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "IT之家（RSS）"
+        "GitHub · Trending Today",
+        "github"
       ],
       "items": [
         {
-          "id": "15a556277c5cc79572b3c3ef9c42fbe803bd2aec",
-          "title": "OpenAI GPT-5.6 Sol Ultra 一小时证明 50 年图论猜想",
-          "url": "https://aihot.virxact.com/items/cmrh4d5cj009ubir7yazlez7q",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-12T00:44:43Z"
+          "id": "c184ec6af08c879301b34b3fa32262ce94b7724f",
+          "title": "Nutlope / 标志 / Nutlope /      hallmark",
+          "url": "https://github.com/Nutlope/hallmark",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-12T12:03:10.950000Z"
+        },
+        {
+          "id": "9d9d46ea318e17d7b19a45915b764698fa9a3240",
+          "title": "Nutlope / 标志 / Nutlope / hallmark",
+          "url": "https://github.com/Nutlope/hallmark",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7274,
-      "importance": 0.7274,
-      "importance_score": 0.7274,
-      "importance_label": "行业动态",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.548,
+      "importance": 0.548,
+      "importance_score": 0.548,
+      "importance_label": "值得关注",
       "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5769,
-        "story_heat": 0.0
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
       },
-      "category": "industry",
+      "category": "watch",
       "reasons": [
-        "high_ai_relevance"
+        "multi_source"
       ],
-      "earliest_at": "2026-07-12T00:44:43Z",
-      "latest_at": "2026-07-12T00:44:43Z",
+      "earliest_at": "2026-07-12T12:02:35.150289Z",
+      "latest_at": "2026-07-12T12:03:10.950000Z",
       "primary_item": {
-        "id": "15a556277c5cc79572b3c3ef9c42fbe803bd2aec",
-        "title": "OpenAI GPT-5.6 Sol Ultra 一小时证明 50 年图论猜想",
-        "url": "https://aihot.virxact.com/items/cmrh4d5cj009ubir7yazlez7q",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
+        "id": "c184ec6af08c879301b34b3fa32262ce94b7724f",
+        "title": "Nutlope / 标志 / Nutlope /      hallmark",
+        "url": "https://github.com/Nutlope/hallmark",
+        "source": "github",
+        "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_52e975875117",
+      "title": "AI热潮太费电，燃气轮机价格3年涨了300%",
+      "url": "https://36kr.com/newsflashes/3892556678543880?f=rss",
+      "primary_url": "https://36kr.com/newsflashes/3892556678543880?f=rss",
+      "source": "36氪 (36Kr)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "1806d9f9968d5751df9ce3ef0e7aadb313b8a5fd",
+          "title": "AI热潮太费电，燃气轮机价格3年涨了300%",
+          "url": "https://36kr.com/newsflashes/3892556678543880?f=rss",
+          "source": "36氪 (36Kr)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-12T11:37:33Z"
+        },
+        {
+          "id": "d6059f397f28bef09aac11578a46124e0498bbb2",
+          "title": "AI 热潮太费电，燃气轮机价格 3 年涨了约 300%",
+          "url": "https://www.ithome.com/0/975/767.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "36氪 (36Kr)",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "1806d9f9968d5751df9ce3ef0e7aadb313b8a5fd",
+          "title": "AI热潮太费电，燃气轮机价格3年涨了300%",
+          "url": "https://36kr.com/newsflashes/3892556678543880?f=rss",
+          "source": "36氪 (36Kr)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-12T11:37:33Z"
+        },
+        {
+          "id": "d6059f397f28bef09aac11578a46124e0498bbb2",
+          "title": "AI 热潮太费电，燃气轮机价格 3 年涨了约 300%",
+          "url": "https://www.ithome.com/0/975/767.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5445,
+      "importance": 0.5445,
+      "importance_score": 0.5445,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9826,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-12T10:54:00.380035Z",
+      "latest_at": "2026-07-12T11:37:33Z",
+      "primary_item": {
+        "id": "1806d9f9968d5751df9ce3ef0e7aadb313b8a5fd",
+        "title": "AI热潮太费电，燃气轮机价格3年涨了300%",
+        "url": "https://36kr.com/newsflashes/3892556678543880?f=rss",
+        "source": "36氪 (36Kr)",
+        "source_name": "Info Flow"
+      }
+    },
+    {
+      "story_id": "story_9c16317d5df5",
+      "title": "我是一名作家，为了加入旧金山的一家人工智能初创公司，我离开了洛杉矶。那感觉就像是踏入了一个全新的世界。",
+      "url": "https://www.businessinsider.com/left-la-san-francisco-ai-startup-job-offer-2026-7",
+      "primary_url": "https://www.businessinsider.com/left-la-san-francisco-ai-startup-job-offer-2026-7",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "d49fe1d4cc2c3b0ce21b296123d2fc3e084abc4a",
+          "title": "我是一名作家，为了加入旧金山的一家人工智能初创公司，我离开了洛杉矶。那感觉就像是踏入了一个全新的世界。",
+          "url": "https://www.businessinsider.com/left-la-san-francisco-ai-startup-job-offer-2026-7",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-12T11:11:07.762000Z"
+        },
+        {
+          "id": "8f92d8063a8524b8318042b1d525babcc144c568",
+          "title": "我是一名作家，为了加入旧金山的一家人工智能初创公司，我离开了洛杉矶。那感觉就像是踏入了一个全新的世界。 / I'm a writer who left LA for an AI startup in San Francisco. It was like stepping into a whole new world.",
+          "url": "https://www.businessinsider.com/left-la-san-francisco-ai-startup-job-offer-2026-7",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-12T09:51:01Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "d49fe1d4cc2c3b0ce21b296123d2fc3e084abc4a",
+          "title": "我是一名作家，为了加入旧金山的一家人工智能初创公司，我离开了洛杉矶。那感觉就像是踏入了一个全新的世界。",
+          "url": "https://www.businessinsider.com/left-la-san-francisco-ai-startup-job-offer-2026-7",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-12T11:11:07.762000Z"
+        },
+        {
+          "id": "8f92d8063a8524b8318042b1d525babcc144c568",
+          "title": "我是一名作家，为了加入旧金山的一家人工智能初创公司，我离开了洛杉矶。那感觉就像是踏入了一个全新的世界。 / I'm a writer who left LA for an AI startup in San Francisco. It was like stepping into a whole new world.",
+          "url": "https://www.businessinsider.com/left-la-san-francisco-ai-startup-job-offer-2026-7",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-12T09:51:01Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5409,
+      "importance": 0.5409,
+      "importance_score": 0.5409,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9643,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-12T09:51:01Z",
+      "latest_at": "2026-07-12T11:11:07.762000Z",
+      "primary_item": {
+        "id": "d49fe1d4cc2c3b0ce21b296123d2fc3e084abc4a",
+        "title": "我是一名作家，为了加入旧金山的一家人工智能初创公司，我离开了洛杉矶。那感觉就像是踏入了一个全新的世界。",
+        "url": "https://www.businessinsider.com/left-la-san-francisco-ai-startup-job-offer-2026-7",
+        "source": "www.businessinsider.com",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -843,14 +1017,14 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5493,
-      "importance": 0.5493,
-      "importance_score": 0.5493,
+      "score": 0.5397,
+      "importance": 0.5397,
+      "importance_score": 0.5397,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7563,
+        "recency": 0.7087,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -865,6 +1039,83 @@
         "url": "https://pluralistic.net/2025/09/11/vulgar-thatcherism",
         "source": "pluralistic.net",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_a090ea6b9f4d",
+      "title": "[AI Agent 智能体] 对于传统前后端开发，大家觉得哪款 ai agent 比较顺手？",
+      "url": "https://www.v2ex.com/t/1226732",
+      "primary_url": "https://www.v2ex.com/t/1226732",
+      "source": "V2EX (创意工作者社区)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "664c36d0c36bbe95bcc71cc2405a35b1c44d8a31",
+          "title": "[AI Agent 智能体] 对于传统前后端开发，大家觉得哪款 ai agent 比较顺手？",
+          "url": "https://www.v2ex.com/t/1226732",
+          "source": "V2EX (创意工作者社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-12T09:33:59Z"
+        },
+        {
+          "id": "13a97893ac57fb458b964913ab7cfa7bb1b25488",
+          "title": "[问与答] 对于传统前后端开发，大家觉得哪款 ai agent 比较顺手？",
+          "url": "https://www.v2ex.com/t/1226732",
+          "source": "V2EX (创意工作者社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-12T09:33:59Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "V2EX (创意工作者社区)"
+      ],
+      "items": [
+        {
+          "id": "664c36d0c36bbe95bcc71cc2405a35b1c44d8a31",
+          "title": "[AI Agent 智能体] 对于传统前后端开发，大家觉得哪款 ai agent 比较顺手？",
+          "url": "https://www.v2ex.com/t/1226732",
+          "source": "V2EX (创意工作者社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-12T09:33:59Z"
+        },
+        {
+          "id": "13a97893ac57fb458b964913ab7cfa7bb1b25488",
+          "title": "[问与答] 对于传统前后端开发，大家觉得哪款 ai agent 比较顺手？",
+          "url": "https://www.v2ex.com/t/1226732",
+          "source": "V2EX (创意工作者社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-12T09:33:59Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5274,
+      "importance": 0.5274,
+      "importance_score": 0.5274,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8968,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-12T09:33:59Z",
+      "latest_at": "2026-07-12T09:33:59Z",
+      "primary_item": {
+        "id": "664c36d0c36bbe95bcc71cc2405a35b1c44d8a31",
+        "title": "[AI Agent 智能体] 对于传统前后端开发，大家觉得哪款 ai agent 比较顺手？",
+        "url": "https://www.v2ex.com/t/1226732",
+        "source": "V2EX (创意工作者社区)",
+        "source_name": "Info Flow"
       }
     },
     {
@@ -921,14 +1172,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5327,
-      "importance": 0.5327,
-      "importance_score": 0.5327,
+      "score": 0.5231,
+      "importance": 0.5231,
+      "importance_score": 0.5231,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9233,
+        "recency": 0.8757,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -943,6 +1194,239 @@
         "url": "https://36kr.com/newsflashes/3892334246345222?f=rss",
         "source": "Readhub · AI",
         "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_b409dc7b8493",
+      "title": "Shubhamsaboo /      awesome-llm-apps",
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "primary_url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "source": "github",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "6153eeafb6d34ceb564138764eae9b11425555a7",
+          "title": "Shubhamsaboo /      awesome-llm-apps",
+          "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-12T12:03:10.950000Z"
+        },
+        {
+          "id": "647202ea62c1a029dd5459b2bd6f6d557dd393d6",
+          "title": "Shubhamsaboo / awesome-llm-apps",
+          "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "GitHub · Trending Today",
+        "github"
+      ],
+      "items": [
+        {
+          "id": "6153eeafb6d34ceb564138764eae9b11425555a7",
+          "title": "Shubhamsaboo /      awesome-llm-apps",
+          "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-12T12:03:10.950000Z"
+        },
+        {
+          "id": "647202ea62c1a029dd5459b2bd6f6d557dd393d6",
+          "title": "Shubhamsaboo / awesome-llm-apps",
+          "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.548,
+      "importance": 0.548,
+      "importance_score": 0.548,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-12T12:02:35.150289Z",
+      "latest_at": "2026-07-12T12:03:10.950000Z",
+      "primary_item": {
+        "id": "6153eeafb6d34ceb564138764eae9b11425555a7",
+        "title": "Shubhamsaboo /      awesome-llm-apps",
+        "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+        "source": "github",
+        "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_3b23309d9289",
+      "title": "维拉特 / ai-hedge-bottom / virattt /      ai-hedge-fund",
+      "url": "https://github.com/virattt/ai-hedge-fund",
+      "primary_url": "https://github.com/virattt/ai-hedge-fund",
+      "source": "github",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "b7a521d3ca536130b843c14fcd7918e42ddd996a",
+          "title": "维拉特 / ai-hedge-bottom / virattt /      ai-hedge-fund",
+          "url": "https://github.com/virattt/ai-hedge-fund",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-12T12:03:10.950000Z"
+        },
+        {
+          "id": "fb0669129659f8ab94f494a3d87954f85fb557c8",
+          "title": "维拉特 / ai-hedge-bottom / virattt / ai-hedge-fund",
+          "url": "https://github.com/virattt/ai-hedge-fund",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "GitHub · Trending Today",
+        "github"
+      ],
+      "items": [
+        {
+          "id": "b7a521d3ca536130b843c14fcd7918e42ddd996a",
+          "title": "维拉特 / ai-hedge-bottom / virattt /      ai-hedge-fund",
+          "url": "https://github.com/virattt/ai-hedge-fund",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-12T12:03:10.950000Z"
+        },
+        {
+          "id": "fb0669129659f8ab94f494a3d87954f85fb557c8",
+          "title": "维拉特 / ai-hedge-bottom / virattt / ai-hedge-fund",
+          "url": "https://github.com/virattt/ai-hedge-fund",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.548,
+      "importance": 0.548,
+      "importance_score": 0.548,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-12T12:02:35.150289Z",
+      "latest_at": "2026-07-12T12:03:10.950000Z",
+      "primary_item": {
+        "id": "b7a521d3ca536130b843c14fcd7918e42ddd996a",
+        "title": "维拉特 / ai-hedge-bottom / virattt /      ai-hedge-fund",
+        "url": "https://github.com/virattt/ai-hedge-fund",
+        "source": "github",
+        "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_9e2ac90a0d42",
+      "title": "[分享创造] 人在外面，怎么继续家里电脑上的 Cursor / Codex？我做了一个本地 AI Agent Gateway-PocketPilot",
+      "url": "https://www.v2ex.com/t/1226717",
+      "primary_url": "https://www.v2ex.com/t/1226717",
+      "source": "V2EX (创意工作者社区)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "26c3db8ea5da4d0eed50c4aa4032a289bb2cab62",
+          "title": "[分享创造] 人在外面，怎么继续家里电脑上的 Cursor / Codex？我做了一个本地 AI Agent Gateway-PocketPilot",
+          "url": "https://www.v2ex.com/t/1226717",
+          "source": "V2EX (创意工作者社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-12T07:55:53Z"
+        },
+        {
+          "id": "6a3f1c53c29fe91412b88aa31396c15bec981d56",
+          "title": "[问与答] 人在外面，怎么继续家里电脑上的 Cursor / Codex？我做了一个本地 AI Agent Gateway-PocketPilot",
+          "url": "https://www.v2ex.com/t/1226717",
+          "source": "V2EX (创意工作者社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-12T07:55:53Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "V2EX (创意工作者社区)"
+      ],
+      "items": [
+        {
+          "id": "26c3db8ea5da4d0eed50c4aa4032a289bb2cab62",
+          "title": "[分享创造] 人在外面，怎么继续家里电脑上的 Cursor / Codex？我做了一个本地 AI Agent Gateway-PocketPilot",
+          "url": "https://www.v2ex.com/t/1226717",
+          "source": "V2EX (创意工作者社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-12T07:55:53Z"
+        },
+        {
+          "id": "6a3f1c53c29fe91412b88aa31396c15bec981d56",
+          "title": "[问与答] 人在外面，怎么继续家里电脑上的 Cursor / Codex？我做了一个本地 AI Agent Gateway-PocketPilot",
+          "url": "https://www.v2ex.com/t/1226717",
+          "source": "V2EX (创意工作者社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-12T07:55:53Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5137,
+      "importance": 0.5137,
+      "importance_score": 0.5137,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8287,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-12T07:55:53Z",
+      "latest_at": "2026-07-12T07:55:53Z",
+      "primary_item": {
+        "id": "26c3db8ea5da4d0eed50c4aa4032a289bb2cab62",
+        "title": "[分享创造] 人在外面，怎么继续家里电脑上的 Cursor / Codex？我做了一个本地 AI Agent Gateway-PocketPilot",
+        "url": "https://www.v2ex.com/t/1226717",
+        "source": "V2EX (创意工作者社区)",
+        "source_name": "Info Flow"
       }
     },
     {
@@ -999,14 +1483,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4882,
-      "importance": 0.4882,
-      "importance_score": 0.4882,
+      "score": 0.4786,
+      "importance": 0.4786,
+      "importance_score": 0.4786,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7008,
+        "recency": 0.6532,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1021,84 +1505,6 @@
         "url": "https://thebeach.dev/posts/lisp-agent",
         "source": "thebeach.dev",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_2c1bf5ffef3f",
-      "title": "全网骂 Claude 变笨，Anthropic 下场揭秘：坑你的不是模型",
-      "url": "https://36kr.com/p/3892222176574211?f=rss",
-      "primary_url": "https://36kr.com/p/3892222176574211?f=rss",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "a1415601490e7550f147f8f8aadcfa33a77ab23c",
-          "title": "全网骂 Claude 变笨，Anthropic 下场揭秘：坑你的不是模型",
-          "url": "https://36kr.com/p/3892222176574211?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "4f1200c6ce0e1f2f535a45da9b799fa115cdcb53",
-          "title": "全网骂Claude变笨，Anthropic下场揭秘：坑你的不是模型",
-          "url": "https://36kr.com/p/3892222176574211?f=rss",
-          "source": "36氪 (36Kr)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-12T05:47:23Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "36氪 (36Kr)",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "a1415601490e7550f147f8f8aadcfa33a77ab23c",
-          "title": "全网骂 Claude 变笨，Anthropic 下场揭秘：坑你的不是模型",
-          "url": "https://36kr.com/p/3892222176574211?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "4f1200c6ce0e1f2f535a45da9b799fa115cdcb53",
-          "title": "全网骂Claude变笨，Anthropic下场揭秘：坑你的不是模型",
-          "url": "https://36kr.com/p/3892222176574211?f=rss",
-          "source": "36氪 (36Kr)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-12T05:47:23Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.512,
-      "importance": 0.512,
-      "importance_score": 0.512,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8199,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-12T05:47:23Z",
-      "latest_at": "2026-07-12T06:34:38.641231Z",
-      "primary_item": {
-        "id": "a1415601490e7550f147f8f8aadcfa33a77ab23c",
-        "title": "全网骂 Claude 变笨，Anthropic 下场揭秘：坑你的不是模型",
-        "url": "https://36kr.com/p/3892222176574211?f=rss",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
       }
     },
     {
@@ -1174,14 +1580,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.482,
-      "importance": 0.482,
-      "importance_score": 0.482,
+      "score": 0.4725,
+      "importance": 0.4725,
+      "importance_score": 0.4725,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.5452,
+        "recency": 0.4976,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1196,6 +1602,84 @@
         "url": "https://blog.yaelwrites.com/stop-telling-me-to-ask-an-llm",
         "source": "blog.yaelwrites.com",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_2c1bf5ffef3f",
+      "title": "全网骂 Claude 变笨，Anthropic 下场揭秘：坑你的不是模型",
+      "url": "https://36kr.com/p/3892222176574211?f=rss",
+      "primary_url": "https://36kr.com/p/3892222176574211?f=rss",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "a1415601490e7550f147f8f8aadcfa33a77ab23c",
+          "title": "全网骂 Claude 变笨，Anthropic 下场揭秘：坑你的不是模型",
+          "url": "https://36kr.com/p/3892222176574211?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "4f1200c6ce0e1f2f535a45da9b799fa115cdcb53",
+          "title": "全网骂Claude变笨，Anthropic下场揭秘：坑你的不是模型",
+          "url": "https://36kr.com/p/3892222176574211?f=rss",
+          "source": "36氪 (36Kr)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-12T05:47:23Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "36氪 (36Kr)",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "a1415601490e7550f147f8f8aadcfa33a77ab23c",
+          "title": "全网骂 Claude 变笨，Anthropic 下场揭秘：坑你的不是模型",
+          "url": "https://36kr.com/p/3892222176574211?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "4f1200c6ce0e1f2f535a45da9b799fa115cdcb53",
+          "title": "全网骂Claude变笨，Anthropic下场揭秘：坑你的不是模型",
+          "url": "https://36kr.com/p/3892222176574211?f=rss",
+          "source": "36氪 (36Kr)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-12T05:47:23Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5025,
+      "importance": 0.5025,
+      "importance_score": 0.5025,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7723,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-12T05:47:23Z",
+      "latest_at": "2026-07-12T06:34:38.641231Z",
+      "primary_item": {
+        "id": "a1415601490e7550f147f8f8aadcfa33a77ab23c",
+        "title": "全网骂 Claude 变笨，Anthropic 下场揭秘：坑你的不是模型",
+        "url": "https://36kr.com/p/3892222176574211?f=rss",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
       }
     },
     {
@@ -1251,14 +1735,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4757,
-      "importance": 0.4757,
-      "importance_score": 0.4757,
+      "score": 0.4662,
+      "importance": 0.4662,
+      "importance_score": 0.4662,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6387,
+        "recency": 0.5911,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1273,492 +1757,6 @@
         "url": "https://www.quantamagazine.org/we-know-simple-fluids-can-flow-turns-out-some-can-fracture-20260710",
         "source": "Hacker News · 24h最热",
         "source_name": "Zeli"
-      }
-    },
-    {
-      "story_id": "story_b5d19d55b601",
-      "title": "AI 2040 和对智能的崇拜 / AI 2040 and the cult of intelligence",
-      "url": "https://news.ycombinator.com/item?id=48874200",
-      "primary_url": "https://news.ycombinator.com/item?id=48874200",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "ea752aa4339116e78188023c4f921b0461860969",
-          "title": "AI 2040 和对智能的崇拜 / AI 2040 and the cult of intelligence",
-          "url": "https://news.ycombinator.com/item?id=48874200",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-11T21:41:13.114000Z"
-        },
-        {
-          "id": "d647bd9954085a03a6ebbfe16ea7c7ac5f69dc92",
-          "title": "《AI 2040》与“智能崇拜”",
-          "url": "https://geohot.github.io//blog/jekyll/update/2026/07/11/ai-2040.html",
-          "source": "geohot.github.io",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-11T19:27:11.440000Z"
-        },
-        {
-          "id": "8a16ae6e736aa3a2ff065be8eb05e5ae635c14b2",
-          "title": "《AI 2040》与“智能崇拜” / AI 2040 and the cult of intelligence",
-          "url": "https://geohot.github.io//blog/jekyll/update/2026/07/11/ai-2040.html",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-11T18:04:01Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "geohot.github.io",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "ea752aa4339116e78188023c4f921b0461860969",
-          "title": "AI 2040 和对智能的崇拜 / AI 2040 and the cult of intelligence",
-          "url": "https://news.ycombinator.com/item?id=48874200",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-11T21:41:13.114000Z"
-        },
-        {
-          "id": "d647bd9954085a03a6ebbfe16ea7c7ac5f69dc92",
-          "title": "《AI 2040》与“智能崇拜”",
-          "url": "https://geohot.github.io//blog/jekyll/update/2026/07/11/ai-2040.html",
-          "source": "geohot.github.io",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-11T19:27:11.440000Z"
-        },
-        {
-          "id": "8a16ae6e736aa3a2ff065be8eb05e5ae635c14b2",
-          "title": "《AI 2040》与“智能崇拜” / AI 2040 and the cult of intelligence",
-          "url": "https://geohot.github.io//blog/jekyll/update/2026/07/11/ai-2040.html",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-11T18:04:01Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.4629,
-      "importance": 0.4629,
-      "importance_score": 0.4629,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.4495,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-11T18:04:01Z",
-      "latest_at": "2026-07-11T21:41:13.114000Z",
-      "primary_item": {
-        "id": "ea752aa4339116e78188023c4f921b0461860969",
-        "title": "AI 2040 和对智能的崇拜 / AI 2040 and the cult of intelligence",
-        "url": "https://news.ycombinator.com/item?id=48874200",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_5ab2fbb881fc",
-      "title": "对话杨国安：AI 时代，一号位的信仰决定企业下一个五年",
-      "url": "https://www.huxiu.com/article/4874607.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4874607.html?f=rss",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "404f7ae5c8c85912fa1b2fc1176c445c67903f3d",
-          "title": "对话杨国安：AI 时代，一号位的信仰决定企业下一个五年",
-          "url": "https://www.huxiu.com/article/4874607.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "76c1c4ec39f518f183e8412e4992f0de52d16f83",
-          "title": "对话杨国安：AI时代，一号位的信仰决定企业下一个五年",
-          "url": "https://www.huxiu.com/article/4874607.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-12T04:42:10Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Readhub · AI",
-        "虎嗅 (Huxiu)"
-      ],
-      "items": [
-        {
-          "id": "404f7ae5c8c85912fa1b2fc1176c445c67903f3d",
-          "title": "对话杨国安：AI 时代，一号位的信仰决定企业下一个五年",
-          "url": "https://www.huxiu.com/article/4874607.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "76c1c4ec39f518f183e8412e4992f0de52d16f83",
-          "title": "对话杨国安：AI时代，一号位的信仰决定企业下一个五年",
-          "url": "https://www.huxiu.com/article/4874607.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-12T04:42:10Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.512,
-      "importance": 0.512,
-      "importance_score": 0.512,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8199,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-12T04:42:10Z",
-      "latest_at": "2026-07-12T06:34:38.641231Z",
-      "primary_item": {
-        "id": "404f7ae5c8c85912fa1b2fc1176c445c67903f3d",
-        "title": "对话杨国安：AI 时代，一号位的信仰决定企业下一个五年",
-        "url": "https://www.huxiu.com/article/4874607.html?f=rss",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_85adc296a069",
-      "title": "长期新冠（Long-COVID-19）患者胃黏膜迷走神经胆碱能神经脱髓鞘 / Long Covid May Physically Damage the Nerves That Control the Stomach",
-      "url": "https://www.ijidonline.com/article/S1201-9712(26)00608-9/fulltext",
-      "primary_url": "https://www.ijidonline.com/article/S1201-9712(26)00608-9/fulltext",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "bf307e91f5690570c28469299e642b2c72d53c6e",
-          "title": "长期新冠（Long-COVID-19）患者胃黏膜迷走神经胆碱能神经脱髓鞘 / Long Covid May Physically Damage the Nerves That Control the Stomach",
-          "url": "https://www.ijidonline.com/article/S1201-9712(26)00608-9/fulltext",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-12T00:35:08Z"
-        },
-        {
-          "id": "a46e2759728987b9433aa9bb824b2238b1497944",
-          "title": "长期新冠（Long-COVID-19）患者胃黏膜迷走神经胆碱能神经脱髓鞘 / Vagal cholinergic denervation of the gastric mucosa in Long-COVID-19",
-          "url": "https://www.ijidonline.com/article/S1201-9712(26)00608-9/fulltext",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-12T00:35:08Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热"
-      ],
-      "items": [
-        {
-          "id": "bf307e91f5690570c28469299e642b2c72d53c6e",
-          "title": "长期新冠（Long-COVID-19）患者胃黏膜迷走神经胆碱能神经脱髓鞘 / Long Covid May Physically Damage the Nerves That Control the Stomach",
-          "url": "https://www.ijidonline.com/article/S1201-9712(26)00608-9/fulltext",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-12T00:35:08Z"
-        },
-        {
-          "id": "a46e2759728987b9433aa9bb824b2238b1497944",
-          "title": "长期新冠（Long-COVID-19）患者胃黏膜迷走神经胆碱能神经脱髓鞘 / Vagal cholinergic denervation of the gastric mucosa in Long-COVID-19",
-          "url": "https://www.ijidonline.com/article/S1201-9712(26)00608-9/fulltext",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-12T00:35:08Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.462,
-      "importance": 0.462,
-      "importance_score": 0.462,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.5702,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-12T00:35:08Z",
-      "latest_at": "2026-07-12T00:35:08Z",
-      "primary_item": {
-        "id": "bf307e91f5690570c28469299e642b2c72d53c6e",
-        "title": "长期新冠（Long-COVID-19）患者胃黏膜迷走神经胆碱能神经脱髓鞘 / Long Covid May Physically Damage the Nerves That Control the Stomach",
-        "url": "https://www.ijidonline.com/article/S1201-9712(26)00608-9/fulltext",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
-      }
-    },
-    {
-      "story_id": "story_70acfff4fef0",
-      "title": "关于苹果公司指控OpenAI窃取商业秘密的诉讼，智者们有何看法",
-      "url": "https://www.businessinsider.com/apple-lawsuit-openai-trade-secrets-what-smart-people-are-saying-2026-7",
-      "primary_url": "https://www.businessinsider.com/apple-lawsuit-openai-trade-secrets-what-smart-people-are-saying-2026-7",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "2b059968ab23cc19fb8860eecd575c86e77d250d",
-          "title": "关于苹果公司指控OpenAI窃取商业秘密的诉讼，智者们有何看法",
-          "url": "https://www.businessinsider.com/apple-lawsuit-openai-trade-secrets-what-smart-people-are-saying-2026-7",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-11T20:47:17.342000Z"
-        },
-        {
-          "id": "f90da376fa2bfb0c4101a4402909c3e07fc1124e",
-          "title": "关于苹果公司指控OpenAI窃取商业秘密的诉讼，智者们有何看法 / What smart people are saying about Apple's lawsuit accusing OpenAI of stealing trade secrets",
-          "url": "https://www.businessinsider.com/apple-lawsuit-openai-trade-secrets-what-smart-people-are-saying-2026-7",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-11T20:23:05Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "2b059968ab23cc19fb8860eecd575c86e77d250d",
-          "title": "关于苹果公司指控OpenAI窃取商业秘密的诉讼，智者们有何看法",
-          "url": "https://www.businessinsider.com/apple-lawsuit-openai-trade-secrets-what-smart-people-are-saying-2026-7",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-11T20:47:17.342000Z"
-        },
-        {
-          "id": "f90da376fa2bfb0c4101a4402909c3e07fc1124e",
-          "title": "关于苹果公司指控OpenAI窃取商业秘密的诉讼，智者们有何看法 / What smart people are saying about Apple's lawsuit accusing OpenAI of stealing trade secrets",
-          "url": "https://www.businessinsider.com/apple-lawsuit-openai-trade-secrets-what-smart-people-are-saying-2026-7",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-11T20:23:05Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4304,
-      "importance": 0.4304,
-      "importance_score": 0.4304,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.412,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-11T20:23:05Z",
-      "latest_at": "2026-07-11T20:47:17.342000Z",
-      "primary_item": {
-        "id": "2b059968ab23cc19fb8860eecd575c86e77d250d",
-        "title": "关于苹果公司指控OpenAI窃取商业秘密的诉讼，智者们有何看法",
-        "url": "https://www.businessinsider.com/apple-lawsuit-openai-trade-secrets-what-smart-people-are-saying-2026-7",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_d01a1045be8c",
-      "title": "Show HN: Sqlsure——针对AI生成的SQL的确定性语义检查",
-      "url": "https://github.com/sqlsure/sqlsure",
-      "primary_url": "https://github.com/sqlsure/sqlsure",
-      "source": "github.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "abe2b5cdd130d900159ea5f5ccc6d3d7d79a2e72",
-          "title": "Show HN: Sqlsure——针对AI生成的SQL的确定性语义检查",
-          "url": "https://github.com/sqlsure/sqlsure",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-11T20:15:06.203000Z"
-        },
-        {
-          "id": "900c0a49a44b168043d871f6c53eca0dfef4494b",
-          "title": "Show HN: Sqlsure——针对AI生成的SQL的确定性语义检查 / Show HN: Sqlsure – deterministic semantic checks for AI-generated SQL",
-          "url": "https://github.com/sqlsure/sqlsure",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-11T20:03:42Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "github.com"
-      ],
-      "items": [
-        {
-          "id": "abe2b5cdd130d900159ea5f5ccc6d3d7d79a2e72",
-          "title": "Show HN: Sqlsure——针对AI生成的SQL的确定性语义检查",
-          "url": "https://github.com/sqlsure/sqlsure",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-11T20:15:06.203000Z"
-        },
-        {
-          "id": "900c0a49a44b168043d871f6c53eca0dfef4494b",
-          "title": "Show HN: Sqlsure——针对AI生成的SQL的确定性语义检查 / Show HN: Sqlsure – deterministic semantic checks for AI-generated SQL",
-          "url": "https://github.com/sqlsure/sqlsure",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-11T20:03:42Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4259,
-      "importance": 0.4259,
-      "importance_score": 0.4259,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.3897,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-11T20:03:42Z",
-      "latest_at": "2026-07-11T20:15:06.203000Z",
-      "primary_item": {
-        "id": "abe2b5cdd130d900159ea5f5ccc6d3d7d79a2e72",
-        "title": "Show HN: Sqlsure——针对AI生成的SQL的确定性语义检查",
-        "url": "https://github.com/sqlsure/sqlsure",
-        "source": "github.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_513128f4e6bc",
-      "title": "钥匙时代结束了：AI 正在逼企业重新定义 “门闩 “",
-      "url": "https://www.huxiu.com/article/4874609.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4874609.html?f=rss",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "1d13e0cefe2a52ea6e74d2f47ddad89872485fbb",
-          "title": "钥匙时代结束了：AI 正在逼企业重新定义 “门闩 “",
-          "url": "https://www.huxiu.com/article/4874609.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "31facf437a4c4b408076189a124975da0cc196a8",
-          "title": "钥匙时代结束了:AI 正在逼企业重新定义“门闩“",
-          "url": "https://www.huxiu.com/article/4874609.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-12T04:54:29Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Readhub · AI",
-        "虎嗅 (Huxiu)"
-      ],
-      "items": [
-        {
-          "id": "1d13e0cefe2a52ea6e74d2f47ddad89872485fbb",
-          "title": "钥匙时代结束了：AI 正在逼企业重新定义 “门闩 “",
-          "url": "https://www.huxiu.com/article/4874609.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "31facf437a4c4b408076189a124975da0cc196a8",
-          "title": "钥匙时代结束了:AI 正在逼企业重新定义“门闩“",
-          "url": "https://www.huxiu.com/article/4874609.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-12T04:54:29Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.512,
-      "importance": 0.512,
-      "importance_score": 0.512,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8199,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-12T04:54:29Z",
-      "latest_at": "2026-07-12T06:34:38.641231Z",
-      "primary_item": {
-        "id": "1d13e0cefe2a52ea6e74d2f47ddad89872485fbb",
-        "title": "钥匙时代结束了：AI 正在逼企业重新定义 “门闩 “",
-        "url": "https://www.huxiu.com/article/4874609.html?f=rss",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
       }
     }
   ]
