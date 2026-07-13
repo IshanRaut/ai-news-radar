@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-07-13T21:07:29.773709Z",
+  "generated_at": "2026-07-13T22:28:13.220104Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260714-0707-5064-bf0a-3e663c6c75d7&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260714-0707-5064-bf0a-3e663c6c75d7&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260714-0828-3956-8c63-624ff96b94f8&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260714-0828-3956-8c63-624ff96b94f8&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "c4a3f625b8ff80367a5000dedb2195fa0adab3e3",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260714-0828-3956-8c63-624ff96b94f8&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "87592844ebff2f8175aa459a35ce6bf8ea9d6a4f",
           "title": "点击这里进入 / Click here to enter",
@@ -96,15 +105,6 @@
           "id": "dbfa9f460afacc37e6d011be447c6b128e0d38e4",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260713-0852-37f3-be91-862cae76616f&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "f5a64918632d2b9583572a07e51a05947bbfc892",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260713-0753-39e6-a8d1-2721896eedba&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -117,6 +117,15 @@
       ],
       "items": [
         {
+          "id": "c4a3f625b8ff80367a5000dedb2195fa0adab3e3",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260714-0828-3956-8c63-624ff96b94f8&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "87592844ebff2f8175aa459a35ce6bf8ea9d6a4f",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260714-0707-5064-bf0a-3e663c6c75d7&fp=-3",
@@ -201,15 +210,6 @@
           "id": "dbfa9f460afacc37e6d011be447c6b128e0d38e4",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260713-0852-37f3-be91-862cae76616f&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "f5a64918632d2b9583572a07e51a05947bbfc892",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260713-0753-39e6-a8d1-2721896eedba&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -234,14 +234,74 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-12T21:53:14.920608Z",
-      "latest_at": "2026-07-13T21:07:29.773709Z",
+      "earliest_at": "2026-07-12T22:52:13.593546Z",
+      "latest_at": "2026-07-13T22:28:13.220104Z",
       "primary_item": {
-        "id": "87592844ebff2f8175aa459a35ce6bf8ea9d6a4f",
+        "id": "c4a3f625b8ff80367a5000dedb2195fa0adab3e3",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260714-0707-5064-bf0a-3e663c6c75d7&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260714-0828-3956-8c63-624ff96b94f8&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
+      }
+    },
+    {
+      "story_id": "story_65f8fdc21d75",
+      "title": "前沿模型实际成本：tokenizer 差异导致隐性涨价",
+      "url": "https://aihot.virxact.com/items/cmrjrg5aj0202bis4f9pzo8d3",
+      "primary_url": "https://aihot.virxact.com/items/cmrjrg5aj0202bis4f9pzo8d3",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "760f3e1830837a1a801928c95b62767f378dcbb5",
+          "title": "前沿模型实际成本：tokenizer 差异导致隐性涨价",
+          "url": "https://aihot.virxact.com/items/cmrjrg5aj0202bis4f9pzo8d3",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-13T21:50:30Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）"
+      ],
+      "items": [
+        {
+          "id": "760f3e1830837a1a801928c95b62767f378dcbb5",
+          "title": "前沿模型实际成本：tokenizer 差异导致隐性涨价",
+          "url": "https://aihot.virxact.com/items/cmrjrg5aj0202bis4f9pzo8d3",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-13T21:50:30Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8068,
+      "importance": 0.8068,
+      "importance_score": 0.8068,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9738,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-13T21:50:30Z",
+      "latest_at": "2026-07-13T21:50:30Z",
+      "primary_item": {
+        "id": "760f3e1830837a1a801928c95b62767f378dcbb5",
+        "title": "前沿模型实际成本：tokenizer 差异导致隐性涨价",
+        "url": "https://aihot.virxact.com/items/cmrjrg5aj0202bis4f9pzo8d3",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -279,14 +339,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.818,
-      "importance": 0.818,
-      "importance_score": 0.818,
+      "score": 0.8068,
+      "importance": 0.8068,
+      "importance_score": 0.8068,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.785,
+        "recency": 0.729,
         "story_heat": 0.0
       },
       "category": "official",
@@ -340,14 +400,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7842,
-      "importance": 0.7842,
-      "importance_score": 0.7842,
+      "score": 0.773,
+      "importance": 0.773,
+      "importance_score": 0.773,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8612,
+        "recency": 0.8052,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -419,14 +479,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7484,
-      "importance": 0.7484,
-      "importance_score": 0.7484,
+      "score": 0.7372,
+      "importance": 0.7372,
+      "importance_score": 0.7372,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.5568,
+        "recency": 0.5008,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -497,14 +557,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.743,
-      "importance": 0.743,
-      "importance_score": 0.743,
+      "score": 0.7317,
+      "importance": 0.7317,
+      "importance_score": 0.7317,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.1198,
+        "recency": 0.0637,
         "story_heat": 0.25
       },
       "category": "official",
@@ -521,65 +581,6 @@
         "url": "https://developers.openai.com/codex/changelog",
         "source": "OpenAI Codex Changelog",
         "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_fbc64cf3f2c1",
-      "title": "腾讯混元发布 HyOCR-1.5：端到端 OCR 大模型全栈开源，推理提速 6.37 倍",
-      "url": "https://aihot.virxact.com/items/cmrj4s89p05nhbilkljqel2d5",
-      "primary_url": "https://aihot.virxact.com/items/cmrj4s89p05nhbilkljqel2d5",
-      "source": "公众号：腾讯混元",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "034e21d7ea77c2db1a1d79f0b55d13871c294419",
-          "title": "腾讯混元发布 HyOCR-1.5：端到端 OCR 大模型全栈开源，推理提速 6.37 倍",
-          "url": "https://aihot.virxact.com/items/cmrj4s89p05nhbilkljqel2d5",
-          "source": "公众号：腾讯混元",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-13T11:12:59Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "公众号：腾讯混元"
-      ],
-      "items": [
-        {
-          "id": "034e21d7ea77c2db1a1d79f0b55d13871c294419",
-          "title": "腾讯混元发布 HyOCR-1.5：端到端 OCR 大模型全栈开源，推理提速 6.37 倍",
-          "url": "https://aihot.virxact.com/items/cmrj4s89p05nhbilkljqel2d5",
-          "source": "公众号：腾讯混元",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-13T11:12:59Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7294,
-      "importance": 0.7294,
-      "importance_score": 0.7294,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5871,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-13T11:12:59Z",
-      "latest_at": "2026-07-13T11:12:59Z",
-      "primary_item": {
-        "id": "034e21d7ea77c2db1a1d79f0b55d13871c294419",
-        "title": "腾讯混元发布 HyOCR-1.5：端到端 OCR 大模型全栈开源，推理提速 6.37 倍",
-        "url": "https://aihot.virxact.com/items/cmrj4s89p05nhbilkljqel2d5",
-        "source": "公众号：腾讯混元",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -636,14 +637,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7484,
-      "importance": 0.7484,
-      "importance_score": 0.7484,
+      "score": 0.7372,
+      "importance": 0.7372,
+      "importance_score": 0.7372,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.5568,
+        "recency": 0.5008,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -696,14 +697,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7333,
-      "importance": 0.7333,
-      "importance_score": 0.7333,
+      "score": 0.7221,
+      "importance": 0.7221,
+      "importance_score": 0.7221,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6066,
+        "recency": 0.5506,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -721,180 +722,258 @@
       }
     },
     {
-      "story_id": "story_05bb3eadde15",
-      "title": "《智能体个人信息保护自律公约》正式发布，腾讯百度等31家企业首批签署",
-      "url": "https://www.aibase.com/news/29552",
-      "primary_url": "https://www.aibase.com/news/29552",
+      "story_id": "story_181aad88bf9c",
+      "title": "努比亚AI宠物机器人iMoochi定档 7 月 17 日上线，主打情感陪伴与拟生命交互",
+      "url": "https://www.aibase.com/news/29541",
+      "primary_url": "https://www.aibase.com/news/29541",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "a576d1a2cef8248f32acae9eff1f657628d2ed6f",
-          "title": "《智能体个人信息保护自律公约》正式发布，腾讯百度等31家企业首批签署",
-          "url": "https://www.aibase.com/news/29552",
+          "id": "9132a8a4bda51df30f925f3d73111d4d7079ddad",
+          "title": "努比亚AI宠物机器人iMoochi定档 7 月 17 日上线，主打情感陪伴与拟生命交互",
+          "url": "https://www.aibase.com/news/29541",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-13T10:29:20.228257Z"
+          "published_at": "2026-07-13T06:55:08.364511Z"
+        },
+        {
+          "id": "525c3271839491bd18897603baa12db3362be93b",
+          "title": "努比亚 AI 宠物机器人 iMoochi 定档 7 月 17 日上线，主打情感陪伴与拟生命交互",
+          "url": "https://www.ithome.com/0/975/885.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-13T02:32:13Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "AIbase"
+        "AIbase",
+        "IT之家 (ITHome)"
       ],
       "items": [
         {
-          "id": "a576d1a2cef8248f32acae9eff1f657628d2ed6f",
-          "title": "《智能体个人信息保护自律公约》正式发布，腾讯百度等31家企业首批签署",
-          "url": "https://www.aibase.com/news/29552",
+          "id": "9132a8a4bda51df30f925f3d73111d4d7079ddad",
+          "title": "努比亚AI宠物机器人iMoochi定档 7 月 17 日上线，主打情感陪伴与拟生命交互",
+          "url": "https://www.aibase.com/news/29541",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-13T10:29:20.228257Z"
+          "published_at": "2026-07-13T06:55:08.364511Z"
+        },
+        {
+          "id": "525c3271839491bd18897603baa12db3362be93b",
+          "title": "努比亚 AI 宠物机器人 iMoochi 定档 7 月 17 日上线，主打情感陪伴与拟生命交互",
+          "url": "https://www.ithome.com/0/975/885.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-13T02:32:13Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7234,
-      "importance": 0.7234,
-      "importance_score": 0.7234,
-      "importance_label": "行业动态",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7074,
+      "importance": 0.7074,
+      "importance_score": 0.7074,
+      "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.5568,
-        "story_heat": 0.0
+        "recency": 0.352,
+        "story_heat": 0.25
       },
-      "category": "industry",
+      "category": "watch",
       "reasons": [
+        "multi_source",
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-13T10:29:20.228257Z",
-      "latest_at": "2026-07-13T10:29:20.228257Z",
+      "earliest_at": "2026-07-13T02:32:13Z",
+      "latest_at": "2026-07-13T06:55:08.364511Z",
       "primary_item": {
-        "id": "a576d1a2cef8248f32acae9eff1f657628d2ed6f",
-        "title": "《智能体个人信息保护自律公约》正式发布，腾讯百度等31家企业首批签署",
-        "url": "https://www.aibase.com/news/29552",
+        "id": "9132a8a4bda51df30f925f3d73111d4d7079ddad",
+        "title": "努比亚AI宠物机器人iMoochi定档 7 月 17 日上线，主打情感陪伴与拟生命交互",
+        "url": "https://www.aibase.com/news/29541",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_0758182240a0",
-      "title": "旗舰模型需求激增，OpenAI紧急解锁GPT-5.6Sol算力限制",
-      "url": "https://www.aibase.com/news/29548",
-      "primary_url": "https://www.aibase.com/news/29548",
+      "story_id": "story_30b2b7775a31",
+      "title": "解法都市孤独感，努比亚拟生命AI陪伴机器人iMoochi即将开",
+      "url": "https://www.aibase.com/news/29539",
+      "primary_url": "https://www.aibase.com/news/29539",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "cd4655fb408ba926606fe7ba0a528eb542e88d81",
-          "title": "旗舰模型需求激增，OpenAI紧急解锁GPT-5.6Sol算力限制",
-          "url": "https://www.aibase.com/news/29548",
+          "id": "edc4f6360e6710e178004982d3e013be98514cae",
+          "title": "解法都市孤独感，努比亚拟生命AI陪伴机器人iMoochi即将开",
+          "url": "https://www.aibase.com/news/29539",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-13T10:29:20.228257Z"
+          "published_at": "2026-07-13T03:39:42.445403Z"
+        },
+        {
+          "id": "705e7ffb09bdcc09518e2bda514c3f676f29ca7f",
+          "title": "解法都市孤独感，努比亚拟生命 AI 陪伴机器人 iMoochi 即将开",
+          "url": "https://www.aibase.com/zh/news/29539",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "AIbase"
+        "AIbase",
+        "Readhub · AI"
       ],
       "items": [
         {
-          "id": "cd4655fb408ba926606fe7ba0a528eb542e88d81",
-          "title": "旗舰模型需求激增，OpenAI紧急解锁GPT-5.6Sol算力限制",
-          "url": "https://www.aibase.com/news/29548",
+          "id": "edc4f6360e6710e178004982d3e013be98514cae",
+          "title": "解法都市孤独感，努比亚拟生命AI陪伴机器人iMoochi即将开",
+          "url": "https://www.aibase.com/news/29539",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-13T10:29:20.228257Z"
+          "published_at": "2026-07-13T03:39:42.445403Z"
+        },
+        {
+          "id": "705e7ffb09bdcc09518e2bda514c3f676f29ca7f",
+          "title": "解法都市孤独感，努比亚拟生命 AI 陪伴机器人 iMoochi 即将开",
+          "url": "https://www.aibase.com/zh/news/29539",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7234,
-      "importance": 0.7234,
-      "importance_score": 0.7234,
-      "importance_label": "行业动态",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6803,
+      "importance": 0.6803,
+      "importance_score": 0.6803,
+      "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.5568,
-        "story_heat": 0.0
+        "recency": 0.2163,
+        "story_heat": 0.25
       },
-      "category": "industry",
+      "category": "watch",
       "reasons": [
+        "multi_source",
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-13T10:29:20.228257Z",
-      "latest_at": "2026-07-13T10:29:20.228257Z",
+      "earliest_at": "2026-07-13T03:39:42.445403Z",
+      "latest_at": "2026-07-13T03:39:42.445403Z",
       "primary_item": {
-        "id": "cd4655fb408ba926606fe7ba0a528eb542e88d81",
-        "title": "旗舰模型需求激增，OpenAI紧急解锁GPT-5.6Sol算力限制",
-        "url": "https://www.aibase.com/news/29548",
+        "id": "edc4f6360e6710e178004982d3e013be98514cae",
+        "title": "解法都市孤独感，努比亚拟生命AI陪伴机器人iMoochi即将开",
+        "url": "https://www.aibase.com/news/29539",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_b3c3f980dac1",
-      "title": "米哈游AI陪伴软件《BSide: Olivia Lin》开启抢先体验，支持MIDI上传生成音乐视频",
-      "url": "https://www.aibase.com/news/29550",
-      "primary_url": "https://www.aibase.com/news/29550",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_a1fa564a6b63",
+      "title": "如果您不允许三星将您的健康数据用于训练人工智能，三星将删除这些数据",
+      "url": "https://neow.in/cWsyMTV3",
+      "primary_url": "https://neow.in/cWsyMTV3",
+      "source": "neow.in",
+      "source_name": "Buzzing",
       "sources": [
         {
-          "id": "c11b08a26ab91efa3bcfa74723d76a64d60947a6",
-          "title": "米哈游AI陪伴软件《BSide: Olivia Lin》开启抢先体验，支持MIDI上传生成音乐视频",
-          "url": "https://www.aibase.com/news/29550",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-13T10:29:20.228257Z"
+          "id": "1bbe17350152f4ded5bcf208f9006d04f9f4ca97",
+          "title": "如果您不允许三星将您的健康数据用于训练人工智能，三星将删除这些数据",
+          "url": "https://neow.in/cWsyMTV3",
+          "source": "neow.in",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-13T21:50:30.967000Z"
+        },
+        {
+          "id": "e084f409d0b9abd2ef3cb445523e50d464215f24",
+          "title": "如果您不允许三星将您的健康数据用于训练人工智能，三星将删除这些数据 / Samsung Health app threatens data deletion if users opt out AI training",
+          "url": "https://neow.in/cWsyMTV3",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-13T20:01:43Z"
+        },
+        {
+          "id": "db8ffc72498a5e04787bec6c4c0142816fb3bf1e",
+          "title": "如果您不允许三星将您的健康数据用于训练人工智能，三星将删除这些数据 / Samsung will delete your health data if you don't let them use it to train AI",
+          "url": "https://neow.in/cWsyMTV3",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-13T20:01:43Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 3,
       "source_names": [
-        "AIbase"
+        "Hacker News",
+        "Hacker News · 24h最热",
+        "neow.in"
       ],
       "items": [
         {
-          "id": "c11b08a26ab91efa3bcfa74723d76a64d60947a6",
-          "title": "米哈游AI陪伴软件《BSide: Olivia Lin》开启抢先体验，支持MIDI上传生成音乐视频",
-          "url": "https://www.aibase.com/news/29550",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-13T10:29:20.228257Z"
+          "id": "1bbe17350152f4ded5bcf208f9006d04f9f4ca97",
+          "title": "如果您不允许三星将您的健康数据用于训练人工智能，三星将删除这些数据",
+          "url": "https://neow.in/cWsyMTV3",
+          "source": "neow.in",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-13T21:50:30.967000Z"
+        },
+        {
+          "id": "e084f409d0b9abd2ef3cb445523e50d464215f24",
+          "title": "如果您不允许三星将您的健康数据用于训练人工智能，三星将删除这些数据 / Samsung Health app threatens data deletion if users opt out AI training",
+          "url": "https://neow.in/cWsyMTV3",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-13T20:01:43Z"
+        },
+        {
+          "id": "db8ffc72498a5e04787bec6c4c0142816fb3bf1e",
+          "title": "如果您不允许三星将您的健康数据用于训练人工智能，三星将删除这些数据 / Samsung will delete your health data if you don't let them use it to train AI",
+          "url": "https://neow.in/cWsyMTV3",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-13T20:01:43Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7234,
-      "importance": 0.7234,
-      "importance_score": 0.7234,
-      "importance_label": "行业动态",
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5678,
+      "importance": 0.5678,
+      "importance_score": 0.5678,
+      "importance_label": "多源热议",
       "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5568,
-        "story_heat": 0.0
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9738,
+        "story_heat": 0.5
       },
-      "category": "industry",
+      "category": "multi_source",
       "reasons": [
-        "high_ai_relevance"
+        "multi_source"
       ],
-      "earliest_at": "2026-07-13T10:29:20.228257Z",
-      "latest_at": "2026-07-13T10:29:20.228257Z",
+      "earliest_at": "2026-07-13T20:01:43Z",
+      "latest_at": "2026-07-13T21:50:30.967000Z",
       "primary_item": {
-        "id": "c11b08a26ab91efa3bcfa74723d76a64d60947a6",
-        "title": "米哈游AI陪伴软件《BSide: Olivia Lin》开启抢先体验，支持MIDI上传生成音乐视频",
-        "url": "https://www.aibase.com/news/29550",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "id": "1bbe17350152f4ded5bcf208f9006d04f9f4ca97",
+        "title": "如果您不允许三星将您的健康数据用于训练人工智能，三星将删除这些数据",
+        "url": "https://neow.in/cWsyMTV3",
+        "source": "neow.in",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -970,14 +1049,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.573,
-      "importance": 0.573,
-      "importance_score": 0.573,
+      "score": 0.5618,
+      "importance": 0.5618,
+      "importance_score": 0.5618,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9442,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -995,82 +1074,81 @@
       }
     },
     {
-      "story_id": "story_181aad88bf9c",
-      "title": "努比亚AI宠物机器人iMoochi定档 7 月 17 日上线，主打情感陪伴与拟生命交互",
-      "url": "https://www.aibase.com/news/29541",
-      "primary_url": "https://www.aibase.com/news/29541",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_d05f3f13aa6f",
+      "title": "OpenAI的员工希望让大家都知道，萨姆·阿尔特曼完全乐于接受反对意见",
+      "url": "https://www.businessinsider.com/openai-employees-say-sam-altman-receptive-critical-feedback-pushback-2026-7",
+      "primary_url": "https://www.businessinsider.com/openai-employees-say-sam-altman-receptive-critical-feedback-pushback-2026-7",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
       "sources": [
         {
-          "id": "9132a8a4bda51df30f925f3d73111d4d7079ddad",
-          "title": "努比亚AI宠物机器人iMoochi定档 7 月 17 日上线，主打情感陪伴与拟生命交互",
-          "url": "https://www.aibase.com/news/29541",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-13T06:55:08.364511Z"
+          "id": "eb82d61c0d2fe9d540fceea9dbc50869e5ee2ff8",
+          "title": "OpenAI的员工希望让大家都知道，萨姆·阿尔特曼完全乐于接受反对意见",
+          "url": "https://www.businessinsider.com/openai-employees-say-sam-altman-receptive-critical-feedback-pushback-2026-7",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-13T22:06:22.653000Z"
         },
         {
-          "id": "525c3271839491bd18897603baa12db3362be93b",
-          "title": "努比亚 AI 宠物机器人 iMoochi 定档 7 月 17 日上线，主打情感陪伴与拟生命交互",
-          "url": "https://www.ithome.com/0/975/885.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-13T02:32:13Z"
+          "id": "98dcb233d13faee548643504ba710d7752e2f2e8",
+          "title": "OpenAI的员工希望让大家都知道，萨姆·阿尔特曼完全乐于接受反对意见 / OpenAI employees want everyone to know Sam Altman is totally receptive to pushback",
+          "url": "https://www.businessinsider.com/openai-employees-say-sam-altman-receptive-critical-feedback-pushback-2026-7",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-13T19:57:50Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "AIbase",
-        "IT之家 (ITHome)"
+        "Business Insider",
+        "www.businessinsider.com"
       ],
       "items": [
         {
-          "id": "9132a8a4bda51df30f925f3d73111d4d7079ddad",
-          "title": "努比亚AI宠物机器人iMoochi定档 7 月 17 日上线，主打情感陪伴与拟生命交互",
-          "url": "https://www.aibase.com/news/29541",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-13T06:55:08.364511Z"
+          "id": "eb82d61c0d2fe9d540fceea9dbc50869e5ee2ff8",
+          "title": "OpenAI的员工希望让大家都知道，萨姆·阿尔特曼完全乐于接受反对意见",
+          "url": "https://www.businessinsider.com/openai-employees-say-sam-altman-receptive-critical-feedback-pushback-2026-7",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-13T22:06:22.653000Z"
         },
         {
-          "id": "525c3271839491bd18897603baa12db3362be93b",
-          "title": "努比亚 AI 宠物机器人 iMoochi 定档 7 月 17 日上线，主打情感陪伴与拟生命交互",
-          "url": "https://www.ithome.com/0/975/885.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-13T02:32:13Z"
+          "id": "98dcb233d13faee548643504ba710d7752e2f2e8",
+          "title": "OpenAI的员工希望让大家都知道，萨姆·阿尔特曼完全乐于接受反对意见 / OpenAI employees want everyone to know Sam Altman is totally receptive to pushback",
+          "url": "https://www.businessinsider.com/openai-employees-say-sam-altman-receptive-critical-feedback-pushback-2026-7",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-13T19:57:50Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7186,
-      "importance": 0.7186,
-      "importance_score": 0.7186,
+      "score": 0.545,
+      "importance": 0.545,
+      "importance_score": 0.545,
       "importance_label": "值得关注",
       "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.4081,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9848,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
-        "multi_source",
-        "high_ai_relevance"
+        "multi_source"
       ],
-      "earliest_at": "2026-07-13T02:32:13Z",
-      "latest_at": "2026-07-13T06:55:08.364511Z",
+      "earliest_at": "2026-07-13T19:57:50Z",
+      "latest_at": "2026-07-13T22:06:22.653000Z",
       "primary_item": {
-        "id": "9132a8a4bda51df30f925f3d73111d4d7079ddad",
-        "title": "努比亚AI宠物机器人iMoochi定档 7 月 17 日上线，主打情感陪伴与拟生命交互",
-        "url": "https://www.aibase.com/news/29541",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "id": "eb82d61c0d2fe9d540fceea9dbc50869e5ee2ff8",
+        "title": "OpenAI的员工希望让大家都知道，萨姆·阿尔特曼完全乐于接受反对意见",
+        "url": "https://www.businessinsider.com/openai-employees-say-sam-altman-receptive-critical-feedback-pushback-2026-7",
+        "source": "www.businessinsider.com",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -1126,14 +1204,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.548,
-      "importance": 0.548,
-      "importance_score": 0.548,
+      "score": 0.5368,
+      "importance": 0.5368,
+      "importance_score": 0.5368,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9439,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1148,6 +1226,84 @@
         "url": "https://www.gelonghui.com/live/2550710",
         "source": "Readhub · AI",
         "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_b4553fdd4116",
+      "title": "苹果起诉OpenAI，因其前工程师涉嫌利用漏洞窃取商业机密",
+      "url": "https://arstechnica.com/tech-policy/2026/07/apple-sues-openai-after-ex-engineer-allegedly-used-bug-to-steal-trade-secrets",
+      "primary_url": "https://arstechnica.com/tech-policy/2026/07/apple-sues-openai-after-ex-engineer-allegedly-used-bug-to-steal-trade-secrets",
+      "source": "arstechnica.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "5b6c33f40b478bab296239daecb72b85255e0ec1",
+          "title": "苹果起诉OpenAI，因其前工程师涉嫌利用漏洞窃取商业机密",
+          "url": "https://arstechnica.com/tech-policy/2026/07/apple-sues-openai-after-ex-engineer-allegedly-used-bug-to-steal-trade-secrets",
+          "source": "arstechnica.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-13T21:04:25.963000Z"
+        },
+        {
+          "id": "3e2a74ff0e7291c8b9691da54b3ef0e5f41835f1",
+          "title": "苹果起诉OpenAI，因其前工程师涉嫌利用漏洞窃取商业机密 / Apple sues OpenAI after ex-engineer allegedly used bug to steal trade secrets",
+          "url": "https://arstechnica.com/tech-policy/2026/07/apple-sues-openai-after-ex-engineer-allegedly-used-bug-to-steal-trade-secrets",
+          "source": "Ars Technica",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-13T19:17:51Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Ars Technica",
+        "arstechnica.com"
+      ],
+      "items": [
+        {
+          "id": "5b6c33f40b478bab296239daecb72b85255e0ec1",
+          "title": "苹果起诉OpenAI，因其前工程师涉嫌利用漏洞窃取商业机密",
+          "url": "https://arstechnica.com/tech-policy/2026/07/apple-sues-openai-after-ex-engineer-allegedly-used-bug-to-steal-trade-secrets",
+          "source": "arstechnica.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-13T21:04:25.963000Z"
+        },
+        {
+          "id": "3e2a74ff0e7291c8b9691da54b3ef0e5f41835f1",
+          "title": "苹果起诉OpenAI，因其前工程师涉嫌利用漏洞窃取商业机密 / Apple sues OpenAI after ex-engineer allegedly used bug to steal trade secrets",
+          "url": "https://arstechnica.com/tech-policy/2026/07/apple-sues-openai-after-ex-engineer-allegedly-used-bug-to-steal-trade-secrets",
+          "source": "Ars Technica",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-13T19:17:51Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5364,
+      "importance": 0.5364,
+      "importance_score": 0.5364,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9418,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-13T19:17:51Z",
+      "latest_at": "2026-07-13T21:04:25.963000Z",
+      "primary_item": {
+        "id": "5b6c33f40b478bab296239daecb72b85255e0ec1",
+        "title": "苹果起诉OpenAI，因其前工程师涉嫌利用漏洞窃取商业机密",
+        "url": "https://arstechnica.com/tech-policy/2026/07/apple-sues-openai-after-ex-engineer-allegedly-used-bug-to-steal-trade-secrets",
+        "source": "arstechnica.com",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -1223,14 +1379,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5597,
-      "importance": 0.5597,
-      "importance_score": 0.5597,
+      "score": 0.5485,
+      "importance": 0.5485,
+      "importance_score": 0.5485,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9334,
+        "recency": 0.8774,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1245,84 +1401,6 @@
         "url": "https://news.ycombinator.com/item?id=48896599",
         "source": "hackernews",
         "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_d1a46fc49e00",
-      "title": "Meta正加大力度建设其位于路易斯安那州的人工智能数据中心",
-      "url": "https://www.businessinsider.com/meta-expands-ai-data-center-louisiana-50k-teacher-bonuses-2026-7",
-      "primary_url": "https://www.businessinsider.com/meta-expands-ai-data-center-louisiana-50k-teacher-bonuses-2026-7",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "ff5d9e884927cd7ad9a4020926b5f1aa1d11b7f7",
-          "title": "Meta正加大力度建设其位于路易斯安那州的人工智能数据中心",
-          "url": "https://www.businessinsider.com/meta-expands-ai-data-center-louisiana-50k-teacher-bonuses-2026-7",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-13T18:25:33.493000Z"
-        },
-        {
-          "id": "6fee9cf25e0d845b403766a2b23115839e5dbccd",
-          "title": "Meta正加大力度建设其位于路易斯安那州的人工智能数据中心 / Meta says it's expanding the Louisiana AI data center that helped fuel $50K teacher bonuses",
-          "url": "https://www.businessinsider.com/meta-expands-ai-data-center-louisiana-50k-teacher-bonuses-2026-7",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-13T17:45:41Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "ff5d9e884927cd7ad9a4020926b5f1aa1d11b7f7",
-          "title": "Meta正加大力度建设其位于路易斯安那州的人工智能数据中心",
-          "url": "https://www.businessinsider.com/meta-expands-ai-data-center-louisiana-50k-teacher-bonuses-2026-7",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-13T18:25:33.493000Z"
-        },
-        {
-          "id": "6fee9cf25e0d845b403766a2b23115839e5dbccd",
-          "title": "Meta正加大力度建设其位于路易斯安那州的人工智能数据中心 / Meta says it's expanding the Louisiana AI data center that helped fuel $50K teacher bonuses",
-          "url": "https://www.businessinsider.com/meta-expands-ai-data-center-louisiana-50k-teacher-bonuses-2026-7",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-13T17:45:41Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5255,
-      "importance": 0.5255,
-      "importance_score": 0.5255,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8875,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-13T17:45:41Z",
-      "latest_at": "2026-07-13T18:25:33.493000Z",
-      "primary_item": {
-        "id": "ff5d9e884927cd7ad9a4020926b5f1aa1d11b7f7",
-        "title": "Meta正加大力度建设其位于路易斯安那州的人工智能数据中心",
-        "url": "https://www.businessinsider.com/meta-expands-ai-data-center-louisiana-50k-teacher-bonuses-2026-7",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
       }
     },
     {
@@ -1379,14 +1457,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5255,
-      "importance": 0.5255,
-      "importance_score": 0.5255,
+      "score": 0.5143,
+      "importance": 0.5143,
+      "importance_score": 0.5143,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8875,
+        "recency": 0.8315,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1404,109 +1482,30 @@
       }
     },
     {
-      "story_id": "story_30b2b7775a31",
-      "title": "解法都市孤独感，努比亚拟生命AI陪伴机器人iMoochi即将开",
-      "url": "https://www.aibase.com/news/29539",
-      "primary_url": "https://www.aibase.com/news/29539",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "edc4f6360e6710e178004982d3e013be98514cae",
-          "title": "解法都市孤独感，努比亚拟生命AI陪伴机器人iMoochi即将开",
-          "url": "https://www.aibase.com/news/29539",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-13T03:39:42.445403Z"
-        },
-        {
-          "id": "705e7ffb09bdcc09518e2bda514c3f676f29ca7f",
-          "title": "解法都市孤独感，努比亚拟生命 AI 陪伴机器人 iMoochi 即将开",
-          "url": "https://www.aibase.com/zh/news/29539",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "edc4f6360e6710e178004982d3e013be98514cae",
-          "title": "解法都市孤独感，努比亚拟生命AI陪伴机器人iMoochi即将开",
-          "url": "https://www.aibase.com/news/29539",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-13T03:39:42.445403Z"
-        },
-        {
-          "id": "705e7ffb09bdcc09518e2bda514c3f676f29ca7f",
-          "title": "解法都市孤独感，努比亚拟生命 AI 陪伴机器人 iMoochi 即将开",
-          "url": "https://www.aibase.com/zh/news/29539",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.6915,
-      "importance": 0.6915,
-      "importance_score": 0.6915,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.2724,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-13T03:39:42.445403Z",
-      "latest_at": "2026-07-13T03:39:42.445403Z",
-      "primary_item": {
-        "id": "edc4f6360e6710e178004982d3e013be98514cae",
-        "title": "解法都市孤独感，努比亚拟生命AI陪伴机器人iMoochi即将开",
-        "url": "https://www.aibase.com/news/29539",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_138310defcd7",
-      "title": "AI眼镜又多了一个反对者：洛德",
-      "url": "https://www.businessinsider.com/ai-glasses-comment-lorde-meta-rayban-mad-cool-festival-2026-7",
-      "primary_url": "https://www.businessinsider.com/ai-glasses-comment-lorde-meta-rayban-mad-cool-festival-2026-7",
+      "story_id": "story_d1a46fc49e00",
+      "title": "Meta正加大力度建设其位于路易斯安那州的人工智能数据中心",
+      "url": "https://www.businessinsider.com/meta-expands-ai-data-center-louisiana-50k-teacher-bonuses-2026-7",
+      "primary_url": "https://www.businessinsider.com/meta-expands-ai-data-center-louisiana-50k-teacher-bonuses-2026-7",
       "source": "www.businessinsider.com",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "fc2db09a697d36c951488a8a81fe4e3ccfd58a4e",
-          "title": "AI眼镜又多了一个反对者：洛德",
-          "url": "https://www.businessinsider.com/ai-glasses-comment-lorde-meta-rayban-mad-cool-festival-2026-7",
+          "id": "ff5d9e884927cd7ad9a4020926b5f1aa1d11b7f7",
+          "title": "Meta正加大力度建设其位于路易斯安那州的人工智能数据中心",
+          "url": "https://www.businessinsider.com/meta-expands-ai-data-center-louisiana-50k-teacher-bonuses-2026-7",
           "source": "www.businessinsider.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-07-13T17:53:22.329000Z"
+          "published_at": "2026-07-13T18:25:33.493000Z"
         },
         {
-          "id": "8e7c5c7ca1ab4e2aa613809b9dc0a5bfb79c5a54",
-          "title": "AI眼镜又多了一个反对者：洛德 / AI glasses have a new hater: Lorde",
-          "url": "https://www.businessinsider.com/ai-glasses-comment-lorde-meta-rayban-mad-cool-festival-2026-7",
+          "id": "6fee9cf25e0d845b403766a2b23115839e5dbccd",
+          "title": "Meta正加大力度建设其位于路易斯安那州的人工智能数据中心 / Meta says it's expanding the Louisiana AI data center that helped fuel $50K teacher bonuses",
+          "url": "https://www.businessinsider.com/meta-expands-ai-data-center-louisiana-50k-teacher-bonuses-2026-7",
           "source": "Business Insider",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-07-13T17:35:59Z"
+          "published_at": "2026-07-13T17:45:41Z"
         }
       ],
       "source_count": 2,
@@ -1516,46 +1515,46 @@
       ],
       "items": [
         {
-          "id": "fc2db09a697d36c951488a8a81fe4e3ccfd58a4e",
-          "title": "AI眼镜又多了一个反对者：洛德",
-          "url": "https://www.businessinsider.com/ai-glasses-comment-lorde-meta-rayban-mad-cool-festival-2026-7",
+          "id": "ff5d9e884927cd7ad9a4020926b5f1aa1d11b7f7",
+          "title": "Meta正加大力度建设其位于路易斯安那州的人工智能数据中心",
+          "url": "https://www.businessinsider.com/meta-expands-ai-data-center-louisiana-50k-teacher-bonuses-2026-7",
           "source": "www.businessinsider.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-07-13T17:53:22.329000Z"
+          "published_at": "2026-07-13T18:25:33.493000Z"
         },
         {
-          "id": "8e7c5c7ca1ab4e2aa613809b9dc0a5bfb79c5a54",
-          "title": "AI眼镜又多了一个反对者：洛德 / AI glasses have a new hater: Lorde",
-          "url": "https://www.businessinsider.com/ai-glasses-comment-lorde-meta-rayban-mad-cool-festival-2026-7",
+          "id": "6fee9cf25e0d845b403766a2b23115839e5dbccd",
+          "title": "Meta正加大力度建设其位于路易斯安那州的人工智能数据中心 / Meta says it's expanding the Louisiana AI data center that helped fuel $50K teacher bonuses",
+          "url": "https://www.businessinsider.com/meta-expands-ai-data-center-louisiana-50k-teacher-bonuses-2026-7",
           "source": "Business Insider",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-07-13T17:35:59Z"
+          "published_at": "2026-07-13T17:45:41Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.521,
-      "importance": 0.521,
-      "importance_score": 0.521,
+      "score": 0.5143,
+      "importance": 0.5143,
+      "importance_score": 0.5143,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8652,
+        "recency": 0.8315,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-13T17:35:59Z",
-      "latest_at": "2026-07-13T17:53:22.329000Z",
+      "earliest_at": "2026-07-13T17:45:41Z",
+      "latest_at": "2026-07-13T18:25:33.493000Z",
       "primary_item": {
-        "id": "fc2db09a697d36c951488a8a81fe4e3ccfd58a4e",
-        "title": "AI眼镜又多了一个反对者：洛德",
-        "url": "https://www.businessinsider.com/ai-glasses-comment-lorde-meta-rayban-mad-cool-festival-2026-7",
+        "id": "ff5d9e884927cd7ad9a4020926b5f1aa1d11b7f7",
+        "title": "Meta正加大力度建设其位于路易斯安那州的人工智能数据中心",
+        "url": "https://www.businessinsider.com/meta-expands-ai-data-center-louisiana-50k-teacher-bonuses-2026-7",
         "source": "www.businessinsider.com",
         "source_name": "Buzzing"
       }
@@ -1614,14 +1613,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.548,
-      "importance": 0.548,
-      "importance_score": 0.548,
+      "score": 0.5368,
+      "importance": 0.5368,
+      "importance_score": 0.5368,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9442,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1636,6 +1635,83 @@
         "url": "https://news.ycombinator.com/item?id=48896703",
         "source": "hackernews",
         "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_817ee0972d02",
+      "title": "Grok 将我的用户目录上传到了 xAI 的服务器上 / Grok uploaded my user directory to xAI's servers",
+      "url": "https://twitter.com/a_green_being/status/2076598897779020159",
+      "primary_url": "https://twitter.com/a_green_being/status/2076598897779020159",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "50db3f84e37018d0cecf0b108394fb8430ed1848",
+          "title": "Grok 将我的用户目录上传到了 xAI 的服务器上 / Grok uploaded my user directory to xAI's servers",
+          "url": "https://twitter.com/a_green_being/status/2076598897779020159",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-13T13:39:59Z"
+        },
+        {
+          "id": "89d5a9f2597a451190e373522935f1e4036d6858",
+          "title": "Grok 将我的用户目录上传到了 xAI 的服务器上 / Grok CLI uploaded the whole home directory to GCS",
+          "url": "https://twitter.com/a_green_being/status/2076598897779020159",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-13T13:35:32Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热"
+      ],
+      "items": [
+        {
+          "id": "50db3f84e37018d0cecf0b108394fb8430ed1848",
+          "title": "Grok 将我的用户目录上传到了 xAI 的服务器上 / Grok uploaded my user directory to xAI's servers",
+          "url": "https://twitter.com/a_green_being/status/2076598897779020159",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-13T13:39:59Z"
+        },
+        {
+          "id": "89d5a9f2597a451190e373522935f1e4036d6858",
+          "title": "Grok 将我的用户目录上传到了 xAI 的服务器上 / Grok CLI uploaded the whole home directory to GCS",
+          "url": "https://twitter.com/a_green_being/status/2076598897779020159",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-13T13:35:32Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4746,
+      "importance": 0.4746,
+      "importance_score": 0.4746,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.6332,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-13T13:35:32Z",
+      "latest_at": "2026-07-13T13:39:59Z",
+      "primary_item": {
+        "id": "50db3f84e37018d0cecf0b108394fb8430ed1848",
+        "title": "Grok 将我的用户目录上传到了 xAI 的服务器上 / Grok uploaded my user directory to xAI's servers",
+        "url": "https://twitter.com/a_green_being/status/2076598897779020159",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
       }
     }
   ]
