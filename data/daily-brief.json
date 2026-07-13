@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-07-13T18:16:46.010732Z",
+  "generated_at": "2026-07-13T19:59:00.265080Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260714-0417-11d4-a4d1-ff092b614950&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260714-0417-11d4-a4d1-ff092b614950&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260714-0559-2737-9f78-7cc00c47a7ef&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260714-0559-2737-9f78-7cc00c47a7ef&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "a1b01da01bca134058061f9dc0e33e814ce8a288",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260714-0559-2737-9f78-7cc00c47a7ef&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "0149b8339ffafe7aee37d3ecd0c12118c3219409",
           "title": "点击这里进入 / Click here to enter",
@@ -100,32 +109,23 @@
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
           "published_at": null
-        },
-        {
-          "id": "cc63d386e68c5592111e6d86330acdaff6510b12",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260713-0546-5304-8624-b4da8f4370e3&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "244150dc4745af3d89a823d6c738360565c4a2ce",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260713-0428-2260-93c9-6864c4b83cf4&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
         }
       ],
-      "source_count": 12,
+      "source_count": 11,
       "source_names": [
         "Page Fallback"
       ],
       "items": [
         {
+          "id": "a1b01da01bca134058061f9dc0e33e814ce8a288",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260714-0559-2737-9f78-7cc00c47a7ef&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "0149b8339ffafe7aee37d3ecd0c12118c3219409",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260714-0417-11d4-a4d1-ff092b614950&fp=-3",
@@ -214,28 +214,10 @@
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
           "published_at": null
-        },
-        {
-          "id": "cc63d386e68c5592111e6d86330acdaff6510b12",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260713-0546-5304-8624-b4da8f4370e3&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "244150dc4745af3d89a823d6c738360565c4a2ce",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260713-0428-2260-93c9-6864c4b83cf4&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
         }
       ],
-      "item_count": 12,
-      "duplicate_count": 12,
+      "item_count": 11,
+      "duplicate_count": 11,
       "score": 0.912,
       "importance": 0.912,
       "importance_score": 0.912,
@@ -252,12 +234,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-12T18:27:56.799204Z",
-      "latest_at": "2026-07-13T18:16:46.010732Z",
+      "earliest_at": "2026-07-12T20:52:40.761688Z",
+      "latest_at": "2026-07-13T19:59:00.265080Z",
       "primary_item": {
-        "id": "0149b8339ffafe7aee37d3ecd0c12118c3219409",
+        "id": "a1b01da01bca134058061f9dc0e33e814ce8a288",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260714-0417-11d4-a4d1-ff092b614950&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260714-0559-2737-9f78-7cc00c47a7ef&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
       }
@@ -297,14 +279,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8417,
-      "importance": 0.8417,
-      "importance_score": 0.8417,
+      "score": 0.8275,
+      "importance": 0.8275,
+      "importance_score": 0.8275,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9036,
+        "recency": 0.8326,
         "story_heat": 0.0
       },
       "category": "official",
@@ -358,14 +340,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.808,
-      "importance": 0.808,
-      "importance_score": 0.808,
+      "score": 0.7938,
+      "importance": 0.7938,
+      "importance_score": 0.7938,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9798,
+        "recency": 0.9088,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -437,14 +419,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7721,
-      "importance": 0.7721,
-      "importance_score": 0.7721,
+      "score": 0.7579,
+      "importance": 0.7579,
+      "importance_score": 0.7579,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6754,
+        "recency": 0.6044,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -516,14 +498,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7667,
-      "importance": 0.7667,
-      "importance_score": 0.7667,
+      "score": 0.7525,
+      "importance": 0.7525,
+      "importance_score": 0.7525,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.2384,
+        "recency": 0.1674,
         "story_heat": 0.25
       },
       "category": "official",
@@ -578,20 +560,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7531,
-      "importance": 0.7531,
-      "importance_score": 0.7531,
+      "score": 0.7389,
+      "importance": 0.7389,
+      "importance_score": 0.7389,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7057,
+        "recency": 0.6347,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-13T11:12:59Z",
       "latest_at": "2026-07-13T11:12:59Z",
@@ -638,14 +619,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7429,
-      "importance": 0.7429,
-      "importance_score": 0.7429,
+      "score": 0.7287,
+      "importance": 0.7287,
+      "importance_score": 0.7287,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6543,
+        "recency": 0.5833,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -716,14 +697,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7721,
-      "importance": 0.7721,
-      "importance_score": 0.7721,
+      "score": 0.7579,
+      "importance": 0.7579,
+      "importance_score": 0.7579,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6754,
+        "recency": 0.6044,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -777,14 +758,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7415,
-      "importance": 0.7415,
-      "importance_score": 0.7415,
+      "score": 0.7273,
+      "importance": 0.7273,
+      "importance_score": 0.7273,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6474,
+        "recency": 0.5764,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -836,20 +817,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.757,
-      "importance": 0.757,
-      "importance_score": 0.757,
+      "score": 0.7428,
+      "importance": 0.7428,
+      "importance_score": 0.7428,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7252,
+        "recency": 0.6542,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-13T11:41:01Z",
       "latest_at": "2026-07-13T11:41:01Z",
@@ -896,14 +876,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7471,
-      "importance": 0.7471,
-      "importance_score": 0.7471,
+      "score": 0.7329,
+      "importance": 0.7329,
+      "importance_score": 0.7329,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6754,
+        "recency": 0.6044,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -955,14 +935,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7471,
-      "importance": 0.7471,
-      "importance_score": 0.7471,
+      "score": 0.7329,
+      "importance": 0.7329,
+      "importance_score": 0.7329,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6754,
+        "recency": 0.6044,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1014,14 +994,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7471,
-      "importance": 0.7471,
-      "importance_score": 0.7471,
+      "score": 0.7329,
+      "importance": 0.7329,
+      "importance_score": 0.7329,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6754,
+        "recency": 0.6044,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1092,14 +1072,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7423,
-      "importance": 0.7423,
-      "importance_score": 0.7423,
+      "score": 0.7281,
+      "importance": 0.7281,
+      "importance_score": 0.7281,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.5266,
+        "recency": 0.4556,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1118,30 +1098,127 @@
       }
     },
     {
-      "story_id": "story_31837d52dfb5",
-      "title": "阅读埃里克·施密特、里德·霍夫曼及顶尖经济学家联名签署的这封信，信中警告了人工智能对就业的威胁",
-      "url": "https://www.businessinsider.com/ai-job-impact-read-letter-economists-executives-openai-anthropic-google-2026-7",
-      "primary_url": "https://www.businessinsider.com/ai-job-impact-read-letter-economists-executives-openai-anthropic-google-2026-7",
+      "story_id": "story_3bb21a6673df",
+      "title": "Show HN：BillAI Bass，使用 Strands 代理的 AI 驱动的大嘴 Billy Bass / Show HN: BillAI Bass, an AI-Powered Big Mouth Billy Bass Using Strands Agents",
+      "url": "https://news.ycombinator.com/item?id=48896599",
+      "primary_url": "https://news.ycombinator.com/item?id=48896599",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "1b20635e1882662eab988b069e14cbef656c98d3",
+          "title": "Show HN：BillAI Bass，使用 Strands 代理的 AI 驱动的大嘴 Billy Bass / Show HN: BillAI Bass, an AI-Powered Big Mouth Billy Bass Using Strands Agents",
+          "url": "https://news.ycombinator.com/item?id=48896599",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-13T19:31:37.609000Z"
+        },
+        {
+          "id": "37797f74e17305fad14285eb7949619bb6c92429",
+          "title": "Show HN: BillAI Bass：一款基于Strands Agents技术、由人工智能驱动的“大嘴比利·巴斯”",
+          "url": "https://github.com/morganwilliscloud/billai-bass",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-13T18:25:33.396000Z"
+        },
+        {
+          "id": "d4a53b44127cd79b5e12b8258341b7433c19bb1e",
+          "title": "Show HN: BillAI Bass：一款基于Strands Agents技术、由人工智能驱动的“大嘴比利·巴斯” / Show HN: BillAI Bass, an AI-Powered Big Mouth Billy Bass Using Strands Agents",
+          "url": "https://github.com/morganwilliscloud/billai-bass",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-13T18:18:23Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "github.com",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "1b20635e1882662eab988b069e14cbef656c98d3",
+          "title": "Show HN：BillAI Bass，使用 Strands 代理的 AI 驱动的大嘴 Billy Bass / Show HN: BillAI Bass, an AI-Powered Big Mouth Billy Bass Using Strands Agents",
+          "url": "https://news.ycombinator.com/item?id=48896599",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-13T19:31:37.609000Z"
+        },
+        {
+          "id": "37797f74e17305fad14285eb7949619bb6c92429",
+          "title": "Show HN: BillAI Bass：一款基于Strands Agents技术、由人工智能驱动的“大嘴比利·巴斯”",
+          "url": "https://github.com/morganwilliscloud/billai-bass",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-13T18:25:33.396000Z"
+        },
+        {
+          "id": "d4a53b44127cd79b5e12b8258341b7433c19bb1e",
+          "title": "Show HN: BillAI Bass：一款基于Strands Agents技术、由人工智能驱动的“大嘴比利·巴斯” / Show HN: BillAI Bass, an AI-Powered Big Mouth Billy Bass Using Strands Agents",
+          "url": "https://github.com/morganwilliscloud/billai-bass",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-13T18:18:23Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5692,
+      "importance": 0.5692,
+      "importance_score": 0.5692,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.981,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-13T18:18:23Z",
+      "latest_at": "2026-07-13T19:31:37.609000Z",
+      "primary_item": {
+        "id": "1b20635e1882662eab988b069e14cbef656c98d3",
+        "title": "Show HN：BillAI Bass，使用 Strands 代理的 AI 驱动的大嘴 Billy Bass / Show HN: BillAI Bass, an AI-Powered Big Mouth Billy Bass Using Strands Agents",
+        "url": "https://news.ycombinator.com/item?id=48896599",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_d1a46fc49e00",
+      "title": "Meta正加大力度建设其位于路易斯安那州的人工智能数据中心",
+      "url": "https://www.businessinsider.com/meta-expands-ai-data-center-louisiana-50k-teacher-bonuses-2026-7",
+      "primary_url": "https://www.businessinsider.com/meta-expands-ai-data-center-louisiana-50k-teacher-bonuses-2026-7",
       "source": "www.businessinsider.com",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "d320edc14d53d2293a984f47a1a4bfcf96aec9ec",
-          "title": "阅读埃里克·施密特、里德·霍夫曼及顶尖经济学家联名签署的这封信，信中警告了人工智能对就业的威胁",
-          "url": "https://www.businessinsider.com/ai-job-impact-read-letter-economists-executives-openai-anthropic-google-2026-7",
+          "id": "ff5d9e884927cd7ad9a4020926b5f1aa1d11b7f7",
+          "title": "Meta正加大力度建设其位于路易斯安那州的人工智能数据中心",
+          "url": "https://www.businessinsider.com/meta-expands-ai-data-center-louisiana-50k-teacher-bonuses-2026-7",
           "source": "www.businessinsider.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-07-13T17:53:22.325000Z"
+          "published_at": "2026-07-13T18:25:33.493000Z"
         },
         {
-          "id": "291514cb6fc6113f31b55dd1c29299f7f0fda24f",
-          "title": "阅读埃里克·施密特、里德·霍夫曼及顶尖经济学家联名签署的这封信，信中警告了人工智能对就业的威胁 / Read the letter Eric Schmidt, Reid Hoffman, and top economists signed warning about AI's threat to jobs",
-          "url": "https://www.businessinsider.com/ai-job-impact-read-letter-economists-executives-openai-anthropic-google-2026-7",
+          "id": "6fee9cf25e0d845b403766a2b23115839e5dbccd",
+          "title": "Meta正加大力度建设其位于路易斯安那州的人工智能数据中心 / Meta says it's expanding the Louisiana AI data center that helped fuel $50K teacher bonuses",
+          "url": "https://www.businessinsider.com/meta-expands-ai-data-center-louisiana-50k-teacher-bonuses-2026-7",
           "source": "Business Insider",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-07-13T12:56:18Z"
+          "published_at": "2026-07-13T17:45:41Z"
         }
       ],
       "source_count": 2,
@@ -1151,47 +1228,125 @@
       ],
       "items": [
         {
-          "id": "d320edc14d53d2293a984f47a1a4bfcf96aec9ec",
-          "title": "阅读埃里克·施密特、里德·霍夫曼及顶尖经济学家联名签署的这封信，信中警告了人工智能对就业的威胁",
-          "url": "https://www.businessinsider.com/ai-job-impact-read-letter-economists-executives-openai-anthropic-google-2026-7",
+          "id": "ff5d9e884927cd7ad9a4020926b5f1aa1d11b7f7",
+          "title": "Meta正加大力度建设其位于路易斯安那州的人工智能数据中心",
+          "url": "https://www.businessinsider.com/meta-expands-ai-data-center-louisiana-50k-teacher-bonuses-2026-7",
           "source": "www.businessinsider.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-07-13T17:53:22.325000Z"
+          "published_at": "2026-07-13T18:25:33.493000Z"
         },
         {
-          "id": "291514cb6fc6113f31b55dd1c29299f7f0fda24f",
-          "title": "阅读埃里克·施密特、里德·霍夫曼及顶尖经济学家联名签署的这封信，信中警告了人工智能对就业的威胁 / Read the letter Eric Schmidt, Reid Hoffman, and top economists signed warning about AI's threat to jobs",
-          "url": "https://www.businessinsider.com/ai-job-impact-read-letter-economists-executives-openai-anthropic-google-2026-7",
+          "id": "6fee9cf25e0d845b403766a2b23115839e5dbccd",
+          "title": "Meta正加大力度建设其位于路易斯安那州的人工智能数据中心 / Meta says it's expanding the Louisiana AI data center that helped fuel $50K teacher bonuses",
+          "url": "https://www.businessinsider.com/meta-expands-ai-data-center-louisiana-50k-teacher-bonuses-2026-7",
           "source": "Business Insider",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-07-13T12:56:18Z"
+          "published_at": "2026-07-13T17:45:41Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5448,
-      "importance": 0.5448,
-      "importance_score": 0.5448,
+      "score": 0.535,
+      "importance": 0.535,
+      "importance_score": 0.535,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9838,
+        "recency": 0.9351,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-13T12:56:18Z",
-      "latest_at": "2026-07-13T17:53:22.325000Z",
+      "earliest_at": "2026-07-13T17:45:41Z",
+      "latest_at": "2026-07-13T18:25:33.493000Z",
       "primary_item": {
-        "id": "d320edc14d53d2293a984f47a1a4bfcf96aec9ec",
-        "title": "阅读埃里克·施密特、里德·霍夫曼及顶尖经济学家联名签署的这封信，信中警告了人工智能对就业的威胁",
-        "url": "https://www.businessinsider.com/ai-job-impact-read-letter-economists-executives-openai-anthropic-google-2026-7",
+        "id": "ff5d9e884927cd7ad9a4020926b5f1aa1d11b7f7",
+        "title": "Meta正加大力度建设其位于路易斯安那州的人工智能数据中心",
+        "url": "https://www.businessinsider.com/meta-expands-ai-data-center-louisiana-50k-teacher-bonuses-2026-7",
         "source": "www.businessinsider.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_c6cb8a789e77",
+      "title": "独家：邮件显示，加拿大监管机构在向银行发出网络安全风险警告时援引了Anthropic公司的“克劳德·米托斯”",
+      "url": "https://reut.rs/4pfxdHT",
+      "primary_url": "https://reut.rs/4pfxdHT",
+      "source": "reut.rs",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "f32324b0b0143cb9d2592e8d4fd52dd60696b2e7",
+          "title": "独家：邮件显示，加拿大监管机构在向银行发出网络安全风险警告时援引了Anthropic公司的“克劳德·米托斯”",
+          "url": "https://reut.rs/4pfxdHT",
+          "source": "reut.rs",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-13T18:25:33.472000Z"
+        },
+        {
+          "id": "4c2559048607253d16cb3da6f4063ca2e80555cd",
+          "title": "电子邮件显示，加拿大监管机构在向银行发出网络安全风险警告时，援引了Anthropic公司的“克劳德·米托斯”",
+          "url": "https://www.reuters.com/world/canada-regulator-cited-anthropics-claude-mythos-warning-banks-cyber-risks-email-2026-07-13",
+          "source": "www.reuters.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-13T18:09:33.094000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "reut.rs",
+        "www.reuters.com"
+      ],
+      "items": [
+        {
+          "id": "f32324b0b0143cb9d2592e8d4fd52dd60696b2e7",
+          "title": "独家：邮件显示，加拿大监管机构在向银行发出网络安全风险警告时援引了Anthropic公司的“克劳德·米托斯”",
+          "url": "https://reut.rs/4pfxdHT",
+          "source": "reut.rs",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-13T18:25:33.472000Z"
+        },
+        {
+          "id": "4c2559048607253d16cb3da6f4063ca2e80555cd",
+          "title": "电子邮件显示，加拿大监管机构在向银行发出网络安全风险警告时，援引了Anthropic公司的“克劳德·米托斯”",
+          "url": "https://www.reuters.com/world/canada-regulator-cited-anthropics-claude-mythos-warning-banks-cyber-risks-email-2026-07-13",
+          "source": "www.reuters.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-13T18:09:33.094000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.535,
+      "importance": 0.535,
+      "importance_score": 0.535,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9351,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-13T18:09:33.094000Z",
+      "latest_at": "2026-07-13T18:25:33.472000Z",
+      "primary_item": {
+        "id": "f32324b0b0143cb9d2592e8d4fd52dd60696b2e7",
+        "title": "独家：邮件显示，加拿大监管机构在向银行发出网络安全风险警告时援引了Anthropic公司的“克劳德·米托斯”",
+        "url": "https://reut.rs/4pfxdHT",
+        "source": "reut.rs",
         "source_name": "Buzzing"
       }
     },
@@ -1249,14 +1404,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7152,
-      "importance": 0.7152,
-      "importance_score": 0.7152,
+      "score": 0.701,
+      "importance": 0.701,
+      "importance_score": 0.701,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.3909,
+        "recency": 0.3199,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1328,14 +1483,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5297,
-      "importance": 0.5297,
-      "importance_score": 0.5297,
+      "score": 0.5155,
+      "importance": 0.5155,
+      "importance_score": 0.5155,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9083,
+        "recency": 0.8373,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1353,205 +1508,30 @@
       }
     },
     {
-      "story_id": "story_bd87c1bd9f8f",
-      "title": "Zig 创造者实话实说，人性化烟雾 / Zig Creator Calls Spade a Spade, Anthropic Blows Smoke",
-      "url": "https://news.ycombinator.com/item?id=48889637",
-      "primary_url": "https://news.ycombinator.com/item?id=48889637",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "a1362fd8483d2d2e1bb20d81fe47d65c8038aecd",
-          "title": "Zig 创造者实话实说，人性化烟雾 / Zig Creator Calls Spade a Spade, Anthropic Blows Smoke",
-          "url": "https://news.ycombinator.com/item?id=48889637",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-13T10:29:46.152000Z"
-        },
-        {
-          "id": "0c987916ddf453e2c44a5247157e884356412396",
-          "title": "Zig创始人直言不讳，Anthropic则故弄玄虚",
-          "url": "https://raymyers.org/post/zed-creator-calls-spade-a-spade",
-          "source": "raymyers.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-13T09:41:19.566000Z"
-        },
-        {
-          "id": "cf40c86d82b220a732be16d845c086006974a902",
-          "title": "Zig创始人直言不讳，Anthropic则故弄玄虚 / Zig Creator Calls Spade a Spade, Anthropic Blows Smoke",
-          "url": "https://raymyers.org/post/zed-creator-calls-spade-a-spade",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-13T08:52:41Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Lobsters (技术社区)",
-        "hackernews",
-        "raymyers.org"
-      ],
-      "items": [
-        {
-          "id": "a1362fd8483d2d2e1bb20d81fe47d65c8038aecd",
-          "title": "Zig 创造者实话实说，人性化烟雾 / Zig Creator Calls Spade a Spade, Anthropic Blows Smoke",
-          "url": "https://news.ycombinator.com/item?id=48889637",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-13T10:29:46.152000Z"
-        },
-        {
-          "id": "0c987916ddf453e2c44a5247157e884356412396",
-          "title": "Zig创始人直言不讳，Anthropic则故弄玄虚",
-          "url": "https://raymyers.org/post/zed-creator-calls-spade-a-spade",
-          "source": "raymyers.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-13T09:41:19.566000Z"
-        },
-        {
-          "id": "cf40c86d82b220a732be16d845c086006974a902",
-          "title": "Zig创始人直言不讳，Anthropic则故弄玄虚 / Zig Creator Calls Spade a Spade, Anthropic Blows Smoke",
-          "url": "https://raymyers.org/post/zed-creator-calls-spade-a-spade",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-13T08:52:41Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5081,
-      "importance": 0.5081,
-      "importance_score": 0.5081,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.6757,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-13T08:52:41Z",
-      "latest_at": "2026-07-13T10:29:46.152000Z",
-      "primary_item": {
-        "id": "a1362fd8483d2d2e1bb20d81fe47d65c8038aecd",
-        "title": "Zig 创造者实话实说，人性化烟雾 / Zig Creator Calls Spade a Spade, Anthropic Blows Smoke",
-        "url": "https://news.ycombinator.com/item?id=48889637",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_b887f733149b",
-      "title": "莫埃鲁艾/艾里 / moeru-ai / airi",
-      "url": "https://github.com/moeru-ai/airi",
-      "primary_url": "https://github.com/moeru-ai/airi",
-      "source": "GitHub · Trending Today",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "68d17447f335128d21c554c407cbb06749ee00ff",
-          "title": "莫埃鲁艾/艾里 / moeru-ai / airi",
-          "url": "https://github.com/moeru-ai/airi",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "546e921736629ddfabb6c41f6d449661d249e688",
-          "title": "莫埃鲁艾/艾里 / moeru-ai /      airi",
-          "url": "https://github.com/moeru-ai/airi",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-13T12:35:58.097000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "GitHub · Trending Today",
-        "github"
-      ],
-      "items": [
-        {
-          "id": "68d17447f335128d21c554c407cbb06749ee00ff",
-          "title": "莫埃鲁艾/艾里 / moeru-ai / airi",
-          "url": "https://github.com/moeru-ai/airi",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "546e921736629ddfabb6c41f6d449661d249e688",
-          "title": "莫埃鲁艾/艾里 / moeru-ai /      airi",
-          "url": "https://github.com/moeru-ai/airi",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-13T12:35:58.097000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5042,
-      "importance": 0.5042,
-      "importance_score": 0.5042,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.781,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-13T12:35:58.097000Z",
-      "latest_at": "2026-07-13T13:01:25.592543Z",
-      "primary_item": {
-        "id": "68d17447f335128d21c554c407cbb06749ee00ff",
-        "title": "莫埃鲁艾/艾里 / moeru-ai / airi",
-        "url": "https://github.com/moeru-ai/airi",
-        "source": "GitHub · Trending Today",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_f9ee441fc25a",
-      "title": "Meta正在大力推广AI广告——这给品牌带来了混乱",
-      "url": "https://www.businessinsider.com/metas-ai-ads-push-causes-chaos-for-brands-2026-7",
-      "primary_url": "https://www.businessinsider.com/metas-ai-ads-push-causes-chaos-for-brands-2026-7",
+      "story_id": "story_138310defcd7",
+      "title": "AI眼镜又多了一个反对者：洛德",
+      "url": "https://www.businessinsider.com/ai-glasses-comment-lorde-meta-rayban-mad-cool-festival-2026-7",
+      "primary_url": "https://www.businessinsider.com/ai-glasses-comment-lorde-meta-rayban-mad-cool-festival-2026-7",
       "source": "www.businessinsider.com",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "b7a1572138d9c024f97aa54c8afdce3a9533f02f",
-          "title": "Meta正在大力推广AI广告——这给品牌带来了混乱",
-          "url": "https://www.businessinsider.com/metas-ai-ads-push-causes-chaos-for-brands-2026-7",
+          "id": "fc2db09a697d36c951488a8a81fe4e3ccfd58a4e",
+          "title": "AI眼镜又多了一个反对者：洛德",
+          "url": "https://www.businessinsider.com/ai-glasses-comment-lorde-meta-rayban-mad-cool-festival-2026-7",
           "source": "www.businessinsider.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-07-13T14:25:55.368000Z"
+          "published_at": "2026-07-13T17:53:22.329000Z"
         },
         {
-          "id": "6c2a5840f297e4fccfc158afa0d4138fd7049de6",
-          "title": "Meta正在大力推广AI广告——这给品牌带来了混乱 / Meta is pushing AI ads hard — and causing chaos for brands",
-          "url": "https://www.businessinsider.com/metas-ai-ads-push-causes-chaos-for-brands-2026-7",
+          "id": "8e7c5c7ca1ab4e2aa613809b9dc0a5bfb79c5a54",
+          "title": "AI眼镜又多了一个反对者：洛德 / AI glasses have a new hater: Lorde",
+          "url": "https://www.businessinsider.com/ai-glasses-comment-lorde-meta-rayban-mad-cool-festival-2026-7",
           "source": "Business Insider",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-07-13T14:16:39Z"
+          "published_at": "2026-07-13T17:35:59Z"
         }
       ],
       "source_count": 2,
@@ -1561,46 +1541,46 @@
       ],
       "items": [
         {
-          "id": "b7a1572138d9c024f97aa54c8afdce3a9533f02f",
-          "title": "Meta正在大力推广AI广告——这给品牌带来了混乱",
-          "url": "https://www.businessinsider.com/metas-ai-ads-push-causes-chaos-for-brands-2026-7",
+          "id": "fc2db09a697d36c951488a8a81fe4e3ccfd58a4e",
+          "title": "AI眼镜又多了一个反对者：洛德",
+          "url": "https://www.businessinsider.com/ai-glasses-comment-lorde-meta-rayban-mad-cool-festival-2026-7",
           "source": "www.businessinsider.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-07-13T14:25:55.368000Z"
+          "published_at": "2026-07-13T17:53:22.329000Z"
         },
         {
-          "id": "6c2a5840f297e4fccfc158afa0d4138fd7049de6",
-          "title": "Meta正在大力推广AI广告——这给品牌带来了混乱 / Meta is pushing AI ads hard — and causing chaos for brands",
-          "url": "https://www.businessinsider.com/metas-ai-ads-push-causes-chaos-for-brands-2026-7",
+          "id": "8e7c5c7ca1ab4e2aa613809b9dc0a5bfb79c5a54",
+          "title": "AI眼镜又多了一个反对者：洛德 / AI glasses have a new hater: Lorde",
+          "url": "https://www.businessinsider.com/ai-glasses-comment-lorde-meta-rayban-mad-cool-festival-2026-7",
           "source": "Business Insider",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-07-13T14:16:39Z"
+          "published_at": "2026-07-13T17:35:59Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5159,
-      "importance": 0.5159,
-      "importance_score": 0.5159,
+      "score": 0.5306,
+      "importance": 0.5306,
+      "importance_score": 0.5306,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8397,
+        "recency": 0.9128,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-13T14:16:39Z",
-      "latest_at": "2026-07-13T14:25:55.368000Z",
+      "earliest_at": "2026-07-13T17:35:59Z",
+      "latest_at": "2026-07-13T17:53:22.329000Z",
       "primary_item": {
-        "id": "b7a1572138d9c024f97aa54c8afdce3a9533f02f",
-        "title": "Meta正在大力推广AI广告——这给品牌带来了混乱",
-        "url": "https://www.businessinsider.com/metas-ai-ads-push-causes-chaos-for-brands-2026-7",
+        "id": "fc2db09a697d36c951488a8a81fe4e3ccfd58a4e",
+        "title": "AI眼镜又多了一个反对者：洛德",
+        "url": "https://www.businessinsider.com/ai-glasses-comment-lorde-meta-rayban-mad-cool-festival-2026-7",
         "source": "www.businessinsider.com",
         "source_name": "Buzzing"
       }
