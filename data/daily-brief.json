@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-07-14T16:17:28.953775Z",
+  "generated_at": "2026-07-14T17:40:38.974325Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260715-0217-55b5-a0e0-f639f21c231b&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260715-0217-55b5-a0e0-f639f21c231b&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260715-0341-07c4-8f74-f3d4951500ba&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260715-0341-07c4-8f74-f3d4951500ba&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "ff2d00329795dfa261d5960de9091ccdf31bc07b",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260715-0341-07c4-8f74-f3d4951500ba&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "d15af08c544efbe1f74cc575dd953d7a628f9afa",
           "title": "点击这里进入 / Click here to enter",
@@ -129,12 +138,21 @@
           "published_at": null
         }
       ],
-      "source_count": 13,
+      "source_count": 14,
       "source_names": [
         "Page Fallback"
       ],
       "items": [
         {
+          "id": "ff2d00329795dfa261d5960de9091ccdf31bc07b",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260715-0341-07c4-8f74-f3d4951500ba&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "d15af08c544efbe1f74cc575dd953d7a628f9afa",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260715-0217-55b5-a0e0-f639f21c231b&fp=-3",
@@ -252,8 +270,8 @@
           "published_at": null
         }
       ],
-      "item_count": 13,
-      "duplicate_count": 13,
+      "item_count": 14,
+      "duplicate_count": 14,
       "score": 0.912,
       "importance": 0.912,
       "importance_score": 0.912,
@@ -271,13 +289,74 @@
         "high_importance"
       ],
       "earliest_at": "2026-07-13T18:16:46.010732Z",
-      "latest_at": "2026-07-14T16:17:28.953775Z",
+      "latest_at": "2026-07-14T17:40:38.974325Z",
       "primary_item": {
-        "id": "d15af08c544efbe1f74cc575dd953d7a628f9afa",
+        "id": "ff2d00329795dfa261d5960de9091ccdf31bc07b",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260715-0217-55b5-a0e0-f639f21c231b&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260715-0341-07c4-8f74-f3d4951500ba&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
+      }
+    },
+    {
+      "story_id": "story_9048b47cd9ef",
+      "title": "Dependabot 版本更新引入默认包冷却时间 / Dependabot version updates introduce default package cooldown",
+      "url": "https://github.blog/changelog/2026-07-14-dependabot-version-updates-introduce-default-package-cooldown",
+      "primary_url": "https://github.blog/changelog/2026-07-14-dependabot-version-updates-introduce-default-package-cooldown",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "62bba51f6ed4432cafdd811a8f39a1032e7aaff7",
+          "title": "Dependabot 版本更新引入默认包冷却时间 / Dependabot version updates introduce default package cooldown",
+          "url": "https://github.blog/changelog/2026-07-14-dependabot-version-updates-introduce-default-package-cooldown",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-14T16:42:59Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "62bba51f6ed4432cafdd811a8f39a1032e7aaff7",
+          "title": "Dependabot 版本更新引入默认包冷却时间 / Dependabot version updates introduce default package cooldown",
+          "url": "https://github.blog/changelog/2026-07-14-dependabot-version-updates-introduce-default-package-cooldown",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-14T16:42:59Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.853,
+      "importance": 0.853,
+      "importance_score": 0.853,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.96,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-14T16:42:59Z",
+      "latest_at": "2026-07-14T16:42:59Z",
+      "primary_item": {
+        "id": "62bba51f6ed4432cafdd811a8f39a1032e7aaff7",
+        "title": "Dependabot 版本更新引入默认包冷却时间 / Dependabot version updates introduce default package cooldown",
+        "url": "https://github.blog/changelog/2026-07-14-dependabot-version-updates-introduce-default-package-cooldown",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -315,14 +394,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8586,
-      "importance": 0.8586,
-      "importance_score": 0.8586,
+      "score": 0.847,
+      "importance": 0.847,
+      "importance_score": 0.847,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9879,
+        "recency": 0.9301,
         "story_heat": 0.0
       },
       "category": "official",
@@ -339,6 +418,187 @@
         "url": "https://blog.google/products-and-platforms/products/search/google-images-25th-anniversary",
         "source": "Google AI Blog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_92ab1f77dd8c",
+      "title": "代理时代如何管理人工智能投资 / How to manage AI investments in the agentic era",
+      "url": "https://openai.com/index/managing-ai-investments-in-agentic-era",
+      "primary_url": "https://openai.com/index/managing-ai-investments-in-agentic-era",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "c6c1d4d73b453e4fee94427c08a5a277195f874f",
+          "title": "代理时代如何管理人工智能投资 / How to manage AI investments in the agentic era",
+          "url": "https://openai.com/index/managing-ai-investments-in-agentic-era",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-14T10:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "c6c1d4d73b453e4fee94427c08a5a277195f874f",
+          "title": "代理时代如何管理人工智能投资 / How to manage AI investments in the agentic era",
+          "url": "https://openai.com/index/managing-ai-investments-in-agentic-era",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-14T10:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.809,
+      "importance": 0.809,
+      "importance_score": 0.809,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.6801,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-14T10:00:00Z",
+      "latest_at": "2026-07-14T10:00:00Z",
+      "primary_item": {
+        "id": "c6c1d4d73b453e4fee94427c08a5a277195f874f",
+        "title": "代理时代如何管理人工智能投资 / How to manage AI investments in the agentic era",
+        "url": "https://openai.com/index/managing-ai-investments-in-agentic-era",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_6d347f512ef0",
+      "title": "Google 在 I/O Connect India 展示由 Tensor SoC 和 TPU 驱动的 Pixel 10 端侧 AI 未来",
+      "url": "https://aihot.virxact.com/items/cmrkw3h0101xtbi5qs4nj3sxa",
+      "primary_url": "https://aihot.virxact.com/items/cmrkw3h0101xtbi5qs4nj3sxa",
+      "source": "Google Developers Blog（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "b799c5a72cc388faebde0c32105c4f35fe9da998",
+          "title": "Google 在 I/O Connect India 展示由 Tensor SoC 和 TPU 驱动的 Pixel 10 端侧 AI 未来",
+          "url": "https://aihot.virxact.com/items/cmrkw3h0101xtbi5qs4nj3sxa",
+          "source": "Google Developers Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-14T16:51:42Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Google Developers Blog（RSS）"
+      ],
+      "items": [
+        {
+          "id": "b799c5a72cc388faebde0c32105c4f35fe9da998",
+          "title": "Google 在 I/O Connect India 展示由 Tensor SoC 和 TPU 驱动的 Pixel 10 端侧 AI 未来",
+          "url": "https://aihot.virxact.com/items/cmrkw3h0101xtbi5qs4nj3sxa",
+          "source": "Google Developers Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-14T16:51:42Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8052,
+      "importance": 0.8052,
+      "importance_score": 0.8052,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.966,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-14T16:51:42Z",
+      "latest_at": "2026-07-14T16:51:42Z",
+      "primary_item": {
+        "id": "b799c5a72cc388faebde0c32105c4f35fe9da998",
+        "title": "Google 在 I/O Connect India 展示由 Tensor SoC 和 TPU 驱动的 Pixel 10 端侧 AI 未来",
+        "url": "https://aihot.virxact.com/items/cmrkw3h0101xtbi5qs4nj3sxa",
+        "source": "Google Developers Blog（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_7deb7ebb937a",
+      "title": "如何让 Claude 不再说\"honest takes\"和\"load-bearing seams\"",
+      "url": "https://aihot.virxact.com/items/cmrkw6m9501y5bi5qzfw2z9n5",
+      "primary_url": "https://aihot.virxact.com/items/cmrkw6m9501y5bi5qzfw2z9n5",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "dfef5ebb7aa3a12bd9dcb1c22e14e12f810a6d5b",
+          "title": "如何让 Claude 不再说\"honest takes\"和\"load-bearing seams\"",
+          "url": "https://aihot.virxact.com/items/cmrkw6m9501y5bi5qzfw2z9n5",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-14T16:39:15Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）"
+      ],
+      "items": [
+        {
+          "id": "dfef5ebb7aa3a12bd9dcb1c22e14e12f810a6d5b",
+          "title": "如何让 Claude 不再说\"honest takes\"和\"load-bearing seams\"",
+          "url": "https://aihot.virxact.com/items/cmrkw6m9501y5bi5qzfw2z9n5",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-14T16:39:15Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8035,
+      "importance": 0.8035,
+      "importance_score": 0.8035,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9574,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-14T16:39:15Z",
+      "latest_at": "2026-07-14T16:39:15Z",
+      "primary_item": {
+        "id": "dfef5ebb7aa3a12bd9dcb1c22e14e12f810a6d5b",
+        "title": "如何让 Claude 不再说\"honest takes\"和\"load-bearing seams\"",
+        "url": "https://aihot.virxact.com/items/cmrkw6m9501y5bi5qzfw2z9n5",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -376,14 +636,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8448,
-      "importance": 0.8448,
-      "importance_score": 0.8448,
+      "score": 0.8332,
+      "importance": 0.8332,
+      "importance_score": 0.8332,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8588,
+        "recency": 0.8011,
         "story_heat": 0.0
       },
       "category": "official",
@@ -400,66 +660,6 @@
         "url": "https://github.blog/changelog/2026-07-14-security-reviews-now-available-in-the-github-copilot-app",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_719805d60344",
-      "title": "Google AI 发布 Gemini 3.5 Live Translate，支持 70+ 语言近实时语音到语音翻译",
-      "url": "https://aihot.virxact.com/items/cmrkta2fv011vbi5qe7hdwh0s",
-      "primary_url": "https://aihot.virxact.com/items/cmrkta2fv011vbi5qe7hdwh0s",
-      "source": "X：Google AI for Developers (@googleaidevs)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "bb3b45233687e1a880f5c69c1ce73a769dc6d59d",
-          "title": "Google AI 发布 Gemini 3.5 Live Translate，支持 70+ 语言近实时语音到语音翻译",
-          "url": "https://aihot.virxact.com/items/cmrkta2fv011vbi5qe7hdwh0s",
-          "source": "X：Google AI for Developers (@googleaidevs)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-14T15:17:40Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Google AI for Developers (@googleaidevs)"
-      ],
-      "items": [
-        {
-          "id": "bb3b45233687e1a880f5c69c1ce73a769dc6d59d",
-          "title": "Google AI 发布 Gemini 3.5 Live Translate，支持 70+ 语言近实时语音到语音翻译",
-          "url": "https://aihot.virxact.com/items/cmrkta2fv011vbi5qe7hdwh0s",
-          "source": "X：Google AI for Developers (@googleaidevs)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-14T15:17:40Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8037,
-      "importance": 0.8037,
-      "importance_score": 0.8037,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9585,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-14T15:17:40Z",
-      "latest_at": "2026-07-14T15:17:40Z",
-      "primary_item": {
-        "id": "bb3b45233687e1a880f5c69c1ce73a769dc6d59d",
-        "title": "Google AI 发布 Gemini 3.5 Live Translate，支持 70+ 语言近实时语音到语音翻译",
-        "url": "https://aihot.virxact.com/items/cmrkta2fv011vbi5qe7hdwh0s",
-        "source": "X：Google AI for Developers (@googleaidevs)",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -497,14 +697,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8037,
-      "importance": 0.8037,
-      "importance_score": 0.8037,
+      "score": 0.7922,
+      "importance": 0.7922,
+      "importance_score": 0.7922,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9587,
+        "recency": 0.9009,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -519,6 +719,66 @@
         "title": "纽约州暂停所有新建大型数据中心项目",
         "url": "https://aihot.virxact.com/items/cmrktb1e1012vbi5qxknvxyxp",
         "source": "TechCrunch：AI（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_719805d60344",
+      "title": "Google AI 发布 Gemini 3.5 Live Translate，支持 70+ 语言近实时语音到语音翻译",
+      "url": "https://aihot.virxact.com/items/cmrkta2fv011vbi5qe7hdwh0s",
+      "primary_url": "https://aihot.virxact.com/items/cmrkta2fv011vbi5qe7hdwh0s",
+      "source": "X：Google AI for Developers (@googleaidevs)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "bb3b45233687e1a880f5c69c1ce73a769dc6d59d",
+          "title": "Google AI 发布 Gemini 3.5 Live Translate，支持 70+ 语言近实时语音到语音翻译",
+          "url": "https://aihot.virxact.com/items/cmrkta2fv011vbi5qe7hdwh0s",
+          "source": "X：Google AI for Developers (@googleaidevs)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-14T15:17:40Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Google AI for Developers (@googleaidevs)"
+      ],
+      "items": [
+        {
+          "id": "bb3b45233687e1a880f5c69c1ce73a769dc6d59d",
+          "title": "Google AI 发布 Gemini 3.5 Live Translate，支持 70+ 语言近实时语音到语音翻译",
+          "url": "https://aihot.virxact.com/items/cmrkta2fv011vbi5qe7hdwh0s",
+          "source": "X：Google AI for Developers (@googleaidevs)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-14T15:17:40Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7921,
+      "importance": 0.7921,
+      "importance_score": 0.7921,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9007,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-14T15:17:40Z",
+      "latest_at": "2026-07-14T15:17:40Z",
+      "primary_item": {
+        "id": "bb3b45233687e1a880f5c69c1ce73a769dc6d59d",
+        "title": "Google AI 发布 Gemini 3.5 Live Translate，支持 70+ 语言近实时语音到语音翻译",
+        "url": "https://aihot.virxact.com/items/cmrkta2fv011vbi5qe7hdwh0s",
+        "source": "X：Google AI for Developers (@googleaidevs)",
         "source_name": "AI HOT"
       }
     },
@@ -557,14 +817,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8028,
-      "importance": 0.8028,
-      "importance_score": 0.8028,
+      "score": 0.7912,
+      "importance": 0.7912,
+      "importance_score": 0.7912,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.954,
+        "recency": 0.8962,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -655,14 +915,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.802,
-      "importance": 0.802,
-      "importance_score": 0.802,
+      "score": 0.7905,
+      "importance": 0.7905,
+      "importance_score": 0.7905,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7001,
+        "recency": 0.6423,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -716,14 +976,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7855,
-      "importance": 0.7855,
-      "importance_score": 0.7855,
+      "score": 0.774,
+      "importance": 0.774,
+      "importance_score": 0.774,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8677,
+        "recency": 0.8099,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -795,14 +1055,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7661,
-      "importance": 0.7661,
-      "importance_score": 0.7661,
+      "score": 0.7545,
+      "importance": 0.7545,
+      "importance_score": 0.7545,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6453,
+        "recency": 0.5876,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -875,14 +1135,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.794,
-      "importance": 0.794,
-      "importance_score": 0.794,
+      "score": 0.7824,
+      "importance": 0.7824,
+      "importance_score": 0.7824,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7848,
+        "recency": 0.7271,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -936,21 +1196,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7582,
-      "importance": 0.7582,
-      "importance_score": 0.7582,
+      "score": 0.7467,
+      "importance": 0.7467,
+      "importance_score": 0.7467,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.3212,
+        "recency": 0.2634,
         "story_heat": 0.0
       },
       "category": "official",
       "reasons": [
         "official_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-14T00:00:00Z",
       "latest_at": "2026-07-14T00:00:00Z",
@@ -997,20 +1256,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7527,
-      "importance": 0.7527,
-      "importance_score": 0.7527,
+      "score": 0.7411,
+      "importance": 0.7411,
+      "importance_score": 0.7411,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7033,
+        "recency": 0.6456,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-14T09:10:16Z",
       "latest_at": "2026-07-14T09:10:16Z",
@@ -1057,20 +1315,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7518,
-      "importance": 0.7518,
-      "importance_score": 0.7518,
+      "score": 0.7402,
+      "importance": 0.7402,
+      "importance_score": 0.7402,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.699,
+        "recency": 0.6412,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-14T09:04:00Z",
       "latest_at": "2026-07-14T09:04:00Z",
@@ -1117,20 +1374,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7507,
-      "importance": 0.7507,
-      "importance_score": 0.7507,
+      "score": 0.7391,
+      "importance": 0.7391,
+      "importance_score": 0.7391,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6935,
+        "recency": 0.6357,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-14T08:56:07Z",
       "latest_at": "2026-07-14T08:56:07Z",
@@ -1177,14 +1433,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7492,
-      "importance": 0.7492,
-      "importance_score": 0.7492,
+      "score": 0.7377,
+      "importance": 0.7377,
+      "importance_score": 0.7377,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.3212,
+        "recency": 0.2634,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1200,65 +1456,6 @@
         "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_11f619400e19",
-      "title": "普林斯顿教授 Narayanan 在 ICML 2026 发表主旨演讲：AI 作为正常技术，人类应主动适应而非躺平",
-      "url": "https://aihot.virxact.com/items/cmrkbtf5p0090bizscsgmhctc",
-      "primary_url": "https://aihot.virxact.com/items/cmrkbtf5p0090bizscsgmhctc",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "fb9be84931991cccd6fabf393604a90d81412da3",
-          "title": "普林斯顿教授 Narayanan 在 ICML 2026 发表主旨演讲：AI 作为正常技术，人类应主动适应而非躺平",
-          "url": "https://aihot.virxact.com/items/cmrkbtf5p0090bizscsgmhctc",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-14T07:07:34Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）"
-      ],
-      "items": [
-        {
-          "id": "fb9be84931991cccd6fabf393604a90d81412da3",
-          "title": "普林斯顿教授 Narayanan 在 ICML 2026 发表主旨演讲：AI 作为正常技术，人类应主动适应而非躺平",
-          "url": "https://aihot.virxact.com/items/cmrkbtf5p0090bizscsgmhctc",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-14T07:07:34Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7356,
-      "importance": 0.7356,
-      "importance_score": 0.7356,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6181,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-14T07:07:34Z",
-      "latest_at": "2026-07-14T07:07:34Z",
-      "primary_item": {
-        "id": "fb9be84931991cccd6fabf393604a90d81412da3",
-        "title": "普林斯顿教授 Narayanan 在 ICML 2026 发表主旨演讲：AI 作为正常技术，人类应主动适应而非躺平",
-        "url": "https://aihot.virxact.com/items/cmrkbtf5p0090bizscsgmhctc",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -1315,14 +1512,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.777,
-      "importance": 0.777,
-      "importance_score": 0.777,
+      "score": 0.7655,
+      "importance": 0.7655,
+      "importance_score": 0.7655,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7001,
+        "recency": 0.6423,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1337,185 +1534,6 @@
         "id": "b02d16b568cb700530d2c0f98c8c5df6ddc88ead",
         "title": "高德发布通用世界模型工坊ABot-World Studio，交互式AI世界生成能力开放测试",
         "url": "https://www.aibase.com/news/29581",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_bd7c308bc2ef",
-      "title": "马斯克承认 Grok Build 上传用户代码，SpaceXAI 承诺彻底删除数据",
-      "url": "https://aihot.virxact.com/items/cmrka3jld050tbiw29heoy5nl",
-      "primary_url": "https://aihot.virxact.com/items/cmrka3jld050tbiw29heoy5nl",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "25e42cd6c30f234f017b6f3a80a371ab51988b45",
-          "title": "马斯克承认 Grok Build 上传用户代码，SpaceXAI 承诺彻底删除数据",
-          "url": "https://aihot.virxact.com/items/cmrka3jld050tbiw29heoy5nl",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-14T05:43:25Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "25e42cd6c30f234f017b6f3a80a371ab51988b45",
-          "title": "马斯克承认 Grok Build 上传用户代码，SpaceXAI 承诺彻底删除数据",
-          "url": "https://aihot.virxact.com/items/cmrka3jld050tbiw29heoy5nl",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-14T05:43:25Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7239,
-      "importance": 0.7239,
-      "importance_score": 0.7239,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5597,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-14T05:43:25Z",
-      "latest_at": "2026-07-14T05:43:25Z",
-      "primary_item": {
-        "id": "25e42cd6c30f234f017b6f3a80a371ab51988b45",
-        "title": "马斯克承认 Grok Build 上传用户代码，SpaceXAI 承诺彻底删除数据",
-        "url": "https://aihot.virxact.com/items/cmrka3jld050tbiw29heoy5nl",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_d9b4cfc04bcb",
-      "title": "公共预览版中的 GitHub 代码质量许可证估算 / GitHub Code Quality license estimate in public preview",
-      "url": "https://github.blog/changelog/2026-07-13-github-code-quality-license-estimate-in-public-preview",
-      "primary_url": "https://github.blog/changelog/2026-07-13-github-code-quality-license-estimate-in-public-preview",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "ee0d846e9791a176dcacab04511e47cc2ae76710",
-          "title": "公共预览版中的 GitHub 代码质量许可证估算 / GitHub Code Quality license estimate in public preview",
-          "url": "https://github.blog/changelog/2026-07-13-github-code-quality-license-estimate-in-public-preview",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-13T23:39:22Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "ee0d846e9791a176dcacab04511e47cc2ae76710",
-          "title": "公共预览版中的 GitHub 代码质量许可证估算 / GitHub Code Quality license estimate in public preview",
-          "url": "https://github.blog/changelog/2026-07-13-github-code-quality-license-estimate-in-public-preview",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-13T23:39:22Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7224,
-      "importance": 0.7224,
-      "importance_score": 0.7224,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.3069,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-13T23:39:22Z",
-      "latest_at": "2026-07-13T23:39:22Z",
-      "primary_item": {
-        "id": "ee0d846e9791a176dcacab04511e47cc2ae76710",
-        "title": "公共预览版中的 GitHub 代码质量许可证估算 / GitHub Code Quality license estimate in public preview",
-        "url": "https://github.blog/changelog/2026-07-13-github-code-quality-license-estimate-in-public-preview",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_90b7f4c605c2",
-      "title": "LibTV Agent 打造工作流生态，重塑创作者生产力",
-      "url": "https://www.aibase.com/news/29588",
-      "primary_url": "https://www.aibase.com/news/29588",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "20b47ca922512701538e04e726795bee5e9813d9",
-          "title": "LibTV Agent 打造工作流生态，重塑创作者生产力",
-          "url": "https://www.aibase.com/news/29588",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-14T11:07:39.261646Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "20b47ca922512701538e04e726795bee5e9813d9",
-          "title": "LibTV Agent 打造工作流生态，重塑创作者生产力",
-          "url": "https://www.aibase.com/news/29588",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-14T11:07:39.261646Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.769,
-      "importance": 0.769,
-      "importance_score": 0.769,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7848,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-14T11:07:39.261646Z",
-      "latest_at": "2026-07-14T11:07:39.261646Z",
-      "primary_item": {
-        "id": "20b47ca922512701538e04e726795bee5e9813d9",
-        "title": "LibTV Agent 打造工作流生态，重塑创作者生产力",
-        "url": "https://www.aibase.com/news/29588",
         "source": "AIbase",
         "source_name": "AIbase"
       }
