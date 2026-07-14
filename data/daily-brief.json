@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-07-14T04:05:10.913843Z",
+  "generated_at": "2026-07-14T06:34:46.686980Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260714-1405-400a-a0fa-f00fd6b5e3dc&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260714-1405-400a-a0fa-f00fd6b5e3dc&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260714-1635-141b-976f-8a3684aa4dd4&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260714-1635-141b-976f-8a3684aa4dd4&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "079500cb3c4d8338904bb8fa379fa757d8485eee",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260714-1635-141b-976f-8a3684aa4dd4&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "6b7c1765522fbd388f079c00e52d1056c388a50b",
           "title": "点击这里进入 / Click here to enter",
@@ -111,12 +120,21 @@
           "published_at": null
         }
       ],
-      "source_count": 11,
+      "source_count": 12,
       "source_names": [
         "Page Fallback"
       ],
       "items": [
         {
+          "id": "079500cb3c4d8338904bb8fa379fa757d8485eee",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260714-1635-141b-976f-8a3684aa4dd4&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "6b7c1765522fbd388f079c00e52d1056c388a50b",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260714-1405-400a-a0fa-f00fd6b5e3dc&fp=-3",
@@ -216,8 +234,8 @@
           "published_at": null
         }
       ],
-      "item_count": 11,
-      "duplicate_count": 11,
+      "item_count": 12,
+      "duplicate_count": 12,
       "score": 0.912,
       "importance": 0.912,
       "importance_score": 0.912,
@@ -235,11 +253,11 @@
         "high_importance"
       ],
       "earliest_at": "2026-07-13T06:55:08.364511Z",
-      "latest_at": "2026-07-14T04:05:10.913843Z",
+      "latest_at": "2026-07-14T06:34:46.686980Z",
       "primary_item": {
-        "id": "6b7c1765522fbd388f079c00e52d1056c388a50b",
+        "id": "079500cb3c4d8338904bb8fa379fa757d8485eee",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260714-1405-400a-a0fa-f00fd6b5e3dc&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260714-1635-141b-976f-8a3684aa4dd4&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
       }
@@ -298,14 +316,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.837,
-      "importance": 0.837,
-      "importance_score": 0.837,
+      "score": 0.8162,
+      "importance": 0.8162,
+      "importance_score": 0.8162,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.8961,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -359,14 +377,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8241,
-      "importance": 0.8241,
-      "importance_score": 0.8241,
+      "score": 0.8033,
+      "importance": 0.8033,
+      "importance_score": 0.8033,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8154,
+        "recency": 0.7115,
         "story_heat": 0.0
       },
       "category": "official",
@@ -383,6 +401,66 @@
         "url": "https://github.blog/changelog/2026-07-13-github-code-quality-license-estimate-in-public-preview",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_58a7c5d076cd",
+      "title": "​OpenAI反击马斯克窃密诉讼：要求xAI承担百万美元法律费，称其\"先起诉后找证据\"",
+      "url": "https://www.aibase.com/news/29573",
+      "primary_url": "https://www.aibase.com/news/29573",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "45a7699453aa225b6cca9b224b97c82380324b5c",
+          "title": "​OpenAI反击马斯克窃密诉讼：要求xAI承担百万美元法律费，称其\"先起诉后找证据\"",
+          "url": "https://www.aibase.com/news/29573",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-14T06:34:46.686980Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "45a7699453aa225b6cca9b224b97c82380324b5c",
+          "title": "​OpenAI反击马斯克窃密诉讼：要求xAI承担百万美元法律费，称其\"先起诉后找证据\"",
+          "url": "https://www.aibase.com/news/29573",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-14T06:34:46.686980Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-14T06:34:46.686980Z",
+      "latest_at": "2026-07-14T06:34:46.686980Z",
+      "primary_item": {
+        "id": "45a7699453aa225b6cca9b224b97c82380324b5c",
+        "title": "​OpenAI反击马斯克窃密诉讼：要求xAI承担百万美元法律费，称其\"先起诉后找证据\"",
+        "url": "https://www.aibase.com/news/29573",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -420,14 +498,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7986,
-      "importance": 0.7986,
-      "importance_score": 0.7986,
+      "score": 0.7779,
+      "importance": 0.7779,
+      "importance_score": 0.7779,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9332,
+        "recency": 0.8293,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -480,14 +558,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7833,
-      "importance": 0.7833,
-      "importance_score": 0.7833,
+      "score": 0.7625,
+      "importance": 0.7625,
+      "importance_score": 0.7625,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8565,
+        "recency": 0.7526,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -503,66 +581,6 @@
         "url": "https://aihot.virxact.com/items/cmrjy99kt01nvbiw22bwjsvnv",
         "source": "X：商汤 SenseTime (@SenseTime_AI)",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_dd3ee811834c",
-      "title": "200 余名顶尖专家含 16 位诺奖得主联合呼吁：必须引导AI朝着有利于人类的方向发展",
-      "url": "https://www.aibase.com/news/29569",
-      "primary_url": "https://www.aibase.com/news/29569",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "1c091a9830f5dd847b0fbc5b459bd189d6d022c0",
-          "title": "200 余名顶尖专家含 16 位诺奖得主联合呼吁：必须引导AI朝着有利于人类的方向发展",
-          "url": "https://www.aibase.com/news/29569",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-14T04:05:10.913843Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "1c091a9830f5dd847b0fbc5b459bd189d6d022c0",
-          "title": "200 余名顶尖专家含 16 位诺奖得主联合呼吁：必须引导AI朝着有利于人类的方向发展",
-          "url": "https://www.aibase.com/news/29569",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-14T04:05:10.913843Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-14T04:05:10.913843Z",
-      "latest_at": "2026-07-14T04:05:10.913843Z",
-      "primary_item": {
-        "id": "1c091a9830f5dd847b0fbc5b459bd189d6d022c0",
-        "title": "200 余名顶尖专家含 16 位诺奖得主联合呼吁：必须引导AI朝着有利于人类的方向发展",
-        "url": "https://www.aibase.com/news/29569",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     },
     {
@@ -600,14 +618,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7779,
-      "importance": 0.7779,
-      "importance_score": 0.7779,
+      "score": 0.7572,
+      "importance": 0.7572,
+      "importance_score": 0.7572,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8297,
+        "recency": 0.7258,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -623,6 +641,66 @@
         "url": "https://aihot.virxact.com/items/cmrjw1gyj011bbiw2epuuumva",
         "source": "TechCrunch：AI（RSS）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_122162966416",
+      "title": "马斯克“亲手”清空 Grok Build 用户数据，Agentic Coding 信任危机化解",
+      "url": "https://www.aibase.com/news/29574",
+      "primary_url": "https://www.aibase.com/news/29574",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "37bf4e924fac3d43e9fc9cb39c3be76163acf010",
+          "title": "马斯克“亲手”清空 Grok Build 用户数据，Agentic Coding 信任危机化解",
+          "url": "https://www.aibase.com/news/29574",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-14T06:34:46.686980Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "37bf4e924fac3d43e9fc9cb39c3be76163acf010",
+          "title": "马斯克“亲手”清空 Grok Build 用户数据，Agentic Coding 信任危机化解",
+          "url": "https://www.aibase.com/news/29574",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-14T06:34:46.686980Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-14T06:34:46.686980Z",
+      "latest_at": "2026-07-14T06:34:46.686980Z",
+      "primary_item": {
+        "id": "37bf4e924fac3d43e9fc9cb39c3be76163acf010",
+        "title": "马斯克“亲手”清空 Grok Build 用户数据，Agentic Coding 信任危机化解",
+        "url": "https://www.aibase.com/news/29574",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -660,20 +738,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.76,
-      "importance": 0.76,
-      "importance_score": 0.76,
+      "score": 0.7392,
+      "importance": 0.7392,
+      "importance_score": 0.7392,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7398,
+        "recency": 0.6359,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-13T21:50:30Z",
       "latest_at": "2026-07-13T21:50:30Z",
@@ -683,66 +760,6 @@
         "url": "https://aihot.virxact.com/items/cmrjrg5aj0202bis4f9pzo8d3",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_391b4b26f79e",
-      "title": "AI主权新突破：德国研究联盟发布开源大模型Soofi S",
-      "url": "https://www.aibase.com/news/29563",
-      "primary_url": "https://www.aibase.com/news/29563",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "15ce8dbe8436f82066d0136835b15780dcf60f3c",
-          "title": "AI主权新突破：德国研究联盟发布开源大模型Soofi S",
-          "url": "https://www.aibase.com/news/29563",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-14T04:05:10.913843Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "15ce8dbe8436f82066d0136835b15780dcf60f3c",
-          "title": "AI主权新突破：德国研究联盟发布开源大模型Soofi S",
-          "url": "https://www.aibase.com/news/29563",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-14T04:05:10.913843Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-14T04:05:10.913843Z",
-      "latest_at": "2026-07-14T04:05:10.913843Z",
-      "primary_item": {
-        "id": "15ce8dbe8436f82066d0136835b15780dcf60f3c",
-        "title": "AI主权新突破：德国研究联盟发布开源大模型Soofi S",
-        "url": "https://www.aibase.com/news/29563",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     },
     {
@@ -780,21 +797,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.76,
-      "importance": 0.76,
-      "importance_score": 0.76,
+      "score": 0.7392,
+      "importance": 0.7392,
+      "importance_score": 0.7392,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.495,
+        "recency": 0.3911,
         "story_heat": 0.0
       },
       "category": "official",
       "reasons": [
         "official_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-13T15:57:56Z",
       "latest_at": "2026-07-13T15:57:56Z",
@@ -807,62 +823,123 @@
       }
     },
     {
-      "story_id": "story_63b1d6ee8c3f",
-      "title": "OpenAI 面向普通用户发布提示词指南：从结果出发，少写步骤",
-      "url": "https://aihot.virxact.com/items/cmrjj6scy03ghbi03olyygged",
-      "primary_url": "https://aihot.virxact.com/items/cmrjj6scy03ghbi03olyygged",
-      "source": "The Decoder：AI News（RSS）",
-      "source_name": "AI HOT",
+      "story_id": "story_dd3ee811834c",
+      "title": "200 余名顶尖专家含 16 位诺奖得主联合呼吁：必须引导AI朝着有利于人类的方向发展",
+      "url": "https://www.aibase.com/news/29569",
+      "primary_url": "https://www.aibase.com/news/29569",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "51f63f726a8a84b6104b299cfbcf75779742d0dc",
-          "title": "OpenAI 面向普通用户发布提示词指南：从结果出发，少写步骤",
-          "url": "https://aihot.virxact.com/items/cmrjj6scy03ghbi03olyygged",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-13T17:47:39Z"
+          "id": "1c091a9830f5dd847b0fbc5b459bd189d6d022c0",
+          "title": "200 余名顶尖专家含 16 位诺奖得主联合呼吁：必须引导AI朝着有利于人类的方向发展",
+          "url": "https://www.aibase.com/news/29569",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-14T04:05:10.913843Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "The Decoder：AI News（RSS）"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "51f63f726a8a84b6104b299cfbcf75779742d0dc",
-          "title": "OpenAI 面向普通用户发布提示词指南：从结果出发，少写步骤",
-          "url": "https://aihot.virxact.com/items/cmrjj6scy03ghbi03olyygged",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-13T17:47:39Z"
+          "id": "1c091a9830f5dd847b0fbc5b459bd189d6d022c0",
+          "title": "200 余名顶尖专家含 16 位诺奖得主联合呼吁：必须引导AI朝着有利于人类的方向发展",
+          "url": "https://www.aibase.com/news/29569",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-14T04:05:10.913843Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7262,
-      "importance": 0.7262,
-      "importance_score": 0.7262,
+      "score": 0.7912,
+      "importance": 0.7912,
+      "importance_score": 0.7912,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.5712,
+        "recency": 0.8961,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-07-13T17:47:39Z",
-      "latest_at": "2026-07-13T17:47:39Z",
+      "earliest_at": "2026-07-14T04:05:10.913843Z",
+      "latest_at": "2026-07-14T04:05:10.913843Z",
       "primary_item": {
-        "id": "51f63f726a8a84b6104b299cfbcf75779742d0dc",
-        "title": "OpenAI 面向普通用户发布提示词指南：从结果出发，少写步骤",
-        "url": "https://aihot.virxact.com/items/cmrjj6scy03ghbi03olyygged",
-        "source": "The Decoder：AI News（RSS）",
-        "source_name": "AI HOT"
+        "id": "1c091a9830f5dd847b0fbc5b459bd189d6d022c0",
+        "title": "200 余名顶尖专家含 16 位诺奖得主联合呼吁：必须引导AI朝着有利于人类的方向发展",
+        "url": "https://www.aibase.com/news/29569",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_391b4b26f79e",
+      "title": "AI主权新突破：德国研究联盟发布开源大模型Soofi S",
+      "url": "https://www.aibase.com/news/29563",
+      "primary_url": "https://www.aibase.com/news/29563",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "15ce8dbe8436f82066d0136835b15780dcf60f3c",
+          "title": "AI主权新突破：德国研究联盟发布开源大模型Soofi S",
+          "url": "https://www.aibase.com/news/29563",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-14T04:05:10.913843Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "15ce8dbe8436f82066d0136835b15780dcf60f3c",
+          "title": "AI主权新突破：德国研究联盟发布开源大模型Soofi S",
+          "url": "https://www.aibase.com/news/29563",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-14T04:05:10.913843Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7912,
+      "importance": 0.7912,
+      "importance_score": 0.7912,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8961,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-14T04:05:10.913843Z",
+      "latest_at": "2026-07-14T04:05:10.913843Z",
+      "primary_item": {
+        "id": "15ce8dbe8436f82066d0136835b15780dcf60f3c",
+        "title": "AI主权新突破：德国研究联盟发布开源大模型Soofi S",
+        "url": "https://www.aibase.com/news/29563",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -900,14 +977,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
+      "score": 0.7912,
+      "importance": 0.7912,
+      "importance_score": 0.7912,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.8961,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -960,14 +1037,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
+      "score": 0.7912,
+      "importance": 0.7912,
+      "importance_score": 0.7912,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.8961,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1020,14 +1097,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
+      "score": 0.7912,
+      "importance": 0.7912,
+      "importance_score": 0.7912,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.8961,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1041,126 +1118,6 @@
         "id": "d55338b63416856fa44870e4012afff610ec441e",
         "title": "OpenAI员工集体声援CEO奥尔特曼：他乐于听取不同意见，内部批评文化被赞\"有人情味\"",
         "url": "https://www.aibase.com/news/29555",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_4813c9a92758",
-      "title": "OpenAI安全团队再失核心，近年已有 8 名安全负责人相继出走",
-      "url": "https://www.aibase.com/news/29556",
-      "primary_url": "https://www.aibase.com/news/29556",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "007c8866cb75d415c79beeb1c7dd3d4eede76792",
-          "title": "OpenAI安全团队再失核心，近年已有 8 名安全负责人相继出走",
-          "url": "https://www.aibase.com/news/29556",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-14T04:05:10.913843Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "007c8866cb75d415c79beeb1c7dd3d4eede76792",
-          "title": "OpenAI安全团队再失核心，近年已有 8 名安全负责人相继出走",
-          "url": "https://www.aibase.com/news/29556",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-14T04:05:10.913843Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-14T04:05:10.913843Z",
-      "latest_at": "2026-07-14T04:05:10.913843Z",
-      "primary_item": {
-        "id": "007c8866cb75d415c79beeb1c7dd3d4eede76792",
-        "title": "OpenAI安全团队再失核心，近年已有 8 名安全负责人相继出走",
-        "url": "https://www.aibase.com/news/29556",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_92b9eb82a95a",
-      "title": "PixVerse 完成 4.39 亿美元 C 轮扩展融资 估值飙升至 20 亿美元",
-      "url": "https://www.aibase.com/news/29561",
-      "primary_url": "https://www.aibase.com/news/29561",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "667a5080ec1d917bfc12de809a97bb9d704e9ab3",
-          "title": "PixVerse 完成 4.39 亿美元 C 轮扩展融资 估值飙升至 20 亿美元",
-          "url": "https://www.aibase.com/news/29561",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-14T04:05:10.913843Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "667a5080ec1d917bfc12de809a97bb9d704e9ab3",
-          "title": "PixVerse 完成 4.39 亿美元 C 轮扩展融资 估值飙升至 20 亿美元",
-          "url": "https://www.aibase.com/news/29561",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-14T04:05:10.913843Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-14T04:05:10.913843Z",
-      "latest_at": "2026-07-14T04:05:10.913843Z",
-      "primary_item": {
-        "id": "667a5080ec1d917bfc12de809a97bb9d704e9ab3",
-        "title": "PixVerse 完成 4.39 亿美元 C 轮扩展融资 估值飙升至 20 亿美元",
-        "url": "https://www.aibase.com/news/29561",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -1256,14 +1213,14 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5881,
-      "importance": 0.5881,
-      "importance_score": 0.5881,
+      "score": 0.5673,
+      "importance": 0.5673,
+      "importance_score": 0.5673,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9503,
+        "recency": 0.8464,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -1281,17 +1238,17 @@
       }
     },
     {
-      "story_id": "story_f0fb835f03f6",
-      "title": "QuestMobile六月AI原生App月活榜：豆包3. 8 亿断层第一，千问增速暴涨近 58 倍",
-      "url": "https://www.aibase.com/news/29572",
-      "primary_url": "https://www.aibase.com/news/29572",
+      "story_id": "story_4813c9a92758",
+      "title": "OpenAI安全团队再失核心，近年已有 8 名安全负责人相继出走",
+      "url": "https://www.aibase.com/news/29556",
+      "primary_url": "https://www.aibase.com/news/29556",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "e7a04a13bbcc7c363ae67cb285b4b8faf1de7a00",
-          "title": "QuestMobile六月AI原生App月活榜：豆包3. 8 亿断层第一，千问增速暴涨近 58 倍",
-          "url": "https://www.aibase.com/news/29572",
+          "id": "007c8866cb75d415c79beeb1c7dd3d4eede76792",
+          "title": "OpenAI安全团队再失核心，近年已有 8 名安全负责人相继出走",
+          "url": "https://www.aibase.com/news/29556",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1304,9 +1261,9 @@
       ],
       "items": [
         {
-          "id": "e7a04a13bbcc7c363ae67cb285b4b8faf1de7a00",
-          "title": "QuestMobile六月AI原生App月活榜：豆包3. 8 亿断层第一，千问增速暴涨近 58 倍",
-          "url": "https://www.aibase.com/news/29572",
+          "id": "007c8866cb75d415c79beeb1c7dd3d4eede76792",
+          "title": "OpenAI安全团队再失核心，近年已有 8 名安全负责人相继出走",
+          "url": "https://www.aibase.com/news/29556",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1315,14 +1272,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
+      "score": 0.7912,
+      "importance": 0.7912,
+      "importance_score": 0.7912,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.8961,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1333,38 +1290,38 @@
       "earliest_at": "2026-07-14T04:05:10.913843Z",
       "latest_at": "2026-07-14T04:05:10.913843Z",
       "primary_item": {
-        "id": "e7a04a13bbcc7c363ae67cb285b4b8faf1de7a00",
-        "title": "QuestMobile六月AI原生App月活榜：豆包3. 8 亿断层第一，千问增速暴涨近 58 倍",
-        "url": "https://www.aibase.com/news/29572",
+        "id": "007c8866cb75d415c79beeb1c7dd3d4eede76792",
+        "title": "OpenAI安全团队再失核心，近年已有 8 名安全负责人相继出走",
+        "url": "https://www.aibase.com/news/29556",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_c54ce4fa4078",
-      "title": "AI 组织变革，「焦虑感」or「必答题」？穆胜咨询娄珺对话腾讯研究院晓辉博士",
-      "url": "https://www.huxiu.com/article/4875060.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4875060.html?f=rss",
+      "story_id": "story_ec1812a0cfba",
+      "title": "与 ChatGPT 合作更高效，但为何也可能让人更没动力？《科学报告》研究揭示人机协作的双刃剑效应",
+      "url": "https://www.huxiu.com/article/4875091.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4875091.html?f=rss",
       "source": "Readhub · AI",
       "source_name": "TopHub",
       "sources": [
         {
-          "id": "ea71885df1fa0586146da8d9171b0dbb69d006cd",
-          "title": "AI 组织变革，「焦虑感」or「必答题」？穆胜咨询娄珺对话腾讯研究院晓辉博士",
-          "url": "https://www.huxiu.com/article/4875060.html?f=rss",
+          "id": "8711f42e742894576c9c88d45fb09ca51dd97dfd",
+          "title": "与 ChatGPT 合作更高效，但为何也可能让人更没动力？《科学报告》研究揭示人机协作的双刃剑效应",
+          "url": "https://www.huxiu.com/article/4875091.html?f=rss",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
         },
         {
-          "id": "cfd701f049fc53e8d88ab357724f1d432cb7b269",
-          "title": "AI组织变革，“焦虑感”or“必答题”？穆胜咨询娄珺对话腾讯研究院晓辉博士",
-          "url": "https://www.huxiu.com/article/4875060.html?f=rss",
+          "id": "0e999f7d74e55c5691f65d81c1adac8fbec400d1",
+          "title": "与ChatGPT合作更高效，但为何也可能让人更没动力？《科学报告》研究揭示人机协作的双刃剑效应",
+          "url": "https://www.huxiu.com/article/4875091.html?f=rss",
           "source": "虎嗅 (Huxiu)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-07-14T03:24:00Z"
+          "published_at": "2026-07-14T05:22:54Z"
         }
       ],
       "source_count": 2,
@@ -1374,22 +1331,22 @@
       ],
       "items": [
         {
-          "id": "ea71885df1fa0586146da8d9171b0dbb69d006cd",
-          "title": "AI 组织变革，「焦虑感」or「必答题」？穆胜咨询娄珺对话腾讯研究院晓辉博士",
-          "url": "https://www.huxiu.com/article/4875060.html?f=rss",
+          "id": "8711f42e742894576c9c88d45fb09ca51dd97dfd",
+          "title": "与 ChatGPT 合作更高效，但为何也可能让人更没动力？《科学报告》研究揭示人机协作的双刃剑效应",
+          "url": "https://www.huxiu.com/article/4875091.html?f=rss",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
         },
         {
-          "id": "cfd701f049fc53e8d88ab357724f1d432cb7b269",
-          "title": "AI组织变革，“焦虑感”or“必答题”？穆胜咨询娄珺对话腾讯研究院晓辉博士",
-          "url": "https://www.huxiu.com/article/4875060.html?f=rss",
+          "id": "0e999f7d74e55c5691f65d81c1adac8fbec400d1",
+          "title": "与ChatGPT合作更高效，但为何也可能让人更没动力？《科学报告》研究揭示人机协作的双刃剑效应",
+          "url": "https://www.huxiu.com/article/4875091.html?f=rss",
           "source": "虎嗅 (Huxiu)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-07-14T03:24:00Z"
+          "published_at": "2026-07-14T05:22:54Z"
         }
       ],
       "item_count": 2,
@@ -1408,92 +1365,169 @@
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-14T03:24:00Z",
-      "latest_at": "2026-07-14T04:05:10.913843Z",
+      "earliest_at": "2026-07-14T05:22:54Z",
+      "latest_at": "2026-07-14T06:34:46.686980Z",
       "primary_item": {
-        "id": "ea71885df1fa0586146da8d9171b0dbb69d006cd",
-        "title": "AI 组织变革，「焦虑感」or「必答题」？穆胜咨询娄珺对话腾讯研究院晓辉博士",
-        "url": "https://www.huxiu.com/article/4875060.html?f=rss",
+        "id": "8711f42e742894576c9c88d45fb09ca51dd97dfd",
+        "title": "与 ChatGPT 合作更高效，但为何也可能让人更没动力？《科学报告》研究揭示人机协作的双刃剑效应",
+        "url": "https://www.huxiu.com/article/4875091.html?f=rss",
         "source": "Readhub · AI",
         "source_name": "TopHub"
       }
     },
     {
-      "story_id": "story_d689f61fdef4",
-      "title": "与法学硕士评审团一起构建食品元数据 / Building Food Metadata with LLM Juries",
-      "url": "https://news.ycombinator.com/item?id=48901275",
-      "primary_url": "https://news.ycombinator.com/item?id=48901275",
-      "source": "hackernews",
-      "source_name": "NewsNow",
+      "story_id": "story_09fd7868dd6e",
+      "title": "软银的孙正义认为融合是人工智能未来的关键",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-14/softbank-s-masayoshi-son-sees-fusion-power-as-key-to-ai-s-future",
+      "primary_url": "https://www.bloomberg.com/news/articles/2026-07-14/softbank-s-masayoshi-son-sees-fusion-power-as-key-to-ai-s-future",
+      "source": "www.bloomberg.com",
+      "source_name": "Buzzing",
       "sources": [
         {
-          "id": "dcf026b125f254a24eecb7b08cda78520f75bb3d",
-          "title": "与法学硕士评审团一起构建食品元数据 / Building Food Metadata with LLM Juries",
-          "url": "https://news.ycombinator.com/item?id=48901275",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-14T04:05:55.826000Z"
+          "id": "156325d0220261d99ea896228228e5672672cf7e",
+          "title": "软银的孙正义认为融合是人工智能未来的关键",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-14/softbank-s-masayoshi-son-sees-fusion-power-as-key-to-ai-s-future",
+          "source": "www.bloomberg.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-14T06:03:25.681000Z"
         },
         {
-          "id": "9c66de03b68f8ff31d6e8b77861e0f456307b934",
-          "title": "与法学硕士评审团一起构建食品元数据 / Building Food Metadata with LLM Juries",
-          "url": "https://careersatdoordash.com/blog/building-food-metadata-with-llm-juries-context-optimization-multimodal-ai",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-14T01:41:49Z"
+          "id": "dda394c01800d27d38d12f44e1043319d6b0da61",
+          "title": "软银创始人孙正义认为聚变能是人工智能未来的关键",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-14/softbank-s-masayoshi-son-sees-fusion-power-as-key-to-ai-s-future",
+          "source": "www.bloomberg.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-14T03:25:35.160000Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
+        "www.bloomberg.com"
       ],
       "items": [
         {
-          "id": "dcf026b125f254a24eecb7b08cda78520f75bb3d",
-          "title": "与法学硕士评审团一起构建食品元数据 / Building Food Metadata with LLM Juries",
-          "url": "https://news.ycombinator.com/item?id=48901275",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-14T04:05:55.826000Z"
+          "id": "156325d0220261d99ea896228228e5672672cf7e",
+          "title": "软银的孙正义认为融合是人工智能未来的关键",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-14/softbank-s-masayoshi-son-sees-fusion-power-as-key-to-ai-s-future",
+          "source": "www.bloomberg.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-14T06:03:25.681000Z"
         },
         {
-          "id": "9c66de03b68f8ff31d6e8b77861e0f456307b934",
-          "title": "与法学硕士评审团一起构建食品元数据 / Building Food Metadata with LLM Juries",
-          "url": "https://careersatdoordash.com/blog/building-food-metadata-with-llm-juries-context-optimization-multimodal-ai",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-14T01:41:49Z"
+          "id": "dda394c01800d27d38d12f44e1043319d6b0da61",
+          "title": "软银创始人孙正义认为聚变能是人工智能未来的关键",
+          "url": "https://www.bloomberg.com/news/articles/2026-07-14/softbank-s-masayoshi-son-sees-fusion-power-as-key-to-ai-s-future",
+          "source": "www.bloomberg.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-14T03:25:35.160000Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.548,
-      "importance": 0.548,
-      "importance_score": 0.548,
+      "score": 0.5436,
+      "importance": 0.5436,
+      "importance_score": 0.5436,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9782,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-14T01:41:49Z",
-      "latest_at": "2026-07-14T04:05:55.826000Z",
+      "earliest_at": "2026-07-14T03:25:35.160000Z",
+      "latest_at": "2026-07-14T06:03:25.681000Z",
       "primary_item": {
-        "id": "dcf026b125f254a24eecb7b08cda78520f75bb3d",
-        "title": "与法学硕士评审团一起构建食品元数据 / Building Food Metadata with LLM Juries",
-        "url": "https://news.ycombinator.com/item?id=48901275",
-        "source": "hackernews",
-        "source_name": "NewsNow"
+        "id": "156325d0220261d99ea896228228e5672672cf7e",
+        "title": "软银的孙正义认为融合是人工智能未来的关键",
+        "url": "https://www.bloomberg.com/news/articles/2026-07-14/softbank-s-masayoshi-son-sees-fusion-power-as-key-to-ai-s-future",
+        "source": "www.bloomberg.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_1a89877d91ee",
+      "title": "Wix的首席执行官执掌着一家人工智能编程巨头。他表示，这项技术仍被“过分高估”了。",
+      "url": "https://www.businessinsider.com/wix-ceo-avishai-abrahami-ai-vibe-coding-enterprise-base44-2026-7",
+      "primary_url": "https://www.businessinsider.com/wix-ceo-avishai-abrahami-ai-vibe-coding-enterprise-base44-2026-7",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "625c6c8fc45e7aff463d3424b48ef4b94cd27005",
+          "title": "Wix的首席执行官执掌着一家人工智能编程巨头。他表示，这项技术仍被“过分高估”了。",
+          "url": "https://www.businessinsider.com/wix-ceo-avishai-abrahami-ai-vibe-coding-enterprise-base44-2026-7",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-14T05:31:40.988000Z"
+        },
+        {
+          "id": "3b96469b8ecda7caa9df4bc1c0465cc40c17797a",
+          "title": "Wix的首席执行官执掌着一家人工智能编程巨头。他表示，这项技术仍被“过分高估”了。 / Wix's CEO runs an AI coding giant. He says the tech still gets 'too much credit.'",
+          "url": "https://www.businessinsider.com/wix-ceo-avishai-abrahami-ai-vibe-coding-enterprise-base44-2026-7",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-14T04:51:20Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "625c6c8fc45e7aff463d3424b48ef4b94cd27005",
+          "title": "Wix的首席执行官执掌着一家人工智能编程巨头。他表示，这项技术仍被“过分高估”了。",
+          "url": "https://www.businessinsider.com/wix-ceo-avishai-abrahami-ai-vibe-coding-enterprise-base44-2026-7",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-14T05:31:40.988000Z"
+        },
+        {
+          "id": "3b96469b8ecda7caa9df4bc1c0465cc40c17797a",
+          "title": "Wix的首席执行官执掌着一家人工智能编程巨头。他表示，这项技术仍被“过分高估”了。 / Wix's CEO runs an AI coding giant. He says the tech still gets 'too much credit.'",
+          "url": "https://www.businessinsider.com/wix-ceo-avishai-abrahami-ai-vibe-coding-enterprise-base44-2026-7",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-14T04:51:20Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5392,
+      "importance": 0.5392,
+      "importance_score": 0.5392,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9562,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-14T04:51:20Z",
+      "latest_at": "2026-07-14T05:31:40.988000Z",
+      "primary_item": {
+        "id": "625c6c8fc45e7aff463d3424b48ef4b94cd27005",
+        "title": "Wix的首席执行官执掌着一家人工智能编程巨头。他表示，这项技术仍被“过分高估”了。",
+        "url": "https://www.businessinsider.com/wix-ceo-avishai-abrahami-ai-vibe-coding-enterprise-base44-2026-7",
+        "source": "www.businessinsider.com",
+        "source_name": "Buzzing"
       }
     }
   ]
