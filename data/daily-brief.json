@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-07-14T09:05:35.873974Z",
+  "generated_at": "2026-07-14T11:07:39.261646Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260714-1906-0816-b5ed-527d402592db&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260714-1906-0816-b5ed-527d402592db&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260714-2108-0815-b0e7-91ab495b7216&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260714-2108-0815-b0e7-91ab495b7216&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "4a3fa265a45503cb0f5ce6cf57a9cac5d9b90e22",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260714-2108-0815-b0e7-91ab495b7216&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "a0cd785224fae6ca0b6a4460b2183a42006972fe",
           "title": "点击这里进入 / Click here to enter",
@@ -105,15 +114,6 @@
           "id": "5597114c4df53310fb11a64237ab31d49d52cc7a",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260713-2301-5275-a271-04d607729034&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "9f6d776567585c9952e428fcb9a99ad17a9c7708",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260713-2029-43d3-848f-aaf285dd4a27&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -126,6 +126,15 @@
       ],
       "items": [
         {
+          "id": "4a3fa265a45503cb0f5ce6cf57a9cac5d9b90e22",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260714-2108-0815-b0e7-91ab495b7216&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "a0cd785224fae6ca0b6a4460b2183a42006972fe",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260714-1906-0816-b5ed-527d402592db&fp=-3",
@@ -219,15 +228,6 @@
           "id": "5597114c4df53310fb11a64237ab31d49d52cc7a",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260713-2301-5275-a271-04d607729034&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "9f6d776567585c9952e428fcb9a99ad17a9c7708",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260713-2029-43d3-848f-aaf285dd4a27&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -252,12 +252,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-13T10:29:20.228257Z",
-      "latest_at": "2026-07-14T09:05:35.873974Z",
+      "earliest_at": "2026-07-13T13:01:25.592543Z",
+      "latest_at": "2026-07-14T11:07:39.261646Z",
       "primary_item": {
-        "id": "a0cd785224fae6ca0b6a4460b2183a42006972fe",
+        "id": "4a3fa265a45503cb0f5ce6cf57a9cac5d9b90e22",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260714-1906-0816-b5ed-527d402592db&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260714-2108-0815-b0e7-91ab495b7216&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
       }
@@ -335,14 +335,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.862,
-      "importance": 0.862,
-      "importance_score": 0.862,
+      "score": 0.845,
+      "importance": 0.845,
+      "importance_score": 0.845,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9152,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -415,14 +415,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8261,
-      "importance": 0.8261,
-      "importance_score": 0.8261,
+      "score": 0.8091,
+      "importance": 0.8091,
+      "importance_score": 0.8091,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9453,
+        "recency": 0.8605,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -439,6 +439,448 @@
         "url": "https://aihot.virxact.com/items/cmrkedwpc013nbizssg3olzs7",
         "source": "IT之家（RSS）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_3329ba8670e1",
+      "title": "DeepSeek梁文锋身价飙升至 360 亿美元，成AI公司新首富",
+      "url": "https://www.aibase.com/news/29585",
+      "primary_url": "https://www.aibase.com/news/29585",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "ff51bf03aa54c2dccbcebcb0d0ff06ae82d630aa",
+          "title": "DeepSeek梁文锋身价飙升至 360 亿美元，成AI公司新首富",
+          "url": "https://www.aibase.com/news/29585",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-14T11:07:39.261646Z"
+        },
+        {
+          "id": "b6a3edf220780dcddd8ae827d2d6095554275f4d",
+          "title": "DeepSeek 梁文锋身价飙升至 360 亿美元，成 AI 公司新首富",
+          "url": "https://www.ithome.com/0/976/525.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-14T07:30:11Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "IT之家 (ITHome)"
+      ],
+      "items": [
+        {
+          "id": "ff51bf03aa54c2dccbcebcb0d0ff06ae82d630aa",
+          "title": "DeepSeek梁文锋身价飙升至 360 亿美元，成AI公司新首富",
+          "url": "https://www.aibase.com/news/29585",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-14T11:07:39.261646Z"
+        },
+        {
+          "id": "b6a3edf220780dcddd8ae827d2d6095554275f4d",
+          "title": "DeepSeek 梁文锋身价飙升至 360 亿美元，成 AI 公司新首富",
+          "url": "https://www.ithome.com/0/976/525.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-14T07:30:11Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.837,
+      "importance": 0.837,
+      "importance_score": 0.837,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-14T07:30:11Z",
+      "latest_at": "2026-07-14T11:07:39.261646Z",
+      "primary_item": {
+        "id": "ff51bf03aa54c2dccbcebcb0d0ff06ae82d630aa",
+        "title": "DeepSeek梁文锋身价飙升至 360 亿美元，成AI公司新首富",
+        "url": "https://www.aibase.com/news/29585",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_882963d0b79b",
+      "title": "Demis Hassabis：AGI 数年可至，影响达工业革命10倍",
+      "url": "https://aihot.virxact.com/items/cmrkgddme01mnbizsugjsv32k",
+      "primary_url": "https://aihot.virxact.com/items/cmrkgddme01mnbizsugjsv32k",
+      "source": "X：Demis Hassabis (@demishassabis)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "ba6b06bcf4953547cc235d9e4715fb8ec5583eed",
+          "title": "Demis Hassabis：AGI 数年可至，影响达工业革命10倍",
+          "url": "https://aihot.virxact.com/items/cmrkgddme01mnbizsugjsv32k",
+          "source": "X：Demis Hassabis (@demishassabis)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-14T09:10:16Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Demis Hassabis (@demishassabis)"
+      ],
+      "items": [
+        {
+          "id": "ba6b06bcf4953547cc235d9e4715fb8ec5583eed",
+          "title": "Demis Hassabis：AGI 数年可至，影响达工业革命10倍",
+          "url": "https://aihot.virxact.com/items/cmrkgddme01mnbizsugjsv32k",
+          "source": "X：Demis Hassabis (@demishassabis)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-14T09:10:16Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7957,
+      "importance": 0.7957,
+      "importance_score": 0.7957,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9185,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-14T09:10:16Z",
+      "latest_at": "2026-07-14T09:10:16Z",
+      "primary_item": {
+        "id": "ba6b06bcf4953547cc235d9e4715fb8ec5583eed",
+        "title": "Demis Hassabis：AGI 数年可至，影响达工业革命10倍",
+        "url": "https://aihot.virxact.com/items/cmrkgddme01mnbizsugjsv32k",
+        "source": "X：Demis Hassabis (@demishassabis)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_eaf47e3fc5e3",
+      "title": "实测LibTV Agent：100个AI视频工作流重组为Skill，实现创意自由",
+      "url": "https://aihot.virxact.com/items/cmrkfkw2x01hnbizsa1eat1ib",
+      "primary_url": "https://aihot.virxact.com/items/cmrkfkw2x01hnbizsa1eat1ib",
+      "source": "公众号：卡尔的AI沃茨",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "5f98eb0822cbbac39517868e32645e14564c3089",
+          "title": "实测LibTV Agent：100个AI视频工作流重组为Skill，实现创意自由",
+          "url": "https://aihot.virxact.com/items/cmrkfkw2x01hnbizsa1eat1ib",
+          "source": "公众号：卡尔的AI沃茨",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-14T09:04:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "公众号：卡尔的AI沃茨"
+      ],
+      "items": [
+        {
+          "id": "5f98eb0822cbbac39517868e32645e14564c3089",
+          "title": "实测LibTV Agent：100个AI视频工作流重组为Skill，实现创意自由",
+          "url": "https://aihot.virxact.com/items/cmrkfkw2x01hnbizsa1eat1ib",
+          "source": "公众号：卡尔的AI沃茨",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-14T09:04:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7948,
+      "importance": 0.7948,
+      "importance_score": 0.7948,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9141,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-14T09:04:00Z",
+      "latest_at": "2026-07-14T09:04:00Z",
+      "primary_item": {
+        "id": "5f98eb0822cbbac39517868e32645e14564c3089",
+        "title": "实测LibTV Agent：100个AI视频工作流重组为Skill，实现创意自由",
+        "url": "https://aihot.virxact.com/items/cmrkfkw2x01hnbizsa1eat1ib",
+        "source": "公众号：卡尔的AI沃茨",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_ac4fcad27501",
+      "title": "腾讯混元 Hy3 量化版发布：1bit 版本单卡可部署，4bit 版本接近满血性能",
+      "url": "https://aihot.virxact.com/items/cmrkf8gun01a4bizsthjytx6c",
+      "primary_url": "https://aihot.virxact.com/items/cmrkf8gun01a4bizsthjytx6c",
+      "source": "公众号：腾讯混元",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "35748fae43d69fff18719c1a8922c51899808818",
+          "title": "腾讯混元 Hy3 量化版发布：1bit 版本单卡可部署，4bit 版本接近满血性能",
+          "url": "https://aihot.virxact.com/items/cmrkf8gun01a4bizsthjytx6c",
+          "source": "公众号：腾讯混元",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-14T08:56:07Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "公众号：腾讯混元"
+      ],
+      "items": [
+        {
+          "id": "35748fae43d69fff18719c1a8922c51899808818",
+          "title": "腾讯混元 Hy3 量化版发布：1bit 版本单卡可部署，4bit 版本接近满血性能",
+          "url": "https://aihot.virxact.com/items/cmrkf8gun01a4bizsthjytx6c",
+          "source": "公众号：腾讯混元",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-14T08:56:07Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7937,
+      "importance": 0.7937,
+      "importance_score": 0.7937,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9087,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-14T08:56:07Z",
+      "latest_at": "2026-07-14T08:56:07Z",
+      "primary_item": {
+        "id": "35748fae43d69fff18719c1a8922c51899808818",
+        "title": "腾讯混元 Hy3 量化版发布：1bit 版本单卡可部署，4bit 版本接近满血性能",
+        "url": "https://aihot.virxact.com/items/cmrkf8gun01a4bizsthjytx6c",
+        "source": "公众号：腾讯混元",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_cca00ce68781",
+      "title": "数据科学团队如何使用 ChatGPT Work / How data science teams use ChatGPT Work",
+      "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
+      "primary_url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "fb33ef4dff15b9f96936d9e07015c01be9d3c058",
+          "title": "数据科学团队如何使用 ChatGPT Work / How data science teams use ChatGPT Work",
+          "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-14T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "fb33ef4dff15b9f96936d9e07015c01be9d3c058",
+          "title": "数据科学团队如何使用 ChatGPT Work / How data science teams use ChatGPT Work",
+          "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-14T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7923,
+      "importance": 0.7923,
+      "importance_score": 0.7923,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.5364,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-14T00:00:00Z",
+      "latest_at": "2026-07-14T00:00:00Z",
+      "primary_item": {
+        "id": "fb33ef4dff15b9f96936d9e07015c01be9d3c058",
+        "title": "数据科学团队如何使用 ChatGPT Work / How data science teams use ChatGPT Work",
+        "url": "https://openai.com/academy/codex-for-work/how-data-science-teams-use-codex",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_11f619400e19",
+      "title": "普林斯顿教授 Narayanan 在 ICML 2026 发表主旨演讲：AI 作为正常技术，人类应主动适应而非躺平",
+      "url": "https://aihot.virxact.com/items/cmrkbtf5p0090bizscsgmhctc",
+      "primary_url": "https://aihot.virxact.com/items/cmrkbtf5p0090bizscsgmhctc",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "fb9be84931991cccd6fabf393604a90d81412da3",
+          "title": "普林斯顿教授 Narayanan 在 ICML 2026 发表主旨演讲：AI 作为正常技术，人类应主动适应而非躺平",
+          "url": "https://aihot.virxact.com/items/cmrkbtf5p0090bizscsgmhctc",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-14T07:07:34Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）"
+      ],
+      "items": [
+        {
+          "id": "fb9be84931991cccd6fabf393604a90d81412da3",
+          "title": "普林斯顿教授 Narayanan 在 ICML 2026 发表主旨演讲：AI 作为正常技术，人类应主动适应而非躺平",
+          "url": "https://aihot.virxact.com/items/cmrkbtf5p0090bizscsgmhctc",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-14T07:07:34Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7787,
+      "importance": 0.7787,
+      "importance_score": 0.7787,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8333,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-14T07:07:34Z",
+      "latest_at": "2026-07-14T07:07:34Z",
+      "primary_item": {
+        "id": "fb9be84931991cccd6fabf393604a90d81412da3",
+        "title": "普林斯顿教授 Narayanan 在 ICML 2026 发表主旨演讲：AI 作为正常技术，人类应主动适应而非躺平",
+        "url": "https://aihot.virxact.com/items/cmrkbtf5p0090bizscsgmhctc",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_d9b4cfc04bcb",
+      "title": "公共预览版中的 GitHub 代码质量许可证估算 / GitHub Code Quality license estimate in public preview",
+      "url": "https://github.blog/changelog/2026-07-13-github-code-quality-license-estimate-in-public-preview",
+      "primary_url": "https://github.blog/changelog/2026-07-13-github-code-quality-license-estimate-in-public-preview",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "ee0d846e9791a176dcacab04511e47cc2ae76710",
+          "title": "公共预览版中的 GitHub 代码质量许可证估算 / GitHub Code Quality license estimate in public preview",
+          "url": "https://github.blog/changelog/2026-07-13-github-code-quality-license-estimate-in-public-preview",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-13T23:39:22Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "ee0d846e9791a176dcacab04511e47cc2ae76710",
+          "title": "公共预览版中的 GitHub 代码质量许可证估算 / GitHub Code Quality license estimate in public preview",
+          "url": "https://github.blog/changelog/2026-07-13-github-code-quality-license-estimate-in-public-preview",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-13T23:39:22Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7654,
+      "importance": 0.7654,
+      "importance_score": 0.7654,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.522,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-13T23:39:22Z",
+      "latest_at": "2026-07-13T23:39:22Z",
+      "primary_item": {
+        "id": "ee0d846e9791a176dcacab04511e47cc2ae76710",
+        "title": "公共预览版中的 GitHub 代码质量许可证估算 / GitHub Code Quality license estimate in public preview",
+        "url": "https://github.blog/changelog/2026-07-13-github-code-quality-license-estimate-in-public-preview",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -495,14 +937,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.837,
-      "importance": 0.837,
-      "importance_score": 0.837,
+      "score": 0.82,
+      "importance": 0.82,
+      "importance_score": 0.82,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9152,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -519,127 +961,6 @@
         "url": "https://www.aibase.com/news/29581",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_11f619400e19",
-      "title": "普林斯顿教授 Narayanan 在 ICML 2026 发表主旨演讲：AI 作为正常技术，人类应主动适应而非躺平",
-      "url": "https://aihot.virxact.com/items/cmrkbtf5p0090bizscsgmhctc",
-      "primary_url": "https://aihot.virxact.com/items/cmrkbtf5p0090bizscsgmhctc",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "fb9be84931991cccd6fabf393604a90d81412da3",
-          "title": "普林斯顿教授 Narayanan 在 ICML 2026 发表主旨演讲：AI 作为正常技术，人类应主动适应而非躺平",
-          "url": "https://aihot.virxact.com/items/cmrkbtf5p0090bizscsgmhctc",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-14T07:07:34Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）"
-      ],
-      "items": [
-        {
-          "id": "fb9be84931991cccd6fabf393604a90d81412da3",
-          "title": "普林斯顿教授 Narayanan 在 ICML 2026 发表主旨演讲：AI 作为正常技术，人类应主动适应而非躺平",
-          "url": "https://aihot.virxact.com/items/cmrkbtf5p0090bizscsgmhctc",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-14T07:07:34Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7956,
-      "importance": 0.7956,
-      "importance_score": 0.7956,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.918,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-14T07:07:34Z",
-      "latest_at": "2026-07-14T07:07:34Z",
-      "primary_item": {
-        "id": "fb9be84931991cccd6fabf393604a90d81412da3",
-        "title": "普林斯顿教授 Narayanan 在 ICML 2026 发表主旨演讲：AI 作为正常技术，人类应主动适应而非躺平",
-        "url": "https://aihot.virxact.com/items/cmrkbtf5p0090bizscsgmhctc",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_d9b4cfc04bcb",
-      "title": "公共预览版中的 GitHub 代码质量许可证估算 / GitHub Code Quality license estimate in public preview",
-      "url": "https://github.blog/changelog/2026-07-13-github-code-quality-license-estimate-in-public-preview",
-      "primary_url": "https://github.blog/changelog/2026-07-13-github-code-quality-license-estimate-in-public-preview",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "ee0d846e9791a176dcacab04511e47cc2ae76710",
-          "title": "公共预览版中的 GitHub 代码质量许可证估算 / GitHub Code Quality license estimate in public preview",
-          "url": "https://github.blog/changelog/2026-07-13-github-code-quality-license-estimate-in-public-preview",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-13T23:39:22Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "ee0d846e9791a176dcacab04511e47cc2ae76710",
-          "title": "公共预览版中的 GitHub 代码质量许可证估算 / GitHub Code Quality license estimate in public preview",
-          "url": "https://github.blog/changelog/2026-07-13-github-code-quality-license-estimate-in-public-preview",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-13T23:39:22Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7824,
-      "importance": 0.7824,
-      "importance_score": 0.7824,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.6068,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-13T23:39:22Z",
-      "latest_at": "2026-07-13T23:39:22Z",
-      "primary_item": {
-        "id": "ee0d846e9791a176dcacab04511e47cc2ae76710",
-        "title": "公共预览版中的 GitHub 代码质量许可证估算 / GitHub Code Quality license estimate in public preview",
-        "url": "https://github.blog/changelog/2026-07-13-github-code-quality-license-estimate-in-public-preview",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -677,20 +998,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7569,
-      "importance": 0.7569,
-      "importance_score": 0.7569,
+      "score": 0.74,
+      "importance": 0.74,
+      "importance_score": 0.74,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7246,
+        "recency": 0.6398,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-14T02:29:00Z",
       "latest_at": "2026-07-14T02:29:00Z",
@@ -737,14 +1057,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7839,
-      "importance": 0.7839,
-      "importance_score": 0.7839,
+      "score": 0.767,
+      "importance": 0.767,
+      "importance_score": 0.767,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8596,
+        "recency": 0.7748,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -760,66 +1080,6 @@
         "url": "https://aihot.virxact.com/items/cmrka3jld050tbiw29heoy5nl",
         "source": "IT之家（RSS）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_97f8c036f0d4",
-      "title": "69%美国受访者支持强制AI巨头转让50%股权以平抑失业冲击",
-      "url": "https://www.aibase.com/news/29575",
-      "primary_url": "https://www.aibase.com/news/29575",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "1b7f1704a381146479c107ca712e28ef9548c4d4",
-          "title": "69%美国受访者支持强制AI巨头转让50%股权以平抑失业冲击",
-          "url": "https://www.aibase.com/news/29575",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-14T09:05:35.873974Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "1b7f1704a381146479c107ca712e28ef9548c4d4",
-          "title": "69%美国受访者支持强制AI巨头转让50%股权以平抑失业冲击",
-          "url": "https://www.aibase.com/news/29575",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-14T09:05:35.873974Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-14T09:05:35.873974Z",
-      "latest_at": "2026-07-14T09:05:35.873974Z",
-      "primary_item": {
-        "id": "1b7f1704a381146479c107ca712e28ef9548c4d4",
-        "title": "69%美国受访者支持强制AI巨头转让50%股权以平抑失业冲击",
-        "url": "https://www.aibase.com/news/29575",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     },
     {
@@ -857,14 +1117,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7416,
-      "importance": 0.7416,
-      "importance_score": 0.7416,
+      "score": 0.7246,
+      "importance": 0.7246,
+      "importance_score": 0.7246,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6479,
+        "recency": 0.5631,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -882,62 +1142,243 @@
       }
     },
     {
-      "story_id": "story_5469850d4a5d",
-      "title": "视频生成创企 PixVerse 完成 4.39 亿美元 C 轮扩展融资，估值超 20 亿美元",
-      "url": "https://aihot.virxact.com/items/cmrjw1gyj011bbiw2epuuumva",
-      "primary_url": "https://aihot.virxact.com/items/cmrjw1gyj011bbiw2epuuumva",
-      "source": "TechCrunch：AI（RSS）",
-      "source_name": "AI HOT",
+      "story_id": "story_90b7f4c605c2",
+      "title": "LibTV Agent 打造工作流生态，重塑创作者生产力",
+      "url": "https://www.aibase.com/news/29588",
+      "primary_url": "https://www.aibase.com/news/29588",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "a7a2ac53fa5fd6ceb0bb949c65986f42e97b069b",
-          "title": "视频生成创企 PixVerse 完成 4.39 亿美元 C 轮扩展融资，估值超 20 亿美元",
-          "url": "https://aihot.virxact.com/items/cmrjw1gyj011bbiw2epuuumva",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-14T00:00:00Z"
+          "id": "20b47ca922512701538e04e726795bee5e9813d9",
+          "title": "LibTV Agent 打造工作流生态，重塑创作者生产力",
+          "url": "https://www.aibase.com/news/29588",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-14T11:07:39.261646Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "TechCrunch：AI（RSS）"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "a7a2ac53fa5fd6ceb0bb949c65986f42e97b069b",
-          "title": "视频生成创企 PixVerse 完成 4.39 亿美元 C 轮扩展融资，估值超 20 亿美元",
-          "url": "https://aihot.virxact.com/items/cmrjw1gyj011bbiw2epuuumva",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-14T00:00:00Z"
+          "id": "20b47ca922512701538e04e726795bee5e9813d9",
+          "title": "LibTV Agent 打造工作流生态，重塑创作者生产力",
+          "url": "https://www.aibase.com/news/29588",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-14T11:07:39.261646Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7362,
-      "importance": 0.7362,
-      "importance_score": 0.7362,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6211,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-07-14T00:00:00Z",
-      "latest_at": "2026-07-14T00:00:00Z",
+      "earliest_at": "2026-07-14T11:07:39.261646Z",
+      "latest_at": "2026-07-14T11:07:39.261646Z",
       "primary_item": {
-        "id": "a7a2ac53fa5fd6ceb0bb949c65986f42e97b069b",
-        "title": "视频生成创企 PixVerse 完成 4.39 亿美元 C 轮扩展融资，估值超 20 亿美元",
-        "url": "https://aihot.virxact.com/items/cmrjw1gyj011bbiw2epuuumva",
-        "source": "TechCrunch：AI（RSS）",
-        "source_name": "AI HOT"
+        "id": "20b47ca922512701538e04e726795bee5e9813d9",
+        "title": "LibTV Agent 打造工作流生态，重塑创作者生产力",
+        "url": "https://www.aibase.com/news/29588",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_1d0786acaba6",
+      "title": "软银携手Sierra在日本推出AI客服服务，客户满意度从74%飙升至93%",
+      "url": "https://www.aibase.com/news/29587",
+      "primary_url": "https://www.aibase.com/news/29587",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "e0d2487def9c2e371721f5e5a9b0b489a53a6712",
+          "title": "软银携手Sierra在日本推出AI客服服务，客户满意度从74%飙升至93%",
+          "url": "https://www.aibase.com/news/29587",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-14T11:07:39.261646Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "e0d2487def9c2e371721f5e5a9b0b489a53a6712",
+          "title": "软银携手Sierra在日本推出AI客服服务，客户满意度从74%飙升至93%",
+          "url": "https://www.aibase.com/news/29587",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-14T11:07:39.261646Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-14T11:07:39.261646Z",
+      "latest_at": "2026-07-14T11:07:39.261646Z",
+      "primary_item": {
+        "id": "e0d2487def9c2e371721f5e5a9b0b489a53a6712",
+        "title": "软银携手Sierra在日本推出AI客服服务，客户满意度从74%飙升至93%",
+        "url": "https://www.aibase.com/news/29587",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_f6b0ee53ac0d",
+      "title": "高德发布通用世界模型工坊ABot-World Studio 支持实时交互的AI数字世界",
+      "url": "https://www.aibase.com/news/29586",
+      "primary_url": "https://www.aibase.com/news/29586",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "448aeb34cb3d803fa49881622a9c8c8cc8e3db76",
+          "title": "高德发布通用世界模型工坊ABot-World Studio 支持实时交互的AI数字世界",
+          "url": "https://www.aibase.com/news/29586",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-14T11:07:39.261646Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "448aeb34cb3d803fa49881622a9c8c8cc8e3db76",
+          "title": "高德发布通用世界模型工坊ABot-World Studio 支持实时交互的AI数字世界",
+          "url": "https://www.aibase.com/news/29586",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-14T11:07:39.261646Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-14T11:07:39.261646Z",
+      "latest_at": "2026-07-14T11:07:39.261646Z",
+      "primary_item": {
+        "id": "448aeb34cb3d803fa49881622a9c8c8cc8e3db76",
+        "title": "高德发布通用世界模型工坊ABot-World Studio 支持实时交互的AI数字世界",
+        "url": "https://www.aibase.com/news/29586",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_97f8c036f0d4",
+      "title": "69%美国受访者支持强制AI巨头转让50%股权以平抑失业冲击",
+      "url": "https://www.aibase.com/news/29575",
+      "primary_url": "https://www.aibase.com/news/29575",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "1b7f1704a381146479c107ca712e28ef9548c4d4",
+          "title": "69%美国受访者支持强制AI巨头转让50%股权以平抑失业冲击",
+          "url": "https://www.aibase.com/news/29575",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-14T09:05:35.873974Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "1b7f1704a381146479c107ca712e28ef9548c4d4",
+          "title": "69%美国受访者支持强制AI巨头转让50%股权以平抑失业冲击",
+          "url": "https://www.aibase.com/news/29575",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-14T09:05:35.873974Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.795,
+      "importance": 0.795,
+      "importance_score": 0.795,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9152,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-14T09:05:35.873974Z",
+      "latest_at": "2026-07-14T09:05:35.873974Z",
+      "primary_item": {
+        "id": "1b7f1704a381146479c107ca712e28ef9548c4d4",
+        "title": "69%美国受访者支持强制AI巨头转让50%股权以平抑失业冲击",
+        "url": "https://www.aibase.com/news/29575",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -975,14 +1416,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
+      "score": 0.795,
+      "importance": 0.795,
+      "importance_score": 0.795,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9152,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1035,14 +1476,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
+      "score": 0.795,
+      "importance": 0.795,
+      "importance_score": 0.795,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9152,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1058,536 +1499,6 @@
         "url": "https://www.aibase.com/news/29576",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_6a9b41ee998f",
-      "title": "小米具身智能机器人“实习”新工站:双侧螺母上件成功率达98%",
-      "url": "https://www.aibase.com/news/29577",
-      "primary_url": "https://www.aibase.com/news/29577",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "c5b846ba13312c21b2b0f86705bbb3ec5256aa60",
-          "title": "小米具身智能机器人“实习”新工站:双侧螺母上件成功率达98%",
-          "url": "https://www.aibase.com/news/29577",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-14T09:05:35.873974Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "c5b846ba13312c21b2b0f86705bbb3ec5256aa60",
-          "title": "小米具身智能机器人“实习”新工站:双侧螺母上件成功率达98%",
-          "url": "https://www.aibase.com/news/29577",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-14T09:05:35.873974Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-14T09:05:35.873974Z",
-      "latest_at": "2026-07-14T09:05:35.873974Z",
-      "primary_item": {
-        "id": "c5b846ba13312c21b2b0f86705bbb3ec5256aa60",
-        "title": "小米具身智能机器人“实习”新工站:双侧螺母上件成功率达98%",
-        "url": "https://www.aibase.com/news/29577",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_60e9c897b324",
-      "title": "西湖大学联合阿里达摩院推出干细胞AI模型“归元”，实现重编程大规模模拟预测",
-      "url": "https://www.aibase.com/news/29579",
-      "primary_url": "https://www.aibase.com/news/29579",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "70fbbed4a596be6c1ea472fa31dc5de6eefb1aaa",
-          "title": "西湖大学联合阿里达摩院推出干细胞AI模型“归元”，实现重编程大规模模拟预测",
-          "url": "https://www.aibase.com/news/29579",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-14T09:05:35.873974Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "70fbbed4a596be6c1ea472fa31dc5de6eefb1aaa",
-          "title": "西湖大学联合阿里达摩院推出干细胞AI模型“归元”，实现重编程大规模模拟预测",
-          "url": "https://www.aibase.com/news/29579",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-14T09:05:35.873974Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-14T09:05:35.873974Z",
-      "latest_at": "2026-07-14T09:05:35.873974Z",
-      "primary_item": {
-        "id": "70fbbed4a596be6c1ea472fa31dc5de6eefb1aaa",
-        "title": "西湖大学联合阿里达摩院推出干细胞AI模型“归元”，实现重编程大规模模拟预测",
-        "url": "https://www.aibase.com/news/29579",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_4a1f2cf768e5",
-      "title": "面壁智能CTO曾国洋：从“打字机”到大模型，端侧AI的进化与突围",
-      "url": "https://www.aibase.com/news/29578",
-      "primary_url": "https://www.aibase.com/news/29578",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "5c518a6cd0caf6ad40c46e2d8fc7d1680684609f",
-          "title": "面壁智能CTO曾国洋：从“打字机”到大模型，端侧AI的进化与突围",
-          "url": "https://www.aibase.com/news/29578",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-14T09:05:35.873974Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "5c518a6cd0caf6ad40c46e2d8fc7d1680684609f",
-          "title": "面壁智能CTO曾国洋：从“打字机”到大模型，端侧AI的进化与突围",
-          "url": "https://www.aibase.com/news/29578",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-14T09:05:35.873974Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-14T09:05:35.873974Z",
-      "latest_at": "2026-07-14T09:05:35.873974Z",
-      "primary_item": {
-        "id": "5c518a6cd0caf6ad40c46e2d8fc7d1680684609f",
-        "title": "面壁智能CTO曾国洋：从“打字机”到大模型，端侧AI的进化与突围",
-        "url": "https://www.aibase.com/news/29578",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_be121c2f4730",
-      "title": "马斯克亲口承认Grok Build偷传用户代码，承诺历史数据全部清零不留一个字节",
-      "url": "https://www.aibase.com/news/29580",
-      "primary_url": "https://www.aibase.com/news/29580",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "885332bf0f4781a70dd5c7cde6f9caa551f91afa",
-          "title": "马斯克亲口承认Grok Build偷传用户代码，承诺历史数据全部清零不留一个字节",
-          "url": "https://www.aibase.com/news/29580",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-14T09:05:35.873974Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "885332bf0f4781a70dd5c7cde6f9caa551f91afa",
-          "title": "马斯克亲口承认Grok Build偷传用户代码，承诺历史数据全部清零不留一个字节",
-          "url": "https://www.aibase.com/news/29580",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-14T09:05:35.873974Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-14T09:05:35.873974Z",
-      "latest_at": "2026-07-14T09:05:35.873974Z",
-      "primary_item": {
-        "id": "885332bf0f4781a70dd5c7cde6f9caa551f91afa",
-        "title": "马斯克亲口承认Grok Build偷传用户代码，承诺历史数据全部清零不留一个字节",
-        "url": "https://www.aibase.com/news/29580",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_34458dcc67bc",
-      "title": "Show HN：在 5 分钟内对您的工程团队的 AI 代理成熟度进行基准测试 / Show HN: Benchmark your eng team's AI agent maturity in 5 minutes",
-      "url": "https://news.ycombinator.com/item?id=48903102",
-      "primary_url": "https://news.ycombinator.com/item?id=48903102",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "aba613834ad3aa2357e4ccc908732e28fc41880e",
-          "title": "Show HN：在 5 分钟内对您的工程团队的 AI 代理成熟度进行基准测试 / Show HN: Benchmark your eng team's AI agent maturity in 5 minutes",
-          "url": "https://news.ycombinator.com/item?id=48903102",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-14T08:36:23.063000Z"
-        },
-        {
-          "id": "baed8bbe592c8550b5846a552de5cb6d7acef085",
-          "title": "Show HN: 只需5分钟，即可评估您工程团队的AI代理成熟度",
-          "url": "https://agent-benchmarks.com/software-factory",
-          "source": "agent-benchmarks.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-14T06:51:38.293000Z"
-        },
-        {
-          "id": "1d6202149aca8d8680eee5bf6ad2074c4cfce8b4",
-          "title": "Show HN: 只需5分钟，即可评估您工程团队的AI代理成熟度 / Show HN: Benchmark your eng team's AI agent maturity in 5 minutes",
-          "url": "https://agent-benchmarks.com/software-factory",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-14T06:48:47Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News",
-        "agent-benchmarks.com",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "aba613834ad3aa2357e4ccc908732e28fc41880e",
-          "title": "Show HN：在 5 分钟内对您的工程团队的 AI 代理成熟度进行基准测试 / Show HN: Benchmark your eng team's AI agent maturity in 5 minutes",
-          "url": "https://news.ycombinator.com/item?id=48903102",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-14T08:36:23.063000Z"
-        },
-        {
-          "id": "baed8bbe592c8550b5846a552de5cb6d7acef085",
-          "title": "Show HN: 只需5分钟，即可评估您工程团队的AI代理成熟度",
-          "url": "https://agent-benchmarks.com/software-factory",
-          "source": "agent-benchmarks.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-14T06:51:38.293000Z"
-        },
-        {
-          "id": "1d6202149aca8d8680eee5bf6ad2074c4cfce8b4",
-          "title": "Show HN: 只需5分钟，即可评估您工程团队的AI代理成熟度 / Show HN: Benchmark your eng team's AI agent maturity in 5 minutes",
-          "url": "https://agent-benchmarks.com/software-factory",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-14T06:48:47Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5689,
-      "importance": 0.5689,
-      "importance_score": 0.5689,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9797,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-14T06:48:47Z",
-      "latest_at": "2026-07-14T08:36:23.063000Z",
-      "primary_item": {
-        "id": "aba613834ad3aa2357e4ccc908732e28fc41880e",
-        "title": "Show HN：在 5 分钟内对您的工程团队的 AI 代理成熟度进行基准测试 / Show HN: Benchmark your eng team's AI agent maturity in 5 minutes",
-        "url": "https://news.ycombinator.com/item?id=48903102",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_c6cb8a789e77",
-      "title": "独家：邮件显示，加拿大监管机构在向银行发出网络安全风险警告时，援引了Anthropic公司的“克劳德·米托斯”",
-      "url": "https://www.reuters.com/world/canada-regulator-cited-anthropics-claude-mythos-warning-banks-cyber-risks-email-2026-07-13",
-      "primary_url": "https://www.reuters.com/world/canada-regulator-cited-anthropics-claude-mythos-warning-banks-cyber-risks-email-2026-07-13",
-      "source": "www.reuters.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "ae778265b4ed182dbcd2c57f1cf2412665ab8f04",
-          "title": "独家：邮件显示，加拿大监管机构在向银行发出网络安全风险警告时，援引了Anthropic公司的“克劳德·米托斯”",
-          "url": "https://www.reuters.com/world/canada-regulator-cited-anthropics-claude-mythos-warning-banks-cyber-risks-email-2026-07-13",
-          "source": "www.reuters.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-14T02:53:38.375000Z"
-        },
-        {
-          "id": "7baa8c3f2cf3a5b1fcc9ccc3b02aa6852ba3d92c",
-          "title": "电子邮件显示，加拿大监管机构在向银行发出网络安全风险警告时援引了Anthropic公司的“克劳德·米托斯” - Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWnJwX3Y5djdmdkNZUF9oR2xqZ2U0NV9ieFhzTWxNbC1RLVdSdnhNQ1BkeU1MUWFXNVhXaDhNV2FiZGRPRUVfeXNFUDdUN2ZTRzBocWoyc19pSTY4Wl9tVnd6TzdHVG1oelRONTRHTWloNFJ0S3NWeG9aNkdXV1Z6d3c5cHJHdjdhNmNhNGdzNDZScVotYzAzVVBhYUhrQ0lhT2NVUW5nQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "source": "news.google.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-13T23:58:43.177000Z"
-        },
-        {
-          "id": "f32324b0b0143cb9d2592e8d4fd52dd60696b2e7",
-          "title": "独家：邮件显示，加拿大监管机构在向银行发出网络安全风险警告时援引了Anthropic公司的“克劳德·米托斯”",
-          "url": "https://reut.rs/4pfxdHT",
-          "source": "reut.rs",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-13T18:25:33.472000Z"
-        },
-        {
-          "id": "4c2559048607253d16cb3da6f4063ca2e80555cd",
-          "title": "电子邮件显示，加拿大监管机构在向银行发出网络安全风险警告时，援引了Anthropic公司的“克劳德·米托斯”",
-          "url": "https://www.reuters.com/world/canada-regulator-cited-anthropics-claude-mythos-warning-banks-cyber-risks-email-2026-07-13",
-          "source": "www.reuters.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-13T18:09:33.094000Z"
-        }
-      ],
-      "source_count": 4,
-      "source_names": [
-        "news.google.com",
-        "reut.rs",
-        "www.reuters.com"
-      ],
-      "items": [
-        {
-          "id": "ae778265b4ed182dbcd2c57f1cf2412665ab8f04",
-          "title": "独家：邮件显示，加拿大监管机构在向银行发出网络安全风险警告时，援引了Anthropic公司的“克劳德·米托斯”",
-          "url": "https://www.reuters.com/world/canada-regulator-cited-anthropics-claude-mythos-warning-banks-cyber-risks-email-2026-07-13",
-          "source": "www.reuters.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-14T02:53:38.375000Z"
-        },
-        {
-          "id": "7baa8c3f2cf3a5b1fcc9ccc3b02aa6852ba3d92c",
-          "title": "电子邮件显示，加拿大监管机构在向银行发出网络安全风险警告时援引了Anthropic公司的“克劳德·米托斯” - Yahoo Finance",
-          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWnJwX3Y5djdmdkNZUF9oR2xqZ2U0NV9ieFhzTWxNbC1RLVdSdnhNQ1BkeU1MUWFXNVhXaDhNV2FiZGRPRUVfeXNFUDdUN2ZTRzBocWoyc19pSTY4Wl9tVnd6TzdHVG1oelRONTRHTWloNFJ0S3NWeG9aNkdXV1Z6d3c5cHJHdjdhNmNhNGdzNDZScVotYzAzVVBhYUhrQ0lhT2NVUW5nQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "source": "news.google.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-13T23:58:43.177000Z"
-        },
-        {
-          "id": "f32324b0b0143cb9d2592e8d4fd52dd60696b2e7",
-          "title": "独家：邮件显示，加拿大监管机构在向银行发出网络安全风险警告时援引了Anthropic公司的“克劳德·米托斯”",
-          "url": "https://reut.rs/4pfxdHT",
-          "source": "reut.rs",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-13T18:25:33.472000Z"
-        },
-        {
-          "id": "4c2559048607253d16cb3da6f4063ca2e80555cd",
-          "title": "电子邮件显示，加拿大监管机构在向银行发出网络安全风险警告时，援引了Anthropic公司的“克劳德·米托斯”",
-          "url": "https://www.reuters.com/world/canada-regulator-cited-anthropics-claude-mythos-warning-banks-cyber-risks-email-2026-07-13",
-          "source": "www.reuters.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-13T18:09:33.094000Z"
-        }
-      ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.5463,
-      "importance": 0.5463,
-      "importance_score": 0.5463,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7417,
-        "story_heat": 0.75
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-13T18:09:33.094000Z",
-      "latest_at": "2026-07-14T02:53:38.375000Z",
-      "primary_item": {
-        "id": "ae778265b4ed182dbcd2c57f1cf2412665ab8f04",
-        "title": "独家：邮件显示，加拿大监管机构在向银行发出网络安全风险警告时，援引了Anthropic公司的“克劳德·米托斯”",
-        "url": "https://www.reuters.com/world/canada-regulator-cited-anthropics-claude-mythos-warning-banks-cyber-risks-email-2026-07-13",
-        "source": "www.reuters.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_860f6a642092",
-      "title": "那我们还能做些什么呢？",
-      "url": "https://www.normaltech.ai/p/what-will-be-left-for-us-to-work",
-      "primary_url": "https://www.normaltech.ai/p/what-will-be-left-for-us-to-work",
-      "source": "www.normaltech.ai",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "2983edb5657957aac635151bf899b03b88821541",
-          "title": "那我们还能做些什么呢？",
-          "url": "https://www.normaltech.ai/p/what-will-be-left-for-us-to-work",
-          "source": "www.normaltech.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-14T07:07:34.621000Z"
-        },
-        {
-          "id": "7a52e4a2dcdc9d74552bcdeed7537f0e62e7e41e",
-          "title": "那我们还能做些什么呢？ / What will be left for us to work on?",
-          "url": "https://www.normaltech.ai/p/what-will-be-left-for-us-to-work",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-14T01:44:40Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "www.normaltech.ai"
-      ],
-      "items": [
-        {
-          "id": "2983edb5657957aac635151bf899b03b88821541",
-          "title": "那我们还能做些什么呢？",
-          "url": "https://www.normaltech.ai/p/what-will-be-left-for-us-to-work",
-          "source": "www.normaltech.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-14T07:07:34.621000Z"
-        },
-        {
-          "id": "7a52e4a2dcdc9d74552bcdeed7537f0e62e7e41e",
-          "title": "那我们还能做些什么呢？ / What will be left for us to work on?",
-          "url": "https://www.normaltech.ai/p/what-will-be-left-for-us-to-work",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-14T01:44:40Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5316,
-      "importance": 0.5316,
-      "importance_score": 0.5316,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.918,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-14T01:44:40Z",
-      "latest_at": "2026-07-14T07:07:34.621000Z",
-      "primary_item": {
-        "id": "2983edb5657957aac635151bf899b03b88821541",
-        "title": "那我们还能做些什么呢？",
-        "url": "https://www.normaltech.ai/p/what-will-be-left-for-us-to-work",
-        "source": "www.normaltech.ai",
-        "source_name": "Buzzing"
       }
     }
   ]
