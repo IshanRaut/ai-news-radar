@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-07-14T12:47:56.669713Z",
+  "generated_at": "2026-07-14T14:53:52.617880Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260714-2248-2581-a6c3-6547b2bb0829&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260714-2248-2581-a6c3-6547b2bb0829&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260715-0054-21cb-9421-d8fce585fec4&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260715-0054-21cb-9421-d8fce585fec4&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "2b2d908d9adf9a8272c7b82f8f79aa8d8eb541b1",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260715-0054-21cb-9421-d8fce585fec4&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "f4870c2968bd8edea678c394e760834171625e95",
           "title": "点击这里进入 / Click here to enter",
@@ -114,15 +123,6 @@
           "id": "909b5cebed397068e4f2593258553fbcfb6758fd",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260714-0205-1113-b8fd-ba87bbc983f0&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "5597114c4df53310fb11a64237ab31d49d52cc7a",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260713-2301-5275-a271-04d607729034&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -135,6 +135,15 @@
       ],
       "items": [
         {
+          "id": "2b2d908d9adf9a8272c7b82f8f79aa8d8eb541b1",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260715-0054-21cb-9421-d8fce585fec4&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "f4870c2968bd8edea678c394e760834171625e95",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260714-2248-2581-a6c3-6547b2bb0829&fp=-3",
@@ -237,15 +246,6 @@
           "id": "909b5cebed397068e4f2593258553fbcfb6758fd",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260714-0205-1113-b8fd-ba87bbc983f0&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "5597114c4df53310fb11a64237ab31d49d52cc7a",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260713-2301-5275-a271-04d607729034&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -270,14 +270,75 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-13T13:01:25.592543Z",
-      "latest_at": "2026-07-14T12:47:56.669713Z",
+      "earliest_at": "2026-07-13T16:04:44.215434Z",
+      "latest_at": "2026-07-14T14:53:52.617880Z",
       "primary_item": {
-        "id": "f4870c2968bd8edea678c394e760834171625e95",
+        "id": "2b2d908d9adf9a8272c7b82f8f79aa8d8eb541b1",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260714-2248-2581-a6c3-6547b2bb0829&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260715-0054-21cb-9421-d8fce585fec4&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
+      }
+    },
+    {
+      "story_id": "story_ed3a2198d15e",
+      "title": "GitHub Copilot 应用程序现已提供安全审查 / Security reviews now available in the GitHub Copilot app",
+      "url": "https://github.blog/changelog/2026-07-14-security-reviews-now-available-in-the-github-copilot-app",
+      "primary_url": "https://github.blog/changelog/2026-07-14-security-reviews-now-available-in-the-github-copilot-app",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "e0dea436d1aaee574751395304a5b58becfb7a90",
+          "title": "GitHub Copilot 应用程序现已提供安全审查 / Security reviews now available in the GitHub Copilot app",
+          "url": "https://github.blog/changelog/2026-07-14-security-reviews-now-available-in-the-github-copilot-app",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-14T12:54:12Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "e0dea436d1aaee574751395304a5b58becfb7a90",
+          "title": "GitHub Copilot 应用程序现已提供安全审查 / Security reviews now available in the GitHub Copilot app",
+          "url": "https://github.blog/changelog/2026-07-14-security-reviews-now-available-in-the-github-copilot-app",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-14T12:54:12Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8564,
+      "importance": 0.8564,
+      "importance_score": 0.8564,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9169,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-14T12:54:12Z",
+      "latest_at": "2026-07-14T12:54:12Z",
+      "primary_item": {
+        "id": "e0dea436d1aaee574751395304a5b58becfb7a90",
+        "title": "GitHub Copilot 应用程序现已提供安全审查 / Security reviews now available in the GitHub Copilot app",
+        "url": "https://github.blog/changelog/2026-07-14-security-reviews-now-available-in-the-github-copilot-app",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -353,14 +414,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8311,
-      "importance": 0.8311,
-      "importance_score": 0.8311,
+      "score": 0.8136,
+      "importance": 0.8136,
+      "importance_score": 0.8136,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8456,
+        "recency": 0.7581,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -377,6 +438,66 @@
         "url": "https://www.aibase.com/news/29583",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_b508a0d1e050",
+      "title": "Anthropic 经济指数：加拿大 Claude 使用情况分析",
+      "url": "https://aihot.virxact.com/items/cmrko155e005ubixirangezv8",
+      "primary_url": "https://aihot.virxact.com/items/cmrko155e005ubixirangezv8",
+      "source": "Anthropic：Research（发表成果 · 网页）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "597a5ebad3308e467c491d30c644916b8c693a44",
+          "title": "Anthropic 经济指数：加拿大 Claude 使用情况分析",
+          "url": "https://aihot.virxact.com/items/cmrko155e005ubixirangezv8",
+          "source": "Anthropic：Research（发表成果 · 网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-14T13:06:56Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Anthropic：Research（发表成果 · 网页）"
+      ],
+      "items": [
+        {
+          "id": "597a5ebad3308e467c491d30c644916b8c693a44",
+          "title": "Anthropic 经济指数：加拿大 Claude 使用情况分析",
+          "url": "https://aihot.virxact.com/items/cmrko155e005ubixirangezv8",
+          "source": "Anthropic：Research（发表成果 · 网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-14T13:06:56Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7971,
+      "importance": 0.7971,
+      "importance_score": 0.7971,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9257,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-14T13:06:56Z",
+      "latest_at": "2026-07-14T13:06:56Z",
+      "primary_item": {
+        "id": "597a5ebad3308e467c491d30c644916b8c693a44",
+        "title": "Anthropic 经济指数：加拿大 Claude 使用情况分析",
+        "url": "https://aihot.virxact.com/items/cmrko155e005ubixirangezv8",
+        "source": "Anthropic：Research（发表成果 · 网页）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -433,14 +554,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7952,
-      "importance": 0.7952,
-      "importance_score": 0.7952,
+      "score": 0.7777,
+      "importance": 0.7777,
+      "importance_score": 0.7777,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7908,
+        "recency": 0.7034,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -513,14 +634,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8231,
-      "importance": 0.8231,
-      "importance_score": 0.8231,
+      "score": 0.8056,
+      "importance": 0.8056,
+      "importance_score": 0.8056,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9304,
+        "recency": 0.8429,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -574,14 +695,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7818,
-      "importance": 0.7818,
-      "importance_score": 0.7818,
+      "score": 0.7643,
+      "importance": 0.7643,
+      "importance_score": 0.7643,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8488,
+        "recency": 0.7614,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -634,14 +755,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7809,
-      "importance": 0.7809,
-      "importance_score": 0.7809,
+      "score": 0.7634,
+      "importance": 0.7634,
+      "importance_score": 0.7634,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8445,
+        "recency": 0.757,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -694,14 +815,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7798,
-      "importance": 0.7798,
-      "importance_score": 0.7798,
+      "score": 0.7623,
+      "importance": 0.7623,
+      "importance_score": 0.7623,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.839,
+        "recency": 0.7516,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -754,14 +875,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7783,
-      "importance": 0.7783,
-      "importance_score": 0.7783,
+      "score": 0.7609,
+      "importance": 0.7609,
+      "importance_score": 0.7609,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.4667,
+        "recency": 0.3793,
         "story_heat": 0.0
       },
       "category": "official",
@@ -815,20 +936,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7647,
-      "importance": 0.7647,
-      "importance_score": 0.7647,
+      "score": 0.7472,
+      "importance": 0.7472,
+      "importance_score": 0.7472,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7636,
+        "recency": 0.6762,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-14T07:07:34Z",
       "latest_at": "2026-07-14T07:07:34Z",
@@ -838,67 +958,6 @@
         "url": "https://aihot.virxact.com/items/cmrkbtf5p0090bizscsgmhctc",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_d9b4cfc04bcb",
-      "title": "公共预览版中的 GitHub 代码质量许可证估算 / GitHub Code Quality license estimate in public preview",
-      "url": "https://github.blog/changelog/2026-07-13-github-code-quality-license-estimate-in-public-preview",
-      "primary_url": "https://github.blog/changelog/2026-07-13-github-code-quality-license-estimate-in-public-preview",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "ee0d846e9791a176dcacab04511e47cc2ae76710",
-          "title": "公共预览版中的 GitHub 代码质量许可证估算 / GitHub Code Quality license estimate in public preview",
-          "url": "https://github.blog/changelog/2026-07-13-github-code-quality-license-estimate-in-public-preview",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-13T23:39:22Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "ee0d846e9791a176dcacab04511e47cc2ae76710",
-          "title": "公共预览版中的 GitHub 代码质量许可证估算 / GitHub Code Quality license estimate in public preview",
-          "url": "https://github.blog/changelog/2026-07-13-github-code-quality-license-estimate-in-public-preview",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-13T23:39:22Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7515,
-      "importance": 0.7515,
-      "importance_score": 0.7515,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.4524,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-13T23:39:22Z",
-      "latest_at": "2026-07-13T23:39:22Z",
-      "primary_item": {
-        "id": "ee0d846e9791a176dcacab04511e47cc2ae76710",
-        "title": "公共预览版中的 GitHub 代码质量许可证估算 / GitHub Code Quality license estimate in public preview",
-        "url": "https://github.blog/changelog/2026-07-13-github-code-quality-license-estimate-in-public-preview",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -955,14 +1014,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8061,
-      "importance": 0.8061,
-      "importance_score": 0.8061,
+      "score": 0.7886,
+      "importance": 0.7886,
+      "importance_score": 0.7886,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8456,
+        "recency": 0.7581,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -979,65 +1038,6 @@
         "url": "https://www.aibase.com/news/29581",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_678b5e75e6ba",
-      "title": "面壁智能CTO曾国洋专访：端侧模型是AI落地关键路径",
-      "url": "https://aihot.virxact.com/items/cmrk1airt02fybiw2ou71j8uf",
-      "primary_url": "https://aihot.virxact.com/items/cmrk1airt02fybiw2ou71j8uf",
-      "source": "公众号：面壁智能（MiniCPM）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "2d54c3c21f7dafa4ec7ee33927e601a662cd3ef1",
-          "title": "面壁智能CTO曾国洋专访：端侧模型是AI落地关键路径",
-          "url": "https://aihot.virxact.com/items/cmrk1airt02fybiw2ou71j8uf",
-          "source": "公众号：面壁智能（MiniCPM）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-14T02:29:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "公众号：面壁智能（MiniCPM）"
-      ],
-      "items": [
-        {
-          "id": "2d54c3c21f7dafa4ec7ee33927e601a662cd3ef1",
-          "title": "面壁智能CTO曾国洋专访：端侧模型是AI落地关键路径",
-          "url": "https://aihot.virxact.com/items/cmrk1airt02fybiw2ou71j8uf",
-          "source": "公众号：面壁智能（MiniCPM）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-14T02:29:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.726,
-      "importance": 0.726,
-      "importance_score": 0.726,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5702,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-14T02:29:00Z",
-      "latest_at": "2026-07-14T02:29:00Z",
-      "primary_item": {
-        "id": "2d54c3c21f7dafa4ec7ee33927e601a662cd3ef1",
-        "title": "面壁智能CTO曾国洋专访：端侧模型是AI落地关键路径",
-        "url": "https://aihot.virxact.com/items/cmrk1airt02fybiw2ou71j8uf",
-        "source": "公众号：面壁智能（MiniCPM）",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -1075,20 +1075,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.753,
-      "importance": 0.753,
-      "importance_score": 0.753,
+      "score": 0.7355,
+      "importance": 0.7355,
+      "importance_score": 0.7355,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7052,
+        "recency": 0.6177,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-14T05:43:25Z",
       "latest_at": "2026-07-14T05:43:25Z",
@@ -1098,6 +1097,66 @@
         "url": "https://aihot.virxact.com/items/cmrka3jld050tbiw29heoy5nl",
         "source": "IT之家（RSS）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_d9b4cfc04bcb",
+      "title": "公共预览版中的 GitHub 代码质量许可证估算 / GitHub Code Quality license estimate in public preview",
+      "url": "https://github.blog/changelog/2026-07-13-github-code-quality-license-estimate-in-public-preview",
+      "primary_url": "https://github.blog/changelog/2026-07-13-github-code-quality-license-estimate-in-public-preview",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "ee0d846e9791a176dcacab04511e47cc2ae76710",
+          "title": "公共预览版中的 GitHub 代码质量许可证估算 / GitHub Code Quality license estimate in public preview",
+          "url": "https://github.blog/changelog/2026-07-13-github-code-quality-license-estimate-in-public-preview",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-13T23:39:22Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "ee0d846e9791a176dcacab04511e47cc2ae76710",
+          "title": "公共预览版中的 GitHub 代码质量许可证估算 / GitHub Code Quality license estimate in public preview",
+          "url": "https://github.blog/changelog/2026-07-13-github-code-quality-license-estimate-in-public-preview",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-13T23:39:22Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.734,
+      "importance": 0.734,
+      "importance_score": 0.734,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.3649,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-13T23:39:22Z",
+      "latest_at": "2026-07-13T23:39:22Z",
+      "primary_item": {
+        "id": "ee0d846e9791a176dcacab04511e47cc2ae76710",
+        "title": "公共预览版中的 GitHub 代码质量许可证估算 / GitHub Code Quality license estimate in public preview",
+        "url": "https://github.blog/changelog/2026-07-13-github-code-quality-license-estimate-in-public-preview",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -1135,14 +1194,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7981,
-      "importance": 0.7981,
-      "importance_score": 0.7981,
+      "score": 0.7806,
+      "importance": 0.7806,
+      "importance_score": 0.7806,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9304,
+        "recency": 0.8429,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1195,14 +1254,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7981,
-      "importance": 0.7981,
-      "importance_score": 0.7981,
+      "score": 0.7806,
+      "importance": 0.7806,
+      "importance_score": 0.7806,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9304,
+        "recency": 0.8429,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1255,14 +1314,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7981,
-      "importance": 0.7981,
-      "importance_score": 0.7981,
+      "score": 0.7806,
+      "importance": 0.7806,
+      "importance_score": 0.7806,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9304,
+        "recency": 0.8429,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1315,14 +1374,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7811,
-      "importance": 0.7811,
-      "importance_score": 0.7811,
+      "score": 0.7636,
+      "importance": 0.7636,
+      "importance_score": 0.7636,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8456,
+        "recency": 0.7581,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1338,6 +1397,103 @@
         "url": "https://www.aibase.com/news/29575",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_b9203c3864dc",
+      "title": "Codex 抓取了 ICM 网站的数据，并发现了 2026 年菲尔兹奖获奖者名单",
+      "url": "https://phemex.com/news/article/2026-fields-medal-winners-list-leaked-includes-two-peking-university-alumni-92948",
+      "primary_url": "https://phemex.com/news/article/2026-fields-medal-winners-list-leaked-includes-two-peking-university-alumni-92948",
+      "source": "phemex.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "99825c913a0d2ffc76154470c6ef95788a3d2f1e",
+          "title": "Codex 抓取了 ICM 网站的数据，并发现了 2026 年菲尔兹奖获奖者名单",
+          "url": "https://phemex.com/news/article/2026-fields-medal-winners-list-leaked-includes-two-peking-university-alumni-92948",
+          "source": "phemex.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-14T14:31:10.876000Z"
+        },
+        {
+          "id": "abeeb8c486e564a87a36fc662195acf7049aafb0",
+          "title": "Codex 抓取了 ICM 网站并发现了 2026 年菲尔兹奖获奖者名单 / Codex scraped the ICM website and discovered 2026 Fields Medal winner list",
+          "url": "https://news.ycombinator.com/item?id=48905091",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-14T12:19:50.525000Z"
+        },
+        {
+          "id": "c6aea9bece7bc120585b9f717fe987d848b7d4d8",
+          "title": "Codex 抓取了 ICM 网站的数据，并发现了 2026 年菲尔兹奖获奖者名单 / Codex scraped the ICM website and discovered 2026 Fields Medal winner list",
+          "url": "https://phemex.com/news/article/2026-fields-medal-winners-list-leaked-includes-two-peking-university-alumni-92948",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-14T11:30:36Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "hackernews",
+        "phemex.com"
+      ],
+      "items": [
+        {
+          "id": "99825c913a0d2ffc76154470c6ef95788a3d2f1e",
+          "title": "Codex 抓取了 ICM 网站的数据，并发现了 2026 年菲尔兹奖获奖者名单",
+          "url": "https://phemex.com/news/article/2026-fields-medal-winners-list-leaked-includes-two-peking-university-alumni-92948",
+          "source": "phemex.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-14T14:31:10.876000Z"
+        },
+        {
+          "id": "abeeb8c486e564a87a36fc662195acf7049aafb0",
+          "title": "Codex 抓取了 ICM 网站并发现了 2026 年菲尔兹奖获奖者名单 / Codex scraped the ICM website and discovered 2026 Fields Medal winner list",
+          "url": "https://news.ycombinator.com/item?id=48905091",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-14T12:19:50.525000Z"
+        },
+        {
+          "id": "c6aea9bece7bc120585b9f717fe987d848b7d4d8",
+          "title": "Codex 抓取了 ICM 网站的数据，并发现了 2026 年菲尔兹奖获奖者名单 / Codex scraped the ICM website and discovered 2026 Fields Medal winner list",
+          "url": "https://phemex.com/news/article/2026-fields-medal-winners-list-leaked-includes-two-peking-university-alumni-92948",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-14T11:30:36Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5698,
+      "importance": 0.5698,
+      "importance_score": 0.5698,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9842,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-14T11:30:36Z",
+      "latest_at": "2026-07-14T14:31:10.876000Z",
+      "primary_item": {
+        "id": "99825c913a0d2ffc76154470c6ef95788a3d2f1e",
+        "title": "Codex 抓取了 ICM 网站的数据，并发现了 2026 年菲尔兹奖获奖者名单",
+        "url": "https://phemex.com/news/article/2026-fields-medal-winners-list-leaked-includes-two-peking-university-alumni-92948",
+        "source": "phemex.com",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -1375,14 +1531,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7811,
-      "importance": 0.7811,
-      "importance_score": 0.7811,
+      "score": 0.7636,
+      "importance": 0.7636,
+      "importance_score": 0.7636,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8456,
+        "recency": 0.7581,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1398,181 +1554,6 @@
         "url": "https://www.aibase.com/news/29584",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_23f5e51c2e95",
-      "title": "Codex 开始对子代理的提示进行加密",
-      "url": "https://github.com/openai/codex/issues/28058",
-      "primary_url": "https://github.com/openai/codex/issues/28058",
-      "source": "github.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "c72066d078440a600c1890163419bb714b5cb60d",
-          "title": "Codex 开始对子代理的提示进行加密",
-          "url": "https://github.com/openai/codex/issues/28058",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-14T12:23:07.223000Z"
-        },
-        {
-          "id": "2898a0029376e68359fef4fad0fe3dd7b170dae4",
-          "title": "Codex 开始对子代理的提示进行加密 / Codex starts encrypting prompts, uses ciphertext for inference instead",
-          "url": "https://github.com/openai/codex/issues/28058",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-14T11:21:32Z"
-        },
-        {
-          "id": "cb6e09b8539e306ff268e844049baefe3f22855c",
-          "title": "Codex 开始对子代理的提示进行加密 / Codex starts encrypting sub-agent prompts",
-          "url": "https://github.com/openai/codex/issues/28058",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-14T11:21:32Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News",
-        "Hacker News · 24h最热",
-        "github.com"
-      ],
-      "items": [
-        {
-          "id": "c72066d078440a600c1890163419bb714b5cb60d",
-          "title": "Codex 开始对子代理的提示进行加密",
-          "url": "https://github.com/openai/codex/issues/28058",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-14T12:23:07.223000Z"
-        },
-        {
-          "id": "2898a0029376e68359fef4fad0fe3dd7b170dae4",
-          "title": "Codex 开始对子代理的提示进行加密 / Codex starts encrypting prompts, uses ciphertext for inference instead",
-          "url": "https://github.com/openai/codex/issues/28058",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-14T11:21:32Z"
-        },
-        {
-          "id": "cb6e09b8539e306ff268e844049baefe3f22855c",
-          "title": "Codex 开始对子代理的提示进行加密 / Codex starts encrypting sub-agent prompts",
-          "url": "https://github.com/openai/codex/issues/28058",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-14T11:21:32Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5696,
-      "importance": 0.5696,
-      "importance_score": 0.5696,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9828,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-14T11:21:32Z",
-      "latest_at": "2026-07-14T12:23:07.223000Z",
-      "primary_item": {
-        "id": "c72066d078440a600c1890163419bb714b5cb60d",
-        "title": "Codex 开始对子代理的提示进行加密",
-        "url": "https://github.com/openai/codex/issues/28058",
-        "source": "github.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_42c8ad3e08fd",
-      "title": "HenryNdubuaku /      maths-cs-ai-compendium",
-      "url": "https://github.com/HenryNdubuaku/maths-cs-ai-compendium",
-      "primary_url": "https://github.com/HenryNdubuaku/maths-cs-ai-compendium",
-      "source": "github",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "c80e999f7185fbd57e6cd97693467eaf1022375c",
-          "title": "HenryNdubuaku /      maths-cs-ai-compendium",
-          "url": "https://github.com/HenryNdubuaku/maths-cs-ai-compendium",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-14T12:48:28.443000Z"
-        },
-        {
-          "id": "583ed1e01ecc0457694deb4dcd46530d6d89bbf3",
-          "title": "HenryNdubuaku / maths-cs-ai-compendium",
-          "url": "https://github.com/HenryNdubuaku/maths-cs-ai-compendium",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "GitHub · Trending Today",
-        "github"
-      ],
-      "items": [
-        {
-          "id": "c80e999f7185fbd57e6cd97693467eaf1022375c",
-          "title": "HenryNdubuaku /      maths-cs-ai-compendium",
-          "url": "https://github.com/HenryNdubuaku/maths-cs-ai-compendium",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-14T12:48:28.443000Z"
-        },
-        {
-          "id": "583ed1e01ecc0457694deb4dcd46530d6d89bbf3",
-          "title": "HenryNdubuaku / maths-cs-ai-compendium",
-          "url": "https://github.com/HenryNdubuaku/maths-cs-ai-compendium",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.548,
-      "importance": 0.548,
-      "importance_score": 0.548,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-14T11:07:39.261646Z",
-      "latest_at": "2026-07-14T12:48:28.443000Z",
-      "primary_item": {
-        "id": "c80e999f7185fbd57e6cd97693467eaf1022375c",
-        "title": "HenryNdubuaku /      maths-cs-ai-compendium",
-        "url": "https://github.com/HenryNdubuaku/maths-cs-ai-compendium",
-        "source": "github",
-        "source_name": "NewsNow"
       }
     }
   ]
