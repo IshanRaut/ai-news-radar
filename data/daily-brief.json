@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-07-15T16:24:16.602300Z",
+  "generated_at": "2026-07-15T17:47:32.581594Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260716-0224-402e-ab7b-bd76ec9ede14&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260716-0224-402e-ab7b-bd76ec9ede14&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260716-0347-58cd-99a5-7fa7c4f4e4c5&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260716-0347-58cd-99a5-7fa7c4f4e4c5&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "571c049d873c84e9dfff8c6538bdde0bea538a40",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260716-0347-58cd-99a5-7fa7c4f4e4c5&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "e4eeeea20aa5c102f53ddb60b0e2b03187316ccc",
           "title": "点击这里进入 / Click here to enter",
@@ -105,15 +114,6 @@
           "id": "a4be2d8547eb8c27a687b5cb0f388db006ace791",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260715-0523-2256-a0b0-065c8d876431&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "ff2d00329795dfa261d5960de9091ccdf31bc07b",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260715-0341-07c4-8f74-f3d4951500ba&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -126,6 +126,15 @@
       ],
       "items": [
         {
+          "id": "571c049d873c84e9dfff8c6538bdde0bea538a40",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260716-0347-58cd-99a5-7fa7c4f4e4c5&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "e4eeeea20aa5c102f53ddb60b0e2b03187316ccc",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260716-0224-402e-ab7b-bd76ec9ede14&fp=-3",
@@ -219,15 +228,6 @@
           "id": "a4be2d8547eb8c27a687b5cb0f388db006ace791",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260715-0523-2256-a0b0-065c8d876431&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "ff2d00329795dfa261d5960de9091ccdf31bc07b",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260715-0341-07c4-8f74-f3d4951500ba&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -252,14 +252,136 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-14T17:40:38.974325Z",
-      "latest_at": "2026-07-15T16:24:16.602300Z",
+      "earliest_at": "2026-07-14T19:23:00.705846Z",
+      "latest_at": "2026-07-15T17:47:32.581594Z",
       "primary_item": {
-        "id": "e4eeeea20aa5c102f53ddb60b0e2b03187316ccc",
+        "id": "571c049d873c84e9dfff8c6538bdde0bea538a40",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260716-0224-402e-ab7b-bd76ec9ede14&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260716-0347-58cd-99a5-7fa7c4f4e4c5&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
+      }
+    },
+    {
+      "story_id": "story_53e3149d2cc1",
+      "title": "Shippy 的建造教会了我们关于建筑代理的哪些知识 / What building Shippy taught us about building agents",
+      "url": "https://huggingface.co/blog/allenai/shippy-tech-blog",
+      "primary_url": "https://huggingface.co/blog/allenai/shippy-tech-blog",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "93ecbb4ca338fa3e1a263b4d195eba337d2fd201",
+          "title": "Shippy 的建造教会了我们关于建筑代理的哪些知识 / What building Shippy taught us about building agents",
+          "url": "https://huggingface.co/blog/allenai/shippy-tech-blog",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-15T17:29:41Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "93ecbb4ca338fa3e1a263b4d195eba337d2fd201",
+          "title": "Shippy 的建造教会了我们关于建筑代理的哪些知识 / What building Shippy taught us about building agents",
+          "url": "https://huggingface.co/blog/allenai/shippy-tech-blog",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-15T17:29:41Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8825,
+      "importance": 0.8825,
+      "importance_score": 0.8825,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.9876,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-15T17:29:41Z",
+      "latest_at": "2026-07-15T17:29:41Z",
+      "primary_item": {
+        "id": "93ecbb4ca338fa3e1a263b4d195eba337d2fd201",
+        "title": "Shippy 的建造教会了我们关于建筑代理的哪些知识 / What building Shippy taught us about building agents",
+        "url": "https://huggingface.co/blog/allenai/shippy-tech-blog",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_5c8332d4091e",
+      "title": "模型路由很简单。直到它不是。 / Model Routing Is Simple. Until It Isn’t.",
+      "url": "https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt",
+      "primary_url": "https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "d6ec2016da4186aea5e5e51f01139d878b2e5a1a",
+          "title": "模型路由很简单。直到它不是。 / Model Routing Is Simple. Until It Isn’t.",
+          "url": "https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-15T17:27:01Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "d6ec2016da4186aea5e5e51f01139d878b2e5a1a",
+          "title": "模型路由很简单。直到它不是。 / Model Routing Is Simple. Until It Isn’t.",
+          "url": "https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-15T17:27:01Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8821,
+      "importance": 0.8821,
+      "importance_score": 0.8821,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.9857,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-15T17:27:01Z",
+      "latest_at": "2026-07-15T17:27:01Z",
+      "primary_item": {
+        "id": "d6ec2016da4186aea5e5e51f01139d878b2e5a1a",
+        "title": "模型路由很简单。直到它不是。 / Model Routing Is Simple. Until It Isn’t.",
+        "url": "https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -297,14 +419,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8055,
-      "importance": 0.8055,
-      "importance_score": 0.8055,
+      "score": 0.7939,
+      "importance": 0.7939,
+      "importance_score": 0.7939,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9674,
+        "recency": 0.9096,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -357,14 +479,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7682,
-      "importance": 0.7682,
-      "importance_score": 0.7682,
+      "score": 0.7567,
+      "importance": 0.7567,
+      "importance_score": 0.7567,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7811,
+        "recency": 0.7233,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -417,14 +539,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7666,
-      "importance": 0.7666,
-      "importance_score": 0.7666,
+      "score": 0.755,
+      "importance": 0.755,
+      "importance_score": 0.755,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7729,
+        "recency": 0.7151,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -477,14 +599,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7477,
-      "importance": 0.7477,
-      "importance_score": 0.7477,
+      "score": 0.7361,
+      "importance": 0.7361,
+      "importance_score": 0.7361,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6785,
+        "recency": 0.6207,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -536,14 +658,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7682,
-      "importance": 0.7682,
-      "importance_score": 0.7682,
+      "score": 0.7567,
+      "importance": 0.7567,
+      "importance_score": 0.7567,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7811,
+        "recency": 0.7233,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -596,14 +718,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7365,
-      "importance": 0.7365,
-      "importance_score": 0.7365,
+      "score": 0.7249,
+      "importance": 0.7249,
+      "importance_score": 0.7249,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.3174,
+        "recency": 0.2596,
         "story_heat": 0.0
       },
       "category": "official",
@@ -656,14 +778,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7475,
-      "importance": 0.7475,
-      "importance_score": 0.7475,
+      "score": 0.7359,
+      "importance": 0.7359,
+      "importance_score": 0.7359,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6776,
+        "recency": 0.6197,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -715,14 +837,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7332,
-      "importance": 0.7332,
-      "importance_score": 0.7332,
+      "score": 0.7216,
+      "importance": 0.7216,
+      "importance_score": 0.7216,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.3008,
+        "recency": 0.243,
         "story_heat": 0.0
       },
       "category": "official",
@@ -813,21 +935,20 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.7595,
-      "importance": 0.7595,
-      "importance_score": 0.7595,
+      "score": 0.7479,
+      "importance": 0.7479,
+      "importance_score": 0.7479,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.4874,
+        "recency": 0.4296,
         "story_heat": 0.5
       },
       "category": "multi_source",
       "reasons": [
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-15T01:37:49Z",
       "latest_at": "2026-07-15T04:06:09.508724Z",
@@ -893,21 +1014,20 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7553,
-      "importance": 0.7553,
-      "importance_score": 0.7553,
+      "score": 0.7438,
+      "importance": 0.7438,
+      "importance_score": 0.7438,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.5916,
+        "recency": 0.5338,
         "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-15T06:36:09.428313Z",
       "latest_at": "2026-07-15T06:36:09.428313Z",
@@ -973,21 +1093,20 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7553,
-      "importance": 0.7553,
-      "importance_score": 0.7553,
+      "score": 0.7438,
+      "importance": 0.7438,
+      "importance_score": 0.7438,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.5916,
+        "recency": 0.5338,
         "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-15T06:36:09.428313Z",
       "latest_at": "2026-07-15T06:36:09.428313Z",
@@ -1053,14 +1172,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.621,
-      "importance": 0.621,
-      "importance_score": 0.621,
+      "score": 0.6094,
+      "importance": 0.6094,
+      "importance_score": 0.6094,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.5,
         "ai_relevance": 0.71,
-        "recency": 0.915,
+        "recency": 0.8572,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1130,21 +1249,20 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7553,
-      "importance": 0.7553,
-      "importance_score": 0.7553,
+      "score": 0.7438,
+      "importance": 0.7438,
+      "importance_score": 0.7438,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.5916,
+        "recency": 0.5338,
         "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-15T04:06:09.508724Z",
       "latest_at": "2026-07-15T06:36:09.428313Z",
@@ -1158,15 +1276,15 @@
     },
     {
       "story_id": "story_bf64218849a8",
-      "title": "苹果 FaceID 的发明者希望通过人工智能分析你的大脑健康状况 / An Inventor of Apple's FaceID Wants to Analyze Your Brain's Health With AI",
+      "title": "苹果 FaceID 的发明者希望通过人工智能分析你的大脑健康状况 / An Inventor of Apple’s FaceID Wants to Analyze Your Brain’s Health With AI",
       "url": "https://www.wired.com/story/the-apple-faceid-veteran-building-a-frontier-ai-model-for-the-human-brain",
       "primary_url": "https://www.wired.com/story/the-apple-faceid-veteran-building-a-frontier-ai-model-for-the-human-brain",
       "source": "Wired AI",
       "source_name": "OPML RSS",
       "sources": [
         {
-          "id": "6a83d7f5f2ea1e24d81257b45837ce0eaa60194b",
-          "title": "苹果 FaceID 的发明者希望通过人工智能分析你的大脑健康状况 / An Inventor of Apple's FaceID Wants to Analyze Your Brain's Health With AI",
+          "id": "414888f37b14e7d9a749dbc63b4057d6b45a90a4",
+          "title": "苹果 FaceID 的发明者希望通过人工智能分析你的大脑健康状况 / An Inventor of Apple’s FaceID Wants to Analyze Your Brain’s Health With AI",
           "url": "https://www.wired.com/story/the-apple-faceid-veteran-building-a-frontier-ai-model-for-the-human-brain",
           "source": "Wired AI",
           "source_name": "OPML RSS",
@@ -1190,8 +1308,8 @@
       ],
       "items": [
         {
-          "id": "6a83d7f5f2ea1e24d81257b45837ce0eaa60194b",
-          "title": "苹果 FaceID 的发明者希望通过人工智能分析你的大脑健康状况 / An Inventor of Apple's FaceID Wants to Analyze Your Brain's Health With AI",
+          "id": "414888f37b14e7d9a749dbc63b4057d6b45a90a4",
+          "title": "苹果 FaceID 的发明者希望通过人工智能分析你的大脑健康状况 / An Inventor of Apple’s FaceID Wants to Analyze Your Brain’s Health With AI",
           "url": "https://www.wired.com/story/the-apple-faceid-veteran-building-a-frontier-ai-model-for-the-human-brain",
           "source": "Wired AI",
           "source_name": "OPML RSS",
@@ -1210,14 +1328,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5893,
-      "importance": 0.5893,
-      "importance_score": 0.5893,
+      "score": 0.5777,
+      "importance": 0.5777,
+      "importance_score": 0.5777,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.5,
         "ai_relevance": 0.67,
-        "recency": 0.8165,
+        "recency": 0.7587,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1227,8 +1345,8 @@
       "earliest_at": "2026-07-15T12:00:00Z",
       "latest_at": "2026-07-15T12:00:00Z",
       "primary_item": {
-        "id": "6a83d7f5f2ea1e24d81257b45837ce0eaa60194b",
-        "title": "苹果 FaceID 的发明者希望通过人工智能分析你的大脑健康状况 / An Inventor of Apple's FaceID Wants to Analyze Your Brain's Health With AI",
+        "id": "414888f37b14e7d9a749dbc63b4057d6b45a90a4",
+        "title": "苹果 FaceID 的发明者希望通过人工智能分析你的大脑健康状况 / An Inventor of Apple’s FaceID Wants to Analyze Your Brain’s Health With AI",
         "url": "https://www.wired.com/story/the-apple-faceid-veteran-building-a-frontier-ai-model-for-the-human-brain",
         "source": "Wired AI",
         "source_name": "OPML RSS"
@@ -1288,21 +1406,20 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7553,
-      "importance": 0.7553,
-      "importance_score": 0.7553,
+      "score": 0.7438,
+      "importance": 0.7438,
+      "importance_score": 0.7438,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.5916,
+        "recency": 0.5338,
         "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-15T06:36:09.428313Z",
       "latest_at": "2026-07-15T06:36:09.428313Z",
@@ -1312,6 +1429,103 @@
         "url": "https://www.aibase.com/news/29613",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_7669484c209f",
+      "title": "《三秒盗窃：为何人工智能语音诈骗总能突破所有防线》",
+      "url": "https://smarterarticles.co.uk/the-three-second-theft-why-ai-voice-fraud-outruns-every-defence",
+      "primary_url": "https://smarterarticles.co.uk/the-three-second-theft-why-ai-voice-fraud-outruns-every-defence",
+      "source": "smarterarticles.co.uk",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "56581aadd6344a1ae1344ad345a485c4f59f0854",
+          "title": "《三秒盗窃：为何人工智能语音诈骗总能突破所有防线》",
+          "url": "https://smarterarticles.co.uk/the-three-second-theft-why-ai-voice-fraud-outruns-every-defence",
+          "source": "smarterarticles.co.uk",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-15T16:25:19.955000Z"
+        },
+        {
+          "id": "2375d6e296a96e032d78a14ecb4f7f01b454fa88",
+          "title": "三秒盗窃：为何人工智能语音欺诈胜过一切防御 / The Three-Second Theft: Why AI Voice Fraud Outruns Every Defence",
+          "url": "https://news.ycombinator.com/item?id=48920432",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-15T14:33:45.826000Z"
+        },
+        {
+          "id": "d3dc317c406c347a1495a6f7a394a67a6684122a",
+          "title": "《三秒盗窃：为何人工智能语音诈骗总能突破所有防线》 / The Three-Second Theft: Why AI Voice Fraud Outruns Every Defence",
+          "url": "https://smarterarticles.co.uk/the-three-second-theft-why-ai-voice-fraud-outruns-every-defence",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-15T13:18:15Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News",
+        "hackernews",
+        "smarterarticles.co.uk"
+      ],
+      "items": [
+        {
+          "id": "56581aadd6344a1ae1344ad345a485c4f59f0854",
+          "title": "《三秒盗窃：为何人工智能语音诈骗总能突破所有防线》",
+          "url": "https://smarterarticles.co.uk/the-three-second-theft-why-ai-voice-fraud-outruns-every-defence",
+          "source": "smarterarticles.co.uk",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-15T16:25:19.955000Z"
+        },
+        {
+          "id": "2375d6e296a96e032d78a14ecb4f7f01b454fa88",
+          "title": "三秒盗窃：为何人工智能语音欺诈胜过一切防御 / The Three-Second Theft: Why AI Voice Fraud Outruns Every Defence",
+          "url": "https://news.ycombinator.com/item?id=48920432",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-15T14:33:45.826000Z"
+        },
+        {
+          "id": "d3dc317c406c347a1495a6f7a394a67a6684122a",
+          "title": "《三秒盗窃：为何人工智能语音诈骗总能突破所有防线》 / The Three-Second Theft: Why AI Voice Fraud Outruns Every Defence",
+          "url": "https://smarterarticles.co.uk/the-three-second-theft-why-ai-voice-fraud-outruns-every-defence",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-15T13:18:15Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5616,
+      "importance": 0.5616,
+      "importance_score": 0.5616,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9429,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-15T13:18:15Z",
+      "latest_at": "2026-07-15T16:25:19.955000Z",
+      "primary_item": {
+        "id": "56581aadd6344a1ae1344ad345a485c4f59f0854",
+        "title": "《三秒盗窃：为何人工智能语音诈骗总能突破所有防线》",
+        "url": "https://smarterarticles.co.uk/the-three-second-theft-why-ai-voice-fraud-outruns-every-defence",
+        "source": "smarterarticles.co.uk",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -1387,14 +1601,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5702,
-      "importance": 0.5702,
-      "importance_score": 0.5702,
+      "score": 0.5586,
+      "importance": 0.5586,
+      "importance_score": 0.5586,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9858,
+        "recency": 0.928,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1409,241 +1623,6 @@
         "url": "https://news.ycombinator.com/item?id=48920681",
         "source": "hackernews",
         "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_38d3d69b777b",
-      "title": "Grok Build被曝上传整个代码库至谷歌云，SpaceXAI紧急关闭相关功能",
-      "url": "https://www.aibase.com/news/29622",
-      "primary_url": "https://www.aibase.com/news/29622",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "a6f04b852ef1dc7fba0aaba9aed3397f661625f9",
-          "title": "Grok Build被曝上传整个代码库至谷歌云，SpaceXAI紧急关闭相关功能",
-          "url": "https://www.aibase.com/news/29622",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-15T09:10:21.439247Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "a6f04b852ef1dc7fba0aaba9aed3397f661625f9",
-          "title": "Grok Build被曝上传整个代码库至谷歌云，SpaceXAI紧急关闭相关功能",
-          "url": "https://www.aibase.com/news/29622",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-15T09:10:21.439247Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7517,
-      "importance": 0.7517,
-      "importance_score": 0.7517,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6987,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-15T09:10:21.439247Z",
-      "latest_at": "2026-07-15T09:10:21.439247Z",
-      "primary_item": {
-        "id": "a6f04b852ef1dc7fba0aaba9aed3397f661625f9",
-        "title": "Grok Build被曝上传整个代码库至谷歌云，SpaceXAI紧急关闭相关功能",
-        "url": "https://www.aibase.com/news/29622",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_f067f63d29d0",
-      "title": "Show HN：StyleSeed – 一个设计规则引擎，让 AI 代理停止构建通用 UI / Show HN: StyleSeed – a design-rules engine so AI agents stop building generic UI",
-      "url": "https://news.ycombinator.com/item?id=48920888",
-      "primary_url": "https://news.ycombinator.com/item?id=48920888",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "e4c4eb20a2bea821b8ef6c1b3090b91d9497ad6d",
-          "title": "Show HN：StyleSeed – 一个设计规则引擎，让 AI 代理停止构建通用 UI / Show HN: StyleSeed – a design-rules engine so AI agents stop building generic UI",
-          "url": "https://news.ycombinator.com/item?id=48920888",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-15T16:03:49.878000Z"
-        },
-        {
-          "id": "6500f90b5e0bfee9114356036c5c6c0d4ac78f3e",
-          "title": "Show HN: StyleSeed——一款设计规则引擎，可防止AI代理生成千篇一律的用户界面",
-          "url": "https://github.com/bitjaru/styleseed",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-15T14:01:20.382000Z"
-        },
-        {
-          "id": "f1e62bc31bb7ba5852f32b35c7f107ee6c0c9190",
-          "title": "Show HN: StyleSeed——一款设计规则引擎，可防止AI代理生成千篇一律的用户界面 / Show HN: StyleSeed – a design-rules engine so AI agents stop building generic UI",
-          "url": "https://github.com/bitjaru/styleseed",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-15T13:55:23Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News",
-        "github.com",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "e4c4eb20a2bea821b8ef6c1b3090b91d9497ad6d",
-          "title": "Show HN：StyleSeed – 一个设计规则引擎，让 AI 代理停止构建通用 UI / Show HN: StyleSeed – a design-rules engine so AI agents stop building generic UI",
-          "url": "https://news.ycombinator.com/item?id=48920888",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-15T16:03:49.878000Z"
-        },
-        {
-          "id": "6500f90b5e0bfee9114356036c5c6c0d4ac78f3e",
-          "title": "Show HN: StyleSeed——一款设计规则引擎，可防止AI代理生成千篇一律的用户界面",
-          "url": "https://github.com/bitjaru/styleseed",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-15T14:01:20.382000Z"
-        },
-        {
-          "id": "f1e62bc31bb7ba5852f32b35c7f107ee6c0c9190",
-          "title": "Show HN: StyleSeed——一款设计规则引擎，可防止AI代理生成千篇一律的用户界面 / Show HN: StyleSeed – a design-rules engine so AI agents stop building generic UI",
-          "url": "https://github.com/bitjaru/styleseed",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-15T13:55:23Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5702,
-      "importance": 0.5702,
-      "importance_score": 0.5702,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9858,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-15T13:55:23Z",
-      "latest_at": "2026-07-15T16:03:49.878000Z",
-      "primary_item": {
-        "id": "e4c4eb20a2bea821b8ef6c1b3090b91d9497ad6d",
-        "title": "Show HN：StyleSeed – 一个设计规则引擎，让 AI 代理停止构建通用 UI / Show HN: StyleSeed – a design-rules engine so AI agents stop building generic UI",
-        "url": "https://news.ycombinator.com/item?id=48920888",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_5f928b9a539c",
-      "title": "当 AI 开始自己造自己",
-      "url": "https://www.huxiu.com/article/4875609.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4875609.html?f=rss",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "672866dd9493c49cf38e439b48323dd351ebc3ac",
-          "title": "当 AI 开始自己造自己",
-          "url": "https://www.huxiu.com/article/4875609.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "7e37c472cf95cc3bfa2e5cbbc59cb09b8830e25a",
-          "title": "当AI开始自己造自己",
-          "url": "https://www.huxiu.com/article/4875609.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-15T14:20:56Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Readhub · AI",
-        "虎嗅 (Huxiu)"
-      ],
-      "items": [
-        {
-          "id": "672866dd9493c49cf38e439b48323dd351ebc3ac",
-          "title": "当 AI 开始自己造自己",
-          "url": "https://www.huxiu.com/article/4875609.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "7e37c472cf95cc3bfa2e5cbbc59cb09b8830e25a",
-          "title": "当AI开始自己造自己",
-          "url": "https://www.huxiu.com/article/4875609.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-15T14:20:56Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5353,
-      "importance": 0.5353,
-      "importance_score": 0.5353,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9365,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-15T14:20:56Z",
-      "latest_at": "2026-07-15T14:52:46.100329Z",
-      "primary_item": {
-        "id": "672866dd9493c49cf38e439b48323dd351ebc3ac",
-        "title": "当 AI 开始自己造自己",
-        "url": "https://www.huxiu.com/article/4875609.html?f=rss",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
       }
     }
   ]
