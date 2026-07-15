@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-07-15T22:03:14.693151Z",
+  "generated_at": "2026-07-15T23:29:20.099529Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260716-0803-376a-9a7e-2eb8865264f2&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260716-0803-376a-9a7e-2eb8865264f2&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260716-0929-460d-bda0-8a3f40e3771f&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260716-0929-460d-bda0-8a3f40e3771f&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "d4566068af8fec20bb6b505b1a44ee3f0efb39ca",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260716-0929-460d-bda0-8a3f40e3771f&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "5181dfcf6d75d440f2d9a3c3e6346758a7774293",
           "title": "点击这里进入 / Click here to enter",
@@ -105,15 +114,6 @@
           "id": "e5c04c4ca51ebd2f103ac481fd774fc2297aa8d2",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260715-1051-3091-afa5-396e1b6644c4&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "4a60a4cd4c5d452ecc86c3173332c43af0cb9c3d",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260715-0905-4736-be94-12cf8b34e1e5&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -126,6 +126,15 @@
       ],
       "items": [
         {
+          "id": "d4566068af8fec20bb6b505b1a44ee3f0efb39ca",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260716-0929-460d-bda0-8a3f40e3771f&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "5181dfcf6d75d440f2d9a3c3e6346758a7774293",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260716-0803-376a-9a7e-2eb8865264f2&fp=-3",
@@ -219,15 +228,6 @@
           "id": "e5c04c4ca51ebd2f103ac481fd774fc2297aa8d2",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260715-1051-3091-afa5-396e1b6644c4&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "4a60a4cd4c5d452ecc86c3173332c43af0cb9c3d",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260715-0905-4736-be94-12cf8b34e1e5&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -252,14 +252,75 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-14T23:05:19.909752Z",
-      "latest_at": "2026-07-15T22:03:14.693151Z",
+      "earliest_at": "2026-07-15T00:51:06.665528Z",
+      "latest_at": "2026-07-15T23:29:20.099529Z",
       "primary_item": {
-        "id": "5181dfcf6d75d440f2d9a3c3e6346758a7774293",
+        "id": "d4566068af8fec20bb6b505b1a44ee3f0efb39ca",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260716-0803-376a-9a7e-2eb8865264f2&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260716-0929-460d-bda0-8a3f40e3771f&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
+      }
+    },
+    {
+      "story_id": "story_6895fff98626",
+      "title": "秘密扫描和公共监控的改进 / Improvements to secret scanning and public monitoring",
+      "url": "https://github.blog/changelog/2026-07-15-improvements-to-secret-scanning-and-public-monitoring",
+      "primary_url": "https://github.blog/changelog/2026-07-15-improvements-to-secret-scanning-and-public-monitoring",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "f46aa4c38039a79063d73c58cdd08a9e93eec7f6",
+          "title": "秘密扫描和公共监控的改进 / Improvements to secret scanning and public monitoring",
+          "url": "https://github.blog/changelog/2026-07-15-improvements-to-secret-scanning-and-public-monitoring",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-15T22:38:16Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "f46aa4c38039a79063d73c58cdd08a9e93eec7f6",
+          "title": "秘密扫描和公共监控的改进 / Improvements to secret scanning and public monitoring",
+          "url": "https://github.blog/changelog/2026-07-15-improvements-to-secret-scanning-and-public-monitoring",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-15T22:38:16Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8539,
+      "importance": 0.8539,
+      "importance_score": 0.8539,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9645,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-15T22:38:16Z",
+      "latest_at": "2026-07-15T22:38:16Z",
+      "primary_item": {
+        "id": "f46aa4c38039a79063d73c58cdd08a9e93eec7f6",
+        "title": "秘密扫描和公共监控的改进 / Improvements to secret scanning and public monitoring",
+        "url": "https://github.blog/changelog/2026-07-15-improvements-to-secret-scanning-and-public-monitoring",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -297,14 +358,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.847,
-      "importance": 0.847,
-      "importance_score": 0.847,
+      "score": 0.835,
+      "importance": 0.835,
+      "importance_score": 0.835,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.81,
+        "recency": 0.7502,
         "story_heat": 0.0
       },
       "category": "official",
@@ -358,14 +419,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8466,
-      "importance": 0.8466,
-      "importance_score": 0.8466,
+      "score": 0.8347,
+      "importance": 0.8347,
+      "importance_score": 0.8347,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8082,
+        "recency": 0.7484,
         "story_heat": 0.0
       },
       "category": "official",
@@ -419,20 +480,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7584,
-      "importance": 0.7584,
-      "importance_score": 0.7584,
+      "score": 0.7464,
+      "importance": 0.7464,
+      "importance_score": 0.7464,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.732,
+        "recency": 0.6722,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-15T15:37:19Z",
       "latest_at": "2026-07-15T15:37:19Z",
@@ -442,124 +502,6 @@
         "url": "https://aihot.virxact.com/items/cmrm9ne9101gqbiijkgrj6t9h",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_cd9298ee1ede",
-      "title": "努比亚率先完成智能体大模型备案，全球首款AI智能体手机即亮相",
-      "url": "https://www.aibase.com/news/29625",
-      "primary_url": "https://www.aibase.com/news/29625",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "877ec8e42f0ec49b13d1deb191a09c0a017046c6",
-          "title": "努比亚率先完成智能体大模型备案，全球首款AI智能体手机即亮相",
-          "url": "https://www.aibase.com/news/29625",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-15T11:09:07.934846Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "877ec8e42f0ec49b13d1deb191a09c0a017046c6",
-          "title": "努比亚率先完成智能体大模型备案，全球首款AI智能体手机即亮相",
-          "url": "https://www.aibase.com/news/29625",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-15T11:09:07.934846Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7212,
-      "importance": 0.7212,
-      "importance_score": 0.7212,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5458,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-15T11:09:07.934846Z",
-      "latest_at": "2026-07-15T11:09:07.934846Z",
-      "primary_item": {
-        "id": "877ec8e42f0ec49b13d1deb191a09c0a017046c6",
-        "title": "努比亚率先完成智能体大模型备案，全球首款AI智能体手机即亮相",
-        "url": "https://www.aibase.com/news/29625",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_aaab5fbb26eb",
-      "title": "我国首部AI拟人化互动服务新规今起施行，六大红线明确划定，不得向未成年人提供虚拟伴侣",
-      "url": "https://www.aibase.com/news/29624",
-      "primary_url": "https://www.aibase.com/news/29624",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "5609dd4b6bbf34f1f0e3ecf1da30af39d3a116c5",
-          "title": "我国首部AI拟人化互动服务新规今起施行，六大红线明确划定，不得向未成年人提供虚拟伴侣",
-          "url": "https://www.aibase.com/news/29624",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-15T11:09:07.934846Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "5609dd4b6bbf34f1f0e3ecf1da30af39d3a116c5",
-          "title": "我国首部AI拟人化互动服务新规今起施行，六大红线明确划定，不得向未成年人提供虚拟伴侣",
-          "url": "https://www.aibase.com/news/29624",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-15T11:09:07.934846Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7212,
-      "importance": 0.7212,
-      "importance_score": 0.7212,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5458,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-15T11:09:07.934846Z",
-      "latest_at": "2026-07-15T11:09:07.934846Z",
-      "primary_item": {
-        "id": "5609dd4b6bbf34f1f0e3ecf1da30af39d3a116c5",
-        "title": "我国首部AI拟人化互动服务新规今起施行，六大红线明确划定，不得向未成年人提供虚拟伴侣",
-        "url": "https://www.aibase.com/news/29624",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     },
     {
@@ -635,14 +577,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.7124,
-      "importance": 0.7124,
-      "importance_score": 0.7124,
+      "score": 0.7004,
+      "importance": 0.7004,
+      "importance_score": 0.7004,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.252,
+        "recency": 0.1922,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -714,14 +656,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7082,
-      "importance": 0.7082,
-      "importance_score": 0.7082,
+      "score": 0.6963,
+      "importance": 0.6963,
+      "importance_score": 0.6963,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.3562,
+        "recency": 0.2964,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -793,14 +735,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7082,
-      "importance": 0.7082,
-      "importance_score": 0.7082,
+      "score": 0.6963,
+      "importance": 0.6963,
+      "importance_score": 0.6963,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.3562,
+        "recency": 0.2964,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -814,6 +756,163 @@
         "id": "536561be6a1432f8d063aa5eea53d8f9ec34ff08",
         "title": "GPT-5. 6 上线引爆需求：奥尔特曼称上周OpenAI智能体产品用量增长2. 5 倍",
         "url": "https://www.aibase.com/news/29611",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_467fe263bae9",
+      "title": "OPPO与支付宝实现智能体跨端互联，一句话调用阿宝200项办事技能",
+      "url": "https://www.aibase.com/news/29610",
+      "primary_url": "https://www.aibase.com/news/29610",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "1cc13af0e5d44704bb73cb2cca39d34d27487797",
+          "title": "OPPO与支付宝实现智能体跨端互联，一句话调用阿宝200项办事技能",
+          "url": "https://www.aibase.com/news/29610",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-15T06:36:09.428313Z"
+        },
+        {
+          "id": "db3ce05e71b3599e8c447d89e3f22641091c2abf",
+          "title": "支付宝联手OPPO实现智能体跨端互联，“阿宝”与“小布”协同代办生活服务",
+          "url": "https://www.aibase.com/news/29610",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-15T04:06:09.508724Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "1cc13af0e5d44704bb73cb2cca39d34d27487797",
+          "title": "OPPO与支付宝实现智能体跨端互联，一句话调用阿宝200项办事技能",
+          "url": "https://www.aibase.com/news/29610",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-15T06:36:09.428313Z"
+        },
+        {
+          "id": "db3ce05e71b3599e8c447d89e3f22641091c2abf",
+          "title": "支付宝联手OPPO实现智能体跨端互联，“阿宝”与“小布”协同代办生活服务",
+          "url": "https://www.aibase.com/news/29610",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-15T04:06:09.508724Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6963,
+      "importance": 0.6963,
+      "importance_score": 0.6963,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.2964,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-15T04:06:09.508724Z",
+      "latest_at": "2026-07-15T06:36:09.428313Z",
+      "primary_item": {
+        "id": "1cc13af0e5d44704bb73cb2cca39d34d27487797",
+        "title": "OPPO与支付宝实现智能体跨端互联，一句话调用阿宝200项办事技能",
+        "url": "https://www.aibase.com/news/29610",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_172b5bbe18c6",
+      "title": "全球首款手机级 27B 多模态 AI 模型 Bonsai 27B 横空出世",
+      "url": "https://www.aibase.com/news/29613",
+      "primary_url": "https://www.aibase.com/news/29613",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "1981f2a0166adf58515350074aee8611335c874d",
+          "title": "全球首款手机级 27B 多模态 AI 模型 Bonsai 27B 横空出世",
+          "url": "https://www.aibase.com/news/29613",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-15T06:36:09.428313Z"
+        },
+        {
+          "id": "da5c95907cda5e94c47535562716f4880fa8b74b",
+          "title": "全球首款手机级 27B 多模态 AI 模型 Bonsai 27B 横空出世",
+          "url": "https://www.aibase.com/zh/news/29613",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "1981f2a0166adf58515350074aee8611335c874d",
+          "title": "全球首款手机级 27B 多模态 AI 模型 Bonsai 27B 横空出世",
+          "url": "https://www.aibase.com/news/29613",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-15T06:36:09.428313Z"
+        },
+        {
+          "id": "da5c95907cda5e94c47535562716f4880fa8b74b",
+          "title": "全球首款手机级 27B 多模态 AI 模型 Bonsai 27B 横空出世",
+          "url": "https://www.aibase.com/zh/news/29613",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6963,
+      "importance": 0.6963,
+      "importance_score": 0.6963,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.2964,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-15T06:36:09.428313Z",
+      "latest_at": "2026-07-15T06:36:09.428313Z",
+      "primary_item": {
+        "id": "1981f2a0166adf58515350074aee8611335c874d",
+        "title": "全球首款手机级 27B 多模态 AI 模型 Bonsai 27B 横空出世",
+        "url": "https://www.aibase.com/news/29613",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -910,14 +1009,14 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5755,
-      "importance": 0.5755,
-      "importance_score": 0.5755,
+      "score": 0.5636,
+      "importance": 0.5636,
+      "importance_score": 0.5636,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8877,
+        "recency": 0.8279,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -935,81 +1034,159 @@
       }
     },
     {
-      "story_id": "story_467fe263bae9",
-      "title": "OPPO与支付宝实现智能体跨端互联，一句话调用阿宝200项办事技能",
-      "url": "https://www.aibase.com/news/29610",
-      "primary_url": "https://www.aibase.com/news/29610",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_a6127b77ead0",
+      "title": "马斯克宣布开源 Grok Build 编程 AI 智能体工具",
+      "url": "https://www.ithome.com/0/977/265.htm",
+      "primary_url": "https://www.ithome.com/0/977/265.htm",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
       "sources": [
         {
-          "id": "1cc13af0e5d44704bb73cb2cca39d34d27487797",
-          "title": "OPPO与支付宝实现智能体跨端互联，一句话调用阿宝200项办事技能",
-          "url": "https://www.aibase.com/news/29610",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-15T06:36:09.428313Z"
+          "id": "4c1c5d70c3c9ec4429360cd2ea4178cafe0bea3f",
+          "title": "马斯克宣布开源 Grok Build 编程 AI 智能体工具",
+          "url": "https://www.ithome.com/0/977/265.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         },
         {
-          "id": "db3ce05e71b3599e8c447d89e3f22641091c2abf",
-          "title": "支付宝联手OPPO实现智能体跨端互联，“阿宝”与“小布”协同代办生活服务",
-          "url": "https://www.aibase.com/news/29610",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-15T04:06:09.508724Z"
+          "id": "83c60b2152fc689767221e19832f4316543b9119",
+          "title": "上传用户代码事件后，马斯克宣布开源 Grok Build 编程 AI 智能体工具",
+          "url": "https://www.ithome.com/0/977/265.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-15T22:40:31Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "AIbase"
+        "IT之家 (ITHome)",
+        "Readhub · AI"
       ],
       "items": [
         {
-          "id": "1cc13af0e5d44704bb73cb2cca39d34d27487797",
-          "title": "OPPO与支付宝实现智能体跨端互联，一句话调用阿宝200项办事技能",
-          "url": "https://www.aibase.com/news/29610",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-15T06:36:09.428313Z"
+          "id": "4c1c5d70c3c9ec4429360cd2ea4178cafe0bea3f",
+          "title": "马斯克宣布开源 Grok Build 编程 AI 智能体工具",
+          "url": "https://www.ithome.com/0/977/265.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         },
         {
-          "id": "db3ce05e71b3599e8c447d89e3f22641091c2abf",
-          "title": "支付宝联手OPPO实现智能体跨端互联，“阿宝”与“小布”协同代办生活服务",
-          "url": "https://www.aibase.com/news/29610",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-15T04:06:09.508724Z"
+          "id": "83c60b2152fc689767221e19832f4316543b9119",
+          "title": "上传用户代码事件后，马斯克宣布开源 Grok Build 编程 AI 智能体工具",
+          "url": "https://www.ithome.com/0/977/265.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-15T22:40:31Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7082,
-      "importance": 0.7082,
-      "importance_score": 0.7082,
+      "score": 0.548,
+      "importance": 0.548,
+      "importance_score": 0.548,
       "importance_label": "值得关注",
       "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.3562,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
-        "multi_source",
-        "high_ai_relevance"
+        "multi_source"
       ],
-      "earliest_at": "2026-07-15T04:06:09.508724Z",
-      "latest_at": "2026-07-15T06:36:09.428313Z",
+      "earliest_at": "2026-07-15T22:40:31Z",
+      "latest_at": "2026-07-15T23:29:20.099529Z",
       "primary_item": {
-        "id": "1cc13af0e5d44704bb73cb2cca39d34d27487797",
-        "title": "OPPO与支付宝实现智能体跨端互联，一句话调用阿宝200项办事技能",
-        "url": "https://www.aibase.com/news/29610",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "id": "4c1c5d70c3c9ec4429360cd2ea4178cafe0bea3f",
+        "title": "马斯克宣布开源 Grok Build 编程 AI 智能体工具",
+        "url": "https://www.ithome.com/0/977/265.htm",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_efcf90750e2e",
+      "title": "我们不在任何设计或生产流程中使用人工智能 / We don't use AI in any of our design or production processes",
+      "url": "https://news.ycombinator.com/item?id=48927373",
+      "primary_url": "https://news.ycombinator.com/item?id=48927373",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "f01368e8d2455acf2117a13b234eb7eb4cc86f19",
+          "title": "我们不在任何设计或生产流程中使用人工智能 / We don't use AI in any of our design or production processes",
+          "url": "https://news.ycombinator.com/item?id=48927373",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-15T23:04:51.291000Z"
+        },
+        {
+          "id": "ce464937828da0e2c10a40668f2b887e8546b957",
+          "title": "我们不在任何设计或生产流程中使用人工智能 / We don't use AI in any of our design or production processes",
+          "url": "https://mass-driver.com/article/from-human-hands",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-15T21:36:49Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "f01368e8d2455acf2117a13b234eb7eb4cc86f19",
+          "title": "我们不在任何设计或生产流程中使用人工智能 / We don't use AI in any of our design or production processes",
+          "url": "https://news.ycombinator.com/item?id=48927373",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-15T23:04:51.291000Z"
+        },
+        {
+          "id": "ce464937828da0e2c10a40668f2b887e8546b957",
+          "title": "我们不在任何设计或生产流程中使用人工智能 / We don't use AI in any of our design or production processes",
+          "url": "https://mass-driver.com/article/from-human-hands",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-15T21:36:49Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5446,
+      "importance": 0.5446,
+      "importance_score": 0.5446,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.983,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-15T21:36:49Z",
+      "latest_at": "2026-07-15T23:04:51.291000Z",
+      "primary_item": {
+        "id": "f01368e8d2455acf2117a13b234eb7eb4cc86f19",
+        "title": "我们不在任何设计或生产流程中使用人工智能 / We don't use AI in any of our design or production processes",
+        "url": "https://news.ycombinator.com/item?id=48927373",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     },
     {
@@ -1085,14 +1262,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5461,
-      "importance": 0.5461,
-      "importance_score": 0.5461,
+      "score": 0.5341,
+      "importance": 0.5341,
+      "importance_score": 0.5341,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8655,
+        "recency": 0.8057,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1107,84 +1284,6 @@
         "url": "https://martinfowler.com/articles/llm-and-dsls.html",
         "source": "martinfowler.com",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_1e554fb8d50e",
-      "title": "Brainless：Shadcn 组件看起来像 Claude Code、Codex 和 Grok / Brainless: Shadcn components that look like Claude Code, Codex and Grok",
-      "url": "https://news.ycombinator.com/item?id=48926085",
-      "primary_url": "https://news.ycombinator.com/item?id=48926085",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "9940c593493f56ab2e8023d1f79390d12ca8e863",
-          "title": "Brainless：Shadcn 组件看起来像 Claude Code、Codex 和 Grok / Brainless: Shadcn components that look like Claude Code, Codex and Grok",
-          "url": "https://news.ycombinator.com/item?id=48926085",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-15T21:34:34.167000Z"
-        },
-        {
-          "id": "e980321d726487a32c7236e317ddd02c2d938e4b",
-          "title": "Brainless：Shadcn 组件看起来像 Claude Code、Codex 和 Grok / Brainless: Shadcn components that look like Claude Code, Codex and Grok",
-          "url": "https://brainless.swerdlow.dev",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-15T19:42:53Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "9940c593493f56ab2e8023d1f79390d12ca8e863",
-          "title": "Brainless：Shadcn 组件看起来像 Claude Code、Codex 和 Grok / Brainless: Shadcn components that look like Claude Code, Codex and Grok",
-          "url": "https://news.ycombinator.com/item?id=48926085",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-15T21:34:34.167000Z"
-        },
-        {
-          "id": "e980321d726487a32c7236e317ddd02c2d938e4b",
-          "title": "Brainless：Shadcn 组件看起来像 Claude Code、Codex 和 Grok / Brainless: Shadcn components that look like Claude Code, Codex and Grok",
-          "url": "https://brainless.swerdlow.dev",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-15T19:42:53Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.544,
-      "importance": 0.544,
-      "importance_score": 0.544,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9801,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-15T19:42:53Z",
-      "latest_at": "2026-07-15T21:34:34.167000Z",
-      "primary_item": {
-        "id": "9940c593493f56ab2e8023d1f79390d12ca8e863",
-        "title": "Brainless：Shadcn 组件看起来像 Claude Code、Codex 和 Grok / Brainless: Shadcn components that look like Claude Code, Codex and Grok",
-        "url": "https://news.ycombinator.com/item?id=48926085",
-        "source": "hackernews",
-        "source_name": "NewsNow"
       }
     },
     {
@@ -1241,14 +1340,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5433,
-      "importance": 0.5433,
-      "importance_score": 0.5433,
+      "score": 0.5313,
+      "importance": 0.5313,
+      "importance_score": 0.5313,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9764,
+        "recency": 0.9166,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1319,14 +1418,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5422,
-      "importance": 0.5422,
-      "importance_score": 0.5422,
+      "score": 0.5303,
+      "importance": 0.5303,
+      "importance_score": 0.5303,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.5,
         "ai_relevance": 0.67,
-        "recency": 0.5811,
+        "recency": 0.5213,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1341,6 +1440,83 @@
         "url": "https://www.wired.com/story/the-apple-faceid-veteran-building-a-frontier-ai-model-for-the-human-brain",
         "source": "Wired AI",
         "source_name": "OPML RSS"
+      }
+    },
+    {
+      "story_id": "story_3f67eb884b57",
+      "title": "政府、公司、非营利组织应该投资免费、开源的人工智能 [pdf] / Governments, companies, nonprofits should invest in free, open source AI [pdf]",
+      "url": "https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf",
+      "primary_url": "https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf",
+      "source": "Hacker News (黑客新闻)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "d1e37addc414460bf941ed9e820809b697992d22",
+          "title": "政府、公司、非营利组织应该投资免费、开源的人工智能 [pdf] / Governments, companies, nonprofits should invest in free, open source AI [pdf]",
+          "url": "https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-15T21:16:36Z"
+        },
+        {
+          "id": "83c9f6de18f5813935ebe0d31a5e085ec7e65d2c",
+          "title": "必须积极资助开源人工智能 [pdf] / Must actively fund open source AI [pdf]",
+          "url": "https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-15T21:16:36Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)"
+      ],
+      "items": [
+        {
+          "id": "d1e37addc414460bf941ed9e820809b697992d22",
+          "title": "政府、公司、非营利组织应该投资免费、开源的人工智能 [pdf] / Governments, companies, nonprofits should invest in free, open source AI [pdf]",
+          "url": "https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-15T21:16:36Z"
+        },
+        {
+          "id": "83c9f6de18f5813935ebe0d31a5e085ec7e65d2c",
+          "title": "必须积极资助开源人工智能 [pdf] / Must actively fund open source AI [pdf]",
+          "url": "https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-15T21:16:36Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5296,
+      "importance": 0.5296,
+      "importance_score": 0.5296,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9078,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-15T21:16:36Z",
+      "latest_at": "2026-07-15T21:16:36Z",
+      "primary_item": {
+        "id": "d1e37addc414460bf941ed9e820809b697992d22",
+        "title": "政府、公司、非营利组织应该投资免费、开源的人工智能 [pdf] / Governments, companies, nonprofits should invest in free, open source AI [pdf]",
+        "url": "https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf",
+        "source": "Hacker News (黑客新闻)",
+        "source_name": "Info Flow"
       }
     },
     {
@@ -1416,14 +1592,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5372,
-      "importance": 0.5372,
-      "importance_score": 0.5372,
+      "score": 0.5253,
+      "importance": 0.5253,
+      "importance_score": 0.5253,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.821,
+        "recency": 0.7613,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1438,6 +1614,83 @@
         "url": "https://dpa-international.com/economics/urn:newsml:dpa.com:20090101:260715-930-389143",
         "source": "dpa-international.com",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_f42bd958467e",
+      "title": "格罗克构建 / Grok Build",
+      "url": "https://github.com/xai-org/grok-build",
+      "primary_url": "https://github.com/xai-org/grok-build",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "0ac0e319c55fd403d69a40fcf5ad9c44ab46f41c",
+          "title": "格罗克构建 / Grok Build",
+          "url": "https://github.com/xai-org/grok-build",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-15T20:24:58Z"
+        },
+        {
+          "id": "732c3849359c7ad40d815a39f1981c96efaee91e",
+          "title": "Grok Build 是开源的 / Grok Build is open source",
+          "url": "https://github.com/xai-org/grok-build",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-15T20:24:58Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热"
+      ],
+      "items": [
+        {
+          "id": "0ac0e319c55fd403d69a40fcf5ad9c44ab46f41c",
+          "title": "格罗克构建 / Grok Build",
+          "url": "https://github.com/xai-org/grok-build",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-15T20:24:58Z"
+        },
+        {
+          "id": "732c3849359c7ad40d815a39f1981c96efaee91e",
+          "title": "Grok Build 是开源的 / Grok Build is open source",
+          "url": "https://github.com/xai-org/grok-build",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-15T20:24:58Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5224,
+      "importance": 0.5224,
+      "importance_score": 0.5224,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.872,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-15T20:24:58Z",
+      "latest_at": "2026-07-15T20:24:58Z",
+      "primary_item": {
+        "id": "0ac0e319c55fd403d69a40fcf5ad9c44ab46f41c",
+        "title": "格罗克构建 / Grok Build",
+        "url": "https://github.com/xai-org/grok-build",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
       }
     },
     {
@@ -1494,14 +1747,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5299,
-      "importance": 0.5299,
-      "importance_score": 0.5299,
+      "score": 0.518,
+      "importance": 0.518,
+      "importance_score": 0.518,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9097,
+        "recency": 0.8499,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1515,260 +1768,6 @@
         "title": "花旗集团首席技术官蒂姆·瑞安解释了为何不会追踪员工使用人工智能的每一步操作",
         "url": "https://www.businessinsider.com/tim-ryan-citi-technology-ai-transformation-jane-fraser-2026-7",
         "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_172b5bbe18c6",
-      "title": "全球首款手机级 27B 多模态 AI 模型 Bonsai 27B 横空出世",
-      "url": "https://www.aibase.com/news/29613",
-      "primary_url": "https://www.aibase.com/news/29613",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "1981f2a0166adf58515350074aee8611335c874d",
-          "title": "全球首款手机级 27B 多模态 AI 模型 Bonsai 27B 横空出世",
-          "url": "https://www.aibase.com/news/29613",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-15T06:36:09.428313Z"
-        },
-        {
-          "id": "da5c95907cda5e94c47535562716f4880fa8b74b",
-          "title": "全球首款手机级 27B 多模态 AI 模型 Bonsai 27B 横空出世",
-          "url": "https://www.aibase.com/zh/news/29613",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "1981f2a0166adf58515350074aee8611335c874d",
-          "title": "全球首款手机级 27B 多模态 AI 模型 Bonsai 27B 横空出世",
-          "url": "https://www.aibase.com/news/29613",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-15T06:36:09.428313Z"
-        },
-        {
-          "id": "da5c95907cda5e94c47535562716f4880fa8b74b",
-          "title": "全球首款手机级 27B 多模态 AI 模型 Bonsai 27B 横空出世",
-          "url": "https://www.aibase.com/zh/news/29613",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7082,
-      "importance": 0.7082,
-      "importance_score": 0.7082,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.3562,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-15T06:36:09.428313Z",
-      "latest_at": "2026-07-15T06:36:09.428313Z",
-      "primary_item": {
-        "id": "1981f2a0166adf58515350074aee8611335c874d",
-        "title": "全球首款手机级 27B 多模态 AI 模型 Bonsai 27B 横空出世",
-        "url": "https://www.aibase.com/news/29613",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_7669484c209f",
-      "title": "《三秒盗窃：为何人工智能语音诈骗总能突破所有防线》",
-      "url": "https://smarterarticles.co.uk/the-three-second-theft-why-ai-voice-fraud-outruns-every-defence",
-      "primary_url": "https://smarterarticles.co.uk/the-three-second-theft-why-ai-voice-fraud-outruns-every-defence",
-      "source": "smarterarticles.co.uk",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "56581aadd6344a1ae1344ad345a485c4f59f0854",
-          "title": "《三秒盗窃：为何人工智能语音诈骗总能突破所有防线》",
-          "url": "https://smarterarticles.co.uk/the-three-second-theft-why-ai-voice-fraud-outruns-every-defence",
-          "source": "smarterarticles.co.uk",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-15T16:25:19.955000Z"
-        },
-        {
-          "id": "2375d6e296a96e032d78a14ecb4f7f01b454fa88",
-          "title": "三秒盗窃：为何人工智能语音欺诈胜过一切防御 / The Three-Second Theft: Why AI Voice Fraud Outruns Every Defence",
-          "url": "https://news.ycombinator.com/item?id=48920432",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-15T14:33:45.826000Z"
-        },
-        {
-          "id": "d3dc317c406c347a1495a6f7a394a67a6684122a",
-          "title": "《三秒盗窃：为何人工智能语音诈骗总能突破所有防线》 / The Three-Second Theft: Why AI Voice Fraud Outruns Every Defence",
-          "url": "https://smarterarticles.co.uk/the-three-second-theft-why-ai-voice-fraud-outruns-every-defence",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-15T13:18:15Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News",
-        "hackernews",
-        "smarterarticles.co.uk"
-      ],
-      "items": [
-        {
-          "id": "56581aadd6344a1ae1344ad345a485c4f59f0854",
-          "title": "《三秒盗窃：为何人工智能语音诈骗总能突破所有防线》",
-          "url": "https://smarterarticles.co.uk/the-three-second-theft-why-ai-voice-fraud-outruns-every-defence",
-          "source": "smarterarticles.co.uk",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-15T16:25:19.955000Z"
-        },
-        {
-          "id": "2375d6e296a96e032d78a14ecb4f7f01b454fa88",
-          "title": "三秒盗窃：为何人工智能语音欺诈胜过一切防御 / The Three-Second Theft: Why AI Voice Fraud Outruns Every Defence",
-          "url": "https://news.ycombinator.com/item?id=48920432",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-15T14:33:45.826000Z"
-        },
-        {
-          "id": "d3dc317c406c347a1495a6f7a394a67a6684122a",
-          "title": "《三秒盗窃：为何人工智能语音诈骗总能突破所有防线》 / The Three-Second Theft: Why AI Voice Fraud Outruns Every Defence",
-          "url": "https://smarterarticles.co.uk/the-three-second-theft-why-ai-voice-fraud-outruns-every-defence",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-15T13:18:15Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5261,
-      "importance": 0.5261,
-      "importance_score": 0.5261,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7653,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-15T13:18:15Z",
-      "latest_at": "2026-07-15T16:25:19.955000Z",
-      "primary_item": {
-        "id": "56581aadd6344a1ae1344ad345a485c4f59f0854",
-        "title": "《三秒盗窃：为何人工智能语音诈骗总能突破所有防线》",
-        "url": "https://smarterarticles.co.uk/the-three-second-theft-why-ai-voice-fraud-outruns-every-defence",
-        "source": "smarterarticles.co.uk",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_18de27eea197",
-      "title": "OpenAI的首款自有品牌硬件竟然是……一款带背光的键盘？",
-      "url": "https://arstechnica.com/ai/2026/07/openais-first-branded-hardware-is-a-light-up-keyboard",
-      "primary_url": "https://arstechnica.com/ai/2026/07/openais-first-branded-hardware-is-a-light-up-keyboard",
-      "source": "arstechnica.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "79e5099de8c1cf53b92593bfe8fa37fc2eaa0100",
-          "title": "OpenAI的首款自有品牌硬件竟然是……一款带背光的键盘？",
-          "url": "https://arstechnica.com/ai/2026/07/openais-first-branded-hardware-is-a-light-up-keyboard",
-          "source": "arstechnica.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-15T19:05:15.658000Z"
-        },
-        {
-          "id": "c18bb368895f002d292d1667e4f9d95040ee92f1",
-          "title": "OpenAI的首款自有品牌硬件竟然是……一款带背光的键盘？ / OpenAI's first branded hardware is... a light-up keyboard?",
-          "url": "https://arstechnica.com/ai/2026/07/openais-first-branded-hardware-is-a-light-up-keyboard",
-          "source": "Ars Technica",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-15T16:00:33Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Ars Technica",
-        "arstechnica.com"
-      ],
-      "items": [
-        {
-          "id": "79e5099de8c1cf53b92593bfe8fa37fc2eaa0100",
-          "title": "OpenAI的首款自有品牌硬件竟然是……一款带背光的键盘？",
-          "url": "https://arstechnica.com/ai/2026/07/openais-first-branded-hardware-is-a-light-up-keyboard",
-          "source": "arstechnica.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-15T19:05:15.658000Z"
-        },
-        {
-          "id": "c18bb368895f002d292d1667e4f9d95040ee92f1",
-          "title": "OpenAI的首款自有品牌硬件竟然是……一款带背光的键盘？ / OpenAI's first branded hardware is... a light-up keyboard?",
-          "url": "https://arstechnica.com/ai/2026/07/openais-first-branded-hardware-is-a-light-up-keyboard",
-          "source": "Ars Technica",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-15T16:00:33Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5233,
-      "importance": 0.5233,
-      "importance_score": 0.5233,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8764,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-15T16:00:33Z",
-      "latest_at": "2026-07-15T19:05:15.658000Z",
-      "primary_item": {
-        "id": "79e5099de8c1cf53b92593bfe8fa37fc2eaa0100",
-        "title": "OpenAI的首款自有品牌硬件竟然是……一款带背光的键盘？",
-        "url": "https://arstechnica.com/ai/2026/07/openais-first-branded-hardware-is-a-light-up-keyboard",
-        "source": "arstechnica.com",
         "source_name": "Buzzing"
       }
     }
