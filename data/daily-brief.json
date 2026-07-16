@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-07-16T20:03:54.330125Z",
+  "generated_at": "2026-07-16T21:33:21.637146Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260717-0604-244e-bf13-1f3069d96973&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260717-0604-244e-bf13-1f3069d96973&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260717-0733-428d-9fbf-5dbeac99a180&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260717-0733-428d-9fbf-5dbeac99a180&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "089b4c852a4e5ee3f71bcd239b1cb8c4f770c2b4",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260717-0733-428d-9fbf-5dbeac99a180&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "5c9b0bad90d09d244f6aa9c5d734ea23f9228823",
           "title": "点击这里进入 / Click here to enter",
@@ -114,15 +123,6 @@
           "id": "5181dfcf6d75d440f2d9a3c3e6346758a7774293",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260716-0803-376a-9a7e-2eb8865264f2&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "4a1e1ef2c6287acfe259c2323a6b347a07481317",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260716-0634-266a-bebf-40b6e67cd6f4&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -135,6 +135,15 @@
       ],
       "items": [
         {
+          "id": "089b4c852a4e5ee3f71bcd239b1cb8c4f770c2b4",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260717-0733-428d-9fbf-5dbeac99a180&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "5c9b0bad90d09d244f6aa9c5d734ea23f9228823",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260717-0604-244e-bf13-1f3069d96973&fp=-3",
@@ -237,15 +246,6 @@
           "id": "5181dfcf6d75d440f2d9a3c3e6346758a7774293",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260716-0803-376a-9a7e-2eb8865264f2&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "4a1e1ef2c6287acfe259c2323a6b347a07481317",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260716-0634-266a-bebf-40b6e67cd6f4&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -270,12 +270,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-15T20:34:02.781064Z",
-      "latest_at": "2026-07-16T20:03:54.330125Z",
+      "earliest_at": "2026-07-15T22:03:14.693151Z",
+      "latest_at": "2026-07-16T21:33:21.637146Z",
       "primary_item": {
-        "id": "5c9b0bad90d09d244f6aa9c5d734ea23f9228823",
+        "id": "089b4c852a4e5ee3f71bcd239b1cb8c4f770c2b4",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260717-0604-244e-bf13-1f3069d96973&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260717-0733-428d-9fbf-5dbeac99a180&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
       }
@@ -315,14 +315,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8523,
-      "importance": 0.8523,
-      "importance_score": 0.8523,
+      "score": 0.8399,
+      "importance": 0.8399,
+      "importance_score": 0.8399,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9564,
+        "recency": 0.8943,
         "story_heat": 0.0
       },
       "category": "official",
@@ -376,14 +376,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8391,
-      "importance": 0.8391,
-      "importance_score": 0.8391,
+      "score": 0.8267,
+      "importance": 0.8267,
+      "importance_score": 0.8267,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8306,
+        "recency": 0.7685,
         "story_heat": 0.0
       },
       "category": "official",
@@ -437,14 +437,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8271,
-      "importance": 0.8271,
-      "importance_score": 0.8271,
+      "score": 0.8147,
+      "importance": 0.8147,
+      "importance_score": 0.8147,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8306,
+        "recency": 0.7685,
         "story_heat": 0.0
       },
       "category": "official",
@@ -461,6 +461,66 @@
         "url": "https://blog.google/products-and-platforms/products/workspace/gemini-omni-personal-avatars",
         "source": "Google AI Blog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_9b539e9764b4",
+      "title": "xAI 起诉 Grok 用户制作儿童性虐待内容，不再否认模型被滥用",
+      "url": "https://aihot.virxact.com/items/cmrnz309k00f0biq1v5egac59",
+      "primary_url": "https://aihot.virxact.com/items/cmrnz309k00f0biq1v5egac59",
+      "source": "Ars Technica：AI（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "a206c5f78427417b7a32f5c7b085c0d9220b6081",
+          "title": "xAI 起诉 Grok 用户制作儿童性虐待内容，不再否认模型被滥用",
+          "url": "https://aihot.virxact.com/items/cmrnz309k00f0biq1v5egac59",
+          "source": "Ars Technica：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-16T20:26:23Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Ars Technica：AI（RSS）"
+      ],
+      "items": [
+        {
+          "id": "a206c5f78427417b7a32f5c7b085c0d9220b6081",
+          "title": "xAI 起诉 Grok 用户制作儿童性虐待内容，不再否认模型被滥用",
+          "url": "https://aihot.virxact.com/items/cmrnz309k00f0biq1v5egac59",
+          "source": "Ars Technica：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-16T20:26:23Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8027,
+      "importance": 0.8027,
+      "importance_score": 0.8027,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9535,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-16T20:26:23Z",
+      "latest_at": "2026-07-16T20:26:23Z",
+      "primary_item": {
+        "id": "a206c5f78427417b7a32f5c7b085c0d9220b6081",
+        "title": "xAI 起诉 Grok 用户制作儿童性虐待内容，不再否认模型被滥用",
+        "url": "https://aihot.virxact.com/items/cmrnz309k00f0biq1v5egac59",
+        "source": "Ars Technica：AI（RSS）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -498,14 +558,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8447,
-      "importance": 0.8447,
-      "importance_score": 0.8447,
+      "score": 0.8323,
+      "importance": 0.8323,
+      "importance_score": 0.8323,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9187,
+        "recency": 0.8566,
         "story_heat": 0.0
       },
       "category": "official",
@@ -559,14 +619,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8047,
-      "importance": 0.8047,
-      "importance_score": 0.8047,
+      "score": 0.7922,
+      "importance": 0.7922,
+      "importance_score": 0.7922,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9633,
+        "recency": 0.9012,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -619,14 +679,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8035,
-      "importance": 0.8035,
-      "importance_score": 0.8035,
+      "score": 0.7911,
+      "importance": 0.7911,
+      "importance_score": 0.7911,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9574,
+        "recency": 0.8953,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -679,14 +739,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.801,
-      "importance": 0.801,
-      "importance_score": 0.801,
+      "score": 0.7886,
+      "importance": 0.7886,
+      "importance_score": 0.7886,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9452,
+        "recency": 0.8831,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -739,14 +799,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7993,
-      "importance": 0.7993,
-      "importance_score": 0.7993,
+      "score": 0.7869,
+      "importance": 0.7869,
+      "importance_score": 0.7869,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9364,
+        "recency": 0.8743,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -799,14 +859,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.791,
-      "importance": 0.791,
-      "importance_score": 0.791,
+      "score": 0.7785,
+      "importance": 0.7785,
+      "importance_score": 0.7785,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8948,
+        "recency": 0.8327,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -859,14 +919,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8438,
-      "importance": 0.8438,
-      "importance_score": 0.8438,
+      "score": 0.8314,
+      "importance": 0.8314,
+      "importance_score": 0.8314,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.914,
+        "recency": 0.8519,
         "story_heat": 0.0
       },
       "category": "official",
@@ -920,14 +980,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7781,
-      "importance": 0.7781,
-      "importance_score": 0.7781,
+      "score": 0.7657,
+      "importance": 0.7657,
+      "importance_score": 0.7657,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8306,
+        "recency": 0.7685,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -980,14 +1040,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7668,
-      "importance": 0.7668,
-      "importance_score": 0.7668,
+      "score": 0.7543,
+      "importance": 0.7543,
+      "importance_score": 0.7543,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7738,
+        "recency": 0.7116,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1040,20 +1100,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7541,
-      "importance": 0.7541,
-      "importance_score": 0.7541,
+      "score": 0.7417,
+      "importance": 0.7417,
+      "importance_score": 0.7417,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7105,
+        "recency": 0.6484,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-16T13:07:05Z",
       "latest_at": "2026-07-16T13:07:05Z",
@@ -1100,14 +1159,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7838,
-      "importance": 0.7838,
-      "importance_score": 0.7838,
+      "score": 0.7714,
+      "importance": 0.7714,
+      "importance_score": 0.7714,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.859,
+        "recency": 0.7968,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1179,14 +1238,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7497,
-      "importance": 0.7497,
-      "importance_score": 0.7497,
+      "score": 0.7373,
+      "importance": 0.7373,
+      "importance_score": 0.7373,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.5635,
+        "recency": 0.5013,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1239,14 +1298,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7472,
-      "importance": 0.7472,
-      "importance_score": 0.7472,
+      "score": 0.7348,
+      "importance": 0.7348,
+      "importance_score": 0.7348,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6759,
+        "recency": 0.6138,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1298,14 +1357,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7457,
-      "importance": 0.7457,
-      "importance_score": 0.7457,
+      "score": 0.7333,
+      "importance": 0.7333,
+      "importance_score": 0.7333,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6687,
+        "recency": 0.6066,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1357,14 +1416,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.766,
-      "importance": 0.766,
-      "importance_score": 0.766,
+      "score": 0.7535,
+      "importance": 0.7535,
+      "importance_score": 0.7535,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7698,
+        "recency": 0.7076,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1379,65 +1438,6 @@
         "title": "在 Claude Cowork 中使用 Claude Fable 5",
         "url": "https://aihot.virxact.com/items/cmrnlyzl3006sbi8v0f80nbaz",
         "source": "Claude：Blog（网页）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_73ea5e2f3a94",
-      "title": "HYPIC：小红书联合北大、上交提出首个混合注意力大模型位置无关缓存系统",
-      "url": "https://aihot.virxact.com/items/cmrnclu0101cgbic6rpcgkw8s",
-      "primary_url": "https://aihot.virxact.com/items/cmrnclu0101cgbic6rpcgkw8s",
-      "source": "公众号：小红书技术（dots.llm）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "4c2ba4984ccef8405ee994b9557023b7e89b07c0",
-          "title": "HYPIC：小红书联合北大、上交提出首个混合注意力大模型位置无关缓存系统",
-          "url": "https://aihot.virxact.com/items/cmrnclu0101cgbic6rpcgkw8s",
-          "source": "公众号：小红书技术（dots.llm）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-16T10:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "公众号：小红书技术（dots.llm）"
-      ],
-      "items": [
-        {
-          "id": "4c2ba4984ccef8405ee994b9557023b7e89b07c0",
-          "title": "HYPIC：小红书联合北大、上交提出首个混合注意力大模型位置无关缓存系统",
-          "url": "https://aihot.virxact.com/items/cmrnclu0101cgbic6rpcgkw8s",
-          "source": "公众号：小红书技术（dots.llm）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-16T10:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7281,
-      "importance": 0.7281,
-      "importance_score": 0.7281,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5806,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-16T10:00:00Z",
-      "latest_at": "2026-07-16T10:00:00Z",
-      "primary_item": {
-        "id": "4c2ba4984ccef8405ee994b9557023b7e89b07c0",
-        "title": "HYPIC：小红书联合北大、上交提出首个混合注意力大模型位置无关缓存系统",
-        "url": "https://aihot.virxact.com/items/cmrnclu0101cgbic6rpcgkw8s",
-        "source": "公众号：小红书技术（dots.llm）",
         "source_name": "AI HOT"
       }
     }
