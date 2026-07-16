@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-07-16T04:39:14.306541Z",
+  "generated_at": "2026-07-16T07:23:09.606305Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260716-1439-450c-8e54-2a88c0eb3737&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260716-1439-450c-8e54-2a88c0eb3737&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260716-1723-3268-8011-d4bbf95e401e&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260716-1723-3268-8011-d4bbf95e401e&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "d259362e0f1e73fb90b441205cba0e4596d83105",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260716-1723-3268-8011-d4bbf95e401e&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "99e16eac59a87d36cfde541d0fb6aab3679f45d2",
           "title": "点击这里进入 / Click here to enter",
@@ -120,12 +129,21 @@
           "published_at": null
         }
       ],
-      "source_count": 12,
+      "source_count": 13,
       "source_names": [
         "Page Fallback"
       ],
       "items": [
         {
+          "id": "d259362e0f1e73fb90b441205cba0e4596d83105",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260716-1723-3268-8011-d4bbf95e401e&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "99e16eac59a87d36cfde541d0fb6aab3679f45d2",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260716-1439-450c-8e54-2a88c0eb3737&fp=-3",
@@ -234,8 +252,8 @@
           "published_at": null
         }
       ],
-      "item_count": 12,
-      "duplicate_count": 12,
+      "item_count": 13,
+      "duplicate_count": 13,
       "score": 0.912,
       "importance": 0.912,
       "importance_score": 0.912,
@@ -253,13 +271,93 @@
         "high_importance"
       ],
       "earliest_at": "2026-07-15T09:10:21.439247Z",
-      "latest_at": "2026-07-16T04:39:14.306541Z",
+      "latest_at": "2026-07-16T07:23:09.606305Z",
       "primary_item": {
-        "id": "99e16eac59a87d36cfde541d0fb6aab3679f45d2",
+        "id": "d259362e0f1e73fb90b441205cba0e4596d83105",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260716-1439-450c-8e54-2a88c0eb3737&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260716-1723-3268-8011-d4bbf95e401e&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
+      }
+    },
+    {
+      "story_id": "story_4165329a7f71",
+      "title": "小米发布具身智能基底模型Xiaomi-Robotics-1，探索物理AI Scaling效应",
+      "url": "https://www.aibase.com/news/29652",
+      "primary_url": "https://www.aibase.com/news/29652",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "27f6925abb9e2c7bd541b2def526e6e0f9be8142",
+          "title": "小米发布具身智能基底模型Xiaomi-Robotics-1，探索物理AI Scaling效应",
+          "url": "https://www.aibase.com/news/29652",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-16T07:23:09.606305Z"
+        },
+        {
+          "id": "b33957a8899a83e781d25fd1de31f613ea97c69d",
+          "title": "小米发布具身智能基底模型 Xiaomi-Robotics-1，探索物理 AI Scaling 效应",
+          "url": "https://www.aibase.com/zh/news/29652",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "27f6925abb9e2c7bd541b2def526e6e0f9be8142",
+          "title": "小米发布具身智能基底模型Xiaomi-Robotics-1，探索物理AI Scaling效应",
+          "url": "https://www.aibase.com/news/29652",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-16T07:23:09.606305Z"
+        },
+        {
+          "id": "b33957a8899a83e781d25fd1de31f613ea97c69d",
+          "title": "小米发布具身智能基底模型 Xiaomi-Robotics-1，探索物理 AI Scaling 效应",
+          "url": "https://www.aibase.com/zh/news/29652",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.837,
+      "importance": 0.837,
+      "importance_score": 0.837,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-16T07:23:09.606305Z",
+      "latest_at": "2026-07-16T07:23:09.606305Z",
+      "primary_item": {
+        "id": "27f6925abb9e2c7bd541b2def526e6e0f9be8142",
+        "title": "小米发布具身智能基底模型Xiaomi-Robotics-1，探索物理AI Scaling效应",
+        "url": "https://www.aibase.com/news/29652",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -297,14 +395,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8552,
-      "importance": 0.8552,
-      "importance_score": 0.8552,
+      "score": 0.8324,
+      "importance": 0.8324,
+      "importance_score": 0.8324,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.8061,
+        "recency": 0.6922,
         "story_heat": 0.0
       },
       "category": "official",
@@ -321,66 +419,6 @@
         "url": "https://developers.openai.com/codex/changelog",
         "source": "OpenAI Codex Changelog",
         "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_781aca4a086a",
-      "title": "GPT-5. 6 智商首破 130 天才线，比99%人类都聪明，实测干活能力同样炸裂",
-      "url": "https://www.aibase.com/news/29645",
-      "primary_url": "https://www.aibase.com/news/29645",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "9bd0a6d31a8459f376d0fee6ece074c17a024c73",
-          "title": "GPT-5. 6 智商首破 130 天才线，比99%人类都聪明，实测干活能力同样炸裂",
-          "url": "https://www.aibase.com/news/29645",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-16T04:39:14.306541Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "9bd0a6d31a8459f376d0fee6ece074c17a024c73",
-          "title": "GPT-5. 6 智商首破 130 天才线，比99%人类都聪明，实测干活能力同样炸裂",
-          "url": "https://www.aibase.com/news/29645",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-16T04:39:14.306541Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-16T04:39:14.306541Z",
-      "latest_at": "2026-07-16T04:39:14.306541Z",
-      "primary_item": {
-        "id": "9bd0a6d31a8459f376d0fee6ece074c17a024c73",
-        "title": "GPT-5. 6 智商首破 130 天才线，比99%人类都聪明，实测干活能力同样炸裂",
-        "url": "https://www.aibase.com/news/29645",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     },
     {
@@ -418,14 +456,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8109,
-      "importance": 0.8109,
-      "importance_score": 0.8109,
+      "score": 0.7881,
+      "importance": 0.7881,
+      "importance_score": 0.7881,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7493,
+        "recency": 0.6355,
         "story_heat": 0.0
       },
       "category": "official",
@@ -442,6 +480,66 @@
         "url": "https://github.blog/changelog/2026-07-15-improvements-to-secret-scanning-and-public-monitoring",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_aefc3a9244d6",
+      "title": "Kimi K3 模型预热视频流出，多段对比直指Claude Fable5 发起挑战",
+      "url": "https://www.aibase.com/news/29650",
+      "primary_url": "https://www.aibase.com/news/29650",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "26b253eaf185bcf6a086586579133fbc3feebd37",
+          "title": "Kimi K3 模型预热视频流出，多段对比直指Claude Fable5 发起挑战",
+          "url": "https://www.aibase.com/news/29650",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-16T07:23:09.606305Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "26b253eaf185bcf6a086586579133fbc3feebd37",
+          "title": "Kimi K3 模型预热视频流出，多段对比直指Claude Fable5 发起挑战",
+          "url": "https://www.aibase.com/news/29650",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-16T07:23:09.606305Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-16T07:23:09.606305Z",
+      "latest_at": "2026-07-16T07:23:09.606305Z",
+      "primary_item": {
+        "id": "26b253eaf185bcf6a086586579133fbc3feebd37",
+        "title": "Kimi K3 模型预热视频流出，多段对比直指Claude Fable5 发起挑战",
+        "url": "https://www.aibase.com/news/29650",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -479,14 +577,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.802,
-      "importance": 0.802,
-      "importance_score": 0.802,
+      "score": 0.7792,
+      "importance": 0.7792,
+      "importance_score": 0.7792,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9499,
+        "recency": 0.8361,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -539,14 +637,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.792,
-      "importance": 0.792,
-      "importance_score": 0.792,
+      "score": 0.7692,
+      "importance": 0.7692,
+      "importance_score": 0.7692,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.535,
+        "recency": 0.4212,
         "story_heat": 0.0
       },
       "category": "official",
@@ -600,14 +698,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7899,
-      "importance": 0.7899,
-      "importance_score": 0.7899,
+      "score": 0.7671,
+      "importance": 0.7671,
+      "importance_score": 0.7671,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8894,
+        "recency": 0.7756,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -660,14 +758,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7866,
-      "importance": 0.7866,
-      "importance_score": 0.7866,
+      "score": 0.7638,
+      "importance": 0.7638,
+      "importance_score": 0.7638,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8729,
+        "recency": 0.7591,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -683,66 +781,6 @@
         "url": "https://aihot.virxact.com/items/cmrmudyvj015jbije15lwn7k2",
         "source": "公众号：MiniMax（稀宇科技）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_9f358a18acb4",
-      "title": "OpenAI 开启 AI 安全飞轮：GPT-Red 如何重新定义模型鲁棒性",
-      "url": "https://www.aibase.com/news/29643",
-      "primary_url": "https://www.aibase.com/news/29643",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "c9564b346f5939b55222446f8964f299c9fb0809",
-          "title": "OpenAI 开启 AI 安全飞轮：GPT-Red 如何重新定义模型鲁棒性",
-          "url": "https://www.aibase.com/news/29643",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-16T04:39:14.306541Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "c9564b346f5939b55222446f8964f299c9fb0809",
-          "title": "OpenAI 开启 AI 安全飞轮：GPT-Red 如何重新定义模型鲁棒性",
-          "url": "https://www.aibase.com/news/29643",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-16T04:39:14.306541Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-16T04:39:14.306541Z",
-      "latest_at": "2026-07-16T04:39:14.306541Z",
-      "primary_item": {
-        "id": "c9564b346f5939b55222446f8964f299c9fb0809",
-        "title": "OpenAI 开启 AI 安全飞轮：GPT-Red 如何重新定义模型鲁棒性",
-        "url": "https://www.aibase.com/news/29643",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     },
     {
@@ -780,14 +818,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7778,
-      "importance": 0.7778,
-      "importance_score": 0.7778,
+      "score": 0.7551,
+      "importance": 0.7551,
+      "importance_score": 0.7551,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8292,
+        "recency": 0.7154,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -840,14 +878,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7749,
-      "importance": 0.7749,
-      "importance_score": 0.7749,
+      "score": 0.7521,
+      "importance": 0.7521,
+      "importance_score": 0.7521,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8144,
+        "recency": 0.7006,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -863,6 +901,66 @@
         "url": "https://aihot.virxact.com/items/cmrmrjrwk001pbimilq46mpeq",
         "source": "公众号：数字生命卡兹克",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_6a87f0ba9c91",
+      "title": "MiniMax发布Code2.0桌面端:底层架构全面重构，原生接入金融多源数据",
+      "url": "https://www.aibase.com/news/29648",
+      "primary_url": "https://www.aibase.com/news/29648",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "9da8a7caae8db939cafaa00927c25d8a43c5a763",
+          "title": "MiniMax发布Code2.0桌面端:底层架构全面重构，原生接入金融多源数据",
+          "url": "https://www.aibase.com/news/29648",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-16T07:23:09.606305Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "9da8a7caae8db939cafaa00927c25d8a43c5a763",
+          "title": "MiniMax发布Code2.0桌面端:底层架构全面重构，原生接入金融多源数据",
+          "url": "https://www.aibase.com/news/29648",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-16T07:23:09.606305Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-16T07:23:09.606305Z",
+      "latest_at": "2026-07-16T07:23:09.606305Z",
+      "primary_item": {
+        "id": "9da8a7caae8db939cafaa00927c25d8a43c5a763",
+        "title": "MiniMax发布Code2.0桌面端:底层架构全面重构，原生接入金融多源数据",
+        "url": "https://www.aibase.com/news/29648",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -900,20 +998,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7634,
-      "importance": 0.7634,
-      "importance_score": 0.7634,
+      "score": 0.7406,
+      "importance": 0.7406,
+      "importance_score": 0.7406,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.757,
+        "recency": 0.6431,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-15T22:49:15Z",
       "latest_at": "2026-07-15T22:49:15Z",
@@ -923,127 +1020,6 @@
         "url": "https://aihot.virxact.com/items/cmrmotlpp07iubiuloujszkts",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_5c8332d4091e",
-      "title": "模型路由很简单。直到它不是。 / Model Routing Is Simple. Until It Isn’t.",
-      "url": "https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt",
-      "primary_url": "https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "d6ec2016da4186aea5e5e51f01139d878b2e5a1a",
-          "title": "模型路由很简单。直到它不是。 / Model Routing Is Simple. Until It Isn’t.",
-          "url": "https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-15T17:27:01Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "d6ec2016da4186aea5e5e51f01139d878b2e5a1a",
-          "title": "模型路由很简单。直到它不是。 / Model Routing Is Simple. Until It Isn’t.",
-          "url": "https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-15T17:27:01Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7916,
-      "importance": 0.7916,
-      "importance_score": 0.7916,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.5332,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-15T17:27:01Z",
-      "latest_at": "2026-07-15T17:27:01Z",
-      "primary_item": {
-        "id": "d6ec2016da4186aea5e5e51f01139d878b2e5a1a",
-        "title": "模型路由很简单。直到它不是。 / Model Routing Is Simple. Until It Isn’t.",
-        "url": "https://huggingface.co/blog/ibm-research/model-routing-is-simple-until-it-isnt",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_fd6d626f1c16",
-      "title": "OpenAI发布首款联名硬件Codex Micro 键盘 ​230 美元还会发光",
-      "url": "https://www.aibase.com/news/29637",
-      "primary_url": "https://www.aibase.com/news/29637",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "e875af097ec64d728e9cde71c1cabc428537bb78",
-          "title": "OpenAI发布首款联名硬件Codex Micro 键盘 ​230 美元还会发光",
-          "url": "https://www.aibase.com/news/29637",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-16T04:39:14.306541Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "e875af097ec64d728e9cde71c1cabc428537bb78",
-          "title": "OpenAI发布首款联名硬件Codex Micro 键盘 ​230 美元还会发光",
-          "url": "https://www.aibase.com/news/29637",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-16T04:39:14.306541Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-16T04:39:14.306541Z",
-      "latest_at": "2026-07-16T04:39:14.306541Z",
-      "primary_item": {
-        "id": "e875af097ec64d728e9cde71c1cabc428537bb78",
-        "title": "OpenAI发布首款联名硬件Codex Micro 键盘 ​230 美元还会发光",
-        "url": "https://www.aibase.com/news/29637",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     },
     {
@@ -1081,14 +1057,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7493,
-      "importance": 0.7493,
-      "importance_score": 0.7493,
+      "score": 0.7265,
+      "importance": 0.7265,
+      "importance_score": 0.7265,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6864,
+        "recency": 0.5726,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1140,14 +1116,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7467,
-      "importance": 0.7467,
-      "importance_score": 0.7467,
+      "score": 0.7239,
+      "importance": 0.7239,
+      "importance_score": 0.7239,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6734,
+        "recency": 0.5595,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1162,6 +1138,66 @@
         "url": "https://aihot.virxact.com/items/cmrmkvwzx045hbiulv638kppc",
         "source": "X：Elon Musk (@elonmusk, xAI)",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_e4a4461e26b0",
+      "title": "​MiniMax Code 2. 0 桌面端来了：长任务不再卡顿中断，远程操控和浏览器接管本月亮相",
+      "url": "https://www.aibase.com/news/29653",
+      "primary_url": "https://www.aibase.com/news/29653",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "ab269f327e2be5349b9089486abde8b361c0270a",
+          "title": "​MiniMax Code 2. 0 桌面端来了：长任务不再卡顿中断，远程操控和浏览器接管本月亮相",
+          "url": "https://www.aibase.com/news/29653",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-16T07:23:09.606305Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "ab269f327e2be5349b9089486abde8b361c0270a",
+          "title": "​MiniMax Code 2. 0 桌面端来了：长任务不再卡顿中断，远程操控和浏览器接管本月亮相",
+          "url": "https://www.aibase.com/news/29653",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-16T07:23:09.606305Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-16T07:23:09.606305Z",
+      "latest_at": "2026-07-16T07:23:09.606305Z",
+      "primary_item": {
+        "id": "ab269f327e2be5349b9089486abde8b361c0270a",
+        "title": "​MiniMax Code 2. 0 桌面端来了：长任务不再卡顿中断，远程操控和浏览器接管本月亮相",
+        "url": "https://www.aibase.com/news/29653",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -1199,14 +1235,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7435,
-      "importance": 0.7435,
-      "importance_score": 0.7435,
+      "score": 0.7207,
+      "importance": 0.7207,
+      "importance_score": 0.7207,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6575,
+        "recency": 0.5437,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1224,180 +1260,183 @@
       }
     },
     {
-      "story_id": "story_4657c8e01b53",
-      "title": "OpenAI 用 AI 攻击自家 AI：GPT-Red 自动发现安全漏洞，成功率 84% 远超人类",
-      "url": "https://aihot.virxact.com/items/cmrmi4f4x01ilbiul55xb25fm",
-      "primary_url": "https://aihot.virxact.com/items/cmrmi4f4x01ilbiul55xb25fm",
-      "source": "The Decoder：AI News（RSS）",
-      "source_name": "AI HOT",
+      "story_id": "story_4abf657fbddc",
+      "title": "​金融大模型这块蛋糕一年涨了九成，百度智能云再次稳坐头把交椅",
+      "url": "https://www.aibase.com/news/29651",
+      "primary_url": "https://www.aibase.com/news/29651",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "dfb09a8c6911a67056e87f11b91d8043bf4c5d84",
-          "title": "OpenAI 用 AI 攻击自家 AI：GPT-Red 自动发现安全漏洞，成功率 84% 远超人类",
-          "url": "https://aihot.virxact.com/items/cmrmi4f4x01ilbiul55xb25fm",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-15T19:47:53Z"
+          "id": "ae0f387b3abc14dfda20e0b9e6a3c6eb80c809b5",
+          "title": "​金融大模型这块蛋糕一年涨了九成，百度智能云再次稳坐头把交椅",
+          "url": "https://www.aibase.com/news/29651",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-16T07:23:09.606305Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "The Decoder：AI News（RSS）"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "dfb09a8c6911a67056e87f11b91d8043bf4c5d84",
-          "title": "OpenAI 用 AI 攻击自家 AI：GPT-Red 自动发现安全漏洞，成功率 84% 远超人类",
-          "url": "https://aihot.virxact.com/items/cmrmi4f4x01ilbiul55xb25fm",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-15T19:47:53Z"
+          "id": "ae0f387b3abc14dfda20e0b9e6a3c6eb80c809b5",
+          "title": "​金融大模型这块蛋糕一年涨了九成，百度智能云再次稳坐头把交椅",
+          "url": "https://www.aibase.com/news/29651",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-16T07:23:09.606305Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7382,
-      "importance": 0.7382,
-      "importance_score": 0.7382,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.631,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-07-15T19:47:53Z",
-      "latest_at": "2026-07-15T19:47:53Z",
+      "earliest_at": "2026-07-16T07:23:09.606305Z",
+      "latest_at": "2026-07-16T07:23:09.606305Z",
       "primary_item": {
-        "id": "dfb09a8c6911a67056e87f11b91d8043bf4c5d84",
-        "title": "OpenAI 用 AI 攻击自家 AI：GPT-Red 自动发现安全漏洞，成功率 84% 远超人类",
-        "url": "https://aihot.virxact.com/items/cmrmi4f4x01ilbiul55xb25fm",
-        "source": "The Decoder：AI News（RSS）",
-        "source_name": "AI HOT"
+        "id": "ae0f387b3abc14dfda20e0b9e6a3c6eb80c809b5",
+        "title": "​金融大模型这块蛋糕一年涨了九成，百度智能云再次稳坐头把交椅",
+        "url": "https://www.aibase.com/news/29651",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_5fb48ca1be6d",
-      "title": "Thinking Machines 发布多模态模型 Inkling",
-      "url": "https://aihot.virxact.com/items/cmrmeaixl05bdbivcipzbkgk8",
-      "primary_url": "https://aihot.virxact.com/items/cmrmeaixl05bdbivcipzbkgk8",
-      "source": "X：Thinking Machines (@thinkymachines)",
-      "source_name": "AI HOT",
+      "story_id": "story_33a8cfbfbe28",
+      "title": "三星携手百度智能云，推出 “盖乐世 AI” 重磅备案！",
+      "url": "https://www.aibase.com/news/29647",
+      "primary_url": "https://www.aibase.com/news/29647",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "20b7ecb64c0a577c5b007ded2c4f96c2e106ec60",
-          "title": "Thinking Machines 发布多模态模型 Inkling",
-          "url": "https://aihot.virxact.com/items/cmrmeaixl05bdbivcipzbkgk8",
-          "source": "X：Thinking Machines (@thinkymachines)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-15T18:05:50Z"
+          "id": "a6ea22a35b21c19694d623b710a7378d1ce3fa0f",
+          "title": "三星携手百度智能云，推出 “盖乐世 AI” 重磅备案！",
+          "url": "https://www.aibase.com/news/29647",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-16T07:23:09.606305Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "X：Thinking Machines (@thinkymachines)"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "20b7ecb64c0a577c5b007ded2c4f96c2e106ec60",
-          "title": "Thinking Machines 发布多模态模型 Inkling",
-          "url": "https://aihot.virxact.com/items/cmrmeaixl05bdbivcipzbkgk8",
-          "source": "X：Thinking Machines (@thinkymachines)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-15T18:05:50Z"
+          "id": "a6ea22a35b21c19694d623b710a7378d1ce3fa0f",
+          "title": "三星携手百度智能云，推出 “盖乐世 AI” 重磅备案！",
+          "url": "https://www.aibase.com/news/29647",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-16T07:23:09.606305Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.724,
-      "importance": 0.724,
-      "importance_score": 0.724,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.5601,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-07-15T18:05:50Z",
-      "latest_at": "2026-07-15T18:05:50Z",
+      "earliest_at": "2026-07-16T07:23:09.606305Z",
+      "latest_at": "2026-07-16T07:23:09.606305Z",
       "primary_item": {
-        "id": "20b7ecb64c0a577c5b007ded2c4f96c2e106ec60",
-        "title": "Thinking Machines 发布多模态模型 Inkling",
-        "url": "https://aihot.virxact.com/items/cmrmeaixl05bdbivcipzbkgk8",
-        "source": "X：Thinking Machines (@thinkymachines)",
-        "source_name": "AI HOT"
+        "id": "a6ea22a35b21c19694d623b710a7378d1ce3fa0f",
+        "title": "三星携手百度智能云，推出 “盖乐世 AI” 重磅备案！",
+        "url": "https://www.aibase.com/news/29647",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_d754e220fbb6",
-      "title": "Anthropic 研究：AI 智能体模拟中行为偏差",
-      "url": "https://aihot.virxact.com/items/cmrmee60505d9bivcmy92uddy",
-      "primary_url": "https://aihot.virxact.com/items/cmrmee60505d9bivcmy92uddy",
-      "source": "X：Anthropic (@AnthropicAI)",
-      "source_name": "AI HOT",
+      "story_id": "story_a48b41fc47b5",
+      "title": "三钟的骗局：AI 语音诈骗如何轻松绕过防线",
+      "url": "https://www.aibase.com/news/29646",
+      "primary_url": "https://www.aibase.com/news/29646",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "08b357b6e42ced9b30dde3e82bcde31bd96b88e4",
-          "title": "Anthropic 研究：AI 智能体模拟中行为偏差",
-          "url": "https://aihot.virxact.com/items/cmrmee60505d9bivcmy92uddy",
-          "source": "X：Anthropic (@AnthropicAI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-15T17:58:02Z"
+          "id": "f015b724cbaf80cf241f19fba21851b9618bae2a",
+          "title": "三钟的骗局：AI 语音诈骗如何轻松绕过防线",
+          "url": "https://www.aibase.com/news/29646",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-16T07:23:09.606305Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "X：Anthropic (@AnthropicAI)"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "08b357b6e42ced9b30dde3e82bcde31bd96b88e4",
-          "title": "Anthropic 研究：AI 智能体模拟中行为偏差",
-          "url": "https://aihot.virxact.com/items/cmrmee60505d9bivcmy92uddy",
-          "source": "X：Anthropic (@AnthropicAI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-15T17:58:02Z"
+          "id": "f015b724cbaf80cf241f19fba21851b9618bae2a",
+          "title": "三钟的骗局：AI 语音诈骗如何轻松绕过防线",
+          "url": "https://www.aibase.com/news/29646",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-16T07:23:09.606305Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7229,
-      "importance": 0.7229,
-      "importance_score": 0.7229,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.5547,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-07-15T17:58:02Z",
-      "latest_at": "2026-07-15T17:58:02Z",
+      "earliest_at": "2026-07-16T07:23:09.606305Z",
+      "latest_at": "2026-07-16T07:23:09.606305Z",
       "primary_item": {
-        "id": "08b357b6e42ced9b30dde3e82bcde31bd96b88e4",
-        "title": "Anthropic 研究：AI 智能体模拟中行为偏差",
-        "url": "https://aihot.virxact.com/items/cmrmee60505d9bivcmy92uddy",
-        "source": "X：Anthropic (@AnthropicAI)",
-        "source_name": "AI HOT"
+        "id": "f015b724cbaf80cf241f19fba21851b9618bae2a",
+        "title": "三钟的骗局：AI 语音诈骗如何轻松绕过防线",
+        "url": "https://www.aibase.com/news/29646",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     }
   ]
