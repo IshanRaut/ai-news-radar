@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-07-16T09:35:16.997142Z",
+  "generated_at": "2026-07-16T11:41:30.673990Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260716-1935-472b-a317-1fa1c349d6d9&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260716-1935-472b-a317-1fa1c349d6d9&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260716-2142-022a-903c-70df469b3bbe&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260716-2142-022a-903c-70df469b3bbe&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "90352285c096d633ac9b0ddf47f5f75cbedfb435",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260716-2142-022a-903c-70df469b3bbe&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "0dffce9366b0c3a508b330c14e1b7ae49510d87f",
           "title": "点击这里进入 / Click here to enter",
@@ -114,15 +123,6 @@
           "id": "bb20c39cf61bd073cba749a0d342511ca618de66",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260715-2252-36ad-aa66-f36f243df838&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "d626ce7023c597ec1999adf0daf5957093788c10",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260715-2109-32cd-aae3-b2ad0c2d332f&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -135,6 +135,15 @@
       ],
       "items": [
         {
+          "id": "90352285c096d633ac9b0ddf47f5f75cbedfb435",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260716-2142-022a-903c-70df469b3bbe&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "0dffce9366b0c3a508b330c14e1b7ae49510d87f",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260716-1935-472b-a317-1fa1c349d6d9&fp=-3",
@@ -237,15 +246,6 @@
           "id": "bb20c39cf61bd073cba749a0d342511ca618de66",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260715-2252-36ad-aa66-f36f243df838&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "d626ce7023c597ec1999adf0daf5957093788c10",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260715-2109-32cd-aae3-b2ad0c2d332f&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -270,12 +270,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-15T11:09:07.934846Z",
-      "latest_at": "2026-07-16T09:35:16.997142Z",
+      "earliest_at": "2026-07-15T12:52:10.742052Z",
+      "latest_at": "2026-07-16T11:41:30.673990Z",
       "primary_item": {
-        "id": "0dffce9366b0c3a508b330c14e1b7ae49510d87f",
+        "id": "90352285c096d633ac9b0ddf47f5f75cbedfb435",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260716-1935-472b-a317-1fa1c349d6d9&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260716-2142-022a-903c-70df469b3bbe&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
       }
@@ -334,14 +334,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.837,
-      "importance": 0.837,
-      "importance_score": 0.837,
+      "score": 0.8195,
+      "importance": 0.8195,
+      "importance_score": 0.8195,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9123,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -358,6 +358,126 @@
         "url": "https://www.aibase.com/news/29657",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_73ea5e2f3a94",
+      "title": "HYPIC：小红书联合北大、上交提出首个混合注意力大模型位置无关缓存系统",
+      "url": "https://aihot.virxact.com/items/cmrnclu0101cgbic6rpcgkw8s",
+      "primary_url": "https://aihot.virxact.com/items/cmrnclu0101cgbic6rpcgkw8s",
+      "source": "公众号：小红书技术（dots.llm）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "4c2ba4984ccef8405ee994b9557023b7e89b07c0",
+          "title": "HYPIC：小红书联合北大、上交提出首个混合注意力大模型位置无关缓存系统",
+          "url": "https://aihot.virxact.com/items/cmrnclu0101cgbic6rpcgkw8s",
+          "source": "公众号：小红书技术（dots.llm）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-16T10:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "公众号：小红书技术（dots.llm）"
+      ],
+      "items": [
+        {
+          "id": "4c2ba4984ccef8405ee994b9557023b7e89b07c0",
+          "title": "HYPIC：小红书联合北大、上交提出首个混合注意力大模型位置无关缓存系统",
+          "url": "https://aihot.virxact.com/items/cmrnclu0101cgbic6rpcgkw8s",
+          "source": "公众号：小红书技术（dots.llm）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-16T10:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7979,
+      "importance": 0.7979,
+      "importance_score": 0.7979,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9295,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-16T10:00:00Z",
+      "latest_at": "2026-07-16T10:00:00Z",
+      "primary_item": {
+        "id": "4c2ba4984ccef8405ee994b9557023b7e89b07c0",
+        "title": "HYPIC：小红书联合北大、上交提出首个混合注意力大模型位置无关缓存系统",
+        "url": "https://aihot.virxact.com/items/cmrnclu0101cgbic6rpcgkw8s",
+        "source": "公众号：小红书技术（dots.llm）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_c9cbb99dc0b0",
+      "title": "Gemini Enterprise Agent Platform 新增 Parallel Web Search 网络接地提供商",
+      "url": "https://aihot.virxact.com/items/cmrnc82t9016bbic6qmevgy67",
+      "primary_url": "https://aihot.virxact.com/items/cmrnc82t9016bbic6qmevgy67",
+      "source": "Google Developers Blog（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "f04b17c67cf203dc639ab73fd025232597a619b7",
+          "title": "Gemini Enterprise Agent Platform 新增 Parallel Web Search 网络接地提供商",
+          "url": "https://aihot.virxact.com/items/cmrnc82t9016bbic6qmevgy67",
+          "source": "Google Developers Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-16T09:58:51Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Google Developers Blog（RSS）"
+      ],
+      "items": [
+        {
+          "id": "f04b17c67cf203dc639ab73fd025232597a619b7",
+          "title": "Gemini Enterprise Agent Platform 新增 Parallel Web Search 网络接地提供商",
+          "url": "https://aihot.virxact.com/items/cmrnc82t9016bbic6qmevgy67",
+          "source": "Google Developers Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-16T09:58:51Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7977,
+      "importance": 0.7977,
+      "importance_score": 0.7977,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9287,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-16T09:58:51Z",
+      "latest_at": "2026-07-16T09:58:51Z",
+      "primary_item": {
+        "id": "f04b17c67cf203dc639ab73fd025232597a619b7",
+        "title": "Gemini Enterprise Agent Platform 新增 Parallel Web Search 网络接地提供商",
+        "url": "https://aihot.virxact.com/items/cmrnc82t9016bbic6qmevgy67",
+        "source": "Google Developers Blog（RSS）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -395,14 +515,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8141,
-      "importance": 0.8141,
-      "importance_score": 0.8141,
+      "score": 0.7966,
+      "importance": 0.7966,
+      "importance_score": 0.7966,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.6005,
+        "recency": 0.5128,
         "story_heat": 0.0
       },
       "category": "official",
@@ -418,6 +538,67 @@
         "title": "法典 CLI 0.144.5 / Codex CLI 0.144.5",
         "url": "https://developers.openai.com/codex/changelog",
         "source": "OpenAI Codex Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_d8ed319939f5",
+      "title": "安全事件披露 — 2026 年 7 月 / Security incident disclosure — July 2026",
+      "url": "https://huggingface.co/blog/security-incident-july-2026",
+      "primary_url": "https://huggingface.co/blog/security-incident-july-2026",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "e57f5f26dd2c9ce8c50f6566f1d936c0309d1f56",
+          "title": "安全事件披露 — 2026 年 7 月 / Security incident disclosure — July 2026",
+          "url": "https://huggingface.co/blog/security-incident-july-2026",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-16T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "e57f5f26dd2c9ce8c50f6566f1d936c0309d1f56",
+          "title": "安全事件披露 — 2026 年 7 月 / Security incident disclosure — July 2026",
+          "url": "https://huggingface.co/blog/security-incident-july-2026",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-16T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7876,
+      "importance": 0.7876,
+      "importance_score": 0.7876,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.5128,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-16T00:00:00Z",
+      "latest_at": "2026-07-16T00:00:00Z",
+      "primary_item": {
+        "id": "e57f5f26dd2c9ce8c50f6566f1d936c0309d1f56",
+        "title": "安全事件披露 — 2026 年 7 月 / Security incident disclosure — July 2026",
+        "url": "https://huggingface.co/blog/security-incident-july-2026",
+        "source": "Hugging Face Blog",
         "source_name": "Official AI Updates"
       }
     },
@@ -456,14 +637,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7987,
-      "importance": 0.7987,
-      "importance_score": 0.7987,
+      "score": 0.7811,
+      "importance": 0.7811,
+      "importance_score": 0.7811,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9333,
+        "recency": 0.8457,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -516,14 +697,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7964,
-      "importance": 0.7964,
-      "importance_score": 0.7964,
+      "score": 0.7788,
+      "importance": 0.7788,
+      "importance_score": 0.7788,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9219,
+        "recency": 0.8342,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -542,7 +723,7 @@
       }
     },
     {
-      "story_id": "story_4165329a7f71",
+      "story_id": "story_a6c89bd9453d",
       "title": "小米发布具身智能基底模型Xiaomi-Robotics-1，探索物理AI Scaling效应",
       "url": "https://www.aibase.com/news/29652",
       "primary_url": "https://www.aibase.com/news/29652",
@@ -595,14 +776,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8186,
-      "importance": 0.8186,
-      "importance_score": 0.8186,
+      "score": 0.8011,
+      "importance": 0.8011,
+      "importance_score": 0.8011,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9082,
+        "recency": 0.8206,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -656,14 +837,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7697,
-      "importance": 0.7697,
-      "importance_score": 0.7697,
+      "score": 0.7522,
+      "importance": 0.7522,
+      "importance_score": 0.7522,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.5437,
+        "recency": 0.4561,
         "story_heat": 0.0
       },
       "category": "official",
@@ -717,20 +898,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7609,
-      "importance": 0.7609,
-      "importance_score": 0.7609,
+      "score": 0.7433,
+      "importance": 0.7433,
+      "importance_score": 0.7433,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7443,
+        "recency": 0.6567,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-16T03:27:08Z",
       "latest_at": "2026-07-16T03:27:08Z",
@@ -777,14 +957,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
+      "score": 0.7945,
+      "importance": 0.7945,
+      "importance_score": 0.7945,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9123,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -800,67 +980,6 @@
         "url": "https://www.aibase.com/news/29658",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_53e3149d2cc1",
-      "title": "Shippy 的建造教会了我们关于建筑代理的哪些知识 / What building Shippy taught us about building agents",
-      "url": "https://huggingface.co/blog/allenai/shippy-tech-blog",
-      "primary_url": "https://huggingface.co/blog/allenai/shippy-tech-blog",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "93ecbb4ca338fa3e1a263b4d195eba337d2fd201",
-          "title": "Shippy 的建造教会了我们关于建筑代理的哪些知识 / What building Shippy taught us about building agents",
-          "url": "https://huggingface.co/blog/allenai/shippy-tech-blog",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-15T17:29:41Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "93ecbb4ca338fa3e1a263b4d195eba337d2fd201",
-          "title": "Shippy 的建造教会了我们关于建筑代理的哪些知识 / What building Shippy taught us about building agents",
-          "url": "https://huggingface.co/blog/allenai/shippy-tech-blog",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-15T17:29:41Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7509,
-      "importance": 0.7509,
-      "importance_score": 0.7509,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.3294,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-15T17:29:41Z",
-      "latest_at": "2026-07-15T17:29:41Z",
-      "primary_item": {
-        "id": "93ecbb4ca338fa3e1a263b4d195eba337d2fd201",
-        "title": "Shippy 的建造教会了我们关于建筑代理的哪些知识 / What building Shippy taught us about building agents",
-        "url": "https://huggingface.co/blog/allenai/shippy-tech-blog",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -898,14 +1017,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7488,
-      "importance": 0.7488,
-      "importance_score": 0.7488,
+      "score": 0.7312,
+      "importance": 0.7312,
+      "importance_score": 0.7312,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6838,
+        "recency": 0.5962,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -957,14 +1076,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7455,
-      "importance": 0.7455,
-      "importance_score": 0.7455,
+      "score": 0.7279,
+      "importance": 0.7279,
+      "importance_score": 0.7279,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6673,
+        "recency": 0.5797,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -978,183 +1097,6 @@
         "title": "MiniMax Code 2.0 桌面端焕新：底层架构全面升级，金融模块即将上线",
         "url": "https://aihot.virxact.com/items/cmrmudyvj015jbije15lwn7k2",
         "source": "公众号：MiniMax（稀宇科技）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_5581c3044d93",
-      "title": "xAI 开源 Grok CLI 代码库中发现 Mermaid 转 Unicode 框图工具",
-      "url": "https://aihot.virxact.com/items/cmrmsfo5q00f0bimis2t1mbci",
-      "primary_url": "https://aihot.virxact.com/items/cmrmsfo5q00f0bimis2t1mbci",
-      "source": "Simon Willison 博客",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "f24b31eb1b9a2138418143a92a8bee8c4ad918f7",
-          "title": "xAI 开源 Grok CLI 代码库中发现 Mermaid 转 Unicode 框图工具",
-          "url": "https://aihot.virxact.com/items/cmrmsfo5q00f0bimis2t1mbci",
-          "source": "Simon Willison 博客",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-16T00:33:18Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Simon Willison 博客"
-      ],
-      "items": [
-        {
-          "id": "f24b31eb1b9a2138418143a92a8bee8c4ad918f7",
-          "title": "xAI 开源 Grok CLI 代码库中发现 Mermaid 转 Unicode 框图工具",
-          "url": "https://aihot.virxact.com/items/cmrmsfo5q00f0bimis2t1mbci",
-          "source": "Simon Willison 博客",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-16T00:33:18Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7367,
-      "importance": 0.7367,
-      "importance_score": 0.7367,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6236,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-16T00:33:18Z",
-      "latest_at": "2026-07-16T00:33:18Z",
-      "primary_item": {
-        "id": "f24b31eb1b9a2138418143a92a8bee8c4ad918f7",
-        "title": "xAI 开源 Grok CLI 代码库中发现 Mermaid 转 Unicode 框图工具",
-        "url": "https://aihot.virxact.com/items/cmrmsfo5q00f0bimis2t1mbci",
-        "source": "Simon Willison 博客",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_b04de4662ddc",
-      "title": "远程操控Agent干活方案：Codex主力 + UU远程兜底",
-      "url": "https://aihot.virxact.com/items/cmrmrjrwk001pbimilq46mpeq",
-      "primary_url": "https://aihot.virxact.com/items/cmrmrjrwk001pbimilq46mpeq",
-      "source": "公众号：数字生命卡兹克",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "9aae3dd710ddae20ae4f702b49a40ffbc34b3586",
-          "title": "远程操控Agent干活方案：Codex主力 + UU远程兜底",
-          "url": "https://aihot.virxact.com/items/cmrmrjrwk001pbimilq46mpeq",
-          "source": "公众号：数字生命卡兹克",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-16T00:12:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "公众号：数字生命卡兹克"
-      ],
-      "items": [
-        {
-          "id": "9aae3dd710ddae20ae4f702b49a40ffbc34b3586",
-          "title": "远程操控Agent干活方案：Codex主力 + UU远程兜底",
-          "url": "https://aihot.virxact.com/items/cmrmrjrwk001pbimilq46mpeq",
-          "source": "公众号：数字生命卡兹克",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-16T00:12:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7338,
-      "importance": 0.7338,
-      "importance_score": 0.7338,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6088,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-16T00:12:00Z",
-      "latest_at": "2026-07-16T00:12:00Z",
-      "primary_item": {
-        "id": "9aae3dd710ddae20ae4f702b49a40ffbc34b3586",
-        "title": "远程操控Agent干活方案：Codex主力 + UU远程兜底",
-        "url": "https://aihot.virxact.com/items/cmrmrjrwk001pbimilq46mpeq",
-        "source": "公众号：数字生命卡兹克",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_b79bfb0f6ddd",
-      "title": "开源编程智能体内存方案发布，通过 SSH 同步",
-      "url": "https://aihot.virxact.com/items/cmrmotlpp07iubiuloujszkts",
-      "primary_url": "https://aihot.virxact.com/items/cmrmotlpp07iubiuloujszkts",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "6b047bc680e6dcbf44e0db95b0c1064c51258aca",
-          "title": "开源编程智能体内存方案发布，通过 SSH 同步",
-          "url": "https://aihot.virxact.com/items/cmrmotlpp07iubiuloujszkts",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-15T22:49:15Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）"
-      ],
-      "items": [
-        {
-          "id": "6b047bc680e6dcbf44e0db95b0c1064c51258aca",
-          "title": "开源编程智能体内存方案发布，通过 SSH 同步",
-          "url": "https://aihot.virxact.com/items/cmrmotlpp07iubiuloujszkts",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-15T22:49:15Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7223,
-      "importance": 0.7223,
-      "importance_score": 0.7223,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5514,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-15T22:49:15Z",
-      "latest_at": "2026-07-15T22:49:15Z",
-      "primary_item": {
-        "id": "6b047bc680e6dcbf44e0db95b0c1064c51258aca",
-        "title": "开源编程智能体内存方案发布，通过 SSH 同步",
-        "url": "https://aihot.virxact.com/items/cmrmotlpp07iubiuloujszkts",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
       }
     },
@@ -1193,14 +1135,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
+      "score": 0.7945,
+      "importance": 0.7945,
+      "importance_score": 0.7945,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9123,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1216,6 +1158,66 @@
         "url": "https://www.aibase.com/news/29654",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_53e3149d2cc1",
+      "title": "Shippy 的建造教会了我们关于建筑代理的哪些知识 / What building Shippy taught us about building agents",
+      "url": "https://huggingface.co/blog/allenai/shippy-tech-blog",
+      "primary_url": "https://huggingface.co/blog/allenai/shippy-tech-blog",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "93ecbb4ca338fa3e1a263b4d195eba337d2fd201",
+          "title": "Shippy 的建造教会了我们关于建筑代理的哪些知识 / What building Shippy taught us about building agents",
+          "url": "https://huggingface.co/blog/allenai/shippy-tech-blog",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-15T17:29:41Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "93ecbb4ca338fa3e1a263b4d195eba337d2fd201",
+          "title": "Shippy 的建造教会了我们关于建筑代理的哪些知识 / What building Shippy taught us about building agents",
+          "url": "https://huggingface.co/blog/allenai/shippy-tech-blog",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-15T17:29:41Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7334,
+      "importance": 0.7334,
+      "importance_score": 0.7334,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.2418,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-15T17:29:41Z",
+      "latest_at": "2026-07-15T17:29:41Z",
+      "primary_item": {
+        "id": "93ecbb4ca338fa3e1a263b4d195eba337d2fd201",
+        "title": "Shippy 的建造教会了我们关于建筑代理的哪些知识 / What building Shippy taught us about building agents",
+        "url": "https://huggingface.co/blog/allenai/shippy-tech-blog",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -1253,14 +1255,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
+      "score": 0.7945,
+      "importance": 0.7945,
+      "importance_score": 0.7945,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9123,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1313,14 +1315,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
+      "score": 0.7945,
+      "importance": 0.7945,
+      "importance_score": 0.7945,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9123,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1373,14 +1375,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
+      "score": 0.7945,
+      "importance": 0.7945,
+      "importance_score": 0.7945,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9123,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1433,14 +1435,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
+      "score": 0.7945,
+      "importance": 0.7945,
+      "importance_score": 0.7945,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9123,
         "story_heat": 0.0
       },
       "category": "industry",
