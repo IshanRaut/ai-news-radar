@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-07-18T19:07:58.269249Z",
+  "generated_at": "2026-07-18T20:12:25.920604Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260719-0508-256c-bbb2-e30ffc2b1475&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260719-0508-256c-bbb2-e30ffc2b1475&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260719-0612-5321-8a2b-7c8a9c1315b2&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260719-0612-5321-8a2b-7c8a9c1315b2&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "f4d049808bb5659f94e4a5e4487585e1a53cfed8",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260719-0612-5321-8a2b-7c8a9c1315b2&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "2cd2833da05432b46acb17360cd030998a9cfb53",
           "title": "点击这里进入 / Click here to enter",
@@ -141,15 +150,6 @@
           "id": "d09be0f21ce963c13787553fa6592344d0480789",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260718-0722-000d-9323-8b12265a5ed8&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "6934ffc53fe00e74269a381b51d5ff4fade98d83",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260718-0607-20db-a3da-7609d8baca30&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -162,6 +162,15 @@
       ],
       "items": [
         {
+          "id": "f4d049808bb5659f94e4a5e4487585e1a53cfed8",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260719-0612-5321-8a2b-7c8a9c1315b2&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "2cd2833da05432b46acb17360cd030998a9cfb53",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260719-0508-256c-bbb2-e30ffc2b1475&fp=-3",
@@ -291,15 +300,6 @@
           "id": "d09be0f21ce963c13787553fa6592344d0480789",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260718-0722-000d-9323-8b12265a5ed8&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "6934ffc53fe00e74269a381b51d5ff4fade98d83",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260718-0607-20db-a3da-7609d8baca30&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -324,12 +324,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-17T20:06:55.857298Z",
-      "latest_at": "2026-07-18T19:07:58.269249Z",
+      "earliest_at": "2026-07-17T21:21:33.743269Z",
+      "latest_at": "2026-07-18T20:12:25.920604Z",
       "primary_item": {
-        "id": "2cd2833da05432b46acb17360cd030998a9cfb53",
+        "id": "f4d049808bb5659f94e4a5e4487585e1a53cfed8",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260719-0508-256c-bbb2-e30ffc2b1475&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260719-0612-5321-8a2b-7c8a9c1315b2&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
       }
@@ -369,14 +369,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7346,
-      "importance": 0.7346,
-      "importance_score": 0.7346,
+      "score": 0.7256,
+      "importance": 0.7256,
+      "importance_score": 0.7256,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.2028,
+        "recency": 0.158,
         "story_heat": 0.0
       },
       "category": "official",
@@ -392,6 +392,103 @@
         "url": "https://developers.openai.com/codex/changelog",
         "source": "OpenAI Codex Changelog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_cbcd45422a3a",
+      "title": "设置备用 Mac 以便由 Claude Code 进行控制：分步指南",
+      "url": "https://ykdojo.github.io/claude-controls-mac",
+      "primary_url": "https://ykdojo.github.io/claude-controls-mac",
+      "source": "ykdojo.github.io",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "33fc9e64b0202beaafeb995a60c82671f8fe2fd1",
+          "title": "设置备用 Mac 以便由 Claude Code 进行控制：分步指南",
+          "url": "https://ykdojo.github.io/claude-controls-mac",
+          "source": "ykdojo.github.io",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-18T19:37:23.960000Z"
+        },
+        {
+          "id": "46fde186c8a6cd14a5e9b5828d0fcbb2282b0085",
+          "title": "设置您的备用 Mac 以供 Claude Code 控制，分步指南 / Setting up your spare Mac for Claude Code to control, a step-by-step guide",
+          "url": "https://news.ycombinator.com/item?id=48959392",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-18T16:27:34.942000Z"
+        },
+        {
+          "id": "87d98061069d15aabb609fb153dd52ac58880a6d",
+          "title": "设置备用 Mac 以便由 Claude Code 进行控制：分步指南 / Setting up your spare Mac for Claude Code to control, a step-by-step guide",
+          "url": "https://ykdojo.github.io/claude-controls-mac",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-18T16:12:08Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "hackernews",
+        "ykdojo.github.io"
+      ],
+      "items": [
+        {
+          "id": "33fc9e64b0202beaafeb995a60c82671f8fe2fd1",
+          "title": "设置备用 Mac 以便由 Claude Code 进行控制：分步指南",
+          "url": "https://ykdojo.github.io/claude-controls-mac",
+          "source": "ykdojo.github.io",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-18T19:37:23.960000Z"
+        },
+        {
+          "id": "46fde186c8a6cd14a5e9b5828d0fcbb2282b0085",
+          "title": "设置您的备用 Mac 以供 Claude Code 控制，分步指南 / Setting up your spare Mac for Claude Code to control, a step-by-step guide",
+          "url": "https://news.ycombinator.com/item?id=48959392",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-18T16:27:34.942000Z"
+        },
+        {
+          "id": "87d98061069d15aabb609fb153dd52ac58880a6d",
+          "title": "设置备用 Mac 以便由 Claude Code 进行控制：分步指南 / Setting up your spare Mac for Claude Code to control, a step-by-step guide",
+          "url": "https://ykdojo.github.io/claude-controls-mac",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-18T16:12:08Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5681,
+      "importance": 0.5681,
+      "importance_score": 0.5681,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9757,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-18T16:12:08Z",
+      "latest_at": "2026-07-18T19:37:23.960000Z",
+      "primary_item": {
+        "id": "33fc9e64b0202beaafeb995a60c82671f8fe2fd1",
+        "title": "设置备用 Mac 以便由 Claude Code 进行控制：分步指南",
+        "url": "https://ykdojo.github.io/claude-controls-mac",
+        "source": "ykdojo.github.io",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -486,14 +583,14 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5424,
-      "importance": 0.5424,
-      "importance_score": 0.5424,
+      "score": 0.5335,
+      "importance": 0.5335,
+      "importance_score": 0.5335,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7221,
+        "recency": 0.6774,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -583,14 +680,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5393,
-      "importance": 0.5393,
-      "importance_score": 0.5393,
+      "score": 0.5304,
+      "importance": 0.5304,
+      "importance_score": 0.5304,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8315,
+        "recency": 0.7868,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -680,14 +777,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5327,
-      "importance": 0.5327,
-      "importance_score": 0.5327,
+      "score": 0.5237,
+      "importance": 0.5237,
+      "importance_score": 0.5237,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7985,
+        "recency": 0.7537,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -758,14 +855,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5277,
-      "importance": 0.5277,
-      "importance_score": 0.5277,
+      "score": 0.5187,
+      "importance": 0.5187,
+      "importance_score": 0.5187,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8983,
+        "recency": 0.8535,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -835,14 +932,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5263,
-      "importance": 0.5263,
-      "importance_score": 0.5263,
+      "score": 0.5173,
+      "importance": 0.5173,
+      "importance_score": 0.5173,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8915,
+        "recency": 0.8467,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -932,14 +1029,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.526,
-      "importance": 0.526,
-      "importance_score": 0.526,
+      "score": 0.517,
+      "importance": 0.517,
+      "importance_score": 0.517,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7648,
+        "recency": 0.72,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1010,14 +1107,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4987,
-      "importance": 0.4987,
-      "importance_score": 0.4987,
+      "score": 0.4898,
+      "importance": 0.4898,
+      "importance_score": 0.4898,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7537,
+        "recency": 0.709,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1088,14 +1185,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4965,
-      "importance": 0.4965,
-      "importance_score": 0.4965,
+      "score": 0.4876,
+      "importance": 0.4876,
+      "importance_score": 0.4876,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7426,
+        "recency": 0.6979,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1110,84 +1207,6 @@
         "url": "https://www.axios.com/2026/07/18/china-ai-open-source-kimi-anthropic-openai",
         "source": "www.axios.com",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_cbcd45422a3a",
-      "title": "设置您的备用 Mac 以供 Claude Code 控制，分步指南 / Setting up your spare Mac for Claude Code to control, a step-by-step guide",
-      "url": "https://news.ycombinator.com/item?id=48959392",
-      "primary_url": "https://news.ycombinator.com/item?id=48959392",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "46fde186c8a6cd14a5e9b5828d0fcbb2282b0085",
-          "title": "设置您的备用 Mac 以供 Claude Code 控制，分步指南 / Setting up your spare Mac for Claude Code to control, a step-by-step guide",
-          "url": "https://news.ycombinator.com/item?id=48959392",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-18T16:27:34.942000Z"
-        },
-        {
-          "id": "87d98061069d15aabb609fb153dd52ac58880a6d",
-          "title": "设置您的备用 Mac 以供 Claude Code 控制，分步指南 / Setting up your spare Mac for Claude Code to control, a step-by-step guide",
-          "url": "https://ykdojo.github.io/claude-controls-mac",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-18T16:12:08Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "46fde186c8a6cd14a5e9b5828d0fcbb2282b0085",
-          "title": "设置您的备用 Mac 以供 Claude Code 控制，分步指南 / Setting up your spare Mac for Claude Code to control, a step-by-step guide",
-          "url": "https://news.ycombinator.com/item?id=48959392",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-18T16:27:34.942000Z"
-        },
-        {
-          "id": "87d98061069d15aabb609fb153dd52ac58880a6d",
-          "title": "设置您的备用 Mac 以供 Claude Code 控制，分步指南 / Setting up your spare Mac for Claude Code to control, a step-by-step guide",
-          "url": "https://ykdojo.github.io/claude-controls-mac",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-18T16:12:08Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5257,
-      "importance": 0.5257,
-      "importance_score": 0.5257,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8886,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-18T16:12:08Z",
-      "latest_at": "2026-07-18T16:27:34.942000Z",
-      "primary_item": {
-        "id": "46fde186c8a6cd14a5e9b5828d0fcbb2282b0085",
-        "title": "设置您的备用 Mac 以供 Claude Code 控制，分步指南 / Setting up your spare Mac for Claude Code to control, a step-by-step guide",
-        "url": "https://news.ycombinator.com/item?id=48959392",
-        "source": "hackernews",
-        "source_name": "NewsNow"
       }
     },
     {
@@ -1244,14 +1263,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4818,
-      "importance": 0.4818,
-      "importance_score": 0.4818,
+      "score": 0.4729,
+      "importance": 0.4729,
+      "importance_score": 0.4729,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6692,
+        "recency": 0.6244,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1322,14 +1341,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4818,
-      "importance": 0.4818,
-      "importance_score": 0.4818,
+      "score": 0.4728,
+      "importance": 0.4728,
+      "importance_score": 0.4728,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6689,
+        "recency": 0.6241,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1400,14 +1419,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4766,
-      "importance": 0.4766,
-      "importance_score": 0.4766,
+      "score": 0.4676,
+      "importance": 0.4676,
+      "importance_score": 0.4676,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6429,
+        "recency": 0.5981,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1477,14 +1496,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4763,
-      "importance": 0.4763,
-      "importance_score": 0.4763,
+      "score": 0.4674,
+      "importance": 0.4674,
+      "importance_score": 0.4674,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6417,
+        "recency": 0.597,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1555,14 +1574,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4818,
-      "importance": 0.4818,
-      "importance_score": 0.4818,
+      "score": 0.4729,
+      "importance": 0.4729,
+      "importance_score": 0.4729,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6692,
+        "recency": 0.6244,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1633,14 +1652,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4677,
-      "importance": 0.4677,
-      "importance_score": 0.4677,
+      "score": 0.4588,
+      "importance": 0.4588,
+      "importance_score": 0.4588,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.5986,
+        "recency": 0.5538,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1711,14 +1730,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4581,
-      "importance": 0.4581,
-      "importance_score": 0.4581,
+      "score": 0.4492,
+      "importance": 0.4492,
+      "importance_score": 0.4492,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.5506,
+        "recency": 0.5058,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1733,6 +1752,83 @@
         "url": "https://36kr.com/newsflashes/3900805390845571?f=rss",
         "source": "Readhub · AI",
         "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_4393ed8dc20a",
+      "title": "凯撒护士表示人工智能、监控正在使他们的工作和病人护理变得更糟 / Kaiser nurses say AI, surveillance are making their jobs and patient care worse",
+      "url": "https://news.ycombinator.com/item?id=48952880",
+      "primary_url": "https://news.ycombinator.com/item?id=48952880",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "d24daaec6a8e8b5b3529242a615750369d08203e",
+          "title": "凯撒护士表示人工智能、监控正在使他们的工作和病人护理变得更糟 / Kaiser nurses say AI, surveillance are making their jobs and patient care worse",
+          "url": "https://news.ycombinator.com/item?id=48952880",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-18T07:55:15.775000Z"
+        },
+        {
+          "id": "203cce17e24319491719b480af600f291373ef87",
+          "title": "凯撒护士表示人工智能、工作场所监控正在使他们的工作和护理变得更糟 / Kaiser nurses say AI, workplace surveillance are making their jobs, care worse",
+          "url": "https://news.ycombinator.com/item?id=48952880",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-17T22:59:17.288000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "d24daaec6a8e8b5b3529242a615750369d08203e",
+          "title": "凯撒护士表示人工智能、监控正在使他们的工作和病人护理变得更糟 / Kaiser nurses say AI, surveillance are making their jobs and patient care worse",
+          "url": "https://news.ycombinator.com/item?id=48952880",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-18T07:55:15.775000Z"
+        },
+        {
+          "id": "203cce17e24319491719b480af600f291373ef87",
+          "title": "凯撒护士表示人工智能、工作场所监控正在使他们的工作和护理变得更糟 / Kaiser nurses say AI, workplace surveillance are making their jobs, care worse",
+          "url": "https://news.ycombinator.com/item?id=48952880",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-17T22:59:17.288000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4456,
+      "importance": 0.4456,
+      "importance_score": 0.4456,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.4881,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-17T22:59:17.288000Z",
+      "latest_at": "2026-07-18T07:55:15.775000Z",
+      "primary_item": {
+        "id": "d24daaec6a8e8b5b3529242a615750369d08203e",
+        "title": "凯撒护士表示人工智能、监控正在使他们的工作和病人护理变得更糟 / Kaiser nurses say AI, surveillance are making their jobs and patient care worse",
+        "url": "https://news.ycombinator.com/item?id=48952880",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     },
     {
@@ -1808,14 +1904,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.4105,
-      "importance": 0.4105,
-      "importance_score": 0.4105,
+      "score": 0.4016,
+      "importance": 0.4016,
+      "importance_score": 0.4016,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.1875,
+        "recency": 0.1428,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1829,84 +1925,6 @@
         "title": "凯泽医疗中心的护士们表示，人工智能和工作场所监控正在使他们的工作和护理质量恶化",
         "url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse",
         "source": "localnewsmatters.org",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_7808576f556e",
-      "title": "婚前协议正面临一个新问题：能否与人工智能出轨？",
-      "url": "https://www.businessinsider.com/prenups-ai-infidelity-cheating-chatbot-companions-virtual-relationships-2026-7",
-      "primary_url": "https://www.businessinsider.com/prenups-ai-infidelity-cheating-chatbot-companions-virtual-relationships-2026-7",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "35a1ac67af4e91a4eb8a5cfc656d00f1672bb8fc",
-          "title": "婚前协议正面临一个新问题：能否与人工智能出轨？",
-          "url": "https://www.businessinsider.com/prenups-ai-infidelity-cheating-chatbot-companions-virtual-relationships-2026-7",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-18T08:57:49.615000Z"
-        },
-        {
-          "id": "50b3e33cfeb94221ad6c4b5cd1e92b7f7d318ef6",
-          "title": "婚前协议正面临一个新问题：能否与人工智能出轨？ / The next prenup provision: What happens if your spouse cheats on you with AI?",
-          "url": "https://www.businessinsider.com/prenups-ai-infidelity-cheating-chatbot-companions-virtual-relationships-2026-7",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-18T08:41:01Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "35a1ac67af4e91a4eb8a5cfc656d00f1672bb8fc",
-          "title": "婚前协议正面临一个新问题：能否与人工智能出轨？",
-          "url": "https://www.businessinsider.com/prenups-ai-infidelity-cheating-chatbot-companions-virtual-relationships-2026-7",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-18T08:57:49.615000Z"
-        },
-        {
-          "id": "50b3e33cfeb94221ad6c4b5cd1e92b7f7d318ef6",
-          "title": "婚前协议正面临一个新问题：能否与人工智能出轨？ / The next prenup provision: What happens if your spouse cheats on you with AI?",
-          "url": "https://www.businessinsider.com/prenups-ai-infidelity-cheating-chatbot-companions-virtual-relationships-2026-7",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-18T08:41:01Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4633,
-      "importance": 0.4633,
-      "importance_score": 0.4633,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.5763,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-18T08:41:01Z",
-      "latest_at": "2026-07-18T08:57:49.615000Z",
-      "primary_item": {
-        "id": "35a1ac67af4e91a4eb8a5cfc656d00f1672bb8fc",
-        "title": "婚前协议正面临一个新问题：能否与人工智能出轨？",
-        "url": "https://www.businessinsider.com/prenups-ai-infidelity-cheating-chatbot-companions-virtual-relationships-2026-7",
-        "source": "www.businessinsider.com",
         "source_name": "Buzzing"
       }
     }
