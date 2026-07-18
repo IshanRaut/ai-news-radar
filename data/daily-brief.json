@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-07-18T21:24:16.798365Z",
+  "generated_at": "2026-07-18T22:23:56.319216Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260719-0724-42f6-af4c-035b0d2aa99c&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260719-0724-42f6-af4c-035b0d2aa99c&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260719-0824-1858-b40f-8eabcc3420f0&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260719-0824-1858-b40f-8eabcc3420f0&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "d431441637c2015230537a932e16a9f2fc71a453",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260719-0824-1858-b40f-8eabcc3420f0&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "9148caa6c4548c0d7a05f0617846e9d7475a8346",
           "title": "点击这里进入 / Click here to enter",
@@ -141,15 +150,6 @@
           "id": "953437835c9f7ee7484395b7d7d3f08d9ee136bc",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260718-0925-12ed-940b-cc17d91d51e0&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "aae1f4a5e67ded08a1089f767bc1e354e80e64a1",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260718-0822-44c9-8990-4a98560179ba&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -162,6 +162,15 @@
       ],
       "items": [
         {
+          "id": "d431441637c2015230537a932e16a9f2fc71a453",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260719-0824-1858-b40f-8eabcc3420f0&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "9148caa6c4548c0d7a05f0617846e9d7475a8346",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260719-0724-42f6-af4c-035b0d2aa99c&fp=-3",
@@ -291,15 +300,6 @@
           "id": "953437835c9f7ee7484395b7d7d3f08d9ee136bc",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260718-0925-12ed-940b-cc17d91d51e0&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "aae1f4a5e67ded08a1089f767bc1e354e80e64a1",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260718-0822-44c9-8990-4a98560179ba&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -324,12 +324,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-17T22:22:18.221892Z",
-      "latest_at": "2026-07-18T21:24:16.798365Z",
+      "earliest_at": "2026-07-17T23:24:43.575182Z",
+      "latest_at": "2026-07-18T22:23:56.319216Z",
       "primary_item": {
-        "id": "9148caa6c4548c0d7a05f0617846e9d7475a8346",
+        "id": "d431441637c2015230537a932e16a9f2fc71a453",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260719-0724-42f6-af4c-035b0d2aa99c&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260719-0824-1858-b40f-8eabcc3420f0&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
       }
@@ -407,14 +407,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5582,
-      "importance": 0.5582,
-      "importance_score": 0.5582,
+      "score": 0.5499,
+      "importance": 0.5499,
+      "importance_score": 0.5499,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9258,
+        "recency": 0.8843,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -428,6 +428,608 @@
         "title": "设置备用 Mac 以便由 Claude Code 进行控制：分步指南",
         "url": "https://ykdojo.github.io/claude-controls-mac",
         "source": "ykdojo.github.io",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_6f4e7b4dbb1c",
+      "title": "Ada：来自 CSV 和 Excel 的人工智能商业智能软件（是的法学硕士，但更多） / Ada: An AI business intelligence software from CSV and Excel(yes LLMs but more)",
+      "url": "https://news.ycombinator.com/item?id=48962405",
+      "primary_url": "https://news.ycombinator.com/item?id=48962405",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "fc0c28f3521ca2a6cd0c0e4d2d20dfc3b8b2bc00",
+          "title": "Ada：来自 CSV 和 Excel 的人工智能商业智能软件（是的法学硕士，但更多） / Ada: An AI business intelligence software from CSV and Excel(yes LLMs but more)",
+          "url": "https://news.ycombinator.com/item?id=48962405",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-18T22:24:49.610000Z"
+        },
+        {
+          "id": "251521e5f631aaaf6ef9158d603ce7f88dbf306e",
+          "title": "Ada：来自 CSV 和 Excel 的人工智能商业智能软件（是的法学硕士，但更多） / Ada: An AI business intelligence software from CSV and Excel(yes LLMs but more)",
+          "url": "https://github.com/saineshnakra/automated-data-analyst",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-18T21:06:49Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "fc0c28f3521ca2a6cd0c0e4d2d20dfc3b8b2bc00",
+          "title": "Ada：来自 CSV 和 Excel 的人工智能商业智能软件（是的法学硕士，但更多） / Ada: An AI business intelligence software from CSV and Excel(yes LLMs but more)",
+          "url": "https://news.ycombinator.com/item?id=48962405",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-18T22:24:49.610000Z"
+        },
+        {
+          "id": "251521e5f631aaaf6ef9158d603ce7f88dbf306e",
+          "title": "Ada：来自 CSV 和 Excel 的人工智能商业智能软件（是的法学硕士，但更多） / Ada: An AI business intelligence software from CSV and Excel(yes LLMs but more)",
+          "url": "https://github.com/saineshnakra/automated-data-analyst",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-18T21:06:49Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.548,
+      "importance": 0.548,
+      "importance_score": 0.548,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-18T21:06:49Z",
+      "latest_at": "2026-07-18T22:24:49.610000Z",
+      "primary_item": {
+        "id": "fc0c28f3521ca2a6cd0c0e4d2d20dfc3b8b2bc00",
+        "title": "Ada：来自 CSV 和 Excel 的人工智能商业智能软件（是的法学硕士，但更多） / Ada: An AI business intelligence software from CSV and Excel(yes LLMs but more)",
+        "url": "https://news.ycombinator.com/item?id=48962405",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_31435a601668",
+      "title": "全美各地爆发反对人工智能数据中心的抗议活动",
+      "url": "https://www.businessinsider.com/anti-ai-data-center-nationwide-protest-photos-2026-7",
+      "primary_url": "https://www.businessinsider.com/anti-ai-data-center-nationwide-protest-photos-2026-7",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "90e1406dde99e1a59e8e7f4fbb78d236ed4366b8",
+          "title": "全美各地爆发反对人工智能数据中心的抗议活动",
+          "url": "https://www.businessinsider.com/anti-ai-data-center-nationwide-protest-photos-2026-7",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-18T20:41:23.690000Z"
+        },
+        {
+          "id": "0b1f9af86289f9be503b089c3068838e8ec5548c",
+          "title": "全美各地爆发反对人工智能数据中心的抗议活动 / Anti-AI data center protesters rally across the US",
+          "url": "https://www.businessinsider.com/anti-ai-data-center-nationwide-protest-photos-2026-7",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-18T20:31:37Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "90e1406dde99e1a59e8e7f4fbb78d236ed4366b8",
+          "title": "全美各地爆发反对人工智能数据中心的抗议活动",
+          "url": "https://www.businessinsider.com/anti-ai-data-center-nationwide-protest-photos-2026-7",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-18T20:41:23.690000Z"
+        },
+        {
+          "id": "0b1f9af86289f9be503b089c3068838e8ec5548c",
+          "title": "全美各地爆发反对人工智能数据中心的抗议活动 / Anti-AI data center protesters rally across the US",
+          "url": "https://www.businessinsider.com/anti-ai-data-center-nationwide-protest-photos-2026-7",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-18T20:31:37Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5338,
+      "importance": 0.5338,
+      "importance_score": 0.5338,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9288,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-18T20:31:37Z",
+      "latest_at": "2026-07-18T20:41:23.690000Z",
+      "primary_item": {
+        "id": "90e1406dde99e1a59e8e7f4fbb78d236ed4366b8",
+        "title": "全美各地爆发反对人工智能数据中心的抗议活动",
+        "url": "https://www.businessinsider.com/anti-ai-data-center-nationwide-protest-photos-2026-7",
+        "source": "www.businessinsider.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_737581f31a19",
+      "title": "《Fable 5》与 GPT-5.6 Sol 在 NP-难问题上的对比：/goal 参数是否有效？",
+      "url": "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal",
+      "primary_url": "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal",
+      "source": "charlesazam.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "fbb2c043e9eeb24094d97c8acbd50da4f2c8d79c",
+          "title": "《Fable 5》与 GPT-5.6 Sol 在 NP-难问题上的对比：/goal 参数是否有效？",
+          "url": "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal",
+          "source": "charlesazam.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-18T15:05:23.818000Z"
+        },
+        {
+          "id": "f99812edd3a8b43b060706dd971b7ead176f9e36",
+          "title": "《神鬼寓言 5》与 GPT-5.6 Sol 在 NP 难问题上的对比：/goal 有帮助吗？ / Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
+          "url": "https://news.ycombinator.com/item?id=48956879",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-18T12:27:50.805000Z"
+        },
+        {
+          "id": "b22c145fc9885173ff91092ecd788bd36fe928ec",
+          "title": "《Fable 5》与 GPT-5.6 Sol 在 NP-难问题上的对比：/goal 参数是否有效？ / Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
+          "url": "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-18T11:00:29Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News",
+        "charlesazam.com",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "fbb2c043e9eeb24094d97c8acbd50da4f2c8d79c",
+          "title": "《Fable 5》与 GPT-5.6 Sol 在 NP-难问题上的对比：/goal 参数是否有效？",
+          "url": "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal",
+          "source": "charlesazam.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-18T15:05:23.818000Z"
+        },
+        {
+          "id": "f99812edd3a8b43b060706dd971b7ead176f9e36",
+          "title": "《神鬼寓言 5》与 GPT-5.6 Sol 在 NP 难问题上的对比：/goal 有帮助吗？ / Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
+          "url": "https://news.ycombinator.com/item?id=48956879",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-18T12:27:50.805000Z"
+        },
+        {
+          "id": "b22c145fc9885173ff91092ecd788bd36fe928ec",
+          "title": "《Fable 5》与 GPT-5.6 Sol 在 NP-难问题上的对比：/goal 参数是否有效？ / Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
+          "url": "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-18T11:00:29Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5121,
+      "importance": 0.5121,
+      "importance_score": 0.5121,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.6955,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-18T11:00:29Z",
+      "latest_at": "2026-07-18T15:05:23.818000Z",
+      "primary_item": {
+        "id": "fbb2c043e9eeb24094d97c8acbd50da4f2c8d79c",
+        "title": "《Fable 5》与 GPT-5.6 Sol 在 NP-难问题上的对比：/goal 参数是否有效？",
+        "url": "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal",
+        "source": "charlesazam.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_1c98b9c89e38",
+      "title": "GPT-5.6 通过一个提示词，弥合了凸优化领域长达 30 年的研究空白",
+      "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a",
+      "primary_url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a",
+      "source": "old.reddit.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "9651931f406a4d924811d9891efdfa2132928dc1",
+          "title": "GPT-5.6 通过一个提示词，弥合了凸优化领域长达 30 年的研究空白",
+          "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a",
+          "source": "old.reddit.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-18T14:17:48.882000Z"
+        },
+        {
+          "id": "59cc559ce0a94dd4aa8dbc7d068f02fa8c4feb8a",
+          "title": "GPT-5.6使用提示缩小了凸优化30年的差距 / GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
+          "url": "https://news.ycombinator.com/item?id=48957779",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-18T13:59:39.844000Z"
+        },
+        {
+          "id": "cc472846de4516c1a939404620afb978e4c3f00e",
+          "title": "GPT-5.6 通过一个提示词，弥合了凸优化领域长达 30 年的研究空白 / GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
+          "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-18T13:00:52Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews",
+        "old.reddit.com"
+      ],
+      "items": [
+        {
+          "id": "9651931f406a4d924811d9891efdfa2132928dc1",
+          "title": "GPT-5.6 通过一个提示词，弥合了凸优化领域长达 30 年的研究空白",
+          "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a",
+          "source": "old.reddit.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-18T14:17:48.882000Z"
+        },
+        {
+          "id": "59cc559ce0a94dd4aa8dbc7d068f02fa8c4feb8a",
+          "title": "GPT-5.6使用提示缩小了凸优化30年的差距 / GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
+          "url": "https://news.ycombinator.com/item?id=48957779",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-18T13:59:39.844000Z"
+        },
+        {
+          "id": "cc472846de4516c1a939404620afb978e4c3f00e",
+          "title": "GPT-5.6 通过一个提示词，弥合了凸优化领域长达 30 年的研究空白 / GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
+          "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-18T13:00:52Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5055,
+      "importance": 0.5055,
+      "importance_score": 0.5055,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.6624,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-18T13:00:52Z",
+      "latest_at": "2026-07-18T14:17:48.882000Z",
+      "primary_item": {
+        "id": "9651931f406a4d924811d9891efdfa2132928dc1",
+        "title": "GPT-5.6 通过一个提示词，弥合了凸优化领域长达 30 年的研究空白",
+        "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a",
+        "source": "old.reddit.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_cdc22d7d874c",
+      "title": "“审查人工智能代码”并非一个站得住脚的论点",
+      "url": "https://softwaremaxims.com/blog/reviewing-ai-code",
+      "primary_url": "https://softwaremaxims.com/blog/reviewing-ai-code",
+      "source": "softwaremaxims.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "d3bd0f5be262041aaf5855053c60b76e2fe51b1b",
+          "title": "“审查人工智能代码”并非一个站得住脚的论点",
+          "url": "https://softwaremaxims.com/blog/reviewing-ai-code",
+          "source": "softwaremaxims.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-18T16:41:31.812000Z"
+        },
+        {
+          "id": "4105e0f345eb1d4989e3988ad43a211e4456b8f6",
+          "title": "“审查人工智能代码”并非一个站得住脚的论点 / Reviewing AI Code Is Not A Viable Argument",
+          "url": "https://softwaremaxims.com/blog/reviewing-ai-code",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-18T16:25:19Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Lobsters (技术社区)",
+        "softwaremaxims.com"
+      ],
+      "items": [
+        {
+          "id": "d3bd0f5be262041aaf5855053c60b76e2fe51b1b",
+          "title": "“审查人工智能代码”并非一个站得住脚的论点",
+          "url": "https://softwaremaxims.com/blog/reviewing-ai-code",
+          "source": "softwaremaxims.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-18T16:41:31.812000Z"
+        },
+        {
+          "id": "4105e0f345eb1d4989e3988ad43a211e4456b8f6",
+          "title": "“审查人工智能代码”并非一个站得住脚的论点 / Reviewing AI Code Is Not A Viable Argument",
+          "url": "https://softwaremaxims.com/blog/reviewing-ai-code",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-18T16:25:19Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5004,
+      "importance": 0.5004,
+      "importance_score": 0.5004,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7622,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-18T16:25:19Z",
+      "latest_at": "2026-07-18T16:41:31.812000Z",
+      "primary_item": {
+        "id": "d3bd0f5be262041aaf5855053c60b76e2fe51b1b",
+        "title": "“审查人工智能代码”并非一个站得住脚的论点",
+        "url": "https://softwaremaxims.com/blog/reviewing-ai-code",
+        "source": "softwaremaxims.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_e563fec4ca4f",
+      "title": "异端 / Heresy",
+      "url": "https://paulgraham.com/heresy.html",
+      "primary_url": "https://paulgraham.com/heresy.html",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "a903e4e71114bf561ca3006fdef231b701f2f80f",
+          "title": "异端 / Heresy",
+          "url": "https://paulgraham.com/heresy.html",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-18T16:31:42Z"
+        },
+        {
+          "id": "c6735bdad4e7287e405996cff59f25f149f3f19e",
+          "title": "异端 (2022] / Heresy (2022]",
+          "url": "https://paulgraham.com/heresy.html",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-18T16:31:42Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热"
+      ],
+      "items": [
+        {
+          "id": "a903e4e71114bf561ca3006fdef231b701f2f80f",
+          "title": "异端 / Heresy",
+          "url": "https://paulgraham.com/heresy.html",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-18T16:31:42Z"
+        },
+        {
+          "id": "c6735bdad4e7287e405996cff59f25f149f3f19e",
+          "title": "异端 (2022] / Heresy (2022]",
+          "url": "https://paulgraham.com/heresy.html",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-18T16:31:42Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4991,
+      "importance": 0.4991,
+      "importance_score": 0.4991,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7554,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-18T16:31:42Z",
+      "latest_at": "2026-07-18T16:31:42Z",
+      "primary_item": {
+        "id": "a903e4e71114bf561ca3006fdef231b701f2f80f",
+        "title": "异端 / Heresy",
+        "url": "https://paulgraham.com/heresy.html",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
+      }
+    },
+    {
+      "story_id": "story_b9b544c1b5eb",
+      "title": "图表展示：AI对Stack Overflow的影响",
+      "url": "https://data.stackexchange.com/stackoverflow/query/1953768",
+      "primary_url": "https://data.stackexchange.com/stackoverflow/query/1953768",
+      "source": "data.stackexchange.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "b58dd9deab17e3e3d69669620128191a5e9d0ca3",
+          "title": "图表展示：AI对Stack Overflow的影响",
+          "url": "https://data.stackexchange.com/stackoverflow/query/1953768",
+          "source": "data.stackexchange.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-18T13:29:15.879000Z"
+        },
+        {
+          "id": "436929aef38fdbe392ac45926613e4cee1528bae",
+          "title": "AI 在图表中对 stackoverflow 做了什么 / What AI did to stackoverflow in a graph",
+          "url": "https://news.ycombinator.com/item?id=48956949",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-18T12:27:50.805000Z"
+        },
+        {
+          "id": "eb220d23624fcca3105fa61808cc8438199e80a4",
+          "title": "图表展示：AI对Stack Overflow的影响 / What AI did to stackoverflow in a graph",
+          "url": "https://data.stackexchange.com/stackoverflow/query/1953768",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-18T11:12:46Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "data.stackexchange.com",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "b58dd9deab17e3e3d69669620128191a5e9d0ca3",
+          "title": "图表展示：AI对Stack Overflow的影响",
+          "url": "https://data.stackexchange.com/stackoverflow/query/1953768",
+          "source": "data.stackexchange.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-18T13:29:15.879000Z"
+        },
+        {
+          "id": "436929aef38fdbe392ac45926613e4cee1528bae",
+          "title": "AI 在图表中对 stackoverflow 做了什么 / What AI did to stackoverflow in a graph",
+          "url": "https://news.ycombinator.com/item?id=48956949",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-18T12:27:50.805000Z"
+        },
+        {
+          "id": "eb220d23624fcca3105fa61808cc8438199e80a4",
+          "title": "图表展示：AI对Stack Overflow的影响 / What AI did to stackoverflow in a graph",
+          "url": "https://data.stackexchange.com/stackoverflow/query/1953768",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-18T11:12:46Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.4987,
+      "importance": 0.4987,
+      "importance_score": 0.4987,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.6287,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-18T11:12:46Z",
+      "latest_at": "2026-07-18T13:29:15.879000Z",
+      "primary_item": {
+        "id": "b58dd9deab17e3e3d69669620128191a5e9d0ca3",
+        "title": "图表展示：AI对Stack Overflow的影响",
+        "url": "https://data.stackexchange.com/stackoverflow/query/1953768",
+        "source": "data.stackexchange.com",
         "source_name": "Buzzing"
       }
     },
@@ -523,14 +1125,14 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5235,
-      "importance": 0.5235,
-      "importance_score": 0.5235,
+      "score": 0.5152,
+      "importance": 0.5152,
+      "importance_score": 0.5152,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6275,
+        "recency": 0.586,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -545,452 +1147,6 @@
         "url": "https://news.ycombinator.com/item?id=48956924",
         "source": "hackernews",
         "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_737581f31a19",
-      "title": "《Fable 5》与 GPT-5.6 Sol 在 NP-难问题上的对比：/goal 参数是否有效？",
-      "url": "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal",
-      "primary_url": "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal",
-      "source": "charlesazam.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "fbb2c043e9eeb24094d97c8acbd50da4f2c8d79c",
-          "title": "《Fable 5》与 GPT-5.6 Sol 在 NP-难问题上的对比：/goal 参数是否有效？",
-          "url": "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal",
-          "source": "charlesazam.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-18T15:05:23.818000Z"
-        },
-        {
-          "id": "f99812edd3a8b43b060706dd971b7ead176f9e36",
-          "title": "《神鬼寓言 5》与 GPT-5.6 Sol 在 NP 难问题上的对比：/goal 有帮助吗？ / Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
-          "url": "https://news.ycombinator.com/item?id=48956879",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-18T12:27:50.805000Z"
-        },
-        {
-          "id": "b22c145fc9885173ff91092ecd788bd36fe928ec",
-          "title": "《Fable 5》与 GPT-5.6 Sol 在 NP-难问题上的对比：/goal 参数是否有效？ / Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
-          "url": "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-18T11:00:29Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News",
-        "charlesazam.com",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "fbb2c043e9eeb24094d97c8acbd50da4f2c8d79c",
-          "title": "《Fable 5》与 GPT-5.6 Sol 在 NP-难问题上的对比：/goal 参数是否有效？",
-          "url": "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal",
-          "source": "charlesazam.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-18T15:05:23.818000Z"
-        },
-        {
-          "id": "f99812edd3a8b43b060706dd971b7ead176f9e36",
-          "title": "《神鬼寓言 5》与 GPT-5.6 Sol 在 NP 难问题上的对比：/goal 有帮助吗？ / Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
-          "url": "https://news.ycombinator.com/item?id=48956879",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-18T12:27:50.805000Z"
-        },
-        {
-          "id": "b22c145fc9885173ff91092ecd788bd36fe928ec",
-          "title": "《Fable 5》与 GPT-5.6 Sol 在 NP-难问题上的对比：/goal 参数是否有效？ / Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
-          "url": "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-18T11:00:29Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5204,
-      "importance": 0.5204,
-      "importance_score": 0.5204,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7369,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-18T11:00:29Z",
-      "latest_at": "2026-07-18T15:05:23.818000Z",
-      "primary_item": {
-        "id": "fbb2c043e9eeb24094d97c8acbd50da4f2c8d79c",
-        "title": "《Fable 5》与 GPT-5.6 Sol 在 NP-难问题上的对比：/goal 参数是否有效？",
-        "url": "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal",
-        "source": "charlesazam.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_1c98b9c89e38",
-      "title": "GPT-5.6 通过一个提示词，弥合了凸优化领域长达 30 年的研究空白",
-      "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a",
-      "primary_url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a",
-      "source": "old.reddit.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "9651931f406a4d924811d9891efdfa2132928dc1",
-          "title": "GPT-5.6 通过一个提示词，弥合了凸优化领域长达 30 年的研究空白",
-          "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a",
-          "source": "old.reddit.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-18T14:17:48.882000Z"
-        },
-        {
-          "id": "59cc559ce0a94dd4aa8dbc7d068f02fa8c4feb8a",
-          "title": "GPT-5.6使用提示缩小了凸优化30年的差距 / GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
-          "url": "https://news.ycombinator.com/item?id=48957779",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-18T13:59:39.844000Z"
-        },
-        {
-          "id": "cc472846de4516c1a939404620afb978e4c3f00e",
-          "title": "GPT-5.6 通过一个提示词，弥合了凸优化领域长达 30 年的研究空白 / GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
-          "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-18T13:00:52Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews",
-        "old.reddit.com"
-      ],
-      "items": [
-        {
-          "id": "9651931f406a4d924811d9891efdfa2132928dc1",
-          "title": "GPT-5.6 通过一个提示词，弥合了凸优化领域长达 30 年的研究空白",
-          "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a",
-          "source": "old.reddit.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-18T14:17:48.882000Z"
-        },
-        {
-          "id": "59cc559ce0a94dd4aa8dbc7d068f02fa8c4feb8a",
-          "title": "GPT-5.6使用提示缩小了凸优化30年的差距 / GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
-          "url": "https://news.ycombinator.com/item?id=48957779",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-18T13:59:39.844000Z"
-        },
-        {
-          "id": "cc472846de4516c1a939404620afb978e4c3f00e",
-          "title": "GPT-5.6 通过一个提示词，弥合了凸优化领域长达 30 年的研究空白 / GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
-          "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-18T13:00:52Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5138,
-      "importance": 0.5138,
-      "importance_score": 0.5138,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7038,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-18T13:00:52Z",
-      "latest_at": "2026-07-18T14:17:48.882000Z",
-      "primary_item": {
-        "id": "9651931f406a4d924811d9891efdfa2132928dc1",
-        "title": "GPT-5.6 通过一个提示词，弥合了凸优化领域长达 30 年的研究空白",
-        "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a",
-        "source": "old.reddit.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_cdc22d7d874c",
-      "title": "“审查人工智能代码”并非一个站得住脚的论点",
-      "url": "https://softwaremaxims.com/blog/reviewing-ai-code",
-      "primary_url": "https://softwaremaxims.com/blog/reviewing-ai-code",
-      "source": "softwaremaxims.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "d3bd0f5be262041aaf5855053c60b76e2fe51b1b",
-          "title": "“审查人工智能代码”并非一个站得住脚的论点",
-          "url": "https://softwaremaxims.com/blog/reviewing-ai-code",
-          "source": "softwaremaxims.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-18T16:41:31.812000Z"
-        },
-        {
-          "id": "4105e0f345eb1d4989e3988ad43a211e4456b8f6",
-          "title": "“审查人工智能代码”并非一个站得住脚的论点 / Reviewing AI Code Is Not A Viable Argument",
-          "url": "https://softwaremaxims.com/blog/reviewing-ai-code",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-18T16:25:19Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Lobsters (技术社区)",
-        "softwaremaxims.com"
-      ],
-      "items": [
-        {
-          "id": "d3bd0f5be262041aaf5855053c60b76e2fe51b1b",
-          "title": "“审查人工智能代码”并非一个站得住脚的论点",
-          "url": "https://softwaremaxims.com/blog/reviewing-ai-code",
-          "source": "softwaremaxims.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-18T16:41:31.812000Z"
-        },
-        {
-          "id": "4105e0f345eb1d4989e3988ad43a211e4456b8f6",
-          "title": "“审查人工智能代码”并非一个站得住脚的论点 / Reviewing AI Code Is Not A Viable Argument",
-          "url": "https://softwaremaxims.com/blog/reviewing-ai-code",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-18T16:25:19Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5087,
-      "importance": 0.5087,
-      "importance_score": 0.5087,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8036,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-18T16:25:19Z",
-      "latest_at": "2026-07-18T16:41:31.812000Z",
-      "primary_item": {
-        "id": "d3bd0f5be262041aaf5855053c60b76e2fe51b1b",
-        "title": "“审查人工智能代码”并非一个站得住脚的论点",
-        "url": "https://softwaremaxims.com/blog/reviewing-ai-code",
-        "source": "softwaremaxims.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_e563fec4ca4f",
-      "title": "异端 / Heresy",
-      "url": "https://paulgraham.com/heresy.html",
-      "primary_url": "https://paulgraham.com/heresy.html",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "a903e4e71114bf561ca3006fdef231b701f2f80f",
-          "title": "异端 / Heresy",
-          "url": "https://paulgraham.com/heresy.html",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-18T16:31:42Z"
-        },
-        {
-          "id": "c6735bdad4e7287e405996cff59f25f149f3f19e",
-          "title": "异端 (2022] / Heresy (2022]",
-          "url": "https://paulgraham.com/heresy.html",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-18T16:31:42Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热"
-      ],
-      "items": [
-        {
-          "id": "a903e4e71114bf561ca3006fdef231b701f2f80f",
-          "title": "异端 / Heresy",
-          "url": "https://paulgraham.com/heresy.html",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-18T16:31:42Z"
-        },
-        {
-          "id": "c6735bdad4e7287e405996cff59f25f149f3f19e",
-          "title": "异端 (2022] / Heresy (2022]",
-          "url": "https://paulgraham.com/heresy.html",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-18T16:31:42Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5074,
-      "importance": 0.5074,
-      "importance_score": 0.5074,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7968,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-18T16:31:42Z",
-      "latest_at": "2026-07-18T16:31:42Z",
-      "primary_item": {
-        "id": "a903e4e71114bf561ca3006fdef231b701f2f80f",
-        "title": "异端 / Heresy",
-        "url": "https://paulgraham.com/heresy.html",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
-      }
-    },
-    {
-      "story_id": "story_b9b544c1b5eb",
-      "title": "图表展示：AI对Stack Overflow的影响",
-      "url": "https://data.stackexchange.com/stackoverflow/query/1953768",
-      "primary_url": "https://data.stackexchange.com/stackoverflow/query/1953768",
-      "source": "data.stackexchange.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "b58dd9deab17e3e3d69669620128191a5e9d0ca3",
-          "title": "图表展示：AI对Stack Overflow的影响",
-          "url": "https://data.stackexchange.com/stackoverflow/query/1953768",
-          "source": "data.stackexchange.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-18T13:29:15.879000Z"
-        },
-        {
-          "id": "436929aef38fdbe392ac45926613e4cee1528bae",
-          "title": "AI 在图表中对 stackoverflow 做了什么 / What AI did to stackoverflow in a graph",
-          "url": "https://news.ycombinator.com/item?id=48956949",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-18T12:27:50.805000Z"
-        },
-        {
-          "id": "eb220d23624fcca3105fa61808cc8438199e80a4",
-          "title": "图表展示：AI对Stack Overflow的影响 / What AI did to stackoverflow in a graph",
-          "url": "https://data.stackexchange.com/stackoverflow/query/1953768",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-18T11:12:46Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "data.stackexchange.com",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "b58dd9deab17e3e3d69669620128191a5e9d0ca3",
-          "title": "图表展示：AI对Stack Overflow的影响",
-          "url": "https://data.stackexchange.com/stackoverflow/query/1953768",
-          "source": "data.stackexchange.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-18T13:29:15.879000Z"
-        },
-        {
-          "id": "436929aef38fdbe392ac45926613e4cee1528bae",
-          "title": "AI 在图表中对 stackoverflow 做了什么 / What AI did to stackoverflow in a graph",
-          "url": "https://news.ycombinator.com/item?id=48956949",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-18T12:27:50.805000Z"
-        },
-        {
-          "id": "eb220d23624fcca3105fa61808cc8438199e80a4",
-          "title": "图表展示：AI对Stack Overflow的影响 / What AI did to stackoverflow in a graph",
-          "url": "https://data.stackexchange.com/stackoverflow/query/1953768",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-18T11:12:46Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.507,
-      "importance": 0.507,
-      "importance_score": 0.507,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.6701,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-18T11:12:46Z",
-      "latest_at": "2026-07-18T13:29:15.879000Z",
-      "primary_item": {
-        "id": "b58dd9deab17e3e3d69669620128191a5e9d0ca3",
-        "title": "图表展示：AI对Stack Overflow的影响",
-        "url": "https://data.stackexchange.com/stackoverflow/query/1953768",
-        "source": "data.stackexchange.com",
-        "source_name": "Buzzing"
       }
     },
     {
@@ -1047,14 +1203,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4798,
-      "importance": 0.4798,
-      "importance_score": 0.4798,
+      "score": 0.4715,
+      "importance": 0.4715,
+      "importance_score": 0.4715,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6591,
+        "recency": 0.6177,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1125,14 +1281,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4776,
-      "importance": 0.4776,
-      "importance_score": 0.4776,
+      "score": 0.4693,
+      "importance": 0.4693,
+      "importance_score": 0.4693,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.648,
+        "recency": 0.6065,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1203,14 +1359,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4629,
-      "importance": 0.4629,
-      "importance_score": 0.4629,
+      "score": 0.4546,
+      "importance": 0.4546,
+      "importance_score": 0.4546,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.5745,
+        "recency": 0.5331,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1281,14 +1437,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4628,
-      "importance": 0.4628,
-      "importance_score": 0.4628,
+      "score": 0.4546,
+      "importance": 0.4546,
+      "importance_score": 0.4546,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.5742,
+        "recency": 0.5328,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1303,84 +1459,6 @@
         "url": "https://36kr.com/newsflashes/3900908700436103?f=rss",
         "source": "Readhub · AI",
         "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_e02649f4fa30",
-      "title": "我曾在旧金山的OpenAI实习。以下是我当时的经历以及我对萨姆·阿尔特曼的看法。",
-      "url": "https://www.businessinsider.com/intern-openai-sam-altman-san-francisco-make-it-in-tech-2026-7",
-      "primary_url": "https://www.businessinsider.com/intern-openai-sam-altman-san-francisco-make-it-in-tech-2026-7",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "46a38b3411faa1c2c53606a37b801d73b0566fac",
-          "title": "我曾在旧金山的OpenAI实习。以下是我当时的经历以及我对萨姆·阿尔特曼的看法。",
-          "url": "https://www.businessinsider.com/intern-openai-sam-altman-san-francisco-make-it-in-tech-2026-7",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-18T10:33:45.979000Z"
-        },
-        {
-          "id": "7199971ed0a15f004ab026272d0cc905bce59a07",
-          "title": "我曾在旧金山的OpenAI实习。以下是我当时的经历以及我对萨姆·阿尔特曼的看法。 / I interned at OpenAI in San Francisco. Here's how I landed it, what it was like, and what I thought of Sam Altman.",
-          "url": "https://www.businessinsider.com/intern-openai-sam-altman-san-francisco-make-it-in-tech-2026-7",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-18T10:21:01Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "46a38b3411faa1c2c53606a37b801d73b0566fac",
-          "title": "我曾在旧金山的OpenAI实习。以下是我当时的经历以及我对萨姆·阿尔特曼的看法。",
-          "url": "https://www.businessinsider.com/intern-openai-sam-altman-san-francisco-make-it-in-tech-2026-7",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-18T10:33:45.979000Z"
-        },
-        {
-          "id": "7199971ed0a15f004ab026272d0cc905bce59a07",
-          "title": "我曾在旧金山的OpenAI实习。以下是我当时的经历以及我对萨姆·阿尔特曼的看法。 / I interned at OpenAI in San Francisco. Here's how I landed it, what it was like, and what I thought of Sam Altman.",
-          "url": "https://www.businessinsider.com/intern-openai-sam-altman-san-francisco-make-it-in-tech-2026-7",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-18T10:21:01Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4577,
-      "importance": 0.4577,
-      "importance_score": 0.4577,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.5483,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-18T10:21:01Z",
-      "latest_at": "2026-07-18T10:33:45.979000Z",
-      "primary_item": {
-        "id": "46a38b3411faa1c2c53606a37b801d73b0566fac",
-        "title": "我曾在旧金山的OpenAI实习。以下是我当时的经历以及我对萨姆·阿尔特曼的看法。",
-        "url": "https://www.businessinsider.com/intern-openai-sam-altman-san-francisco-make-it-in-tech-2026-7",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
       }
     },
     {
@@ -1436,14 +1514,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4574,
-      "importance": 0.4574,
-      "importance_score": 0.4574,
+      "score": 0.4491,
+      "importance": 0.4491,
+      "importance_score": 0.4491,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.5471,
+        "recency": 0.5056,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1514,14 +1592,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4629,
-      "importance": 0.4629,
-      "importance_score": 0.4629,
+      "score": 0.4546,
+      "importance": 0.4546,
+      "importance_score": 0.4546,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.5745,
+        "recency": 0.5331,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1539,30 +1617,30 @@
       }
     },
     {
-      "story_id": "story_628b40994a12",
-      "title": "凯文·奥利里表示，如今的人工智能数据中心耗水量远低于人们的想象",
-      "url": "https://www.businessinsider.com/kevin-oleary-likens-ai-data-centers-water-use-golf-courses-2026-7",
-      "primary_url": "https://www.businessinsider.com/kevin-oleary-likens-ai-data-centers-water-use-golf-courses-2026-7",
+      "story_id": "story_e02649f4fa30",
+      "title": "我曾在旧金山的OpenAI实习。以下是我当时的经历以及我对萨姆·阿尔特曼的看法。",
+      "url": "https://www.businessinsider.com/intern-openai-sam-altman-san-francisco-make-it-in-tech-2026-7",
+      "primary_url": "https://www.businessinsider.com/intern-openai-sam-altman-san-francisco-make-it-in-tech-2026-7",
       "source": "www.businessinsider.com",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "3097238dd04330abf47f8713f4813f46e21c9396",
-          "title": "凯文·奥利里表示，如今的人工智能数据中心耗水量远低于人们的想象",
-          "url": "https://www.businessinsider.com/kevin-oleary-likens-ai-data-centers-water-use-golf-courses-2026-7",
+          "id": "46a38b3411faa1c2c53606a37b801d73b0566fac",
+          "title": "我曾在旧金山的OpenAI实习。以下是我当时的经历以及我对萨姆·阿尔特曼的看法。",
+          "url": "https://www.businessinsider.com/intern-openai-sam-altman-san-francisco-make-it-in-tech-2026-7",
           "source": "www.businessinsider.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-07-18T09:29:57.791000Z"
+          "published_at": "2026-07-18T10:33:45.979000Z"
         },
         {
-          "id": "95b33812de7d00e13564042ca3f55c5b2f2a1150",
-          "title": "凯文·奥利里表示，如今的人工智能数据中心耗水量远低于人们的想象 / Kevin O'Leary pushes back on AI data center water fears: 'Like a golf course'",
-          "url": "https://www.businessinsider.com/kevin-oleary-likens-ai-data-centers-water-use-golf-courses-2026-7",
+          "id": "7199971ed0a15f004ab026272d0cc905bce59a07",
+          "title": "我曾在旧金山的OpenAI实习。以下是我当时的经历以及我对萨姆·阿尔特曼的看法。 / I interned at OpenAI in San Francisco. Here's how I landed it, what it was like, and what I thought of Sam Altman.",
+          "url": "https://www.businessinsider.com/intern-openai-sam-altman-san-francisco-make-it-in-tech-2026-7",
           "source": "Business Insider",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-07-18T09:17:01Z"
+          "published_at": "2026-07-18T10:21:01Z"
         }
       ],
       "source_count": 2,
@@ -1572,46 +1650,46 @@
       ],
       "items": [
         {
-          "id": "3097238dd04330abf47f8713f4813f46e21c9396",
-          "title": "凯文·奥利里表示，如今的人工智能数据中心耗水量远低于人们的想象",
-          "url": "https://www.businessinsider.com/kevin-oleary-likens-ai-data-centers-water-use-golf-courses-2026-7",
+          "id": "46a38b3411faa1c2c53606a37b801d73b0566fac",
+          "title": "我曾在旧金山的OpenAI实习。以下是我当时的经历以及我对萨姆·阿尔特曼的看法。",
+          "url": "https://www.businessinsider.com/intern-openai-sam-altman-san-francisco-make-it-in-tech-2026-7",
           "source": "www.businessinsider.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-07-18T09:29:57.791000Z"
+          "published_at": "2026-07-18T10:33:45.979000Z"
         },
         {
-          "id": "95b33812de7d00e13564042ca3f55c5b2f2a1150",
-          "title": "凯文·奥利里表示，如今的人工智能数据中心耗水量远低于人们的想象 / Kevin O'Leary pushes back on AI data center water fears: 'Like a golf course'",
-          "url": "https://www.businessinsider.com/kevin-oleary-likens-ai-data-centers-water-use-golf-courses-2026-7",
+          "id": "7199971ed0a15f004ab026272d0cc905bce59a07",
+          "title": "我曾在旧金山的OpenAI实习。以下是我当时的经历以及我对萨姆·阿尔特曼的看法。 / I interned at OpenAI in San Francisco. Here's how I landed it, what it was like, and what I thought of Sam Altman.",
+          "url": "https://www.businessinsider.com/intern-openai-sam-altman-san-francisco-make-it-in-tech-2026-7",
           "source": "Business Insider",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-07-18T09:17:01Z"
+          "published_at": "2026-07-18T10:21:01Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4488,
-      "importance": 0.4488,
-      "importance_score": 0.4488,
+      "score": 0.4494,
+      "importance": 0.4494,
+      "importance_score": 0.4494,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.5039,
+        "recency": 0.5068,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-18T09:17:01Z",
-      "latest_at": "2026-07-18T09:29:57.791000Z",
+      "earliest_at": "2026-07-18T10:21:01Z",
+      "latest_at": "2026-07-18T10:33:45.979000Z",
       "primary_item": {
-        "id": "3097238dd04330abf47f8713f4813f46e21c9396",
-        "title": "凯文·奥利里表示，如今的人工智能数据中心耗水量远低于人们的想象",
-        "url": "https://www.businessinsider.com/kevin-oleary-likens-ai-data-centers-water-use-golf-courses-2026-7",
+        "id": "46a38b3411faa1c2c53606a37b801d73b0566fac",
+        "title": "我曾在旧金山的OpenAI实习。以下是我当时的经历以及我对萨姆·阿尔特曼的看法。",
+        "url": "https://www.businessinsider.com/intern-openai-sam-altman-san-francisco-make-it-in-tech-2026-7",
         "source": "www.businessinsider.com",
         "source_name": "Buzzing"
       }
@@ -1670,14 +1748,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4392,
-      "importance": 0.4392,
-      "importance_score": 0.4392,
+      "score": 0.4309,
+      "importance": 0.4309,
+      "importance_score": 0.4309,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.4559,
+        "recency": 0.4145,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1692,83 +1770,6 @@
         "url": "https://36kr.com/newsflashes/3900805390845571?f=rss",
         "source": "Readhub · AI",
         "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_4393ed8dc20a",
-      "title": "凯撒护士表示人工智能、监控正在使他们的工作和病人护理变得更糟 / Kaiser nurses say AI, surveillance are making their jobs and patient care worse",
-      "url": "https://news.ycombinator.com/item?id=48952880",
-      "primary_url": "https://news.ycombinator.com/item?id=48952880",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "d24daaec6a8e8b5b3529242a615750369d08203e",
-          "title": "凯撒护士表示人工智能、监控正在使他们的工作和病人护理变得更糟 / Kaiser nurses say AI, surveillance are making their jobs and patient care worse",
-          "url": "https://news.ycombinator.com/item?id=48952880",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-18T07:55:15.775000Z"
-        },
-        {
-          "id": "203cce17e24319491719b480af600f291373ef87",
-          "title": "凯撒护士表示人工智能、工作场所监控正在使他们的工作和护理变得更糟 / Kaiser nurses say AI, workplace surveillance are making their jobs, care worse",
-          "url": "https://news.ycombinator.com/item?id=48952880",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-17T22:59:17.288000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "d24daaec6a8e8b5b3529242a615750369d08203e",
-          "title": "凯撒护士表示人工智能、监控正在使他们的工作和病人护理变得更糟 / Kaiser nurses say AI, surveillance are making their jobs and patient care worse",
-          "url": "https://news.ycombinator.com/item?id=48952880",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-18T07:55:15.775000Z"
-        },
-        {
-          "id": "203cce17e24319491719b480af600f291373ef87",
-          "title": "凯撒护士表示人工智能、工作场所监控正在使他们的工作和护理变得更糟 / Kaiser nurses say AI, workplace surveillance are making their jobs, care worse",
-          "url": "https://news.ycombinator.com/item?id=48952880",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-17T22:59:17.288000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4356,
-      "importance": 0.4356,
-      "importance_score": 0.4356,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.4382,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-17T22:59:17.288000Z",
-      "latest_at": "2026-07-18T07:55:15.775000Z",
-      "primary_item": {
-        "id": "d24daaec6a8e8b5b3529242a615750369d08203e",
-        "title": "凯撒护士表示人工智能、监控正在使他们的工作和病人护理变得更糟 / Kaiser nurses say AI, surveillance are making their jobs and patient care worse",
-        "url": "https://news.ycombinator.com/item?id=48952880",
-        "source": "hackernews",
-        "source_name": "NewsNow"
       }
     },
     {
@@ -1844,14 +1845,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.3916,
-      "importance": 0.3916,
-      "importance_score": 0.3916,
+      "score": 0.3833,
+      "importance": 0.3833,
+      "importance_score": 0.3833,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.0929,
+        "recency": 0.0514,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1869,30 +1870,30 @@
       }
     },
     {
-      "story_id": "story_7808576f556e",
-      "title": "婚前协议正面临一个新问题：能否与人工智能出轨？",
-      "url": "https://www.businessinsider.com/prenups-ai-infidelity-cheating-chatbot-companions-virtual-relationships-2026-7",
-      "primary_url": "https://www.businessinsider.com/prenups-ai-infidelity-cheating-chatbot-companions-virtual-relationships-2026-7",
+      "story_id": "story_628b40994a12",
+      "title": "凯文·奥利里表示，如今的人工智能数据中心耗水量远低于人们的想象",
+      "url": "https://www.businessinsider.com/kevin-oleary-likens-ai-data-centers-water-use-golf-courses-2026-7",
+      "primary_url": "https://www.businessinsider.com/kevin-oleary-likens-ai-data-centers-water-use-golf-courses-2026-7",
       "source": "www.businessinsider.com",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "35a1ac67af4e91a4eb8a5cfc656d00f1672bb8fc",
-          "title": "婚前协议正面临一个新问题：能否与人工智能出轨？",
-          "url": "https://www.businessinsider.com/prenups-ai-infidelity-cheating-chatbot-companions-virtual-relationships-2026-7",
+          "id": "3097238dd04330abf47f8713f4813f46e21c9396",
+          "title": "凯文·奥利里表示，如今的人工智能数据中心耗水量远低于人们的想象",
+          "url": "https://www.businessinsider.com/kevin-oleary-likens-ai-data-centers-water-use-golf-courses-2026-7",
           "source": "www.businessinsider.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-07-18T08:57:49.615000Z"
+          "published_at": "2026-07-18T09:29:57.791000Z"
         },
         {
-          "id": "50b3e33cfeb94221ad6c4b5cd1e92b7f7d318ef6",
-          "title": "婚前协议正面临一个新问题：能否与人工智能出轨？ / The next prenup provision: What happens if your spouse cheats on you with AI?",
-          "url": "https://www.businessinsider.com/prenups-ai-infidelity-cheating-chatbot-companions-virtual-relationships-2026-7",
+          "id": "95b33812de7d00e13564042ca3f55c5b2f2a1150",
+          "title": "凯文·奥利里表示，如今的人工智能数据中心耗水量远低于人们的想象 / Kevin O'Leary pushes back on AI data center water fears: 'Like a golf course'",
+          "url": "https://www.businessinsider.com/kevin-oleary-likens-ai-data-centers-water-use-golf-courses-2026-7",
           "source": "Business Insider",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-07-18T08:41:01Z"
+          "published_at": "2026-07-18T09:17:01Z"
         }
       ],
       "source_count": 2,
@@ -1902,46 +1903,46 @@
       ],
       "items": [
         {
-          "id": "35a1ac67af4e91a4eb8a5cfc656d00f1672bb8fc",
-          "title": "婚前协议正面临一个新问题：能否与人工智能出轨？",
-          "url": "https://www.businessinsider.com/prenups-ai-infidelity-cheating-chatbot-companions-virtual-relationships-2026-7",
+          "id": "3097238dd04330abf47f8713f4813f46e21c9396",
+          "title": "凯文·奥利里表示，如今的人工智能数据中心耗水量远低于人们的想象",
+          "url": "https://www.businessinsider.com/kevin-oleary-likens-ai-data-centers-water-use-golf-courses-2026-7",
           "source": "www.businessinsider.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-07-18T08:57:49.615000Z"
+          "published_at": "2026-07-18T09:29:57.791000Z"
         },
         {
-          "id": "50b3e33cfeb94221ad6c4b5cd1e92b7f7d318ef6",
-          "title": "婚前协议正面临一个新问题：能否与人工智能出轨？ / The next prenup provision: What happens if your spouse cheats on you with AI?",
-          "url": "https://www.businessinsider.com/prenups-ai-infidelity-cheating-chatbot-companions-virtual-relationships-2026-7",
+          "id": "95b33812de7d00e13564042ca3f55c5b2f2a1150",
+          "title": "凯文·奥利里表示，如今的人工智能数据中心耗水量远低于人们的想象 / Kevin O'Leary pushes back on AI data center water fears: 'Like a golf course'",
+          "url": "https://www.businessinsider.com/kevin-oleary-likens-ai-data-centers-water-use-golf-courses-2026-7",
           "source": "Business Insider",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-07-18T08:41:01Z"
+          "published_at": "2026-07-18T09:17:01Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4443,
-      "importance": 0.4443,
-      "importance_score": 0.4443,
+      "score": 0.4405,
+      "importance": 0.4405,
+      "importance_score": 0.4405,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.4816,
+        "recency": 0.4625,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-18T08:41:01Z",
-      "latest_at": "2026-07-18T08:57:49.615000Z",
+      "earliest_at": "2026-07-18T09:17:01Z",
+      "latest_at": "2026-07-18T09:29:57.791000Z",
       "primary_item": {
-        "id": "35a1ac67af4e91a4eb8a5cfc656d00f1672bb8fc",
-        "title": "婚前协议正面临一个新问题：能否与人工智能出轨？",
-        "url": "https://www.businessinsider.com/prenups-ai-infidelity-cheating-chatbot-companions-virtual-relationships-2026-7",
+        "id": "3097238dd04330abf47f8713f4813f46e21c9396",
+        "title": "凯文·奥利里表示，如今的人工智能数据中心耗水量远低于人们的想象",
+        "url": "https://www.businessinsider.com/kevin-oleary-likens-ai-data-centers-water-use-golf-courses-2026-7",
         "source": "www.businessinsider.com",
         "source_name": "Buzzing"
       }
