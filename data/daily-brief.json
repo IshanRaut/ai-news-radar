@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-07-18T13:59:08.189751Z",
+  "generated_at": "2026-07-18T15:05:01.809848Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260718-2359-3299-9685-f5562ba06314&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260718-2359-3299-9685-f5562ba06314&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260719-0105-259d-95ad-8713ec6923ff&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260719-0105-259d-95ad-8713ec6923ff&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "f5a592132354450972df939b1a1902a04ef0601a",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260719-0105-259d-95ad-8713ec6923ff&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "2cb760c9219a33cb20f7ac53eb53056bf25cd5ac",
           "title": "点击这里进入 / Click here to enter",
@@ -141,15 +150,6 @@
           "id": "c33eeb3a0bc00d328649069bc0833f9a22f66399",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260718-0156-2312-9796-de91f0f4ce17&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "c34627414c526256b1f84f9283505a74fb50cfd9",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260718-0013-296d-a75b-067c263785b6&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -162,6 +162,15 @@
       ],
       "items": [
         {
+          "id": "f5a592132354450972df939b1a1902a04ef0601a",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260719-0105-259d-95ad-8713ec6923ff&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "2cb760c9219a33cb20f7ac53eb53056bf25cd5ac",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260718-2359-3299-9685-f5562ba06314&fp=-3",
@@ -291,15 +300,6 @@
           "id": "c33eeb3a0bc00d328649069bc0833f9a22f66399",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260718-0156-2312-9796-de91f0f4ce17&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "c34627414c526256b1f84f9283505a74fb50cfd9",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260718-0013-296d-a75b-067c263785b6&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -324,14 +324,75 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-17T14:13:03.021032Z",
-      "latest_at": "2026-07-18T13:59:08.189751Z",
+      "earliest_at": "2026-07-17T15:55:55.206810Z",
+      "latest_at": "2026-07-18T15:05:01.809848Z",
       "primary_item": {
-        "id": "2cb760c9219a33cb20f7ac53eb53056bf25cd5ac",
+        "id": "f5a592132354450972df939b1a1902a04ef0601a",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260718-2359-3299-9685-f5562ba06314&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260719-0105-259d-95ad-8713ec6923ff&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
+      }
+    },
+    {
+      "story_id": "story_91992ed9f82d",
+      "title": "法典 CLI 0.144.6 / Codex CLI 0.144.6",
+      "url": "https://developers.openai.com/codex/changelog",
+      "primary_url": "https://developers.openai.com/codex/changelog",
+      "source": "OpenAI Codex Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "0f82998fdb1d463dbd1bac836c1e9cfbf50e7f25",
+          "title": "法典 CLI 0.144.6 / Codex CLI 0.144.6",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-18T00:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI Codex Changelog"
+      ],
+      "items": [
+        {
+          "id": "0f82998fdb1d463dbd1bac836c1e9cfbf50e7f25",
+          "title": "法典 CLI 0.144.6 / Codex CLI 0.144.6",
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-18T00:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7683,
+      "importance": 0.7683,
+      "importance_score": 0.7683,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.98,
+        "recency": 0.3715,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-18T00:00:00Z",
+      "latest_at": "2026-07-18T00:00:00Z",
+      "primary_item": {
+        "id": "0f82998fdb1d463dbd1bac836c1e9cfbf50e7f25",
+        "title": "法典 CLI 0.144.6 / Codex CLI 0.144.6",
+        "url": "https://developers.openai.com/codex/changelog",
+        "source": "OpenAI Codex Changelog",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -369,14 +430,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7405,
-      "importance": 0.7405,
-      "importance_score": 0.7405,
+      "score": 0.7314,
+      "importance": 0.7314,
+      "importance_score": 0.7314,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.3375,
+        "recency": 0.2918,
         "story_heat": 0.0
       },
       "category": "official",
@@ -429,14 +490,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7354,
-      "importance": 0.7354,
-      "importance_score": 0.7354,
+      "score": 0.7262,
+      "importance": 0.7262,
+      "importance_score": 0.7262,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6169,
+        "recency": 0.5711,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -488,14 +549,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7405,
-      "importance": 0.7405,
-      "importance_score": 0.7405,
+      "score": 0.7314,
+      "importance": 0.7314,
+      "importance_score": 0.7314,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.3376,
+        "recency": 0.2919,
         "story_heat": 0.0
       },
       "category": "official",
@@ -548,14 +609,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7326,
-      "importance": 0.7326,
-      "importance_score": 0.7326,
+      "score": 0.7235,
+      "importance": 0.7235,
+      "importance_score": 0.7235,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.2982,
+        "recency": 0.2524,
         "story_heat": 0.0
       },
       "category": "official",
@@ -608,14 +669,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7304,
-      "importance": 0.7304,
-      "importance_score": 0.7304,
+      "score": 0.7213,
+      "importance": 0.7213,
+      "importance_score": 0.7213,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.94,
-        "recency": 0.2421,
+        "recency": 0.1963,
         "story_heat": 0.0
       },
       "category": "official",
@@ -725,14 +786,14 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5853,
-      "importance": 0.5853,
-      "importance_score": 0.5853,
+      "score": 0.5762,
+      "importance": 0.5762,
+      "importance_score": 0.5762,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9366,
+        "recency": 0.8908,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -747,6 +808,103 @@
         "url": "https://news.ycombinator.com/item?id=48956924",
         "source": "hackernews",
         "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_1c98b9c89e38",
+      "title": "GPT-5.6 通过一个提示词，弥合了凸优化领域长达 30 年的研究空白",
+      "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a",
+      "primary_url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a",
+      "source": "old.reddit.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "9651931f406a4d924811d9891efdfa2132928dc1",
+          "title": "GPT-5.6 通过一个提示词，弥合了凸优化领域长达 30 年的研究空白",
+          "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a",
+          "source": "old.reddit.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-18T14:17:48.882000Z"
+        },
+        {
+          "id": "59cc559ce0a94dd4aa8dbc7d068f02fa8c4feb8a",
+          "title": "GPT-5.6使用提示缩小了凸优化30年的差距 / GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
+          "url": "https://news.ycombinator.com/item?id=48957779",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-18T13:59:39.844000Z"
+        },
+        {
+          "id": "cc472846de4516c1a939404620afb978e4c3f00e",
+          "title": "GPT-5.6 通过一个提示词，弥合了凸优化领域长达 30 年的研究空白 / GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
+          "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-18T13:00:52Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews",
+        "old.reddit.com"
+      ],
+      "items": [
+        {
+          "id": "9651931f406a4d924811d9891efdfa2132928dc1",
+          "title": "GPT-5.6 通过一个提示词，弥合了凸优化领域长达 30 年的研究空白",
+          "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a",
+          "source": "old.reddit.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-18T14:17:48.882000Z"
+        },
+        {
+          "id": "59cc559ce0a94dd4aa8dbc7d068f02fa8c4feb8a",
+          "title": "GPT-5.6使用提示缩小了凸优化30年的差距 / GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
+          "url": "https://news.ycombinator.com/item?id=48957779",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-18T13:59:39.844000Z"
+        },
+        {
+          "id": "cc472846de4516c1a939404620afb978e4c3f00e",
+          "title": "GPT-5.6 通过一个提示词，弥合了凸优化领域长达 30 年的研究空白 / GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
+          "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-18T13:00:52Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5664,
+      "importance": 0.5664,
+      "importance_score": 0.5664,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9672,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-18T13:00:52Z",
+      "latest_at": "2026-07-18T14:17:48.882000Z",
+      "primary_item": {
+        "id": "9651931f406a4d924811d9891efdfa2132928dc1",
+        "title": "GPT-5.6 通过一个提示词，弥合了凸优化领域长达 30 年的研究空白",
+        "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a",
+        "source": "old.reddit.com",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -822,14 +980,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5689,
-      "importance": 0.5689,
-      "importance_score": 0.5689,
+      "score": 0.5597,
+      "importance": 0.5597,
+      "importance_score": 0.5597,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9793,
+        "recency": 0.9335,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -900,14 +1058,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5416,
-      "importance": 0.5416,
-      "importance_score": 0.5416,
+      "score": 0.5325,
+      "importance": 0.5325,
+      "importance_score": 0.5325,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9682,
+        "recency": 0.9224,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -978,14 +1136,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5394,
-      "importance": 0.5394,
-      "importance_score": 0.5394,
+      "score": 0.5303,
+      "importance": 0.5303,
+      "importance_score": 0.5303,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9571,
+        "recency": 0.9113,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1056,14 +1214,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5247,
-      "importance": 0.5247,
-      "importance_score": 0.5247,
+      "score": 0.5156,
+      "importance": 0.5156,
+      "importance_score": 0.5156,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8837,
+        "recency": 0.8379,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1134,14 +1292,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5247,
-      "importance": 0.5247,
-      "importance_score": 0.5247,
+      "score": 0.5155,
+      "importance": 0.5155,
+      "importance_score": 0.5155,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8834,
+        "recency": 0.8376,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1212,14 +1370,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5195,
-      "importance": 0.5195,
-      "importance_score": 0.5195,
+      "score": 0.5103,
+      "importance": 0.5103,
+      "importance_score": 0.5103,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8574,
+        "recency": 0.8116,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1289,14 +1447,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5192,
-      "importance": 0.5192,
-      "importance_score": 0.5192,
+      "score": 0.5101,
+      "importance": 0.5101,
+      "importance_score": 0.5101,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8562,
+        "recency": 0.8104,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1314,79 +1472,79 @@
       }
     },
     {
-      "story_id": "story_1c98b9c89e38",
-      "title": "GPT-5.6使用提示缩小了凸优化30年的差距 / GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
-      "url": "https://news.ycombinator.com/item?id=48957779",
-      "primary_url": "https://news.ycombinator.com/item?id=48957779",
+      "story_id": "story_737581f31a19",
+      "title": "《神鬼寓言 5》与 GPT-5.6 Sol 在 NP 难问题上的对比：/goal 有帮助吗？ / Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
+      "url": "https://news.ycombinator.com/item?id=48956879",
+      "primary_url": "https://news.ycombinator.com/item?id=48956879",
       "source": "hackernews",
       "source_name": "NewsNow",
       "sources": [
         {
-          "id": "59cc559ce0a94dd4aa8dbc7d068f02fa8c4feb8a",
-          "title": "GPT-5.6使用提示缩小了凸优化30年的差距 / GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
-          "url": "https://news.ycombinator.com/item?id=48957779",
+          "id": "f99812edd3a8b43b060706dd971b7ead176f9e36",
+          "title": "《神鬼寓言 5》与 GPT-5.6 Sol 在 NP 难问题上的对比：/goal 有帮助吗？ / Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
+          "url": "https://news.ycombinator.com/item?id=48956879",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-07-18T13:59:39.844000Z"
+          "published_at": "2026-07-18T12:27:50.805000Z"
         },
         {
-          "id": "cc472846de4516c1a939404620afb978e4c3f00e",
-          "title": "GPT-5.6使用提示缩小了凸优化30年的差距 / GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
-          "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-18T13:00:52Z"
+          "id": "b22c145fc9885173ff91092ecd788bd36fe928ec",
+          "title": "《神鬼寓言 5》与 GPT-5.6 Sol 在 NP 难问题上的对比：/goal 有帮助吗？ / Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
+          "url": "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-18T11:00:29Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News (黑客新闻)",
+        "Hacker News",
         "hackernews"
       ],
       "items": [
         {
-          "id": "59cc559ce0a94dd4aa8dbc7d068f02fa8c4feb8a",
-          "title": "GPT-5.6使用提示缩小了凸优化30年的差距 / GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
-          "url": "https://news.ycombinator.com/item?id=48957779",
+          "id": "f99812edd3a8b43b060706dd971b7ead176f9e36",
+          "title": "《神鬼寓言 5》与 GPT-5.6 Sol 在 NP 难问题上的对比：/goal 有帮助吗？ / Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
+          "url": "https://news.ycombinator.com/item?id=48956879",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-07-18T13:59:39.844000Z"
+          "published_at": "2026-07-18T12:27:50.805000Z"
         },
         {
-          "id": "cc472846de4516c1a939404620afb978e4c3f00e",
-          "title": "GPT-5.6使用提示缩小了凸优化30年的差距 / GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
-          "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-18T13:00:52Z"
+          "id": "b22c145fc9885173ff91092ecd788bd36fe928ec",
+          "title": "《神鬼寓言 5》与 GPT-5.6 Sol 在 NP 难问题上的对比：/goal 有帮助吗？ / Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
+          "url": "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-18T11:00:29Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.548,
-      "importance": 0.548,
-      "importance_score": 0.548,
+      "score": 0.5262,
+      "importance": 0.5262,
+      "importance_score": 0.5262,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.8908,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-18T13:00:52Z",
-      "latest_at": "2026-07-18T13:59:39.844000Z",
+      "earliest_at": "2026-07-18T11:00:29Z",
+      "latest_at": "2026-07-18T12:27:50.805000Z",
       "primary_item": {
-        "id": "59cc559ce0a94dd4aa8dbc7d068f02fa8c4feb8a",
-        "title": "GPT-5.6使用提示缩小了凸优化30年的差距 / GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
-        "url": "https://news.ycombinator.com/item?id=48957779",
+        "id": "f99812edd3a8b43b060706dd971b7ead176f9e36",
+        "title": "《神鬼寓言 5》与 GPT-5.6 Sol 在 NP 难问题上的对比：/goal 有帮助吗？ / Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
+        "url": "https://news.ycombinator.com/item?id=48956879",
         "source": "hackernews",
         "source_name": "NewsNow"
       }
@@ -1445,14 +1603,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5247,
-      "importance": 0.5247,
-      "importance_score": 0.5247,
+      "score": 0.5156,
+      "importance": 0.5156,
+      "importance_score": 0.5156,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8837,
+        "recency": 0.8379,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1523,14 +1681,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5106,
-      "importance": 0.5106,
-      "importance_score": 0.5106,
+      "score": 0.5015,
+      "importance": 0.5015,
+      "importance_score": 0.5015,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8131,
+        "recency": 0.7673,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1639,14 +1797,14 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.4784,
-      "importance": 0.4784,
-      "importance_score": 0.4784,
+      "score": 0.4692,
+      "importance": 0.4692,
+      "importance_score": 0.4692,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.402,
+        "recency": 0.3562,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -1661,162 +1819,6 @@
         "url": "https://www.nytimes.com/2026/07/17/technology/meta-anthropic-ai-computing-power.html?smtyp=cur&smid=bsky-nytimes",
         "source": "www.nytimes.com",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_737581f31a19",
-      "title": "《神鬼寓言 5》与 GPT-5.6 Sol 在 NP 难问题上的对比：/goal 有帮助吗？ / Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
-      "url": "https://news.ycombinator.com/item?id=48956879",
-      "primary_url": "https://news.ycombinator.com/item?id=48956879",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "f99812edd3a8b43b060706dd971b7ead176f9e36",
-          "title": "《神鬼寓言 5》与 GPT-5.6 Sol 在 NP 难问题上的对比：/goal 有帮助吗？ / Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
-          "url": "https://news.ycombinator.com/item?id=48956879",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-18T12:27:50.805000Z"
-        },
-        {
-          "id": "b22c145fc9885173ff91092ecd788bd36fe928ec",
-          "title": "《神鬼寓言 5》与 GPT-5.6 Sol 在 NP 难问题上的对比：/goal 有帮助吗？ / Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
-          "url": "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-18T11:00:29Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "f99812edd3a8b43b060706dd971b7ead176f9e36",
-          "title": "《神鬼寓言 5》与 GPT-5.6 Sol 在 NP 难问题上的对比：/goal 有帮助吗？ / Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
-          "url": "https://news.ycombinator.com/item?id=48956879",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-18T12:27:50.805000Z"
-        },
-        {
-          "id": "b22c145fc9885173ff91092ecd788bd36fe928ec",
-          "title": "《神鬼寓言 5》与 GPT-5.6 Sol 在 NP 难问题上的对比：/goal 有帮助吗？ / Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
-          "url": "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-18T11:00:29Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5353,
-      "importance": 0.5353,
-      "importance_score": 0.5353,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9366,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-18T11:00:29Z",
-      "latest_at": "2026-07-18T12:27:50.805000Z",
-      "primary_item": {
-        "id": "f99812edd3a8b43b060706dd971b7ead176f9e36",
-        "title": "《神鬼寓言 5》与 GPT-5.6 Sol 在 NP 难问题上的对比：/goal 有帮助吗？ / Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
-        "url": "https://news.ycombinator.com/item?id=48956879",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_0587f2f56e55",
-      "title": "B2B 行业首份 AI 智能体全球支付白皮书发布",
-      "url": "https://36kr.com/newsflashes/3900805390845571?f=rss",
-      "primary_url": "https://36kr.com/newsflashes/3900805390845571?f=rss",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "1481921d7d9fa148801ddf779d223735eeaa8ae9",
-          "title": "B2B 行业首份 AI 智能体全球支付白皮书发布",
-          "url": "https://36kr.com/newsflashes/3900805390845571?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "378337600f078d0fed9ca8a8088b98fcf1ba6d1c",
-          "title": "B2B行业首份AI智能体全球支付白皮书发布",
-          "url": "https://36kr.com/newsflashes/3900805390845571?f=rss",
-          "source": "36氪 (36Kr)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-18T07:15:18Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "36氪 (36Kr)",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "1481921d7d9fa148801ddf779d223735eeaa8ae9",
-          "title": "B2B 行业首份 AI 智能体全球支付白皮书发布",
-          "url": "https://36kr.com/newsflashes/3900805390845571?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "378337600f078d0fed9ca8a8088b98fcf1ba6d1c",
-          "title": "B2B行业首份AI智能体全球支付白皮书发布",
-          "url": "https://36kr.com/newsflashes/3900805390845571?f=rss",
-          "source": "36氪 (36Kr)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-18T07:15:18Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.501,
-      "importance": 0.501,
-      "importance_score": 0.501,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.765,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-18T07:15:18Z",
-      "latest_at": "2026-07-18T08:20:45.920901Z",
-      "primary_item": {
-        "id": "1481921d7d9fa148801ddf779d223735eeaa8ae9",
-        "title": "B2B 行业首份 AI 智能体全球支付白皮书发布",
-        "url": "https://36kr.com/newsflashes/3900805390845571?f=rss",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
       }
     }
   ]
