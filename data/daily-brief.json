@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-07-18T15:05:01.809848Z",
+  "generated_at": "2026-07-18T16:27:03.261720Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260719-0105-259d-95ad-8713ec6923ff&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260719-0105-259d-95ad-8713ec6923ff&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260719-0227-3132-b49c-cc9b77ddb9a1&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260719-0227-3132-b49c-cc9b77ddb9a1&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "011ad251b534f2a71c899952ac61dde721c51057",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260719-0227-3132-b49c-cc9b77ddb9a1&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "f5a592132354450972df939b1a1902a04ef0601a",
           "title": "点击这里进入 / Click here to enter",
@@ -141,15 +150,6 @@
           "id": "7e5ab94e58d190968dbc7ceb6970c5907d38f061",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260718-0316-218b-b615-4e2269a0b61a&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "c33eeb3a0bc00d328649069bc0833f9a22f66399",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260718-0156-2312-9796-de91f0f4ce17&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -162,6 +162,15 @@
       ],
       "items": [
         {
+          "id": "011ad251b534f2a71c899952ac61dde721c51057",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260719-0227-3132-b49c-cc9b77ddb9a1&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "f5a592132354450972df939b1a1902a04ef0601a",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260719-0105-259d-95ad-8713ec6923ff&fp=-3",
@@ -291,15 +300,6 @@
           "id": "7e5ab94e58d190968dbc7ceb6970c5907d38f061",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260718-0316-218b-b615-4e2269a0b61a&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "c33eeb3a0bc00d328649069bc0833f9a22f66399",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260718-0156-2312-9796-de91f0f4ce17&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -324,12 +324,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-17T15:55:55.206810Z",
-      "latest_at": "2026-07-18T15:05:01.809848Z",
+      "earliest_at": "2026-07-17T17:15:55.649919Z",
+      "latest_at": "2026-07-18T16:27:03.261720Z",
       "primary_item": {
-        "id": "f5a592132354450972df939b1a1902a04ef0601a",
+        "id": "011ad251b534f2a71c899952ac61dde721c51057",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260719-0105-259d-95ad-8713ec6923ff&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260719-0227-3132-b49c-cc9b77ddb9a1&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
       }
@@ -369,14 +369,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7683,
-      "importance": 0.7683,
-      "importance_score": 0.7683,
+      "score": 0.7569,
+      "importance": 0.7569,
+      "importance_score": 0.7569,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.3715,
+        "recency": 0.3145,
         "story_heat": 0.0
       },
       "category": "official",
@@ -430,14 +430,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7314,
-      "importance": 0.7314,
-      "importance_score": 0.7314,
+      "score": 0.72,
+      "importance": 0.72,
+      "importance_score": 0.72,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.2918,
+        "recency": 0.2348,
         "story_heat": 0.0
       },
       "category": "official",
@@ -453,65 +453,6 @@
         "url": "https://github.blog/changelog/2026-07-17-github-copilot-app-now-available-in-the-usage-metrics-api",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_f671875c2dd8",
-      "title": "Index Ventures 联合创始人 Neil Rimer 认为 AI 财富将面临\"再分配\"",
-      "url": "https://aihot.virxact.com/items/cmrpwwjho06djbisr218fe8ro",
-      "primary_url": "https://aihot.virxact.com/items/cmrpwwjho06djbisr218fe8ro",
-      "source": "TechCrunch：AI（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "bcab62df94a17d70ee3c0f292d7b026f51221909",
-          "title": "Index Ventures 联合创始人 Neil Rimer 认为 AI 财富将面临\"再分配\"",
-          "url": "https://aihot.virxact.com/items/cmrpwwjho06djbisr218fe8ro",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-18T04:47:25Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "TechCrunch：AI（RSS）"
-      ],
-      "items": [
-        {
-          "id": "bcab62df94a17d70ee3c0f292d7b026f51221909",
-          "title": "Index Ventures 联合创始人 Neil Rimer 认为 AI 财富将面临\"再分配\"",
-          "url": "https://aihot.virxact.com/items/cmrpwwjho06djbisr218fe8ro",
-          "source": "TechCrunch：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-18T04:47:25Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7262,
-      "importance": 0.7262,
-      "importance_score": 0.7262,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5711,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-18T04:47:25Z",
-      "latest_at": "2026-07-18T04:47:25Z",
-      "primary_item": {
-        "id": "bcab62df94a17d70ee3c0f292d7b026f51221909",
-        "title": "Index Ventures 联合创始人 Neil Rimer 认为 AI 财富将面临\"再分配\"",
-        "url": "https://aihot.virxact.com/items/cmrpwwjho06djbisr218fe8ro",
-        "source": "TechCrunch：AI（RSS）",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -549,14 +490,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7314,
-      "importance": 0.7314,
-      "importance_score": 0.7314,
+      "score": 0.72,
+      "importance": 0.72,
+      "importance_score": 0.72,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.2919,
+        "recency": 0.2349,
         "story_heat": 0.0
       },
       "category": "official",
@@ -570,126 +511,6 @@
         "id": "e116cce8c0a97df5f7182b854381020539ea9a0c",
         "title": "存储库级 GitHub Copilot 使用指标普遍可用 / Repository-level GitHub Copilot usage metrics generally available",
         "url": "https://github.blog/changelog/2026-07-17-repository-level-github-copilot-usage-metrics-generally-available",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_25d5fb9bf484",
-      "title": "Copilot 代码审查：定制和可配置性改进 / Copilot code review: Customization and configurability improvements",
-      "url": "https://github.blog/changelog/2026-07-17-copilot-code-review-customization-and-configurability-improvements",
-      "primary_url": "https://github.blog/changelog/2026-07-17-copilot-code-review-customization-and-configurability-improvements",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "2c78ca1612bb57534e665ac69008bd3ce2bdea66",
-          "title": "Copilot 代码审查：定制和可配置性改进 / Copilot code review: Customization and configurability improvements",
-          "url": "https://github.blog/changelog/2026-07-17-copilot-code-review-customization-and-configurability-improvements",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-17T21:08:30Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "2c78ca1612bb57534e665ac69008bd3ce2bdea66",
-          "title": "Copilot 代码审查：定制和可配置性改进 / Copilot code review: Customization and configurability improvements",
-          "url": "https://github.blog/changelog/2026-07-17-copilot-code-review-customization-and-configurability-improvements",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-17T21:08:30Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7235,
-      "importance": 0.7235,
-      "importance_score": 0.7235,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.2524,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-17T21:08:30Z",
-      "latest_at": "2026-07-17T21:08:30Z",
-      "primary_item": {
-        "id": "2c78ca1612bb57534e665ac69008bd3ce2bdea66",
-        "title": "Copilot 代码审查：定制和可配置性改进 / Copilot code review: Customization and configurability improvements",
-        "url": "https://github.blog/changelog/2026-07-17-copilot-code-review-customization-and-configurability-improvements",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_c03164d67fef",
-      "title": "GitHub Mobile：使用 Copilot 云代理修复拉取请求评论 / GitHub Mobile: Fix pull request comments with Copilot cloud agent",
-      "url": "https://github.blog/changelog/2026-07-17-github-mobile-fix-pull-request-comments-with-copilot-cloud-agent",
-      "primary_url": "https://github.blog/changelog/2026-07-17-github-mobile-fix-pull-request-comments-with-copilot-cloud-agent",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "5234c2dd80e6f11c444b5254f24817a29391d125",
-          "title": "GitHub Mobile：使用 Copilot 云代理修复拉取请求评论 / GitHub Mobile: Fix pull request comments with Copilot cloud agent",
-          "url": "https://github.blog/changelog/2026-07-17-github-mobile-fix-pull-request-comments-with-copilot-cloud-agent",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-17T19:47:45Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "5234c2dd80e6f11c444b5254f24817a29391d125",
-          "title": "GitHub Mobile：使用 Copilot 云代理修复拉取请求评论 / GitHub Mobile: Fix pull request comments with Copilot cloud agent",
-          "url": "https://github.blog/changelog/2026-07-17-github-mobile-fix-pull-request-comments-with-copilot-cloud-agent",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-17T19:47:45Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7213,
-      "importance": 0.7213,
-      "importance_score": 0.7213,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.94,
-        "recency": 0.1963,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-17T19:47:45Z",
-      "latest_at": "2026-07-17T19:47:45Z",
-      "primary_item": {
-        "id": "5234c2dd80e6f11c444b5254f24817a29391d125",
-        "title": "GitHub Mobile：使用 Copilot 云代理修复拉取请求评论 / GitHub Mobile: Fix pull request comments with Copilot cloud agent",
-        "url": "https://github.blog/changelog/2026-07-17-github-mobile-fix-pull-request-comments-with-copilot-cloud-agent",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
@@ -786,14 +607,14 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5762,
-      "importance": 0.5762,
-      "importance_score": 0.5762,
+      "score": 0.5648,
+      "importance": 0.5648,
+      "importance_score": 0.5648,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8908,
+        "recency": 0.8339,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -808,6 +629,103 @@
         "url": "https://news.ycombinator.com/item?id=48956924",
         "source": "hackernews",
         "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_737581f31a19",
+      "title": "《Fable 5》与 GPT-5.6 Sol 在 NP-难问题上的对比：/goal 参数是否有效？",
+      "url": "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal",
+      "primary_url": "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal",
+      "source": "charlesazam.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "fbb2c043e9eeb24094d97c8acbd50da4f2c8d79c",
+          "title": "《Fable 5》与 GPT-5.6 Sol 在 NP-难问题上的对比：/goal 参数是否有效？",
+          "url": "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal",
+          "source": "charlesazam.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-18T15:05:23.818000Z"
+        },
+        {
+          "id": "f99812edd3a8b43b060706dd971b7ead176f9e36",
+          "title": "《神鬼寓言 5》与 GPT-5.6 Sol 在 NP 难问题上的对比：/goal 有帮助吗？ / Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
+          "url": "https://news.ycombinator.com/item?id=48956879",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-18T12:27:50.805000Z"
+        },
+        {
+          "id": "b22c145fc9885173ff91092ecd788bd36fe928ec",
+          "title": "《Fable 5》与 GPT-5.6 Sol 在 NP-难问题上的对比：/goal 参数是否有效？ / Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
+          "url": "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-18T11:00:29Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News",
+        "charlesazam.com",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "fbb2c043e9eeb24094d97c8acbd50da4f2c8d79c",
+          "title": "《Fable 5》与 GPT-5.6 Sol 在 NP-难问题上的对比：/goal 参数是否有效？",
+          "url": "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal",
+          "source": "charlesazam.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-18T15:05:23.818000Z"
+        },
+        {
+          "id": "f99812edd3a8b43b060706dd971b7ead176f9e36",
+          "title": "《神鬼寓言 5》与 GPT-5.6 Sol 在 NP 难问题上的对比：/goal 有帮助吗？ / Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
+          "url": "https://news.ycombinator.com/item?id=48956879",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-18T12:27:50.805000Z"
+        },
+        {
+          "id": "b22c145fc9885173ff91092ecd788bd36fe928ec",
+          "title": "《Fable 5》与 GPT-5.6 Sol 在 NP-难问题上的对比：/goal 参数是否有效？ / Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
+          "url": "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-18T11:00:29Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5617,
+      "importance": 0.5617,
+      "importance_score": 0.5617,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9433,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-18T11:00:29Z",
+      "latest_at": "2026-07-18T15:05:23.818000Z",
+      "primary_item": {
+        "id": "fbb2c043e9eeb24094d97c8acbd50da4f2c8d79c",
+        "title": "《Fable 5》与 GPT-5.6 Sol 在 NP-难问题上的对比：/goal 参数是否有效？",
+        "url": "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal",
+        "source": "charlesazam.com",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -883,14 +801,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5664,
-      "importance": 0.5664,
-      "importance_score": 0.5664,
+      "score": 0.5551,
+      "importance": 0.5551,
+      "importance_score": 0.5551,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9672,
+        "recency": 0.9103,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -980,14 +898,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5597,
-      "importance": 0.5597,
-      "importance_score": 0.5597,
+      "score": 0.5483,
+      "importance": 0.5483,
+      "importance_score": 0.5483,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9335,
+        "recency": 0.8765,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1058,14 +976,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5325,
-      "importance": 0.5325,
-      "importance_score": 0.5325,
+      "score": 0.5211,
+      "importance": 0.5211,
+      "importance_score": 0.5211,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9224,
+        "recency": 0.8655,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1136,14 +1054,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5303,
-      "importance": 0.5303,
-      "importance_score": 0.5303,
+      "score": 0.5189,
+      "importance": 0.5189,
+      "importance_score": 0.5189,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9113,
+        "recency": 0.8544,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1158,6 +1076,84 @@
         "url": "https://www.axios.com/2026/07/18/china-ai-open-source-kimi-anthropic-openai",
         "source": "www.axios.com",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_cbcd45422a3a",
+      "title": "设置您的备用 Mac 以供 Claude Code 控制，分步指南 / Setting up your spare Mac for Claude Code to control, a step-by-step guide",
+      "url": "https://news.ycombinator.com/item?id=48959392",
+      "primary_url": "https://news.ycombinator.com/item?id=48959392",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "46fde186c8a6cd14a5e9b5828d0fcbb2282b0085",
+          "title": "设置您的备用 Mac 以供 Claude Code 控制，分步指南 / Setting up your spare Mac for Claude Code to control, a step-by-step guide",
+          "url": "https://news.ycombinator.com/item?id=48959392",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-18T16:27:34.942000Z"
+        },
+        {
+          "id": "323122533c257bf2584fb2a362c6d9770ad7ff62",
+          "title": "设置您的备用 Mac 以供 Claude Code 控制，分步指南 / Setting up your spare Mac for Claude Code to control, a step-by-step guide",
+          "url": "https://ykdojo.github.io/claude-controls-mac",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-18T16:12:08Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "46fde186c8a6cd14a5e9b5828d0fcbb2282b0085",
+          "title": "设置您的备用 Mac 以供 Claude Code 控制，分步指南 / Setting up your spare Mac for Claude Code to control, a step-by-step guide",
+          "url": "https://news.ycombinator.com/item?id=48959392",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-18T16:27:34.942000Z"
+        },
+        {
+          "id": "323122533c257bf2584fb2a362c6d9770ad7ff62",
+          "title": "设置您的备用 Mac 以供 Claude Code 控制，分步指南 / Setting up your spare Mac for Claude Code to control, a step-by-step guide",
+          "url": "https://ykdojo.github.io/claude-controls-mac",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-18T16:12:08Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.548,
+      "importance": 0.548,
+      "importance_score": 0.548,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-18T16:12:08Z",
+      "latest_at": "2026-07-18T16:27:34.942000Z",
+      "primary_item": {
+        "id": "46fde186c8a6cd14a5e9b5828d0fcbb2282b0085",
+        "title": "设置您的备用 Mac 以供 Claude Code 控制，分步指南 / Setting up your spare Mac for Claude Code to control, a step-by-step guide",
+        "url": "https://news.ycombinator.com/item?id=48959392",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     },
     {
@@ -1214,14 +1210,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5156,
-      "importance": 0.5156,
-      "importance_score": 0.5156,
+      "score": 0.5042,
+      "importance": 0.5042,
+      "importance_score": 0.5042,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8379,
+        "recency": 0.7809,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1292,14 +1288,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5155,
-      "importance": 0.5155,
-      "importance_score": 0.5155,
+      "score": 0.5041,
+      "importance": 0.5041,
+      "importance_score": 0.5041,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8376,
+        "recency": 0.7806,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1370,14 +1366,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5103,
-      "importance": 0.5103,
-      "importance_score": 0.5103,
+      "score": 0.4989,
+      "importance": 0.4989,
+      "importance_score": 0.4989,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8116,
+        "recency": 0.7547,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1447,14 +1443,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5101,
-      "importance": 0.5101,
-      "importance_score": 0.5101,
+      "score": 0.4987,
+      "importance": 0.4987,
+      "importance_score": 0.4987,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8104,
+        "recency": 0.7535,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1469,84 +1465,6 @@
         "url": "https://www.v2ex.com/t/1228233",
         "source": "V2EX (创意工作者社区)",
         "source_name": "Info Flow"
-      }
-    },
-    {
-      "story_id": "story_737581f31a19",
-      "title": "《神鬼寓言 5》与 GPT-5.6 Sol 在 NP 难问题上的对比：/goal 有帮助吗？ / Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
-      "url": "https://news.ycombinator.com/item?id=48956879",
-      "primary_url": "https://news.ycombinator.com/item?id=48956879",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "f99812edd3a8b43b060706dd971b7ead176f9e36",
-          "title": "《神鬼寓言 5》与 GPT-5.6 Sol 在 NP 难问题上的对比：/goal 有帮助吗？ / Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
-          "url": "https://news.ycombinator.com/item?id=48956879",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-18T12:27:50.805000Z"
-        },
-        {
-          "id": "b22c145fc9885173ff91092ecd788bd36fe928ec",
-          "title": "《神鬼寓言 5》与 GPT-5.6 Sol 在 NP 难问题上的对比：/goal 有帮助吗？ / Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
-          "url": "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-18T11:00:29Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "f99812edd3a8b43b060706dd971b7ead176f9e36",
-          "title": "《神鬼寓言 5》与 GPT-5.6 Sol 在 NP 难问题上的对比：/goal 有帮助吗？ / Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
-          "url": "https://news.ycombinator.com/item?id=48956879",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-18T12:27:50.805000Z"
-        },
-        {
-          "id": "b22c145fc9885173ff91092ecd788bd36fe928ec",
-          "title": "《神鬼寓言 5》与 GPT-5.6 Sol 在 NP 难问题上的对比：/goal 有帮助吗？ / Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
-          "url": "https://charlesazam.com/blog/fable-5-gpt-5-6-sol-goal",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-18T11:00:29Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5262,
-      "importance": 0.5262,
-      "importance_score": 0.5262,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8908,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-18T11:00:29Z",
-      "latest_at": "2026-07-18T12:27:50.805000Z",
-      "primary_item": {
-        "id": "f99812edd3a8b43b060706dd971b7ead176f9e36",
-        "title": "《神鬼寓言 5》与 GPT-5.6 Sol 在 NP 难问题上的对比：/goal 有帮助吗？ / Fable 5 vs. GPT-5.6 Sol on an NP-Hard Problem: Does /goal help?",
-        "url": "https://news.ycombinator.com/item?id=48956879",
-        "source": "hackernews",
-        "source_name": "NewsNow"
       }
     },
     {
@@ -1603,14 +1521,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5156,
-      "importance": 0.5156,
-      "importance_score": 0.5156,
+      "score": 0.5042,
+      "importance": 0.5042,
+      "importance_score": 0.5042,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8379,
+        "recency": 0.7809,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1681,14 +1599,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5015,
-      "importance": 0.5015,
-      "importance_score": 0.5015,
+      "score": 0.4901,
+      "importance": 0.4901,
+      "importance_score": 0.4901,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7673,
+        "recency": 0.7104,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1703,6 +1621,84 @@
         "url": "https://www.businessinsider.com/kevin-oleary-likens-ai-data-centers-water-use-golf-courses-2026-7",
         "source": "www.businessinsider.com",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_0587f2f56e55",
+      "title": "B2B 行业首份 AI 智能体全球支付白皮书发布",
+      "url": "https://36kr.com/newsflashes/3900805390845571?f=rss",
+      "primary_url": "https://36kr.com/newsflashes/3900805390845571?f=rss",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "1481921d7d9fa148801ddf779d223735eeaa8ae9",
+          "title": "B2B 行业首份 AI 智能体全球支付白皮书发布",
+          "url": "https://36kr.com/newsflashes/3900805390845571?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "378337600f078d0fed9ca8a8088b98fcf1ba6d1c",
+          "title": "B2B行业首份AI智能体全球支付白皮书发布",
+          "url": "https://36kr.com/newsflashes/3900805390845571?f=rss",
+          "source": "36氪 (36Kr)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-18T07:15:18Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "36氪 (36Kr)",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "1481921d7d9fa148801ddf779d223735eeaa8ae9",
+          "title": "B2B 行业首份 AI 智能体全球支付白皮书发布",
+          "url": "https://36kr.com/newsflashes/3900805390845571?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "378337600f078d0fed9ca8a8088b98fcf1ba6d1c",
+          "title": "B2B行业首份AI智能体全球支付白皮书发布",
+          "url": "https://36kr.com/newsflashes/3900805390845571?f=rss",
+          "source": "36氪 (36Kr)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-18T07:15:18Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4805,
+      "importance": 0.4805,
+      "importance_score": 0.4805,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.6623,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-18T07:15:18Z",
+      "latest_at": "2026-07-18T08:20:45.920901Z",
+      "primary_item": {
+        "id": "1481921d7d9fa148801ddf779d223735eeaa8ae9",
+        "title": "B2B 行业首份 AI 智能体全球支付白皮书发布",
+        "url": "https://36kr.com/newsflashes/3900805390845571?f=rss",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
       }
     },
     {
@@ -1739,21 +1735,11 @@
           "source_name": "Zeli",
           "site_id": "zeli",
           "published_at": "2026-07-17T16:33:48Z"
-        },
-        {
-          "id": "ca65045b88ab676eff3dbe92c6c82888c652f98a",
-          "title": "Meta 正在洽谈以 100 亿美元的潜在交易向 Anthropic 租赁计算能力 / Meta in Talks to Lease Computing Power to Anthropic in Potential $10 Billion Deal",
-          "url": "https://www.nytimes.com/2026/07/17/technology/meta-anthropic-ai-computing-power.html",
-          "source": "New York Times",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-17T16:17:06Z"
         }
       ],
-      "source_count": 4,
+      "source_count": 3,
       "source_names": [
         "Hacker News · 24h最热",
-        "New York Times",
         "Slashdot (科技资讯)",
         "www.nytimes.com"
       ],
@@ -1784,40 +1770,128 @@
           "source_name": "Zeli",
           "site_id": "zeli",
           "published_at": "2026-07-17T16:33:48Z"
-        },
-        {
-          "id": "ca65045b88ab676eff3dbe92c6c82888c652f98a",
-          "title": "Meta 正在洽谈以 100 亿美元的潜在交易向 Anthropic 租赁计算能力 / Meta in Talks to Lease Computing Power to Anthropic in Potential $10 Billion Deal",
-          "url": "https://www.nytimes.com/2026/07/17/technology/meta-anthropic-ai-computing-power.html",
-          "source": "New York Times",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-17T16:17:06Z"
         }
       ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.4692,
-      "importance": 0.4692,
-      "importance_score": 0.4692,
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.4329,
+      "importance": 0.4329,
+      "importance_score": 0.4329,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.3562,
-        "story_heat": 0.75
+        "recency": 0.2993,
+        "story_heat": 0.5
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-17T16:17:06Z",
+      "earliest_at": "2026-07-17T16:33:48Z",
       "latest_at": "2026-07-17T23:38:00.204000Z",
       "primary_item": {
         "id": "71e143286682f8385b22fc4fb0b2bd0fa833b3c0",
         "title": "Meta正与Anthropic就租赁计算能力进行谈判，这笔交易金额可能高达100亿美元",
         "url": "https://www.nytimes.com/2026/07/17/technology/meta-anthropic-ai-computing-power.html?smtyp=cur&smid=bsky-nytimes",
         "source": "www.nytimes.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_b59aca9fee2b",
+      "title": "凯泽医疗中心的护士们表示，人工智能和工作场所监控正在使他们的工作和护理质量恶化",
+      "url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse",
+      "primary_url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse",
+      "source": "localnewsmatters.org",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "3eeeb6bba44612f464785f9c60665907dfae2675",
+          "title": "凯泽医疗中心的护士们表示，人工智能和工作场所监控正在使他们的工作和护理质量恶化",
+          "url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse",
+          "source": "localnewsmatters.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-17T23:38:00.200000Z"
+        },
+        {
+          "id": "5825b8928eb109011b0ee4060fa73ee625d18081",
+          "title": "凯泽医疗中心的护士们表示，人工智能和工作场所监控正在使他们的工作和护理质量恶化 / Kaiser nurses say AI, surveillance are making their jobs and patient care worse",
+          "url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-17T22:26:30Z"
+        },
+        {
+          "id": "eff662776bebd94d321a2d86dbe25597d23184a5",
+          "title": "凯泽医疗中心的护士们表示，人工智能和工作场所监控正在使他们的工作和护理质量恶化 / Kaiser nurses say AI, workplace surveillance are making their jobs, care worse",
+          "url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-17T22:26:30Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News",
+        "Hacker News · 24h最热",
+        "localnewsmatters.org"
+      ],
+      "items": [
+        {
+          "id": "3eeeb6bba44612f464785f9c60665907dfae2675",
+          "title": "凯泽医疗中心的护士们表示，人工智能和工作场所监控正在使他们的工作和护理质量恶化",
+          "url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse",
+          "source": "localnewsmatters.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-17T23:38:00.200000Z"
+        },
+        {
+          "id": "5825b8928eb109011b0ee4060fa73ee625d18081",
+          "title": "凯泽医疗中心的护士们表示，人工智能和工作场所监控正在使他们的工作和护理质量恶化 / Kaiser nurses say AI, surveillance are making their jobs and patient care worse",
+          "url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-17T22:26:30Z"
+        },
+        {
+          "id": "eff662776bebd94d321a2d86dbe25597d23184a5",
+          "title": "凯泽医疗中心的护士们表示，人工智能和工作场所监控正在使他们的工作和护理质量恶化 / Kaiser nurses say AI, workplace surveillance are making their jobs, care worse",
+          "url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-17T22:26:30Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.4329,
+      "importance": 0.4329,
+      "importance_score": 0.4329,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.2993,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-17T22:26:30Z",
+      "latest_at": "2026-07-17T23:38:00.200000Z",
+      "primary_item": {
+        "id": "3eeeb6bba44612f464785f9c60665907dfae2675",
+        "title": "凯泽医疗中心的护士们表示，人工智能和工作场所监控正在使他们的工作和护理质量恶化",
+        "url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse",
+        "source": "localnewsmatters.org",
         "source_name": "Buzzing"
       }
     }
