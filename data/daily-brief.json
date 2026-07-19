@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-07-19T15:31:43.159668Z",
+  "generated_at": "2026-07-19T16:59:53.475995Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260720-0132-092a-9db1-1858be2e277f&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260720-0132-092a-9db1-1858be2e277f&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260720-0301-0028-a894-6052200d13de&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260720-0301-0028-a894-6052200d13de&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "b87ada8209049ae15cb60fabd4ce783c69f6bdd4",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260720-0301-0028-a894-6052200d13de&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "e865629856ff2e1bea9a29be4833c06e79830bb7",
           "title": "点击这里进入 / Click here to enter",
@@ -132,15 +141,6 @@
           "id": "b9b101f23b3a48042075f27e7488f211dd01cf51",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260719-0333-04ad-9028-0f5b56bf6fab&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "011ad251b534f2a71c899952ac61dde721c51057",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260719-0227-3132-b49c-cc9b77ddb9a1&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -153,6 +153,15 @@
       ],
       "items": [
         {
+          "id": "b87ada8209049ae15cb60fabd4ce783c69f6bdd4",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260720-0301-0028-a894-6052200d13de&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "e865629856ff2e1bea9a29be4833c06e79830bb7",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260720-0132-092a-9db1-1858be2e277f&fp=-3",
@@ -273,15 +282,6 @@
           "id": "b9b101f23b3a48042075f27e7488f211dd01cf51",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260719-0333-04ad-9028-0f5b56bf6fab&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "011ad251b534f2a71c899952ac61dde721c51057",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260719-0227-3132-b49c-cc9b77ddb9a1&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -306,12 +306,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-18T16:27:03.261720Z",
-      "latest_at": "2026-07-19T15:31:43.159668Z",
+      "earliest_at": "2026-07-18T17:32:37.260790Z",
+      "latest_at": "2026-07-19T16:59:53.475995Z",
       "primary_item": {
-        "id": "e865629856ff2e1bea9a29be4833c06e79830bb7",
+        "id": "b87ada8209049ae15cb60fabd4ce783c69f6bdd4",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260720-0132-092a-9db1-1858be2e277f&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260720-0301-0028-a894-6052200d13de&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
       }
@@ -351,14 +351,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7977,
-      "importance": 0.7977,
-      "importance_score": 0.7977,
+      "score": 0.7855,
+      "importance": 0.7855,
+      "importance_score": 0.7855,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9287,
+        "recency": 0.8674,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -411,14 +411,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7927,
-      "importance": 0.7927,
-      "importance_score": 0.7927,
+      "score": 0.7804,
+      "importance": 0.7804,
+      "importance_score": 0.7804,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9034,
+        "recency": 0.8422,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -471,14 +471,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7876,
-      "importance": 0.7876,
-      "importance_score": 0.7876,
+      "score": 0.7753,
+      "importance": 0.7753,
+      "importance_score": 0.7753,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8779,
+        "recency": 0.8167,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -531,20 +531,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7507,
-      "importance": 0.7507,
-      "importance_score": 0.7507,
+      "score": 0.7385,
+      "importance": 0.7385,
+      "importance_score": 0.7385,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6937,
+        "recency": 0.6325,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-19T08:10:39Z",
       "latest_at": "2026-07-19T08:10:39Z",
@@ -553,65 +552,6 @@
         "title": "Qwen3.8 开源发布，2.4T 参数模型上线",
         "url": "https://aihot.virxact.com/items/cmrrjaxlv030jbihklywu3xy6",
         "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_3afdb820f5d8",
-      "title": "AI 热潮正在瓦解全球决策机制",
-      "url": "https://aihot.virxact.com/items/cmrrd5bjb00cfbikihob9drtj",
-      "primary_url": "https://aihot.virxact.com/items/cmrrd5bjb00cfbikihob9drtj",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "1a60fc9e13ad38d2c04956204dd455ba9aac0b16",
-          "title": "AI 热潮正在瓦解全球决策机制",
-          "url": "https://aihot.virxact.com/items/cmrrd5bjb00cfbikihob9drtj",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-19T05:13:24Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）"
-      ],
-      "items": [
-        {
-          "id": "1a60fc9e13ad38d2c04956204dd455ba9aac0b16",
-          "title": "AI 热潮正在瓦解全球决策机制",
-          "url": "https://aihot.virxact.com/items/cmrrd5bjb00cfbikihob9drtj",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-19T05:13:24Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7261,
-      "importance": 0.7261,
-      "importance_score": 0.7261,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5706,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-19T05:13:24Z",
-      "latest_at": "2026-07-19T05:13:24Z",
-      "primary_item": {
-        "id": "1a60fc9e13ad38d2c04956204dd455ba9aac0b16",
-        "title": "AI 热潮正在瓦解全球决策机制",
-        "url": "https://aihot.virxact.com/items/cmrrd5bjb00cfbikihob9drtj",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
       }
     },
@@ -688,14 +628,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5672,
-      "importance": 0.5672,
-      "importance_score": 0.5672,
+      "score": 0.5549,
+      "importance": 0.5549,
+      "importance_score": 0.5549,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9708,
+        "recency": 0.9096,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -766,14 +706,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.548,
-      "importance": 0.548,
-      "importance_score": 0.548,
+      "score": 0.5358,
+      "importance": 0.5358,
+      "importance_score": 0.5358,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9388,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -844,14 +784,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5463,
-      "importance": 0.5463,
-      "importance_score": 0.5463,
+      "score": 0.5341,
+      "importance": 0.5341,
+      "importance_score": 0.5341,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9915,
+        "recency": 0.9303,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -941,14 +881,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5449,
-      "importance": 0.5449,
-      "importance_score": 0.5449,
+      "score": 0.5326,
+      "importance": 0.5326,
+      "importance_score": 0.5326,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8594,
+        "recency": 0.7982,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1019,14 +959,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5391,
-      "importance": 0.5391,
-      "importance_score": 0.5391,
+      "score": 0.5269,
+      "importance": 0.5269,
+      "importance_score": 0.5269,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.5,
         "ai_relevance": 0.67,
-        "recency": 0.5657,
+        "recency": 0.5045,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1096,14 +1036,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.531,
-      "importance": 0.531,
-      "importance_score": 0.531,
+      "score": 0.5188,
+      "importance": 0.5188,
+      "importance_score": 0.5188,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9151,
+        "recency": 0.8538,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1174,14 +1114,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5166,
-      "importance": 0.5166,
-      "importance_score": 0.5166,
+      "score": 0.5043,
+      "importance": 0.5043,
+      "importance_score": 0.5043,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8429,
+        "recency": 0.7817,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1252,14 +1192,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5132,
-      "importance": 0.5132,
-      "importance_score": 0.5132,
+      "score": 0.501,
+      "importance": 0.501,
+      "importance_score": 0.501,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8262,
+        "recency": 0.765,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1330,14 +1270,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5355,
-      "importance": 0.5355,
-      "importance_score": 0.5355,
+      "score": 0.5232,
+      "importance": 0.5232,
+      "importance_score": 0.5232,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9373,
+        "recency": 0.8761,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1407,14 +1347,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4915,
-      "importance": 0.4915,
-      "importance_score": 0.4915,
+      "score": 0.4793,
+      "importance": 0.4793,
+      "importance_score": 0.4793,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7175,
+        "recency": 0.6563,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1485,14 +1425,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5355,
-      "importance": 0.5355,
-      "importance_score": 0.5355,
+      "score": 0.5232,
+      "importance": 0.5232,
+      "importance_score": 0.5232,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9373,
+        "recency": 0.8761,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1562,14 +1502,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4754,
-      "importance": 0.4754,
-      "importance_score": 0.4754,
+      "score": 0.4632,
+      "importance": 0.4632,
+      "importance_score": 0.4632,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6372,
+        "recency": 0.576,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1640,14 +1580,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5021,
-      "importance": 0.5021,
-      "importance_score": 0.5021,
+      "score": 0.4899,
+      "importance": 0.4899,
+      "importance_score": 0.4899,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7705,
+        "recency": 0.7093,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1718,14 +1658,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4961,
-      "importance": 0.4961,
-      "importance_score": 0.4961,
+      "score": 0.4839,
+      "importance": 0.4839,
+      "importance_score": 0.4839,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7407,
+        "recency": 0.6795,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1740,6 +1680,84 @@
         "url": "https://news.ycombinator.com/item?id=48965886",
         "source": "hackernews",
         "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_5d856025fe14",
+      "title": "《法典》重置",
+      "url": "https://codex-resets.com",
+      "primary_url": "https://codex-resets.com",
+      "source": "codex-resets.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "72158c153e8ee4e0fcbebb819bca9eb360b570ba",
+          "title": "《法典》重置",
+          "url": "https://codex-resets.com",
+          "source": "codex-resets.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-19T03:53:18.442000Z"
+        },
+        {
+          "id": "4b18113d506ec5fc26241e133b481f43703e8e85",
+          "title": "《法典》重置 / Codex Resets",
+          "url": "https://codex-resets.com",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-18T23:24:26Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "codex-resets.com"
+      ],
+      "items": [
+        {
+          "id": "72158c153e8ee4e0fcbebb819bca9eb360b570ba",
+          "title": "《法典》重置",
+          "url": "https://codex-resets.com",
+          "source": "codex-resets.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-19T03:53:18.442000Z"
+        },
+        {
+          "id": "4b18113d506ec5fc26241e133b481f43703e8e85",
+          "title": "《法典》重置 / Codex Resets",
+          "url": "https://codex-resets.com",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-18T23:24:26Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4388,
+      "importance": 0.4388,
+      "importance_score": 0.4388,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.4538,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-18T23:24:26Z",
+      "latest_at": "2026-07-19T03:53:18.442000Z",
+      "primary_item": {
+        "id": "72158c153e8ee4e0fcbebb819bca9eb360b570ba",
+        "title": "《法典》重置",
+        "url": "https://codex-resets.com",
+        "source": "codex-resets.com",
+        "source_name": "Buzzing"
       }
     }
   ]
