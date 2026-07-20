@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-07-20T18:58:01.289738Z",
+  "generated_at": "2026-07-20T20:26:25.937252Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260721-0458-2770-b66f-8616c92914f0&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260721-0458-2770-b66f-8616c92914f0&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260721-0626-5488-a04c-e75942d79a8f&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260721-0626-5488-a04c-e75942d79a8f&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "0ac29dc9f2464918f9c7c6adfb4e1fdd9cfc9077",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260721-0626-5488-a04c-e75942d79a8f&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "bd20a941dd37d86fdb749283b571c9cbf4c5626b",
           "title": "点击这里进入 / Click here to enter",
@@ -105,15 +114,6 @@
           "id": "39abb02a28910ef6e8c46565bdd65ef56cdea46e",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260720-0653-125a-8051-a78ac9272b37&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "49f835003778c59f74e7396a633120eeb9a2b16d",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260720-0541-5877-bb01-1cb146c1aa9d&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -126,6 +126,15 @@
       ],
       "items": [
         {
+          "id": "0ac29dc9f2464918f9c7c6adfb4e1fdd9cfc9077",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260721-0626-5488-a04c-e75942d79a8f&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "bd20a941dd37d86fdb749283b571c9cbf4c5626b",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260721-0458-2770-b66f-8616c92914f0&fp=-3",
@@ -219,15 +228,6 @@
           "id": "39abb02a28910ef6e8c46565bdd65ef56cdea46e",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260720-0653-125a-8051-a78ac9272b37&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "49f835003778c59f74e7396a633120eeb9a2b16d",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260720-0541-5877-bb01-1cb146c1aa9d&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -252,12 +252,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-19T19:41:29.767348Z",
-      "latest_at": "2026-07-20T18:58:01.289738Z",
+      "earliest_at": "2026-07-19T20:52:50.434704Z",
+      "latest_at": "2026-07-20T20:26:25.937252Z",
       "primary_item": {
-        "id": "bd20a941dd37d86fdb749283b571c9cbf4c5626b",
+        "id": "0ac29dc9f2464918f9c7c6adfb4e1fdd9cfc9077",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260721-0458-2770-b66f-8616c92914f0&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260721-0626-5488-a04c-e75942d79a8f&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
       }
@@ -297,14 +297,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8563,
-      "importance": 0.8563,
-      "importance_score": 0.8563,
+      "score": 0.844,
+      "importance": 0.844,
+      "importance_score": 0.844,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9765,
+        "recency": 0.9151,
         "story_heat": 0.0
       },
       "category": "official",
@@ -358,14 +358,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8483,
-      "importance": 0.8483,
-      "importance_score": 0.8483,
+      "score": 0.836,
+      "importance": 0.836,
+      "importance_score": 0.836,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8765,
+        "recency": 0.8151,
         "story_heat": 0.0
       },
       "category": "official",
@@ -382,6 +382,66 @@
         "url": "https://github.blog/changelog/2026-07-20-copilot-users-can-now-see-ai-credits-used-per-billing-cycle",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_6575551d6ac1",
+      "title": "ArXiv上超30%新投稿文本特征与AI撰写一致",
+      "url": "https://aihot.virxact.com/items/cmrtkxcfk49mmbitl5rnaga7n",
+      "primary_url": "https://aihot.virxact.com/items/cmrtkxcfk49mmbitl5rnaga7n",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "eff50a9755a2c18c3841d141ab8dc8639d98923c",
+          "title": "ArXiv上超30%新投稿文本特征与AI撰写一致",
+          "url": "https://aihot.virxact.com/items/cmrtkxcfk49mmbitl5rnaga7n",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-20T18:28:23Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）"
+      ],
+      "items": [
+        {
+          "id": "eff50a9755a2c18c3841d141ab8dc8639d98923c",
+          "title": "ArXiv上超30%新投稿文本特征与AI撰写一致",
+          "url": "https://aihot.virxact.com/items/cmrtkxcfk49mmbitl5rnaga7n",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-20T18:28:23Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7956,
+      "importance": 0.7956,
+      "importance_score": 0.7956,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.918,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-20T18:28:23Z",
+      "latest_at": "2026-07-20T18:28:23Z",
+      "primary_item": {
+        "id": "eff50a9755a2c18c3841d141ab8dc8639d98923c",
+        "title": "ArXiv上超30%新投稿文本特征与AI撰写一致",
+        "url": "https://aihot.virxact.com/items/cmrtkxcfk49mmbitl5rnaga7n",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -419,14 +479,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8001,
-      "importance": 0.8001,
-      "importance_score": 0.8001,
+      "score": 0.7879,
+      "importance": 0.7879,
+      "importance_score": 0.7879,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9407,
+        "recency": 0.8793,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -479,14 +539,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7995,
-      "importance": 0.7995,
-      "importance_score": 0.7995,
+      "score": 0.7872,
+      "importance": 0.7872,
+      "importance_score": 0.7872,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9374,
+        "recency": 0.876,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -502,67 +562,6 @@
         "url": "https://aihot.virxact.com/items/cmrtiqzfu3mx9bitlx9vw60wj",
         "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_d4ff9ec891b7",
-      "title": "长视野模型时代的安全性和对准 / Safety and alignment in an era of long-horizon models",
-      "url": "https://openai.com/index/safety-alignment-long-horizon-models",
-      "primary_url": "https://openai.com/index/safety-alignment-long-horizon-models",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "c81dd37d71e440ff2dcd40744732287ef9858e55",
-          "title": "长视野模型时代的安全性和对准 / Safety and alignment in an era of long-horizon models",
-          "url": "https://openai.com/index/safety-alignment-long-horizon-models",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-20T10:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "c81dd37d71e440ff2dcd40744732287ef9858e55",
-          "title": "长视野模型时代的安全性和对准 / Safety and alignment in an era of long-horizon models",
-          "url": "https://openai.com/index/safety-alignment-long-horizon-models",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-20T10:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7983,
-      "importance": 0.7983,
-      "importance_score": 0.7983,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.6264,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-20T10:00:00Z",
-      "latest_at": "2026-07-20T10:00:00Z",
-      "primary_item": {
-        "id": "c81dd37d71e440ff2dcd40744732287ef9858e55",
-        "title": "长视野模型时代的安全性和对准 / Safety and alignment in an era of long-horizon models",
-        "url": "https://openai.com/index/safety-alignment-long-horizon-models",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -600,14 +599,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.79,
-      "importance": 0.79,
-      "importance_score": 0.79,
+      "score": 0.7778,
+      "importance": 0.7778,
+      "importance_score": 0.7778,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8902,
+        "recency": 0.8288,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -660,14 +659,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7874,
-      "importance": 0.7874,
-      "importance_score": 0.7874,
+      "score": 0.7751,
+      "importance": 0.7751,
+      "importance_score": 0.7751,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8771,
+        "recency": 0.8157,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -720,14 +719,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7871,
-      "importance": 0.7871,
-      "importance_score": 0.7871,
+      "score": 0.7748,
+      "importance": 0.7748,
+      "importance_score": 0.7748,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8756,
+        "recency": 0.8142,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -742,66 +741,6 @@
         "title": "NVIDIA 发布 Cosmos 3 Edge：4B 参数开源世界模型，为机器人及边缘 AI 提供实时推理与动作生成",
         "url": "https://aihot.virxact.com/items/cmrtgmuyf3366bitl3gnpc8eo",
         "source": "Hugging Face：Blog（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_fb3c7336bc65",
-      "title": "LoRA Speedrun 公开排行榜：6分05秒微调Qwen2.5-1.5B达GSM8K 61.1%准确率",
-      "url": "https://aihot.virxact.com/items/cmrt81fki1d1fbitln44dzsrr",
-      "primary_url": "https://aihot.virxact.com/items/cmrt81fki1d1fbitln44dzsrr",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "de79f5d572acae5caaca3aaaf05d31100fa19d7a",
-          "title": "LoRA Speedrun 公开排行榜：6分05秒微调Qwen2.5-1.5B达GSM8K 61.1%准确率",
-          "url": "https://aihot.virxact.com/items/cmrt81fki1d1fbitln44dzsrr",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-20T12:21:09Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）"
-      ],
-      "items": [
-        {
-          "id": "de79f5d572acae5caaca3aaaf05d31100fa19d7a",
-          "title": "LoRA Speedrun 公开排行榜：6分05秒微调Qwen2.5-1.5B达GSM8K 61.1%准确率",
-          "url": "https://aihot.virxact.com/items/cmrt81fki1d1fbitln44dzsrr",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-20T12:21:09Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7569,
-      "importance": 0.7569,
-      "importance_score": 0.7569,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7244,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-20T12:21:09Z",
-      "latest_at": "2026-07-20T12:21:09Z",
-      "primary_item": {
-        "id": "de79f5d572acae5caaca3aaaf05d31100fa19d7a",
-        "title": "LoRA Speedrun 公开排行榜：6分05秒微调Qwen2.5-1.5B达GSM8K 61.1%准确率",
-        "url": "https://aihot.virxact.com/items/cmrt81fki1d1fbitln44dzsrr",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
       }
     },
@@ -840,20 +779,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7539,
-      "importance": 0.7539,
-      "importance_score": 0.7539,
+      "score": 0.7417,
+      "importance": 0.7417,
+      "importance_score": 0.7417,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7097,
+        "recency": 0.6483,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-20T12:00:00Z",
       "latest_at": "2026-07-20T12:00:00Z",
@@ -900,14 +838,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8115,
-      "importance": 0.8115,
-      "importance_score": 0.8115,
+      "score": 0.7992,
+      "importance": 0.7992,
+      "importance_score": 0.7992,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7523,
+        "recency": 0.6909,
         "story_heat": 0.0
       },
       "category": "official",
@@ -961,14 +899,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7392,
-      "importance": 0.7392,
-      "importance_score": 0.7392,
+      "score": 0.7269,
+      "importance": 0.7269,
+      "importance_score": 0.7269,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6359,
+        "recency": 0.5745,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1020,14 +958,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7373,
-      "importance": 0.7373,
-      "importance_score": 0.7373,
+      "score": 0.725,
+      "importance": 0.725,
+      "importance_score": 0.725,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6264,
+        "recency": 0.565,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1045,61 +983,61 @@
       }
     },
     {
-      "story_id": "story_f6b499a82572",
-      "title": "通义实验室发布 Qwen-Audio-3.0-TTS 实时语音合成模型",
-      "url": "https://aihot.virxact.com/items/cmrt0856a09v9bitl62e4r17b",
-      "primary_url": "https://aihot.virxact.com/items/cmrt0856a09v9bitl62e4r17b",
-      "source": "公众号：通义实验室（千问）",
+      "story_id": "story_fb3c7336bc65",
+      "title": "LoRA Speedrun 公开排行榜：6分05秒微调Qwen2.5-1.5B达GSM8K 61.1%准确率",
+      "url": "https://aihot.virxact.com/items/cmrt81fki1d1fbitln44dzsrr",
+      "primary_url": "https://aihot.virxact.com/items/cmrt81fki1d1fbitln44dzsrr",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "fa164b60b0978d82edc1cba0bf090a240d103095",
-          "title": "通义实验室发布 Qwen-Audio-3.0-TTS 实时语音合成模型",
-          "url": "https://aihot.virxact.com/items/cmrt0856a09v9bitl62e4r17b",
-          "source": "公众号：通义实验室（千问）",
+          "id": "de79f5d572acae5caaca3aaaf05d31100fa19d7a",
+          "title": "LoRA Speedrun 公开排行榜：6分05秒微调Qwen2.5-1.5B达GSM8K 61.1%准确率",
+          "url": "https://aihot.virxact.com/items/cmrt81fki1d1fbitln44dzsrr",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-20T08:53:11Z"
+          "published_at": "2026-07-20T12:21:09Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "公众号：通义实验室（千问）"
+        "Hacker News 热门（buzzing.cc 中文翻译）"
       ],
       "items": [
         {
-          "id": "fa164b60b0978d82edc1cba0bf090a240d103095",
-          "title": "通义实验室发布 Qwen-Audio-3.0-TTS 实时语音合成模型",
-          "url": "https://aihot.virxact.com/items/cmrt0856a09v9bitl62e4r17b",
-          "source": "公众号：通义实验室（千问）",
+          "id": "de79f5d572acae5caaca3aaaf05d31100fa19d7a",
+          "title": "LoRA Speedrun 公开排行榜：6分05秒微调Qwen2.5-1.5B达GSM8K 61.1%准确率",
+          "url": "https://aihot.virxact.com/items/cmrt81fki1d1fbitln44dzsrr",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-20T08:53:11Z"
+          "published_at": "2026-07-20T12:21:09Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.728,
-      "importance": 0.728,
-      "importance_score": 0.728,
+      "score": 0.7446,
+      "importance": 0.7446,
+      "importance_score": 0.7446,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.58,
+        "recency": 0.663,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-20T08:53:11Z",
-      "latest_at": "2026-07-20T08:53:11Z",
+      "earliest_at": "2026-07-20T12:21:09Z",
+      "latest_at": "2026-07-20T12:21:09Z",
       "primary_item": {
-        "id": "fa164b60b0978d82edc1cba0bf090a240d103095",
-        "title": "通义实验室发布 Qwen-Audio-3.0-TTS 实时语音合成模型",
-        "url": "https://aihot.virxact.com/items/cmrt0856a09v9bitl62e4r17b",
-        "source": "公众号：通义实验室（千问）",
+        "id": "de79f5d572acae5caaca3aaaf05d31100fa19d7a",
+        "title": "LoRA Speedrun 公开排行榜：6分05秒微调Qwen2.5-1.5B达GSM8K 61.1%准确率",
+        "url": "https://aihot.virxact.com/items/cmrt81fki1d1fbitln44dzsrr",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
       }
     },
@@ -1138,20 +1076,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7557,
-      "importance": 0.7557,
-      "importance_score": 0.7557,
+      "score": 0.7434,
+      "importance": 0.7434,
+      "importance_score": 0.7434,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7186,
+        "recency": 0.6572,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-20T12:12:47Z",
       "latest_at": "2026-07-20T12:12:47Z",
@@ -1160,65 +1097,6 @@
         "title": "Hugging Face 遭自主AI智能体入侵，用AI工具完成数小时取证分析",
         "url": "https://aihot.virxact.com/items/cmrt6yjfo1407bitlsdp6qyn6",
         "source": "The Decoder：AI News（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_a19d42517121",
-      "title": "小红书与北大开源 UltraEP：面向大规模 MoE 训推的实时负载均衡方案",
-      "url": "https://aihot.virxact.com/items/cmrsy2z9e03wpbitlqgh25fol",
-      "primary_url": "https://aihot.virxact.com/items/cmrsy2z9e03wpbitlqgh25fol",
-      "source": "公众号：小红书技术（dots.llm）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "529df086874b503ddcd6aba65568ba50c4f62479",
-          "title": "小红书与北大开源 UltraEP：面向大规模 MoE 训推的实时负载均衡方案",
-          "url": "https://aihot.virxact.com/items/cmrsy2z9e03wpbitlqgh25fol",
-          "source": "公众号：小红书技术（dots.llm）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-20T08:00:45Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "公众号：小红书技术（dots.llm）"
-      ],
-      "items": [
-        {
-          "id": "529df086874b503ddcd6aba65568ba50c4f62479",
-          "title": "小红书与北大开源 UltraEP：面向大规模 MoE 训推的实时负载均衡方案",
-          "url": "https://aihot.virxact.com/items/cmrsy2z9e03wpbitlqgh25fol",
-          "source": "公众号：小红书技术（dots.llm）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-20T08:00:45Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7207,
-      "importance": 0.7207,
-      "importance_score": 0.7207,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5436,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-20T08:00:45Z",
-      "latest_at": "2026-07-20T08:00:45Z",
-      "primary_item": {
-        "id": "529df086874b503ddcd6aba65568ba50c4f62479",
-        "title": "小红书与北大开源 UltraEP：面向大规模 MoE 训推的实时负载均衡方案",
-        "url": "https://aihot.virxact.com/items/cmrsy2z9e03wpbitlqgh25fol",
-        "source": "公众号：小红书技术（dots.llm）",
         "source_name": "AI HOT"
       }
     },
@@ -1257,14 +1135,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7392,
-      "importance": 0.7392,
-      "importance_score": 0.7392,
+      "score": 0.7269,
+      "importance": 0.7269,
+      "importance_score": 0.7269,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6359,
+        "recency": 0.5745,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1316,14 +1194,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7392,
-      "importance": 0.7392,
-      "importance_score": 0.7392,
+      "score": 0.7269,
+      "importance": 0.7269,
+      "importance_score": 0.7269,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6359,
+        "recency": 0.5745,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1375,14 +1253,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7392,
-      "importance": 0.7392,
-      "importance_score": 0.7392,
+      "score": 0.7269,
+      "importance": 0.7269,
+      "importance_score": 0.7269,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6359,
+        "recency": 0.5745,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1395,6 +1273,198 @@
         "id": "cd79f7cfd68526d23238a913802864ec791b712e",
         "title": "腾讯WorkBuddy6月访问量超2000万，领跑AI办公智能体市场",
         "url": "https://www.aibase.com/news/29721",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_2b4b6588b1d6",
+      "title": "我们如何测量 arXiv 上的人工智能写作，以及测量的突破点 / How we measured AI writing across arXiv, and where the measurement breaks",
+      "url": "https://news.ycombinator.com/item?id=48981206",
+      "primary_url": "https://news.ycombinator.com/item?id=48981206",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "95412d1b76b9b7b7b77082ee99f2276c028a1f93",
+          "title": "我们如何测量 arXiv 上的人工智能写作，以及测量的突破点 / How we measured AI writing across arXiv, and where the measurement breaks",
+          "url": "https://news.ycombinator.com/item?id=48981206",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-20T19:57:04.114000Z"
+        },
+        {
+          "id": "b2601d5909e76698c05ddcd733411a3d25be597c",
+          "title": "目前，ArXiv上超过30%的新投稿读起来像是人工智能撰写的",
+          "url": "https://unslop.run/blog/measuring-ai-writing-on-arxiv",
+          "source": "unslop.run",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-20T18:28:23.600000Z"
+        },
+        {
+          "id": "bd4a7d7dccfacb9b3857081c99cca29b7a7ea55a",
+          "title": "超过 30% 的新 ArXiv 提交内容现在被解读为人工智能编写的 / Over 30% of new ArXiv submissions now read as AI-written",
+          "url": "https://news.ycombinator.com/item?id=48981206",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-20T16:57:24.373000Z"
+        },
+        {
+          "id": "44dc8dd3d7ec855ff1eaccf51cd71cd032284642",
+          "title": "目前，ArXiv上超过30%的新投稿读起来像是人工智能撰写的 / How we measured AI writing across arXiv, and where the measurement breaks",
+          "url": "https://unslop.run/blog/measuring-ai-writing-on-arxiv",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-20T16:36:36Z"
+        },
+        {
+          "id": "d0f813603e611d76dcc41dc4758e54af4e864149",
+          "title": "目前，ArXiv上超过30%的新投稿读起来像是人工智能撰写的 / Over 30% of new ArXiv submissions now read as AI-written",
+          "url": "https://unslop.run/blog/measuring-ai-writing-on-arxiv",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-20T16:36:36Z"
+        }
+      ],
+      "source_count": 5,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "hackernews",
+        "unslop.run"
+      ],
+      "items": [
+        {
+          "id": "95412d1b76b9b7b7b77082ee99f2276c028a1f93",
+          "title": "我们如何测量 arXiv 上的人工智能写作，以及测量的突破点 / How we measured AI writing across arXiv, and where the measurement breaks",
+          "url": "https://news.ycombinator.com/item?id=48981206",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-20T19:57:04.114000Z"
+        },
+        {
+          "id": "b2601d5909e76698c05ddcd733411a3d25be597c",
+          "title": "目前，ArXiv上超过30%的新投稿读起来像是人工智能撰写的",
+          "url": "https://unslop.run/blog/measuring-ai-writing-on-arxiv",
+          "source": "unslop.run",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-20T18:28:23.600000Z"
+        },
+        {
+          "id": "bd4a7d7dccfacb9b3857081c99cca29b7a7ea55a",
+          "title": "超过 30% 的新 ArXiv 提交内容现在被解读为人工智能编写的 / Over 30% of new ArXiv submissions now read as AI-written",
+          "url": "https://news.ycombinator.com/item?id=48981206",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-20T16:57:24.373000Z"
+        },
+        {
+          "id": "44dc8dd3d7ec855ff1eaccf51cd71cd032284642",
+          "title": "目前，ArXiv上超过30%的新投稿读起来像是人工智能撰写的 / How we measured AI writing across arXiv, and where the measurement breaks",
+          "url": "https://unslop.run/blog/measuring-ai-writing-on-arxiv",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-20T16:36:36Z"
+        },
+        {
+          "id": "d0f813603e611d76dcc41dc4758e54af4e864149",
+          "title": "目前，ArXiv上超过30%的新投稿读起来像是人工智能撰写的 / Over 30% of new ArXiv submissions now read as AI-written",
+          "url": "https://unslop.run/blog/measuring-ai-writing-on-arxiv",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-20T16:36:36Z"
+        }
+      ],
+      "item_count": 5,
+      "duplicate_count": 5,
+      "score": 0.6189,
+      "importance": 0.6189,
+      "importance_score": 0.6189,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9796,
+        "story_heat": 1.0
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-20T16:36:36Z",
+      "latest_at": "2026-07-20T19:57:04.114000Z",
+      "primary_item": {
+        "id": "95412d1b76b9b7b7b77082ee99f2276c028a1f93",
+        "title": "我们如何测量 arXiv 上的人工智能写作，以及测量的突破点 / How we measured AI writing across arXiv, and where the measurement breaks",
+        "url": "https://news.ycombinator.com/item?id=48981206",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_5a4e22d48263",
+      "title": "首包延迟300ms、支持20种方言:通义千问Qwen-Audio-3.0-TTS正式开放",
+      "url": "https://www.aibase.com/news/29724",
+      "primary_url": "https://www.aibase.com/news/29724",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "7a4a25b3d294fc3129c73c35fdbc35c9e1f42655",
+          "title": "首包延迟300ms、支持20种方言:通义千问Qwen-Audio-3.0-TTS正式开放",
+          "url": "https://www.aibase.com/news/29724",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-20T10:13:46.244436Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "7a4a25b3d294fc3129c73c35fdbc35c9e1f42655",
+          "title": "首包延迟300ms、支持20种方言:通义千问Qwen-Audio-3.0-TTS正式开放",
+          "url": "https://www.aibase.com/news/29724",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-20T10:13:46.244436Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7269,
+      "importance": 0.7269,
+      "importance_score": 0.7269,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.5745,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-20T10:13:46.244436Z",
+      "latest_at": "2026-07-20T10:13:46.244436Z",
+      "primary_item": {
+        "id": "7a4a25b3d294fc3129c73c35fdbc35c9e1f42655",
+        "title": "首包延迟300ms、支持20种方言:通义千问Qwen-Audio-3.0-TTS正式开放",
+        "url": "https://www.aibase.com/news/29724",
         "source": "AIbase",
         "source_name": "AIbase"
       }
