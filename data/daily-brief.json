@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-07-21T04:22:22.457410Z",
+  "generated_at": "2026-07-21T07:08:53.186507Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260721-1422-49ac-a021-73b4d28cd9c8&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260721-1422-49ac-a021-73b4d28cd9c8&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260721-1717-1944-b4bd-ea2e1070b4c3&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260721-1717-1944-b4bd-ea2e1070b4c3&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "d019d5dddaf7c5abec4d4798c217b975ec6dbf82",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260721-1717-1944-b4bd-ea2e1070b4c3&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "66514251e301e8b2daf770b62fe35e7fe7b5ca7f",
           "title": "点击这里进入 / Click here to enter",
@@ -96,15 +105,6 @@
           "id": "7706eafe70defc8892352dd15b69cc33ec1742f4",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260720-2014-11f1-b97e-30ae9e6e6998&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "6b5eab8e75ede6f713b2e6068caf7778f8e918c2",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260720-1650-45ff-be08-cd3013516762&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -117,6 +117,15 @@
       ],
       "items": [
         {
+          "id": "d019d5dddaf7c5abec4d4798c217b975ec6dbf82",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260721-1717-1944-b4bd-ea2e1070b4c3&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "66514251e301e8b2daf770b62fe35e7fe7b5ca7f",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260721-1422-49ac-a021-73b4d28cd9c8&fp=-3",
@@ -201,15 +210,6 @@
           "id": "7706eafe70defc8892352dd15b69cc33ec1742f4",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260720-2014-11f1-b97e-30ae9e6e6998&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "6b5eab8e75ede6f713b2e6068caf7778f8e918c2",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260720-1650-45ff-be08-cd3013516762&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -234,12 +234,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-20T06:50:12.651799Z",
-      "latest_at": "2026-07-21T04:22:22.457410Z",
+      "earliest_at": "2026-07-20T10:13:46.244436Z",
+      "latest_at": "2026-07-21T07:08:53.186507Z",
       "primary_item": {
-        "id": "66514251e301e8b2daf770b62fe35e7fe7b5ca7f",
+        "id": "d019d5dddaf7c5abec4d4798c217b975ec6dbf82",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260721-1422-49ac-a021-73b4d28cd9c8&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260721-1717-1944-b4bd-ea2e1070b4c3&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
       }
@@ -298,14 +298,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.837,
-      "importance": 0.837,
-      "importance_score": 0.837,
+      "score": 0.8139,
+      "importance": 0.8139,
+      "importance_score": 0.8139,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.8844,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -320,6 +320,186 @@
         "id": "e4433a818822d9fbee1123c2fd746f0518e9085e",
         "title": "千问甩出语音合成大模型Qwen-Audio-3.0-TTS：自然语言直接指挥，实时版首包延迟压进 300 毫秒",
         "url": "https://www.aibase.com/news/29739",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_3b8a06beceb6",
+      "title": "通义千问发布 Qwen-Image-3.0 图像生成模型，核心关键词为\"实\"",
+      "url": "https://aihot.virxact.com/items/cmru9nwvo0b1kbi7f5vi9uqfu",
+      "primary_url": "https://aihot.virxact.com/items/cmru9nwvo0b1kbi7f5vi9uqfu",
+      "source": "Qwen：Blog Retrieval（API）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "90b2021022e8eb24e7c9b4838b59d675f6efbe89",
+          "title": "通义千问发布 Qwen-Image-3.0 图像生成模型，核心关键词为\"实\"",
+          "url": "https://aihot.virxact.com/items/cmru9nwvo0b1kbi7f5vi9uqfu",
+          "source": "Qwen：Blog Retrieval（API）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-21T06:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Qwen：Blog Retrieval（API）"
+      ],
+      "items": [
+        {
+          "id": "90b2021022e8eb24e7c9b4838b59d675f6efbe89",
+          "title": "通义千问发布 Qwen-Image-3.0 图像生成模型，核心关键词为\"实\"",
+          "url": "https://aihot.virxact.com/items/cmru9nwvo0b1kbi7f5vi9uqfu",
+          "source": "Qwen：Blog Retrieval（API）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-21T06:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8024,
+      "importance": 0.8024,
+      "importance_score": 0.8024,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9522,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-21T06:00:00Z",
+      "latest_at": "2026-07-21T06:00:00Z",
+      "primary_item": {
+        "id": "90b2021022e8eb24e7c9b4838b59d675f6efbe89",
+        "title": "通义千问发布 Qwen-Image-3.0 图像生成模型，核心关键词为\"实\"",
+        "url": "https://aihot.virxact.com/items/cmru9nwvo0b1kbi7f5vi9uqfu",
+        "source": "Qwen：Blog Retrieval（API）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_f13e575380b6",
+      "title": "五家美国科技巨头因不透明AI融资隐性债务飙升至1.65万亿美元",
+      "url": "https://aihot.virxact.com/items/cmru9nz670b2qbi7fle72dzpr",
+      "primary_url": "https://aihot.virxact.com/items/cmru9nz670b2qbi7fle72dzpr",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "de243a1ac0ae955d42f3a8d2df12a776cc1e2eb5",
+          "title": "五家美国科技巨头因不透明AI融资隐性债务飙升至1.65万亿美元",
+          "url": "https://aihot.virxact.com/items/cmru9nz670b2qbi7fle72dzpr",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-21T05:54:05Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）"
+      ],
+      "items": [
+        {
+          "id": "de243a1ac0ae955d42f3a8d2df12a776cc1e2eb5",
+          "title": "五家美国科技巨头因不透明AI融资隐性债务飙升至1.65万亿美元",
+          "url": "https://aihot.virxact.com/items/cmru9nz670b2qbi7fle72dzpr",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-21T05:54:05Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8016,
+      "importance": 0.8016,
+      "importance_score": 0.8016,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9481,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-21T05:54:05Z",
+      "latest_at": "2026-07-21T05:54:05Z",
+      "primary_item": {
+        "id": "de243a1ac0ae955d42f3a8d2df12a776cc1e2eb5",
+        "title": "五家美国科技巨头因不透明AI融资隐性债务飙升至1.65万亿美元",
+        "url": "https://aihot.virxact.com/items/cmru9nz670b2qbi7fle72dzpr",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_c1d8b6c925be",
+      "title": "AI热潮狂飙！韩国 7 月出口再创纪录 芯片暴增超1. 8 倍",
+      "url": "https://www.aibase.com/news/29750",
+      "primary_url": "https://www.aibase.com/news/29750",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "033f5f33eb840d8ce0221250398a553ae16446f5",
+          "title": "AI热潮狂飙！韩国 7 月出口再创纪录 芯片暴增超1. 8 倍",
+          "url": "https://www.aibase.com/news/29750",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-21T07:08:53.186507Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "033f5f33eb840d8ce0221250398a553ae16446f5",
+          "title": "AI热潮狂飙！韩国 7 月出口再创纪录 芯片暴增超1. 8 倍",
+          "url": "https://www.aibase.com/news/29750",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-21T07:08:53.186507Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-21T07:08:53.186507Z",
+      "latest_at": "2026-07-21T07:08:53.186507Z",
+      "primary_item": {
+        "id": "033f5f33eb840d8ce0221250398a553ae16446f5",
+        "title": "AI热潮狂飙！韩国 7 月出口再创纪录 芯片暴增超1. 8 倍",
+        "url": "https://www.aibase.com/news/29750",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -359,14 +539,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8052,
-      "importance": 0.8052,
-      "importance_score": 0.8052,
+      "score": 0.782,
+      "importance": 0.782,
+      "importance_score": 0.782,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9658,
+        "recency": 0.8502,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -419,14 +599,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7919,
-      "importance": 0.7919,
-      "importance_score": 0.7919,
+      "score": 0.7688,
+      "importance": 0.7688,
+      "importance_score": 0.7688,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8997,
+        "recency": 0.784,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -479,14 +659,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7854,
-      "importance": 0.7854,
-      "importance_score": 0.7854,
+      "score": 0.7623,
+      "importance": 0.7623,
+      "importance_score": 0.7623,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.867,
+        "recency": 0.7513,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -505,21 +685,82 @@
       }
     },
     {
-      "story_id": "story_124511929247",
-      "title": "110 亿参数塞进六类科学大脑：上智院开放\"神珍\"多模态模型，从蛋白质到气象场一个模型全读懂",
-      "url": "https://www.aibase.com/news/29746",
-      "primary_url": "https://www.aibase.com/news/29746",
+      "story_id": "story_a4b8abada7fb",
+      "title": "计费 UI 中成本中心的 AI 信用池 / AI credit pools for cost centers in the billing UI",
+      "url": "https://github.blog/changelog/2026-07-20-ai-credit-pools-for-cost-centers-in-the-billing-ui",
+      "primary_url": "https://github.blog/changelog/2026-07-20-ai-credit-pools-for-cost-centers-in-the-billing-ui",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "ab7cc346965e9994992fb262ce52e7f150790853",
+          "title": "计费 UI 中成本中心的 AI 信用池 / AI credit pools for cost centers in the billing UI",
+          "url": "https://github.blog/changelog/2026-07-20-ai-credit-pools-for-cost-centers-in-the-billing-ui",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-20T18:24:14Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "ab7cc346965e9994992fb262ce52e7f150790853",
+          "title": "计费 UI 中成本中心的 AI 信用池 / AI credit pools for cost centers in the billing UI",
+          "url": "https://github.blog/changelog/2026-07-20-ai-credit-pools-for-cost-centers-in-the-billing-ui",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-20T18:24:14Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7548,
+      "importance": 0.7548,
+      "importance_score": 0.7548,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.469,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-20T18:24:14Z",
+      "latest_at": "2026-07-20T18:24:14Z",
+      "primary_item": {
+        "id": "ab7cc346965e9994992fb262ce52e7f150790853",
+        "title": "计费 UI 中成本中心的 AI 信用池 / AI credit pools for cost centers in the billing UI",
+        "url": "https://github.blog/changelog/2026-07-20-ai-credit-pools-for-cost-centers-in-the-billing-ui",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_8539691cf9a1",
+      "title": "《第九区》导演震撼发布首部AI短片 字节Seedance 2.0 助力科幻巨制",
+      "url": "https://www.aibase.com/news/29752",
+      "primary_url": "https://www.aibase.com/news/29752",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "a9d33358b322e536d722101bb2a3b29822c5cef1",
-          "title": "110 亿参数塞进六类科学大脑：上智院开放\"神珍\"多模态模型，从蛋白质到气象场一个模型全读懂",
-          "url": "https://www.aibase.com/news/29746",
+          "id": "a69606c5e3d027e8c5d328472a1ff5062132d7ed",
+          "title": "《第九区》导演震撼发布首部AI短片 字节Seedance 2.0 助力科幻巨制",
+          "url": "https://www.aibase.com/news/29752",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-21T04:22:22.457410Z"
+          "published_at": "2026-07-21T07:08:53.186507Z"
         }
       ],
       "source_count": 1,
@@ -528,13 +769,13 @@
       ],
       "items": [
         {
-          "id": "a9d33358b322e536d722101bb2a3b29822c5cef1",
-          "title": "110 亿参数塞进六类科学大脑：上智院开放\"神珍\"多模态模型，从蛋白质到气象场一个模型全读懂",
-          "url": "https://www.aibase.com/news/29746",
+          "id": "a69606c5e3d027e8c5d328472a1ff5062132d7ed",
+          "title": "《第九区》导演震撼发布首部AI短片 字节Seedance 2.0 助力科幻巨制",
+          "url": "https://www.aibase.com/news/29752",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-21T04:22:22.457410Z"
+          "published_at": "2026-07-21T07:08:53.186507Z"
         }
       ],
       "item_count": 1,
@@ -554,12 +795,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-21T04:22:22.457410Z",
-      "latest_at": "2026-07-21T04:22:22.457410Z",
+      "earliest_at": "2026-07-21T07:08:53.186507Z",
+      "latest_at": "2026-07-21T07:08:53.186507Z",
       "primary_item": {
-        "id": "a9d33358b322e536d722101bb2a3b29822c5cef1",
-        "title": "110 亿参数塞进六类科学大脑：上智院开放\"神珍\"多模态模型，从蛋白质到气象场一个模型全读懂",
-        "url": "https://www.aibase.com/news/29746",
+        "id": "a69606c5e3d027e8c5d328472a1ff5062132d7ed",
+        "title": "《第九区》导演震撼发布首部AI短片 字节Seedance 2.0 助力科幻巨制",
+        "url": "https://www.aibase.com/news/29752",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -599,14 +840,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7805,
-      "importance": 0.7805,
-      "importance_score": 0.7805,
+      "score": 0.7574,
+      "importance": 0.7574,
+      "importance_score": 0.7574,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8424,
+        "recency": 0.7268,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -625,82 +866,21 @@
       }
     },
     {
-      "story_id": "story_a4b8abada7fb",
-      "title": "计费 UI 中成本中心的 AI 信用池 / AI credit pools for cost centers in the billing UI",
-      "url": "https://github.blog/changelog/2026-07-20-ai-credit-pools-for-cost-centers-in-the-billing-ui",
-      "primary_url": "https://github.blog/changelog/2026-07-20-ai-credit-pools-for-cost-centers-in-the-billing-ui",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "ab7cc346965e9994992fb262ce52e7f150790853",
-          "title": "计费 UI 中成本中心的 AI 信用池 / AI credit pools for cost centers in the billing UI",
-          "url": "https://github.blog/changelog/2026-07-20-ai-credit-pools-for-cost-centers-in-the-billing-ui",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-20T18:24:14Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "ab7cc346965e9994992fb262ce52e7f150790853",
-          "title": "计费 UI 中成本中心的 AI 信用池 / AI credit pools for cost centers in the billing UI",
-          "url": "https://github.blog/changelog/2026-07-20-ai-credit-pools-for-cost-centers-in-the-billing-ui",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-20T18:24:14Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7779,
-      "importance": 0.7779,
-      "importance_score": 0.7779,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.5846,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-20T18:24:14Z",
-      "latest_at": "2026-07-20T18:24:14Z",
-      "primary_item": {
-        "id": "ab7cc346965e9994992fb262ce52e7f150790853",
-        "title": "计费 UI 中成本中心的 AI 信用池 / AI credit pools for cost centers in the billing UI",
-        "url": "https://github.blog/changelog/2026-07-20-ai-credit-pools-for-cost-centers-in-the-billing-ui",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_d9ab7045f207",
-      "title": "15 亿美元和解获法官点头：Anthropic版权案落地，作家集体诉讼画上句号",
-      "url": "https://www.aibase.com/news/29728",
-      "primary_url": "https://www.aibase.com/news/29728",
+      "story_id": "story_28b09c72d54f",
+      "title": "中国电信把5G建网交给大模型：规划效率翻一半，方案准确率站上75%",
+      "url": "https://www.aibase.com/news/29751",
+      "primary_url": "https://www.aibase.com/news/29751",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "242f2452a74475c6eeb83a8d85e12550725a4a78",
-          "title": "15 亿美元和解获法官点头：Anthropic版权案落地，作家集体诉讼画上句号",
-          "url": "https://www.aibase.com/news/29728",
+          "id": "a98f62849d129eed98b242a739433499223673c1",
+          "title": "中国电信把5G建网交给大模型：规划效率翻一半，方案准确率站上75%",
+          "url": "https://www.aibase.com/news/29751",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-21T04:22:22.457410Z"
+          "published_at": "2026-07-21T07:08:53.186507Z"
         }
       ],
       "source_count": 1,
@@ -709,13 +889,13 @@
       ],
       "items": [
         {
-          "id": "242f2452a74475c6eeb83a8d85e12550725a4a78",
-          "title": "15 亿美元和解获法官点头：Anthropic版权案落地，作家集体诉讼画上句号",
-          "url": "https://www.aibase.com/news/29728",
+          "id": "a98f62849d129eed98b242a739433499223673c1",
+          "title": "中国电信把5G建网交给大模型：规划效率翻一半，方案准确率站上75%",
+          "url": "https://www.aibase.com/news/29751",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-21T04:22:22.457410Z"
+          "published_at": "2026-07-21T07:08:53.186507Z"
         }
       ],
       "item_count": 1,
@@ -735,12 +915,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-21T04:22:22.457410Z",
-      "latest_at": "2026-07-21T04:22:22.457410Z",
+      "earliest_at": "2026-07-21T07:08:53.186507Z",
+      "latest_at": "2026-07-21T07:08:53.186507Z",
       "primary_item": {
-        "id": "242f2452a74475c6eeb83a8d85e12550725a4a78",
-        "title": "15 亿美元和解获法官点头：Anthropic版权案落地，作家集体诉讼画上句号",
-        "url": "https://www.aibase.com/news/29728",
+        "id": "a98f62849d129eed98b242a739433499223673c1",
+        "title": "中国电信把5G建网交给大模型：规划效率翻一半，方案准确率站上75%",
+        "url": "https://www.aibase.com/news/29751",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -780,21 +960,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7699,
-      "importance": 0.7699,
-      "importance_score": 0.7699,
+      "score": 0.7468,
+      "importance": 0.7468,
+      "importance_score": 0.7468,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.4846,
+        "recency": 0.369,
         "story_heat": 0.0
       },
       "category": "official",
       "reasons": [
         "official_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-20T16:00:14Z",
       "latest_at": "2026-07-20T16:00:14Z",
@@ -807,21 +986,21 @@
       }
     },
     {
-      "story_id": "story_057304d3a15b",
-      "title": "2 万亿参数隔空交锋：Kimi K3 登顶后，月之暗面喊话马斯克\"欢迎入伙\"",
-      "url": "https://www.aibase.com/news/29733",
-      "primary_url": "https://www.aibase.com/news/29733",
+      "story_id": "story_74f0176679ee",
+      "title": "机器人其实比汽车好造：逐际动力张巍称人形机器人大脑已到GPT-3，行业正处指数拐点",
+      "url": "https://www.aibase.com/news/29749",
+      "primary_url": "https://www.aibase.com/news/29749",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "4a9eebcc4b3486e0e2db79f5b0221976000c644f",
-          "title": "2 万亿参数隔空交锋：Kimi K3 登顶后，月之暗面喊话马斯克\"欢迎入伙\"",
-          "url": "https://www.aibase.com/news/29733",
+          "id": "f2d4a7e2844703cd65a920c607f5d0dea1b8e980",
+          "title": "机器人其实比汽车好造：逐际动力张巍称人形机器人大脑已到GPT-3，行业正处指数拐点",
+          "url": "https://www.aibase.com/news/29749",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-21T04:22:22.457410Z"
+          "published_at": "2026-07-21T07:08:53.186507Z"
         }
       ],
       "source_count": 1,
@@ -830,13 +1009,13 @@
       ],
       "items": [
         {
-          "id": "4a9eebcc4b3486e0e2db79f5b0221976000c644f",
-          "title": "2 万亿参数隔空交锋：Kimi K3 登顶后，月之暗面喊话马斯克\"欢迎入伙\"",
-          "url": "https://www.aibase.com/news/29733",
+          "id": "f2d4a7e2844703cd65a920c607f5d0dea1b8e980",
+          "title": "机器人其实比汽车好造：逐际动力张巍称人形机器人大脑已到GPT-3，行业正处指数拐点",
+          "url": "https://www.aibase.com/news/29749",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-21T04:22:22.457410Z"
+          "published_at": "2026-07-21T07:08:53.186507Z"
         }
       ],
       "item_count": 1,
@@ -856,209 +1035,32 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-21T04:22:22.457410Z",
-      "latest_at": "2026-07-21T04:22:22.457410Z",
+      "earliest_at": "2026-07-21T07:08:53.186507Z",
+      "latest_at": "2026-07-21T07:08:53.186507Z",
       "primary_item": {
-        "id": "4a9eebcc4b3486e0e2db79f5b0221976000c644f",
-        "title": "2 万亿参数隔空交锋：Kimi K3 登顶后，月之暗面喊话马斯克\"欢迎入伙\"",
-        "url": "https://www.aibase.com/news/29733",
+        "id": "f2d4a7e2844703cd65a920c607f5d0dea1b8e980",
+        "title": "机器人其实比汽车好造：逐际动力张巍称人形机器人大脑已到GPT-3，行业正处指数拐点",
+        "url": "https://www.aibase.com/news/29749",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_615e9ffa160b",
-      "title": "《第九区》导演Neill Blomkamp发布首部完全由AI生成的短片《Nightborne》",
-      "url": "https://aihot.virxact.com/items/cmrtirgkp3n0ybitlf25zqtwv",
-      "primary_url": "https://aihot.virxact.com/items/cmrtirgkp3n0ybitlf25zqtwv",
-      "source": "The Decoder：AI News（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "95d9d9a18f24f7751044dba37c4e566129cb8a5b",
-          "title": "《第九区》导演Neill Blomkamp发布首部完全由AI生成的短片《Nightborne》",
-          "url": "https://aihot.virxact.com/items/cmrtirgkp3n0ybitlf25zqtwv",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-20T17:32:41Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "The Decoder：AI News（RSS）"
-      ],
-      "items": [
-        {
-          "id": "95d9d9a18f24f7751044dba37c4e566129cb8a5b",
-          "title": "《第九区》导演Neill Blomkamp发布首部完全由AI生成的短片《Nightborne》",
-          "url": "https://aihot.virxact.com/items/cmrtirgkp3n0ybitlf25zqtwv",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-20T17:32:41Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7218,
-      "importance": 0.7218,
-      "importance_score": 0.7218,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5488,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-20T17:32:41Z",
-      "latest_at": "2026-07-20T17:32:41Z",
-      "primary_item": {
-        "id": "95d9d9a18f24f7751044dba37c4e566129cb8a5b",
-        "title": "《第九区》导演Neill Blomkamp发布首部完全由AI生成的短片《Nightborne》",
-        "url": "https://aihot.virxact.com/items/cmrtirgkp3n0ybitlf25zqtwv",
-        "source": "The Decoder：AI News（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_78a6f33fd400",
-      "title": "中国AI几乎追平美国，Kimi K3开源模型引发市场震荡",
-      "url": "https://aihot.virxact.com/items/cmrtiqzfu3mx9bitlx9vw60wj",
-      "primary_url": "https://aihot.virxact.com/items/cmrtiqzfu3mx9bitlx9vw60wj",
-      "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "fe592d2a35db9a06dd21eb0f66c635cb0017d6b1",
-          "title": "中国AI几乎追平美国，Kimi K3开源模型引发市场震荡",
-          "url": "https://aihot.virxact.com/items/cmrtiqzfu3mx9bitlx9vw60wj",
-          "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-20T17:27:55Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Gary Marcus：The Road to AI We Can Trust（RSS）"
-      ],
-      "items": [
-        {
-          "id": "fe592d2a35db9a06dd21eb0f66c635cb0017d6b1",
-          "title": "中国AI几乎追平美国，Kimi K3开源模型引发市场震荡",
-          "url": "https://aihot.virxact.com/items/cmrtiqzfu3mx9bitlx9vw60wj",
-          "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-20T17:27:55Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7211,
-      "importance": 0.7211,
-      "importance_score": 0.7211,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5455,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-20T17:27:55Z",
-      "latest_at": "2026-07-20T17:27:55Z",
-      "primary_item": {
-        "id": "fe592d2a35db9a06dd21eb0f66c635cb0017d6b1",
-        "title": "中国AI几乎追平美国，Kimi K3开源模型引发市场震荡",
-        "url": "https://aihot.virxact.com/items/cmrtiqzfu3mx9bitlx9vw60wj",
-        "source": "Gary Marcus：The Road to AI We Can Trust（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_6575551d6ac1",
-      "title": "ArXiv上超30%新投稿文本特征与AI撰写一致",
-      "url": "https://aihot.virxact.com/items/cmrtkxcfk49mmbitl5rnaga7n",
-      "primary_url": "https://aihot.virxact.com/items/cmrtkxcfk49mmbitl5rnaga7n",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "eff50a9755a2c18c3841d141ab8dc8639d98923c",
-          "title": "ArXiv上超30%新投稿文本特征与AI撰写一致",
-          "url": "https://aihot.virxact.com/items/cmrtkxcfk49mmbitl5rnaga7n",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-20T18:28:23Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）"
-      ],
-      "items": [
-        {
-          "id": "eff50a9755a2c18c3841d141ab8dc8639d98923c",
-          "title": "ArXiv上超30%新投稿文本特征与AI撰写一致",
-          "url": "https://aihot.virxact.com/items/cmrtkxcfk49mmbitl5rnaga7n",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-20T18:28:23Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7295,
-      "importance": 0.7295,
-      "importance_score": 0.7295,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5875,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-20T18:28:23Z",
-      "latest_at": "2026-07-20T18:28:23Z",
-      "primary_item": {
-        "id": "eff50a9755a2c18c3841d141ab8dc8639d98923c",
-        "title": "ArXiv上超30%新投稿文本特征与AI撰写一致",
-        "url": "https://aihot.virxact.com/items/cmrtkxcfk49mmbitl5rnaga7n",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_315b50b41b27",
-      "title": "Adobe Project Indigo引入AI摄影助手，利用大模型优化拍摄与编辑体验",
-      "url": "https://www.aibase.com/news/29734",
-      "primary_url": "https://www.aibase.com/news/29734",
+      "story_id": "story_8736b41ad820",
+      "title": "腾讯混元发布科研智能体Hyra-1.0，单一框架打通AI研发与科学发现",
+      "url": "https://www.aibase.com/news/29747",
+      "primary_url": "https://www.aibase.com/news/29747",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "67904bfdf4e13d3dad03e04002b21f310c951944",
-          "title": "Adobe Project Indigo引入AI摄影助手，利用大模型优化拍摄与编辑体验",
-          "url": "https://www.aibase.com/news/29734",
+          "id": "8b2a2fbefe1050440de1c58cf8196894669de51d",
+          "title": "腾讯混元发布科研智能体Hyra-1.0，单一框架打通AI研发与科学发现",
+          "url": "https://www.aibase.com/news/29747",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-21T04:22:22.457410Z"
+          "published_at": "2026-07-21T07:08:53.186507Z"
         }
       ],
       "source_count": 1,
@@ -1067,13 +1069,13 @@
       ],
       "items": [
         {
-          "id": "67904bfdf4e13d3dad03e04002b21f310c951944",
-          "title": "Adobe Project Indigo引入AI摄影助手，利用大模型优化拍摄与编辑体验",
-          "url": "https://www.aibase.com/news/29734",
+          "id": "8b2a2fbefe1050440de1c58cf8196894669de51d",
+          "title": "腾讯混元发布科研智能体Hyra-1.0，单一框架打通AI研发与科学发现",
+          "url": "https://www.aibase.com/news/29747",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-21T04:22:22.457410Z"
+          "published_at": "2026-07-21T07:08:53.186507Z"
         }
       ],
       "item_count": 1,
@@ -1093,92 +1095,32 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-21T04:22:22.457410Z",
-      "latest_at": "2026-07-21T04:22:22.457410Z",
+      "earliest_at": "2026-07-21T07:08:53.186507Z",
+      "latest_at": "2026-07-21T07:08:53.186507Z",
       "primary_item": {
-        "id": "67904bfdf4e13d3dad03e04002b21f310c951944",
-        "title": "Adobe Project Indigo引入AI摄影助手，利用大模型优化拍摄与编辑体验",
-        "url": "https://www.aibase.com/news/29734",
+        "id": "8b2a2fbefe1050440de1c58cf8196894669de51d",
+        "title": "腾讯混元发布科研智能体Hyra-1.0，单一框架打通AI研发与科学发现",
+        "url": "https://www.aibase.com/news/29747",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_c3556096c82e",
-      "title": "GitHub 代码质量现已普遍可用 / GitHub Code Quality is now generally available",
-      "url": "https://github.blog/changelog/2026-07-20-github-code-quality-is-now-generally-available",
-      "primary_url": "https://github.blog/changelog/2026-07-20-github-code-quality-is-now-generally-available",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "d543202a8b2358f6bed77a88f80a30696b41e4f2",
-          "title": "GitHub 代码质量现已普遍可用 / GitHub Code Quality is now generally available",
-          "url": "https://github.blog/changelog/2026-07-20-github-code-quality-is-now-generally-available",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-20T13:01:24Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "d543202a8b2358f6bed77a88f80a30696b41e4f2",
-          "title": "GitHub 代码质量现已普遍可用 / GitHub Code Quality is now generally available",
-          "url": "https://github.blog/changelog/2026-07-20-github-code-quality-is-now-generally-available",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-20T13:01:24Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7331,
-      "importance": 0.7331,
-      "importance_score": 0.7331,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.3604,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-20T13:01:24Z",
-      "latest_at": "2026-07-20T13:01:24Z",
-      "primary_item": {
-        "id": "d543202a8b2358f6bed77a88f80a30696b41e4f2",
-        "title": "GitHub 代码质量现已普遍可用 / GitHub Code Quality is now generally available",
-        "url": "https://github.blog/changelog/2026-07-20-github-code-quality-is-now-generally-available",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_4ca1da280c69",
-      "title": "Gartner最新预测：全球AI模型与平台市场高速增长， 2026 年规模将达 640 亿美元",
-      "url": "https://www.aibase.com/news/29743",
-      "primary_url": "https://www.aibase.com/news/29743",
+      "story_id": "story_34656bf1533d",
+      "title": "节省 40 亿元还是触发监管？微软拟为Copilot引入国产AI模型陷两难",
+      "url": "https://www.aibase.com/news/29748",
+      "primary_url": "https://www.aibase.com/news/29748",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "510b356a0644522ede024f6bd0e58373564d27b1",
-          "title": "Gartner最新预测：全球AI模型与平台市场高速增长， 2026 年规模将达 640 亿美元",
-          "url": "https://www.aibase.com/news/29743",
+          "id": "5aedcbf373e54b6aeeec58e67b57486887c09b91",
+          "title": "节省 40 亿元还是触发监管？微软拟为Copilot引入国产AI模型陷两难",
+          "url": "https://www.aibase.com/news/29748",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-21T04:22:22.457410Z"
+          "published_at": "2026-07-21T07:08:53.186507Z"
         }
       ],
       "source_count": 1,
@@ -1187,13 +1129,13 @@
       ],
       "items": [
         {
-          "id": "510b356a0644522ede024f6bd0e58373564d27b1",
-          "title": "Gartner最新预测：全球AI模型与平台市场高速增长， 2026 年规模将达 640 亿美元",
-          "url": "https://www.aibase.com/news/29743",
+          "id": "5aedcbf373e54b6aeeec58e67b57486887c09b91",
+          "title": "节省 40 亿元还是触发监管？微软拟为Copilot引入国产AI模型陷两难",
+          "url": "https://www.aibase.com/news/29748",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-21T04:22:22.457410Z"
+          "published_at": "2026-07-21T07:08:53.186507Z"
         }
       ],
       "item_count": 1,
@@ -1213,32 +1155,32 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-21T04:22:22.457410Z",
-      "latest_at": "2026-07-21T04:22:22.457410Z",
+      "earliest_at": "2026-07-21T07:08:53.186507Z",
+      "latest_at": "2026-07-21T07:08:53.186507Z",
       "primary_item": {
-        "id": "510b356a0644522ede024f6bd0e58373564d27b1",
-        "title": "Gartner最新预测：全球AI模型与平台市场高速增长， 2026 年规模将达 640 亿美元",
-        "url": "https://www.aibase.com/news/29743",
+        "id": "5aedcbf373e54b6aeeec58e67b57486887c09b91",
+        "title": "节省 40 亿元还是触发监管？微软拟为Copilot引入国产AI模型陷两难",
+        "url": "https://www.aibase.com/news/29748",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_2f8618569029",
-      "title": "三星电子成立RX机器人事业部，加速机器人业务商业化",
-      "url": "https://www.aibase.com/news/29737",
-      "primary_url": "https://www.aibase.com/news/29737",
+      "story_id": "story_ca1df72ad541",
+      "title": "阿里发布Qwen-Image-3.0，支持4.5K Token超长输入与复杂图文生成",
+      "url": "https://www.aibase.com/news/29753",
+      "primary_url": "https://www.aibase.com/news/29753",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "dde5942d81180170a08de1d78f4b465bf598a34c",
-          "title": "三星电子成立RX机器人事业部，加速机器人业务商业化",
-          "url": "https://www.aibase.com/news/29737",
+          "id": "bc5746072bdc291fd1a9a6b1276cd234f97fb2b1",
+          "title": "阿里发布Qwen-Image-3.0，支持4.5K Token超长输入与复杂图文生成",
+          "url": "https://www.aibase.com/news/29753",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-21T04:22:22.457410Z"
+          "published_at": "2026-07-21T07:08:53.186507Z"
         }
       ],
       "source_count": 1,
@@ -1247,13 +1189,13 @@
       ],
       "items": [
         {
-          "id": "dde5942d81180170a08de1d78f4b465bf598a34c",
-          "title": "三星电子成立RX机器人事业部，加速机器人业务商业化",
-          "url": "https://www.aibase.com/news/29737",
+          "id": "bc5746072bdc291fd1a9a6b1276cd234f97fb2b1",
+          "title": "阿里发布Qwen-Image-3.0，支持4.5K Token超长输入与复杂图文生成",
+          "url": "https://www.aibase.com/news/29753",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-21T04:22:22.457410Z"
+          "published_at": "2026-07-21T07:08:53.186507Z"
         }
       ],
       "item_count": 1,
@@ -1273,28 +1215,125 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-21T04:22:22.457410Z",
-      "latest_at": "2026-07-21T04:22:22.457410Z",
+      "earliest_at": "2026-07-21T07:08:53.186507Z",
+      "latest_at": "2026-07-21T07:08:53.186507Z",
       "primary_item": {
-        "id": "dde5942d81180170a08de1d78f4b465bf598a34c",
-        "title": "三星电子成立RX机器人事业部，加速机器人业务商业化",
-        "url": "https://www.aibase.com/news/29737",
+        "id": "bc5746072bdc291fd1a9a6b1276cd234f97fb2b1",
+        "title": "阿里发布Qwen-Image-3.0，支持4.5K Token超长输入与复杂图文生成",
+        "url": "https://www.aibase.com/news/29753",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_fa132966645b",
-      "title": "人形机器人迎来飞跃！逐际动力张巍：智能水平已达 GPT-3 阶段",
-      "url": "https://www.aibase.com/news/29745",
-      "primary_url": "https://www.aibase.com/news/29745",
+      "story_id": "story_1db9c8ac2637",
+      "title": "由于人工智能融资不透明，美国五家科技巨头的隐性债务飙升至 1.65 吨 / Five US tech giants' hidden debts soar to $1.65T on opaque AI funding",
+      "url": "https://news.ycombinator.com/item?id=48987863",
+      "primary_url": "https://news.ycombinator.com/item?id=48987863",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "870201b2392dbaf2dfc87231762febb172eb72f4",
+          "title": "由于人工智能融资不透明，美国五家科技巨头的隐性债务飙升至 1.65 吨 / Five US tech giants' hidden debts soar to $1.65T on opaque AI funding",
+          "url": "https://news.ycombinator.com/item?id=48987863",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-21T06:50:37.898000Z"
+        },
+        {
+          "id": "1ed27b6f885e79ad484c21efaabab02210fb054a",
+          "title": "五家美国科技巨头的隐性债务因不透明的人工智能融资飙升至1.65万亿美元",
+          "url": "https://asia.nikkei.com/business/technology/five-us-tech-giants-hidden-debts-soar-to-1.65tn-on-opaque-ai-funding",
+          "source": "asia.nikkei.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-21T05:54:05.672000Z"
+        },
+        {
+          "id": "1ecdc927bb296c35650d94155a5fc91070885333",
+          "title": "五家美国科技巨头的隐性债务因不透明的人工智能融资飙升至1.65万亿美元 / Five US tech giants' hidden debts soar to $1.65T on opaque AI funding",
+          "url": "https://asia.nikkei.com/business/technology/five-us-tech-giants-hidden-debts-soar-to-1.65tn-on-opaque-ai-funding",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-21T03:56:03Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "asia.nikkei.com",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "870201b2392dbaf2dfc87231762febb172eb72f4",
+          "title": "由于人工智能融资不透明，美国五家科技巨头的隐性债务飙升至 1.65 吨 / Five US tech giants' hidden debts soar to $1.65T on opaque AI funding",
+          "url": "https://news.ycombinator.com/item?id=48987863",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-21T06:50:37.898000Z"
+        },
+        {
+          "id": "1ed27b6f885e79ad484c21efaabab02210fb054a",
+          "title": "五家美国科技巨头的隐性债务因不透明的人工智能融资飙升至1.65万亿美元",
+          "url": "https://asia.nikkei.com/business/technology/five-us-tech-giants-hidden-debts-soar-to-1.65tn-on-opaque-ai-funding",
+          "source": "asia.nikkei.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-21T05:54:05.672000Z"
+        },
+        {
+          "id": "1ecdc927bb296c35650d94155a5fc91070885333",
+          "title": "五家美国科技巨头的隐性债务因不透明的人工智能融资飙升至1.65万亿美元 / Five US tech giants' hidden debts soar to $1.65T on opaque AI funding",
+          "url": "https://asia.nikkei.com/business/technology/five-us-tech-giants-hidden-debts-soar-to-1.65tn-on-opaque-ai-funding",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-21T03:56:03Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5705,
+      "importance": 0.5705,
+      "importance_score": 0.5705,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9873,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-21T03:56:03Z",
+      "latest_at": "2026-07-21T06:50:37.898000Z",
+      "primary_item": {
+        "id": "870201b2392dbaf2dfc87231762febb172eb72f4",
+        "title": "由于人工智能融资不透明，美国五家科技巨头的隐性债务飙升至 1.65 吨 / Five US tech giants' hidden debts soar to $1.65T on opaque AI funding",
+        "url": "https://news.ycombinator.com/item?id=48987863",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_124511929247",
+      "title": "110 亿参数塞进六类科学大脑：上智院开放\"神珍\"多模态模型，从蛋白质到气象场一个模型全读懂",
+      "url": "https://www.aibase.com/news/29746",
+      "primary_url": "https://www.aibase.com/news/29746",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "768c0e0b585c017b97a1136caec8aa8f5dde0df1",
-          "title": "人形机器人迎来飞跃！逐际动力张巍：智能水平已达 GPT-3 阶段",
-          "url": "https://www.aibase.com/news/29745",
+          "id": "a9d33358b322e536d722101bb2a3b29822c5cef1",
+          "title": "110 亿参数塞进六类科学大脑：上智院开放\"神珍\"多模态模型，从蛋白质到气象场一个模型全读懂",
+          "url": "https://www.aibase.com/news/29746",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1307,9 +1346,9 @@
       ],
       "items": [
         {
-          "id": "768c0e0b585c017b97a1136caec8aa8f5dde0df1",
-          "title": "人形机器人迎来飞跃！逐际动力张巍：智能水平已达 GPT-3 阶段",
-          "url": "https://www.aibase.com/news/29745",
+          "id": "a9d33358b322e536d722101bb2a3b29822c5cef1",
+          "title": "110 亿参数塞进六类科学大脑：上智院开放\"神珍\"多模态模型，从蛋白质到气象场一个模型全读懂",
+          "url": "https://www.aibase.com/news/29746",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1318,14 +1357,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
+      "score": 0.7889,
+      "importance": 0.7889,
+      "importance_score": 0.7889,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.8844,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1336,71 +1375,89 @@
       "earliest_at": "2026-07-21T04:22:22.457410Z",
       "latest_at": "2026-07-21T04:22:22.457410Z",
       "primary_item": {
-        "id": "768c0e0b585c017b97a1136caec8aa8f5dde0df1",
-        "title": "人形机器人迎来飞跃！逐际动力张巍：智能水平已达 GPT-3 阶段",
-        "url": "https://www.aibase.com/news/29745",
+        "id": "a9d33358b322e536d722101bb2a3b29822c5cef1",
+        "title": "110 亿参数塞进六类科学大脑：上智院开放\"神珍\"多模态模型，从蛋白质到气象场一个模型全读懂",
+        "url": "https://www.aibase.com/news/29746",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_5e0ff2ac52f1",
-      "title": "唐杰亲自剧透GLM-5.5：一句\"史诗级plus\"，把国产大模型的军备赛又挑高了一截",
-      "url": "https://www.aibase.com/news/29735",
-      "primary_url": "https://www.aibase.com/news/29735",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_861fd86e5896",
+      "title": "《第九区》导演发布其首部 AI 短片《阴兵》，由字节 Seedance 2.0 生成",
+      "url": "https://www.ithome.com/0/979/459.htm",
+      "primary_url": "https://www.ithome.com/0/979/459.htm",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
       "sources": [
         {
-          "id": "205264bcdd946b2b89023bc4dc84bd5bc42de0f6",
-          "title": "唐杰亲自剧透GLM-5.5：一句\"史诗级plus\"，把国产大模型的军备赛又挑高了一截",
-          "url": "https://www.aibase.com/news/29735",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-21T04:22:22.457410Z"
+          "id": "dff1a8558ad8d65d153ad8d2085540c2b9671f80",
+          "title": "《第九区》导演发布其首部 AI 短片《阴兵》，由字节 Seedance 2.0 生成",
+          "url": "https://www.ithome.com/0/979/459.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "4d67cb14acb08d5903c7f62f06da32450dd3f9e3",
+          "title": "用字节 Seedance 2.0 生成，《第九区》导演发布其首部 AI 短片《阴兵》",
+          "url": "https://www.ithome.com/0/979/459.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-21T05:33:35Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "AIbase"
+        "IT之家 (ITHome)",
+        "Readhub · AI"
       ],
       "items": [
         {
-          "id": "205264bcdd946b2b89023bc4dc84bd5bc42de0f6",
-          "title": "唐杰亲自剧透GLM-5.5：一句\"史诗级plus\"，把国产大模型的军备赛又挑高了一截",
-          "url": "https://www.aibase.com/news/29735",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-21T04:22:22.457410Z"
+          "id": "dff1a8558ad8d65d153ad8d2085540c2b9671f80",
+          "title": "《第九区》导演发布其首部 AI 短片《阴兵》，由字节 Seedance 2.0 生成",
+          "url": "https://www.ithome.com/0/979/459.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "4d67cb14acb08d5903c7f62f06da32450dd3f9e3",
+          "title": "用字节 Seedance 2.0 生成，《第九区》导演发布其首部 AI 短片《阴兵》",
+          "url": "https://www.ithome.com/0/979/459.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-21T05:33:35Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
-      "importance_label": "行业动态",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.548,
+      "importance": 0.548,
+      "importance_score": 0.548,
+      "importance_label": "值得关注",
       "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
         "recency": 1.0,
-        "story_heat": 0.0
+        "story_heat": 0.25
       },
-      "category": "industry",
+      "category": "watch",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "multi_source"
       ],
-      "earliest_at": "2026-07-21T04:22:22.457410Z",
-      "latest_at": "2026-07-21T04:22:22.457410Z",
+      "earliest_at": "2026-07-21T05:33:35Z",
+      "latest_at": "2026-07-21T07:08:53.186507Z",
       "primary_item": {
-        "id": "205264bcdd946b2b89023bc4dc84bd5bc42de0f6",
-        "title": "唐杰亲自剧透GLM-5.5：一句\"史诗级plus\"，把国产大模型的军备赛又挑高了一截",
-        "url": "https://www.aibase.com/news/29735",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "id": "dff1a8558ad8d65d153ad8d2085540c2b9671f80",
+        "title": "《第九区》导演发布其首部 AI 短片《阴兵》，由字节 Seedance 2.0 生成",
+        "url": "https://www.ithome.com/0/979/459.htm",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
       }
     }
   ]
