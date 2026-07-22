@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-07-22T17:49:07.341838Z",
+  "generated_at": "2026-07-22T19:23:49.554303Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260723-0349-3256-8bb9-86e6ef9bc19c&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260723-0349-3256-8bb9-86e6ef9bc19c&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260723-0524-2757-a3b8-44869bd54fff&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260723-0524-2757-a3b8-44869bd54fff&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "dd9dfcd2368c52fe362662490dfc163a17dcb4df",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260723-0524-2757-a3b8-44869bd54fff&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "30f50b640e9b03cb60e2d810bb82d0f0a2f21aad",
           "title": "点击这里进入 / Click here to enter",
@@ -114,15 +123,6 @@
           "id": "7c563df96ef4a7781494116ae826ad4fc65dcb29",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260722-0526-42ed-8019-6850197cc777&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "29ecbce0db017a0b68d4eb0d8f041ab5497d2bdc",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260722-0354-2612-8dd9-6282443439d2&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -135,6 +135,15 @@
       ],
       "items": [
         {
+          "id": "dd9dfcd2368c52fe362662490dfc163a17dcb4df",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260723-0524-2757-a3b8-44869bd54fff&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "30f50b640e9b03cb60e2d810bb82d0f0a2f21aad",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260723-0349-3256-8bb9-86e6ef9bc19c&fp=-3",
@@ -237,15 +246,6 @@
           "id": "7c563df96ef4a7781494116ae826ad4fc65dcb29",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260722-0526-42ed-8019-6850197cc777&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "29ecbce0db017a0b68d4eb0d8f041ab5497d2bdc",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260722-0354-2612-8dd9-6282443439d2&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -270,14 +270,75 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-21T17:54:00.223369Z",
-      "latest_at": "2026-07-22T17:49:07.341838Z",
+      "earliest_at": "2026-07-21T19:26:10.599995Z",
+      "latest_at": "2026-07-22T19:23:49.554303Z",
       "primary_item": {
-        "id": "30f50b640e9b03cb60e2d810bb82d0f0a2f21aad",
+        "id": "dd9dfcd2368c52fe362662490dfc163a17dcb4df",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260723-0349-3256-8bb9-86e6ef9bc19c&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260723-0524-2757-a3b8-44869bd54fff&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
+      }
+    },
+    {
+      "story_id": "story_d8ab4e37a1c1",
+      "title": "Copilot 与原始 API 访问：您实际支付的费用是什么？ / Copilot vs. raw API access: What are you actually paying for?",
+      "url": "https://github.blog/ai-and-ml/github-copilot/copilot-vs-raw-api-access-what-are-you-actually-paying-for",
+      "primary_url": "https://github.blog/ai-and-ml/github-copilot/copilot-vs-raw-api-access-what-are-you-actually-paying-for",
+      "source": "GitHub AI & ML",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "cae42c9129cffd8cc15479010a9c0d9b9d33ec47",
+          "title": "Copilot 与原始 API 访问：您实际支付的费用是什么？ / Copilot vs. raw API access: What are you actually paying for?",
+          "url": "https://github.blog/ai-and-ml/github-copilot/copilot-vs-raw-api-access-what-are-you-actually-paying-for",
+          "source": "GitHub AI & ML",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-22T19:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub AI & ML"
+      ],
+      "items": [
+        {
+          "id": "cae42c9129cffd8cc15479010a9c0d9b9d33ec47",
+          "title": "Copilot 与原始 API 访问：您实际支付的费用是什么？ / Copilot vs. raw API access: What are you actually paying for?",
+          "url": "https://github.blog/ai-and-ml/github-copilot/copilot-vs-raw-api-access-what-are-you-actually-paying-for",
+          "source": "GitHub AI & ML",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-22T19:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8697,
+      "importance": 0.8697,
+      "importance_score": 0.8697,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9835,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-22T19:00:00Z",
+      "latest_at": "2026-07-22T19:00:00Z",
+      "primary_item": {
+        "id": "cae42c9129cffd8cc15479010a9c0d9b9d33ec47",
+        "title": "Copilot 与原始 API 访问：您实际支付的费用是什么？ / Copilot vs. raw API access: What are you actually paying for?",
+        "url": "https://github.blog/ai-and-ml/github-copilot/copilot-vs-raw-api-access-what-are-you-actually-paying-for",
+        "source": "GitHub AI & ML",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -315,14 +376,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8609,
-      "importance": 0.8609,
-      "importance_score": 0.8609,
+      "score": 0.8477,
+      "importance": 0.8477,
+      "importance_score": 0.8477,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9393,
+        "recency": 0.8736,
         "story_heat": 0.0
       },
       "category": "official",
@@ -395,14 +456,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8512,
-      "importance": 0.8512,
-      "importance_score": 0.8512,
+      "score": 0.8381,
+      "importance": 0.8381,
+      "importance_score": 0.8381,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8262,
+        "recency": 0.7605,
         "story_heat": 0.25
       },
       "category": "official",
@@ -457,14 +518,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8208,
-      "importance": 0.8208,
-      "importance_score": 0.8208,
+      "score": 0.8077,
+      "importance": 0.8077,
+      "importance_score": 0.8077,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7992,
+        "recency": 0.7335,
         "story_heat": 0.0
       },
       "category": "official",
@@ -481,6 +542,126 @@
         "url": "https://blog.google/products-and-platforms/platforms/android/galaxy-unpacked-2026",
         "source": "Google AI Blog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_0a87cd13b5a2",
+      "title": "微软 MagenticLite 模型全面开源",
+      "url": "https://aihot.virxact.com/items/cmrweu9dz014froj0gj35xvw9",
+      "primary_url": "https://aihot.virxact.com/items/cmrweu9dz014froj0gj35xvw9",
+      "source": "X：Microsoft Research (@MSFTResearch)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "4f8bd931522fb41e3924bb032107136c25fea917",
+          "title": "微软 MagenticLite 模型全面开源",
+          "url": "https://aihot.virxact.com/items/cmrweu9dz014froj0gj35xvw9",
+          "source": "X：Microsoft Research (@MSFTResearch)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-22T17:57:57Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Microsoft Research (@MSFTResearch)"
+      ],
+      "items": [
+        {
+          "id": "4f8bd931522fb41e3924bb032107136c25fea917",
+          "title": "微软 MagenticLite 模型全面开源",
+          "url": "https://aihot.virxact.com/items/cmrweu9dz014froj0gj35xvw9",
+          "source": "X：Microsoft Research (@MSFTResearch)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-22T17:57:57Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8001,
+      "importance": 0.8001,
+      "importance_score": 0.8001,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9404,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-22T17:57:57Z",
+      "latest_at": "2026-07-22T17:57:57Z",
+      "primary_item": {
+        "id": "4f8bd931522fb41e3924bb032107136c25fea917",
+        "title": "微软 MagenticLite 模型全面开源",
+        "url": "https://aihot.virxact.com/items/cmrweu9dz014froj0gj35xvw9",
+        "source": "X：Microsoft Research (@MSFTResearch)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_f9f5ddd3b797",
+      "title": "从提示词到任务：多模态交互单元提升AI智能体效率",
+      "url": "https://aihot.virxact.com/items/cmrwdro6w00ttroj0me2uszkk",
+      "primary_url": "https://aihot.virxact.com/items/cmrwdro6w00ttroj0me2uszkk",
+      "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "c6036841b979f99412971c11d56bfefda89803a0",
+          "title": "从提示词到任务：多模态交互单元提升AI智能体效率",
+          "url": "https://aihot.virxact.com/items/cmrwdro6w00ttroj0me2uszkk",
+          "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-22T17:30:44Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Elvis Saravia (@omarsar0, DAIR.AI)"
+      ],
+      "items": [
+        {
+          "id": "c6036841b979f99412971c11d56bfefda89803a0",
+          "title": "从提示词到任务：多模态交互单元提升AI智能体效率",
+          "url": "https://aihot.virxact.com/items/cmrwdro6w00ttroj0me2uszkk",
+          "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-22T17:30:44Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7963,
+      "importance": 0.7963,
+      "importance_score": 0.7963,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9215,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-22T17:30:44Z",
+      "latest_at": "2026-07-22T17:30:44Z",
+      "primary_item": {
+        "id": "c6036841b979f99412971c11d56bfefda89803a0",
+        "title": "从提示词到任务：多模态交互单元提升AI智能体效率",
+        "url": "https://aihot.virxact.com/items/cmrwdro6w00ttroj0me2uszkk",
+        "source": "X：Elvis Saravia (@omarsar0, DAIR.AI)",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -518,14 +699,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8084,
-      "importance": 0.8084,
-      "importance_score": 0.8084,
+      "score": 0.7953,
+      "importance": 0.7953,
+      "importance_score": 0.7953,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9822,
+        "recency": 0.9165,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -578,14 +759,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8382,
-      "importance": 0.8382,
-      "importance_score": 0.8382,
+      "score": 0.8251,
+      "importance": 0.8251,
+      "importance_score": 0.8251,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8862,
+        "recency": 0.8205,
         "story_heat": 0.0
       },
       "category": "official",
@@ -658,14 +839,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.807,
-      "importance": 0.807,
-      "importance_score": 0.807,
+      "score": 0.7938,
+      "importance": 0.7938,
+      "importance_score": 0.7938,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8498,
+        "recency": 0.784,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -738,14 +919,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7953,
-      "importance": 0.7953,
-      "importance_score": 0.7953,
+      "score": 0.7822,
+      "importance": 0.7822,
+      "importance_score": 0.7822,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.4867,
+        "recency": 0.421,
         "story_heat": 0.25
       },
       "category": "official",
@@ -800,14 +981,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7814,
-      "importance": 0.7814,
-      "importance_score": 0.7814,
+      "score": 0.7683,
+      "importance": 0.7683,
+      "importance_score": 0.7683,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8472,
+        "recency": 0.7814,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -860,14 +1041,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7803,
-      "importance": 0.7803,
-      "importance_score": 0.7803,
+      "score": 0.7671,
+      "importance": 0.7671,
+      "importance_score": 0.7671,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8413,
+        "recency": 0.7755,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -939,14 +1120,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7756,
-      "importance": 0.7756,
-      "importance_score": 0.7756,
+      "score": 0.7624,
+      "importance": 0.7624,
+      "importance_score": 0.7624,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6929,
+        "recency": 0.6271,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1000,14 +1181,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7683,
-      "importance": 0.7683,
-      "importance_score": 0.7683,
+      "score": 0.7551,
+      "importance": 0.7551,
+      "importance_score": 0.7551,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7814,
+        "recency": 0.7157,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1060,14 +1241,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7674,
-      "importance": 0.7674,
-      "importance_score": 0.7674,
+      "score": 0.7543,
+      "importance": 0.7543,
+      "importance_score": 0.7543,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7771,
+        "recency": 0.7113,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1120,14 +1301,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7475,
-      "importance": 0.7475,
-      "importance_score": 0.7475,
+      "score": 0.7344,
+      "importance": 0.7344,
+      "importance_score": 0.7344,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6776,
+        "recency": 0.6118,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1141,6 +1322,85 @@
         "title": "小红书开源 BigMac：多模态大模型训练新范式",
         "url": "https://aihot.virxact.com/items/cmrvx8ycy0240bipz0pkrvryq",
         "source": "公众号：小红书技术（dots.llm）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_7d038491e1dd",
+      "title": "法官批准Anthropic就盗版书籍训练Claude一案达成15亿美元和解协议",
+      "url": "https://aihot.virxact.com/items/cmrvmzjnv03yrbihbnkg6r8nd",
+      "primary_url": "https://aihot.virxact.com/items/cmrvmzjnv03yrbihbnkg6r8nd",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "7a6d7f4237ff45e1844c010f5c946a2a204d9212",
+          "title": "法官批准Anthropic就盗版书籍训练Claude一案达成15亿美元和解协议",
+          "url": "https://aihot.virxact.com/items/cmrvmzjnv03yrbihbnkg6r8nd",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-22T04:52:13Z"
+        },
+        {
+          "id": "bfff5271a6bebacb18fa8f6ae4082bbe49b280b2",
+          "title": "法官批准Anthropic就利用盗版书籍训练Claude一案达成15亿美元和解协议",
+          "url": "https://apnews.com/article/ai-anthropic-copyright-settlement-claude-books-bartz-74b140444023898aeba8579b6e9f0d63",
+          "source": "apnews.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-22T04:52:13.369000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）",
+        "apnews.com"
+      ],
+      "items": [
+        {
+          "id": "7a6d7f4237ff45e1844c010f5c946a2a204d9212",
+          "title": "法官批准Anthropic就盗版书籍训练Claude一案达成15亿美元和解协议",
+          "url": "https://aihot.virxact.com/items/cmrvmzjnv03yrbihbnkg6r8nd",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-22T04:52:13Z"
+        },
+        {
+          "id": "bfff5271a6bebacb18fa8f6ae4082bbe49b280b2",
+          "title": "法官批准Anthropic就利用盗版书籍训练Claude一案达成15亿美元和解协议",
+          "url": "https://apnews.com/article/ai-anthropic-copyright-settlement-claude-books-bartz-74b140444023898aeba8579b6e9f0d63",
+          "source": "apnews.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-22T04:52:13.369000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7159,
+      "importance": 0.7159,
+      "importance_score": 0.7159,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.3947,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-22T04:52:13Z",
+      "latest_at": "2026-07-22T04:52:13.369000Z",
+      "primary_item": {
+        "id": "7a6d7f4237ff45e1844c010f5c946a2a204d9212",
+        "title": "法官批准Anthropic就盗版书籍训练Claude一案达成15亿美元和解协议",
+        "url": "https://aihot.virxact.com/items/cmrvmzjnv03yrbihbnkg6r8nd",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
       }
     },
@@ -1198,21 +1458,20 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7517,
-      "importance": 0.7517,
-      "importance_score": 0.7517,
+      "score": 0.7385,
+      "importance": 0.7385,
+      "importance_score": 0.7385,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.5734,
+        "recency": 0.5077,
         "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-22T07:34:52.595855Z",
       "latest_at": "2026-07-22T07:34:52.595855Z",
@@ -1259,20 +1518,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7506,
-      "importance": 0.7506,
-      "importance_score": 0.7506,
+      "score": 0.7374,
+      "importance": 0.7374,
+      "importance_score": 0.7374,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6929,
+        "recency": 0.6271,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-22T10:26:53.335914Z",
       "latest_at": "2026-07-22T10:26:53.335914Z",
@@ -1280,283 +1538,6 @@
         "id": "e485d6b0a0a78269c3019e02d049e4e273bd28db",
         "title": "15 亿美元和解落地：法官批准Anthropic盗版书籍案，每本书赔约 3000 美元，划下AI训练版权关键判例",
         "url": "https://www.aibase.com/news/29806",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_743922591bae",
-      "title": "OpenAI 自曝 AI 模型突破沙盒入侵 Hugging Face",
-      "url": "https://aihot.virxact.com/items/cmrvb2f310088bihbvmgz21r3",
-      "primary_url": "https://aihot.virxact.com/items/cmrvb2f310088bihbvmgz21r3",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "186ba5e6e7fcbb7314037588e3ddf57dab7ac967",
-          "title": "OpenAI 自曝 AI 模型突破沙盒入侵 Hugging Face",
-          "url": "https://aihot.virxact.com/items/cmrvb2f310088bihbvmgz21r3",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-21T22:54:38Z"
-        },
-        {
-          "id": "c56861110a3185cf2c0410731b8a68145a7c24bc",
-          "title": "OpenAI 自曝 AI 模型“失控”越狱，突破沙盒环境入侵 Hugging Face",
-          "url": "https://www.ithome.com/0/979/815.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-21T22:54:38Z"
-        },
-        {
-          "id": "e508ff9c1454435608a63f5cff0cb9d582cca1ba",
-          "title": "破解人类限制：OpenAI 自曝 AI 模型“越狱”始末，突破沙盒环境入侵 Hugging Face",
-          "url": "https://www.ithome.com/0/979/815.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-21T22:54:38Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "IT之家 (ITHome)",
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "186ba5e6e7fcbb7314037588e3ddf57dab7ac967",
-          "title": "OpenAI 自曝 AI 模型突破沙盒入侵 Hugging Face",
-          "url": "https://aihot.virxact.com/items/cmrvb2f310088bihbvmgz21r3",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-21T22:54:38Z"
-        },
-        {
-          "id": "c56861110a3185cf2c0410731b8a68145a7c24bc",
-          "title": "OpenAI 自曝 AI 模型“失控”越狱，突破沙盒环境入侵 Hugging Face",
-          "url": "https://www.ithome.com/0/979/815.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-21T22:54:38Z"
-        },
-        {
-          "id": "e508ff9c1454435608a63f5cff0cb9d582cca1ba",
-          "title": "破解人类限制：OpenAI 自曝 AI 模型“越狱”始末，突破沙盒环境入侵 Hugging Face",
-          "url": "https://www.ithome.com/0/979/815.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-21T22:54:38Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.7044,
-      "importance": 0.7044,
-      "importance_score": 0.7044,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.2122,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-21T22:54:38Z",
-      "latest_at": "2026-07-21T22:54:38Z",
-      "primary_item": {
-        "id": "186ba5e6e7fcbb7314037588e3ddf57dab7ac967",
-        "title": "OpenAI 自曝 AI 模型突破沙盒入侵 Hugging Face",
-        "url": "https://aihot.virxact.com/items/cmrvb2f310088bihbvmgz21r3",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_7eba12590249",
-      "title": "OpenRouter把语音转录塞进同一个API：一份key搞定聊天和转写，Whisper与按token计价STT一并接入",
-      "url": "https://www.aibase.com/news/29805",
-      "primary_url": "https://www.aibase.com/news/29805",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "3396a2a369fc91e41894a092dd8d5ed78978ae1e",
-          "title": "OpenRouter把语音转录塞进同一个API：一份key搞定聊天和转写，Whisper与按token计价STT一并接入",
-          "url": "https://www.aibase.com/news/29805",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-22T10:26:53.335914Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "3396a2a369fc91e41894a092dd8d5ed78978ae1e",
-          "title": "OpenRouter把语音转录塞进同一个API：一份key搞定聊天和转写，Whisper与按token计价STT一并接入",
-          "url": "https://www.aibase.com/news/29805",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-22T10:26:53.335914Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7506,
-      "importance": 0.7506,
-      "importance_score": 0.7506,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6929,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-22T10:26:53.335914Z",
-      "latest_at": "2026-07-22T10:26:53.335914Z",
-      "primary_item": {
-        "id": "3396a2a369fc91e41894a092dd8d5ed78978ae1e",
-        "title": "OpenRouter把语音转录塞进同一个API：一份key搞定聊天和转写，Whisper与按token计价STT一并接入",
-        "url": "https://www.aibase.com/news/29805",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_06839c774259",
-      "title": "Substack 接入 Pangram 检测工具，上线网页与移动端 AI 文本识别功能",
-      "url": "https://www.aibase.com/news/29801",
-      "primary_url": "https://www.aibase.com/news/29801",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "3498e5733dc322553f266a0e400f009e8d344d4a",
-          "title": "Substack 接入 Pangram 检测工具，上线网页与移动端 AI 文本识别功能",
-          "url": "https://www.aibase.com/news/29801",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-22T10:26:53.335914Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "3498e5733dc322553f266a0e400f009e8d344d4a",
-          "title": "Substack 接入 Pangram 检测工具，上线网页与移动端 AI 文本识别功能",
-          "url": "https://www.aibase.com/news/29801",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-22T10:26:53.335914Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7506,
-      "importance": 0.7506,
-      "importance_score": 0.7506,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6929,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-22T10:26:53.335914Z",
-      "latest_at": "2026-07-22T10:26:53.335914Z",
-      "primary_item": {
-        "id": "3498e5733dc322553f266a0e400f009e8d344d4a",
-        "title": "Substack 接入 Pangram 检测工具，上线网页与移动端 AI 文本识别功能",
-        "url": "https://www.aibase.com/news/29801",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_1f057cbede4c",
-      "title": "​三星计划投资 Mistral AI，力求打破美国科技巨头的垄断",
-      "url": "https://www.aibase.com/news/29808",
-      "primary_url": "https://www.aibase.com/news/29808",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "b7c219ef6e1173c63976698c56d9950c0364f363",
-          "title": "​三星计划投资 Mistral AI，力求打破美国科技巨头的垄断",
-          "url": "https://www.aibase.com/news/29808",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-22T10:26:53.335914Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "b7c219ef6e1173c63976698c56d9950c0364f363",
-          "title": "​三星计划投资 Mistral AI，力求打破美国科技巨头的垄断",
-          "url": "https://www.aibase.com/news/29808",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-22T10:26:53.335914Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7506,
-      "importance": 0.7506,
-      "importance_score": 0.7506,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6929,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-22T10:26:53.335914Z",
-      "latest_at": "2026-07-22T10:26:53.335914Z",
-      "primary_item": {
-        "id": "b7c219ef6e1173c63976698c56d9950c0364f363",
-        "title": "​三星计划投资 Mistral AI，力求打破美国科技巨头的垄断",
-        "url": "https://www.aibase.com/news/29808",
         "source": "AIbase",
         "source_name": "AIbase"
       }
