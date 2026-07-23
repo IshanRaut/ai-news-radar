@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-07-23T17:24:42.134810Z",
+  "generated_at": "2026-07-23T18:46:15.278556Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260724-0325-10bc-9a5e-d8afee96a426&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260724-0325-10bc-9a5e-d8afee96a426&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260724-0446-4357-87d6-500d40f88505&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260724-0446-4357-87d6-500d40f88505&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "b048a9382b33e7f50d5d2cbe23452833709b320b",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260724-0446-4357-87d6-500d40f88505&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "428d5a48cbf14fee7a7cd18c43e662d55d5c7cf6",
           "title": "点击这里进入 / Click here to enter",
@@ -105,15 +114,6 @@
           "id": "dd9dfcd2368c52fe362662490dfc163a17dcb4df",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260723-0524-2757-a3b8-44869bd54fff&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "30f50b640e9b03cb60e2d810bb82d0f0a2f21aad",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260723-0349-3256-8bb9-86e6ef9bc19c&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -126,6 +126,15 @@
       ],
       "items": [
         {
+          "id": "b048a9382b33e7f50d5d2cbe23452833709b320b",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260724-0446-4357-87d6-500d40f88505&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "428d5a48cbf14fee7a7cd18c43e662d55d5c7cf6",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260724-0325-10bc-9a5e-d8afee96a426&fp=-3",
@@ -219,15 +228,6 @@
           "id": "dd9dfcd2368c52fe362662490dfc163a17dcb4df",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260723-0524-2757-a3b8-44869bd54fff&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "30f50b640e9b03cb60e2d810bb82d0f0a2f21aad",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260723-0349-3256-8bb9-86e6ef9bc19c&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -252,14 +252,135 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-22T17:49:07.341838Z",
-      "latest_at": "2026-07-23T17:24:42.134810Z",
+      "earliest_at": "2026-07-22T19:23:49.554303Z",
+      "latest_at": "2026-07-23T18:46:15.278556Z",
       "primary_item": {
-        "id": "428d5a48cbf14fee7a7cd18c43e662d55d5c7cf6",
+        "id": "b048a9382b33e7f50d5d2cbe23452833709b320b",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260724-0325-10bc-9a5e-d8afee96a426&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260724-0446-4357-87d6-500d40f88505&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
+      }
+    },
+    {
+      "story_id": "story_1c806736e9c9",
+      "title": "公共预览版中项目和问题的多选字段 / Multi-select fields for Projects and Issues in public preview",
+      "url": "https://github.blog/changelog/2026-07-23-multi-select-fields-for-projects-and-issues-in-public-preview",
+      "primary_url": "https://github.blog/changelog/2026-07-23-multi-select-fields-for-projects-and-issues-in-public-preview",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "8fa7ae04b69a16a5964a8631df7b060c45ad167d",
+          "title": "公共预览版中项目和问题的多选字段 / Multi-select fields for Projects and Issues in public preview",
+          "url": "https://github.blog/changelog/2026-07-23-multi-select-fields-for-projects-and-issues-in-public-preview",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-23T18:19:14Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "8fa7ae04b69a16a5964a8631df7b060c45ad167d",
+          "title": "公共预览版中项目和问题的多选字段 / Multi-select fields for Projects and Issues in public preview",
+          "url": "https://github.blog/changelog/2026-07-23-multi-select-fields-for-projects-and-issues-in-public-preview",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-23T18:19:14Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8572,
+      "importance": 0.8572,
+      "importance_score": 0.8572,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9812,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-23T18:19:14Z",
+      "latest_at": "2026-07-23T18:19:14Z",
+      "primary_item": {
+        "id": "8fa7ae04b69a16a5964a8631df7b060c45ad167d",
+        "title": "公共预览版中项目和问题的多选字段 / Multi-select fields for Projects and Issues in public preview",
+        "url": "https://github.blog/changelog/2026-07-23-multi-select-fields-for-projects-and-issues-in-public-preview",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_132026fba140",
+      "title": "OpenAI Workspace Agents 漏洞：一个 ChatGPT 链接即可创建恶意 AI 智能体",
+      "url": "https://aihot.virxact.com/items/cmrxs4yyw01xkroxpom7zfjvc",
+      "primary_url": "https://aihot.virxact.com/items/cmrxs4yyw01xkroxpom7zfjvc",
+      "source": "The Decoder：AI News（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "a630c86b47701ca35f4c9c805ba93ad43c47920d",
+          "title": "OpenAI Workspace Agents 漏洞：一个 ChatGPT 链接即可创建恶意 AI 智能体",
+          "url": "https://aihot.virxact.com/items/cmrxs4yyw01xkroxpom7zfjvc",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-23T17:01:30Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "The Decoder：AI News（RSS）"
+      ],
+      "items": [
+        {
+          "id": "a630c86b47701ca35f4c9c805ba93ad43c47920d",
+          "title": "OpenAI Workspace Agents 漏洞：一个 ChatGPT 链接即可创建恶意 AI 智能体",
+          "url": "https://aihot.virxact.com/items/cmrxs4yyw01xkroxpom7zfjvc",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-23T17:01:30Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7975,
+      "importance": 0.7975,
+      "importance_score": 0.7975,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9273,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-23T17:01:30Z",
+      "latest_at": "2026-07-23T17:01:30Z",
+      "primary_item": {
+        "id": "a630c86b47701ca35f4c9c805ba93ad43c47920d",
+        "title": "OpenAI Workspace Agents 漏洞：一个 ChatGPT 链接即可创建恶意 AI 智能体",
+        "url": "https://aihot.virxact.com/items/cmrxs4yyw01xkroxpom7zfjvc",
+        "source": "The Decoder：AI News（RSS）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -297,14 +418,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8045,
-      "importance": 0.8045,
-      "importance_score": 0.8045,
+      "score": 0.7932,
+      "importance": 0.7932,
+      "importance_score": 0.7932,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9627,
+        "recency": 0.9061,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -357,14 +478,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7909,
-      "importance": 0.7909,
-      "importance_score": 0.7909,
+      "score": 0.7796,
+      "importance": 0.7796,
+      "importance_score": 0.7796,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8945,
+        "recency": 0.8378,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -436,14 +557,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7853,
-      "importance": 0.7853,
-      "importance_score": 0.7853,
+      "score": 0.774,
+      "importance": 0.774,
+      "importance_score": 0.774,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7415,
+        "recency": 0.6848,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -497,14 +618,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7836,
-      "importance": 0.7836,
-      "importance_score": 0.7836,
+      "score": 0.7722,
+      "importance": 0.7722,
+      "importance_score": 0.7722,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8578,
+        "recency": 0.8012,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -557,14 +678,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7715,
-      "importance": 0.7715,
-      "importance_score": 0.7715,
+      "score": 0.7602,
+      "importance": 0.7602,
+      "importance_score": 0.7602,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7977,
+        "recency": 0.7411,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -617,14 +738,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7613,
-      "importance": 0.7613,
-      "importance_score": 0.7613,
+      "score": 0.75,
+      "importance": 0.75,
+      "importance_score": 0.75,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7467,
+        "recency": 0.6901,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -677,20 +798,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7603,
-      "importance": 0.7603,
-      "importance_score": 0.7603,
+      "score": 0.749,
+      "importance": 0.749,
+      "importance_score": 0.749,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7415,
+        "recency": 0.6848,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-23T11:12:23.670515Z",
       "latest_at": "2026-07-23T11:12:23.670515Z",
@@ -756,14 +876,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7158,
-      "importance": 0.7158,
-      "importance_score": 0.7158,
+      "score": 0.7045,
+      "importance": 0.7045,
+      "importance_score": 0.7045,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.3939,
+        "recency": 0.3373,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -816,14 +936,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7392,
-      "importance": 0.7392,
-      "importance_score": 0.7392,
+      "score": 0.7279,
+      "importance": 0.7279,
+      "importance_score": 0.7279,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6362,
+        "recency": 0.5796,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -875,14 +995,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7392,
-      "importance": 0.7392,
-      "importance_score": 0.7392,
+      "score": 0.7279,
+      "importance": 0.7279,
+      "importance_score": 0.7279,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6362,
+        "recency": 0.5796,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -895,6 +1015,217 @@
         "id": "c79aa5cb3d6a1d20a882be28b1820f15bf7db834",
         "title": "DeepSeek梁文锋谈开源：只赚 6 倍利润不加班，想赚 100 倍才会受制于开源",
         "url": "https://www.aibase.com/news/29833",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_2d78a28f9f25",
+      "title": "初创公司创始人敦促美国政府不要关闭中国开放重量人工智能 / Startup founders urge U.S. government not to shut off Chinese open weight AI",
+      "url": "https://news.ycombinator.com/item?id=49023016",
+      "primary_url": "https://news.ycombinator.com/item?id=49023016",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "df4341a2bf89b8e935cae92768b4d2dfb0bac712",
+          "title": "初创公司创始人敦促美国政府不要关闭中国开放重量人工智能 / Startup founders urge U.S. government not to shut off Chinese open weight AI",
+          "url": "https://news.ycombinator.com/item?id=49023016",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-23T18:20:12.130000Z"
+        },
+        {
+          "id": "eaf597773fca02e1f25545bbb170d4aa03f07baa",
+          "title": "初创公司创始人敦促特朗普不要关闭中国开放重量级人工智能 / Startup founders urge Trump not to shut off Chinese open weight AI",
+          "url": "https://news.ycombinator.com/item?id=49023016",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-23T17:25:14.677000Z"
+        },
+        {
+          "id": "f63cfcbfeeb157c2206334679a884c2a979bd3c8",
+          "title": "初创公司创始人敦促特朗普不要关闭中国公开重量级人工智能 / Startup Founders Urge Trump Not to Shut Off Chinese Open Weight AI",
+          "url": "https://slashdot.org/story/26/07/23/0623233/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai",
+          "source": "Slashdot",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-23T16:00:00Z"
+        },
+        {
+          "id": "0d201bb086dff3a9b4cb387ad63704dc7c2d9c21",
+          "title": "初创企业创始人呼吁特朗普不要封杀中国开放式AI",
+          "url": "https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992",
+          "source": "www.politico.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-23T15:55:35.819000Z"
+        },
+        {
+          "id": "7f31f350d625f990bc552fb4adac3c17785bf825",
+          "title": "初创企业创始人呼吁特朗普不要封杀中国开放式AI / Startup founders urge Trump not to shut off Chinese open weight AI",
+          "url": "https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-23T15:18:40Z"
+        },
+        {
+          "id": "a7456a8b6d22b8cb865bda21c22914d2f83d2f8f",
+          "title": "初创企业创始人呼吁特朗普不要封杀中国开放式AI / Startup founders urge U.S. government not to shut off Chinese open weight AI",
+          "url": "https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-23T15:18:40Z"
+        }
+      ],
+      "source_count": 6,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "Slashdot",
+        "hackernews",
+        "www.politico.com"
+      ],
+      "items": [
+        {
+          "id": "df4341a2bf89b8e935cae92768b4d2dfb0bac712",
+          "title": "初创公司创始人敦促美国政府不要关闭中国开放重量人工智能 / Startup founders urge U.S. government not to shut off Chinese open weight AI",
+          "url": "https://news.ycombinator.com/item?id=49023016",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-23T18:20:12.130000Z"
+        },
+        {
+          "id": "eaf597773fca02e1f25545bbb170d4aa03f07baa",
+          "title": "初创公司创始人敦促特朗普不要关闭中国开放重量级人工智能 / Startup founders urge Trump not to shut off Chinese open weight AI",
+          "url": "https://news.ycombinator.com/item?id=49023016",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-23T17:25:14.677000Z"
+        },
+        {
+          "id": "f63cfcbfeeb157c2206334679a884c2a979bd3c8",
+          "title": "初创公司创始人敦促特朗普不要关闭中国公开重量级人工智能 / Startup Founders Urge Trump Not to Shut Off Chinese Open Weight AI",
+          "url": "https://slashdot.org/story/26/07/23/0623233/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai",
+          "source": "Slashdot",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-23T16:00:00Z"
+        },
+        {
+          "id": "0d201bb086dff3a9b4cb387ad63704dc7c2d9c21",
+          "title": "初创企业创始人呼吁特朗普不要封杀中国开放式AI",
+          "url": "https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992",
+          "source": "www.politico.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-23T15:55:35.819000Z"
+        },
+        {
+          "id": "7f31f350d625f990bc552fb4adac3c17785bf825",
+          "title": "初创企业创始人呼吁特朗普不要封杀中国开放式AI / Startup founders urge Trump not to shut off Chinese open weight AI",
+          "url": "https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-23T15:18:40Z"
+        },
+        {
+          "id": "a7456a8b6d22b8cb865bda21c22914d2f83d2f8f",
+          "title": "初创企业创始人呼吁特朗普不要封杀中国开放式AI / Startup founders urge U.S. government not to shut off Chinese open weight AI",
+          "url": "https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-23T15:18:40Z"
+        }
+      ],
+      "item_count": 6,
+      "duplicate_count": 6,
+      "score": 0.6194,
+      "importance": 0.6194,
+      "importance_score": 0.6194,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9819,
+        "story_heat": 1.0
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-23T15:18:40Z",
+      "latest_at": "2026-07-23T18:20:12.130000Z",
+      "primary_item": {
+        "id": "df4341a2bf89b8e935cae92768b4d2dfb0bac712",
+        "title": "初创公司创始人敦促美国政府不要关闭中国开放重量人工智能 / Startup founders urge U.S. government not to shut off Chinese open weight AI",
+        "url": "https://news.ycombinator.com/item?id=49023016",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_474e03be960a",
+      "title": "NTT DATA部署Codex： 5 名工程师 3 天的故障分析缩短至 30 分钟， 9000 名员工已用上AI",
+      "url": "https://www.aibase.com/news/29832",
+      "primary_url": "https://www.aibase.com/news/29832",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "97611d917848fa2a68ed28a431b29bd51665e450",
+          "title": "NTT DATA部署Codex： 5 名工程师 3 天的故障分析缩短至 30 分钟， 9000 名员工已用上AI",
+          "url": "https://www.aibase.com/news/29832",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-23T08:40:49.448722Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "97611d917848fa2a68ed28a431b29bd51665e450",
+          "title": "NTT DATA部署Codex： 5 名工程师 3 天的故障分析缩短至 30 分钟， 9000 名员工已用上AI",
+          "url": "https://www.aibase.com/news/29832",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-23T08:40:49.448722Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7279,
+      "importance": 0.7279,
+      "importance_score": 0.7279,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.5796,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-23T08:40:49.448722Z",
+      "latest_at": "2026-07-23T08:40:49.448722Z",
+      "primary_item": {
+        "id": "97611d917848fa2a68ed28a431b29bd51665e450",
+        "title": "NTT DATA部署Codex： 5 名工程师 3 天的故障分析缩短至 30 分钟， 9000 名员工已用上AI",
+        "url": "https://www.aibase.com/news/29832",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -1028,14 +1359,14 @@
       ],
       "item_count": 6,
       "duplicate_count": 6,
-      "score": 0.623,
-      "importance": 0.623,
-      "importance_score": 0.623,
+      "score": 0.6117,
+      "importance": 0.6117,
+      "importance_score": 0.6117,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9437,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -1048,199 +1379,6 @@
         "id": "6e5b8b95e4038b4dc3c555e57035e0575aa33d6b",
         "title": "OpenAI对Hugging Face的意外攻击是科幻小说中发生的事情 / OpenAI’s accidental attack against Hugging Face is science fiction that happened",
         "url": "https://news.ycombinator.com/item?id=49015639",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_474e03be960a",
-      "title": "NTT DATA部署Codex： 5 名工程师 3 天的故障分析缩短至 30 分钟， 9000 名员工已用上AI",
-      "url": "https://www.aibase.com/news/29832",
-      "primary_url": "https://www.aibase.com/news/29832",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "97611d917848fa2a68ed28a431b29bd51665e450",
-          "title": "NTT DATA部署Codex： 5 名工程师 3 天的故障分析缩短至 30 分钟， 9000 名员工已用上AI",
-          "url": "https://www.aibase.com/news/29832",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-23T08:40:49.448722Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "97611d917848fa2a68ed28a431b29bd51665e450",
-          "title": "NTT DATA部署Codex： 5 名工程师 3 天的故障分析缩短至 30 分钟， 9000 名员工已用上AI",
-          "url": "https://www.aibase.com/news/29832",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-23T08:40:49.448722Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7392,
-      "importance": 0.7392,
-      "importance_score": 0.7392,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6362,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-23T08:40:49.448722Z",
-      "latest_at": "2026-07-23T08:40:49.448722Z",
-      "primary_item": {
-        "id": "97611d917848fa2a68ed28a431b29bd51665e450",
-        "title": "NTT DATA部署Codex： 5 名工程师 3 天的故障分析缩短至 30 分钟， 9000 名员工已用上AI",
-        "url": "https://www.aibase.com/news/29832",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_2d78a28f9f25",
-      "title": "初创公司创始人敦促特朗普不要关闭中国开放重量级人工智能 / Startup founders urge Trump not to shut off Chinese open weight AI",
-      "url": "https://news.ycombinator.com/item?id=49023016",
-      "primary_url": "https://news.ycombinator.com/item?id=49023016",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "eaf597773fca02e1f25545bbb170d4aa03f07baa",
-          "title": "初创公司创始人敦促特朗普不要关闭中国开放重量级人工智能 / Startup founders urge Trump not to shut off Chinese open weight AI",
-          "url": "https://news.ycombinator.com/item?id=49023016",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-23T17:25:14.677000Z"
-        },
-        {
-          "id": "f63cfcbfeeb157c2206334679a884c2a979bd3c8",
-          "title": "初创公司创始人敦促特朗普不要关闭中国公开重量级人工智能 / Startup Founders Urge Trump Not to Shut Off Chinese Open Weight AI",
-          "url": "https://slashdot.org/story/26/07/23/0623233/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai",
-          "source": "Slashdot",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-23T16:00:00Z"
-        },
-        {
-          "id": "0d201bb086dff3a9b4cb387ad63704dc7c2d9c21",
-          "title": "初创企业创始人呼吁特朗普不要封杀中国开放式AI",
-          "url": "https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992",
-          "source": "www.politico.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-23T15:55:35.819000Z"
-        },
-        {
-          "id": "7f31f350d625f990bc552fb4adac3c17785bf825",
-          "title": "初创企业创始人呼吁特朗普不要封杀中国开放式AI / Startup founders urge Trump not to shut off Chinese open weight AI",
-          "url": "https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-23T15:18:40Z"
-        },
-        {
-          "id": "a7456a8b6d22b8cb865bda21c22914d2f83d2f8f",
-          "title": "初创企业创始人呼吁特朗普不要封杀中国开放式AI / Startup founders urge U.S. government not to shut off Chinese open weight AI",
-          "url": "https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-23T15:18:40Z"
-        }
-      ],
-      "source_count": 5,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "Slashdot",
-        "hackernews",
-        "www.politico.com"
-      ],
-      "items": [
-        {
-          "id": "eaf597773fca02e1f25545bbb170d4aa03f07baa",
-          "title": "初创公司创始人敦促特朗普不要关闭中国开放重量级人工智能 / Startup founders urge Trump not to shut off Chinese open weight AI",
-          "url": "https://news.ycombinator.com/item?id=49023016",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-23T17:25:14.677000Z"
-        },
-        {
-          "id": "f63cfcbfeeb157c2206334679a884c2a979bd3c8",
-          "title": "初创公司创始人敦促特朗普不要关闭中国公开重量级人工智能 / Startup Founders Urge Trump Not to Shut Off Chinese Open Weight AI",
-          "url": "https://slashdot.org/story/26/07/23/0623233/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai",
-          "source": "Slashdot",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-23T16:00:00Z"
-        },
-        {
-          "id": "0d201bb086dff3a9b4cb387ad63704dc7c2d9c21",
-          "title": "初创企业创始人呼吁特朗普不要封杀中国开放式AI",
-          "url": "https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992",
-          "source": "www.politico.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-23T15:55:35.819000Z"
-        },
-        {
-          "id": "7f31f350d625f990bc552fb4adac3c17785bf825",
-          "title": "初创企业创始人呼吁特朗普不要封杀中国开放式AI / Startup founders urge Trump not to shut off Chinese open weight AI",
-          "url": "https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-23T15:18:40Z"
-        },
-        {
-          "id": "a7456a8b6d22b8cb865bda21c22914d2f83d2f8f",
-          "title": "初创企业创始人呼吁特朗普不要封杀中国开放式AI / Startup founders urge U.S. government not to shut off Chinese open weight AI",
-          "url": "https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-23T15:18:40Z"
-        }
-      ],
-      "item_count": 5,
-      "duplicate_count": 5,
-      "score": 0.623,
-      "importance": 0.623,
-      "importance_score": 0.623,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 1.0,
-        "story_heat": 1.0
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-23T15:18:40Z",
-      "latest_at": "2026-07-23T17:25:14.677000Z",
-      "primary_item": {
-        "id": "eaf597773fca02e1f25545bbb170d4aa03f07baa",
-        "title": "初创公司创始人敦促特朗普不要关闭中国开放重量级人工智能 / Startup founders urge Trump not to shut off Chinese open weight AI",
-        "url": "https://news.ycombinator.com/item?id=49023016",
         "source": "hackernews",
         "source_name": "NewsNow"
       }
@@ -1280,14 +1418,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7392,
-      "importance": 0.7392,
-      "importance_score": 0.7392,
+      "score": 0.7279,
+      "importance": 0.7279,
+      "importance_score": 0.7279,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6362,
+        "recency": 0.5796,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1302,6 +1440,180 @@
         "url": "https://www.aibase.com/news/29837",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_2cde2710a994",
+      "title": "随着人工智能成本的急剧攀升，谷歌正迅速耗尽现金 / Google and Tesla shares plunge as AI spending rattles markets",
+      "url": "https://www.bbc.co.uk/news/articles/c235n47g8g8o?at_medium=RSS&at_campaign=rss",
+      "primary_url": "https://www.bbc.co.uk/news/articles/c235n47g8g8o?at_medium=RSS&at_campaign=rss",
+      "source": "BBC News (世界新闻)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "3baeae5566aa40826373a5d95310223a31c9b6ae",
+          "title": "随着人工智能成本的急剧攀升，谷歌正迅速耗尽现金 / Google and Tesla shares plunge as AI spending rattles markets",
+          "url": "https://www.bbc.co.uk/news/articles/c235n47g8g8o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News (世界新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-23T17:25:10Z"
+        },
+        {
+          "id": "e293014e280f23b78756d9e89a0f70b59a2b2bdd",
+          "title": "随着人工智能成本的急剧攀升，谷歌正迅速耗尽现金",
+          "url": "https://www.bbc.co.uk/news/articles/c235n47g8g8o?at_medium=RSS&at_campaign=rss",
+          "source": "www.bbc.co.uk",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-23T04:11:35.078000Z"
+        },
+        {
+          "id": "fad6c28aa77f979f1254b017407425794d07b746",
+          "title": "随着人工智能成本的急剧攀升，谷歌正迅速耗尽现金 / Google burning through cash with spiralling AI costs",
+          "url": "https://www.bbc.co.uk/news/articles/c235n47g8g8o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News (世界新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-22T23:02:32Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "BBC News (世界新闻)",
+        "www.bbc.co.uk"
+      ],
+      "items": [
+        {
+          "id": "3baeae5566aa40826373a5d95310223a31c9b6ae",
+          "title": "随着人工智能成本的急剧攀升，谷歌正迅速耗尽现金 / Google and Tesla shares plunge as AI spending rattles markets",
+          "url": "https://www.bbc.co.uk/news/articles/c235n47g8g8o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News (世界新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-23T17:25:10Z"
+        },
+        {
+          "id": "e293014e280f23b78756d9e89a0f70b59a2b2bdd",
+          "title": "随着人工智能成本的急剧攀升，谷歌正迅速耗尽现金",
+          "url": "https://www.bbc.co.uk/news/articles/c235n47g8g8o?at_medium=RSS&at_campaign=rss",
+          "source": "www.bbc.co.uk",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-23T04:11:35.078000Z"
+        },
+        {
+          "id": "fad6c28aa77f979f1254b017407425794d07b746",
+          "title": "随着人工智能成本的急剧攀升，谷歌正迅速耗尽现金 / Google burning through cash with spiralling AI costs",
+          "url": "https://www.bbc.co.uk/news/articles/c235n47g8g8o?at_medium=RSS&at_campaign=rss",
+          "source": "BBC News (世界新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-22T23:02:32Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5617,
+      "importance": 0.5617,
+      "importance_score": 0.5617,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9437,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-22T23:02:32Z",
+      "latest_at": "2026-07-23T17:25:10Z",
+      "primary_item": {
+        "id": "3baeae5566aa40826373a5d95310223a31c9b6ae",
+        "title": "随着人工智能成本的急剧攀升，谷歌正迅速耗尽现金 / Google and Tesla shares plunge as AI spending rattles markets",
+        "url": "https://www.bbc.co.uk/news/articles/c235n47g8g8o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC News (世界新闻)",
+        "source_name": "Info Flow"
+      }
+    },
+    {
+      "story_id": "story_9fbe2a958167",
+      "title": "AMD 与 Cerebras Systems 合作推进 AI 推理硬件，后者股价盘中上涨 11%",
+      "url": "https://www.ithome.com/0/980/870.htm",
+      "primary_url": "https://www.ithome.com/0/980/870.htm",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "6b5de5372b91eb9e8bbef2aa7c7fb8a0bf213aed",
+          "title": "AMD 与 Cerebras Systems 合作推进 AI 推理硬件，后者股价盘中上涨 11%",
+          "url": "https://www.ithome.com/0/980/870.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "deb9c8d8c87ff7cbb616cea54228a935a4e5b8de",
+          "title": "和 AMD 合作推进 AI 推理硬件利好，Cerebras Systems 今日股价盘中上涨 11%",
+          "url": "https://www.ithome.com/0/980/870.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-23T17:48:43Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "IT之家 (ITHome)",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "6b5de5372b91eb9e8bbef2aa7c7fb8a0bf213aed",
+          "title": "AMD 与 Cerebras Systems 合作推进 AI 推理硬件，后者股价盘中上涨 11%",
+          "url": "https://www.ithome.com/0/980/870.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "deb9c8d8c87ff7cbb616cea54228a935a4e5b8de",
+          "title": "和 AMD 合作推进 AI 推理硬件利好，Cerebras Systems 今日股价盘中上涨 11%",
+          "url": "https://www.ithome.com/0/980/870.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-23T17:48:43Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.548,
+      "importance": 0.548,
+      "importance_score": 0.548,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-23T17:48:43Z",
+      "latest_at": "2026-07-23T18:46:15.278556Z",
+      "primary_item": {
+        "id": "6b5de5372b91eb9e8bbef2aa7c7fb8a0bf213aed",
+        "title": "AMD 与 Cerebras Systems 合作推进 AI 推理硬件，后者股价盘中上涨 11%",
+        "url": "https://www.ithome.com/0/980/870.htm",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
       }
     },
     {
@@ -1339,14 +1651,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7392,
-      "importance": 0.7392,
-      "importance_score": 0.7392,
+      "score": 0.7279,
+      "importance": 0.7279,
+      "importance_score": 0.7279,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6362,
+        "recency": 0.5796,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1359,315 +1671,6 @@
         "id": "2a357b11b9a3d3850eab41504d47db0334717279",
         "title": "一人薅羊毛致全县被电商拉黑：男子用AI生成烂果图骗取1. 6 万元水果\"仅退款\"获刑一年",
         "url": "https://www.aibase.com/news/29838",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_f7f8466dfbf1",
-      "title": "受人工智能和战争担忧影响，股市承压；油价突破100美元：市场综述",
-      "url": "https://www.bloomberg.com/news/articles/2026-07-22/stock-market-today-dow-s-p-live-updates",
-      "primary_url": "https://www.bloomberg.com/news/articles/2026-07-22/stock-market-today-dow-s-p-live-updates",
-      "source": "www.bloomberg.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "1d77f559807655a3d64efcb60099bb41462a498a",
-          "title": "受人工智能和战争担忧影响，股市承压；油价突破100美元：市场综述",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-22/stock-market-today-dow-s-p-live-updates",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-23T15:07:44.272000Z"
-        },
-        {
-          "id": "d4a3d16c69556b8746c45cc95e9a281f5fcf17f1",
-          "title": "受人工智能担忧情绪影响且油价走高，股市下跌：市场综述",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-22/stock-market-today-dow-s-p-live-updates",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-23T10:51:36.529000Z"
-        },
-        {
-          "id": "f7dbce8965faeb181e919c62ba3b2b96e7ed1cb4",
-          "title": "受人工智能支出担忧加剧影响，股市下跌，油价上涨：市场综述",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-22/stock-market-today-dow-s-p-live-updates",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-23T08:11:49.088000Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "www.bloomberg.com"
-      ],
-      "items": [
-        {
-          "id": "1d77f559807655a3d64efcb60099bb41462a498a",
-          "title": "受人工智能和战争担忧影响，股市承压；油价突破100美元：市场综述",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-22/stock-market-today-dow-s-p-live-updates",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-23T15:07:44.272000Z"
-        },
-        {
-          "id": "d4a3d16c69556b8746c45cc95e9a281f5fcf17f1",
-          "title": "受人工智能担忧情绪影响且油价走高，股市下跌：市场综述",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-22/stock-market-today-dow-s-p-live-updates",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-23T10:51:36.529000Z"
-        },
-        {
-          "id": "f7dbce8965faeb181e919c62ba3b2b96e7ed1cb4",
-          "title": "受人工智能支出担忧加剧影响，股市下跌，油价上涨：市场综述",
-          "url": "https://www.bloomberg.com/news/articles/2026-07-22/stock-market-today-dow-s-p-live-updates",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-23T08:11:49.088000Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.554,
-      "importance": 0.554,
-      "importance_score": 0.554,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9049,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-23T08:11:49.088000Z",
-      "latest_at": "2026-07-23T15:07:44.272000Z",
-      "primary_item": {
-        "id": "1d77f559807655a3d64efcb60099bb41462a498a",
-        "title": "受人工智能和战争担忧影响，股市承压；油价突破100美元：市场综述",
-        "url": "https://www.bloomberg.com/news/articles/2026-07-22/stock-market-today-dow-s-p-live-updates",
-        "source": "www.bloomberg.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_cb7dbed1fb64",
-      "title": "上海世界人工智能大会举办「前沿人工智能安全与关键基础设施保护」闭门研讨会",
-      "url": "https://hub.baai.ac.cn/view/56571",
-      "primary_url": "https://hub.baai.ac.cn/view/56571",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "42da2f1777cff3ecca16737ab6fb83c126e1c794",
-          "title": "上海世界人工智能大会举办「前沿人工智能安全与关键基础设施保护」闭门研讨会",
-          "url": "https://hub.baai.ac.cn/view/56571",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "7f975fe725dc3f78ce5fa194a52c0d41c2a732ca",
-          "title": "上海世界人工智能大会「前沿人工智能安全与关键基础设施保护：评测、标准与合作」闭门研讨会成功举行",
-          "url": "https://hub.baai.ac.cn/view/56571",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "42da2f1777cff3ecca16737ab6fb83c126e1c794",
-          "title": "上海世界人工智能大会举办「前沿人工智能安全与关键基础设施保护」闭门研讨会",
-          "url": "https://hub.baai.ac.cn/view/56571",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "7f975fe725dc3f78ce5fa194a52c0d41c2a732ca",
-          "title": "上海世界人工智能大会「前沿人工智能安全与关键基础设施保护：评测、标准与合作」闭门研讨会成功举行",
-          "url": "https://hub.baai.ac.cn/view/56571",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5323,
-      "importance": 0.5323,
-      "importance_score": 0.5323,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9215,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-23T13:01:17.331042Z",
-      "latest_at": "2026-07-23T15:31:39.159425Z",
-      "primary_item": {
-        "id": "42da2f1777cff3ecca16737ab6fb83c126e1c794",
-        "title": "上海世界人工智能大会举办「前沿人工智能安全与关键基础设施保护」闭门研讨会",
-        "url": "https://hub.baai.ac.cn/view/56571",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_2568e67aa59b",
-      "title": "OpenAI遭黑客攻击事件后，AI军备竞赛或将面临清算",
-      "url": "https://arstechnica.com/ai/2026/07/ai-arms-race-in-line-for-a-reckoning-after-openai-hacking-incident",
-      "primary_url": "https://arstechnica.com/ai/2026/07/ai-arms-race-in-line-for-a-reckoning-after-openai-hacking-incident",
-      "source": "arstechnica.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "0be84441c14a31a290acd47426449eb4032c71f9",
-          "title": "OpenAI遭黑客攻击事件后，AI军备竞赛或将面临清算",
-          "url": "https://arstechnica.com/ai/2026/07/ai-arms-race-in-line-for-a-reckoning-after-openai-hacking-incident",
-          "source": "arstechnica.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-23T15:23:44.567000Z"
-        },
-        {
-          "id": "f4d57972a3c9d801098c8e559cb21ae848c5ba1e",
-          "title": "OpenAI遭黑客攻击事件后，AI军备竞赛或将面临清算 / AI arms race in line for a reckoning after OpenAI hacking incident",
-          "url": "https://arstechnica.com/ai/2026/07/ai-arms-race-in-line-for-a-reckoning-after-openai-hacking-incident",
-          "source": "Ars Technica (科技媒体)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-23T14:45:05Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Ars Technica (科技媒体)",
-        "arstechnica.com"
-      ],
-      "items": [
-        {
-          "id": "0be84441c14a31a290acd47426449eb4032c71f9",
-          "title": "OpenAI遭黑客攻击事件后，AI军备竞赛或将面临清算",
-          "url": "https://arstechnica.com/ai/2026/07/ai-arms-race-in-line-for-a-reckoning-after-openai-hacking-incident",
-          "source": "arstechnica.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-23T15:23:44.567000Z"
-        },
-        {
-          "id": "f4d57972a3c9d801098c8e559cb21ae848c5ba1e",
-          "title": "OpenAI遭黑客攻击事件后，AI军备竞赛或将面临清算 / AI arms race in line for a reckoning after OpenAI hacking incident",
-          "url": "https://arstechnica.com/ai/2026/07/ai-arms-race-in-line-for-a-reckoning-after-openai-hacking-incident",
-          "source": "Ars Technica (科技媒体)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-23T14:45:05Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5312,
-      "importance": 0.5312,
-      "importance_score": 0.5312,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.916,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-23T14:45:05Z",
-      "latest_at": "2026-07-23T15:23:44.567000Z",
-      "primary_item": {
-        "id": "0be84441c14a31a290acd47426449eb4032c71f9",
-        "title": "OpenAI遭黑客攻击事件后，AI军备竞赛或将面临清算",
-        "url": "https://arstechnica.com/ai/2026/07/ai-arms-race-in-line-for-a-reckoning-after-openai-hacking-incident",
-        "source": "arstechnica.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_1fb51e491b76",
-      "title": "北京抛出\"智能体新政\"十策：从驾驭层工程到一人公司，一张 Agent 经济蓝图铺开了",
-      "url": "https://www.aibase.com/news/29839",
-      "primary_url": "https://www.aibase.com/news/29839",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "729e792e03a162fb01b4c6f57c2da1bc72fa177e",
-          "title": "北京抛出\"智能体新政\"十策：从驾驭层工程到一人公司，一张 Agent 经济蓝图铺开了",
-          "url": "https://www.aibase.com/news/29839",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-23T08:40:49.448722Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "729e792e03a162fb01b4c6f57c2da1bc72fa177e",
-          "title": "北京抛出\"智能体新政\"十策：从驾驭层工程到一人公司，一张 Agent 经济蓝图铺开了",
-          "url": "https://www.aibase.com/news/29839",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-23T08:40:49.448722Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7392,
-      "importance": 0.7392,
-      "importance_score": 0.7392,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6362,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-23T08:40:49.448722Z",
-      "latest_at": "2026-07-23T08:40:49.448722Z",
-      "primary_item": {
-        "id": "729e792e03a162fb01b4c6f57c2da1bc72fa177e",
-        "title": "北京抛出\"智能体新政\"十策：从驾驭层工程到一人公司，一张 Agent 经济蓝图铺开了",
-        "url": "https://www.aibase.com/news/29839",
         "source": "AIbase",
         "source_name": "AIbase"
       }
