@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-07-24T11:17:09.844552Z",
+  "generated_at": "2026-07-24T12:58:40.936144Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260724-2117-317a-8f29-7d32e65083ac&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260724-2117-317a-8f29-7d32e65083ac&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260724-2259-050d-973f-467797851f45&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260724-2259-050d-973f-467797851f45&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "2433ee3f0409f8e4058e3014e64fd6c398982870",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260724-2259-050d-973f-467797851f45&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "81dddd3ffe0a6913284bad1362a406c0b4709a46",
           "title": "点击这里进入 / Click here to enter",
@@ -111,12 +120,21 @@
           "published_at": null
         }
       ],
-      "source_count": 11,
+      "source_count": 12,
       "source_names": [
         "Page Fallback"
       ],
       "items": [
         {
+          "id": "2433ee3f0409f8e4058e3014e64fd6c398982870",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260724-2259-050d-973f-467797851f45&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "81dddd3ffe0a6913284bad1362a406c0b4709a46",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260724-2117-317a-8f29-7d32e65083ac&fp=-3",
@@ -216,8 +234,8 @@
           "published_at": null
         }
       ],
-      "item_count": 11,
-      "duplicate_count": 11,
+      "item_count": 12,
+      "duplicate_count": 12,
       "score": 0.912,
       "importance": 0.912,
       "importance_score": 0.912,
@@ -235,13 +253,73 @@
         "high_importance"
       ],
       "earliest_at": "2026-07-23T13:01:17.331042Z",
-      "latest_at": "2026-07-24T11:17:09.844552Z",
+      "latest_at": "2026-07-24T12:58:40.936144Z",
       "primary_item": {
-        "id": "81dddd3ffe0a6913284bad1362a406c0b4709a46",
+        "id": "2433ee3f0409f8e4058e3014e64fd6c398982870",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260724-2117-317a-8f29-7d32e65083ac&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260724-2259-050d-973f-467797851f45&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
+      }
+    },
+    {
+      "story_id": "story_668147b0e678",
+      "title": "百度搭子更新：电脑手机接力、桌面端内嵌浏览器上线，复杂任务可跨端连续执行",
+      "url": "https://aihot.virxact.com/items/cmryx4qpj065vrolgti8j0pm2",
+      "primary_url": "https://aihot.virxact.com/items/cmryx4qpj065vrolgti8j0pm2",
+      "source": "公众号：百度智能云（文心）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "911b4669a337404f96bc96db1be778d05fcaabc1",
+          "title": "百度搭子更新：电脑手机接力、桌面端内嵌浏览器上线，复杂任务可跨端连续执行",
+          "url": "https://aihot.virxact.com/items/cmryx4qpj065vrolgti8j0pm2",
+          "source": "公众号：百度智能云（文心）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-24T12:28:24Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "公众号：百度智能云（文心）"
+      ],
+      "items": [
+        {
+          "id": "911b4669a337404f96bc96db1be778d05fcaabc1",
+          "title": "百度搭子更新：电脑手机接力、桌面端内嵌浏览器上线，复杂任务可跨端连续执行",
+          "url": "https://aihot.virxact.com/items/cmryx4qpj065vrolgti8j0pm2",
+          "source": "公众号：百度智能云（文心）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-24T12:28:24Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8078,
+      "importance": 0.8078,
+      "importance_score": 0.8078,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.979,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-24T12:28:24Z",
+      "latest_at": "2026-07-24T12:28:24Z",
+      "primary_item": {
+        "id": "911b4669a337404f96bc96db1be778d05fcaabc1",
+        "title": "百度搭子更新：电脑手机接力、桌面端内嵌浏览器上线，复杂任务可跨端连续执行",
+        "url": "https://aihot.virxact.com/items/cmryx4qpj065vrolgti8j0pm2",
+        "source": "公众号：百度智能云（文心）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -298,14 +376,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8186,
-      "importance": 0.8186,
-      "importance_score": 0.8186,
+      "score": 0.8045,
+      "importance": 0.8045,
+      "importance_score": 0.8045,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9081,
+        "recency": 0.8376,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -322,6 +400,66 @@
         "url": "https://www.aibase.com/news/29878",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_d585c40377ed",
+      "title": "FLUX 3 x mimic：新一代视频动作模型",
+      "url": "https://aihot.virxact.com/items/cmrywwsva05zgrolgrh7uc4ls",
+      "primary_url": "https://aihot.virxact.com/items/cmrywwsva05zgrolgrh7uc4ls",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "906c0a023490f85a21fa7b983bcd7790871a9061",
+          "title": "FLUX 3 x mimic：新一代视频动作模型",
+          "url": "https://aihot.virxact.com/items/cmrywwsva05zgrolgrh7uc4ls",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-24T11:55:45Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）"
+      ],
+      "items": [
+        {
+          "id": "906c0a023490f85a21fa7b983bcd7790871a9061",
+          "title": "FLUX 3 x mimic：新一代视频动作模型",
+          "url": "https://aihot.virxact.com/items/cmrywwsva05zgrolgrh7uc4ls",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-24T11:55:45Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8033,
+      "importance": 0.8033,
+      "importance_score": 0.8033,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9563,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-24T11:55:45Z",
+      "latest_at": "2026-07-24T11:55:45Z",
+      "primary_item": {
+        "id": "906c0a023490f85a21fa7b983bcd7790871a9061",
+        "title": "FLUX 3 x mimic：新一代视频动作模型",
+        "url": "https://aihot.virxact.com/items/cmrywwsva05zgrolgrh7uc4ls",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -359,14 +497,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7997,
-      "importance": 0.7997,
-      "importance_score": 0.7997,
+      "score": 0.7856,
+      "importance": 0.7856,
+      "importance_score": 0.7856,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9385,
+        "recency": 0.868,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -381,66 +519,6 @@
         "title": "Kimi K3 在网络安全漏洞利用测试中大幅落后美国前沿模型，知识蒸馏或为原因",
         "url": "https://aihot.virxact.com/items/cmryrih7804c9rolge6wdk3v8",
         "source": "The Decoder：AI News（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_e7b94d54d6e4",
-      "title": "Claude-thermos：保持 Claude 会话缓存热度，避免重新编码费用",
-      "url": "https://aihot.virxact.com/items/cmryrjtlb04ehrolgi1zd6eqv",
-      "primary_url": "https://aihot.virxact.com/items/cmryrjtlb04ehrolgi1zd6eqv",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "222a02bb534048c87c9d3a0a39d31d3a7d85f4e9",
-          "title": "Claude-thermos：保持 Claude 会话缓存热度，避免重新编码费用",
-          "url": "https://aihot.virxact.com/items/cmryrjtlb04ehrolgi1zd6eqv",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-24T09:47:29Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）"
-      ],
-      "items": [
-        {
-          "id": "222a02bb534048c87c9d3a0a39d31d3a7d85f4e9",
-          "title": "Claude-thermos：保持 Claude 会话缓存热度，避免重新编码费用",
-          "url": "https://aihot.virxact.com/items/cmryrjtlb04ehrolgi1zd6eqv",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-24T09:47:29Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7995,
-      "importance": 0.7995,
-      "importance_score": 0.7995,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9377,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-24T09:47:29Z",
-      "latest_at": "2026-07-24T09:47:29Z",
-      "primary_item": {
-        "id": "222a02bb534048c87c9d3a0a39d31d3a7d85f4e9",
-        "title": "Claude-thermos：保持 Claude 会话缓存热度，避免重新编码费用",
-        "url": "https://aihot.virxact.com/items/cmryrjtlb04ehrolgi1zd6eqv",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
       }
     },
@@ -479,14 +557,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
+      "score": 0.7979,
+      "importance": 0.7979,
+      "importance_score": 0.7979,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9295,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -539,14 +617,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7758,
-      "importance": 0.7758,
-      "importance_score": 0.7758,
+      "score": 0.7617,
+      "importance": 0.7617,
+      "importance_score": 0.7617,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.94,
-        "recency": 0.4689,
+        "recency": 0.3984,
         "story_heat": 0.0
       },
       "category": "official",
@@ -600,14 +678,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7746,
-      "importance": 0.7746,
-      "importance_score": 0.7746,
+      "score": 0.7605,
+      "importance": 0.7605,
+      "importance_score": 0.7605,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8131,
+        "recency": 0.7426,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -622,6 +700,66 @@
         "title": "Black Forest Labs 发布 FLUX 3 多模态模型，支持单次生成 20 秒视频与原生音频",
         "url": "https://aihot.virxact.com/items/cmrykywyx026jrolgq06set4j",
         "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_e7b94d54d6e4",
+      "title": "Claude-thermos：保持 Claude 会话缓存热度，避免重新编码费用",
+      "url": "https://aihot.virxact.com/items/cmryrjtlb04ehrolgi1zd6eqv",
+      "primary_url": "https://aihot.virxact.com/items/cmryrjtlb04ehrolgi1zd6eqv",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "222a02bb534048c87c9d3a0a39d31d3a7d85f4e9",
+          "title": "Claude-thermos：保持 Claude 会话缓存热度，避免重新编码费用",
+          "url": "https://aihot.virxact.com/items/cmryrjtlb04ehrolgi1zd6eqv",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-24T09:47:29Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）"
+      ],
+      "items": [
+        {
+          "id": "222a02bb534048c87c9d3a0a39d31d3a7d85f4e9",
+          "title": "Claude-thermos：保持 Claude 会话缓存热度，避免重新编码费用",
+          "url": "https://aihot.virxact.com/items/cmryrjtlb04ehrolgi1zd6eqv",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-24T09:47:29Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7854,
+      "importance": 0.7854,
+      "importance_score": 0.7854,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8672,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-24T09:47:29Z",
+      "latest_at": "2026-07-24T09:47:29Z",
+      "primary_item": {
+        "id": "222a02bb534048c87c9d3a0a39d31d3a7d85f4e9",
+        "title": "Claude-thermos：保持 Claude 会话缓存热度，避免重新编码费用",
+        "url": "https://aihot.virxact.com/items/cmryrjtlb04ehrolgi1zd6eqv",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
       }
     },
@@ -660,14 +798,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
+      "score": 0.7979,
+      "importance": 0.7979,
+      "importance_score": 0.7979,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9295,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -720,21 +858,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7529,
-      "importance": 0.7529,
-      "importance_score": 0.7529,
+      "score": 0.7388,
+      "importance": 0.7388,
+      "importance_score": 0.7388,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.94,
-        "recency": 0.3547,
+        "recency": 0.2842,
         "story_heat": 0.0
       },
       "category": "official",
       "reasons": [
         "official_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-23T19:47:58Z",
       "latest_at": "2026-07-23T19:47:58Z",
@@ -781,14 +918,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
+      "score": 0.7979,
+      "importance": 0.7979,
+      "importance_score": 0.7979,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9295,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -860,14 +997,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7389,
-      "importance": 0.7389,
-      "importance_score": 0.7389,
+      "score": 0.7248,
+      "importance": 0.7248,
+      "importance_score": 0.7248,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.5094,
+        "recency": 0.4389,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -920,21 +1057,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7509,
-      "importance": 0.7509,
-      "importance_score": 0.7509,
+      "score": 0.7368,
+      "importance": 0.7368,
+      "importance_score": 0.7368,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.3897,
+        "recency": 0.3192,
         "story_heat": 0.0
       },
       "category": "official",
       "reasons": [
         "official_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-23T20:38:22Z",
       "latest_at": "2026-07-23T20:38:22Z",
@@ -1000,14 +1136,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7968,
-      "importance": 0.7968,
-      "importance_score": 0.7968,
+      "score": 0.7827,
+      "importance": 0.7827,
+      "importance_score": 0.7827,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7988,
+        "recency": 0.7283,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1061,14 +1197,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7936,
-      "importance": 0.7936,
-      "importance_score": 0.7936,
+      "score": 0.7795,
+      "importance": 0.7795,
+      "importance_score": 0.7795,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9081,
+        "recency": 0.8376,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1121,14 +1257,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7936,
-      "importance": 0.7936,
-      "importance_score": 0.7936,
+      "score": 0.7795,
+      "importance": 0.7795,
+      "importance_score": 0.7795,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9081,
+        "recency": 0.8376,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1237,14 +1373,14 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5855,
-      "importance": 0.5855,
-      "importance_score": 0.5855,
+      "score": 0.5714,
+      "importance": 0.5714,
+      "importance_score": 0.5714,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9377,
+        "recency": 0.8672,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -1296,14 +1432,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7936,
-      "importance": 0.7936,
-      "importance_score": 0.7936,
+      "score": 0.7795,
+      "importance": 0.7795,
+      "importance_score": 0.7795,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9081,
+        "recency": 0.8376,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1322,237 +1458,81 @@
       }
     },
     {
-      "story_id": "story_c06b6ea2597f",
-      "title": "小鹏人形机器人广州工厂开启小批量试生产 预计2026年实现量产",
-      "url": "https://www.aibase.com/news/29875",
-      "primary_url": "https://www.aibase.com/news/29875",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_202b977a01a3",
+      "title": "Hetzner 正在研究 LLM Inference / Hetzner is working on LLM Inference",
+      "url": "https://news.ycombinator.com/item?id=49033087",
+      "primary_url": "https://news.ycombinator.com/item?id=49033087",
+      "source": "hackernews",
+      "source_name": "NewsNow",
       "sources": [
         {
-          "id": "ffac4af30d2c054071b5875b4b8a5d5ca3892baf",
-          "title": "小鹏人形机器人广州工厂开启小批量试生产 预计2026年实现量产",
-          "url": "https://www.aibase.com/news/29875",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-24T09:04:52.607076Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "ffac4af30d2c054071b5875b4b8a5d5ca3892baf",
-          "title": "小鹏人形机器人广州工厂开启小批量试生产 预计2026年实现量产",
-          "url": "https://www.aibase.com/news/29875",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-24T09:04:52.607076Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7936,
-      "importance": 0.7936,
-      "importance_score": 0.7936,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9081,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-24T09:04:52.607076Z",
-      "latest_at": "2026-07-24T09:04:52.607076Z",
-      "primary_item": {
-        "id": "ffac4af30d2c054071b5875b4b8a5d5ca3892baf",
-        "title": "小鹏人形机器人广州工厂开启小批量试生产 预计2026年实现量产",
-        "url": "https://www.aibase.com/news/29875",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_db61e19742b6",
-      "title": "AI押注失利：甲骨文解雇2.1万名员工",
-      "url": "https://www.msn.com/en-us/money/economy/ai-bet-goes-awry-oracle-fires-21-000-employees/ar-AA28vWuD",
-      "primary_url": "https://www.msn.com/en-us/money/economy/ai-bet-goes-awry-oracle-fires-21-000-employees/ar-AA28vWuD",
-      "source": "www.msn.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "5fb7e000d8f180ea710af43356e6ec6ff79f8594",
-          "title": "AI押注失利：甲骨文解雇2.1万名员工",
-          "url": "https://www.msn.com/en-us/money/economy/ai-bet-goes-awry-oracle-fires-21-000-employees/ar-AA28vWuD",
-          "source": "www.msn.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-24T08:43:33.459000Z"
+          "id": "ec6aa9aa0da5237679ff2efdcfb7b679c74dee67",
+          "title": "Hetzner 正在研究 LLM Inference / Hetzner is working on LLM Inference",
+          "url": "https://news.ycombinator.com/item?id=49033087",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-24T12:35:55.205000Z"
         },
         {
-          "id": "614e8313a5034e8137a211a3fb93f2b56fb10bcb",
-          "title": "人工智能赌注出了岔子：甲骨文解雇了 21,000 名员工 / AI bet goes awry: Oracle fires 21,000 employees",
-          "url": "https://www.reddit.com/r/technology/comments/1v4symt/ai_bet_goes_awry_oracle_fires_21000_employees",
-          "source": "Reddit (热门)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-23T22:30:23Z"
-        },
-        {
-          "id": "fe199eb73f5317ca9e6d41e555e2ca4fe3af7683",
-          "title": "AI押注失利：甲骨文解雇2.1万名员工 / AI bet goes awry: Oracle fires 21,000 employees",
-          "url": "https://www.msn.com/en-us/money/economy/ai-bet-goes-awry-oracle-fires-21-000-employees/ar-AA28vWuD",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-23T18:07:33Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "Reddit (热门)",
-        "www.msn.com"
-      ],
-      "items": [
-        {
-          "id": "5fb7e000d8f180ea710af43356e6ec6ff79f8594",
-          "title": "AI押注失利：甲骨文解雇2.1万名员工",
-          "url": "https://www.msn.com/en-us/money/economy/ai-bet-goes-awry-oracle-fires-21-000-employees/ar-AA28vWuD",
-          "source": "www.msn.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-24T08:43:33.459000Z"
-        },
-        {
-          "id": "614e8313a5034e8137a211a3fb93f2b56fb10bcb",
-          "title": "人工智能赌注出了岔子：甲骨文解雇了 21,000 名员工 / AI bet goes awry: Oracle fires 21,000 employees",
-          "url": "https://www.reddit.com/r/technology/comments/1v4symt/ai_bet_goes_awry_oracle_fires_21000_employees",
-          "source": "Reddit (热门)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-23T22:30:23Z"
-        },
-        {
-          "id": "fe199eb73f5317ca9e6d41e555e2ca4fe3af7683",
-          "title": "AI押注失利：甲骨文解雇2.1万名员工 / AI bet goes awry: Oracle fires 21,000 employees",
-          "url": "https://www.msn.com/en-us/money/economy/ai-bet-goes-awry-oracle-fires-21-000-employees/ar-AA28vWuD",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-23T18:07:33Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5517,
-      "importance": 0.5517,
-      "importance_score": 0.5517,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8933,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-23T18:07:33Z",
-      "latest_at": "2026-07-24T08:43:33.459000Z",
-      "primary_item": {
-        "id": "5fb7e000d8f180ea710af43356e6ec6ff79f8594",
-        "title": "AI押注失利：甲骨文解雇2.1万名员工",
-        "url": "https://www.msn.com/en-us/money/economy/ai-bet-goes-awry-oracle-fires-21-000-employees/ar-AA28vWuD",
-        "source": "www.msn.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_d4dfb0558d7d",
-      "title": "AI PPT 一改就崩？MemSlides 登顶抱抱脸，让 Agent 记住你的改稿习惯",
-      "url": "https://hub.baai.ac.cn/view/56583",
-      "primary_url": "https://hub.baai.ac.cn/view/56583",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "b81e27dbb1655b501bed5310020e839722e71a17",
-          "title": "AI PPT 一改就崩？MemSlides 登顶抱抱脸，让 Agent 记住你的改稿习惯",
-          "url": "https://hub.baai.ac.cn/view/56583",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "24b82a6d4fb2c4f46478433190cc0c373b506cfe",
-          "title": "MemSlides 登顶抱抱脸，让 Agent 记住用户的改稿习惯",
-          "url": "https://hub.baai.ac.cn/view/56583",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "df81c52733ee51385b9800aba059456e2591f598",
+          "title": "Hetzner 正在研究 LLM Inference / Hetzner is working on LLM Inference",
+          "url": "https://sliplane.io/blog/hetzner-inference",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-24T09:24:44Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Readhub · AI"
+        "Hacker News",
+        "hackernews"
       ],
       "items": [
         {
-          "id": "b81e27dbb1655b501bed5310020e839722e71a17",
-          "title": "AI PPT 一改就崩？MemSlides 登顶抱抱脸，让 Agent 记住你的改稿习惯",
-          "url": "https://hub.baai.ac.cn/view/56583",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "ec6aa9aa0da5237679ff2efdcfb7b679c74dee67",
+          "title": "Hetzner 正在研究 LLM Inference / Hetzner is working on LLM Inference",
+          "url": "https://news.ycombinator.com/item?id=49033087",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-24T12:35:55.205000Z"
         },
         {
-          "id": "24b82a6d4fb2c4f46478433190cc0c373b506cfe",
-          "title": "MemSlides 登顶抱抱脸，让 Agent 记住用户的改稿习惯",
-          "url": "https://hub.baai.ac.cn/view/56583",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "df81c52733ee51385b9800aba059456e2591f598",
+          "title": "Hetzner 正在研究 LLM Inference / Hetzner is working on LLM Inference",
+          "url": "https://sliplane.io/blog/hetzner-inference",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-24T09:24:44Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.548,
-      "importance": 0.548,
-      "importance_score": 0.548,
+      "score": 0.5448,
+      "importance": 0.5448,
+      "importance_score": 0.5448,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9842,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-24T06:27:25.486761Z",
-      "latest_at": "2026-07-24T11:17:09.844552Z",
+      "earliest_at": "2026-07-24T09:24:44Z",
+      "latest_at": "2026-07-24T12:35:55.205000Z",
       "primary_item": {
-        "id": "b81e27dbb1655b501bed5310020e839722e71a17",
-        "title": "AI PPT 一改就崩？MemSlides 登顶抱抱脸，让 Agent 记住你的改稿习惯",
-        "url": "https://hub.baai.ac.cn/view/56583",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
+        "id": "ec6aa9aa0da5237679ff2efdcfb7b679c74dee67",
+        "title": "Hetzner 正在研究 LLM Inference / Hetzner is working on LLM Inference",
+        "url": "https://news.ycombinator.com/item?id=49033087",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     }
   ]
