@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-07-24T03:53:35.711030Z",
+  "generated_at": "2026-07-24T06:27:25.486761Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260724-1353-5791-9327-19d80efcd2ed&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260724-1353-5791-9327-19d80efcd2ed&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260724-1627-525b-8c0b-359d4f86dd65&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260724-1627-525b-8c0b-359d4f86dd65&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "b32c6520e9c047bd8c6d37409e50270014402a68",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260724-1627-525b-8c0b-359d4f86dd65&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "26c1ff935ee6c10ddd59e719b77b2c977dc84ac0",
           "title": "点击这里进入 / Click here to enter",
@@ -96,15 +105,6 @@
           "id": "d8af59f471dcc10fce50592fba76ff8b8b56393d",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260723-1841-2059-9196-be99d787c6ef&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "794ecb5ce907fa22cf24cd2c5bd771aa5a3c0f23",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260723-1557-35f4-8415-f956fcef8a66&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -117,6 +117,15 @@
       ],
       "items": [
         {
+          "id": "b32c6520e9c047bd8c6d37409e50270014402a68",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260724-1627-525b-8c0b-359d4f86dd65&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "26c1ff935ee6c10ddd59e719b77b2c977dc84ac0",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260724-1353-5791-9327-19d80efcd2ed&fp=-3",
@@ -201,15 +210,6 @@
           "id": "d8af59f471dcc10fce50592fba76ff8b8b56393d",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260723-1841-2059-9196-be99d787c6ef&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "794ecb5ce907fa22cf24cd2c5bd771aa5a3c0f23",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260723-1557-35f4-8415-f956fcef8a66&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -234,14 +234,94 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-23T05:57:04.604818Z",
-      "latest_at": "2026-07-24T03:53:35.711030Z",
+      "earliest_at": "2026-07-23T08:40:49.448722Z",
+      "latest_at": "2026-07-24T06:27:25.486761Z",
       "primary_item": {
-        "id": "26c1ff935ee6c10ddd59e719b77b2c977dc84ac0",
+        "id": "b32c6520e9c047bd8c6d37409e50270014402a68",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260724-1353-5791-9327-19d80efcd2ed&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260724-1627-525b-8c0b-359d4f86dd65&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
+      }
+    },
+    {
+      "story_id": "story_a1d8d484f87d",
+      "title": "德国黑森林实验室发布Flux3 多模态模型：原生音频生成， 20 秒音视频同步输出",
+      "url": "https://www.aibase.com/news/29865",
+      "primary_url": "https://www.aibase.com/news/29865",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "b00270cbadede8a5f07839b1d3db8f69424deb3f",
+          "title": "德国黑森林实验室发布Flux3 多模态模型：原生音频生成， 20 秒音视频同步输出",
+          "url": "https://www.aibase.com/news/29865",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-24T06:27:25.486761Z"
+        },
+        {
+          "id": "bf868498ddc784929084cf9bf3b0ca22cc18702a",
+          "title": "德国黑森林实验室发布 Flux3 多模态模型：原生音频生成，20 秒音视频同步输出",
+          "url": "https://www.aibase.com/zh/news/29865",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "b00270cbadede8a5f07839b1d3db8f69424deb3f",
+          "title": "德国黑森林实验室发布Flux3 多模态模型：原生音频生成， 20 秒音视频同步输出",
+          "url": "https://www.aibase.com/news/29865",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-24T06:27:25.486761Z"
+        },
+        {
+          "id": "bf868498ddc784929084cf9bf3b0ca22cc18702a",
+          "title": "德国黑森林实验室发布 Flux3 多模态模型：原生音频生成，20 秒音视频同步输出",
+          "url": "https://www.aibase.com/zh/news/29865",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.837,
+      "importance": 0.837,
+      "importance_score": 0.837,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-24T06:27:25.486761Z",
+      "latest_at": "2026-07-24T06:27:25.486761Z",
+      "primary_item": {
+        "id": "b00270cbadede8a5f07839b1d3db8f69424deb3f",
+        "title": "德国黑森林实验室发布Flux3 多模态模型：原生音频生成， 20 秒音视频同步输出",
+        "url": "https://www.aibase.com/news/29865",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -279,14 +359,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8374,
-      "importance": 0.8374,
-      "importance_score": 0.8374,
+      "score": 0.816,
+      "importance": 0.816,
+      "importance_score": 0.816,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.94,
-        "recency": 0.7769,
+        "recency": 0.6701,
         "story_heat": 0.0
       },
       "category": "official",
@@ -359,14 +439,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.837,
-      "importance": 0.837,
-      "importance_score": 0.837,
+      "score": 0.8156,
+      "importance": 0.8156,
+      "importance_score": 0.8156,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.8932,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -383,6 +463,147 @@
         "url": "https://www.aibase.com/news/29849",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_348dab389157",
+      "title": "佛州男子因相信 ChatGPT 拒绝就医而险些丧命，起诉 OpenAI 及 CEO 奥尔特曼",
+      "url": "https://aihot.virxact.com/items/cmry5ypd2008croeuadelaot9",
+      "primary_url": "https://aihot.virxact.com/items/cmry5ypd2008croeuadelaot9",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "f3591fb14bbbc45b742e38ffd55b2fa450ac7219",
+          "title": "佛州男子因相信 ChatGPT 拒绝就医而险些丧命，起诉 OpenAI 及 CEO 奥尔特曼",
+          "url": "https://aihot.virxact.com/items/cmry5ypd2008croeuadelaot9",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-23T23:30:43Z"
+        },
+        {
+          "id": "789ebe117e2fc35b399b461a09065b5c2f1371b7",
+          "title": "佛州一男子因相信 ChatGPT 拒绝就医而险些丧命，起诉 OpenAI 及 CEO 奥尔特曼",
+          "url": "https://www.ithome.com/0/980/890.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-23T23:30:43Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "IT之家 (ITHome)",
+        "IT之家（RSS）"
+      ],
+      "items": [
+        {
+          "id": "f3591fb14bbbc45b742e38ffd55b2fa450ac7219",
+          "title": "佛州男子因相信 ChatGPT 拒绝就医而险些丧命，起诉 OpenAI 及 CEO 奥尔特曼",
+          "url": "https://aihot.virxact.com/items/cmry5ypd2008croeuadelaot9",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-23T23:30:43Z"
+        },
+        {
+          "id": "789ebe117e2fc35b399b461a09065b5c2f1371b7",
+          "title": "佛州一男子因相信 ChatGPT 拒绝就医而险些丧命，起诉 OpenAI 及 CEO 奥尔特曼",
+          "url": "https://www.ithome.com/0/980/890.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-23T23:30:43Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7791,
+      "importance": 0.7791,
+      "importance_score": 0.7791,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7106,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-23T23:30:43Z",
+      "latest_at": "2026-07-23T23:30:43Z",
+      "primary_item": {
+        "id": "f3591fb14bbbc45b742e38ffd55b2fa450ac7219",
+        "title": "佛州男子因相信 ChatGPT 拒绝就医而险些丧命，起诉 OpenAI 及 CEO 奥尔特曼",
+        "url": "https://aihot.virxact.com/items/cmry5ypd2008croeuadelaot9",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_52002f50b4f8",
+      "title": "GitHub Mobile：使用 Copilot 云代理修复失败的 Actions 检查 / GitHub Mobile: Fix failing Actions checks with Copilot cloud agent",
+      "url": "https://github.blog/changelog/2026-07-23-github-mobile-fix-failing-actions-checks-with-copilot-cloud-agent",
+      "primary_url": "https://github.blog/changelog/2026-07-23-github-mobile-fix-failing-actions-checks-with-copilot-cloud-agent",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "0fe8e8b29bf9368b8e1021c43f95e06837eaf73d",
+          "title": "GitHub Mobile：使用 Copilot 云代理修复失败的 Actions 检查 / GitHub Mobile: Fix failing Actions checks with Copilot cloud agent",
+          "url": "https://github.blog/changelog/2026-07-23-github-mobile-fix-failing-actions-checks-with-copilot-cloud-agent",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-23T19:47:58Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "0fe8e8b29bf9368b8e1021c43f95e06837eaf73d",
+          "title": "GitHub Mobile：使用 Copilot 云代理修复失败的 Actions 检查 / GitHub Mobile: Fix failing Actions checks with Copilot cloud agent",
+          "url": "https://github.blog/changelog/2026-07-23-github-mobile-fix-failing-actions-checks-with-copilot-cloud-agent",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-23T19:47:58Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7932,
+      "importance": 0.7932,
+      "importance_score": 0.7932,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.94,
+        "recency": 0.5559,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-23T19:47:58Z",
+      "latest_at": "2026-07-23T19:47:58Z",
+      "primary_item": {
+        "id": "0fe8e8b29bf9368b8e1021c43f95e06837eaf73d",
+        "title": "GitHub Mobile：使用 Copilot 云代理修复失败的 Actions 检查 / GitHub Mobile: Fix failing Actions checks with Copilot cloud agent",
+        "url": "https://github.blog/changelog/2026-07-23-github-mobile-fix-failing-actions-checks-with-copilot-cloud-agent",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -439,14 +660,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.837,
-      "importance": 0.837,
-      "importance_score": 0.837,
+      "score": 0.8156,
+      "importance": 0.8156,
+      "importance_score": 0.8156,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.8932,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -466,101 +687,21 @@
       }
     },
     {
-      "story_id": "story_d70d846b51ce",
-      "title": "佛州男子因相信 ChatGPT 拒绝就医而险些丧命，起诉 OpenAI 及 CEO 奥尔特曼",
-      "url": "https://aihot.virxact.com/items/cmry5ypd2008croeuadelaot9",
-      "primary_url": "https://aihot.virxact.com/items/cmry5ypd2008croeuadelaot9",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "f3591fb14bbbc45b742e38ffd55b2fa450ac7219",
-          "title": "佛州男子因相信 ChatGPT 拒绝就医而险些丧命，起诉 OpenAI 及 CEO 奥尔特曼",
-          "url": "https://aihot.virxact.com/items/cmry5ypd2008croeuadelaot9",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-23T23:30:43Z"
-        },
-        {
-          "id": "789ebe117e2fc35b399b461a09065b5c2f1371b7",
-          "title": "佛州一男子因相信 ChatGPT 拒绝就医而险些丧命，起诉 OpenAI 及 CEO 奥尔特曼",
-          "url": "https://www.ithome.com/0/980/890.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-23T23:30:43Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "IT之家 (ITHome)",
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "f3591fb14bbbc45b742e38ffd55b2fa450ac7219",
-          "title": "佛州男子因相信 ChatGPT 拒绝就医而险些丧命，起诉 OpenAI 及 CEO 奥尔特曼",
-          "url": "https://aihot.virxact.com/items/cmry5ypd2008croeuadelaot9",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-23T23:30:43Z"
-        },
-        {
-          "id": "789ebe117e2fc35b399b461a09065b5c2f1371b7",
-          "title": "佛州一男子因相信 ChatGPT 拒绝就医而险些丧命，起诉 OpenAI 及 CEO 奥尔特曼",
-          "url": "https://www.ithome.com/0/980/890.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-23T23:30:43Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8005,
-      "importance": 0.8005,
-      "importance_score": 0.8005,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8174,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-23T23:30:43Z",
-      "latest_at": "2026-07-23T23:30:43Z",
-      "primary_item": {
-        "id": "f3591fb14bbbc45b742e38ffd55b2fa450ac7219",
-        "title": "佛州男子因相信 ChatGPT 拒绝就医而险些丧命，起诉 OpenAI 及 CEO 奥尔特曼",
-        "url": "https://aihot.virxact.com/items/cmry5ypd2008croeuadelaot9",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_52002f50b4f8",
-      "title": "GitHub Mobile：使用 Copilot 云代理修复失败的 Actions 检查 / GitHub Mobile: Fix failing Actions checks with Copilot cloud agent",
-      "url": "https://github.blog/changelog/2026-07-23-github-mobile-fix-failing-actions-checks-with-copilot-cloud-agent",
-      "primary_url": "https://github.blog/changelog/2026-07-23-github-mobile-fix-failing-actions-checks-with-copilot-cloud-agent",
+      "story_id": "story_53c15e4668db",
+      "title": "GitHub MCP 服务器支持下一个 MCP 规范 / GitHub MCP Server supports the next MCP specification",
+      "url": "https://github.blog/changelog/2026-07-23-github-mcp-server-supports-the-next-mcp-specification",
+      "primary_url": "https://github.blog/changelog/2026-07-23-github-mcp-server-supports-the-next-mcp-specification",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "0fe8e8b29bf9368b8e1021c43f95e06837eaf73d",
-          "title": "GitHub Mobile：使用 Copilot 云代理修复失败的 Actions 检查 / GitHub Mobile: Fix failing Actions checks with Copilot cloud agent",
-          "url": "https://github.blog/changelog/2026-07-23-github-mobile-fix-failing-actions-checks-with-copilot-cloud-agent",
+          "id": "08cfb2e1c50fdd903761c005e5754fb3541ba641",
+          "title": "GitHub MCP 服务器支持下一个 MCP 规范 / GitHub MCP Server supports the next MCP specification",
+          "url": "https://github.blog/changelog/2026-07-23-github-mcp-server-supports-the-next-mcp-specification",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-23T19:47:58Z"
+          "published_at": "2026-07-23T20:38:22Z"
         }
       ],
       "source_count": 1,
@@ -569,25 +710,25 @@
       ],
       "items": [
         {
-          "id": "0fe8e8b29bf9368b8e1021c43f95e06837eaf73d",
-          "title": "GitHub Mobile：使用 Copilot 云代理修复失败的 Actions 检查 / GitHub Mobile: Fix failing Actions checks with Copilot cloud agent",
-          "url": "https://github.blog/changelog/2026-07-23-github-mobile-fix-failing-actions-checks-with-copilot-cloud-agent",
+          "id": "08cfb2e1c50fdd903761c005e5754fb3541ba641",
+          "title": "GitHub MCP 服务器支持下一个 MCP 规范 / GitHub MCP Server supports the next MCP specification",
+          "url": "https://github.blog/changelog/2026-07-23-github-mcp-server-supports-the-next-mcp-specification",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-07-23T19:47:58Z"
+          "published_at": "2026-07-23T20:38:22Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8146,
-      "importance": 0.8146,
-      "importance_score": 0.8146,
+      "score": 0.7912,
+      "importance": 0.7912,
+      "importance_score": 0.7912,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
-        "ai_relevance": 0.94,
-        "recency": 0.6628,
+        "ai_relevance": 0.91,
+        "recency": 0.5909,
         "story_heat": 0.0
       },
       "category": "official",
@@ -596,14 +737,73 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-23T19:47:58Z",
-      "latest_at": "2026-07-23T19:47:58Z",
+      "earliest_at": "2026-07-23T20:38:22Z",
+      "latest_at": "2026-07-23T20:38:22Z",
       "primary_item": {
-        "id": "0fe8e8b29bf9368b8e1021c43f95e06837eaf73d",
-        "title": "GitHub Mobile：使用 Copilot 云代理修复失败的 Actions 检查 / GitHub Mobile: Fix failing Actions checks with Copilot cloud agent",
-        "url": "https://github.blog/changelog/2026-07-23-github-mobile-fix-failing-actions-checks-with-copilot-cloud-agent",
+        "id": "08cfb2e1c50fdd903761c005e5754fb3541ba641",
+        "title": "GitHub MCP 服务器支持下一个 MCP 规范 / GitHub MCP Server supports the next MCP specification",
+        "url": "https://github.blog/changelog/2026-07-23-github-mcp-server-supports-the-next-mcp-specification",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_b2ae458fcc7c",
+      "title": "DARPA 与美国空军试飞 AI 操控的 F-16 战机",
+      "url": "https://aihot.virxact.com/items/cmrxylm0f002xropg7xpd1pth",
+      "primary_url": "https://aihot.virxact.com/items/cmrxylm0f002xropg7xpd1pth",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "923a9d9d36cc3fd72d9ee24683da231288f23055",
+          "title": "DARPA 与美国空军试飞 AI 操控的 F-16 战机",
+          "url": "https://aihot.virxact.com/items/cmrxylm0f002xropg7xpd1pth",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-23T20:11:31Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）"
+      ],
+      "items": [
+        {
+          "id": "923a9d9d36cc3fd72d9ee24683da231288f23055",
+          "title": "DARPA 与美国空军试飞 AI 操控的 F-16 战机",
+          "url": "https://aihot.virxact.com/items/cmrxylm0f002xropg7xpd1pth",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-23T20:11:31Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7265,
+      "importance": 0.7265,
+      "importance_score": 0.7265,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.5723,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-23T20:11:31Z",
+      "latest_at": "2026-07-23T20:11:31Z",
+      "primary_item": {
+        "id": "923a9d9d36cc3fd72d9ee24683da231288f23055",
+        "title": "DARPA 与美国空军试飞 AI 操控的 F-16 战机",
+        "url": "https://aihot.virxact.com/items/cmrxylm0f002xropg7xpd1pth",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -660,14 +860,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.837,
-      "importance": 0.837,
-      "importance_score": 0.837,
+      "score": 0.8156,
+      "importance": 0.8156,
+      "importance_score": 0.8156,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.8932,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -687,122 +887,120 @@
       }
     },
     {
-      "story_id": "story_53c15e4668db",
-      "title": "GitHub MCP 服务器支持下一个 MCP 规范 / GitHub MCP Server supports the next MCP specification",
-      "url": "https://github.blog/changelog/2026-07-23-github-mcp-server-supports-the-next-mcp-specification",
-      "primary_url": "https://github.blog/changelog/2026-07-23-github-mcp-server-supports-the-next-mcp-specification",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "08cfb2e1c50fdd903761c005e5754fb3541ba641",
-          "title": "GitHub MCP 服务器支持下一个 MCP 规范 / GitHub MCP Server supports the next MCP specification",
-          "url": "https://github.blog/changelog/2026-07-23-github-mcp-server-supports-the-next-mcp-specification",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-23T20:38:22Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "08cfb2e1c50fdd903761c005e5754fb3541ba641",
-          "title": "GitHub MCP 服务器支持下一个 MCP 规范 / GitHub MCP Server supports the next MCP specification",
-          "url": "https://github.blog/changelog/2026-07-23-github-mcp-server-supports-the-next-mcp-specification",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-23T20:38:22Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8126,
-      "importance": 0.8126,
-      "importance_score": 0.8126,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.6978,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-23T20:38:22Z",
-      "latest_at": "2026-07-23T20:38:22Z",
-      "primary_item": {
-        "id": "08cfb2e1c50fdd903761c005e5754fb3541ba641",
-        "title": "GitHub MCP 服务器支持下一个 MCP 规范 / GitHub MCP Server supports the next MCP specification",
-        "url": "https://github.blog/changelog/2026-07-23-github-mcp-server-supports-the-next-mcp-specification",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_b2ae458fcc7c",
-      "title": "DARPA 与美国空军试飞 AI 操控的 F-16 战机",
-      "url": "https://aihot.virxact.com/items/cmrxylm0f002xropg7xpd1pth",
-      "primary_url": "https://aihot.virxact.com/items/cmrxylm0f002xropg7xpd1pth",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "story_id": "story_8d9084828cfa",
+      "title": "Claude 语音模式现已支持 Opus、Sonnet 及连接工具与多语言",
+      "url": "https://aihot.virxact.com/items/cmrxxl53u03q5roxp15huqnni",
+      "primary_url": "https://aihot.virxact.com/items/cmrxxl53u03q5roxp15huqnni",
+      "source": "Claude：Blog（网页）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "923a9d9d36cc3fd72d9ee24683da231288f23055",
-          "title": "DARPA 与美国空军试飞 AI 操控的 F-16 战机",
-          "url": "https://aihot.virxact.com/items/cmrxylm0f002xropg7xpd1pth",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "id": "0e9152a14427e34269439eed73ead355d8535ec2",
+          "title": "Claude 语音模式现已支持 Opus、Sonnet 及连接工具与多语言",
+          "url": "https://aihot.virxact.com/items/cmrxxl53u03q5roxp15huqnni",
+          "source": "Claude：Blog（网页）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-23T20:11:31Z"
+          "published_at": "2026-07-23T19:55:29Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）"
+        "Claude：Blog（网页）"
       ],
       "items": [
         {
-          "id": "923a9d9d36cc3fd72d9ee24683da231288f23055",
-          "title": "DARPA 与美国空军试飞 AI 操控的 F-16 战机",
-          "url": "https://aihot.virxact.com/items/cmrxylm0f002xropg7xpd1pth",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "id": "0e9152a14427e34269439eed73ead355d8535ec2",
+          "title": "Claude 语音模式现已支持 Opus、Sonnet 及连接工具与多语言",
+          "url": "https://aihot.virxact.com/items/cmrxxl53u03q5roxp15huqnni",
+          "source": "Claude：Blog（网页）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-07-23T20:11:31Z"
+          "published_at": "2026-07-23T19:55:29Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7478,
-      "importance": 0.7478,
-      "importance_score": 0.7478,
+      "score": 0.7242,
+      "importance": 0.7242,
+      "importance_score": 0.7242,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6791,
+        "recency": 0.5612,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-07-23T20:11:31Z",
-      "latest_at": "2026-07-23T20:11:31Z",
+      "earliest_at": "2026-07-23T19:55:29Z",
+      "latest_at": "2026-07-23T19:55:29Z",
       "primary_item": {
-        "id": "923a9d9d36cc3fd72d9ee24683da231288f23055",
-        "title": "DARPA 与美国空军试飞 AI 操控的 F-16 战机",
-        "url": "https://aihot.virxact.com/items/cmrxylm0f002xropg7xpd1pth",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "id": "0e9152a14427e34269439eed73ead355d8535ec2",
+        "title": "Claude 语音模式现已支持 Opus、Sonnet 及连接工具与多语言",
+        "url": "https://aihot.virxact.com/items/cmrxxl53u03q5roxp15huqnni",
+        "source": "Claude：Blog（网页）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_d0e2fe8d261b",
+      "title": "ChatGPT 桌面版上线语音控制多智能体",
+      "url": "https://aihot.virxact.com/items/cmrxxi2qg03kcroxpcugdaldy",
+      "primary_url": "https://aihot.virxact.com/items/cmrxxi2qg03kcroxpcugdaldy",
+      "source": "X：OpenAI (@OpenAI)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "d89e0689c23f24d1304c5d3a1756ab0200489d7f",
+          "title": "ChatGPT 桌面版上线语音控制多智能体",
+          "url": "https://aihot.virxact.com/items/cmrxxi2qg03kcroxpcugdaldy",
+          "source": "X：OpenAI (@OpenAI)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-23T19:43:04Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：OpenAI (@OpenAI)"
+      ],
+      "items": [
+        {
+          "id": "d89e0689c23f24d1304c5d3a1756ab0200489d7f",
+          "title": "ChatGPT 桌面版上线语音控制多智能体",
+          "url": "https://aihot.virxact.com/items/cmrxxi2qg03kcroxpcugdaldy",
+          "source": "X：OpenAI (@OpenAI)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-23T19:43:04Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7225,
+      "importance": 0.7225,
+      "importance_score": 0.7225,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.5525,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-23T19:43:04Z",
+      "latest_at": "2026-07-23T19:43:04Z",
+      "primary_item": {
+        "id": "d89e0689c23f24d1304c5d3a1756ab0200489d7f",
+        "title": "ChatGPT 桌面版上线语音控制多智能体",
+        "url": "https://aihot.virxact.com/items/cmrxxi2qg03kcroxpcugdaldy",
+        "source": "X：OpenAI (@OpenAI)",
         "source_name": "AI HOT"
       }
     },
@@ -860,14 +1058,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.837,
-      "importance": 0.837,
-      "importance_score": 0.837,
+      "score": 0.8156,
+      "importance": 0.8156,
+      "importance_score": 0.8156,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.8932,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -887,239 +1085,64 @@
       }
     },
     {
-      "story_id": "story_8d9084828cfa",
-      "title": "Claude 语音模式现已支持 Opus、Sonnet 及连接工具与多语言",
-      "url": "https://aihot.virxact.com/items/cmrxxl53u03q5roxp15huqnni",
-      "primary_url": "https://aihot.virxact.com/items/cmrxxl53u03q5roxp15huqnni",
-      "source": "Claude：Blog（网页）",
-      "source_name": "AI HOT",
+      "story_id": "story_1c806736e9c9",
+      "title": "公共预览版中项目和问题的多选字段 / Multi-select fields for Projects and Issues in public preview",
+      "url": "https://github.blog/changelog/2026-07-23-multi-select-fields-for-projects-and-issues-in-public-preview",
+      "primary_url": "https://github.blog/changelog/2026-07-23-multi-select-fields-for-projects-and-issues-in-public-preview",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "0e9152a14427e34269439eed73ead355d8535ec2",
-          "title": "Claude 语音模式现已支持 Opus、Sonnet 及连接工具与多语言",
-          "url": "https://aihot.virxact.com/items/cmrxxl53u03q5roxp15huqnni",
-          "source": "Claude：Blog（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-23T19:55:29Z"
+          "id": "8fa7ae04b69a16a5964a8631df7b060c45ad167d",
+          "title": "公共预览版中项目和问题的多选字段 / Multi-select fields for Projects and Issues in public preview",
+          "url": "https://github.blog/changelog/2026-07-23-multi-select-fields-for-projects-and-issues-in-public-preview",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-23T18:19:14Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "Claude：Blog（网页）"
+        "GitHub Changelog"
       ],
       "items": [
         {
-          "id": "0e9152a14427e34269439eed73ead355d8535ec2",
-          "title": "Claude 语音模式现已支持 Opus、Sonnet 及连接工具与多语言",
-          "url": "https://aihot.virxact.com/items/cmrxxl53u03q5roxp15huqnni",
-          "source": "Claude：Blog（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-23T19:55:29Z"
+          "id": "8fa7ae04b69a16a5964a8631df7b060c45ad167d",
+          "title": "公共预览版中项目和问题的多选字段 / Multi-select fields for Projects and Issues in public preview",
+          "url": "https://github.blog/changelog/2026-07-23-multi-select-fields-for-projects-and-issues-in-public-preview",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-23T18:19:14Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7456,
-      "importance": 0.7456,
-      "importance_score": 0.7456,
-      "importance_label": "行业动态",
+      "score": 0.7599,
+      "importance": 0.7599,
+      "importance_score": 0.7599,
+      "importance_label": "官方更新",
       "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.668,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.4943,
         "story_heat": 0.0
       },
-      "category": "industry",
+      "category": "official",
       "reasons": [
-        "high_ai_relevance"
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-07-23T19:55:29Z",
-      "latest_at": "2026-07-23T19:55:29Z",
+      "earliest_at": "2026-07-23T18:19:14Z",
+      "latest_at": "2026-07-23T18:19:14Z",
       "primary_item": {
-        "id": "0e9152a14427e34269439eed73ead355d8535ec2",
-        "title": "Claude 语音模式现已支持 Opus、Sonnet 及连接工具与多语言",
-        "url": "https://aihot.virxact.com/items/cmrxxl53u03q5roxp15huqnni",
-        "source": "Claude：Blog（网页）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_d0e2fe8d261b",
-      "title": "ChatGPT 桌面版上线语音控制多智能体",
-      "url": "https://aihot.virxact.com/items/cmrxxi2qg03kcroxpcugdaldy",
-      "primary_url": "https://aihot.virxact.com/items/cmrxxi2qg03kcroxpcugdaldy",
-      "source": "X：OpenAI (@OpenAI)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "d89e0689c23f24d1304c5d3a1756ab0200489d7f",
-          "title": "ChatGPT 桌面版上线语音控制多智能体",
-          "url": "https://aihot.virxact.com/items/cmrxxi2qg03kcroxpcugdaldy",
-          "source": "X：OpenAI (@OpenAI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-23T19:43:04Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：OpenAI (@OpenAI)"
-      ],
-      "items": [
-        {
-          "id": "d89e0689c23f24d1304c5d3a1756ab0200489d7f",
-          "title": "ChatGPT 桌面版上线语音控制多智能体",
-          "url": "https://aihot.virxact.com/items/cmrxxi2qg03kcroxpcugdaldy",
-          "source": "X：OpenAI (@OpenAI)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-23T19:43:04Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7439,
-      "importance": 0.7439,
-      "importance_score": 0.7439,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6594,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-23T19:43:04Z",
-      "latest_at": "2026-07-23T19:43:04Z",
-      "primary_item": {
-        "id": "d89e0689c23f24d1304c5d3a1756ab0200489d7f",
-        "title": "ChatGPT 桌面版上线语音控制多智能体",
-        "url": "https://aihot.virxact.com/items/cmrxxi2qg03kcroxpcugdaldy",
-        "source": "X：OpenAI (@OpenAI)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_6dc48e3ac5e5",
-      "title": "ChatGPT 向美国用户推出健康功能",
-      "url": "https://aihot.virxact.com/items/cmrxubdvx02mjroxp2kzix1mf",
-      "primary_url": "https://aihot.virxact.com/items/cmrxubdvx02mjroxp2kzix1mf",
-      "source": "X：Greg Brockman (@gdb)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "846338864f10f73e3794526ef1a847d9ea1e88ce",
-          "title": "ChatGPT 向美国用户推出健康功能",
-          "url": "https://aihot.virxact.com/items/cmrxubdvx02mjroxp2kzix1mf",
-          "source": "X：Greg Brockman (@gdb)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-23T17:55:42Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Greg Brockman (@gdb)"
-      ],
-      "items": [
-        {
-          "id": "846338864f10f73e3794526ef1a847d9ea1e88ce",
-          "title": "ChatGPT 向美国用户推出健康功能",
-          "url": "https://aihot.virxact.com/items/cmrxubdvx02mjroxp2kzix1mf",
-          "source": "X：Greg Brockman (@gdb)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-23T17:55:42Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.729,
-      "importance": 0.729,
-      "importance_score": 0.729,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5848,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-23T17:55:42Z",
-      "latest_at": "2026-07-23T17:55:42Z",
-      "primary_item": {
-        "id": "846338864f10f73e3794526ef1a847d9ea1e88ce",
-        "title": "ChatGPT 向美国用户推出健康功能",
-        "url": "https://aihot.virxact.com/items/cmrxubdvx02mjroxp2kzix1mf",
-        "source": "X：Greg Brockman (@gdb)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_132026fba140",
-      "title": "OpenAI Workspace Agents 漏洞：一个 ChatGPT 链接即可创建恶意 AI 智能体",
-      "url": "https://aihot.virxact.com/items/cmrxs4yyw01xkroxpom7zfjvc",
-      "primary_url": "https://aihot.virxact.com/items/cmrxs4yyw01xkroxpom7zfjvc",
-      "source": "The Decoder：AI News（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "a630c86b47701ca35f4c9c805ba93ad43c47920d",
-          "title": "OpenAI Workspace Agents 漏洞：一个 ChatGPT 链接即可创建恶意 AI 智能体",
-          "url": "https://aihot.virxact.com/items/cmrxs4yyw01xkroxpom7zfjvc",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-23T17:01:30Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "The Decoder：AI News（RSS）"
-      ],
-      "items": [
-        {
-          "id": "a630c86b47701ca35f4c9c805ba93ad43c47920d",
-          "title": "OpenAI Workspace Agents 漏洞：一个 ChatGPT 链接即可创建恶意 AI 智能体",
-          "url": "https://aihot.virxact.com/items/cmrxs4yyw01xkroxpom7zfjvc",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-23T17:01:30Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7214,
-      "importance": 0.7214,
-      "importance_score": 0.7214,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5472,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-23T17:01:30Z",
-      "latest_at": "2026-07-23T17:01:30Z",
-      "primary_item": {
-        "id": "a630c86b47701ca35f4c9c805ba93ad43c47920d",
-        "title": "OpenAI Workspace Agents 漏洞：一个 ChatGPT 链接即可创建恶意 AI 智能体",
-        "url": "https://aihot.virxact.com/items/cmrxs4yyw01xkroxpom7zfjvc",
-        "source": "The Decoder：AI News（RSS）",
-        "source_name": "AI HOT"
+        "id": "8fa7ae04b69a16a5964a8631df7b060c45ad167d",
+        "title": "公共预览版中项目和问题的多选字段 / Multi-select fields for Projects and Issues in public preview",
+        "url": "https://github.blog/changelog/2026-07-23-multi-select-fields-for-projects-and-issues-in-public-preview",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -1176,14 +1199,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.837,
-      "importance": 0.837,
-      "importance_score": 0.837,
+      "score": 0.8156,
+      "importance": 0.8156,
+      "importance_score": 0.8156,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.8932,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1203,141 +1226,21 @@
       }
     },
     {
-      "story_id": "story_bfeaa2fdd231",
-      "title": "TheNumbers.com 因 AI 爬虫与安全攻击导致网站崩溃重建",
-      "url": "https://aihot.virxact.com/items/cmrxvduwi02z1roxph1bvkmmu",
-      "primary_url": "https://aihot.virxact.com/items/cmrxvduwi02z1roxph1bvkmmu",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "304eebeddc2543de53f3be72772404ed2c103832",
-          "title": "TheNumbers.com 因 AI 爬虫与安全攻击导致网站崩溃重建",
-          "url": "https://aihot.virxact.com/items/cmrxvduwi02z1roxph1bvkmmu",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-23T18:35:29Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）"
-      ],
-      "items": [
-        {
-          "id": "304eebeddc2543de53f3be72772404ed2c103832",
-          "title": "TheNumbers.com 因 AI 爬虫与安全攻击导致网站崩溃重建",
-          "url": "https://aihot.virxact.com/items/cmrxvduwi02z1roxph1bvkmmu",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-23T18:35:29Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7345,
-      "importance": 0.7345,
-      "importance_score": 0.7345,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6124,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-23T18:35:29Z",
-      "latest_at": "2026-07-23T18:35:29Z",
-      "primary_item": {
-        "id": "304eebeddc2543de53f3be72772404ed2c103832",
-        "title": "TheNumbers.com 因 AI 爬虫与安全攻击导致网站崩溃重建",
-        "url": "https://aihot.virxact.com/items/cmrxvduwi02z1roxph1bvkmmu",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_1c806736e9c9",
-      "title": "公共预览版中项目和问题的多选字段 / Multi-select fields for Projects and Issues in public preview",
-      "url": "https://github.blog/changelog/2026-07-23-multi-select-fields-for-projects-and-issues-in-public-preview",
-      "primary_url": "https://github.blog/changelog/2026-07-23-multi-select-fields-for-projects-and-issues-in-public-preview",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "8fa7ae04b69a16a5964a8631df7b060c45ad167d",
-          "title": "公共预览版中项目和问题的多选字段 / Multi-select fields for Projects and Issues in public preview",
-          "url": "https://github.blog/changelog/2026-07-23-multi-select-fields-for-projects-and-issues-in-public-preview",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-23T18:19:14Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "8fa7ae04b69a16a5964a8631df7b060c45ad167d",
-          "title": "公共预览版中项目和问题的多选字段 / Multi-select fields for Projects and Issues in public preview",
-          "url": "https://github.blog/changelog/2026-07-23-multi-select-fields-for-projects-and-issues-in-public-preview",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-23T18:19:14Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7812,
-      "importance": 0.7812,
-      "importance_score": 0.7812,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.6011,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-23T18:19:14Z",
-      "latest_at": "2026-07-23T18:19:14Z",
-      "primary_item": {
-        "id": "8fa7ae04b69a16a5964a8631df7b060c45ad167d",
-        "title": "公共预览版中项目和问题的多选字段 / Multi-select fields for Projects and Issues in public preview",
-        "url": "https://github.blog/changelog/2026-07-23-multi-select-fields-for-projects-and-issues-in-public-preview",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_21b584178115",
-      "title": "Alphabet 押注 Anthropic 浮盈千亿：股份价值飙升至约 1240 亿美元",
-      "url": "https://www.aibase.com/news/29854",
-      "primary_url": "https://www.aibase.com/news/29854",
+      "story_id": "story_8fd9659387dd",
+      "title": "ChatGPT 桌面端装上了\"真人口吻\"：GPT-Live 语音上线，你说话它就在后台干活",
+      "url": "https://www.aibase.com/news/29863",
+      "primary_url": "https://www.aibase.com/news/29863",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "197bca315ac314dc4a157e6a952edc64b88104bd",
-          "title": "Alphabet 押注 Anthropic 浮盈千亿：股份价值飙升至约 1240 亿美元",
-          "url": "https://www.aibase.com/news/29854",
+          "id": "4ef1aeff61248ba37a1eda260ccfa8aa426bb49c",
+          "title": "ChatGPT 桌面端装上了\"真人口吻\"：GPT-Live 语音上线，你说话它就在后台干活",
+          "url": "https://www.aibase.com/news/29863",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-24T03:53:35.711030Z"
+          "published_at": "2026-07-24T06:27:25.486761Z"
         }
       ],
       "source_count": 1,
@@ -1346,13 +1249,13 @@
       ],
       "items": [
         {
-          "id": "197bca315ac314dc4a157e6a952edc64b88104bd",
-          "title": "Alphabet 押注 Anthropic 浮盈千亿：股份价值飙升至约 1240 亿美元",
-          "url": "https://www.aibase.com/news/29854",
+          "id": "4ef1aeff61248ba37a1eda260ccfa8aa426bb49c",
+          "title": "ChatGPT 桌面端装上了\"真人口吻\"：GPT-Live 语音上线，你说话它就在后台干活",
+          "url": "https://www.aibase.com/news/29863",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-24T03:53:35.711030Z"
+          "published_at": "2026-07-24T06:27:25.486761Z"
         }
       ],
       "item_count": 1,
@@ -1372,12 +1275,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-24T03:53:35.711030Z",
-      "latest_at": "2026-07-24T03:53:35.711030Z",
+      "earliest_at": "2026-07-24T06:27:25.486761Z",
+      "latest_at": "2026-07-24T06:27:25.486761Z",
       "primary_item": {
-        "id": "197bca315ac314dc4a157e6a952edc64b88104bd",
-        "title": "Alphabet 押注 Anthropic 浮盈千亿：股份价值飙升至约 1240 亿美元",
-        "url": "https://www.aibase.com/news/29854",
+        "id": "4ef1aeff61248ba37a1eda260ccfa8aa426bb49c",
+        "title": "ChatGPT 桌面端装上了\"真人口吻\"：GPT-Live 语音上线，你说话它就在后台干活",
+        "url": "https://www.aibase.com/news/29863",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -1417,21 +1320,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7578,
-      "importance": 0.7578,
-      "importance_score": 0.7578,
+      "score": 0.7364,
+      "importance": 0.7364,
+      "importance_score": 0.7364,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.484,
+        "recency": 0.3771,
         "story_heat": 0.0
       },
       "category": "official",
       "reasons": [
         "official_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-23T15:30:29Z",
       "latest_at": "2026-07-23T15:30:29Z",
@@ -1444,21 +1346,21 @@
       }
     },
     {
-      "story_id": "story_ff0c03a1a781",
-      "title": "Anthropic 升级 Claude 语音模式:支持旗舰模型与第三方应用跨生态联动",
-      "url": "https://www.aibase.com/news/29848",
-      "primary_url": "https://www.aibase.com/news/29848",
+      "story_id": "story_898952157f6d",
+      "title": "Claude 语音模式终于用上 Opus 了：从\"随口问答\"升级成能调工具、换语言的实时参谋",
+      "url": "https://www.aibase.com/news/29867",
+      "primary_url": "https://www.aibase.com/news/29867",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "c937b54990992105f2a742fc1f7e1471aa5ad1c2",
-          "title": "Anthropic 升级 Claude 语音模式:支持旗舰模型与第三方应用跨生态联动",
-          "url": "https://www.aibase.com/news/29848",
+          "id": "5f020cfb8e3d775d434548b60935ca452d2c05c7",
+          "title": "Claude 语音模式终于用上 Opus 了：从\"随口问答\"升级成能调工具、换语言的实时参谋",
+          "url": "https://www.aibase.com/news/29867",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-24T03:53:35.711030Z"
+          "published_at": "2026-07-24T06:27:25.486761Z"
         }
       ],
       "source_count": 1,
@@ -1467,13 +1369,13 @@
       ],
       "items": [
         {
-          "id": "c937b54990992105f2a742fc1f7e1471aa5ad1c2",
-          "title": "Anthropic 升级 Claude 语音模式:支持旗舰模型与第三方应用跨生态联动",
-          "url": "https://www.aibase.com/news/29848",
+          "id": "5f020cfb8e3d775d434548b60935ca452d2c05c7",
+          "title": "Claude 语音模式终于用上 Opus 了：从\"随口问答\"升级成能调工具、换语言的实时参谋",
+          "url": "https://www.aibase.com/news/29867",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-07-24T03:53:35.711030Z"
+          "published_at": "2026-07-24T06:27:25.486761Z"
         }
       ],
       "item_count": 1,
@@ -1493,14 +1395,152 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-24T03:53:35.711030Z",
-      "latest_at": "2026-07-24T03:53:35.711030Z",
+      "earliest_at": "2026-07-24T06:27:25.486761Z",
+      "latest_at": "2026-07-24T06:27:25.486761Z",
       "primary_item": {
-        "id": "c937b54990992105f2a742fc1f7e1471aa5ad1c2",
-        "title": "Anthropic 升级 Claude 语音模式:支持旗舰模型与第三方应用跨生态联动",
-        "url": "https://www.aibase.com/news/29848",
+        "id": "5f020cfb8e3d775d434548b60935ca452d2c05c7",
+        "title": "Claude 语音模式终于用上 Opus 了：从\"随口问答\"升级成能调工具、换语言的实时参谋",
+        "url": "https://www.aibase.com/news/29867",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_79262ab72aab",
+      "title": "腾讯甩出 WorkBuddy Bench：一套把代码、网页、办公、安全全装进来的编码智能体考场",
+      "url": "https://www.aibase.com/news/29864",
+      "primary_url": "https://www.aibase.com/news/29864",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "72594ddc9ba39e2aab4601598043e48c3d592c06",
+          "title": "腾讯甩出 WorkBuddy Bench：一套把代码、网页、办公、安全全装进来的编码智能体考场",
+          "url": "https://www.aibase.com/news/29864",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-24T06:27:25.486761Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "72594ddc9ba39e2aab4601598043e48c3d592c06",
+          "title": "腾讯甩出 WorkBuddy Bench：一套把代码、网页、办公、安全全装进来的编码智能体考场",
+          "url": "https://www.aibase.com/news/29864",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-24T06:27:25.486761Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-24T06:27:25.486761Z",
+      "latest_at": "2026-07-24T06:27:25.486761Z",
+      "primary_item": {
+        "id": "72594ddc9ba39e2aab4601598043e48c3d592c06",
+        "title": "腾讯甩出 WorkBuddy Bench：一套把代码、网页、办公、安全全装进来的编码智能体考场",
+        "url": "https://www.aibase.com/news/29864",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_e11418d8a710",
+      "title": "第一个已知的失控人工智能代理——还是一个非常糟糕的营销噱头？ / The first known runaway AI agent - or a very bad marketing stunt?",
+      "url": "https://simonwillison.net/2026/Jul/23/the-first-known-runaway-ai-agent",
+      "primary_url": "https://simonwillison.net/2026/Jul/23/the-first-known-runaway-ai-agent",
+      "source": "Simon Willison",
+      "source_name": "OPML RSS",
+      "sources": [
+        {
+          "id": "a00deeec4ebb46d9624eb4bba5acb576ae0fe1cf",
+          "title": "第一个已知的失控人工智能代理——还是一个非常糟糕的营销噱头？ / The first known runaway AI agent - or a very bad marketing stunt?",
+          "url": "https://simonwillison.net/2026/Jul/23/the-first-known-runaway-ai-agent",
+          "source": "Simon Willison",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-23T22:53:08Z"
+        },
+        {
+          "id": "2b9267bb442e5304e97ddc53fe0a3e0dbed644d4",
+          "title": "第一个已知的失控人工智能代理——还是一个非常糟糕的营销噱头？ / The first known runaway AI agent-or a very bad marketing stunt?",
+          "url": "https://simonwillison.net/2026/Jul/23/the-first-known-runaway-ai-agent",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Readhub · AI",
+        "Simon Willison"
+      ],
+      "items": [
+        {
+          "id": "a00deeec4ebb46d9624eb4bba5acb576ae0fe1cf",
+          "title": "第一个已知的失控人工智能代理——还是一个非常糟糕的营销噱头？ / The first known runaway AI agent - or a very bad marketing stunt?",
+          "url": "https://simonwillison.net/2026/Jul/23/the-first-known-runaway-ai-agent",
+          "source": "Simon Willison",
+          "source_name": "OPML RSS",
+          "site_id": "opmlrss",
+          "published_at": "2026-07-23T22:53:08Z"
+        },
+        {
+          "id": "2b9267bb442e5304e97ddc53fe0a3e0dbed644d4",
+          "title": "第一个已知的失控人工智能代理——还是一个非常糟糕的营销噱头？ / The first known runaway AI agent-or a very bad marketing stunt?",
+          "url": "https://simonwillison.net/2026/Jul/23/the-first-known-runaway-ai-agent",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5629,
+      "importance": 0.5629,
+      "importance_score": 0.5629,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.5,
+        "ai_relevance": 0.67,
+        "recency": 0.6845,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-23T22:53:08Z",
+      "latest_at": "2026-07-24T00:06:13.586270Z",
+      "primary_item": {
+        "id": "a00deeec4ebb46d9624eb4bba5acb576ae0fe1cf",
+        "title": "第一个已知的失控人工智能代理——还是一个非常糟糕的营销噱头？ / The first known runaway AI agent - or a very bad marketing stunt?",
+        "url": "https://simonwillison.net/2026/Jul/23/the-first-known-runaway-ai-agent",
+        "source": "Simon Willison",
+        "source_name": "OPML RSS"
       }
     }
   ]
