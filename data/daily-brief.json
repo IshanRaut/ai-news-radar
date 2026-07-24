@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-07-24T18:59:09.235709Z",
+  "generated_at": "2026-07-24T20:26:16.497544Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260725-0459-302d-89b5-812c8081330f&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260725-0459-302d-89b5-812c8081330f&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260725-0626-38ad-b166-9d266d670c13&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260725-0626-38ad-b166-9d266d670c13&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "f3c106fabf6d661754696fc214e09d64b751b5eb",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260725-0626-38ad-b166-9d266d670c13&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "40e8fb4eb6d9f19fbc70a10b9f754d0263c74001",
           "title": "点击这里进入 / Click here to enter",
@@ -96,15 +105,6 @@
           "id": "769d6175209697b57460f5c4715d1b6c65ed7c73",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260724-0735-51b1-9d5c-fff8c02cead0&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "08046459d954647f19e4f3b4fa999528ab49261d",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260724-0614-4424-8be5-ba70de94486e&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -117,6 +117,15 @@
       ],
       "items": [
         {
+          "id": "f3c106fabf6d661754696fc214e09d64b751b5eb",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260725-0626-38ad-b166-9d266d670c13&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "40e8fb4eb6d9f19fbc70a10b9f754d0263c74001",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260725-0459-302d-89b5-812c8081330f&fp=-3",
@@ -201,15 +210,6 @@
           "id": "769d6175209697b57460f5c4715d1b6c65ed7c73",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260724-0735-51b1-9d5c-fff8c02cead0&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "08046459d954647f19e4f3b4fa999528ab49261d",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260724-0614-4424-8be5-ba70de94486e&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -234,12 +234,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-23T20:14:24.596170Z",
-      "latest_at": "2026-07-24T18:59:09.235709Z",
+      "earliest_at": "2026-07-23T21:35:29.067573Z",
+      "latest_at": "2026-07-24T20:26:16.497544Z",
       "primary_item": {
-        "id": "40e8fb4eb6d9f19fbc70a10b9f754d0263c74001",
+        "id": "f3c106fabf6d661754696fc214e09d64b751b5eb",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260725-0459-302d-89b5-812c8081330f&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260725-0626-38ad-b166-9d266d670c13&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
       }
@@ -279,14 +279,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8657,
-      "importance": 0.8657,
-      "importance_score": 0.8657,
+      "score": 0.8536,
+      "importance": 0.8536,
+      "importance_score": 0.8536,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9034,
+        "recency": 0.8429,
         "story_heat": 0.0
       },
       "category": "official",
@@ -303,6 +303,66 @@
         "url": "https://github.blog/changelog/2026-07-24-claude-opus-5-is-now-available-in-github-copilot",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_0d0ad2c6f93e",
+      "title": "英伟达、微软和Meta联合警告：应避免对开放权重模型过度监管",
+      "url": "https://aihot.virxact.com/items/cmrzbx19q0032roqz8nwff6am",
+      "primary_url": "https://aihot.virxact.com/items/cmrzbx19q0032roqz8nwff6am",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "df526b8ac39ecd88aa7681862b2c6e0b2646389a",
+          "title": "英伟达、微软和Meta联合警告：应避免对开放权重模型过度监管",
+          "url": "https://aihot.virxact.com/items/cmrzbx19q0032roqz8nwff6am",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-24T19:07:52Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）"
+      ],
+      "items": [
+        {
+          "id": "df526b8ac39ecd88aa7681862b2c6e0b2646389a",
+          "title": "英伟达、微软和Meta联合警告：应避免对开放权重模型过度监管",
+          "url": "https://aihot.virxact.com/items/cmrzbx19q0032roqz8nwff6am",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-24T19:07:52Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8011,
+      "importance": 0.8011,
+      "importance_score": 0.8011,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9455,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-24T19:07:52Z",
+      "latest_at": "2026-07-24T19:07:52Z",
+      "primary_item": {
+        "id": "df526b8ac39ecd88aa7681862b2c6e0b2646389a",
+        "title": "英伟达、微软和Meta联合警告：应避免对开放权重模型过度监管",
+        "url": "https://aihot.virxact.com/items/cmrzbx19q0032roqz8nwff6am",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -340,14 +400,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.799,
-      "importance": 0.799,
-      "importance_score": 0.799,
+      "score": 0.7869,
+      "importance": 0.7869,
+      "importance_score": 0.7869,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9352,
+        "recency": 0.8747,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -400,14 +460,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7988,
-      "importance": 0.7988,
-      "importance_score": 0.7988,
+      "score": 0.7867,
+      "importance": 0.7867,
+      "importance_score": 0.7867,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9342,
+        "recency": 0.8737,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -460,14 +520,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7824,
-      "importance": 0.7824,
-      "importance_score": 0.7824,
+      "score": 0.7703,
+      "importance": 0.7703,
+      "importance_score": 0.7703,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8518,
+        "recency": 0.7913,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -520,14 +580,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7677,
-      "importance": 0.7677,
-      "importance_score": 0.7677,
+      "score": 0.7556,
+      "importance": 0.7556,
+      "importance_score": 0.7556,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7785,
+        "recency": 0.718,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -580,14 +640,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7677,
-      "importance": 0.7677,
-      "importance_score": 0.7677,
+      "score": 0.7556,
+      "importance": 0.7556,
+      "importance_score": 0.7556,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7787,
+        "recency": 0.7182,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -640,14 +700,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.766,
-      "importance": 0.766,
-      "importance_score": 0.766,
+      "score": 0.7539,
+      "importance": 0.7539,
+      "importance_score": 0.7539,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.77,
+        "recency": 0.7095,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -700,20 +760,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7577,
-      "importance": 0.7577,
-      "importance_score": 0.7577,
+      "score": 0.7456,
+      "importance": 0.7456,
+      "importance_score": 0.7456,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7286,
+        "recency": 0.6681,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-24T12:28:24Z",
       "latest_at": "2026-07-24T12:28:24Z",
@@ -779,21 +838,20 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7545,
-      "importance": 0.7545,
-      "importance_score": 0.7545,
+      "score": 0.7424,
+      "importance": 0.7424,
+      "importance_score": 0.7424,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.5873,
+        "recency": 0.5268,
         "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-24T09:04:52.607076Z",
       "latest_at": "2026-07-24T11:17:09.844552Z",
@@ -803,66 +861,6 @@
         "url": "https://www.aibase.com/news/29878",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_d585c40377ed",
-      "title": "FLUX 3 x mimic：新一代视频动作模型",
-      "url": "https://aihot.virxact.com/items/cmrywwsva05zgrolgrh7uc4ls",
-      "primary_url": "https://aihot.virxact.com/items/cmrywwsva05zgrolgrh7uc4ls",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "906c0a023490f85a21fa7b983bcd7790871a9061",
-          "title": "FLUX 3 x mimic：新一代视频动作模型",
-          "url": "https://aihot.virxact.com/items/cmrywwsva05zgrolgrh7uc4ls",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-24T11:55:45Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）"
-      ],
-      "items": [
-        {
-          "id": "906c0a023490f85a21fa7b983bcd7790871a9061",
-          "title": "FLUX 3 x mimic：新一代视频动作模型",
-          "url": "https://aihot.virxact.com/items/cmrywwsva05zgrolgrh7uc4ls",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-24T11:55:45Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7532,
-      "importance": 0.7532,
-      "importance_score": 0.7532,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.706,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-24T11:55:45Z",
-      "latest_at": "2026-07-24T11:55:45Z",
-      "primary_item": {
-        "id": "906c0a023490f85a21fa7b983bcd7790871a9061",
-        "title": "FLUX 3 x mimic：新一代视频动作模型",
-        "url": "https://aihot.virxact.com/items/cmrywwsva05zgrolgrh7uc4ls",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -919,22 +917,21 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7518,
-      "importance": 0.7518,
-      "importance_score": 0.7518,
+      "score": 0.7397,
+      "importance": 0.7397,
+      "importance_score": 0.7397,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.2089,
+        "recency": 0.1484,
         "story_heat": 0.25
       },
       "category": "official",
       "reasons": [
         "official_source",
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-24T00:00:00Z",
       "latest_at": "2026-07-24T16:57:41Z",
@@ -981,14 +978,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7355,
-      "importance": 0.7355,
-      "importance_score": 0.7355,
+      "score": 0.7234,
+      "importance": 0.7234,
+      "importance_score": 0.7234,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6176,
+        "recency": 0.5571,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1002,6 +999,65 @@
         "title": "Kimi K3 在网络安全漏洞利用测试中大幅落后美国前沿模型，知识蒸馏或为原因",
         "url": "https://aihot.virxact.com/items/cmryrih7804c9rolge6wdk3v8",
         "source": "The Decoder：AI News（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_d585c40377ed",
+      "title": "FLUX 3 x mimic：新一代视频动作模型",
+      "url": "https://aihot.virxact.com/items/cmrywwsva05zgrolgrh7uc4ls",
+      "primary_url": "https://aihot.virxact.com/items/cmrywwsva05zgrolgrh7uc4ls",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "906c0a023490f85a21fa7b983bcd7790871a9061",
+          "title": "FLUX 3 x mimic：新一代视频动作模型",
+          "url": "https://aihot.virxact.com/items/cmrywwsva05zgrolgrh7uc4ls",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-24T11:55:45Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）"
+      ],
+      "items": [
+        {
+          "id": "906c0a023490f85a21fa7b983bcd7790871a9061",
+          "title": "FLUX 3 x mimic：新一代视频动作模型",
+          "url": "https://aihot.virxact.com/items/cmrywwsva05zgrolgrh7uc4ls",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-24T11:55:45Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7411,
+      "importance": 0.7411,
+      "importance_score": 0.7411,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.6455,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-24T11:55:45Z",
+      "latest_at": "2026-07-24T11:55:45Z",
+      "primary_item": {
+        "id": "906c0a023490f85a21fa7b983bcd7790871a9061",
+        "title": "FLUX 3 x mimic：新一代视频动作模型",
+        "url": "https://aihot.virxact.com/items/cmrywwsva05zgrolgrh7uc4ls",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
       }
     },
@@ -1040,14 +1096,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7478,
-      "importance": 0.7478,
-      "importance_score": 0.7478,
+      "score": 0.7357,
+      "importance": 0.7357,
+      "importance_score": 0.7357,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6792,
+        "recency": 0.6187,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1060,6 +1116,65 @@
         "id": "a3404a9d2a7b48d96b1c4c0e8850bc3d474446e5",
         "title": "Kimi K3 攻防考卷翻车：漏洞利用只到美国前沿模型四成，蒸馏疑云被安全机构摆上台",
         "url": "https://www.aibase.com/news/29881",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_538fbca60cb9",
+      "title": "红果短剧发布AI角色规范，专项整治“高频AI脸”与素材侵权",
+      "url": "https://www.aibase.com/news/29879",
+      "primary_url": "https://www.aibase.com/news/29879",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "73f202821fdad56b7559a6d316da467d75b4e508",
+          "title": "红果短剧发布AI角色规范，专项整治“高频AI脸”与素材侵权",
+          "url": "https://www.aibase.com/news/29879",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-24T11:17:09.844552Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "73f202821fdad56b7559a6d316da467d75b4e508",
+          "title": "红果短剧发布AI角色规范，专项整治“高频AI脸”与素材侵权",
+          "url": "https://www.aibase.com/news/29879",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-24T11:17:09.844552Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7357,
+      "importance": 0.7357,
+      "importance_score": 0.7357,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.6187,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-24T11:17:09.844552Z",
+      "latest_at": "2026-07-24T11:17:09.844552Z",
+      "primary_item": {
+        "id": "73f202821fdad56b7559a6d316da467d75b4e508",
+        "title": "红果短剧发布AI角色规范，专项整治“高频AI脸”与素材侵权",
+        "url": "https://www.aibase.com/news/29879",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -1099,14 +1214,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7354,
-      "importance": 0.7354,
-      "importance_score": 0.7354,
+      "score": 0.7233,
+      "importance": 0.7233,
+      "importance_score": 0.7233,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6169,
+        "recency": 0.5564,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1121,65 +1236,6 @@
         "url": "https://aihot.virxact.com/items/cmryrjtlb04ehrolgi1zd6eqv",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_538fbca60cb9",
-      "title": "红果短剧发布AI角色规范，专项整治“高频AI脸”与素材侵权",
-      "url": "https://www.aibase.com/news/29879",
-      "primary_url": "https://www.aibase.com/news/29879",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "73f202821fdad56b7559a6d316da467d75b4e508",
-          "title": "红果短剧发布AI角色规范，专项整治“高频AI脸”与素材侵权",
-          "url": "https://www.aibase.com/news/29879",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-24T11:17:09.844552Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "73f202821fdad56b7559a6d316da467d75b4e508",
-          "title": "红果短剧发布AI角色规范，专项整治“高频AI脸”与素材侵权",
-          "url": "https://www.aibase.com/news/29879",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-24T11:17:09.844552Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7478,
-      "importance": 0.7478,
-      "importance_score": 0.7478,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6792,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-24T11:17:09.844552Z",
-      "latest_at": "2026-07-24T11:17:09.844552Z",
-      "primary_item": {
-        "id": "73f202821fdad56b7559a6d316da467d75b4e508",
-        "title": "红果短剧发布AI角色规范，专项整治“高频AI脸”与素材侵权",
-        "url": "https://www.aibase.com/news/29879",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     },
     {
@@ -1236,14 +1292,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6747,
-      "importance": 0.6747,
-      "importance_score": 0.6747,
+      "score": 0.6626,
+      "importance": 0.6626,
+      "importance_score": 0.6626,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.1886,
+        "recency": 0.1281,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1296,14 +1352,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7478,
-      "importance": 0.7478,
-      "importance_score": 0.7478,
+      "score": 0.7357,
+      "importance": 0.7357,
+      "importance_score": 0.7357,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6792,
+        "recency": 0.6187,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1374,14 +1430,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7326,
-      "importance": 0.7326,
-      "importance_score": 0.7326,
+      "score": 0.7205,
+      "importance": 0.7205,
+      "importance_score": 0.7205,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.478,
+        "recency": 0.4175,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1395,65 +1451,6 @@
         "id": "b00270cbadede8a5f07839b1d3db8f69424deb3f",
         "title": "德国黑森林实验室发布Flux3 多模态模型：原生音频生成， 20 秒音视频同步输出",
         "url": "https://www.aibase.com/news/29865",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_86a897ea7bdc",
-      "title": "ChatGPT桌面应用上线语音模式：口述需求AI多线程干活，冲杯咖啡的功夫会议纪要就备好了",
-      "url": "https://www.aibase.com/news/29868",
-      "primary_url": "https://www.aibase.com/news/29868",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "fffe3486c09bd6abbe8f32fe1d2223a4af225b7c",
-          "title": "ChatGPT桌面应用上线语音模式：口述需求AI多线程干活，冲杯咖啡的功夫会议纪要就备好了",
-          "url": "https://www.aibase.com/news/29868",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-24T09:04:52.607076Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "fffe3486c09bd6abbe8f32fe1d2223a4af225b7c",
-          "title": "ChatGPT桌面应用上线语音模式：口述需求AI多线程干活，冲杯咖啡的功夫会议纪要就备好了",
-          "url": "https://www.aibase.com/news/29868",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-24T09:04:52.607076Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7295,
-      "importance": 0.7295,
-      "importance_score": 0.7295,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5873,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-24T09:04:52.607076Z",
-      "latest_at": "2026-07-24T09:04:52.607076Z",
-      "primary_item": {
-        "id": "fffe3486c09bd6abbe8f32fe1d2223a4af225b7c",
-        "title": "ChatGPT桌面应用上线语音模式：口述需求AI多线程干活，冲杯咖啡的功夫会议纪要就备好了",
-        "url": "https://www.aibase.com/news/29868",
         "source": "AIbase",
         "source_name": "AIbase"
       }
