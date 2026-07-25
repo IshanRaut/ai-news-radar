@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-07-25T21:58:17.910601Z",
+  "generated_at": "2026-07-25T23:02:28.198059Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260726-0758-3835-a000-34272257c5b7&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260726-0758-3835-a000-34272257c5b7&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260726-0902-49d2-8a08-21029f81ab47&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260726-0902-49d2-8a08-21029f81ab47&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "fcb7b1e5bcc4aa595a83b7f653d11e1bd24f3dd1",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260726-0902-49d2-8a08-21029f81ab47&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "ef82454222dfe9b02ebaa31eacce43a24b64ca86",
           "title": "点击这里进入 / Click here to enter",
@@ -138,12 +147,21 @@
           "published_at": null
         }
       ],
-      "source_count": 14,
+      "source_count": 15,
       "source_names": [
         "Page Fallback"
       ],
       "items": [
         {
+          "id": "fcb7b1e5bcc4aa595a83b7f653d11e1bd24f3dd1",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260726-0902-49d2-8a08-21029f81ab47&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "ef82454222dfe9b02ebaa31eacce43a24b64ca86",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260726-0758-3835-a000-34272257c5b7&fp=-3",
@@ -270,8 +288,8 @@
           "published_at": null
         }
       ],
-      "item_count": 14,
-      "duplicate_count": 14,
+      "item_count": 15,
+      "duplicate_count": 15,
       "score": 0.912,
       "importance": 0.912,
       "importance_score": 0.912,
@@ -289,11 +307,11 @@
         "high_importance"
       ],
       "earliest_at": "2026-07-24T23:03:04.765511Z",
-      "latest_at": "2026-07-25T21:58:17.910601Z",
+      "latest_at": "2026-07-25T23:02:28.198059Z",
       "primary_item": {
-        "id": "ef82454222dfe9b02ebaa31eacce43a24b64ca86",
+        "id": "fcb7b1e5bcc4aa595a83b7f653d11e1bd24f3dd1",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260726-0758-3835-a000-34272257c5b7&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260726-0902-49d2-8a08-21029f81ab47&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
       }
@@ -333,14 +351,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7436,
-      "importance": 0.7436,
-      "importance_score": 0.7436,
+      "score": 0.7347,
+      "importance": 0.7347,
+      "importance_score": 0.7347,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.658,
+        "recency": 0.6134,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -411,14 +429,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6635,
-      "importance": 0.6635,
-      "importance_score": 0.6635,
+      "score": 0.6545,
+      "importance": 0.6545,
+      "importance_score": 0.6545,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.1323,
+        "recency": 0.0877,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -509,14 +527,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.573,
-      "importance": 0.573,
-      "importance_score": 0.573,
+      "score": 0.5641,
+      "importance": 0.5641,
+      "importance_score": 0.5641,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9557,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -606,14 +624,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5425,
-      "importance": 0.5425,
-      "importance_score": 0.5425,
+      "score": 0.5336,
+      "importance": 0.5336,
+      "importance_score": 0.5336,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8477,
+        "recency": 0.8032,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -684,14 +702,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5398,
-      "importance": 0.5398,
-      "importance_score": 0.5398,
+      "score": 0.5309,
+      "importance": 0.5309,
+      "importance_score": 0.5309,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.959,
+        "recency": 0.9144,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -706,6 +724,162 @@
         "url": "https://www.businessinsider.com/hugging-face-ceo-clem-delangue-openai-rogue-agent-hack-2026-7",
         "source": "www.businessinsider.com",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_98671c483284",
+      "title": "Show HN: 《扫雷》光线投射版",
+      "url": "https://claude.ai/public/artifacts/725f961b-09dc-4a66-8dac-8fefeeb69a1f",
+      "primary_url": "https://claude.ai/public/artifacts/725f961b-09dc-4a66-8dac-8fefeeb69a1f",
+      "source": "claude.ai",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "3d68415b38169758e0b2b648b3d0f4b666afe3cb",
+          "title": "Show HN: 《扫雷》光线投射版",
+          "url": "https://claude.ai/public/artifacts/725f961b-09dc-4a66-8dac-8fefeeb69a1f",
+          "source": "claude.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-25T19:55:34.429000Z"
+        },
+        {
+          "id": "b10d196f4f488a28a88a5c185e8566c9136e6700",
+          "title": "Show HN: 《扫雷》光线投射版 / Show HN: Minesweeper Raycasted",
+          "url": "https://claude.ai/public/artifacts/725f961b-09dc-4a66-8dac-8fefeeb69a1f",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-25T19:39:12Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "claude.ai"
+      ],
+      "items": [
+        {
+          "id": "3d68415b38169758e0b2b648b3d0f4b666afe3cb",
+          "title": "Show HN: 《扫雷》光线投射版",
+          "url": "https://claude.ai/public/artifacts/725f961b-09dc-4a66-8dac-8fefeeb69a1f",
+          "source": "claude.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-25T19:55:34.429000Z"
+        },
+        {
+          "id": "b10d196f4f488a28a88a5c185e8566c9136e6700",
+          "title": "Show HN: 《扫雷》光线投射版 / Show HN: Minesweeper Raycasted",
+          "url": "https://claude.ai/public/artifacts/725f961b-09dc-4a66-8dac-8fefeeb69a1f",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-25T19:39:12Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.522,
+      "importance": 0.522,
+      "importance_score": 0.522,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8702,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-25T19:39:12Z",
+      "latest_at": "2026-07-25T19:55:34.429000Z",
+      "primary_item": {
+        "id": "3d68415b38169758e0b2b648b3d0f4b666afe3cb",
+        "title": "Show HN: 《扫雷》光线投射版",
+        "url": "https://claude.ai/public/artifacts/725f961b-09dc-4a66-8dac-8fefeeb69a1f",
+        "source": "claude.ai",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_10e81be27811",
+      "title": "一般性决议：Debian 中 LLM 的使用 / General Resolution: LLM Usage in Debian",
+      "url": "https://www.debian.org/vote/2026/vote_002",
+      "primary_url": "https://www.debian.org/vote/2026/vote_002",
+      "source": "Hacker News (黑客新闻)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "d3fe5a4b6cb367c561830d4d61ab506f19190492",
+          "title": "一般性决议：Debian 中 LLM 的使用 / General Resolution: LLM Usage in Debian",
+          "url": "https://www.debian.org/vote/2026/vote_002",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-25T19:44:39Z"
+        },
+        {
+          "id": "2b682424df001cccc95deeebffe4929f3f51f13c",
+          "title": "一般性决议：Debian 中 LLM 的使用",
+          "url": "https://www.debian.org/vote/2026/vote_002",
+          "source": "www.debian.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-25T16:27:16.797000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "www.debian.org"
+      ],
+      "items": [
+        {
+          "id": "d3fe5a4b6cb367c561830d4d61ab506f19190492",
+          "title": "一般性决议：Debian 中 LLM 的使用 / General Resolution: LLM Usage in Debian",
+          "url": "https://www.debian.org/vote/2026/vote_002",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-25T19:44:39Z"
+        },
+        {
+          "id": "2b682424df001cccc95deeebffe4929f3f51f13c",
+          "title": "一般性决议：Debian 中 LLM 的使用",
+          "url": "https://www.debian.org/vote/2026/vote_002",
+          "source": "www.debian.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-25T16:27:16.797000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5205,
+      "importance": 0.5205,
+      "importance_score": 0.5205,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8626,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-25T16:27:16.797000Z",
+      "latest_at": "2026-07-25T19:44:39Z",
+      "primary_item": {
+        "id": "d3fe5a4b6cb367c561830d4d61ab506f19190492",
+        "title": "一般性决议：Debian 中 LLM 的使用 / General Resolution: LLM Usage in Debian",
+        "url": "https://www.debian.org/vote/2026/vote_002",
+        "source": "Hacker News (黑客新闻)",
+        "source_name": "Info Flow"
       }
     },
     {
@@ -762,14 +936,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.548,
-      "importance": 0.548,
-      "importance_score": 0.548,
+      "score": 0.5391,
+      "importance": 0.5391,
+      "importance_score": 0.5391,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9557,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -839,14 +1013,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5026,
-      "importance": 0.5026,
-      "importance_score": 0.5026,
+      "score": 0.4937,
+      "importance": 0.4937,
+      "importance_score": 0.4937,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7729,
+        "recency": 0.7283,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -861,84 +1035,6 @@
         "url": "https://www.youtube.com/watch?v=wlYa8NV5k-U",
         "source": "Hacker News · 24h最热",
         "source_name": "Zeli"
-      }
-    },
-    {
-      "story_id": "story_10e81be27811",
-      "title": "一般性决议：Debian 中 LLM 的使用",
-      "url": "https://www.debian.org/vote/2026/vote_002",
-      "primary_url": "https://www.debian.org/vote/2026/vote_002",
-      "source": "www.debian.org",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "2b682424df001cccc95deeebffe4929f3f51f13c",
-          "title": "一般性决议：Debian 中 LLM 的使用",
-          "url": "https://www.debian.org/vote/2026/vote_002",
-          "source": "www.debian.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-25T16:27:16.797000Z"
-        },
-        {
-          "id": "8f313cdf55a1f6800b7b760ff68b1f9aff655ca1",
-          "title": "一般性决议：Debian 中 LLM 的使用 / General Resolution: LLM usage in Debian",
-          "url": "https://www.debian.org/vote/2026/vote_002",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-25T16:10:47Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Lobsters (技术社区)",
-        "www.debian.org"
-      ],
-      "items": [
-        {
-          "id": "2b682424df001cccc95deeebffe4929f3f51f13c",
-          "title": "一般性决议：Debian 中 LLM 的使用",
-          "url": "https://www.debian.org/vote/2026/vote_002",
-          "source": "www.debian.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-25T16:27:16.797000Z"
-        },
-        {
-          "id": "8f313cdf55a1f6800b7b760ff68b1f9aff655ca1",
-          "title": "一般性决议：Debian 中 LLM 的使用 / General Resolution: LLM usage in Debian",
-          "url": "https://www.debian.org/vote/2026/vote_002",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-25T16:10:47Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.502,
-      "importance": 0.502,
-      "importance_score": 0.502,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7701,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-25T16:10:47Z",
-      "latest_at": "2026-07-25T16:27:16.797000Z",
-      "primary_item": {
-        "id": "2b682424df001cccc95deeebffe4929f3f51f13c",
-        "title": "一般性决议：Debian 中 LLM 的使用",
-        "url": "https://www.debian.org/vote/2026/vote_002",
-        "source": "www.debian.org",
-        "source_name": "Buzzing"
       }
     },
     {
@@ -994,14 +1090,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5264,
-      "importance": 0.5264,
-      "importance_score": 0.5264,
+      "score": 0.5175,
+      "importance": 0.5175,
+      "importance_score": 0.5175,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8919,
+        "recency": 0.8474,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1072,14 +1168,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4873,
-      "importance": 0.4873,
-      "importance_score": 0.4873,
+      "score": 0.4784,
+      "importance": 0.4784,
+      "importance_score": 0.4784,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6964,
+        "recency": 0.6518,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1167,14 +1263,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.4537,
-      "importance": 0.4537,
-      "importance_score": 0.4537,
+      "score": 0.4448,
+      "importance": 0.4448,
+      "importance_score": 0.4448,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.4036,
+        "recency": 0.3591,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1245,14 +1341,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4753,
-      "importance": 0.4753,
-      "importance_score": 0.4753,
+      "score": 0.4664,
+      "importance": 0.4664,
+      "importance_score": 0.4664,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6365,
+        "recency": 0.5919,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1322,14 +1418,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4424,
-      "importance": 0.4424,
-      "importance_score": 0.4424,
+      "score": 0.4335,
+      "importance": 0.4335,
+      "importance_score": 0.4335,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.4722,
+        "recency": 0.4276,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1400,14 +1496,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4065,
-      "importance": 0.4065,
-      "importance_score": 0.4065,
+      "score": 0.3976,
+      "importance": 0.3976,
+      "importance_score": 0.3976,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.2927,
+        "recency": 0.2481,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1478,14 +1574,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4044,
-      "importance": 0.4044,
-      "importance_score": 0.4044,
+      "score": 0.3955,
+      "importance": 0.3955,
+      "importance_score": 0.3955,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.2822,
+        "recency": 0.2376,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1556,14 +1652,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4531,
-      "importance": 0.4531,
-      "importance_score": 0.4531,
+      "score": 0.4442,
+      "importance": 0.4442,
+      "importance_score": 0.4442,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.5256,
+        "recency": 0.481,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1634,14 +1730,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4804,
-      "importance": 0.4804,
-      "importance_score": 0.4804,
+      "score": 0.4715,
+      "importance": 0.4715,
+      "importance_score": 0.4715,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6622,
+        "recency": 0.6176,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1712,14 +1808,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.3766,
-      "importance": 0.3766,
-      "importance_score": 0.3766,
+      "score": 0.3677,
+      "importance": 0.3677,
+      "importance_score": 0.3677,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.143,
+        "recency": 0.0984,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1734,84 +1830,6 @@
         "url": "https://36kr.com/newsflashes/3910374290707844?f=rss",
         "source": "36氪 (36Kr)",
         "source_name": "Info Flow"
-      }
-    },
-    {
-      "story_id": "story_bbb0789ef07d",
-      "title": "是警告性行动还是噱头——我们该对OpenAI遭黑客攻击一事有多担心？",
-      "url": "https://www.bbc.co.uk/news/articles/cd9w22n9e4go?at_medium=RSS&at_campaign=rss",
-      "primary_url": "https://www.bbc.co.uk/news/articles/cd9w22n9e4go?at_medium=RSS&at_campaign=rss",
-      "source": "www.bbc.co.uk",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "1b64e19f9e8fe51f86837d22583e161467328660",
-          "title": "是警告性行动还是噱头——我们该对OpenAI遭黑客攻击一事有多担心？",
-          "url": "https://www.bbc.co.uk/news/articles/cd9w22n9e4go?at_medium=RSS&at_campaign=rss",
-          "source": "www.bbc.co.uk",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-24T23:39:48.013000Z"
-        },
-        {
-          "id": "e0708f69e05de4da0a4fc19e8eeddea00515ed7c",
-          "title": "是警告性行动还是噱头——我们该对OpenAI遭黑客攻击一事有多担心？ / Warning shot or publicity stunt - how worried should we be about the OpenAI hack?",
-          "url": "https://www.bbc.co.uk/news/articles/cd9w22n9e4go?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News (世界新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-24T23:11:13Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "BBC News (世界新闻)",
-        "www.bbc.co.uk"
-      ],
-      "items": [
-        {
-          "id": "1b64e19f9e8fe51f86837d22583e161467328660",
-          "title": "是警告性行动还是噱头——我们该对OpenAI遭黑客攻击一事有多担心？",
-          "url": "https://www.bbc.co.uk/news/articles/cd9w22n9e4go?at_medium=RSS&at_campaign=rss",
-          "source": "www.bbc.co.uk",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-24T23:39:48.013000Z"
-        },
-        {
-          "id": "e0708f69e05de4da0a4fc19e8eeddea00515ed7c",
-          "title": "是警告性行动还是噱头——我们该对OpenAI遭黑客攻击一事有多担心？ / Warning shot or publicity stunt - how worried should we be about the OpenAI hack?",
-          "url": "https://www.bbc.co.uk/news/articles/cd9w22n9e4go?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News (世界新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-24T23:11:13Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.3621,
-      "importance": 0.3621,
-      "importance_score": 0.3621,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.0705,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-24T23:11:13Z",
-      "latest_at": "2026-07-24T23:39:48.013000Z",
-      "primary_item": {
-        "id": "1b64e19f9e8fe51f86837d22583e161467328660",
-        "title": "是警告性行动还是噱头——我们该对OpenAI遭黑客攻击一事有多担心？",
-        "url": "https://www.bbc.co.uk/news/articles/cd9w22n9e4go?at_medium=RSS&at_campaign=rss",
-        "source": "www.bbc.co.uk",
-        "source_name": "Buzzing"
       }
     }
   ]
