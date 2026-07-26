@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-07-26T16:02:44.326901Z",
+  "generated_at": "2026-07-26T17:33:13.366877Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260727-0203-0794-8868-26d3cf976b5d&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260727-0203-0794-8868-26d3cf976b5d&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260727-0333-3834-a0ba-24d54f3b5606&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260727-0333-3834-a0ba-24d54f3b5606&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "13d6df7b7ab6bb0daef1ded91088c93d96b1f900",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260727-0333-3834-a0ba-24d54f3b5606&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "2306fefdd50fef176fa59b230055c27e2f1c1d8c",
           "title": "点击这里进入 / Click here to enter",
@@ -123,15 +132,6 @@
           "id": "b3c7eff43ae462e60799deea09300aa5bef37685",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260726-0427-197c-a6f3-d775184239f5&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "8e1fbfdcae550d58d6ba0999890effa856719bf5",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260726-0302-312d-b103-5c7fc7b00d0b&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -144,6 +144,15 @@
       ],
       "items": [
         {
+          "id": "13d6df7b7ab6bb0daef1ded91088c93d96b1f900",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260727-0333-3834-a0ba-24d54f3b5606&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "2306fefdd50fef176fa59b230055c27e2f1c1d8c",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260727-0203-0794-8868-26d3cf976b5d&fp=-3",
@@ -255,15 +264,6 @@
           "id": "b3c7eff43ae462e60799deea09300aa5bef37685",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260726-0427-197c-a6f3-d775184239f5&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "8e1fbfdcae550d58d6ba0999890effa856719bf5",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260726-0302-312d-b103-5c7fc7b00d0b&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -288,12 +288,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-25T17:02:10.455597Z",
-      "latest_at": "2026-07-26T16:02:44.326901Z",
+      "earliest_at": "2026-07-25T18:26:55.368954Z",
+      "latest_at": "2026-07-26T17:33:13.366877Z",
       "primary_item": {
-        "id": "2306fefdd50fef176fa59b230055c27e2f1c1d8c",
+        "id": "13d6df7b7ab6bb0daef1ded91088c93d96b1f900",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260727-0203-0794-8868-26d3cf976b5d&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260727-0333-3834-a0ba-24d54f3b5606&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
       }
@@ -352,14 +352,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8109,
-      "importance": 0.8109,
-      "importance_score": 0.8109,
+      "score": 0.7983,
+      "importance": 0.7983,
+      "importance_score": 0.7983,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8693,
+        "recency": 0.8064,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -413,14 +413,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7499,
-      "importance": 0.7499,
-      "importance_score": 0.7499,
+      "score": 0.7374,
+      "importance": 0.7374,
+      "importance_score": 0.7374,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6896,
+        "recency": 0.6268,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -438,72 +438,22 @@
       }
     },
     {
-      "story_id": "story_c51783154ab9",
-      "title": "Claude Opus 5 系统提示词被完整泄露，共 135027 字符、约 3.4 万 token",
-      "url": "https://aihot.virxact.com/items/cms1dpz52040tro0w3c4a9c8p",
-      "primary_url": "https://aihot.virxact.com/items/cms1dpz52040tro0w3c4a9c8p",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "85c3c404aa189e4cdcc854baad3807fd168236b4",
-          "title": "Claude Opus 5 系统提示词被完整泄露，共 135027 字符、约 3.4 万 token",
-          "url": "https://aihot.virxact.com/items/cms1dpz52040tro0w3c4a9c8p",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-26T05:33:44Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "85c3c404aa189e4cdcc854baad3807fd168236b4",
-          "title": "Claude Opus 5 系统提示词被完整泄露，共 135027 字符、约 3.4 万 token",
-          "url": "https://aihot.virxact.com/items/cms1dpz52040tro0w3c4a9c8p",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-26T05:33:44Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7246,
-      "importance": 0.7246,
-      "importance_score": 0.7246,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5632,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-26T05:33:44Z",
-      "latest_at": "2026-07-26T05:33:44Z",
-      "primary_item": {
-        "id": "85c3c404aa189e4cdcc854baad3807fd168236b4",
-        "title": "Claude Opus 5 系统提示词被完整泄露，共 135027 字符、约 3.4 万 token",
-        "url": "https://aihot.virxact.com/items/cms1dpz52040tro0w3c4a9c8p",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
       "story_id": "story_b6ef92302bcf",
-      "title": "伦敦盖特威克机场的机器人停车 / Park by Robot at London Gatwick Airport",
-      "url": "https://news.ycombinator.com/item?id=49058669",
-      "primary_url": "https://news.ycombinator.com/item?id=49058669",
-      "source": "hackernews",
-      "source_name": "NewsNow",
+      "title": "伦敦盖特威克机场的“Park by Robot”服务",
+      "url": "https://aerospaceglobalnews.com/news/gatwick-airport-robotic-parking-stanley-robotics",
+      "primary_url": "https://aerospaceglobalnews.com/news/gatwick-airport-robotic-parking-stanley-robotics",
+      "source": "aerospaceglobalnews.com",
+      "source_name": "Buzzing",
       "sources": [
+        {
+          "id": "c587265a466725b1c337d817a8f4656bc09439b0",
+          "title": "伦敦盖特威克机场的“Park by Robot”服务",
+          "url": "https://aerospaceglobalnews.com/news/gatwick-airport-robotic-parking-stanley-robotics",
+          "source": "aerospaceglobalnews.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-26T16:42:46.682000Z"
+        },
         {
           "id": "3d4be54686faf701e2a0288142ee15d24e8336a4",
           "title": "伦敦盖特威克机场的机器人停车 / Park by Robot at London Gatwick Airport",
@@ -515,12 +465,100 @@
         },
         {
           "id": "5f0f3e2bad15b81e229cadbf583c6e687db8fbc8",
-          "title": "伦敦盖特威克机场的机器人停车 / Park by Robot at London Gatwick Airport",
+          "title": "伦敦盖特威克机场的“Park by Robot”服务 / Park by Robot at London Gatwick Airport",
           "url": "https://aerospaceglobalnews.com/news/gatwick-airport-robotic-parking-stanley-robotics",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
           "published_at": "2026-07-26T14:40:27Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "aerospaceglobalnews.com",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "c587265a466725b1c337d817a8f4656bc09439b0",
+          "title": "伦敦盖特威克机场的“Park by Robot”服务",
+          "url": "https://aerospaceglobalnews.com/news/gatwick-airport-robotic-parking-stanley-robotics",
+          "source": "aerospaceglobalnews.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-26T16:42:46.682000Z"
+        },
+        {
+          "id": "3d4be54686faf701e2a0288142ee15d24e8336a4",
+          "title": "伦敦盖特威克机场的机器人停车 / Park by Robot at London Gatwick Airport",
+          "url": "https://news.ycombinator.com/item?id=49058669",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-26T16:03:10.192000Z"
+        },
+        {
+          "id": "5f0f3e2bad15b81e229cadbf583c6e687db8fbc8",
+          "title": "伦敦盖特威克机场的“Park by Robot”服务 / Park by Robot at London Gatwick Airport",
+          "url": "https://aerospaceglobalnews.com/news/gatwick-airport-robotic-parking-stanley-robotics",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-26T14:40:27Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.566,
+      "importance": 0.566,
+      "importance_score": 0.566,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.965,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-26T14:40:27Z",
+      "latest_at": "2026-07-26T16:42:46.682000Z",
+      "primary_item": {
+        "id": "c587265a466725b1c337d817a8f4656bc09439b0",
+        "title": "伦敦盖特威克机场的“Park by Robot”服务",
+        "url": "https://aerospaceglobalnews.com/news/gatwick-airport-robotic-parking-stanley-robotics",
+        "source": "aerospaceglobalnews.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_8a0d9544ac70",
+      "title": "如果法学硕士通过推论本身逃脱怎么办？这是虚构的。目前 / What if LLMs escape through inferences itself? This is fiction. For now",
+      "url": "https://news.ycombinator.com/item?id=49059660",
+      "primary_url": "https://news.ycombinator.com/item?id=49059660",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "25a7e5aae8560b4877253af6722e9d5bc4d56dad",
+          "title": "如果法学硕士通过推论本身逃脱怎么办？这是虚构的。目前 / What if LLMs escape through inferences itself? This is fiction. For now",
+          "url": "https://news.ycombinator.com/item?id=49059660",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-26T17:33:41.709000Z"
+        },
+        {
+          "id": "41563f469b48a8f0422b62656e807ad63c4ca31b",
+          "title": "如果法学硕士通过推论本身逃脱怎么办？这是虚构的。目前 / What if LLMs escape through inferences itself? This is fiction. For now",
+          "url": "https://www.agrillo.it/EvasionEn.html",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-26T16:23:56Z"
         }
       ],
       "source_count": 2,
@@ -530,22 +568,22 @@
       ],
       "items": [
         {
-          "id": "3d4be54686faf701e2a0288142ee15d24e8336a4",
-          "title": "伦敦盖特威克机场的机器人停车 / Park by Robot at London Gatwick Airport",
-          "url": "https://news.ycombinator.com/item?id=49058669",
+          "id": "25a7e5aae8560b4877253af6722e9d5bc4d56dad",
+          "title": "如果法学硕士通过推论本身逃脱怎么办？这是虚构的。目前 / What if LLMs escape through inferences itself? This is fiction. For now",
+          "url": "https://news.ycombinator.com/item?id=49059660",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-07-26T16:03:10.192000Z"
+          "published_at": "2026-07-26T17:33:41.709000Z"
         },
         {
-          "id": "5f0f3e2bad15b81e229cadbf583c6e687db8fbc8",
-          "title": "伦敦盖特威克机场的机器人停车 / Park by Robot at London Gatwick Airport",
-          "url": "https://aerospaceglobalnews.com/news/gatwick-airport-robotic-parking-stanley-robotics",
+          "id": "41563f469b48a8f0422b62656e807ad63c4ca31b",
+          "title": "如果法学硕士通过推论本身逃脱怎么办？这是虚构的。目前 / What if LLMs escape through inferences itself? This is fiction. For now",
+          "url": "https://www.agrillo.it/EvasionEn.html",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-07-26T14:40:27Z"
+          "published_at": "2026-07-26T16:23:56Z"
         }
       ],
       "item_count": 2,
@@ -564,12 +602,12 @@
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-26T14:40:27Z",
-      "latest_at": "2026-07-26T16:03:10.192000Z",
+      "earliest_at": "2026-07-26T16:23:56Z",
+      "latest_at": "2026-07-26T17:33:41.709000Z",
       "primary_item": {
-        "id": "3d4be54686faf701e2a0288142ee15d24e8336a4",
-        "title": "伦敦盖特威克机场的机器人停车 / Park by Robot at London Gatwick Airport",
-        "url": "https://news.ycombinator.com/item?id=49058669",
+        "id": "25a7e5aae8560b4877253af6722e9d5bc4d56dad",
+        "title": "如果法学硕士通过推论本身逃脱怎么办？这是虚构的。目前 / What if LLMs escape through inferences itself? This is fiction. For now",
+        "url": "https://news.ycombinator.com/item?id=49059660",
         "source": "hackernews",
         "source_name": "NewsNow"
       }
@@ -628,14 +666,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5269,
-      "importance": 0.5269,
-      "importance_score": 0.5269,
+      "score": 0.5143,
+      "importance": 0.5143,
+      "importance_score": 0.5143,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8946,
+        "recency": 0.8317,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -706,14 +744,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.548,
-      "importance": 0.548,
-      "importance_score": 0.548,
+      "score": 0.5355,
+      "importance": 0.5355,
+      "importance_score": 0.5355,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9375,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -784,14 +822,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5069,
-      "importance": 0.5069,
-      "importance_score": 0.5069,
+      "score": 0.4943,
+      "importance": 0.4943,
+      "importance_score": 0.4943,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7945,
+        "recency": 0.7317,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -881,14 +919,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5052,
-      "importance": 0.5052,
-      "importance_score": 0.5052,
+      "score": 0.4927,
+      "importance": 0.4927,
+      "importance_score": 0.4927,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6612,
+        "recency": 0.5984,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -902,120 +940,6 @@
         "title": "Cloudflare 面向客户推出的全新 AI 流量管理选项",
         "url": "https://blog.cloudflare.com/content-independence-day-ai-options",
         "source": "blog.cloudflare.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_10e81be27811",
-      "title": "Debian 中 LLM 的应用：三项提案",
-      "url": "https://www.debian.org/vote/2026/vote_002",
-      "primary_url": "https://www.debian.org/vote/2026/vote_002",
-      "source": "www.debian.org",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "9bfae41a1dc2c4bce839e86bc83ef35602f2a5b4",
-          "title": "Debian 中 LLM 的应用：三项提案",
-          "url": "https://www.debian.org/vote/2026/vote_002",
-          "source": "www.debian.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-26T03:54:52.336000Z"
-        },
-        {
-          "id": "d3fe5a4b6cb367c561830d4d61ab506f19190492",
-          "title": "一般性决议：Debian 中 LLM 的使用 / General Resolution: LLM Usage in Debian",
-          "url": "https://www.debian.org/vote/2026/vote_002",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-25T19:44:39Z"
-        },
-        {
-          "id": "99e8214f738422118ebf82a01fed4ba438a21132",
-          "title": "一般性决议：Debian 中 LLM 的使用 / LLM Usage in Debian: Three Proposals",
-          "url": "https://www.debian.org/vote/2026/vote_002",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-25T19:44:39Z"
-        },
-        {
-          "id": "2b682424df001cccc95deeebffe4929f3f51f13c",
-          "title": "一般性决议：Debian 中 LLM 的使用",
-          "url": "https://www.debian.org/vote/2026/vote_002",
-          "source": "www.debian.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-25T16:27:16.797000Z"
-        }
-      ],
-      "source_count": 4,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "www.debian.org"
-      ],
-      "items": [
-        {
-          "id": "9bfae41a1dc2c4bce839e86bc83ef35602f2a5b4",
-          "title": "Debian 中 LLM 的应用：三项提案",
-          "url": "https://www.debian.org/vote/2026/vote_002",
-          "source": "www.debian.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-26T03:54:52.336000Z"
-        },
-        {
-          "id": "d3fe5a4b6cb367c561830d4d61ab506f19190492",
-          "title": "一般性决议：Debian 中 LLM 的使用 / General Resolution: LLM Usage in Debian",
-          "url": "https://www.debian.org/vote/2026/vote_002",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-25T19:44:39Z"
-        },
-        {
-          "id": "99e8214f738422118ebf82a01fed4ba438a21132",
-          "title": "一般性决议：Debian 中 LLM 的使用 / LLM Usage in Debian: Three Proposals",
-          "url": "https://www.debian.org/vote/2026/vote_002",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-25T19:44:39Z"
-        },
-        {
-          "id": "2b682424df001cccc95deeebffe4929f3f51f13c",
-          "title": "一般性决议：Debian 中 LLM 的使用",
-          "url": "https://www.debian.org/vote/2026/vote_002",
-          "source": "www.debian.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-25T16:27:16.797000Z"
-        }
-      ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.4969,
-      "importance": 0.4969,
-      "importance_score": 0.4969,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.4945,
-        "story_heat": 0.75
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-25T16:27:16.797000Z",
-      "latest_at": "2026-07-26T03:54:52.336000Z",
-      "primary_item": {
-        "id": "9bfae41a1dc2c4bce839e86bc83ef35602f2a5b4",
-        "title": "Debian 中 LLM 的应用：三项提案",
-        "url": "https://www.debian.org/vote/2026/vote_002",
-        "source": "www.debian.org",
         "source_name": "Buzzing"
       }
     },
@@ -1073,14 +997,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.478,
-      "importance": 0.478,
-      "importance_score": 0.478,
+      "score": 0.4655,
+      "importance": 0.4655,
+      "importance_score": 0.4655,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6501,
+        "recency": 0.5873,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1094,6 +1018,102 @@
         "title": "Inflect-Micro-v2：仅需936万个参数即可实现完整的语音模型",
         "url": "https://huggingface.co/owensong/Inflect-Micro-v2",
         "source": "huggingface.co",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_10e81be27811",
+      "title": "Debian 中 LLM 的应用：三项提案",
+      "url": "https://www.debian.org/vote/2026/vote_002",
+      "primary_url": "https://www.debian.org/vote/2026/vote_002",
+      "source": "www.debian.org",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "9bfae41a1dc2c4bce839e86bc83ef35602f2a5b4",
+          "title": "Debian 中 LLM 的应用：三项提案",
+          "url": "https://www.debian.org/vote/2026/vote_002",
+          "source": "www.debian.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-26T03:54:52.336000Z"
+        },
+        {
+          "id": "d3fe5a4b6cb367c561830d4d61ab506f19190492",
+          "title": "Debian 中 LLM 的应用：三项提案 / General Resolution: LLM Usage in Debian",
+          "url": "https://www.debian.org/vote/2026/vote_002",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-25T19:44:39Z"
+        },
+        {
+          "id": "99e8214f738422118ebf82a01fed4ba438a21132",
+          "title": "Debian 中 LLM 的应用：三项提案 / LLM Usage in Debian: Three Proposals",
+          "url": "https://www.debian.org/vote/2026/vote_002",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-25T19:44:39Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "www.debian.org"
+      ],
+      "items": [
+        {
+          "id": "9bfae41a1dc2c4bce839e86bc83ef35602f2a5b4",
+          "title": "Debian 中 LLM 的应用：三项提案",
+          "url": "https://www.debian.org/vote/2026/vote_002",
+          "source": "www.debian.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-26T03:54:52.336000Z"
+        },
+        {
+          "id": "d3fe5a4b6cb367c561830d4d61ab506f19190492",
+          "title": "Debian 中 LLM 的应用：三项提案 / General Resolution: LLM Usage in Debian",
+          "url": "https://www.debian.org/vote/2026/vote_002",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-25T19:44:39Z"
+        },
+        {
+          "id": "99e8214f738422118ebf82a01fed4ba438a21132",
+          "title": "Debian 中 LLM 的应用：三项提案 / LLM Usage in Debian: Three Proposals",
+          "url": "https://www.debian.org/vote/2026/vote_002",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-25T19:44:39Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.4593,
+      "importance": 0.4593,
+      "importance_score": 0.4593,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.4317,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-25T19:44:39Z",
+      "latest_at": "2026-07-26T03:54:52.336000Z",
+      "primary_item": {
+        "id": "9bfae41a1dc2c4bce839e86bc83ef35602f2a5b4",
+        "title": "Debian 中 LLM 的应用：三项提案",
+        "url": "https://www.debian.org/vote/2026/vote_002",
+        "source": "www.debian.org",
         "source_name": "Buzzing"
       }
     },
@@ -1170,14 +1190,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.4719,
-      "importance": 0.4719,
-      "importance_score": 0.4719,
+      "score": 0.4593,
+      "importance": 0.4593,
+      "importance_score": 0.4593,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.4945,
+        "recency": 0.4317,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1248,14 +1268,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5002,
-      "importance": 0.5002,
-      "importance_score": 0.5002,
+      "score": 0.4877,
+      "importance": 0.4877,
+      "importance_score": 0.4877,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7612,
+        "recency": 0.6983,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1345,14 +1365,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.4342,
-      "importance": 0.4342,
-      "importance_score": 0.4342,
+      "score": 0.4216,
+      "importance": 0.4216,
+      "importance_score": 0.4216,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.3058,
+        "recency": 0.243,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1422,14 +1442,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4341,
-      "importance": 0.4341,
-      "importance_score": 0.4341,
+      "score": 0.4215,
+      "importance": 0.4215,
+      "importance_score": 0.4215,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.4303,
+        "recency": 0.3675,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1500,14 +1520,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4847,
-      "importance": 0.4847,
-      "importance_score": 0.4847,
+      "score": 0.4721,
+      "importance": 0.4721,
+      "importance_score": 0.4721,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6834,
+        "recency": 0.6206,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1578,14 +1598,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4237,
-      "importance": 0.4237,
-      "importance_score": 0.4237,
+      "score": 0.4111,
+      "importance": 0.4111,
+      "importance_score": 0.4111,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.3784,
+        "recency": 0.3156,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1656,14 +1676,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4469,
-      "importance": 0.4469,
-      "importance_score": 0.4469,
+      "score": 0.4343,
+      "importance": 0.4343,
+      "importance_score": 0.4343,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.4945,
+        "recency": 0.4317,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1734,14 +1754,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.3803,
-      "importance": 0.3803,
-      "importance_score": 0.3803,
+      "score": 0.3678,
+      "importance": 0.3678,
+      "importance_score": 0.3678,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.1617,
+        "recency": 0.0989,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1811,14 +1831,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4237,
-      "importance": 0.4237,
-      "importance_score": 0.4237,
+      "score": 0.4112,
+      "importance": 0.4112,
+      "importance_score": 0.4112,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.3787,
+        "recency": 0.3159,
         "story_heat": 0.25
       },
       "category": "watch",
