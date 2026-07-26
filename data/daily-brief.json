@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-07-26T01:07:41.013351Z",
+  "generated_at": "2026-07-26T04:58:50.880843Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260726-1108-0337-820e-786ad9937eb3&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260726-1108-0337-820e-786ad9937eb3&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260726-1459-13e6-b573-ca61875c748d&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260726-1459-13e6-b573-ca61875c748d&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "5b5863a1125e0eef88e78de969372dd460a72802",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260726-1459-13e6-b573-ca61875c748d&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "4bec98a31a0175894c337745077146d47521c6a7",
           "title": "点击这里进入 / Click here to enter",
@@ -123,15 +132,6 @@
           "id": "713857784fda67255eb7c06948e8bbb7dcd7a022",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260725-1719-43b2-bb29-5d7d18fdfe16&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "2b061436ae6a0a61af71e3f2c6ed9900afb38d05",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260725-1445-003f-8171-4415e2449097&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -144,6 +144,15 @@
       ],
       "items": [
         {
+          "id": "5b5863a1125e0eef88e78de969372dd460a72802",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260726-1459-13e6-b573-ca61875c748d&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "4bec98a31a0175894c337745077146d47521c6a7",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260726-1108-0337-820e-786ad9937eb3&fp=-3",
@@ -255,15 +264,6 @@
           "id": "713857784fda67255eb7c06948e8bbb7dcd7a022",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260725-1719-43b2-bb29-5d7d18fdfe16&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "2b061436ae6a0a61af71e3f2c6ed9900afb38d05",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260725-1445-003f-8171-4415e2449097&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -288,14 +288,74 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-25T04:44:36.403679Z",
-      "latest_at": "2026-07-26T01:07:41.013351Z",
+      "earliest_at": "2026-07-25T07:19:21.469789Z",
+      "latest_at": "2026-07-26T04:58:50.880843Z",
       "primary_item": {
-        "id": "4bec98a31a0175894c337745077146d47521c6a7",
+        "id": "5b5863a1125e0eef88e78de969372dd460a72802",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260726-1108-0337-820e-786ad9937eb3&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260726-1459-13e6-b573-ca61875c748d&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
+      }
+    },
+    {
+      "story_id": "story_73ab447bb1af",
+      "title": "在 8 美元的 ESP32-S3 微控制器上运行 28.9M 参数大语言模型",
+      "url": "https://aihot.virxact.com/items/cms1ao381037kro0wqp7mg4x3",
+      "primary_url": "https://aihot.virxact.com/items/cms1ao381037kro0wqp7mg4x3",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "b75de599aeb52fb06f19ea035ce2f220c4e42798",
+          "title": "在 8 美元的 ESP32-S3 微控制器上运行 28.9M 参数大语言模型",
+          "url": "https://aihot.virxact.com/items/cms1ao381037kro0wqp7mg4x3",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-26T03:54:52Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）"
+      ],
+      "items": [
+        {
+          "id": "b75de599aeb52fb06f19ea035ce2f220c4e42798",
+          "title": "在 8 美元的 ESP32-S3 微控制器上运行 28.9M 参数大语言模型",
+          "url": "https://aihot.virxact.com/items/cms1ao381037kro0wqp7mg4x3",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-26T03:54:52Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8031,
+      "importance": 0.8031,
+      "importance_score": 0.8031,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9556,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-26T03:54:52Z",
+      "latest_at": "2026-07-26T03:54:52Z",
+      "primary_item": {
+        "id": "b75de599aeb52fb06f19ea035ce2f220c4e42798",
+        "title": "在 8 美元的 ESP32-S3 微控制器上运行 28.9M 参数大语言模型",
+        "url": "https://aihot.virxact.com/items/cms1ao381037kro0wqp7mg4x3",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -333,14 +393,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8062,
-      "importance": 0.8062,
-      "importance_score": 0.8062,
+      "score": 0.7741,
+      "importance": 0.7741,
+      "importance_score": 0.7741,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9708,
+        "recency": 0.8103,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -359,82 +419,214 @@
       }
     },
     {
-      "story_id": "story_fd7969533d87",
-      "title": "OpenAI 智能体入侵 Hugging Face，消息人士称 OpenAI 至少一周都没察觉",
-      "url": "https://aihot.virxact.com/items/cmrzpp5580011ro6dkcqp7blk",
-      "primary_url": "https://aihot.virxact.com/items/cmrzpp5580011ro6dkcqp7blk",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
+      "story_id": "story_10e81be27811",
+      "title": "Debian 中 LLM 的应用：三项提案",
+      "url": "https://www.debian.org/vote/2026/vote_002",
+      "primary_url": "https://www.debian.org/vote/2026/vote_002",
+      "source": "www.debian.org",
+      "source_name": "Buzzing",
       "sources": [
         {
-          "id": "052a35b513283955aba5f613c1a50c3093101961",
-          "title": "OpenAI 智能体入侵 Hugging Face，消息人士称 OpenAI 至少一周都没察觉",
-          "url": "https://aihot.virxact.com/items/cmrzpp5580011ro6dkcqp7blk",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-25T01:08:45Z"
+          "id": "9bfae41a1dc2c4bce839e86bc83ef35602f2a5b4",
+          "title": "Debian 中 LLM 的应用：三项提案",
+          "url": "https://www.debian.org/vote/2026/vote_002",
+          "source": "www.debian.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-26T03:54:52.336000Z"
         },
         {
-          "id": "ff5c3fdc9f519b95299f6a7c9f635bafad19a485",
-          "title": "智能体入侵 Hugging Face，消息人士称 OpenAI 至少一周都没察觉",
-          "url": "https://www.ithome.com/0/981/432.htm",
-          "source": "IT之家 (ITHome)",
+          "id": "d3fe5a4b6cb367c561830d4d61ab506f19190492",
+          "title": "一般性决议：Debian 中 LLM 的使用 / General Resolution: LLM Usage in Debian",
+          "url": "https://www.debian.org/vote/2026/vote_002",
+          "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-07-25T01:08:45Z"
+          "published_at": "2026-07-25T19:44:39Z"
+        },
+        {
+          "id": "99e8214f738422118ebf82a01fed4ba438a21132",
+          "title": "一般性决议：Debian 中 LLM 的使用 / LLM Usage in Debian: Three Proposals",
+          "url": "https://www.debian.org/vote/2026/vote_002",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-25T19:44:39Z"
+        },
+        {
+          "id": "2b682424df001cccc95deeebffe4929f3f51f13c",
+          "title": "一般性决议：Debian 中 LLM 的使用",
+          "url": "https://www.debian.org/vote/2026/vote_002",
+          "source": "www.debian.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-25T16:27:16.797000Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 4,
       "source_names": [
-        "IT之家 (ITHome)",
-        "IT之家（RSS）"
+        "Hacker News (黑客新闻)",
+        "www.debian.org"
       ],
       "items": [
         {
-          "id": "052a35b513283955aba5f613c1a50c3093101961",
-          "title": "OpenAI 智能体入侵 Hugging Face，消息人士称 OpenAI 至少一周都没察觉",
-          "url": "https://aihot.virxact.com/items/cmrzpp5580011ro6dkcqp7blk",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-25T01:08:45Z"
+          "id": "9bfae41a1dc2c4bce839e86bc83ef35602f2a5b4",
+          "title": "Debian 中 LLM 的应用：三项提案",
+          "url": "https://www.debian.org/vote/2026/vote_002",
+          "source": "www.debian.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-26T03:54:52.336000Z"
         },
         {
-          "id": "ff5c3fdc9f519b95299f6a7c9f635bafad19a485",
-          "title": "智能体入侵 Hugging Face，消息人士称 OpenAI 至少一周都没察觉",
-          "url": "https://www.ithome.com/0/981/432.htm",
-          "source": "IT之家 (ITHome)",
+          "id": "d3fe5a4b6cb367c561830d4d61ab506f19190492",
+          "title": "一般性决议：Debian 中 LLM 的使用 / General Resolution: LLM Usage in Debian",
+          "url": "https://www.debian.org/vote/2026/vote_002",
+          "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-07-25T01:08:45Z"
+          "published_at": "2026-07-25T19:44:39Z"
+        },
+        {
+          "id": "99e8214f738422118ebf82a01fed4ba438a21132",
+          "title": "一般性决议：Debian 中 LLM 的使用 / LLM Usage in Debian: Three Proposals",
+          "url": "https://www.debian.org/vote/2026/vote_002",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-25T19:44:39Z"
+        },
+        {
+          "id": "2b682424df001cccc95deeebffe4929f3f51f13c",
+          "title": "一般性决议：Debian 中 LLM 的使用",
+          "url": "https://www.debian.org/vote/2026/vote_002",
+          "source": "www.debian.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-25T16:27:16.797000Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.6371,
-      "importance": 0.6371,
-      "importance_score": 0.6371,
-      "importance_label": "值得关注",
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.5891,
+      "importance": 0.5891,
+      "importance_score": 0.5891,
+      "importance_label": "多源热议",
       "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.0007,
-        "story_heat": 0.25
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9556,
+        "story_heat": 0.75
       },
-      "category": "watch",
+      "category": "multi_source",
       "reasons": [
-        "multi_source",
-        "high_ai_relevance"
+        "multi_source"
       ],
-      "earliest_at": "2026-07-25T01:08:45Z",
-      "latest_at": "2026-07-25T01:08:45Z",
+      "earliest_at": "2026-07-25T16:27:16.797000Z",
+      "latest_at": "2026-07-26T03:54:52.336000Z",
       "primary_item": {
-        "id": "052a35b513283955aba5f613c1a50c3093101961",
-        "title": "OpenAI 智能体入侵 Hugging Face，消息人士称 OpenAI 至少一周都没察觉",
-        "url": "https://aihot.virxact.com/items/cmrzpp5580011ro6dkcqp7blk",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
+        "id": "9bfae41a1dc2c4bce839e86bc83ef35602f2a5b4",
+        "title": "Debian 中 LLM 的应用：三项提案",
+        "url": "https://www.debian.org/vote/2026/vote_002",
+        "source": "www.debian.org",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_7f366388db06",
+      "title": "DeepSeek因有关与美国计算能力差距的言论泄露而暂停募资（文字记录）[pdf]",
+      "url": "https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf",
+      "primary_url": "https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf",
+      "source": "github.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "6701328e205a2b0fa38156d13c431358070662ea",
+          "title": "DeepSeek因有关与美国计算能力差距的言论泄露而暂停募资（文字记录）[pdf]",
+          "url": "https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-26T03:54:52.690000Z"
+        },
+        {
+          "id": "b1b9c362461a0f65f118995d1337da8f0170ed1b",
+          "title": "关于美国计算差距的评论泄露后 DeepSeek 暂停筹款（文字记录）[pdf] / DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]",
+          "url": "https://news.ycombinator.com/item?id=49052912",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-26T01:08:06.488000Z"
+        },
+        {
+          "id": "875c49807ef2df50e759f88d5f91ee418f44e14c",
+          "title": "DeepSeek因有关与美国计算能力差距的言论泄露而暂停募资（文字记录）[pdf] / DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]",
+          "url": "https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-25T23:32:50Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "github.com",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "6701328e205a2b0fa38156d13c431358070662ea",
+          "title": "DeepSeek因有关与美国计算能力差距的言论泄露而暂停募资（文字记录）[pdf]",
+          "url": "https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-26T03:54:52.690000Z"
+        },
+        {
+          "id": "b1b9c362461a0f65f118995d1337da8f0170ed1b",
+          "title": "关于美国计算差距的评论泄露后 DeepSeek 暂停筹款（文字记录）[pdf] / DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]",
+          "url": "https://news.ycombinator.com/item?id=49052912",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-26T01:08:06.488000Z"
+        },
+        {
+          "id": "875c49807ef2df50e759f88d5f91ee418f44e14c",
+          "title": "DeepSeek因有关与美国计算能力差距的言论泄露而暂停募资（文字记录）[pdf] / DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]",
+          "url": "https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-25T23:32:50Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5641,
+      "importance": 0.5641,
+      "importance_score": 0.5641,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9556,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-25T23:32:50Z",
+      "latest_at": "2026-07-26T03:54:52.690000Z",
+      "primary_item": {
+        "id": "6701328e205a2b0fa38156d13c431358070662ea",
+        "title": "DeepSeek因有关与美国计算能力差距的言论泄露而暂停募资（文字记录）[pdf]",
+        "url": "https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf",
+        "source": "github.com",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -510,14 +702,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5585,
-      "importance": 0.5585,
-      "importance_score": 0.5585,
+      "score": 0.5264,
+      "importance": 0.5264,
+      "importance_score": 0.5264,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9274,
+        "recency": 0.7669,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -532,6 +724,83 @@
         "url": "https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models",
         "source": "claude.com",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_8ec02e1c13b5",
+      "title": "实习生日薪5500元，清华姚班凭什么成为AI圈的“硬通货”",
+      "url": "https://www.huxiu.com/article/4878142.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4878142.html?f=rss",
+      "source": "虎嗅 (Huxiu)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "9ce91e788964fa7bb67ffe5f27e0d7b0527ec66c",
+          "title": "实习生日薪5500元，清华姚班凭什么成为AI圈的“硬通货”",
+          "url": "https://www.huxiu.com/article/4878142.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-26T01:30:00Z"
+        },
+        {
+          "id": "9f11b62e62c0511fe1c3100a50626952b04caf9b",
+          "title": "实习生日薪5500元，清华姚班凭什么成为AI 圈的“硬通货”",
+          "url": "https://www.huxiu.com/article/4878142.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-25T09:41:17Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "虎嗅 (Huxiu)"
+      ],
+      "items": [
+        {
+          "id": "9ce91e788964fa7bb67ffe5f27e0d7b0527ec66c",
+          "title": "实习生日薪5500元，清华姚班凭什么成为AI圈的“硬通货”",
+          "url": "https://www.huxiu.com/article/4878142.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-26T01:30:00Z"
+        },
+        {
+          "id": "9f11b62e62c0511fe1c3100a50626952b04caf9b",
+          "title": "实习生日薪5500元，清华姚班凭什么成为AI 圈的“硬通货”",
+          "url": "https://www.huxiu.com/article/4878142.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-25T09:41:17Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.519,
+      "importance": 0.519,
+      "importance_score": 0.519,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.855,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-25T09:41:17Z",
+      "latest_at": "2026-07-26T01:30:00Z",
+      "primary_item": {
+        "id": "9ce91e788964fa7bb67ffe5f27e0d7b0527ec66c",
+        "title": "实习生日薪5500元，清华姚班凭什么成为AI圈的“硬通货”",
+        "url": "https://www.huxiu.com/article/4878142.html?f=rss",
+        "source": "虎嗅 (Huxiu)",
+        "source_name": "Info Flow"
       }
     },
     {
@@ -552,18 +821,18 @@
           "published_at": "2026-07-26T01:08:06.488000Z"
         },
         {
-          "id": "3c68ddb734e95223ab88b9b1edd0c28062c204a1",
+          "id": "4893a4df9d2c99406c7644a2867f3ff311785ce2",
           "title": "Cloudflare 为客户提供的新 AI 流量选项 / Cloudflare's new AI traffic options for customers",
           "url": "https://blog.cloudflare.com/content-independence-day-ai-options",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-07-25T22:50:49Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News",
+        "Hacker News · 24h最热",
         "hackernews"
       ],
       "items": [
@@ -577,25 +846,25 @@
           "published_at": "2026-07-26T01:08:06.488000Z"
         },
         {
-          "id": "3c68ddb734e95223ab88b9b1edd0c28062c204a1",
+          "id": "4893a4df9d2c99406c7644a2867f3ff311785ce2",
           "title": "Cloudflare 为客户提供的新 AI 流量选项 / Cloudflare's new AI traffic options for customers",
           "url": "https://blog.cloudflare.com/content-independence-day-ai-options",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-07-25T22:50:49Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.548,
-      "importance": 0.548,
-      "importance_score": 0.548,
+      "score": 0.516,
+      "importance": 0.516,
+      "importance_score": 0.516,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.8398,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -666,14 +935,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.548,
-      "importance": 0.548,
-      "importance_score": 0.548,
+      "score": 0.5159,
+      "importance": 0.5159,
+      "importance_score": 0.5159,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.8395,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -691,99 +960,81 @@
       }
     },
     {
-      "story_id": "story_10e81be27811",
-      "title": "一般性决议：Debian 中 LLM 的使用 / General Resolution: LLM Usage in Debian",
-      "url": "https://www.debian.org/vote/2026/vote_002",
-      "primary_url": "https://www.debian.org/vote/2026/vote_002",
-      "source": "Hacker News (黑客新闻)",
-      "source_name": "Info Flow",
+      "story_id": "story_5f284decdfa5",
+      "title": "在8的微控制器上运行一个拥有28.9M个参数的大语言模型",
+      "url": "https://github.com/slvDev/esp32-ai",
+      "primary_url": "https://github.com/slvDev/esp32-ai",
+      "source": "github.com",
+      "source_name": "Buzzing",
       "sources": [
         {
-          "id": "d3fe5a4b6cb367c561830d4d61ab506f19190492",
-          "title": "一般性决议：Debian 中 LLM 的使用 / General Resolution: LLM Usage in Debian",
-          "url": "https://www.debian.org/vote/2026/vote_002",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-25T19:44:39Z"
-        },
-        {
-          "id": "99e8214f738422118ebf82a01fed4ba438a21132",
-          "title": "一般性决议：Debian 中 LLM 的使用 / LLM Usage in Debian: Three Proposals",
-          "url": "https://www.debian.org/vote/2026/vote_002",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-25T19:44:39Z"
-        },
-        {
-          "id": "2b682424df001cccc95deeebffe4929f3f51f13c",
-          "title": "一般性决议：Debian 中 LLM 的使用",
-          "url": "https://www.debian.org/vote/2026/vote_002",
-          "source": "www.debian.org",
+          "id": "0d3f67bc703c56530c7a6cf6bd27dcaca9ac10b8",
+          "title": "在8的微控制器上运行一个拥有28.9M个参数的大语言模型",
+          "url": "https://github.com/slvDev/esp32-ai",
+          "source": "github.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-07-25T16:27:16.797000Z"
+          "published_at": "2026-07-26T03:54:52.332000Z"
+        },
+        {
+          "id": "fa17019e58414a7f6a4d622fe9328891ef58c102",
+          "title": "在8的微控制器上运行一个拥有28.9M个参数的大语言模型 / Running a 28.9M parameter LLM on an $8 microcontroller",
+          "url": "https://github.com/slvDev/esp32-ai",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-25T18:59:50Z"
         }
       ],
-      "source_count": 3,
+      "source_count": 2,
       "source_names": [
         "Hacker News (黑客新闻)",
-        "www.debian.org"
+        "github.com"
       ],
       "items": [
         {
-          "id": "d3fe5a4b6cb367c561830d4d61ab506f19190492",
-          "title": "一般性决议：Debian 中 LLM 的使用 / General Resolution: LLM Usage in Debian",
-          "url": "https://www.debian.org/vote/2026/vote_002",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-25T19:44:39Z"
-        },
-        {
-          "id": "99e8214f738422118ebf82a01fed4ba438a21132",
-          "title": "一般性决议：Debian 中 LLM 的使用 / LLM Usage in Debian: Three Proposals",
-          "url": "https://www.debian.org/vote/2026/vote_002",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-07-25T19:44:39Z"
-        },
-        {
-          "id": "2b682424df001cccc95deeebffe4929f3f51f13c",
-          "title": "一般性决议：Debian 中 LLM 的使用",
-          "url": "https://www.debian.org/vote/2026/vote_002",
-          "source": "www.debian.org",
+          "id": "0d3f67bc703c56530c7a6cf6bd27dcaca9ac10b8",
+          "title": "在8的微控制器上运行一个拥有28.9M个参数的大语言模型",
+          "url": "https://github.com/slvDev/esp32-ai",
+          "source": "github.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-07-25T16:27:16.797000Z"
+          "published_at": "2026-07-26T03:54:52.332000Z"
+        },
+        {
+          "id": "fa17019e58414a7f6a4d622fe9328891ef58c102",
+          "title": "在8的微控制器上运行一个拥有28.9M个参数的大语言模型 / Running a 28.9M parameter LLM on an $8 microcontroller",
+          "url": "https://github.com/slvDev/esp32-ai",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-25T18:59:50Z"
         }
       ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5281,
-      "importance": 0.5281,
-      "importance_score": 0.5281,
-      "importance_label": "多源热议",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5391,
+      "importance": 0.5391,
+      "importance_score": 0.5391,
+      "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7757,
-        "story_heat": 0.5
+        "recency": 0.9556,
+        "story_heat": 0.25
       },
-      "category": "multi_source",
+      "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-25T16:27:16.797000Z",
-      "latest_at": "2026-07-25T19:44:39Z",
+      "earliest_at": "2026-07-25T18:59:50Z",
+      "latest_at": "2026-07-26T03:54:52.332000Z",
       "primary_item": {
-        "id": "d3fe5a4b6cb367c561830d4d61ab506f19190492",
-        "title": "一般性决议：Debian 中 LLM 的使用 / General Resolution: LLM Usage in Debian",
-        "url": "https://www.debian.org/vote/2026/vote_002",
-        "source": "Hacker News (黑客新闻)",
-        "source_name": "Info Flow"
+        "id": "0d3f67bc703c56530c7a6cf6bd27dcaca9ac10b8",
+        "title": "在8的微控制器上运行一个拥有28.9M个参数的大语言模型",
+        "url": "https://github.com/slvDev/esp32-ai",
+        "source": "github.com",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -839,14 +1090,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.548,
-      "importance": 0.548,
-      "importance_score": 0.548,
+      "score": 0.516,
+      "importance": 0.516,
+      "importance_score": 0.516,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.8398,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -936,14 +1187,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5162,
-      "importance": 0.5162,
-      "importance_score": 0.5162,
+      "score": 0.4841,
+      "importance": 0.4841,
+      "importance_score": 0.4841,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7162,
+        "recency": 0.5557,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1014,14 +1265,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5135,
-      "importance": 0.5135,
-      "importance_score": 0.5135,
+      "score": 0.4814,
+      "importance": 0.4814,
+      "importance_score": 0.4814,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8274,
+        "recency": 0.6669,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1091,14 +1342,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5113,
-      "importance": 0.5113,
-      "importance_score": 0.5113,
+      "score": 0.4792,
+      "importance": 0.4792,
+      "importance_score": 0.4792,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8163,
+        "recency": 0.6558,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1169,14 +1420,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5047,
-      "importance": 0.5047,
-      "importance_score": 0.5047,
+      "score": 0.4725,
+      "importance": 0.4725,
+      "importance_score": 0.4725,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7833,
+        "recency": 0.6227,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1191,84 +1442,6 @@
         "url": "https://claude.ai/public/artifacts/725f961b-09dc-4a66-8dac-8fefeeb69a1f",
         "source": "claude.ai",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_7f366388db06",
-      "title": "关于美国计算差距的评论泄露后 DeepSeek 暂停筹款（文字记录）[pdf] / DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]",
-      "url": "https://news.ycombinator.com/item?id=49052912",
-      "primary_url": "https://news.ycombinator.com/item?id=49052912",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "b1b9c362461a0f65f118995d1337da8f0170ed1b",
-          "title": "关于美国计算差距的评论泄露后 DeepSeek 暂停筹款（文字记录）[pdf] / DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]",
-          "url": "https://news.ycombinator.com/item?id=49052912",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-26T01:08:06.488000Z"
-        },
-        {
-          "id": "875c49807ef2df50e759f88d5f91ee418f44e14c",
-          "title": "关于美国计算差距的评论泄露后 DeepSeek 暂停筹款（文字记录）[pdf] / DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]",
-          "url": "https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-25T23:32:50Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "b1b9c362461a0f65f118995d1337da8f0170ed1b",
-          "title": "关于美国计算差距的评论泄露后 DeepSeek 暂停筹款（文字记录）[pdf] / DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]",
-          "url": "https://news.ycombinator.com/item?id=49052912",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-26T01:08:06.488000Z"
-        },
-        {
-          "id": "875c49807ef2df50e759f88d5f91ee418f44e14c",
-          "title": "关于美国计算差距的评论泄露后 DeepSeek 暂停筹款（文字记录）[pdf] / DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]",
-          "url": "https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-25T23:32:50Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.548,
-      "importance": 0.548,
-      "importance_score": 0.548,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-25T23:32:50Z",
-      "latest_at": "2026-07-26T01:08:06.488000Z",
-      "primary_item": {
-        "id": "b1b9c362461a0f65f118995d1337da8f0170ed1b",
-        "title": "关于美国计算差距的评论泄露后 DeepSeek 暂停筹款（文字记录）[pdf] / DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]",
-        "url": "https://news.ycombinator.com/item?id=49052912",
-        "source": "hackernews",
-        "source_name": "NewsNow"
       }
     },
     {
@@ -1289,18 +1462,18 @@
           "published_at": "2026-07-26T01:08:06.488000Z"
         },
         {
-          "id": "a5b0c74214e7e1aec40af0387ecf1bb9fc4143dd",
+          "id": "aa41026f162ffac4f2adca9f00812334bd8223f0",
           "title": "成为大型法学硕士实验室的研究工程师 / Becoming a Research Engineer at a Big LLM Lab",
           "url": "https://www.maxmynter.com/pages/blog/jobhunt",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-07-25T21:19:42Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
         "hackernews"
       ],
       "items": [
@@ -1314,25 +1487,25 @@
           "published_at": "2026-07-26T01:08:06.488000Z"
         },
         {
-          "id": "a5b0c74214e7e1aec40af0387ecf1bb9fc4143dd",
+          "id": "aa41026f162ffac4f2adca9f00812334bd8223f0",
           "title": "成为大型法学硕士实验室的研究工程师 / Becoming a Research Engineer at a Big LLM Lab",
           "url": "https://www.maxmynter.com/pages/blog/jobhunt",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-07-25T21:19:42Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.548,
-      "importance": 0.548,
-      "importance_score": 0.548,
+      "score": 0.516,
+      "importance": 0.516,
+      "importance_score": 0.516,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.8398,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1347,83 +1520,6 @@
         "url": "https://news.ycombinator.com/item?id=49051707",
         "source": "hackernews",
         "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_774f7412d1a3",
-      "title": "政客在集会期间阅读人工智能提示 / Politician reads AI prompt during assembly",
-      "url": "https://www.youtube.com/watch?v=wlYa8NV5k-U",
-      "primary_url": "https://www.youtube.com/watch?v=wlYa8NV5k-U",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "b81ec76946d428090d221e10e3ff088e44ee186f",
-          "title": "政客在集会期间阅读人工智能提示 / Politician reads AI prompt during assembly",
-          "url": "https://www.youtube.com/watch?v=wlYa8NV5k-U",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-25T16:31:15Z"
-        },
-        {
-          "id": "f2855169e408afb0944fe2c9e30cda2a53c10154",
-          "title": "宇宙不是随机的——它是一些奇怪的东西——斯蒂芬·沃尔夫勒姆[视频] / The universe isn't random – it's something stranger – Stephen Wolfram [video]",
-          "url": "https://www.youtube.com/watch?v=U8Omt6K8OnM",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-25T02:36:51Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热"
-      ],
-      "items": [
-        {
-          "id": "b81ec76946d428090d221e10e3ff088e44ee186f",
-          "title": "政客在集会期间阅读人工智能提示 / Politician reads AI prompt during assembly",
-          "url": "https://www.youtube.com/watch?v=wlYa8NV5k-U",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-25T16:31:15Z"
-        },
-        {
-          "id": "f2855169e408afb0944fe2c9e30cda2a53c10154",
-          "title": "宇宙不是随机的——它是一些奇怪的东西——斯蒂芬·沃尔夫勒姆[视频] / The universe isn't random – it's something stranger – Stephen Wolfram [video]",
-          "url": "https://www.youtube.com/watch?v=U8Omt6K8OnM",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-07-25T02:36:51Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4763,
-      "importance": 0.4763,
-      "importance_score": 0.4763,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.6414,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-25T02:36:51Z",
-      "latest_at": "2026-07-25T16:31:15Z",
-      "primary_item": {
-        "id": "b81ec76946d428090d221e10e3ff088e44ee186f",
-        "title": "政客在集会期间阅读人工智能提示 / Politician reads AI prompt during assembly",
-        "url": "https://www.youtube.com/watch?v=wlYa8NV5k-U",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
       }
     },
     {
@@ -1499,14 +1595,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5467,
-      "importance": 0.5467,
-      "importance_score": 0.5467,
+      "score": 0.5146,
+      "importance": 0.5146,
+      "importance_score": 0.5146,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8687,
+        "recency": 0.7082,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1521,161 +1617,6 @@
         "url": "https://news.ycombinator.com/item?id=49051692",
         "source": "hackernews",
         "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_7991fa3ce865",
-      "title": "AI的新“北极星”：每美元智能值",
-      "url": "https://www.businessinsider.com/ai-race-intelligence-per-dollar-2026-7",
-      "primary_url": "https://www.businessinsider.com/ai-race-intelligence-per-dollar-2026-7",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "d0cb1aba099db2a5904889cc884b2ad835eb933d",
-          "title": "AI的新“北极星”：每美元智能值",
-          "url": "https://www.businessinsider.com/ai-race-intelligence-per-dollar-2026-7",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-25T13:14:51.939000Z"
-        },
-        {
-          "id": "b019d20007b2fee79b9481442a27097c93520dfd",
-          "title": "AI的新“北极星”：每美元智能值 / AI's new North Star: Intelligence per dollar",
-          "url": "https://www.businessinsider.com/ai-race-intelligence-per-dollar-2026-7",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-25T13:02:01Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "d0cb1aba099db2a5904889cc884b2ad835eb933d",
-          "title": "AI的新“北极星”：每美元智能值",
-          "url": "https://www.businessinsider.com/ai-race-intelligence-per-dollar-2026-7",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-25T13:14:51.939000Z"
-        },
-        {
-          "id": "b019d20007b2fee79b9481442a27097c93520dfd",
-          "title": "AI的新“北极星”：每美元智能值 / AI's new North Star: Intelligence per dollar",
-          "url": "https://www.businessinsider.com/ai-race-intelligence-per-dollar-2026-7",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-25T13:02:01Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.449,
-      "importance": 0.449,
-      "importance_score": 0.449,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.505,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-25T13:02:01Z",
-      "latest_at": "2026-07-25T13:14:51.939000Z",
-      "primary_item": {
-        "id": "d0cb1aba099db2a5904889cc884b2ad835eb933d",
-        "title": "AI的新“北极星”：每美元智能值",
-        "url": "https://www.businessinsider.com/ai-race-intelligence-per-dollar-2026-7",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_764d08a751dc",
-      "title": "三星电子与SK集团达成9500亿美元交易，韩国迎来人工智能强企",
-      "url": "https://www.reuters.com/business/media-telecom/south-korea-president-lee-looking-open-new-era-ai-with-global-tech-companies-2026-07-25",
-      "primary_url": "https://www.reuters.com/business/media-telecom/south-korea-president-lee-looking-open-new-era-ai-with-global-tech-companies-2026-07-25",
-      "source": "www.reuters.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "9000cdfe989925fdc37baffe9561af4590153830",
-          "title": "三星电子与SK集团达成9500亿美元交易，韩国迎来人工智能强企",
-          "url": "https://www.reuters.com/business/media-telecom/south-korea-president-lee-looking-open-new-era-ai-with-global-tech-companies-2026-07-25",
-          "source": "www.reuters.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-25T07:39:30.981000Z"
-        },
-        {
-          "id": "91aa00819920b4c82a1305226cf2195db8ea5cc2",
-          "title": "韩国总统李某主持美国科技峰会，呼吁开启人工智能新时代",
-          "url": "https://www.reuters.com/business/media-telecom/south-korea-president-lee-looking-open-new-era-ai-with-global-tech-companies-2026-07-25",
-          "source": "www.reuters.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-25T02:35:42.562000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "www.reuters.com"
-      ],
-      "items": [
-        {
-          "id": "9000cdfe989925fdc37baffe9561af4590153830",
-          "title": "三星电子与SK集团达成9500亿美元交易，韩国迎来人工智能强企",
-          "url": "https://www.reuters.com/business/media-telecom/south-korea-president-lee-looking-open-new-era-ai-with-global-tech-companies-2026-07-25",
-          "source": "www.reuters.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-25T07:39:30.981000Z"
-        },
-        {
-          "id": "91aa00819920b4c82a1305226cf2195db8ea5cc2",
-          "title": "韩国总统李某主持美国科技峰会，呼吁开启人工智能新时代",
-          "url": "https://www.reuters.com/business/media-telecom/south-korea-president-lee-looking-open-new-era-ai-with-global-tech-companies-2026-07-25",
-          "source": "www.reuters.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-25T02:35:42.562000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4024,
-      "importance": 0.4024,
-      "importance_score": 0.4024,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.2721,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-25T02:35:42.562000Z",
-      "latest_at": "2026-07-25T07:39:30.981000Z",
-      "primary_item": {
-        "id": "9000cdfe989925fdc37baffe9561af4590153830",
-        "title": "三星电子与SK集团达成9500亿美元交易，韩国迎来人工智能强企",
-        "url": "https://www.reuters.com/business/media-telecom/south-korea-president-lee-looking-open-new-era-ai-with-global-tech-companies-2026-07-25",
-        "source": "www.reuters.com",
-        "source_name": "Buzzing"
       }
     },
     {
@@ -1732,14 +1673,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.461,
-      "importance": 0.461,
-      "importance_score": 0.461,
+      "score": 0.4289,
+      "importance": 0.4289,
+      "importance_score": 0.4289,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.5649,
+        "recency": 0.4043,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1757,80 +1698,159 @@
       }
     },
     {
-      "story_id": "story_6313fad5f5ae",
-      "title": "OvisOCR2 实现端到端文档智能解析，三元量化重塑大模型部署：Ternary Bonsai 27B 实现 9.4 倍压缩",
-      "url": "https://hub.baai.ac.cn/view/56620",
-      "primary_url": "https://hub.baai.ac.cn/view/56620",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
+      "story_id": "story_764d08a751dc",
+      "title": "三星电子与SK集团达成9500亿美元交易，韩国迎来人工智能强企 - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQSFdzRUhVaUx2OUhLeVplQ0o1eFJYV3JzcEdJUXBPblRrcy1UUzJrOXlXalRSRFctZUFEUEJqa3k0ZHdSN3JLelpRNGRpSVB3RUYwMk1lbW0tRmtnN1lOYU4yOG9GbDNaNDlVemZiX2UxVExUQzZuV2FGY1NwdE1WbHdWRmJsdzhCdUNQRXJrbloyNnpQanJ2R2pRTWRUc1YxcHNvc192Qnc5SEZqQTJ2WmlFTF9YQTgwYmFkOF9ZUjMyeWVyM05RcVJhcENXRkpU?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "primary_url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQSFdzRUhVaUx2OUhLeVplQ0o1eFJYV3JzcEdJUXBPblRrcy1UUzJrOXlXalRSRFctZUFEUEJqa3k0ZHdSN3JLelpRNGRpSVB3RUYwMk1lbW0tRmtnN1lOYU4yOG9GbDNaNDlVemZiX2UxVExUQzZuV2FGY1NwdE1WbHdWRmJsdzhCdUNQRXJrbloyNnpQanJ2R2pRTWRUc1YxcHNvc192Qnc5SEZqQTJ2WmlFTF9YQTgwYmFkOF9ZUjMyeWVyM05RcVJhcENXRkpU?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "source": "news.google.com",
+      "source_name": "Buzzing",
       "sources": [
         {
-          "id": "06bd88cbdafcfc0c187f49040d167ad832c7acc5",
-          "title": "OvisOCR2 实现端到端文档智能解析，三元量化重塑大模型部署：Ternary Bonsai 27B 实现 9.4 倍压缩",
-          "url": "https://hub.baai.ac.cn/view/56620",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "d84311d892e772be7feb398d4473d1e03c63cc10",
+          "title": "三星电子与SK集团达成9500亿美元交易，韩国迎来人工智能强企 - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQSFdzRUhVaUx2OUhLeVplQ0o1eFJYV3JzcEdJUXBPblRrcy1UUzJrOXlXalRSRFctZUFEUEJqa3k0ZHdSN3JLelpRNGRpSVB3RUYwMk1lbW0tRmtnN1lOYU4yOG9GbDNaNDlVemZiX2UxVExUQzZuV2FGY1NwdE1WbHdWRmJsdzhCdUNQRXJrbloyNnpQanJ2R2pRTWRUc1YxcHNvc192Qnc5SEZqQTJ2WmlFTF9YQTgwYmFkOF9ZUjMyeWVyM05RcVJhcENXRkpU?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "source": "news.google.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-25T10:35:06.986000Z"
         },
         {
-          "id": "7d1ffd75010fc7860affd7866057de8d64748123",
-          "title": "文本 / LaTeX/HTML 表格一步搞定！OvisOCR2 实现端到端文档智能解析；三元量化重塑大模型部署：Ternary Bonsai 27B 实现 9.4 倍压缩",
-          "url": "https://hub.baai.ac.cn/view/56620",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "9000cdfe989925fdc37baffe9561af4590153830",
+          "title": "三星电子与SK集团达成9500亿美元交易，韩国迎来人工智能强企",
+          "url": "https://www.reuters.com/business/media-telecom/south-korea-president-lee-looking-open-new-era-ai-with-global-tech-companies-2026-07-25",
+          "source": "www.reuters.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-25T07:39:30.981000Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Readhub · AI"
+        "news.google.com",
+        "www.reuters.com"
       ],
       "items": [
         {
-          "id": "06bd88cbdafcfc0c187f49040d167ad832c7acc5",
-          "title": "OvisOCR2 实现端到端文档智能解析，三元量化重塑大模型部署：Ternary Bonsai 27B 实现 9.4 倍压缩",
-          "url": "https://hub.baai.ac.cn/view/56620",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "d84311d892e772be7feb398d4473d1e03c63cc10",
+          "title": "三星电子与SK集团达成9500亿美元交易，韩国迎来人工智能强企 - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQSFdzRUhVaUx2OUhLeVplQ0o1eFJYV3JzcEdJUXBPblRrcy1UUzJrOXlXalRSRFctZUFEUEJqa3k0ZHdSN3JLelpRNGRpSVB3RUYwMk1lbW0tRmtnN1lOYU4yOG9GbDNaNDlVemZiX2UxVExUQzZuV2FGY1NwdE1WbHdWRmJsdzhCdUNQRXJrbloyNnpQanJ2R2pRTWRUc1YxcHNvc192Qnc5SEZqQTJ2WmlFTF9YQTgwYmFkOF9ZUjMyeWVyM05RcVJhcENXRkpU?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "source": "news.google.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-25T10:35:06.986000Z"
         },
         {
-          "id": "7d1ffd75010fc7860affd7866057de8d64748123",
-          "title": "文本 / LaTeX/HTML 表格一步搞定！OvisOCR2 实现端到端文档智能解析；三元量化重塑大模型部署：Ternary Bonsai 27B 实现 9.4 倍压缩",
-          "url": "https://hub.baai.ac.cn/view/56620",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "9000cdfe989925fdc37baffe9561af4590153830",
+          "title": "三星电子与SK集团达成9500亿美元交易，韩国迎来人工智能强企",
+          "url": "https://www.reuters.com/business/media-telecom/south-korea-president-lee-looking-open-new-era-ai-with-global-tech-companies-2026-07-25",
+          "source": "www.reuters.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-25T07:39:30.981000Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4161,
-      "importance": 0.4161,
-      "importance_score": 0.4161,
+      "score": 0.3947,
+      "importance": 0.3947,
+      "importance_score": 0.3947,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.3407,
+        "recency": 0.2335,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-07-25T07:19:21.469789Z",
-      "latest_at": "2026-07-25T09:18:14.894602Z",
+      "earliest_at": "2026-07-25T07:39:30.981000Z",
+      "latest_at": "2026-07-25T10:35:06.986000Z",
       "primary_item": {
-        "id": "06bd88cbdafcfc0c187f49040d167ad832c7acc5",
-        "title": "OvisOCR2 实现端到端文档智能解析，三元量化重塑大模型部署：Ternary Bonsai 27B 实现 9.4 倍压缩",
-        "url": "https://hub.baai.ac.cn/view/56620",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
+        "id": "d84311d892e772be7feb398d4473d1e03c63cc10",
+        "title": "三星电子与SK集团达成9500亿美元交易，韩国迎来人工智能强企 - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQSFdzRUhVaUx2OUhLeVplQ0o1eFJYV3JzcEdJUXBPblRrcy1UUzJrOXlXalRSRFctZUFEUEJqa3k0ZHdSN3JLelpRNGRpSVB3RUYwMk1lbW0tRmtnN1lOYU4yOG9GbDNaNDlVemZiX2UxVExUQzZuV2FGY1NwdE1WbHdWRmJsdzhCdUNQRXJrbloyNnpQanJ2R2pRTWRUc1YxcHNvc192Qnc5SEZqQTJ2WmlFTF9YQTgwYmFkOF9ZUjMyeWVyM05RcVJhcENXRkpU?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "source": "news.google.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_7991fa3ce865",
+      "title": "AI的新“北极星”：每美元智能值",
+      "url": "https://www.businessinsider.com/ai-race-intelligence-per-dollar-2026-7",
+      "primary_url": "https://www.businessinsider.com/ai-race-intelligence-per-dollar-2026-7",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "d0cb1aba099db2a5904889cc884b2ad835eb933d",
+          "title": "AI的新“北极星”：每美元智能值",
+          "url": "https://www.businessinsider.com/ai-race-intelligence-per-dollar-2026-7",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-25T13:14:51.939000Z"
+        },
+        {
+          "id": "b019d20007b2fee79b9481442a27097c93520dfd",
+          "title": "AI的新“北极星”：每美元智能值 / AI's new North Star: Intelligence per dollar",
+          "url": "https://www.businessinsider.com/ai-race-intelligence-per-dollar-2026-7",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-25T13:02:01Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "d0cb1aba099db2a5904889cc884b2ad835eb933d",
+          "title": "AI的新“北极星”：每美元智能值",
+          "url": "https://www.businessinsider.com/ai-race-intelligence-per-dollar-2026-7",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-25T13:14:51.939000Z"
+        },
+        {
+          "id": "b019d20007b2fee79b9481442a27097c93520dfd",
+          "title": "AI的新“北极星”：每美元智能值 / AI's new North Star: Intelligence per dollar",
+          "url": "https://www.businessinsider.com/ai-race-intelligence-per-dollar-2026-7",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-25T13:02:01Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4169,
+      "importance": 0.4169,
+      "importance_score": 0.4169,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.3445,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-25T13:02:01Z",
+      "latest_at": "2026-07-25T13:14:51.939000Z",
+      "primary_item": {
+        "id": "d0cb1aba099db2a5904889cc884b2ad835eb933d",
+        "title": "AI的新“北极星”：每美元智能值",
+        "url": "https://www.businessinsider.com/ai-race-intelligence-per-dollar-2026-7",
+        "source": "www.businessinsider.com",
+        "source_name": "Buzzing"
       }
     }
   ]
