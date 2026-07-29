@@ -1,16 +1,25 @@
 {
-  "generated_at": "2026-07-29T10:08:50.456014Z",
+  "generated_at": "2026-07-29T12:29:20.055725Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
       "story_id": "story_0c55289d534f",
       "title": "点击这里进入 / Click here to enter",
-      "url": "http://ai.hubtoday.app/?tr_uuid=20260729-2009-1879-a94e-efcf9d2f4dc7&fp=-3",
-      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260729-2009-1879-a94e-efcf9d2f4dc7&fp=-3",
+      "url": "http://ai.hubtoday.app/?tr_uuid=20260729-2229-433c-89cb-5266e9c82ad0&fp=-3",
+      "primary_url": "http://ai.hubtoday.app/?tr_uuid=20260729-2229-433c-89cb-5266e9c82ad0&fp=-3",
       "source": "Page Fallback",
       "source_name": "AI HubToday",
       "sources": [
+        {
+          "id": "9cd3b28abe6bde9ad254e3934aa531519d726433",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260729-2229-433c-89cb-5266e9c82ad0&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
         {
           "id": "e6c0f7ed3dd52cbca95fa7e22538b67fbc69697d",
           "title": "点击这里进入 / Click here to enter",
@@ -96,15 +105,6 @@
           "id": "3db7f815b4eb1c96234f514c3c66e744ff6bc0f4",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260729-0100-20ca-accf-18889b2fb8a0&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "9b87ed69da4bad4b4b52b0d86f0a66d3b2856984",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260728-2221-4870-bef6-f982bbebc08c&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -117,6 +117,15 @@
       ],
       "items": [
         {
+          "id": "9cd3b28abe6bde9ad254e3934aa531519d726433",
+          "title": "点击这里进入 / Click here to enter",
+          "url": "http://ai.hubtoday.app/?tr_uuid=20260729-2229-433c-89cb-5266e9c82ad0&fp=-3",
+          "source": "Page Fallback",
+          "source_name": "AI HubToday",
+          "site_id": "aihubtoday",
+          "published_at": null
+        },
+        {
           "id": "e6c0f7ed3dd52cbca95fa7e22538b67fbc69697d",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260729-2009-1879-a94e-efcf9d2f4dc7&fp=-3",
@@ -201,15 +210,6 @@
           "id": "3db7f815b4eb1c96234f514c3c66e744ff6bc0f4",
           "title": "点击这里进入 / Click here to enter",
           "url": "http://ai.hubtoday.app/?tr_uuid=20260729-0100-20ca-accf-18889b2fb8a0&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
-        },
-        {
-          "id": "9b87ed69da4bad4b4b52b0d86f0a66d3b2856984",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260728-2221-4870-bef6-f982bbebc08c&fp=-3",
           "source": "Page Fallback",
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
@@ -234,12 +234,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-28T12:21:22.883452Z",
-      "latest_at": "2026-07-29T10:08:50.456014Z",
+      "earliest_at": "2026-07-28T14:59:49.976757Z",
+      "latest_at": "2026-07-29T12:29:20.055725Z",
       "primary_item": {
-        "id": "e6c0f7ed3dd52cbca95fa7e22538b67fbc69697d",
+        "id": "9cd3b28abe6bde9ad254e3934aa531519d726433",
         "title": "点击这里进入 / Click here to enter",
-        "url": "http://ai.hubtoday.app/?tr_uuid=20260729-2009-1879-a94e-efcf9d2f4dc7&fp=-3",
+        "url": "http://ai.hubtoday.app/?tr_uuid=20260729-2229-433c-89cb-5266e9c82ad0&fp=-3",
         "source": "Page Fallback",
         "source_name": "AI HubToday"
       }
@@ -279,14 +279,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8577,
-      "importance": 0.8577,
-      "importance_score": 0.8577,
+      "score": 0.8382,
+      "importance": 0.8382,
+      "importance_score": 0.8382,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9836,
+        "recency": 0.886,
         "story_heat": 0.0
       },
       "category": "official",
@@ -359,14 +359,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.837,
-      "importance": 0.837,
-      "importance_score": 0.837,
+      "score": 0.8175,
+      "importance": 0.8175,
+      "importance_score": 0.8175,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9024,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -420,14 +420,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8094,
-      "importance": 0.8094,
-      "importance_score": 0.8094,
+      "score": 0.7899,
+      "importance": 0.7899,
+      "importance_score": 0.7899,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.5772,
+        "recency": 0.4796,
         "story_heat": 0.0
       },
       "category": "official",
@@ -500,14 +500,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.837,
-      "importance": 0.837,
-      "importance_score": 0.837,
+      "score": 0.8175,
+      "importance": 0.8175,
+      "importance_score": 0.8175,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9024,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -580,14 +580,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.837,
-      "importance": 0.837,
-      "importance_score": 0.837,
+      "score": 0.8175,
+      "importance": 0.8175,
+      "importance_score": 0.8175,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9024,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -641,14 +641,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.785,
-      "importance": 0.785,
-      "importance_score": 0.785,
+      "score": 0.7655,
+      "importance": 0.7655,
+      "importance_score": 0.7655,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.5598,
+        "recency": 0.4623,
         "story_heat": 0.0
       },
       "category": "official",
@@ -702,20 +702,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.751,
-      "importance": 0.751,
-      "importance_score": 0.751,
+      "score": 0.7314,
+      "importance": 0.7314,
+      "importance_score": 0.7314,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6948,
+        "recency": 0.5972,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-29T02:49:20Z",
       "latest_at": "2026-07-29T02:49:20Z",
@@ -725,6 +724,86 @@
         "url": "https://aihot.virxact.com/items/cms5htk9l004nros5wi94l4eh",
         "source": "Hacker News 热门（buzzing.cc 中文翻译）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_f1c958a670a3",
+      "title": "月之暗面Kimi完成F轮超35亿美元融资 投后估值350亿美元",
+      "url": "https://www.aibase.com/news/29984",
+      "primary_url": "https://www.aibase.com/news/29984",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "3f7f20d7e3dfdc8cfb533d67f02b98a4149836d2",
+          "title": "月之暗面Kimi完成F轮超35亿美元融资 投后估值350亿美元",
+          "url": "https://www.aibase.com/news/29984",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-29T10:08:50.456014Z"
+        },
+        {
+          "id": "4f96fa9b020eac7ef478ab029be9a3669df53c82",
+          "title": "月之暗面 Kimi 完成 F 轮超 35 亿美元融资 投后估值 350 亿美元",
+          "url": "https://www.aibase.com/zh/news/29984",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "3f7f20d7e3dfdc8cfb533d67f02b98a4149836d2",
+          "title": "月之暗面Kimi完成F轮超35亿美元融资 投后估值350亿美元",
+          "url": "https://www.aibase.com/news/29984",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-07-29T10:08:50.456014Z"
+        },
+        {
+          "id": "4f96fa9b020eac7ef478ab029be9a3669df53c82",
+          "title": "月之暗面 Kimi 完成 F 轮超 35 亿美元融资 投后估值 350 亿美元",
+          "url": "https://www.aibase.com/zh/news/29984",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8175,
+      "importance": 0.8175,
+      "importance_score": 0.8175,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9024,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-29T10:08:50.456014Z",
+      "latest_at": "2026-07-29T12:29:20.055725Z",
+      "primary_item": {
+        "id": "3f7f20d7e3dfdc8cfb533d67f02b98a4149836d2",
+        "title": "月之暗面Kimi完成F轮超35亿美元融资 投后估值350亿美元",
+        "url": "https://www.aibase.com/news/29984",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -781,14 +860,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.837,
-      "importance": 0.837,
-      "importance_score": 0.837,
+      "score": 0.8175,
+      "importance": 0.8175,
+      "importance_score": 0.8175,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9024,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -805,243 +884,6 @@
         "url": "https://www.aibase.com/news/29980",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_02f1defa53b1",
-      "title": "1100多名AI员工联名呼吁美国政府控制AI发展速度，OpenAI CEO奥尔特曼表态支持",
-      "url": "https://aihot.virxact.com/items/cms5dugag02amro7cjrfedsz9",
-      "primary_url": "https://aihot.virxact.com/items/cms5dugag02amro7cjrfedsz9",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "d67fee84efdeaa56cf3d99b1b2e0e74a5e1a9494",
-          "title": "1100多名AI员工联名呼吁美国政府控制AI发展速度，OpenAI CEO奥尔特曼表态支持",
-          "url": "https://aihot.virxact.com/items/cms5dugag02amro7cjrfedsz9",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-29T00:20:32Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "d67fee84efdeaa56cf3d99b1b2e0e74a5e1a9494",
-          "title": "1100多名AI员工联名呼吁美国政府控制AI发展速度，OpenAI CEO奥尔特曼表态支持",
-          "url": "https://aihot.virxact.com/items/cms5dugag02amro7cjrfedsz9",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-29T00:20:32Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7303,
-      "importance": 0.7303,
-      "importance_score": 0.7303,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5915,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-29T00:20:32Z",
-      "latest_at": "2026-07-29T00:20:32Z",
-      "primary_item": {
-        "id": "d67fee84efdeaa56cf3d99b1b2e0e74a5e1a9494",
-        "title": "1100多名AI员工联名呼吁美国政府控制AI发展速度，OpenAI CEO奥尔特曼表态支持",
-        "url": "https://aihot.virxact.com/items/cms5dugag02amro7cjrfedsz9",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_270b36f5d48d",
-      "title": "我的Claude账号被封了",
-      "url": "https://aihot.virxact.com/items/cms5k3il000narobkhjrg843v",
-      "primary_url": "https://aihot.virxact.com/items/cms5k3il000narobkhjrg843v",
-      "source": "公众号：数字生命卡兹克",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "5418479c8f30ea43532b65ff30d6c8a2dfca975a",
-          "title": "我的Claude账号被封了",
-          "url": "https://aihot.virxact.com/items/cms5k3il000narobkhjrg843v",
-          "source": "公众号：数字生命卡兹克",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-29T00:06:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "公众号：数字生命卡兹克"
-      ],
-      "items": [
-        {
-          "id": "5418479c8f30ea43532b65ff30d6c8a2dfca975a",
-          "title": "我的Claude账号被封了",
-          "url": "https://aihot.virxact.com/items/cms5k3il000narobkhjrg843v",
-          "source": "公众号：数字生命卡兹克",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-29T00:06:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7283,
-      "importance": 0.7283,
-      "importance_score": 0.7283,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5814,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-29T00:06:00Z",
-      "latest_at": "2026-07-29T00:06:00Z",
-      "primary_item": {
-        "id": "5418479c8f30ea43532b65ff30d6c8a2dfca975a",
-        "title": "我的Claude账号被封了",
-        "url": "https://aihot.virxact.com/items/cms5k3il000narobkhjrg843v",
-        "source": "公众号：数字生命卡兹克",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_262ccbd9ae4e",
-      "title": "OpenRouter 推出专用 LangChain 集成包，支持 400+ 模型与自动故障切换",
-      "url": "https://aihot.virxact.com/items/cms5dje230234ro7czv3o3wap",
-      "primary_url": "https://aihot.virxact.com/items/cms5dje230234ro7czv3o3wap",
-      "source": "OpenRouter：Announcements（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "0510f2fe923bf266e88d7b715167e242ad554902",
-          "title": "OpenRouter 推出专用 LangChain 集成包，支持 400+ 模型与自动故障切换",
-          "url": "https://aihot.virxact.com/items/cms5dje230234ro7czv3o3wap",
-          "source": "OpenRouter：Announcements（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-29T00:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenRouter：Announcements（RSS）"
-      ],
-      "items": [
-        {
-          "id": "0510f2fe923bf266e88d7b715167e242ad554902",
-          "title": "OpenRouter 推出专用 LangChain 集成包，支持 400+ 模型与自动故障切换",
-          "url": "https://aihot.virxact.com/items/cms5dje230234ro7czv3o3wap",
-          "source": "OpenRouter：Announcements（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-29T00:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7274,
-      "importance": 0.7274,
-      "importance_score": 0.7274,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5772,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-29T00:00:00Z",
-      "latest_at": "2026-07-29T00:00:00Z",
-      "primary_item": {
-        "id": "0510f2fe923bf266e88d7b715167e242ad554902",
-        "title": "OpenRouter 推出专用 LangChain 集成包，支持 400+ 模型与自动故障切换",
-        "url": "https://aihot.virxact.com/items/cms5dje230234ro7czv3o3wap",
-        "source": "OpenRouter：Announcements（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_d81cfe08f75c",
-      "title": "Gemini API 托管代理：3.6 Flash、挂钩等 / Gemini API Managed Agents: 3.6 Flash, hooks, and more",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks",
-      "primary_url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks",
-      "source": "Google AI Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "fa7f61bbbfb6f72af25cff40b02eb82b902d5b37",
-          "title": "Gemini API 托管代理：3.6 Flash、挂钩等 / Gemini API Managed Agents: 3.6 Flash, hooks, and more",
-          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-28T16:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google AI Blog"
-      ],
-      "items": [
-        {
-          "id": "fa7f61bbbfb6f72af25cff40b02eb82b902d5b37",
-          "title": "Gemini API 托管代理：3.6 Flash、挂钩等 / Gemini API Managed Agents: 3.6 Flash, hooks, and more",
-          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks",
-          "source": "Google AI Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-28T16:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7218,
-      "importance": 0.7218,
-      "importance_score": 0.7218,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.2439,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-28T16:00:00Z",
-      "latest_at": "2026-07-28T16:00:00Z",
-      "primary_item": {
-        "id": "fa7f61bbbfb6f72af25cff40b02eb82b902d5b37",
-        "title": "Gemini API 托管代理：3.6 Flash、挂钩等 / Gemini API Managed Agents: 3.6 Flash, hooks, and more",
-        "url": "https://blog.google/innovation-and-ai/technology/developers-tools/expanding-managed-agents-gemini-api-3-6-flash-hooks",
-        "source": "Google AI Blog",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -1079,21 +921,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7667,
-      "importance": 0.7667,
-      "importance_score": 0.7667,
+      "score": 0.7472,
+      "importance": 0.7472,
+      "importance_score": 0.7472,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.5286,
+        "recency": 0.4311,
         "story_heat": 0.0
       },
       "category": "official",
       "reasons": [
         "official_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-28T22:50:05Z",
       "latest_at": "2026-07-28T22:50:05Z",
@@ -1159,14 +1000,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8135,
-      "importance": 0.8135,
-      "importance_score": 0.8135,
+      "score": 0.794,
+      "importance": 0.794,
+      "importance_score": 0.794,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8826,
+        "recency": 0.785,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1186,7 +1027,67 @@
       }
     },
     {
-      "story_id": "story_032a3841016d",
+      "story_id": "story_20a45b93c590",
+      "title": "Grok 4.5 现已在 GitHub Copilot 中提供 / Grok 4.5 is now available in GitHub Copilot",
+      "url": "https://github.blog/changelog/2026-07-28-grok-4-5-is-now-available-in-github-copilot",
+      "primary_url": "https://github.blog/changelog/2026-07-28-grok-4-5-is-now-available-in-github-copilot",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "de1bf241fb515307bdd91a342754207be883cea2",
+          "title": "Grok 4.5 现已在 GitHub Copilot 中提供 / Grok 4.5 is now available in GitHub Copilot",
+          "url": "https://github.blog/changelog/2026-07-28-grok-4-5-is-now-available-in-github-copilot",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-28T19:10:45Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "de1bf241fb515307bdd91a342754207be883cea2",
+          "title": "Grok 4.5 现已在 GitHub Copilot 中提供 / Grok 4.5 is now available in GitHub Copilot",
+          "url": "https://github.blog/changelog/2026-07-28-grok-4-5-is-now-available-in-github-copilot",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-28T19:10:45Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7288,
+      "importance": 0.7288,
+      "importance_score": 0.7288,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.2788,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-28T19:10:45Z",
+      "latest_at": "2026-07-28T19:10:45Z",
+      "primary_item": {
+        "id": "de1bf241fb515307bdd91a342754207be883cea2",
+        "title": "Grok 4.5 现已在 GitHub Copilot 中提供 / Grok 4.5 is now available in GitHub Copilot",
+        "url": "https://github.blog/changelog/2026-07-28-grok-4-5-is-now-available-in-github-copilot",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_aee53df4f287",
       "title": "ChatGPT周活用户逼近 10 亿大关：晚了 7 个月，但上线不到四年",
       "url": "https://www.aibase.com/news/29977",
       "primary_url": "https://www.aibase.com/news/29977",
@@ -1239,14 +1140,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8135,
-      "importance": 0.8135,
-      "importance_score": 0.8135,
+      "score": 0.794,
+      "importance": 0.794,
+      "importance_score": 0.794,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8826,
+        "recency": 0.785,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1266,67 +1167,7 @@
       }
     },
     {
-      "story_id": "story_20a45b93c590",
-      "title": "Grok 4.5 现已在 GitHub Copilot 中提供 / Grok 4.5 is now available in GitHub Copilot",
-      "url": "https://github.blog/changelog/2026-07-28-grok-4-5-is-now-available-in-github-copilot",
-      "primary_url": "https://github.blog/changelog/2026-07-28-grok-4-5-is-now-available-in-github-copilot",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "de1bf241fb515307bdd91a342754207be883cea2",
-          "title": "Grok 4.5 现已在 GitHub Copilot 中提供 / Grok 4.5 is now available in GitHub Copilot",
-          "url": "https://github.blog/changelog/2026-07-28-grok-4-5-is-now-available-in-github-copilot",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-28T19:10:45Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "de1bf241fb515307bdd91a342754207be883cea2",
-          "title": "Grok 4.5 现已在 GitHub Copilot 中提供 / Grok 4.5 is now available in GitHub Copilot",
-          "url": "https://github.blog/changelog/2026-07-28-grok-4-5-is-now-available-in-github-copilot",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-28T19:10:45Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7483,
-      "importance": 0.7483,
-      "importance_score": 0.7483,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.3763,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-28T19:10:45Z",
-      "latest_at": "2026-07-28T19:10:45Z",
-      "primary_item": {
-        "id": "de1bf241fb515307bdd91a342754207be883cea2",
-        "title": "Grok 4.5 现已在 GitHub Copilot 中提供 / Grok 4.5 is now available in GitHub Copilot",
-        "url": "https://github.blog/changelog/2026-07-28-grok-4-5-is-now-available-in-github-copilot",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_4be9320dde2c",
+      "story_id": "story_60d6588cc0b6",
       "title": "亚马逊调整 AI 战略:停研大部分 Nova 自研模型，资源转向皮特·阿贝尔团队",
       "url": "https://www.aibase.com/news/29978",
       "primary_url": "https://www.aibase.com/news/29978",
@@ -1379,14 +1220,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8135,
-      "importance": 0.8135,
-      "importance_score": 0.8135,
+      "score": 0.794,
+      "importance": 0.794,
+      "importance_score": 0.794,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8826,
+        "recency": 0.785,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1406,7 +1247,104 @@
       }
     },
     {
-      "story_id": "story_f24580fc319e",
+      "story_id": "story_0ad5b94bb775",
+      "title": "Show HN：Vimgolf.ai – 通过玩关卡地图来学习 Vim / Show HN: Vimgolf.ai – Learn Vim by playing through a map of levels",
+      "url": "https://news.ycombinator.com/item?id=49095143",
+      "primary_url": "https://news.ycombinator.com/item?id=49095143",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "b72108c43fba5e8041c9d569c0b88ec96c7520fc",
+          "title": "Show HN：Vimgolf.ai – 通过玩关卡地图来学习 Vim / Show HN: Vimgolf.ai – Learn Vim by playing through a map of levels",
+          "url": "https://news.ycombinator.com/item?id=49095143",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-29T12:29:47.724000Z"
+        },
+        {
+          "id": "49d5200aa2b707bb64f2d1c37112bf220dc500d9",
+          "title": "Show HN: Vimgolf.ai – 通过通关关卡地图来学习 Vim",
+          "url": "https://vimgolf.ai",
+          "source": "vimgolf.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-29T09:29:15.109000Z"
+        },
+        {
+          "id": "f7d196484bb37849e0d71a837e52d207d47e53de",
+          "title": "Show HN: Vimgolf.ai – 通过通关关卡地图来学习 Vim / Show HN: Vimgolf.ai – Learn Vim by playing through a map of levels",
+          "url": "https://vimgolf.ai",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-29T09:26:52Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News",
+        "hackernews",
+        "vimgolf.ai"
+      ],
+      "items": [
+        {
+          "id": "b72108c43fba5e8041c9d569c0b88ec96c7520fc",
+          "title": "Show HN：Vimgolf.ai – 通过玩关卡地图来学习 Vim / Show HN: Vimgolf.ai – Learn Vim by playing through a map of levels",
+          "url": "https://news.ycombinator.com/item?id=49095143",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-29T12:29:47.724000Z"
+        },
+        {
+          "id": "49d5200aa2b707bb64f2d1c37112bf220dc500d9",
+          "title": "Show HN: Vimgolf.ai – 通过通关关卡地图来学习 Vim",
+          "url": "https://vimgolf.ai",
+          "source": "vimgolf.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-29T09:29:15.109000Z"
+        },
+        {
+          "id": "f7d196484bb37849e0d71a837e52d207d47e53de",
+          "title": "Show HN: Vimgolf.ai – 通过通关关卡地图来学习 Vim / Show HN: Vimgolf.ai – Learn Vim by playing through a map of levels",
+          "url": "https://vimgolf.ai",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-07-29T09:26:52Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.573,
+      "importance": 0.573,
+      "importance_score": 0.573,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-29T09:26:52Z",
+      "latest_at": "2026-07-29T12:29:47.724000Z",
+      "primary_item": {
+        "id": "b72108c43fba5e8041c9d569c0b88ec96c7520fc",
+        "title": "Show HN：Vimgolf.ai – 通过玩关卡地图来学习 Vim / Show HN: Vimgolf.ai – Learn Vim by playing through a map of levels",
+        "url": "https://news.ycombinator.com/item?id=49095143",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_52180e491bb6",
       "title": "支持耳语与情绪控制!Fish Audio 周年重磅发布 S2.1Pro 实时对话语音模型",
       "url": "https://www.aibase.com/news/29974",
       "primary_url": "https://www.aibase.com/news/29974",
@@ -1459,14 +1397,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8135,
-      "importance": 0.8135,
-      "importance_score": 0.8135,
+      "score": 0.794,
+      "importance": 0.794,
+      "importance_score": 0.794,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8826,
+        "recency": 0.785,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1486,63 +1424,256 @@
       }
     },
     {
-      "story_id": "story_8b3387f5a968",
-      "title": "月之暗面 Kimi 拿下 35 亿美元 F 轮，估值冲到 350 亿，G 轮已提前起跑",
-      "url": "https://www.aibase.com/news/29985",
-      "primary_url": "https://www.aibase.com/news/29985",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_a7aeb4c8ba49",
+      "title": "不同的人工智能/镂空 / different-ai /      openwork",
+      "url": "https://github.com/different-ai/openwork",
+      "primary_url": "https://github.com/different-ai/openwork",
+      "source": "github",
+      "source_name": "NewsNow",
       "sources": [
         {
-          "id": "a53612be1f9ff22545fecff59b7fa4f7a7940027",
-          "title": "月之暗面 Kimi 拿下 35 亿美元 F 轮，估值冲到 350 亿，G 轮已提前起跑",
-          "url": "https://www.aibase.com/news/29985",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-29T10:08:50.456014Z"
+          "id": "79bf01336d53f795c988f3cfe9945fe1c182acd5",
+          "title": "不同的人工智能/镂空 / different-ai /      openwork",
+          "url": "https://github.com/different-ai/openwork",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-29T12:29:47.724000Z"
+        },
+        {
+          "id": "e2802fe878316feea0e6b1d6a9defb2ab4753dac",
+          "title": "不同的人工智能/镂空 / different-ai / openwork",
+          "url": "https://github.com/different-ai/openwork",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "AIbase"
+        "GitHub · Trending Today",
+        "github"
       ],
       "items": [
         {
-          "id": "a53612be1f9ff22545fecff59b7fa4f7a7940027",
-          "title": "月之暗面 Kimi 拿下 35 亿美元 F 轮，估值冲到 350 亿，G 轮已提前起跑",
-          "url": "https://www.aibase.com/news/29985",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-29T10:08:50.456014Z"
+          "id": "79bf01336d53f795c988f3cfe9945fe1c182acd5",
+          "title": "不同的人工智能/镂空 / different-ai /      openwork",
+          "url": "https://github.com/different-ai/openwork",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-29T12:29:47.724000Z"
+        },
+        {
+          "id": "e2802fe878316feea0e6b1d6a9defb2ab4753dac",
+          "title": "不同的人工智能/镂空 / different-ai / openwork",
+          "url": "https://github.com/different-ai/openwork",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
-      "importance_label": "行业动态",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.548,
+      "importance": 0.548,
+      "importance_score": 0.548,
+      "importance_label": "值得关注",
       "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
         "recency": 1.0,
-        "story_heat": 0.0
+        "story_heat": 0.25
       },
-      "category": "industry",
+      "category": "watch",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "multi_source"
       ],
-      "earliest_at": "2026-07-29T10:08:50.456014Z",
-      "latest_at": "2026-07-29T10:08:50.456014Z",
+      "earliest_at": "2026-07-29T12:29:20.055725Z",
+      "latest_at": "2026-07-29T12:29:47.724000Z",
       "primary_item": {
-        "id": "a53612be1f9ff22545fecff59b7fa4f7a7940027",
-        "title": "月之暗面 Kimi 拿下 35 亿美元 F 轮，估值冲到 350 亿，G 轮已提前起跑",
-        "url": "https://www.aibase.com/news/29985",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "id": "79bf01336d53f795c988f3cfe9945fe1c182acd5",
+        "title": "不同的人工智能/镂空 / different-ai /      openwork",
+        "url": "https://github.com/different-ai/openwork",
+        "source": "github",
+        "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_6f131e8af638",
+      "title": "谷歌的SynthID水印虽难以破解，但并不能解决AI虚假信息问题",
+      "url": "https://arstechnica.com/ai/2026/07/tested-google-synthid-works-great-but-labeling-ai-content-may-be-a-losing-game",
+      "primary_url": "https://arstechnica.com/ai/2026/07/tested-google-synthid-works-great-but-labeling-ai-content-may-be-a-losing-game",
+      "source": "arstechnica.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "4b654267a659c03cb43ddbbc17b8b4575a4f311c",
+          "title": "谷歌的SynthID水印虽难以破解，但并不能解决AI虚假信息问题",
+          "url": "https://arstechnica.com/ai/2026/07/tested-google-synthid-works-great-but-labeling-ai-content-may-be-a-losing-game",
+          "source": "arstechnica.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-29T11:53:20.831000Z"
+        },
+        {
+          "id": "ddca9b17425e33689960cd28705d89c72f9ab9cc",
+          "title": "谷歌的SynthID水印虽难以破解，但并不能解决AI虚假信息问题 / Google's SynthID watermark is hard to break, but it doesn't solve AI misinformation",
+          "url": "https://arstechnica.com/ai/2026/07/tested-google-synthid-works-great-but-labeling-ai-content-may-be-a-losing-game",
+          "source": "Ars Technica (科技媒体)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-29T11:00:39Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Ars Technica (科技媒体)",
+        "arstechnica.com"
+      ],
+      "items": [
+        {
+          "id": "4b654267a659c03cb43ddbbc17b8b4575a4f311c",
+          "title": "谷歌的SynthID水印虽难以破解，但并不能解决AI虚假信息问题",
+          "url": "https://arstechnica.com/ai/2026/07/tested-google-synthid-works-great-but-labeling-ai-content-may-be-a-losing-game",
+          "source": "arstechnica.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-07-29T11:53:20.831000Z"
+        },
+        {
+          "id": "ddca9b17425e33689960cd28705d89c72f9ab9cc",
+          "title": "谷歌的SynthID水印虽难以破解，但并不能解决AI虚假信息问题 / Google's SynthID watermark is hard to break, but it doesn't solve AI misinformation",
+          "url": "https://arstechnica.com/ai/2026/07/tested-google-synthid-works-great-but-labeling-ai-content-may-be-a-losing-game",
+          "source": "Ars Technica (科技媒体)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-29T11:00:39Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.543,
+      "importance": 0.543,
+      "importance_score": 0.543,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.975,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-29T11:00:39Z",
+      "latest_at": "2026-07-29T11:53:20.831000Z",
+      "primary_item": {
+        "id": "4b654267a659c03cb43ddbbc17b8b4575a4f311c",
+        "title": "谷歌的SynthID水印虽难以破解，但并不能解决AI虚假信息问题",
+        "url": "https://arstechnica.com/ai/2026/07/tested-google-synthid-works-great-but-labeling-ai-content-may-be-a-losing-game",
+        "source": "arstechnica.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_2823386c5716",
+      "title": "文档传播的 AI 蠕虫可以通过 Copilot for Word 自我传播 / Document-borne AI worms can self-propagate through Copilot for Word",
+      "url": "https://news.ycombinator.com/item?id=49096188",
+      "primary_url": "https://news.ycombinator.com/item?id=49096188",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "28488c928afc9c7580f77280de6940b8d1d61026",
+          "title": "文档传播的 AI 蠕虫可以通过 Copilot for Word 自我传播 / Document-borne AI worms can self-propagate through Copilot for Word",
+          "url": "https://news.ycombinator.com/item?id=49096188",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-29T12:29:47.724000Z"
+        },
+        {
+          "id": "35c7b098b19b0cec6bfdf85047fd643a6c80ca62",
+          "title": "Copilot 会将恶意蠕虫从一个 Word 文档传播到另一个文档 / Copilot will propagate a malicious worm from one Word document to another",
+          "url": "https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-29T12:20:10Z"
+        },
+        {
+          "id": "9e4f05e8bcd1abc87dbf58b605888862317047fc",
+          "title": "文档传播的 AI 蠕虫可以通过 Copilot for Word 自我传播 / Document-borne AI worms can self-propagate through Copilot for Word",
+          "url": "https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-29T11:44:33Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "Lobsters (技术社区)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "28488c928afc9c7580f77280de6940b8d1d61026",
+          "title": "文档传播的 AI 蠕虫可以通过 Copilot for Word 自我传播 / Document-borne AI worms can self-propagate through Copilot for Word",
+          "url": "https://news.ycombinator.com/item?id=49096188",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-07-29T12:29:47.724000Z"
+        },
+        {
+          "id": "35c7b098b19b0cec6bfdf85047fd643a6c80ca62",
+          "title": "Copilot 会将恶意蠕虫从一个 Word 文档传播到另一个文档 / Copilot will propagate a malicious worm from one Word document to another",
+          "url": "https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-07-29T12:20:10Z"
+        },
+        {
+          "id": "9e4f05e8bcd1abc87dbf58b605888862317047fc",
+          "title": "文档传播的 AI 蠕虫可以通过 Copilot for Word 自我传播 / Document-borne AI worms can self-propagate through Copilot for Word",
+          "url": "https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-29T11:44:33Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.573,
+      "importance": 0.573,
+      "importance_score": 0.573,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-07-29T11:44:33Z",
+      "latest_at": "2026-07-29T12:29:47.724000Z",
+      "primary_item": {
+        "id": "28488c928afc9c7580f77280de6940b8d1d61026",
+        "title": "文档传播的 AI 蠕虫可以通过 Copilot for Word 自我传播 / Document-borne AI worms can self-propagate through Copilot for Word",
+        "url": "https://news.ycombinator.com/item?id=49096188",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     }
   ]
