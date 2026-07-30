@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-30T17:00:30.992025Z",
+  "generated_at": "2026-07-30T18:55:48.990579Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -100,18 +100,9 @@
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
           "published_at": null
-        },
-        {
-          "id": "6f5bcf4877547bc4efc3e61605c3e69fc1b212a3",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260730-0348-2772-b416-4354c4859b4c&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
         }
       ],
-      "source_count": 11,
+      "source_count": 10,
       "source_names": [
         "Page Fallback"
       ],
@@ -205,27 +196,18 @@
           "source_name": "AI HubToday",
           "site_id": "aihubtoday",
           "published_at": null
-        },
-        {
-          "id": "6f5bcf4877547bc4efc3e61605c3e69fc1b212a3",
-          "title": "点击这里进入 / Click here to enter",
-          "url": "http://ai.hubtoday.app/?tr_uuid=20260730-0348-2772-b416-4354c4859b4c&fp=-3",
-          "source": "Page Fallback",
-          "source_name": "AI HubToday",
-          "site_id": "aihubtoday",
-          "published_at": null
         }
       ],
-      "item_count": 11,
-      "duplicate_count": 11,
-      "score": 0.8969,
-      "importance": 0.8969,
-      "importance_score": 0.8969,
+      "item_count": 10,
+      "duplicate_count": 10,
+      "score": 0.8809,
+      "importance": 0.8809,
+      "importance_score": 0.8809,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9245,
+        "recency": 0.8444,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -234,7 +216,7 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-29T17:48:05.487822Z",
+      "earliest_at": "2026-07-29T19:19:25.202098Z",
       "latest_at": "2026-07-30T15:11:45.829716Z",
       "primary_item": {
         "id": "6d22009aa550abdae4565aeeeb6879bbc562a38f",
@@ -245,69 +227,8 @@
       }
     },
     {
-      "story_id": "story_fb76181fc482",
-      "title": "Visual Studio 中的 GitHub Copilot — 7 月更新 / GitHub Copilot in Visual Studio — July update",
-      "url": "https://github.blog/changelog/2026-07-30-github-copilot-in-visual-studio-july-update",
-      "primary_url": "https://github.blog/changelog/2026-07-30-github-copilot-in-visual-studio-july-update",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "175d657ec5fc3fe69ee1d2ab081754f4ca3c6f59",
-          "title": "Visual Studio 中的 GitHub Copilot — 7 月更新 / GitHub Copilot in Visual Studio — July update",
-          "url": "https://github.blog/changelog/2026-07-30-github-copilot-in-visual-studio-july-update",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-30T15:01:48Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "175d657ec5fc3fe69ee1d2ab081754f4ca3c6f59",
-          "title": "Visual Studio 中的 GitHub Copilot — 7 月更新 / GitHub Copilot in Visual Studio — July update",
-          "url": "https://github.blog/changelog/2026-07-30-github-copilot-in-visual-studio-july-update",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-30T15:01:48Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8565,
-      "importance": 0.8565,
-      "importance_score": 0.8565,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.9176,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-30T15:01:48Z",
-      "latest_at": "2026-07-30T15:01:48Z",
-      "primary_item": {
-        "id": "175d657ec5fc3fe69ee1d2ab081754f4ca3c6f59",
-        "title": "Visual Studio 中的 GitHub Copilot — 7 月更新 / GitHub Copilot in Visual Studio — July update",
-        "url": "https://github.blog/changelog/2026-07-30-github-copilot-in-visual-studio-july-update",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
       "story_id": "story_7a6592c940a7",
-      "title": "堆叠拉取请求现已提供公共预览版 / Stacked pull requests are now in public preview",
+      "title": "堆叠式拉取请求现已进入公开预览阶段 - GitHub 变更日志 / Stacked pull requests are now in public preview",
       "url": "https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview",
       "primary_url": "https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview",
       "source": "GitHub Changelog",
@@ -315,39 +236,120 @@
       "sources": [
         {
           "id": "b3fb15c60bc49ed9d5b37e58c122aa7147ba0672",
-          "title": "堆叠拉取请求现已提供公共预览版 / Stacked pull requests are now in public preview",
+          "title": "堆叠式拉取请求现已进入公开预览阶段 - GitHub 变更日志 / Stacked pull requests are now in public preview",
           "url": "https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
           "published_at": "2026-07-30T16:14:29Z"
+        },
+        {
+          "id": "4ede2134cd60a326511fc2cdf149250014832652",
+          "title": "堆叠式拉取请求现已进入公开预览阶段 - GitHub 变更日志 / Stacked PRs are now live on GitHub",
+          "url": "https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-30T16:26:16Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "GitHub Changelog"
+        "GitHub Changelog",
+        "Hacker News · 24h最热"
       ],
       "items": [
         {
           "id": "b3fb15c60bc49ed9d5b37e58c122aa7147ba0672",
-          "title": "堆叠拉取请求现已提供公共预览版 / Stacked pull requests are now in public preview",
+          "title": "堆叠式拉取请求现已进入公开预览阶段 - GitHub 变更日志 / Stacked pull requests are now in public preview",
           "url": "https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
           "published_at": "2026-07-30T16:14:29Z"
+        },
+        {
+          "id": "4ede2134cd60a326511fc2cdf149250014832652",
+          "title": "堆叠式拉取请求现已进入公开预览阶段 - GitHub 变更日志 / Stacked PRs are now live on GitHub",
+          "url": "https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-07-30T16:26:16Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8546,
-      "importance": 0.8546,
-      "importance_score": 0.8546,
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8636,
+      "importance": 0.8636,
+      "importance_score": 0.8636,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.968,
+        "recency": 0.888,
+        "story_heat": 0.25
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-30T16:14:29Z",
+      "latest_at": "2026-07-30T16:26:16Z",
+      "primary_item": {
+        "id": "b3fb15c60bc49ed9d5b37e58c122aa7147ba0672",
+        "title": "堆叠式拉取请求现已进入公开预览阶段 - GitHub 变更日志 / Stacked pull requests are now in public preview",
+        "url": "https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_8871db2f43d8",
+      "title": "GitHub Copilot 应用程序中的堆叠会话和拉取请求 / Stacked sessions and pull requests in the GitHub Copilot app",
+      "url": "https://github.blog/ai-and-ml/github-copilot/stacked-sessions-and-pull-requests-in-the-github-copilot-app",
+      "primary_url": "https://github.blog/ai-and-ml/github-copilot/stacked-sessions-and-pull-requests-in-the-github-copilot-app",
+      "source": "GitHub AI & ML",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "599d265292a80d46f3762173a3ae6bf662966bad",
+          "title": "GitHub Copilot 应用程序中的堆叠会话和拉取请求 / Stacked sessions and pull requests in the GitHub Copilot app",
+          "url": "https://github.blog/ai-and-ml/github-copilot/stacked-sessions-and-pull-requests-in-the-github-copilot-app",
+          "source": "GitHub AI & ML",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-30T17:30:24Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub AI & ML"
+      ],
+      "items": [
+        {
+          "id": "599d265292a80d46f3762173a3ae6bf662966bad",
+          "title": "GitHub Copilot 应用程序中的堆叠会话和拉取请求 / Stacked sessions and pull requests in the GitHub Copilot app",
+          "url": "https://github.blog/ai-and-ml/github-copilot/stacked-sessions-and-pull-requests-in-the-github-copilot-app",
+          "source": "GitHub AI & ML",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-30T17:30:24Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8611,
+      "importance": 0.8611,
+      "importance_score": 0.8611,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9407,
         "story_heat": 0.0
       },
       "category": "official",
@@ -356,14 +358,255 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-07-30T16:14:29Z",
-      "latest_at": "2026-07-30T16:14:29Z",
+      "earliest_at": "2026-07-30T17:30:24Z",
+      "latest_at": "2026-07-30T17:30:24Z",
       "primary_item": {
-        "id": "b3fb15c60bc49ed9d5b37e58c122aa7147ba0672",
-        "title": "堆叠拉取请求现已提供公共预览版 / Stacked pull requests are now in public preview",
-        "url": "https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview",
+        "id": "599d265292a80d46f3762173a3ae6bf662966bad",
+        "title": "GitHub Copilot 应用程序中的堆叠会话和拉取请求 / Stacked sessions and pull requests in the GitHub Copilot app",
+        "url": "https://github.blog/ai-and-ml/github-copilot/stacked-sessions-and-pull-requests-in-the-github-copilot-app",
+        "source": "GitHub AI & ML",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_af33f72d4acf",
+      "title": "使用自存储库语法引用相同存储库操作 / Reference same-repository actions with self-repository syntax",
+      "url": "https://github.blog/changelog/2026-07-30-reference-same-repository-actions-with-self-repository-syntax",
+      "primary_url": "https://github.blog/changelog/2026-07-30-reference-same-repository-actions-with-self-repository-syntax",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "795d87e8242e74f2756049bcac1df12249ae8f50",
+          "title": "使用自存储库语法引用相同存储库操作 / Reference same-repository actions with self-repository syntax",
+          "url": "https://github.blog/changelog/2026-07-30-reference-same-repository-actions-with-self-repository-syntax",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-30T17:39:46Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "795d87e8242e74f2756049bcac1df12249ae8f50",
+          "title": "使用自存储库语法引用相同存储库操作 / Reference same-repository actions with self-repository syntax",
+          "url": "https://github.blog/changelog/2026-07-30-reference-same-repository-actions-with-self-repository-syntax",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-30T17:39:46Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8504,
+      "importance": 0.8504,
+      "importance_score": 0.8504,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9472,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-30T17:39:46Z",
+      "latest_at": "2026-07-30T17:39:46Z",
+      "primary_item": {
+        "id": "795d87e8242e74f2756049bcac1df12249ae8f50",
+        "title": "使用自存储库语法引用相同存储库操作 / Reference same-repository actions with self-repository syntax",
+        "url": "https://github.blog/changelog/2026-07-30-reference-same-repository-actions-with-self-repository-syntax",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_b395bdbb822a",
+      "title": "OpenRouter 下调 GPT-5.6 Terra/Luna 价格",
+      "url": "https://aihot.virxact.com/items/cms7teqy003lfropbgykvnbjy",
+      "primary_url": "https://aihot.virxact.com/items/cms7teqy003lfropbgykvnbjy",
+      "source": "X：OpenRouter (@OpenRouter)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "5afc7667286ac8df87a01c525f5e1626216c1cf0",
+          "title": "OpenRouter 下调 GPT-5.6 Terra/Luna 价格",
+          "url": "https://aihot.virxact.com/items/cms7teqy003lfropbgykvnbjy",
+          "source": "X：OpenRouter (@OpenRouter)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-30T17:32:59Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：OpenRouter (@OpenRouter)"
+      ],
+      "items": [
+        {
+          "id": "5afc7667286ac8df87a01c525f5e1626216c1cf0",
+          "title": "OpenRouter 下调 GPT-5.6 Terra/Luna 价格",
+          "url": "https://aihot.virxact.com/items/cms7teqy003lfropbgykvnbjy",
+          "source": "X：OpenRouter (@OpenRouter)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-30T17:32:59Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8005,
+      "importance": 0.8005,
+      "importance_score": 0.8005,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9425,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-30T17:32:59Z",
+      "latest_at": "2026-07-30T17:32:59Z",
+      "primary_item": {
+        "id": "5afc7667286ac8df87a01c525f5e1626216c1cf0",
+        "title": "OpenRouter 下调 GPT-5.6 Terra/Luna 价格",
+        "url": "https://aihot.virxact.com/items/cms7teqy003lfropbgykvnbjy",
+        "source": "X：OpenRouter (@OpenRouter)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_7de0dde055c4",
+      "title": "GitHub Copilot 应用新增堆叠会话与拉取请求功能",
+      "url": "https://aihot.virxact.com/items/cms7t8vfu0365ropbxnkcx89n",
+      "primary_url": "https://aihot.virxact.com/items/cms7t8vfu0365ropbxnkcx89n",
+      "source": "GitHub Blog",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "789d609ff4cb8a66749e3fcac034b5846985c785",
+          "title": "GitHub Copilot 应用新增堆叠会话与拉取请求功能",
+          "url": "https://aihot.virxact.com/items/cms7t8vfu0365ropbxnkcx89n",
+          "source": "GitHub Blog",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-30T17:30:24Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Blog"
+      ],
+      "items": [
+        {
+          "id": "789d609ff4cb8a66749e3fcac034b5846985c785",
+          "title": "GitHub Copilot 应用新增堆叠会话与拉取请求功能",
+          "url": "https://aihot.virxact.com/items/cms7t8vfu0365ropbxnkcx89n",
+          "source": "GitHub Blog",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-30T17:30:24Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8001,
+      "importance": 0.8001,
+      "importance_score": 0.8001,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9407,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-30T17:30:24Z",
+      "latest_at": "2026-07-30T17:30:24Z",
+      "primary_item": {
+        "id": "789d609ff4cb8a66749e3fcac034b5846985c785",
+        "title": "GitHub Copilot 应用新增堆叠会话与拉取请求功能",
+        "url": "https://aihot.virxact.com/items/cms7t8vfu0365ropbxnkcx89n",
+        "source": "GitHub Blog",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_094dc1ad93b6",
+      "title": "Perplexity Computer 推出 Projects 功能",
+      "url": "https://aihot.virxact.com/items/cms7sw59802yyropbrio5ml9u",
+      "primary_url": "https://aihot.virxact.com/items/cms7sw59802yyropbrio5ml9u",
+      "source": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "0bd34f995f69b84c7037139f9d8de04ce43bbbc3",
+          "title": "Perplexity Computer 推出 Projects 功能",
+          "url": "https://aihot.virxact.com/items/cms7sw59802yyropbrio5ml9u",
+          "source": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-30T16:54:48Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)"
+      ],
+      "items": [
+        {
+          "id": "0bd34f995f69b84c7037139f9d8de04ce43bbbc3",
+          "title": "Perplexity Computer 推出 Projects 功能",
+          "url": "https://aihot.virxact.com/items/cms7sw59802yyropbrio5ml9u",
+          "source": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-30T16:54:48Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7952,
+      "importance": 0.7952,
+      "importance_score": 0.7952,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.916,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-30T16:54:48Z",
+      "latest_at": "2026-07-30T16:54:48Z",
+      "primary_item": {
+        "id": "0bd34f995f69b84c7037139f9d8de04ce43bbbc3",
+        "title": "Perplexity Computer 推出 Projects 功能",
+        "url": "https://aihot.virxact.com/items/cms7sw59802yyropbrio5ml9u",
+        "source": "X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -401,14 +644,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8023,
-      "importance": 0.8023,
-      "importance_score": 0.8023,
+      "score": 0.7863,
+      "importance": 0.7863,
+      "importance_score": 0.7863,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9514,
+        "recency": 0.8714,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -424,6 +667,67 @@
         "url": "https://aihot.virxact.com/items/cms7oxay30o4nro2e4t3r6ud2",
         "source": "LMSYS：Blog（Chatbot Arena 团队）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_fb76181fc482",
+      "title": "Visual Studio 中的 GitHub Copilot — 7 月更新 / GitHub Copilot in Visual Studio — July update",
+      "url": "https://github.blog/changelog/2026-07-30-github-copilot-in-visual-studio-july-update",
+      "primary_url": "https://github.blog/changelog/2026-07-30-github-copilot-in-visual-studio-july-update",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "175d657ec5fc3fe69ee1d2ab081754f4ca3c6f59",
+          "title": "Visual Studio 中的 GitHub Copilot — 7 月更新 / GitHub Copilot in Visual Studio — July update",
+          "url": "https://github.blog/changelog/2026-07-30-github-copilot-in-visual-studio-july-update",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-30T15:01:48Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "175d657ec5fc3fe69ee1d2ab081754f4ca3c6f59",
+          "title": "Visual Studio 中的 GitHub Copilot — 7 月更新 / GitHub Copilot in Visual Studio — July update",
+          "url": "https://github.blog/changelog/2026-07-30-github-copilot-in-visual-studio-july-update",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-30T15:01:48Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8405,
+      "importance": 0.8405,
+      "importance_score": 0.8405,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.8375,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-30T15:01:48Z",
+      "latest_at": "2026-07-30T15:01:48Z",
+      "primary_item": {
+        "id": "175d657ec5fc3fe69ee1d2ab081754f4ca3c6f59",
+        "title": "Visual Studio 中的 GitHub Copilot — 7 月更新 / GitHub Copilot in Visual Studio — July update",
+        "url": "https://github.blog/changelog/2026-07-30-github-copilot-in-visual-studio-july-update",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -461,14 +765,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7955,
-      "importance": 0.7955,
-      "importance_score": 0.7955,
+      "score": 0.7795,
+      "importance": 0.7795,
+      "importance_score": 0.7795,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9177,
+        "recency": 0.8376,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -521,14 +825,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7954,
-      "importance": 0.7954,
-      "importance_score": 0.7954,
+      "score": 0.7794,
+      "importance": 0.7794,
+      "importance_score": 0.7794,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.917,
+        "recency": 0.8369,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -544,67 +848,6 @@
         "url": "https://aihot.virxact.com/items/cms7o2xsk0nraro2epo1gt8ln",
         "source": "Google DeepMind：Blog（RSS）",
         "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_9cb4cbdb834e",
-      "title": "限制对托管设备的远程控制 / Limit remote control to managed devices",
-      "url": "https://github.blog/changelog/2026-07-30-limit-remote-control-to-managed-devices",
-      "primary_url": "https://github.blog/changelog/2026-07-30-limit-remote-control-to-managed-devices",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "63114627b4555cb419a1da7bffb9887203ad3083",
-          "title": "限制对托管设备的远程控制 / Limit remote control to managed devices",
-          "url": "https://github.blog/changelog/2026-07-30-limit-remote-control-to-managed-devices",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-30T14:54:47Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "63114627b4555cb419a1da7bffb9887203ad3083",
-          "title": "限制对托管设备的远程控制 / Limit remote control to managed devices",
-          "url": "https://github.blog/changelog/2026-07-30-limit-remote-control-to-managed-devices",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-30T14:54:47Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8435,
-      "importance": 0.8435,
-      "importance_score": 0.8435,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.9127,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-07-30T14:54:47Z",
-      "latest_at": "2026-07-30T14:54:47Z",
-      "primary_item": {
-        "id": "63114627b4555cb419a1da7bffb9887203ad3083",
-        "title": "限制对托管设备的远程控制 / Limit remote control to managed devices",
-        "url": "https://github.blog/changelog/2026-07-30-limit-remote-control-to-managed-devices",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -642,14 +885,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7769,
-      "importance": 0.7769,
-      "importance_score": 0.7769,
+      "score": 0.7609,
+      "importance": 0.7609,
+      "importance_score": 0.7609,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8245,
+        "recency": 0.7444,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -721,14 +964,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7661,
-      "importance": 0.7661,
-      "importance_score": 0.7661,
+      "score": 0.75,
+      "importance": 0.75,
+      "importance_score": 0.75,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6453,
+        "recency": 0.5652,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -745,6 +988,126 @@
         "url": "https://www.aibase.com/news/30013",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_4bfc0c9fda4f",
+      "title": "GPT-5.6 如何推进性价比前沿",
+      "url": "https://aihot.virxact.com/items/cms7sdkx702mjropbnq4l267q",
+      "primary_url": "https://aihot.virxact.com/items/cms7sdkx702mjropbnq4l267q",
+      "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "eaead5c61d7068c98fed9598b4a305c9c6f0569f",
+          "title": "GPT-5.6 如何推进性价比前沿",
+          "url": "https://aihot.virxact.com/items/cms7sdkx702mjropbnq4l267q",
+          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-30T10:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI：官网动态（RSS · 排除企业/客户案例）"
+      ],
+      "items": [
+        {
+          "id": "eaead5c61d7068c98fed9598b4a305c9c6f0569f",
+          "title": "GPT-5.6 如何推进性价比前沿",
+          "url": "https://aihot.virxact.com/items/cms7sdkx702mjropbnq4l267q",
+          "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-07-30T10:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7376,
+      "importance": 0.7376,
+      "importance_score": 0.7376,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.6279,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-07-30T10:00:00Z",
+      "latest_at": "2026-07-30T10:00:00Z",
+      "primary_item": {
+        "id": "eaead5c61d7068c98fed9598b4a305c9c6f0569f",
+        "title": "GPT-5.6 如何推进性价比前沿",
+        "url": "https://aihot.virxact.com/items/cms7sdkx702mjropbnq4l267q",
+        "source": "OpenAI：官网动态（RSS · 排除企业/客户案例）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_9cb4cbdb834e",
+      "title": "限制对托管设备的远程控制 / Limit remote control to managed devices",
+      "url": "https://github.blog/changelog/2026-07-30-limit-remote-control-to-managed-devices",
+      "primary_url": "https://github.blog/changelog/2026-07-30-limit-remote-control-to-managed-devices",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "63114627b4555cb419a1da7bffb9887203ad3083",
+          "title": "限制对托管设备的远程控制 / Limit remote control to managed devices",
+          "url": "https://github.blog/changelog/2026-07-30-limit-remote-control-to-managed-devices",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-30T14:54:47Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "63114627b4555cb419a1da7bffb9887203ad3083",
+          "title": "限制对托管设备的远程控制 / Limit remote control to managed devices",
+          "url": "https://github.blog/changelog/2026-07-30-limit-remote-control-to-managed-devices",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-07-30T14:54:47Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8275,
+      "importance": 0.8275,
+      "importance_score": 0.8275,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.8326,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-07-30T14:54:47Z",
+      "latest_at": "2026-07-30T14:54:47Z",
+      "primary_item": {
+        "id": "63114627b4555cb419a1da7bffb9887203ad3083",
+        "title": "限制对托管设备的远程控制 / Limit remote control to managed devices",
+        "url": "https://github.blog/changelog/2026-07-30-limit-remote-control-to-managed-devices",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -801,14 +1164,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7661,
-      "importance": 0.7661,
-      "importance_score": 0.7661,
+      "score": 0.75,
+      "importance": 0.75,
+      "importance_score": 0.75,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6453,
+        "recency": 0.5652,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -825,65 +1188,6 @@
         "url": "https://www.aibase.com/news/30009",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_7560139218d3",
-      "title": "Token Saver：用本地混合 RAG 将 Claude PDF token 消耗削减 92%-99% 的开源 MCP 扩展",
-      "url": "https://aihot.virxact.com/items/cms782fxi02w4ro2evmcwz6uj",
-      "primary_url": "https://aihot.virxact.com/items/cms782fxi02w4ro2evmcwz6uj",
-      "source": "MarkTechPost（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "4990a23d790d67ad49072a836a4417d4ce861333",
-          "title": "Token Saver：用本地混合 RAG 将 Claude PDF token 消耗削减 92%-99% 的开源 MCP 扩展",
-          "url": "https://aihot.virxact.com/items/cms782fxi02w4ro2evmcwz6uj",
-          "source": "MarkTechPost（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-30T07:43:29Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "MarkTechPost（RSS）"
-      ],
-      "items": [
-        {
-          "id": "4990a23d790d67ad49072a836a4417d4ce861333",
-          "title": "Token Saver：用本地混合 RAG 将 Claude PDF token 消耗削减 92%-99% 的开源 MCP 扩展",
-          "url": "https://aihot.virxact.com/items/cms782fxi02w4ro2evmcwz6uj",
-          "source": "MarkTechPost（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-07-30T07:43:29Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7346,
-      "importance": 0.7346,
-      "importance_score": 0.7346,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6132,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-30T07:43:29Z",
-      "latest_at": "2026-07-30T07:43:29Z",
-      "primary_item": {
-        "id": "4990a23d790d67ad49072a836a4417d4ce861333",
-        "title": "Token Saver：用本地混合 RAG 将 Claude PDF token 消耗削减 92%-99% 的开源 MCP 扩展",
-        "url": "https://aihot.virxact.com/items/cms782fxi02w4ro2evmcwz6uj",
-        "source": "MarkTechPost（RSS）",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -921,20 +1225,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7591,
-      "importance": 0.7591,
-      "importance_score": 0.7591,
+      "score": 0.7431,
+      "importance": 0.7431,
+      "importance_score": 0.7431,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7356,
+        "recency": 0.6555,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-07-30T10:39:47.911115Z",
       "latest_at": "2026-07-30T10:39:47.911115Z",
@@ -1000,14 +1303,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.691,
-      "importance": 0.691,
-      "importance_score": 0.691,
+      "score": 0.675,
+      "importance": 0.675,
+      "importance_score": 0.675,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.2702,
+        "recency": 0.1901,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1079,14 +1382,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7429,
-      "importance": 0.7429,
-      "importance_score": 0.7429,
+      "score": 0.7269,
+      "importance": 0.7269,
+      "importance_score": 0.7269,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.5294,
+        "recency": 0.4494,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1102,66 +1405,6 @@
         "url": "https://www.aibase.com/news/30002",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_6683db9728fe",
-      "title": "Copilot 代码审查：代理技能和 MCP 现已普遍可用 / Copilot code review: Agent skills and MCP now generally available",
-      "url": "https://github.blog/changelog/2026-07-29-copilot-code-review-agent-skills-and-mcp-now-generally-available",
-      "primary_url": "https://github.blog/changelog/2026-07-29-copilot-code-review-agent-skills-and-mcp-now-generally-available",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "bd617df3b85c49b9053b7db91496f05d38961e1e",
-          "title": "Copilot 代码审查：代理技能和 MCP 现已普遍可用 / Copilot code review: Agent skills and MCP now generally available",
-          "url": "https://github.blog/changelog/2026-07-29-copilot-code-review-agent-skills-and-mcp-now-generally-available",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-29T21:26:19Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "bd617df3b85c49b9053b7db91496f05d38961e1e",
-          "title": "Copilot 代码审查：代理技能和 MCP 现已普遍可用 / Copilot code review: Agent skills and MCP now generally available",
-          "url": "https://github.blog/changelog/2026-07-29-copilot-code-review-agent-skills-and-mcp-now-generally-available",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-07-29T21:26:19Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7339,
-      "importance": 0.7339,
-      "importance_score": 0.7339,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.99,
-        "recency": 0.1846,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-29T21:26:19Z",
-      "latest_at": "2026-07-29T21:26:19Z",
-      "primary_item": {
-        "id": "bd617df3b85c49b9053b7db91496f05d38961e1e",
-        "title": "Copilot 代码审查：代理技能和 MCP 现已普遍可用 / Copilot code review: Agent skills and MCP now generally available",
-        "url": "https://github.blog/changelog/2026-07-29-copilot-code-review-agent-skills-and-mcp-now-generally-available",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -1218,14 +1461,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7429,
-      "importance": 0.7429,
-      "importance_score": 0.7429,
+      "score": 0.7269,
+      "importance": 0.7269,
+      "importance_score": 0.7269,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.5294,
+        "recency": 0.4494,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1239,299 +1482,6 @@
         "id": "ccf671f64b711a1d7dbe69079ae569bba7bdc319",
         "title": "腾讯开源 AngelSpec 框架：破解大模型真实推理效率难题",
         "url": "https://www.aibase.com/news/30001",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_5986d58198e9",
-      "title": "MCP初创公司Runlayer指控Rippling涉嫌盗用其产品创意",
-      "url": "https://www.aibase.com/news/30011",
-      "primary_url": "https://www.aibase.com/news/30011",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "074ed43245cd4fd924faac5e646e3eeadfa9b7a2",
-          "title": "MCP初创公司Runlayer指控Rippling涉嫌盗用其产品创意",
-          "url": "https://www.aibase.com/news/30011",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-30T08:29:43.635805Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "074ed43245cd4fd924faac5e646e3eeadfa9b7a2",
-          "title": "MCP初创公司Runlayer指控Rippling涉嫌盗用其产品创意",
-          "url": "https://www.aibase.com/news/30011",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-30T08:29:43.635805Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7411,
-      "importance": 0.7411,
-      "importance_score": 0.7411,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6453,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-30T08:29:43.635805Z",
-      "latest_at": "2026-07-30T08:29:43.635805Z",
-      "primary_item": {
-        "id": "074ed43245cd4fd924faac5e646e3eeadfa9b7a2",
-        "title": "MCP初创公司Runlayer指控Rippling涉嫌盗用其产品创意",
-        "url": "https://www.aibase.com/news/30011",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_781f980bb008",
-      "title": "OpenAI 的黑客灾难归咎于人为错误 / OpenAI’s Hacking Debacle Comes Down to Human Error",
-      "url": "https://www.wired.com/story/openais-hacking-debacle-was-a-human-mistake",
-      "primary_url": "https://www.wired.com/story/openais-hacking-debacle-was-a-human-mistake",
-      "source": "Wired AI",
-      "source_name": "OPML RSS",
-      "sources": [
-        {
-          "id": "c8c0bf99cd4f2fc9994b797eaa7fb8ec98b07a65",
-          "title": "OpenAI 的黑客灾难归咎于人为错误 / OpenAI’s Hacking Debacle Comes Down to Human Error",
-          "url": "https://www.wired.com/story/openais-hacking-debacle-was-a-human-mistake",
-          "source": "Wired AI",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-30T10:30:00Z"
-        },
-        {
-          "id": "8ad35977a1bc574acdcbadc6f45ce5fd340d7963",
-          "title": "OpenAI 的黑客灾难是人为错误 / OpenAI’s Hacking Debacle Was a Human Mistake",
-          "url": "https://www.wired.com/story/openais-hacking-debacle-was-a-human-mistake",
-          "source": "Wired",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-30T10:30:00Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Wired",
-        "Wired AI"
-      ],
-      "items": [
-        {
-          "id": "c8c0bf99cd4f2fc9994b797eaa7fb8ec98b07a65",
-          "title": "OpenAI 的黑客灾难归咎于人为错误 / OpenAI’s Hacking Debacle Comes Down to Human Error",
-          "url": "https://www.wired.com/story/openais-hacking-debacle-was-a-human-mistake",
-          "source": "Wired AI",
-          "source_name": "OPML RSS",
-          "site_id": "opmlrss",
-          "published_at": "2026-07-30T10:30:00Z"
-        },
-        {
-          "id": "8ad35977a1bc574acdcbadc6f45ce5fd340d7963",
-          "title": "OpenAI 的黑客灾难是人为错误 / OpenAI’s Hacking Debacle Was a Human Mistake",
-          "url": "https://www.wired.com/story/openais-hacking-debacle-was-a-human-mistake",
-          "source": "Wired",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-30T10:30:00Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5838,
-      "importance": 0.5838,
-      "importance_score": 0.5838,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.5,
-        "ai_relevance": 0.71,
-        "recency": 0.7288,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-30T10:30:00Z",
-      "latest_at": "2026-07-30T10:30:00Z",
-      "primary_item": {
-        "id": "c8c0bf99cd4f2fc9994b797eaa7fb8ec98b07a65",
-        "title": "OpenAI 的黑客灾难归咎于人为错误 / OpenAI’s Hacking Debacle Comes Down to Human Error",
-        "url": "https://www.wired.com/story/openais-hacking-debacle-was-a-human-mistake",
-        "source": "Wired AI",
-        "source_name": "OPML RSS"
-      }
-    },
-    {
-      "story_id": "story_82c2a5cb1208",
-      "title": "Gemini Robotics 2 为机器人带来全身智能 / Gemini Robotics 2 brings whole body intelligence to robots",
-      "url": "https://news.ycombinator.com/item?id=49111237",
-      "primary_url": "https://news.ycombinator.com/item?id=49111237",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "5a9b853fb94376b0789912d9ea7be17a4cc98ff2",
-          "title": "Gemini Robotics 2 为机器人带来全身智能 / Gemini Robotics 2 brings whole body intelligence to robots",
-          "url": "https://news.ycombinator.com/item?id=49111237",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-30T16:35:11.404000Z"
-        },
-        {
-          "id": "ee28af4f0c22eb65b659885f6af725417e552b5d",
-          "title": "Gemini Robotics 2 为机器人带来了全身智能",
-          "url": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots",
-          "source": "deepmind.google",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-30T16:09:19.970000Z"
-        },
-        {
-          "id": "a011f2a5b8945916eee7888fd84d7ca2e0843bb9",
-          "title": "Gemini Robotics 2 为机器人带来了全身智能 / Gemini Robotics 2 brings whole body intelligence to robots",
-          "url": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-30T15:15:48Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News",
-        "deepmind.google",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "5a9b853fb94376b0789912d9ea7be17a4cc98ff2",
-          "title": "Gemini Robotics 2 为机器人带来全身智能 / Gemini Robotics 2 brings whole body intelligence to robots",
-          "url": "https://news.ycombinator.com/item?id=49111237",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-07-30T16:35:11.404000Z"
-        },
-        {
-          "id": "ee28af4f0c22eb65b659885f6af725417e552b5d",
-          "title": "Gemini Robotics 2 为机器人带来了全身智能",
-          "url": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots",
-          "source": "deepmind.google",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-07-30T16:09:19.970000Z"
-        },
-        {
-          "id": "a011f2a5b8945916eee7888fd84d7ca2e0843bb9",
-          "title": "Gemini Robotics 2 为机器人带来了全身智能 / Gemini Robotics 2 brings whole body intelligence to robots",
-          "url": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-07-30T15:15:48Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5695,
-      "importance": 0.5695,
-      "importance_score": 0.5695,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9824,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-07-30T15:15:48Z",
-      "latest_at": "2026-07-30T16:35:11.404000Z",
-      "primary_item": {
-        "id": "5a9b853fb94376b0789912d9ea7be17a4cc98ff2",
-        "title": "Gemini Robotics 2 为机器人带来全身智能 / Gemini Robotics 2 brings whole body intelligence to robots",
-        "url": "https://news.ycombinator.com/item?id=49111237",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_f757e33401b3",
-      "title": "WorkBuddy上线「人机双写」:AI走出聊天框，坐进你的文档里一起干活",
-      "url": "https://www.aibase.com/news/30007",
-      "primary_url": "https://www.aibase.com/news/30007",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "4a8c5e489f4be5d6ff45b58a9571b833b4b8a695",
-          "title": "WorkBuddy上线「人机双写」:AI走出聊天框，坐进你的文档里一起干活",
-          "url": "https://www.aibase.com/news/30007",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-30T08:29:43.635805Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "4a8c5e489f4be5d6ff45b58a9571b833b4b8a695",
-          "title": "WorkBuddy上线「人机双写」:AI走出聊天框，坐进你的文档里一起干活",
-          "url": "https://www.aibase.com/news/30007",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-07-30T08:29:43.635805Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7411,
-      "importance": 0.7411,
-      "importance_score": 0.7411,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6453,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-07-30T08:29:43.635805Z",
-      "latest_at": "2026-07-30T08:29:43.635805Z",
-      "primary_item": {
-        "id": "4a8c5e489f4be5d6ff45b58a9571b833b4b8a695",
-        "title": "WorkBuddy上线「人机双写」:AI走出聊天框，坐进你的文档里一起干活",
-        "url": "https://www.aibase.com/news/30007",
         "source": "AIbase",
         "source_name": "AIbase"
       }
