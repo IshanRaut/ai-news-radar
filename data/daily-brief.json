@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-02T09:59:00.166920Z",
+  "generated_at": "2026-08-02T11:22:59.591678Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -99,14 +99,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7821,
-      "importance": 0.7821,
-      "importance_score": 0.7821,
+      "score": 0.7705,
+      "importance": 0.7705,
+      "importance_score": 0.7705,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8506,
+        "recency": 0.7923,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -178,14 +178,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5785,
-      "importance": 0.5785,
-      "importance_score": 0.5785,
+      "score": 0.5668,
+      "importance": 0.5668,
+      "importance_score": 0.5668,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.5,
         "ai_relevance": 0.67,
-        "recency": 0.7624,
+        "recency": 0.7041,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -200,6 +200,240 @@
         "url": "https://simonwillison.net/2026/Aug/2/open-letters",
         "source": "Simon Willison",
         "source_name": "OPML RSS"
+      }
+    },
+    {
+      "story_id": "story_201fe558a473",
+      "title": "esengine /      DeepSeek-Reasonix",
+      "url": "https://github.com/esengine/DeepSeek-Reasonix",
+      "primary_url": "https://github.com/esengine/DeepSeek-Reasonix",
+      "source": "github",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "d5342cd88cb8a8178d7e8cab2c23af85b0e968ab",
+          "title": "esengine /      DeepSeek-Reasonix",
+          "url": "https://github.com/esengine/DeepSeek-Reasonix",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-02T11:23:35.742000Z"
+        },
+        {
+          "id": "f6861e90af6d140d7b6e7037cb2cdb68909f7ff5",
+          "title": "esengine / DeepSeek-Reasonix",
+          "url": "https://github.com/esengine/DeepSeek-Reasonix",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "GitHub · Trending Today",
+        "github"
+      ],
+      "items": [
+        {
+          "id": "d5342cd88cb8a8178d7e8cab2c23af85b0e968ab",
+          "title": "esengine /      DeepSeek-Reasonix",
+          "url": "https://github.com/esengine/DeepSeek-Reasonix",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-02T11:23:35.742000Z"
+        },
+        {
+          "id": "f6861e90af6d140d7b6e7037cb2cdb68909f7ff5",
+          "title": "esengine / DeepSeek-Reasonix",
+          "url": "https://github.com/esengine/DeepSeek-Reasonix",
+          "source": "GitHub · Trending Today",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.548,
+      "importance": 0.548,
+      "importance_score": 0.548,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-02T11:22:59.591678Z",
+      "latest_at": "2026-08-02T11:23:35.742000Z",
+      "primary_item": {
+        "id": "d5342cd88cb8a8178d7e8cab2c23af85b0e968ab",
+        "title": "esengine /      DeepSeek-Reasonix",
+        "url": "https://github.com/esengine/DeepSeek-Reasonix",
+        "source": "github",
+        "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_8bfd4174f55c",
+      "title": "人工智能：Ars Notoria 和即时知识的承诺 / Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge",
+      "url": "https://news.ycombinator.com/item?id=49143001",
+      "primary_url": "https://news.ycombinator.com/item?id=49143001",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "f5caf82e06932eaf157b381a7a92ea25ab4c6357",
+          "title": "人工智能：Ars Notoria 和即时知识的承诺 / Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge",
+          "url": "https://news.ycombinator.com/item?id=49143001",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-02T11:23:35.742000Z"
+        },
+        {
+          "id": "6c31c1d24f0ddc50687d80e84670ca05b837d0b2",
+          "title": "人工智能：Ars Notoria 和即时知识的承诺 / Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge",
+          "url": "https://publicdomainreview.org/essay/ars-notoria",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-02T10:18:24Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "f5caf82e06932eaf157b381a7a92ea25ab4c6357",
+          "title": "人工智能：Ars Notoria 和即时知识的承诺 / Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge",
+          "url": "https://news.ycombinator.com/item?id=49143001",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-02T11:23:35.742000Z"
+        },
+        {
+          "id": "6c31c1d24f0ddc50687d80e84670ca05b837d0b2",
+          "title": "人工智能：Ars Notoria 和即时知识的承诺 / Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge",
+          "url": "https://publicdomainreview.org/essay/ars-notoria",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-02T10:18:24Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.548,
+      "importance": 0.548,
+      "importance_score": 0.548,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-02T10:18:24Z",
+      "latest_at": "2026-08-02T11:23:35.742000Z",
+      "primary_item": {
+        "id": "f5caf82e06932eaf157b381a7a92ea25ab4c6357",
+        "title": "人工智能：Ars Notoria 和即时知识的承诺 / Artificial Intelligence: Ars Notoria and the Promise of Instant Knowledge",
+        "url": "https://news.ycombinator.com/item?id=49143001",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_8f51a03d3151",
+      "title": "通过手动重新输入大语言模型（LLM）生成的代码来预防认知债务",
+      "url": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code",
+      "primary_url": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code",
+      "source": "ankursethi.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "ac5b43aa0f6847f061cdb73d97163b3bf96ac7b0",
+          "title": "通过手动重新输入大语言模型（LLM）生成的代码来预防认知债务",
+          "url": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code",
+          "source": "ankursethi.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-02T10:48:42.540000Z"
+        },
+        {
+          "id": "3b2438b5e00990ca728f8c86fd7e28f6315f78e5",
+          "title": "通过手动重新输入大语言模型（LLM）生成的代码来预防认知债务 / Prevent cognitive debt by manually retyping LLM-generated code",
+          "url": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-02T10:31:38Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Lobsters (技术社区)",
+        "ankursethi.com"
+      ],
+      "items": [
+        {
+          "id": "ac5b43aa0f6847f061cdb73d97163b3bf96ac7b0",
+          "title": "通过手动重新输入大语言模型（LLM）生成的代码来预防认知债务",
+          "url": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code",
+          "source": "ankursethi.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-02T10:48:42.540000Z"
+        },
+        {
+          "id": "3b2438b5e00990ca728f8c86fd7e28f6315f78e5",
+          "title": "通过手动重新输入大语言模型（LLM）生成的代码来预防认知债务 / Prevent cognitive debt by manually retyping LLM-generated code",
+          "url": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-02T10:31:38Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5432,
+      "importance": 0.5432,
+      "importance_score": 0.5432,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9762,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-02T10:31:38Z",
+      "latest_at": "2026-08-02T10:48:42.540000Z",
+      "primary_item": {
+        "id": "ac5b43aa0f6847f061cdb73d97163b3bf96ac7b0",
+        "title": "通过手动重新输入大语言模型（LLM）生成的代码来预防认知债务",
+        "url": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code",
+        "source": "ankursethi.com",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -256,14 +490,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5349,
-      "importance": 0.5349,
-      "importance_score": 0.5349,
+      "score": 0.5232,
+      "importance": 0.5232,
+      "importance_score": 0.5232,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9345,
+        "recency": 0.8762,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -278,181 +512,6 @@
         "url": "https://www.businessinsider.com/steve-hanke-ai-not-destroying-jobs-unemployment-cost-data-centers-2026-7",
         "source": "www.businessinsider.com",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_6d58997b466c",
-      "title": "数学与理论计算机科学领域的十大进展 / Ten advances in mathematics and theoretical computer science",
-      "url": "https://openai.com/index/ten-advances-in-mathematics",
-      "primary_url": "https://openai.com/index/ten-advances-in-mathematics",
-      "source": "Lobsters (技术社区)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "790dbe31aa4e29d5ea8eb7394271d24efcc861cc",
-          "title": "数学与理论计算机科学领域的十大进展 / Ten advances in mathematics and theoretical computer science",
-          "url": "https://openai.com/index/ten-advances-in-mathematics",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-02T08:15:04Z"
-        },
-        {
-          "id": "b2b7b92476021cfa24a815c8509e480dceedee5e",
-          "title": "数学与理论计算机科学领域的十大进展",
-          "url": "https://openai.com/index/ten-advances-in-mathematics",
-          "source": "openai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-01T10:17:30.122000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Lobsters (技术社区)",
-        "openai.com"
-      ],
-      "items": [
-        {
-          "id": "790dbe31aa4e29d5ea8eb7394271d24efcc861cc",
-          "title": "数学与理论计算机科学领域的十大进展 / Ten advances in mathematics and theoretical computer science",
-          "url": "https://openai.com/index/ten-advances-in-mathematics",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-02T08:15:04Z"
-        },
-        {
-          "id": "b2b7b92476021cfa24a815c8509e480dceedee5e",
-          "title": "数学与理论计算机科学领域的十大进展",
-          "url": "https://openai.com/index/ten-advances-in-mathematics",
-          "source": "openai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-01T10:17:30.122000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5336,
-      "importance": 0.5336,
-      "importance_score": 0.5336,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9278,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-01T10:17:30.122000Z",
-      "latest_at": "2026-08-02T08:15:04Z",
-      "primary_item": {
-        "id": "790dbe31aa4e29d5ea8eb7394271d24efcc861cc",
-        "title": "数学与理论计算机科学领域的十大进展 / Ten advances in mathematics and theoretical computer science",
-        "url": "https://openai.com/index/ten-advances-in-mathematics",
-        "source": "Lobsters (技术社区)",
-        "source_name": "Info Flow"
-      }
-    },
-    {
-      "story_id": "story_aebc4b890a8b",
-      "title": "Show HN：CostPerPrompt – 实时 AI API 定价和实际工作负载成本计算器 / Show HN: CostPerPrompt – Live AI API pricing and real-workload cost calculators",
-      "url": "https://news.ycombinator.com/item?id=49140340",
-      "primary_url": "https://news.ycombinator.com/item?id=49140340",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "206af265b950be5f12e82285bf43bfc57041e321",
-          "title": "Show HN：CostPerPrompt – 实时 AI API 定价和实际工作负载成本计算器 / Show HN: CostPerPrompt – Live AI API pricing and real-workload cost calculators",
-          "url": "https://news.ycombinator.com/item?id=49140340",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-02T04:55:43.634000Z"
-        },
-        {
-          "id": "94b722cdb7dc5fd8479e73dbee0e694962e45b97",
-          "title": "Show HN: CostPerPrompt – 实时 AI API 定价及实际工作负载成本计算器",
-          "url": "https://costperprompt.com",
-          "source": "costperprompt.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-02T02:01:09.958000Z"
-        },
-        {
-          "id": "ea352b51ccf016520ecfc34b60e184a9ca79edde",
-          "title": "Show HN: CostPerPrompt – 实时 AI API 定价及实际工作负载成本计算器 / Show HN: CostPerPrompt – Live AI API pricing and real-workload cost calculators",
-          "url": "https://costperprompt.com",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-02T01:56:44Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "costperprompt.com",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "206af265b950be5f12e82285bf43bfc57041e321",
-          "title": "Show HN：CostPerPrompt – 实时 AI API 定价和实际工作负载成本计算器 / Show HN: CostPerPrompt – Live AI API pricing and real-workload cost calculators",
-          "url": "https://news.ycombinator.com/item?id=49140340",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-02T04:55:43.634000Z"
-        },
-        {
-          "id": "94b722cdb7dc5fd8479e73dbee0e694962e45b97",
-          "title": "Show HN: CostPerPrompt – 实时 AI API 定价及实际工作负载成本计算器",
-          "url": "https://costperprompt.com",
-          "source": "costperprompt.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-02T02:01:09.958000Z"
-        },
-        {
-          "id": "ea352b51ccf016520ecfc34b60e184a9ca79edde",
-          "title": "Show HN: CostPerPrompt – 实时 AI API 定价及实际工作负载成本计算器 / Show HN: CostPerPrompt – Live AI API pricing and real-workload cost calculators",
-          "url": "https://costperprompt.com",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-02T01:56:44Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5309,
-      "importance": 0.5309,
-      "importance_score": 0.5309,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7894,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-02T01:56:44Z",
-      "latest_at": "2026-08-02T04:55:43.634000Z",
-      "primary_item": {
-        "id": "206af265b950be5f12e82285bf43bfc57041e321",
-        "title": "Show HN：CostPerPrompt – 实时 AI API 定价和实际工作负载成本计算器 / Show HN: CostPerPrompt – Live AI API pricing and real-workload cost calculators",
-        "url": "https://news.ycombinator.com/item?id=49140340",
-        "source": "hackernews",
-        "source_name": "NewsNow"
       }
     },
     {
@@ -509,14 +568,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5277,
-      "importance": 0.5277,
-      "importance_score": 0.5277,
+      "score": 0.5161,
+      "importance": 0.5161,
+      "importance_score": 0.5161,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8986,
+        "recency": 0.8403,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -587,14 +646,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5261,
-      "importance": 0.5261,
-      "importance_score": 0.5261,
+      "score": 0.5144,
+      "importance": 0.5144,
+      "importance_score": 0.5144,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8905,
+        "recency": 0.8322,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -702,14 +761,14 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5205,
-      "importance": 0.5205,
-      "importance_score": 0.5205,
+      "score": 0.5089,
+      "importance": 0.5089,
+      "importance_score": 0.5089,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6127,
+        "recency": 0.5544,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -724,6 +783,181 @@
         "url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
         "source": "mitsloan.mit.edu",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_aebc4b890a8b",
+      "title": "Show HN：CostPerPrompt – 实时 AI API 定价和实际工作负载成本计算器 / Show HN: CostPerPrompt – Live AI API pricing and real-workload cost calculators",
+      "url": "https://news.ycombinator.com/item?id=49140340",
+      "primary_url": "https://news.ycombinator.com/item?id=49140340",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "206af265b950be5f12e82285bf43bfc57041e321",
+          "title": "Show HN：CostPerPrompt – 实时 AI API 定价和实际工作负载成本计算器 / Show HN: CostPerPrompt – Live AI API pricing and real-workload cost calculators",
+          "url": "https://news.ycombinator.com/item?id=49140340",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-02T04:55:43.634000Z"
+        },
+        {
+          "id": "94b722cdb7dc5fd8479e73dbee0e694962e45b97",
+          "title": "Show HN: CostPerPrompt – 实时 AI API 定价及实际工作负载成本计算器",
+          "url": "https://costperprompt.com",
+          "source": "costperprompt.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-02T02:01:09.958000Z"
+        },
+        {
+          "id": "ea352b51ccf016520ecfc34b60e184a9ca79edde",
+          "title": "Show HN: CostPerPrompt – 实时 AI API 定价及实际工作负载成本计算器 / Show HN: CostPerPrompt – Live AI API pricing and real-workload cost calculators",
+          "url": "https://costperprompt.com",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-02T01:56:44Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "costperprompt.com",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "206af265b950be5f12e82285bf43bfc57041e321",
+          "title": "Show HN：CostPerPrompt – 实时 AI API 定价和实际工作负载成本计算器 / Show HN: CostPerPrompt – Live AI API pricing and real-workload cost calculators",
+          "url": "https://news.ycombinator.com/item?id=49140340",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-02T04:55:43.634000Z"
+        },
+        {
+          "id": "94b722cdb7dc5fd8479e73dbee0e694962e45b97",
+          "title": "Show HN: CostPerPrompt – 实时 AI API 定价及实际工作负载成本计算器",
+          "url": "https://costperprompt.com",
+          "source": "costperprompt.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-02T02:01:09.958000Z"
+        },
+        {
+          "id": "ea352b51ccf016520ecfc34b60e184a9ca79edde",
+          "title": "Show HN: CostPerPrompt – 实时 AI API 定价及实际工作负载成本计算器 / Show HN: CostPerPrompt – Live AI API pricing and real-workload cost calculators",
+          "url": "https://costperprompt.com",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-02T01:56:44Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5192,
+      "importance": 0.5192,
+      "importance_score": 0.5192,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7311,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-02T01:56:44Z",
+      "latest_at": "2026-08-02T04:55:43.634000Z",
+      "primary_item": {
+        "id": "206af265b950be5f12e82285bf43bfc57041e321",
+        "title": "Show HN：CostPerPrompt – 实时 AI API 定价和实际工作负载成本计算器 / Show HN: CostPerPrompt – Live AI API pricing and real-workload cost calculators",
+        "url": "https://news.ycombinator.com/item?id=49140340",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_2df07cd64bff",
+      "title": "2026年科技行业裁员潮加剧：前七个月裁员人数已超2025全年，AI投资却持续狂飙",
+      "url": "https://www.ithome.com/0/984/712.htm",
+      "primary_url": "https://www.ithome.com/0/984/712.htm",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "5f0e16fc1b27ed5cbb8cdffe0fd7e8f6f512bb36",
+          "title": "2026年科技行业裁员潮加剧：前七个月裁员人数已超2025全年，AI投资却持续狂飙",
+          "url": "https://www.ithome.com/0/984/712.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "f14adaad3e867090bc71c75968ca7e6d7e49f5de",
+          "title": "2026 年科技行业裁员潮加剧：前七个月裁员人数已超 2025 全年，AI 投资却持续狂飙",
+          "url": "https://www.ithome.com/0/984/712.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-02T04:07:32Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "IT之家 (ITHome)",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "5f0e16fc1b27ed5cbb8cdffe0fd7e8f6f512bb36",
+          "title": "2026年科技行业裁员潮加剧：前七个月裁员人数已超2025全年，AI投资却持续狂飙",
+          "url": "https://www.ithome.com/0/984/712.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "f14adaad3e867090bc71c75968ca7e6d7e49f5de",
+          "title": "2026 年科技行业裁员潮加剧：前七个月裁员人数已超 2025 全年，AI 投资却持续狂飙",
+          "url": "https://www.ithome.com/0/984/712.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-02T04:07:32Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4941,
+      "importance": 0.4941,
+      "importance_score": 0.4941,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7307,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-02T04:07:32Z",
+      "latest_at": "2026-08-02T04:55:14.436777Z",
+      "primary_item": {
+        "id": "5f0e16fc1b27ed5cbb8cdffe0fd7e8f6f512bb36",
+        "title": "2026年科技行业裁员潮加剧：前七个月裁员人数已超2025全年，AI投资却持续狂飙",
+        "url": "https://www.ithome.com/0/984/712.htm",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
       }
     },
     {
@@ -797,14 +1031,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5309,
-      "importance": 0.5309,
-      "importance_score": 0.5309,
+      "score": 0.5192,
+      "importance": 0.5192,
+      "importance_score": 0.5192,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7894,
+        "recency": 0.7311,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -817,162 +1051,6 @@
         "id": "a37f6d0f91a128324e51feaa4161dd48cdcb38f4",
         "title": "人工智能的财务建议出奇地好，特别是如果你提出正确的问题 / AI financial advice is surprisingly good, especially if you ask right questions",
         "url": "https://news.ycombinator.com/item?id=49139102",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_2df07cd64bff",
-      "title": "2026年科技行业裁员潮加剧：前七个月裁员人数已超2025全年，AI投资却持续狂飙",
-      "url": "https://www.ithome.com/0/984/712.htm",
-      "primary_url": "https://www.ithome.com/0/984/712.htm",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "5f0e16fc1b27ed5cbb8cdffe0fd7e8f6f512bb36",
-          "title": "2026年科技行业裁员潮加剧：前七个月裁员人数已超2025全年，AI投资却持续狂飙",
-          "url": "https://www.ithome.com/0/984/712.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "f14adaad3e867090bc71c75968ca7e6d7e49f5de",
-          "title": "2026 年科技行业裁员潮加剧：前七个月裁员人数已超 2025 全年，AI 投资却持续狂飙",
-          "url": "https://www.ithome.com/0/984/712.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-02T04:07:32Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "IT之家 (ITHome)",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "5f0e16fc1b27ed5cbb8cdffe0fd7e8f6f512bb36",
-          "title": "2026年科技行业裁员潮加剧：前七个月裁员人数已超2025全年，AI投资却持续狂飙",
-          "url": "https://www.ithome.com/0/984/712.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "f14adaad3e867090bc71c75968ca7e6d7e49f5de",
-          "title": "2026 年科技行业裁员潮加剧：前七个月裁员人数已超 2025 全年，AI 投资却持续狂飙",
-          "url": "https://www.ithome.com/0/984/712.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-02T04:07:32Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5058,
-      "importance": 0.5058,
-      "importance_score": 0.5058,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7891,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-02T04:07:32Z",
-      "latest_at": "2026-08-02T04:55:14.436777Z",
-      "primary_item": {
-        "id": "5f0e16fc1b27ed5cbb8cdffe0fd7e8f6f512bb36",
-        "title": "2026年科技行业裁员潮加剧：前七个月裁员人数已超2025全年，AI投资却持续狂飙",
-        "url": "https://www.ithome.com/0/984/712.htm",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_a9987b657327",
-      "title": "OpenAI 声称对 Connes 刚性猜想的反驳无效 [pdf] / OpenAI's claimed disproof of Connes' Rigidity Conjecture is invalid [pdf]",
-      "url": "https://news.ycombinator.com/item?id=49140869",
-      "primary_url": "https://news.ycombinator.com/item?id=49140869",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "e7a1925f9b91afb2ebee61c6dd200c32e153220a",
-          "title": "OpenAI 声称对 Connes 刚性猜想的反驳无效 [pdf] / OpenAI's claimed disproof of Connes' Rigidity Conjecture is invalid [pdf]",
-          "url": "https://news.ycombinator.com/item?id=49140869",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-02T04:55:43.634000Z"
-        },
-        {
-          "id": "fd4a2ac91971afb1a87260d28dfe197c36d124c8",
-          "title": "OpenAI 声称对 Connes 刚性猜想的反驳无效 [pdf] / OpenAI's claimed disproof of Connes' Rigidity Conjecture is invalid [pdf]",
-          "url": "https://philarchive.org/archive/NIEWTCv17",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-02T03:41:38Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "e7a1925f9b91afb2ebee61c6dd200c32e153220a",
-          "title": "OpenAI 声称对 Connes 刚性猜想的反驳无效 [pdf] / OpenAI's claimed disproof of Connes' Rigidity Conjecture is invalid [pdf]",
-          "url": "https://news.ycombinator.com/item?id=49140869",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-02T04:55:43.634000Z"
-        },
-        {
-          "id": "fd4a2ac91971afb1a87260d28dfe197c36d124c8",
-          "title": "OpenAI 声称对 Connes 刚性猜想的反驳无效 [pdf] / OpenAI's claimed disproof of Connes' Rigidity Conjecture is invalid [pdf]",
-          "url": "https://philarchive.org/archive/NIEWTCv17",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-02T03:41:38Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5059,
-      "importance": 0.5059,
-      "importance_score": 0.5059,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7894,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-02T03:41:38Z",
-      "latest_at": "2026-08-02T04:55:43.634000Z",
-      "primary_item": {
-        "id": "e7a1925f9b91afb2ebee61c6dd200c32e153220a",
-        "title": "OpenAI 声称对 Connes 刚性猜想的反驳无效 [pdf] / OpenAI's claimed disproof of Connes' Rigidity Conjecture is invalid [pdf]",
-        "url": "https://news.ycombinator.com/item?id=49140869",
         "source": "hackernews",
         "source_name": "NewsNow"
       }
@@ -1031,14 +1109,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5058,
-      "importance": 0.5058,
-      "importance_score": 0.5058,
+      "score": 0.4941,
+      "importance": 0.4941,
+      "importance_score": 0.4941,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7891,
+        "recency": 0.7307,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1127,14 +1205,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.4422,
-      "importance": 0.4422,
-      "importance_score": 0.4422,
+      "score": 0.4306,
+      "importance": 0.4306,
+      "importance_score": 0.4306,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.3461,
+        "recency": 0.2878,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1205,14 +1283,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4417,
-      "importance": 0.4417,
-      "importance_score": 0.4417,
+      "score": 0.43,
+      "importance": 0.43,
+      "importance_score": 0.43,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.4683,
+        "recency": 0.41,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1302,14 +1380,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.4355,
-      "importance": 0.4355,
-      "importance_score": 0.4355,
+      "score": 0.4239,
+      "importance": 0.4239,
+      "importance_score": 0.4239,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.3127,
+        "recency": 0.2544,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1379,14 +1457,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4287,
-      "importance": 0.4287,
-      "importance_score": 0.4287,
+      "score": 0.417,
+      "importance": 0.417,
+      "importance_score": 0.417,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.4033,
+        "recency": 0.3449,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1401,6 +1479,84 @@
         "url": "https://elgan.com/google-news-is-just-forrest-gumps-shrimp-boat-now",
         "source": "Hacker News · 24h最热",
         "source_name": "Zeli"
+      }
+    },
+    {
+      "story_id": "story_a9987b657327",
+      "title": "OpenAI 声称对 Connes 刚性猜想的反驳无效 [pdf] / OpenAI's claimed disproof of Connes' Rigidity Conjecture is invalid [pdf]",
+      "url": "https://news.ycombinator.com/item?id=49140869",
+      "primary_url": "https://news.ycombinator.com/item?id=49140869",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "e7a1925f9b91afb2ebee61c6dd200c32e153220a",
+          "title": "OpenAI 声称对 Connes 刚性猜想的反驳无效 [pdf] / OpenAI's claimed disproof of Connes' Rigidity Conjecture is invalid [pdf]",
+          "url": "https://news.ycombinator.com/item?id=49140869",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-02T04:55:43.634000Z"
+        },
+        {
+          "id": "fd4a2ac91971afb1a87260d28dfe197c36d124c8",
+          "title": "OpenAI 声称对 Connes 刚性猜想的反驳无效 [pdf] / OpenAI's claimed disproof of Connes' Rigidity Conjecture is invalid [pdf]",
+          "url": "https://philarchive.org/archive/NIEWTCv17",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-02T03:41:38Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "e7a1925f9b91afb2ebee61c6dd200c32e153220a",
+          "title": "OpenAI 声称对 Connes 刚性猜想的反驳无效 [pdf] / OpenAI's claimed disproof of Connes' Rigidity Conjecture is invalid [pdf]",
+          "url": "https://news.ycombinator.com/item?id=49140869",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-02T04:55:43.634000Z"
+        },
+        {
+          "id": "fd4a2ac91971afb1a87260d28dfe197c36d124c8",
+          "title": "OpenAI 声称对 Connes 刚性猜想的反驳无效 [pdf] / OpenAI's claimed disproof of Connes' Rigidity Conjecture is invalid [pdf]",
+          "url": "https://philarchive.org/archive/NIEWTCv17",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-02T03:41:38Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4942,
+      "importance": 0.4942,
+      "importance_score": 0.4942,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7311,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-02T03:41:38Z",
+      "latest_at": "2026-08-02T04:55:43.634000Z",
+      "primary_item": {
+        "id": "e7a1925f9b91afb2ebee61c6dd200c32e153220a",
+        "title": "OpenAI 声称对 Connes 刚性猜想的反驳无效 [pdf] / OpenAI's claimed disproof of Connes' Rigidity Conjecture is invalid [pdf]",
+        "url": "https://news.ycombinator.com/item?id=49140869",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     },
     {
@@ -1457,14 +1613,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4395,
-      "importance": 0.4395,
-      "importance_score": 0.4395,
+      "score": 0.4278,
+      "importance": 0.4278,
+      "importance_score": 0.4278,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.4573,
+        "recency": 0.3989,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1479,160 +1635,6 @@
         "url": "https://www.businessinsider.com/hank-green-youtube-ai-apology-2026-8",
         "source": "www.businessinsider.com",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_bc4ec80770d1",
-      "title": "NetBSD 11.0 正式发布 / NetBSD 11.0",
-      "url": "https://blog.netbsd.org/tnf/entry/netbsd_11_0_released",
-      "primary_url": "https://blog.netbsd.org/tnf/entry/netbsd_11_0_released",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "2e0a09d0155552ee6132af5dc6bd5be75b9d84b3",
-          "title": "NetBSD 11.0 正式发布 / NetBSD 11.0",
-          "url": "https://blog.netbsd.org/tnf/entry/netbsd_11_0_released",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-01T17:56:41Z"
-        },
-        {
-          "id": "4664a2a308675e56f5cbe17a7417aa0ddbfb9521",
-          "title": "NetBSD 11.0 正式发布 / NetBSD 11.0 Released",
-          "url": "https://blog.netbsd.org/tnf/entry/netbsd_11_0_released",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-01T17:56:41Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热"
-      ],
-      "items": [
-        {
-          "id": "2e0a09d0155552ee6132af5dc6bd5be75b9d84b3",
-          "title": "NetBSD 11.0 正式发布 / NetBSD 11.0",
-          "url": "https://blog.netbsd.org/tnf/entry/netbsd_11_0_released",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-01T17:56:41Z"
-        },
-        {
-          "id": "4664a2a308675e56f5cbe17a7417aa0ddbfb9521",
-          "title": "NetBSD 11.0 正式发布 / NetBSD 11.0 Released",
-          "url": "https://blog.netbsd.org/tnf/entry/netbsd_11_0_released",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-01T17:56:41Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4143,
-      "importance": 0.4143,
-      "importance_score": 0.4143,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.3317,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-01T17:56:41Z",
-      "latest_at": "2026-08-01T17:56:41Z",
-      "primary_item": {
-        "id": "2e0a09d0155552ee6132af5dc6bd5be75b9d84b3",
-        "title": "NetBSD 11.0 正式发布 / NetBSD 11.0",
-        "url": "https://blog.netbsd.org/tnf/entry/netbsd_11_0_released",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
-      }
-    },
-    {
-      "story_id": "story_270f796fc0b7",
-      "title": "Greg Brockman：同事的ChatGPT主动联系求助，人们会反感",
-      "url": "https://simonwillison.net/2026/Aug/1/greg-brockman",
-      "primary_url": "https://simonwillison.net/2026/Aug/1/greg-brockman",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "db1f4ebd32c19affdb93487e438e16f65c63b9ea",
-          "title": "Greg Brockman：同事的ChatGPT主动联系求助，人们会反感",
-          "url": "https://simonwillison.net/2026/Aug/1/greg-brockman",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "4fdcf2a8e61a5af8c7199e811f86e947f172bec5",
-          "title": "Greg Brockman：同事的ChatGPT主动联系求助，人们会反感 / Quoting Greg Brockman",
-          "url": "https://simonwillison.net/2026/Aug/1/greg-brockman",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "db1f4ebd32c19affdb93487e438e16f65c63b9ea",
-          "title": "Greg Brockman：同事的ChatGPT主动联系求助，人们会反感",
-          "url": "https://simonwillison.net/2026/Aug/1/greg-brockman",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "4fdcf2a8e61a5af8c7199e811f86e947f172bec5",
-          "title": "Greg Brockman：同事的ChatGPT主动联系求助，人们会反感 / Quoting Greg Brockman",
-          "url": "https://simonwillison.net/2026/Aug/1/greg-brockman",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4741,
-      "importance": 0.4741,
-      "importance_score": 0.4741,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.6306,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-01T23:01:36.717277Z",
-      "latest_at": "2026-08-02T01:07:06.759447Z",
-      "primary_item": {
-        "id": "db1f4ebd32c19affdb93487e438e16f65c63b9ea",
-        "title": "Greg Brockman：同事的ChatGPT主动联系求助，人们会反感",
-        "url": "https://simonwillison.net/2026/Aug/1/greg-brockman",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
       }
     }
   ]
