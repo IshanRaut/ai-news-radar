@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T10:24:19.794779Z",
+  "generated_at": "2026-08-15T10:48:48.915232Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,14 +38,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7637,
-      "importance": 0.7637,
-      "importance_score": 0.7637,
+      "score": 0.7603,
+      "importance": 0.7603,
+      "importance_score": 0.7603,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.5135,
+        "recency": 0.4965,
         "story_heat": 0.0
       },
       "category": "official",
@@ -137,14 +137,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.6957,
-      "importance": 0.6957,
-      "importance_score": 0.6957,
+      "score": 0.6923,
+      "importance": 0.6923,
+      "importance_score": 0.6923,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.1687,
+        "recency": 0.1517,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -163,63 +163,80 @@
       }
     },
     {
-      "story_id": "story_61fc6209c742",
-      "title": "Grok 4.6 现已在 GitHub Copilot 中提供 / Grok 4.6 is now available in GitHub Copilot",
-      "url": "https://github.blog/changelog/2026-08-14-grok-4-6-is-now-available-in-github-copilot",
-      "primary_url": "https://github.blog/changelog/2026-08-14-grok-4-6-is-now-available-in-github-copilot",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
+      "story_id": "story_ca17f94297fe",
+      "title": "OpenAI 曝「抄袭门」：下一代模型 Astra 被指未恰当引用前人成果",
+      "url": "https://hub.baai.ac.cn/view/57142",
+      "primary_url": "https://hub.baai.ac.cn/view/57142",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
       "sources": [
         {
-          "id": "62eb79284c5d7409c01110d7b88aa07e2089e1e8",
-          "title": "Grok 4.6 现已在 GitHub Copilot 中提供 / Grok 4.6 is now available in GitHub Copilot",
-          "url": "https://github.blog/changelog/2026-08-14-grok-4-6-is-now-available-in-github-copilot",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-14T16:17:46Z"
+          "id": "07e1e7b10dfa0cbc6f0d1dee70d068e276fd6198",
+          "title": "OpenAI 曝「抄袭门」：下一代模型 Astra 被指未恰当引用前人成果",
+          "url": "https://hub.baai.ac.cn/view/57142",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "79ad317f189a30e19d7092e7b975cb4dbe3425ff",
+          "title": "OpenAI 曝「抄袭门」！下一代 GPT 攻破 10 大菲奖难题被打假",
+          "url": "https://hub.baai.ac.cn/view/57142",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "GitHub Changelog"
+        "Readhub · AI"
       ],
       "items": [
         {
-          "id": "62eb79284c5d7409c01110d7b88aa07e2089e1e8",
-          "title": "Grok 4.6 现已在 GitHub Copilot 中提供 / Grok 4.6 is now available in GitHub Copilot",
-          "url": "https://github.blog/changelog/2026-08-14-grok-4-6-is-now-available-in-github-copilot",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-14T16:17:46Z"
+          "id": "07e1e7b10dfa0cbc6f0d1dee70d068e276fd6198",
+          "title": "OpenAI 曝「抄袭门」：下一代模型 Astra 被指未恰当引用前人成果",
+          "url": "https://hub.baai.ac.cn/view/57142",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "79ad317f189a30e19d7092e7b975cb4dbe3425ff",
+          "title": "OpenAI 曝「抄袭门」！下一代 GPT 攻破 10 大菲奖难题被打假",
+          "url": "https://hub.baai.ac.cn/view/57142",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7221,
-      "importance": 0.7221,
-      "importance_score": 0.7221,
-      "importance_label": "官方更新",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.548,
+      "importance": 0.548,
+      "importance_score": 0.548,
+      "importance_label": "值得关注",
       "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.2454,
-        "story_heat": 0.0
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
       },
-      "category": "official",
+      "category": "watch",
       "reasons": [
-        "official_source",
-        "high_ai_relevance"
+        "multi_source"
       ],
-      "earliest_at": "2026-08-14T16:17:46Z",
-      "latest_at": "2026-08-14T16:17:46Z",
+      "earliest_at": "2026-08-15T10:24:19.794779Z",
+      "latest_at": "2026-08-15T10:48:48.915232Z",
       "primary_item": {
-        "id": "62eb79284c5d7409c01110d7b88aa07e2089e1e8",
-        "title": "Grok 4.6 现已在 GitHub Copilot 中提供 / Grok 4.6 is now available in GitHub Copilot",
-        "url": "https://github.blog/changelog/2026-08-14-grok-4-6-is-now-available-in-github-copilot",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
+        "id": "07e1e7b10dfa0cbc6f0d1dee70d068e276fd6198",
+        "title": "OpenAI 曝「抄袭门」：下一代模型 Astra 被指未恰当引用前人成果",
+        "url": "https://hub.baai.ac.cn/view/57142",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
       }
     },
     {
@@ -295,14 +312,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5392,
-      "importance": 0.5392,
-      "importance_score": 0.5392,
+      "score": 0.5358,
+      "importance": 0.5358,
+      "importance_score": 0.5358,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.831,
+        "recency": 0.814,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -391,14 +408,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5383,
-      "importance": 0.5383,
-      "importance_score": 0.5383,
+      "score": 0.5349,
+      "importance": 0.5349,
+      "importance_score": 0.5349,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8263,
+        "recency": 0.8093,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -469,14 +486,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.531,
-      "importance": 0.531,
-      "importance_score": 0.531,
+      "score": 0.5276,
+      "importance": 0.5276,
+      "importance_score": 0.5276,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9152,
+        "recency": 0.8982,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -491,84 +508,6 @@
         "url": "https://www.businessinsider.com/ai-running-sf-store-fired-employee-for-the-first-time-2026-8",
         "source": "www.businessinsider.com",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_540b917d9eee",
-      "title": "全球首例：人类员工因多次迟到被 AI 老板解雇",
-      "url": "https://www.ithome.com/0/990/048.htm",
-      "primary_url": "https://www.ithome.com/0/990/048.htm",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "7c19962665b9764dd86a9517d3d0a9ea0c43e1ce",
-          "title": "全球首例：人类员工因多次迟到被 AI 老板解雇",
-          "url": "https://www.ithome.com/0/990/048.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "b551b3ddedbaecd397c1579f156159c63c827f63",
-          "title": "全球首例：人类员工因 23 个班次迟到 17 次被“AI 老板”开除",
-          "url": "https://www.ithome.com/0/990/048.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-15T06:25:45Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "IT之家 (ITHome)",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "7c19962665b9764dd86a9517d3d0a9ea0c43e1ce",
-          "title": "全球首例：人类员工因多次迟到被 AI 老板解雇",
-          "url": "https://www.ithome.com/0/990/048.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "b551b3ddedbaecd397c1579f156159c63c827f63",
-          "title": "全球首例：人类员工因 23 个班次迟到 17 次被“AI 老板”开除",
-          "url": "https://www.ithome.com/0/990/048.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-15T06:25:45Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5241,
-      "importance": 0.5241,
-      "importance_score": 0.5241,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8807,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-15T06:25:45Z",
-      "latest_at": "2026-08-15T07:32:29.021746Z",
-      "primary_item": {
-        "id": "7c19962665b9764dd86a9517d3d0a9ea0c43e1ce",
-        "title": "全球首例：人类员工因多次迟到被 AI 老板解雇",
-        "url": "https://www.ithome.com/0/990/048.htm",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
       }
     },
     {
@@ -625,14 +564,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.524,
-      "importance": 0.524,
-      "importance_score": 0.524,
+      "score": 0.5206,
+      "importance": 0.5206,
+      "importance_score": 0.5206,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8802,
+        "recency": 0.8632,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -647,6 +586,84 @@
         "url": "https://arstechnica.com/tech-policy/2026/08/suspecting-court-of-using-ai-man-injected-prompts-in-filings-to-try-to-win-case",
         "source": "Hacker News",
         "source_name": "TechURLs"
+      }
+    },
+    {
+      "story_id": "story_540b917d9eee",
+      "title": "全球首例：人类员工因多次迟到被 AI 老板解雇",
+      "url": "https://www.ithome.com/0/990/048.htm",
+      "primary_url": "https://www.ithome.com/0/990/048.htm",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "7c19962665b9764dd86a9517d3d0a9ea0c43e1ce",
+          "title": "全球首例：人类员工因多次迟到被 AI 老板解雇",
+          "url": "https://www.ithome.com/0/990/048.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "b551b3ddedbaecd397c1579f156159c63c827f63",
+          "title": "全球首例：人类员工因 23 个班次迟到 17 次被“AI 老板”开除",
+          "url": "https://www.ithome.com/0/990/048.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-15T06:25:45Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "IT之家 (ITHome)",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "7c19962665b9764dd86a9517d3d0a9ea0c43e1ce",
+          "title": "全球首例：人类员工因多次迟到被 AI 老板解雇",
+          "url": "https://www.ithome.com/0/990/048.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "b551b3ddedbaecd397c1579f156159c63c827f63",
+          "title": "全球首例：人类员工因 23 个班次迟到 17 次被“AI 老板”开除",
+          "url": "https://www.ithome.com/0/990/048.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-15T06:25:45Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5207,
+      "importance": 0.5207,
+      "importance_score": 0.5207,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8637,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-15T06:25:45Z",
+      "latest_at": "2026-08-15T07:32:29.021746Z",
+      "primary_item": {
+        "id": "7c19962665b9764dd86a9517d3d0a9ea0c43e1ce",
+        "title": "全球首例：人类员工因多次迟到被 AI 老板解雇",
+        "url": "https://www.ithome.com/0/990/048.htm",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
       }
     },
     {
@@ -702,14 +719,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5142,
-      "importance": 0.5142,
-      "importance_score": 0.5142,
+      "score": 0.5108,
+      "importance": 0.5108,
+      "importance_score": 0.5108,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.831,
+        "recency": 0.814,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -780,14 +797,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4799,
-      "importance": 0.4799,
-      "importance_score": 0.4799,
+      "score": 0.4765,
+      "importance": 0.4765,
+      "importance_score": 0.4765,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6595,
+        "recency": 0.6425,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -877,14 +894,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.4719,
-      "importance": 0.4719,
-      "importance_score": 0.4719,
+      "score": 0.4685,
+      "importance": 0.4685,
+      "importance_score": 0.4685,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.4943,
+        "recency": 0.4773,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -954,14 +971,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4667,
-      "importance": 0.4667,
-      "importance_score": 0.4667,
+      "score": 0.4633,
+      "importance": 0.4633,
+      "importance_score": 0.4633,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.5937,
+        "recency": 0.5767,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -976,84 +993,6 @@
         "url": "https://www.reuters.com/business/nvidia-scales-back-250-billion-openai-data-center-guarantee-wsj-reports-2026-08-14",
         "source": "www.reuters.com",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_760bd4034f95",
-      "title": "微软承认 Win10/Win11 经典版 Outlook 存在 Copilot 入口消失 Bug",
-      "url": "https://www.ithome.com/0/989/999.htm",
-      "primary_url": "https://www.ithome.com/0/989/999.htm",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "4f43a01d211f7c4a3db2d73bc923de29d076d6c2",
-          "title": "微软承认 Win10/Win11 经典版 Outlook 存在 Copilot 入口消失 Bug",
-          "url": "https://www.ithome.com/0/989/999.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "f4de1ce779eddcb8e5a0def32244748020c82612",
-          "title": "微软承认 Win10/Win11 经典版 Outlook 存在 Copilot 入口消失 Bug，部分用户拍手叫好",
-          "url": "https://www.ithome.com/0/989/999.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-15T01:43:10Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "IT之家 (ITHome)",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "4f43a01d211f7c4a3db2d73bc923de29d076d6c2",
-          "title": "微软承认 Win10/Win11 经典版 Outlook 存在 Copilot 入口消失 Bug",
-          "url": "https://www.ithome.com/0/989/999.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "f4de1ce779eddcb8e5a0def32244748020c82612",
-          "title": "微软承认 Win10/Win11 经典版 Outlook 存在 Copilot 入口消失 Bug，部分用户拍手叫好",
-          "url": "https://www.ithome.com/0/989/999.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-15T01:43:10Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4826,
-      "importance": 0.4826,
-      "importance_score": 0.4826,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.673,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-15T01:43:10Z",
-      "latest_at": "2026-08-15T02:33:30.127203Z",
-      "primary_item": {
-        "id": "4f43a01d211f7c4a3db2d73bc923de29d076d6c2",
-        "title": "微软承认 Win10/Win11 经典版 Outlook 存在 Copilot 入口消失 Bug",
-        "url": "https://www.ithome.com/0/989/999.htm",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
       }
     },
     {
@@ -1129,14 +1068,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.4477,
-      "importance": 0.4477,
-      "importance_score": 0.4477,
+      "score": 0.4443,
+      "importance": 0.4443,
+      "importance_score": 0.4443,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.3736,
+        "recency": 0.3566,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1207,14 +1146,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4359,
-      "importance": 0.4359,
-      "importance_score": 0.4359,
+      "score": 0.4325,
+      "importance": 0.4325,
+      "importance_score": 0.4325,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.4393,
+        "recency": 0.4223,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1284,14 +1223,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4353,
-      "importance": 0.4353,
-      "importance_score": 0.4353,
+      "score": 0.4319,
+      "importance": 0.4319,
+      "importance_score": 0.4319,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.4364,
+        "recency": 0.4194,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1306,6 +1245,84 @@
         "url": "https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark",
         "source": "Hacker News · 24h最热",
         "source_name": "Zeli"
+      }
+    },
+    {
+      "story_id": "story_760bd4034f95",
+      "title": "微软承认 Win10/Win11 经典版 Outlook 存在 Copilot 入口消失 Bug",
+      "url": "https://www.ithome.com/0/989/999.htm",
+      "primary_url": "https://www.ithome.com/0/989/999.htm",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "4f43a01d211f7c4a3db2d73bc923de29d076d6c2",
+          "title": "微软承认 Win10/Win11 经典版 Outlook 存在 Copilot 入口消失 Bug",
+          "url": "https://www.ithome.com/0/989/999.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "f4de1ce779eddcb8e5a0def32244748020c82612",
+          "title": "微软承认 Win10/Win11 经典版 Outlook 存在 Copilot 入口消失 Bug，部分用户拍手叫好",
+          "url": "https://www.ithome.com/0/989/999.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-15T01:43:10Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "IT之家 (ITHome)",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "4f43a01d211f7c4a3db2d73bc923de29d076d6c2",
+          "title": "微软承认 Win10/Win11 经典版 Outlook 存在 Copilot 入口消失 Bug",
+          "url": "https://www.ithome.com/0/989/999.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "f4de1ce779eddcb8e5a0def32244748020c82612",
+          "title": "微软承认 Win10/Win11 经典版 Outlook 存在 Copilot 入口消失 Bug，部分用户拍手叫好",
+          "url": "https://www.ithome.com/0/989/999.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-15T01:43:10Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4792,
+      "importance": 0.4792,
+      "importance_score": 0.4792,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.656,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-15T01:43:10Z",
+      "latest_at": "2026-08-15T02:33:30.127203Z",
+      "primary_item": {
+        "id": "4f43a01d211f7c4a3db2d73bc923de29d076d6c2",
+        "title": "微软承认 Win10/Win11 经典版 Outlook 存在 Copilot 入口消失 Bug",
+        "url": "https://www.ithome.com/0/989/999.htm",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
       }
     },
     {
@@ -1381,14 +1398,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.4211,
-      "importance": 0.4211,
-      "importance_score": 0.4211,
+      "score": 0.4177,
+      "importance": 0.4177,
+      "importance_score": 0.4177,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.2403,
+        "recency": 0.2233,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1459,14 +1476,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4203,
-      "importance": 0.4203,
-      "importance_score": 0.4203,
+      "score": 0.4169,
+      "importance": 0.4169,
+      "importance_score": 0.4169,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.3614,
+        "recency": 0.3444,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1537,14 +1554,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4424,
-      "importance": 0.4424,
-      "importance_score": 0.4424,
+      "score": 0.439,
+      "importance": 0.439,
+      "importance_score": 0.439,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.472,
+        "recency": 0.455,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1562,81 +1579,81 @@
       }
     },
     {
-      "story_id": "story_595cbaf350dd",
-      "title": "荣耀 YOYO Claw 接入智谱 GLM-5.3 大模型",
-      "url": "https://www.ithome.com/0/989/989.htm",
-      "primary_url": "https://www.ithome.com/0/989/989.htm",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
+      "story_id": "story_afb6d0b82506",
+      "title": "Qwen 3.8 27B",
+      "url": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
+      "primary_url": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
+      "source": "huggingface.co",
+      "source_name": "Buzzing",
       "sources": [
         {
-          "id": "3fe537ea6ade42c4f59c0f847a91b586e9d01aaf",
-          "title": "荣耀 YOYO Claw 接入智谱 GLM-5.3 大模型",
-          "url": "https://www.ithome.com/0/989/989.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "7f94c9571ef00d749f312a2c3ed54a75481f41ba",
+          "title": "Qwen 3.8 27B",
+          "url": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
+          "source": "huggingface.co",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-14T16:57:54.561000Z"
         },
         {
-          "id": "ca07ff58c77e59ced7ccd43d5fd40e0bb39e38ac",
-          "title": "“虾虾大脑”升级：荣耀 YOYO Claw 官宣接入智谱最新发布的 GLM-5.3 大模型",
-          "url": "https://www.ithome.com/0/989/989.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-15T00:54:23Z"
+          "id": "f72a9e177ee5e91bbe354f439d99f8dfb1e80110",
+          "title": "Qwen 3.8 27B 已发布：开放权重，迄今为止最好的局部密集模型 / Qwen 3.8 27B is out: open weights, best local dense model yet",
+          "url": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-14T15:00:00Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "IT之家 (ITHome)",
-        "Readhub · AI"
+        "Hacker News",
+        "huggingface.co"
       ],
       "items": [
         {
-          "id": "3fe537ea6ade42c4f59c0f847a91b586e9d01aaf",
-          "title": "荣耀 YOYO Claw 接入智谱 GLM-5.3 大模型",
-          "url": "https://www.ithome.com/0/989/989.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "7f94c9571ef00d749f312a2c3ed54a75481f41ba",
+          "title": "Qwen 3.8 27B",
+          "url": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
+          "source": "huggingface.co",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-14T16:57:54.561000Z"
         },
         {
-          "id": "ca07ff58c77e59ced7ccd43d5fd40e0bb39e38ac",
-          "title": "“虾虾大脑”升级：荣耀 YOYO Claw 官宣接入智谱最新发布的 GLM-5.3 大模型",
-          "url": "https://www.ithome.com/0/989/989.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-15T00:54:23Z"
+          "id": "f72a9e177ee5e91bbe354f439d99f8dfb1e80110",
+          "title": "Qwen 3.8 27B 已发布：开放权重，迄今为止最好的局部密集模型 / Qwen 3.8 27B is out: open weights, best local dense model yet",
+          "url": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-14T15:00:00Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4723,
-      "importance": 0.4723,
-      "importance_score": 0.4723,
+      "score": 0.3993,
+      "importance": 0.3993,
+      "importance_score": 0.3993,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6217,
+        "recency": 0.2563,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-15T00:54:23Z",
-      "latest_at": "2026-08-15T01:19:33.869382Z",
+      "earliest_at": "2026-08-14T15:00:00Z",
+      "latest_at": "2026-08-14T16:57:54.561000Z",
       "primary_item": {
-        "id": "3fe537ea6ade42c4f59c0f847a91b586e9d01aaf",
-        "title": "荣耀 YOYO Claw 接入智谱 GLM-5.3 大模型",
-        "url": "https://www.ithome.com/0/989/989.htm",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
+        "id": "7f94c9571ef00d749f312a2c3ed54a75481f41ba",
+        "title": "Qwen 3.8 27B",
+        "url": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
+        "source": "huggingface.co",
+        "source_name": "Buzzing"
       }
     }
   ]
