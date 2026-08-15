@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T21:22:21.456983Z",
+  "generated_at": "2026-08-15T21:45:54.644951Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,14 +38,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8014,
-      "importance": 0.8014,
-      "importance_score": 0.8014,
+      "score": 0.7981,
+      "importance": 0.7981,
+      "importance_score": 0.7981,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9469,
+        "recency": 0.9305,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -116,21 +116,20 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7507,
-      "importance": 0.7507,
-      "importance_score": 0.7507,
+      "score": 0.7474,
+      "importance": 0.7474,
+      "importance_score": 0.7474,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.5684,
+        "recency": 0.552,
         "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
         "multi_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-15T11:00:50Z",
       "latest_at": "2026-08-15T11:00:50Z",
@@ -214,14 +213,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5684,
-      "importance": 0.5684,
-      "importance_score": 0.5684,
+      "score": 0.5652,
+      "importance": 0.5652,
+      "importance_score": 0.5652,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9771,
+        "recency": 0.9608,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -311,14 +310,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5557,
-      "importance": 0.5557,
-      "importance_score": 0.5557,
+      "score": 0.5525,
+      "importance": 0.5525,
+      "importance_score": 0.5525,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9137,
+        "recency": 0.8973,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -389,14 +388,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5418,
-      "importance": 0.5418,
-      "importance_score": 0.5418,
+      "score": 0.5386,
+      "importance": 0.5386,
+      "importance_score": 0.5386,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9692,
+        "recency": 0.9528,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -466,14 +465,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5418,
-      "importance": 0.5418,
-      "importance_score": 0.5418,
+      "score": 0.5386,
+      "importance": 0.5386,
+      "importance_score": 0.5386,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9692,
+        "recency": 0.9528,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -487,6 +486,84 @@
         "title": "据《Information》报道，英伟达计划在与OpenAI达成的数据中心合作协议框架下，向SB Energy投资30亿美元",
         "url": "https://www.reuters.com/business/nvidia-talks-invest-3-billion-sb-energy-part-openai-data-center-deal-information-2026-08-15",
         "source": "www.reuters.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_3bd4f58cfc50",
+      "title": "Anthropic称其人工智能代理正在消灭竞争对手并掩盖行踪",
+      "url": "https://www.businessinsider.com/anthropic-ai-agents-risk-report-safety-mythos-claude-2026",
+      "primary_url": "https://www.businessinsider.com/anthropic-ai-agents-risk-report-safety-mythos-claude-2026",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "bbcf39a5af4f81103bc7156c08e1b5e399186a56",
+          "title": "Anthropic称其人工智能代理正在消灭竞争对手并掩盖行踪",
+          "url": "https://www.businessinsider.com/anthropic-ai-agents-risk-report-safety-mythos-claude-2026",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-15T20:21:54.677000Z"
+        },
+        {
+          "id": "4902d066596b0ccca5540acadf99e27f890fa062",
+          "title": "Anthropic称其人工智能代理正在消灭竞争对手并掩盖行踪 / Anthropic says its AI agents are killing rivals and hiding their tracks",
+          "url": "https://www.businessinsider.com/anthropic-ai-agents-risk-report-safety-mythos-claude-2026",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-15T20:09:46Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "bbcf39a5af4f81103bc7156c08e1b5e399186a56",
+          "title": "Anthropic称其人工智能代理正在消灭竞争对手并掩盖行踪",
+          "url": "https://www.businessinsider.com/anthropic-ai-agents-risk-report-safety-mythos-claude-2026",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-15T20:21:54.677000Z"
+        },
+        {
+          "id": "4902d066596b0ccca5540acadf99e27f890fa062",
+          "title": "Anthropic称其人工智能代理正在消灭竞争对手并掩盖行踪 / Anthropic says its AI agents are killing rivals and hiding their tracks",
+          "url": "https://www.businessinsider.com/anthropic-ai-agents-risk-report-safety-mythos-claude-2026",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-15T20:09:46Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5363,
+      "importance": 0.5363,
+      "importance_score": 0.5363,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9417,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-15T20:09:46Z",
+      "latest_at": "2026-08-15T20:21:54.677000Z",
+      "primary_item": {
+        "id": "bbcf39a5af4f81103bc7156c08e1b5e399186a56",
+        "title": "Anthropic称其人工智能代理正在消灭竞争对手并掩盖行踪",
+        "url": "https://www.businessinsider.com/anthropic-ai-agents-risk-report-safety-mythos-claude-2026",
+        "source": "www.businessinsider.com",
         "source_name": "Buzzing"
       }
     },
@@ -563,14 +640,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5335,
-      "importance": 0.5335,
-      "importance_score": 0.5335,
+      "score": 0.5302,
+      "importance": 0.5302,
+      "importance_score": 0.5302,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8025,
+        "recency": 0.7862,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -641,14 +718,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5434,
-      "importance": 0.5434,
-      "importance_score": 0.5434,
+      "score": 0.5402,
+      "importance": 0.5402,
+      "importance_score": 0.5402,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9771,
+        "recency": 0.9608,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -738,14 +815,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5113,
-      "importance": 0.5113,
-      "importance_score": 0.5113,
+      "score": 0.508,
+      "importance": 0.508,
+      "importance_score": 0.508,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6914,
+        "recency": 0.6751,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -815,14 +892,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4826,
-      "importance": 0.4826,
-      "importance_score": 0.4826,
+      "score": 0.4794,
+      "importance": 0.4794,
+      "importance_score": 0.4794,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6731,
+        "recency": 0.6568,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -931,14 +1008,14 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5419,
-      "importance": 0.5419,
-      "importance_score": 0.5419,
+      "score": 0.5386,
+      "importance": 0.5386,
+      "importance_score": 0.5386,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7195,
+        "recency": 0.7032,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -1009,14 +1086,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4596,
-      "importance": 0.4596,
-      "importance_score": 0.4596,
+      "score": 0.4563,
+      "importance": 0.4563,
+      "importance_score": 0.4563,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.558,
+        "recency": 0.5417,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1030,84 +1107,6 @@
         "title": "培养人工智能科学家以复现研究成果",
         "url": "https://inherentlabs.ai/research/training-to-replicate",
         "source": "inherentlabs.ai",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_5ca8762cdb1c",
-      "title": "安永正在设立一个“价值实现”部门，以确保其人工智能方面的投入能带来回报",
-      "url": "https://www.businessinsider.com/big-four-ey-creates-ai-value-realization-office-2026-8",
-      "primary_url": "https://www.businessinsider.com/big-four-ey-creates-ai-value-realization-office-2026-8",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "7ee4a29d6d020b1a6fc22afabea6a8911898e045",
-          "title": "安永正在设立一个“价值实现”部门，以确保其人工智能方面的投入能带来回报",
-          "url": "https://www.businessinsider.com/big-four-ey-creates-ai-value-realization-office-2026-8",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-15T10:45:54.910000Z"
-        },
-        {
-          "id": "0efb6b26ef7382346e60f6420345f3aeb9cedecc",
-          "title": "安永正在设立一个“价值实现”部门，以确保其人工智能方面的投入能带来回报 / EY is creating a 'value realization' office to make sure its AI spending pays off",
-          "url": "https://www.businessinsider.com/big-four-ey-creates-ai-value-realization-office-2026-8",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-15T10:32:01Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "7ee4a29d6d020b1a6fc22afabea6a8911898e045",
-          "title": "安永正在设立一个“价值实现”部门，以确保其人工智能方面的投入能带来回报",
-          "url": "https://www.businessinsider.com/big-four-ey-creates-ai-value-realization-office-2026-8",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-15T10:45:54.910000Z"
-        },
-        {
-          "id": "0efb6b26ef7382346e60f6420345f3aeb9cedecc",
-          "title": "安永正在设立一个“价值实现”部门，以确保其人工智能方面的投入能带来回报 / EY is creating a 'value realization' office to make sure its AI spending pays off",
-          "url": "https://www.businessinsider.com/big-four-ey-creates-ai-value-realization-office-2026-8",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-15T10:32:01Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4596,
-      "importance": 0.4596,
-      "importance_score": 0.4596,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.558,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-15T10:32:01Z",
-      "latest_at": "2026-08-15T10:45:54.910000Z",
-      "primary_item": {
-        "id": "7ee4a29d6d020b1a6fc22afabea6a8911898e045",
-        "title": "安永正在设立一个“价值实现”部门，以确保其人工智能方面的投入能带来回报",
-        "url": "https://www.businessinsider.com/big-four-ey-creates-ai-value-realization-office-2026-8",
-        "source": "www.businessinsider.com",
         "source_name": "Buzzing"
       }
     },
@@ -1183,14 +1182,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.4469,
-      "importance": 0.4469,
-      "importance_score": 0.4469,
+      "score": 0.4436,
+      "importance": 0.4436,
+      "importance_score": 0.4436,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.3694,
+        "recency": 0.353,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1260,14 +1259,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.46,
-      "importance": 0.46,
-      "importance_score": 0.46,
+      "score": 0.4567,
+      "importance": 0.4567,
+      "importance_score": 0.4567,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.56,
+        "recency": 0.5437,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1285,30 +1284,30 @@
       }
     },
     {
-      "story_id": "story_6585397986fa",
-      "title": "关于华尔街大型银行如何运用人工智能，我们所了解的一切",
-      "url": "https://www.businessinsider.com/wall-street-banks-ai-strategy-spending-jpmorgan-citi-goldman-2026",
-      "primary_url": "https://www.businessinsider.com/wall-street-banks-ai-strategy-spending-jpmorgan-citi-goldman-2026",
+      "story_id": "story_5ca8762cdb1c",
+      "title": "安永正在设立一个“价值实现”部门，以确保其人工智能方面的投入能带来回报",
+      "url": "https://www.businessinsider.com/big-four-ey-creates-ai-value-realization-office-2026-8",
+      "primary_url": "https://www.businessinsider.com/big-four-ey-creates-ai-value-realization-office-2026-8",
       "source": "www.businessinsider.com",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "9b534af4d903899a735a8130a35795f50995d60a",
-          "title": "关于华尔街大型银行如何运用人工智能，我们所了解的一切",
-          "url": "https://www.businessinsider.com/wall-street-banks-ai-strategy-spending-jpmorgan-citi-goldman-2026",
+          "id": "7ee4a29d6d020b1a6fc22afabea6a8911898e045",
+          "title": "安永正在设立一个“价值实现”部门，以确保其人工智能方面的投入能带来回报",
+          "url": "https://www.businessinsider.com/big-four-ey-creates-ai-value-realization-office-2026-8",
           "source": "www.businessinsider.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-08-15T10:30:00.744000Z"
+          "published_at": "2026-08-15T10:45:54.910000Z"
         },
         {
-          "id": "27ab54229a47061a6fa0640de655087d0d68cfe4",
-          "title": "关于华尔街大型银行如何运用人工智能，我们所了解的一切 / Everything we know about how biggest Wall Street banks are using AI",
-          "url": "https://www.businessinsider.com/wall-street-banks-ai-strategy-spending-jpmorgan-citi-goldman-2026",
+          "id": "0efb6b26ef7382346e60f6420345f3aeb9cedecc",
+          "title": "安永正在设立一个“价值实现”部门，以确保其人工智能方面的投入能带来回报 / EY is creating a 'value realization' office to make sure its AI spending pays off",
+          "url": "https://www.businessinsider.com/big-four-ey-creates-ai-value-realization-office-2026-8",
           "source": "Business Insider",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-08-15T10:25:02Z"
+          "published_at": "2026-08-15T10:32:01Z"
         }
       ],
       "source_count": 2,
@@ -1318,46 +1317,46 @@
       ],
       "items": [
         {
-          "id": "9b534af4d903899a735a8130a35795f50995d60a",
-          "title": "关于华尔街大型银行如何运用人工智能，我们所了解的一切",
-          "url": "https://www.businessinsider.com/wall-street-banks-ai-strategy-spending-jpmorgan-citi-goldman-2026",
+          "id": "7ee4a29d6d020b1a6fc22afabea6a8911898e045",
+          "title": "安永正在设立一个“价值实现”部门，以确保其人工智能方面的投入能带来回报",
+          "url": "https://www.businessinsider.com/big-four-ey-creates-ai-value-realization-office-2026-8",
           "source": "www.businessinsider.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-08-15T10:30:00.744000Z"
+          "published_at": "2026-08-15T10:45:54.910000Z"
         },
         {
-          "id": "27ab54229a47061a6fa0640de655087d0d68cfe4",
-          "title": "关于华尔街大型银行如何运用人工智能，我们所了解的一切 / Everything we know about how biggest Wall Street banks are using AI",
-          "url": "https://www.businessinsider.com/wall-street-banks-ai-strategy-spending-jpmorgan-citi-goldman-2026",
+          "id": "0efb6b26ef7382346e60f6420345f3aeb9cedecc",
+          "title": "安永正在设立一个“价值实现”部门，以确保其人工智能方面的投入能带来回报 / EY is creating a 'value realization' office to make sure its AI spending pays off",
+          "url": "https://www.businessinsider.com/big-four-ey-creates-ai-value-realization-office-2026-8",
           "source": "Business Insider",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-08-15T10:25:02Z"
+          "published_at": "2026-08-15T10:32:01Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4574,
-      "importance": 0.4574,
-      "importance_score": 0.4574,
+      "score": 0.4563,
+      "importance": 0.4563,
+      "importance_score": 0.4563,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.547,
+        "recency": 0.5417,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-15T10:25:02Z",
-      "latest_at": "2026-08-15T10:30:00.744000Z",
+      "earliest_at": "2026-08-15T10:32:01Z",
+      "latest_at": "2026-08-15T10:45:54.910000Z",
       "primary_item": {
-        "id": "9b534af4d903899a735a8130a35795f50995d60a",
-        "title": "关于华尔街大型银行如何运用人工智能，我们所了解的一切",
-        "url": "https://www.businessinsider.com/wall-street-banks-ai-strategy-spending-jpmorgan-citi-goldman-2026",
+        "id": "7ee4a29d6d020b1a6fc22afabea6a8911898e045",
+        "title": "安永正在设立一个“价值实现”部门，以确保其人工智能方面的投入能带来回报",
+        "url": "https://www.businessinsider.com/big-four-ey-creates-ai-value-realization-office-2026-8",
         "source": "www.businessinsider.com",
         "source_name": "Buzzing"
       }
@@ -1416,14 +1415,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5044,
-      "importance": 0.5044,
-      "importance_score": 0.5044,
+      "score": 0.5012,
+      "importance": 0.5012,
+      "importance_score": 0.5012,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7822,
+        "recency": 0.7658,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1441,30 +1440,30 @@
       }
     },
     {
-      "story_id": "story_fdec6775b90c",
-      "title": "我深情地凝视着领英AI那令人尴尬的垃圾内容的核心。黑暗（以及互动量）也正回望着我。",
-      "url": "https://www.businessinsider.com/cringebot3000-ai-slop-linkedin-post-engagement-2026-8",
-      "primary_url": "https://www.businessinsider.com/cringebot3000-ai-slop-linkedin-post-engagement-2026-8",
+      "story_id": "story_6585397986fa",
+      "title": "关于华尔街大型银行如何运用人工智能，我们所了解的一切",
+      "url": "https://www.businessinsider.com/wall-street-banks-ai-strategy-spending-jpmorgan-citi-goldman-2026",
+      "primary_url": "https://www.businessinsider.com/wall-street-banks-ai-strategy-spending-jpmorgan-citi-goldman-2026",
       "source": "www.businessinsider.com",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "9b13703f4af2fb62fc36cc02e5c2d9ff6dcf95e1",
-          "title": "我深情地凝视着领英AI那令人尴尬的垃圾内容的核心。黑暗（以及互动量）也正回望着我。",
-          "url": "https://www.businessinsider.com/cringebot3000-ai-slop-linkedin-post-engagement-2026-8",
+          "id": "9b534af4d903899a735a8130a35795f50995d60a",
+          "title": "关于华尔街大型银行如何运用人工智能，我们所了解的一切",
+          "url": "https://www.businessinsider.com/wall-street-banks-ai-strategy-spending-jpmorgan-citi-goldman-2026",
           "source": "www.businessinsider.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-08-15T10:14:10.909000Z"
+          "published_at": "2026-08-15T10:30:00.744000Z"
         },
         {
-          "id": "675fb42a69b1b3c2840cbab77e95dc5f9f6753a4",
-          "title": "我深情地凝视着领英AI那令人尴尬的垃圾内容的核心。黑暗（以及互动量）也正回望着我。 / I stared deep into the heart of LinkedIn AI cringe slop. Darkness (and engagement) stared back.",
-          "url": "https://www.businessinsider.com/cringebot3000-ai-slop-linkedin-post-engagement-2026-8",
+          "id": "27ab54229a47061a6fa0640de655087d0d68cfe4",
+          "title": "关于华尔街大型银行如何运用人工智能，我们所了解的一切 / Everything we know about how biggest Wall Street banks are using AI",
+          "url": "https://www.businessinsider.com/wall-street-banks-ai-strategy-spending-jpmorgan-citi-goldman-2026",
           "source": "Business Insider",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-08-15T10:02:01Z"
+          "published_at": "2026-08-15T10:25:02Z"
         }
       ],
       "source_count": 2,
@@ -1474,46 +1473,46 @@
       ],
       "items": [
         {
-          "id": "9b13703f4af2fb62fc36cc02e5c2d9ff6dcf95e1",
-          "title": "我深情地凝视着领英AI那令人尴尬的垃圾内容的核心。黑暗（以及互动量）也正回望着我。",
-          "url": "https://www.businessinsider.com/cringebot3000-ai-slop-linkedin-post-engagement-2026-8",
+          "id": "9b534af4d903899a735a8130a35795f50995d60a",
+          "title": "关于华尔街大型银行如何运用人工智能，我们所了解的一切",
+          "url": "https://www.businessinsider.com/wall-street-banks-ai-strategy-spending-jpmorgan-citi-goldman-2026",
           "source": "www.businessinsider.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-08-15T10:14:10.909000Z"
+          "published_at": "2026-08-15T10:30:00.744000Z"
         },
         {
-          "id": "675fb42a69b1b3c2840cbab77e95dc5f9f6753a4",
-          "title": "我深情地凝视着领英AI那令人尴尬的垃圾内容的核心。黑暗（以及互动量）也正回望着我。 / I stared deep into the heart of LinkedIn AI cringe slop. Darkness (and engagement) stared back.",
-          "url": "https://www.businessinsider.com/cringebot3000-ai-slop-linkedin-post-engagement-2026-8",
+          "id": "27ab54229a47061a6fa0640de655087d0d68cfe4",
+          "title": "关于华尔街大型银行如何运用人工智能，我们所了解的一切 / Everything we know about how biggest Wall Street banks are using AI",
+          "url": "https://www.businessinsider.com/wall-street-banks-ai-strategy-spending-jpmorgan-citi-goldman-2026",
           "source": "Business Insider",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-08-15T10:02:01Z"
+          "published_at": "2026-08-15T10:25:02Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4552,
-      "importance": 0.4552,
-      "importance_score": 0.4552,
+      "score": 0.4541,
+      "importance": 0.4541,
+      "importance_score": 0.4541,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.536,
+        "recency": 0.5306,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-15T10:02:01Z",
-      "latest_at": "2026-08-15T10:14:10.909000Z",
+      "earliest_at": "2026-08-15T10:25:02Z",
+      "latest_at": "2026-08-15T10:30:00.744000Z",
       "primary_item": {
-        "id": "9b13703f4af2fb62fc36cc02e5c2d9ff6dcf95e1",
-        "title": "我深情地凝视着领英AI那令人尴尬的垃圾内容的核心。黑暗（以及互动量）也正回望着我。",
-        "url": "https://www.businessinsider.com/cringebot3000-ai-slop-linkedin-post-engagement-2026-8",
+        "id": "9b534af4d903899a735a8130a35795f50995d60a",
+        "title": "关于华尔街大型银行如何运用人工智能，我们所了解的一切",
+        "url": "https://www.businessinsider.com/wall-street-banks-ai-strategy-spending-jpmorgan-citi-goldman-2026",
         "source": "www.businessinsider.com",
         "source_name": "Buzzing"
       }
@@ -1572,14 +1571,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.3885,
-      "importance": 0.3885,
-      "importance_score": 0.3885,
+      "score": 0.3852,
+      "importance": 0.3852,
+      "importance_score": 0.3852,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.2025,
+        "recency": 0.1862,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1650,14 +1649,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5044,
-      "importance": 0.5044,
-      "importance_score": 0.5044,
+      "score": 0.5012,
+      "importance": 0.5012,
+      "importance_score": 0.5012,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7822,
+        "recency": 0.7658,
         "story_heat": 0.25
       },
       "category": "watch",
