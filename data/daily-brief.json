@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T09:28:26.880624Z",
+  "generated_at": "2026-08-16T09:53:14.493735Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -56,14 +56,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6498,
-      "importance": 0.6498,
-      "importance_score": 0.6498,
+      "score": 0.6464,
+      "importance": 0.6464,
+      "importance_score": 0.6464,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.0642,
+        "recency": 0.0469,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -79,6 +79,103 @@
         "url": "https://aihot.virxact.com/items/cmsuaf2hr05zgroe0y1e7275v",
         "source": "The Decoder：AI News（RSS）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_badeeae7b539",
+      "title": "如果一个大型语言模型（LLM）从未接触过五年级以上的学习资料，会发生什么情况？",
+      "url": "https://littlelearner-ll.github.io",
+      "primary_url": "https://littlelearner-ll.github.io",
+      "source": "littlelearner-ll.github.io",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "6907bf6f5e5deae8cd01cff9a4eda90bcbad09ea",
+          "title": "如果一个大型语言模型（LLM）从未接触过五年级以上的学习资料，会发生什么情况？",
+          "url": "https://littlelearner-ll.github.io",
+          "source": "littlelearner-ll.github.io",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-16T09:42:02.137000Z"
+        },
+        {
+          "id": "16a13fe58d4cdfcf7ca57702ec884e947f42f269",
+          "title": "如果法学硕士从未见过五年级以上的材料，会发生什么？ / What happens when an LLM never sees material beyond fifth grade?",
+          "url": "https://news.ycombinator.com/item?id=49317760",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-16T08:11:23.846000Z"
+        },
+        {
+          "id": "cc6db7886f6a22d4816eca7c199301e3776f089c",
+          "title": "如果一个大型语言模型（LLM）从未接触过五年级以上的学习资料，会发生什么情况？ / What happens when an LLM never sees material beyond fifth grade?",
+          "url": "https://littlelearner-ll.github.io",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-16T07:37:53Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews",
+        "littlelearner-ll.github.io"
+      ],
+      "items": [
+        {
+          "id": "6907bf6f5e5deae8cd01cff9a4eda90bcbad09ea",
+          "title": "如果一个大型语言模型（LLM）从未接触过五年级以上的学习资料，会发生什么情况？",
+          "url": "https://littlelearner-ll.github.io",
+          "source": "littlelearner-ll.github.io",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-16T09:42:02.137000Z"
+        },
+        {
+          "id": "16a13fe58d4cdfcf7ca57702ec884e947f42f269",
+          "title": "如果法学硕士从未见过五年级以上的材料，会发生什么？ / What happens when an LLM never sees material beyond fifth grade?",
+          "url": "https://news.ycombinator.com/item?id=49317760",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-16T08:11:23.846000Z"
+        },
+        {
+          "id": "cc6db7886f6a22d4816eca7c199301e3776f089c",
+          "title": "如果一个大型语言模型（LLM）从未接触过五年级以上的学习资料，会发生什么情况？ / What happens when an LLM never sees material beyond fifth grade?",
+          "url": "https://littlelearner-ll.github.io",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-16T07:37:53Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5714,
+      "importance": 0.5714,
+      "importance_score": 0.5714,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9922,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-16T07:37:53Z",
+      "latest_at": "2026-08-16T09:42:02.137000Z",
+      "primary_item": {
+        "id": "6907bf6f5e5deae8cd01cff9a4eda90bcbad09ea",
+        "title": "如果一个大型语言模型（LLM）从未接触过五年级以上的学习资料，会发生什么情况？",
+        "url": "https://littlelearner-ll.github.io",
+        "source": "littlelearner-ll.github.io",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -135,14 +232,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.548,
-      "importance": 0.548,
-      "importance_score": 0.548,
+      "score": 0.5446,
+      "importance": 0.5446,
+      "importance_score": 0.5446,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9828,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -250,14 +347,14 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5422,
-      "importance": 0.5422,
-      "importance_score": 0.5422,
+      "score": 0.5388,
+      "importance": 0.5388,
+      "importance_score": 0.5388,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.721,
+        "recency": 0.7038,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -275,30 +372,30 @@
       }
     },
     {
-      "story_id": "story_badeeae7b539",
-      "title": "如果法学硕士从未见过五年级以上的材料，会发生什么？ / What happens when an LLM never sees material beyond fifth grade?",
-      "url": "https://news.ycombinator.com/item?id=49317760",
-      "primary_url": "https://news.ycombinator.com/item?id=49317760",
+      "story_id": "story_78464e78aa4b",
+      "title": "ProofRun – AI 编码代理的本地验证收据 / ProofRun – a local verification receipt for AI coding agents",
+      "url": "https://news.ycombinator.com/item?id=49316605",
+      "primary_url": "https://news.ycombinator.com/item?id=49316605",
       "source": "hackernews",
       "source_name": "NewsNow",
       "sources": [
         {
-          "id": "16a13fe58d4cdfcf7ca57702ec884e947f42f269",
-          "title": "如果法学硕士从未见过五年级以上的材料，会发生什么？ / What happens when an LLM never sees material beyond fifth grade?",
-          "url": "https://news.ycombinator.com/item?id=49317760",
+          "id": "8f8da72ba2ccb1cc5608f895e1c7d10a18f21bde",
+          "title": "ProofRun – AI 编码代理的本地验证收据 / ProofRun – a local verification receipt for AI coding agents",
+          "url": "https://news.ycombinator.com/item?id=49316605",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-16T08:11:23.846000Z"
+          "published_at": "2026-08-16T05:10:44.244000Z"
         },
         {
-          "id": "cc6db7886f6a22d4816eca7c199301e3776f089c",
-          "title": "如果法学硕士从未见过五年级以上的材料，会发生什么？ / What happens when an LLM never sees material beyond fifth grade?",
-          "url": "https://littlelearner-ll.github.io",
+          "id": "8a62045ec75739d94e306f3261cf9007a743e9f9",
+          "title": "ProofRun – AI 编码代理的本地验证收据 / ProofRun – a local verification receipt for AI coding agents",
+          "url": "https://github.com/yebiguo/ProofRun",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-08-16T07:37:53Z"
+          "published_at": "2026-08-16T03:22:15Z"
         }
       ],
       "source_count": 2,
@@ -308,46 +405,46 @@
       ],
       "items": [
         {
-          "id": "16a13fe58d4cdfcf7ca57702ec884e947f42f269",
-          "title": "如果法学硕士从未见过五年级以上的材料，会发生什么？ / What happens when an LLM never sees material beyond fifth grade?",
-          "url": "https://news.ycombinator.com/item?id=49317760",
+          "id": "8f8da72ba2ccb1cc5608f895e1c7d10a18f21bde",
+          "title": "ProofRun – AI 编码代理的本地验证收据 / ProofRun – a local verification receipt for AI coding agents",
+          "url": "https://news.ycombinator.com/item?id=49316605",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-16T08:11:23.846000Z"
+          "published_at": "2026-08-16T05:10:44.244000Z"
         },
         {
-          "id": "cc6db7886f6a22d4816eca7c199301e3776f089c",
-          "title": "如果法学硕士从未见过五年级以上的材料，会发生什么？ / What happens when an LLM never sees material beyond fifth grade?",
-          "url": "https://littlelearner-ll.github.io",
+          "id": "8a62045ec75739d94e306f3261cf9007a743e9f9",
+          "title": "ProofRun – AI 编码代理的本地验证收据 / ProofRun – a local verification receipt for AI coding agents",
+          "url": "https://github.com/yebiguo/ProofRun",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-08-16T07:37:53Z"
+          "published_at": "2026-08-16T03:22:15Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5373,
-      "importance": 0.5373,
-      "importance_score": 0.5373,
+      "score": 0.5088,
+      "importance": 0.5088,
+      "importance_score": 0.5088,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9465,
+        "recency": 0.8038,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-16T07:37:53Z",
-      "latest_at": "2026-08-16T08:11:23.846000Z",
+      "earliest_at": "2026-08-16T03:22:15Z",
+      "latest_at": "2026-08-16T05:10:44.244000Z",
       "primary_item": {
-        "id": "16a13fe58d4cdfcf7ca57702ec884e947f42f269",
-        "title": "如果法学硕士从未见过五年级以上的材料，会发生什么？ / What happens when an LLM never sees material beyond fifth grade?",
-        "url": "https://news.ycombinator.com/item?id=49317760",
+        "id": "8f8da72ba2ccb1cc5608f895e1c7d10a18f21bde",
+        "title": "ProofRun – AI 编码代理的本地验证收据 / ProofRun – a local verification receipt for AI coding agents",
+        "url": "https://news.ycombinator.com/item?id=49316605",
         "source": "hackernews",
         "source_name": "NewsNow"
       }
@@ -406,14 +503,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5149,
-      "importance": 0.5149,
-      "importance_score": 0.5149,
+      "score": 0.5114,
+      "importance": 0.5114,
+      "importance_score": 0.5114,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8343,
+        "recency": 0.8171,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -431,79 +528,79 @@
       }
     },
     {
-      "story_id": "story_78464e78aa4b",
-      "title": "ProofRun – AI 编码代理的本地验证收据 / ProofRun – a local verification receipt for AI coding agents",
-      "url": "https://news.ycombinator.com/item?id=49316605",
-      "primary_url": "https://news.ycombinator.com/item?id=49316605",
+      "story_id": "story_c21a3b4fa623",
+      "title": "AI 辅助 GPU 移植 250k 行旧天气模拟代码 / AI-Assisted GPU Porting of a 250k Line Legacy Weather Simulation Code",
+      "url": "https://news.ycombinator.com/item?id=49314967",
+      "primary_url": "https://news.ycombinator.com/item?id=49314967",
       "source": "hackernews",
       "source_name": "NewsNow",
       "sources": [
         {
-          "id": "8f8da72ba2ccb1cc5608f895e1c7d10a18f21bde",
-          "title": "ProofRun – AI 编码代理的本地验证收据 / ProofRun – a local verification receipt for AI coding agents",
-          "url": "https://news.ycombinator.com/item?id=49316605",
+          "id": "d9e5761eb9dc631140a0a40569ec395b1563f0a7",
+          "title": "AI 辅助 GPU 移植 250k 行旧天气模拟代码 / AI-Assisted GPU Porting of a 250k Line Legacy Weather Simulation Code",
+          "url": "https://news.ycombinator.com/item?id=49314967",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-16T05:10:44.244000Z"
+          "published_at": "2026-08-16T02:43:47.566000Z"
         },
         {
-          "id": "8a62045ec75739d94e306f3261cf9007a743e9f9",
-          "title": "ProofRun – AI 编码代理的本地验证收据 / ProofRun – a local verification receipt for AI coding agents",
-          "url": "https://github.com/yebiguo/ProofRun",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-16T03:22:15Z"
+          "id": "6a58a1a6f84416fd76382194fc6abc8444164d49",
+          "title": "AI 辅助 GPU 移植 250k 行旧天气模拟代码 / AI-Assisted GPU Porting of a 250k Line Legacy Weather Simulation Code",
+          "url": "https://arxiv.org/abs/2608.13122",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-15T22:41:51Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
         "hackernews"
       ],
       "items": [
         {
-          "id": "8f8da72ba2ccb1cc5608f895e1c7d10a18f21bde",
-          "title": "ProofRun – AI 编码代理的本地验证收据 / ProofRun – a local verification receipt for AI coding agents",
-          "url": "https://news.ycombinator.com/item?id=49316605",
+          "id": "d9e5761eb9dc631140a0a40569ec395b1563f0a7",
+          "title": "AI 辅助 GPU 移植 250k 行旧天气模拟代码 / AI-Assisted GPU Porting of a 250k Line Legacy Weather Simulation Code",
+          "url": "https://news.ycombinator.com/item?id=49314967",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-16T05:10:44.244000Z"
+          "published_at": "2026-08-16T02:43:47.566000Z"
         },
         {
-          "id": "8a62045ec75739d94e306f3261cf9007a743e9f9",
-          "title": "ProofRun – AI 编码代理的本地验证收据 / ProofRun – a local verification receipt for AI coding agents",
-          "url": "https://github.com/yebiguo/ProofRun",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-16T03:22:15Z"
+          "id": "6a58a1a6f84416fd76382194fc6abc8444164d49",
+          "title": "AI 辅助 GPU 移植 250k 行旧天气模拟代码 / AI-Assisted GPU Porting of a 250k Line Legacy Weather Simulation Code",
+          "url": "https://arxiv.org/abs/2608.13122",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-15T22:41:51Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5122,
-      "importance": 0.5122,
-      "importance_score": 0.5122,
+      "score": 0.4884,
+      "importance": 0.4884,
+      "importance_score": 0.4884,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.821,
+        "recency": 0.7018,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-16T03:22:15Z",
-      "latest_at": "2026-08-16T05:10:44.244000Z",
+      "earliest_at": "2026-08-15T22:41:51Z",
+      "latest_at": "2026-08-16T02:43:47.566000Z",
       "primary_item": {
-        "id": "8f8da72ba2ccb1cc5608f895e1c7d10a18f21bde",
-        "title": "ProofRun – AI 编码代理的本地验证收据 / ProofRun – a local verification receipt for AI coding agents",
-        "url": "https://news.ycombinator.com/item?id=49316605",
+        "id": "d9e5761eb9dc631140a0a40569ec395b1563f0a7",
+        "title": "AI 辅助 GPU 移植 250k 行旧天气模拟代码 / AI-Assisted GPU Porting of a 250k Line Legacy Weather Simulation Code",
+        "url": "https://news.ycombinator.com/item?id=49314967",
         "source": "hackernews",
         "source_name": "NewsNow"
       }
@@ -580,14 +677,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.4549,
-      "importance": 0.4549,
-      "importance_score": 0.4549,
+      "score": 0.4514,
+      "importance": 0.4514,
+      "importance_score": 0.4514,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.4094,
+        "recency": 0.3922,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -601,6 +698,83 @@
         "title": "人工智能并非在智力上胜过数学家，而是在记忆力上胜过他们",
         "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
         "source": "davidepiffer.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_d555dfa280b8",
+      "title": "据《Information》报道，英伟达计划在与OpenAI达成的数据中心合作协议框架下，向SB Energy投资30亿美元",
+      "url": "https://www.reuters.com/business/nvidia-talks-invest-3-billion-sb-energy-part-openai-data-center-deal-information-2026-08-15",
+      "primary_url": "https://www.reuters.com/business/nvidia-talks-invest-3-billion-sb-energy-part-openai-data-center-deal-information-2026-08-15",
+      "source": "www.reuters.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "e23c5f4436bf46537732294ca2df9734da05cf9d",
+          "title": "据《Information》报道，英伟达计划在与OpenAI达成的数据中心合作协议框架下，向SB Energy投资30亿美元",
+          "url": "https://www.reuters.com/business/nvidia-talks-invest-3-billion-sb-energy-part-openai-data-center-deal-information-2026-08-15",
+          "source": "www.reuters.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-15T20:38:00.813000Z"
+        },
+        {
+          "id": "d1ca0dad4433f35492e832594ea3d9fd9e4d088b",
+          "title": "据《The Information》报道，英伟达正就向SB Energy投资30亿美元进行谈判，此举是OpenAI数据中心交易的一部分",
+          "url": "https://www.reuters.com/business/nvidia-talks-invest-3-billion-sb-energy-part-openai-data-center-deal-information-2026-08-15",
+          "source": "www.reuters.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-15T19:50:12.744000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "www.reuters.com"
+      ],
+      "items": [
+        {
+          "id": "e23c5f4436bf46537732294ca2df9734da05cf9d",
+          "title": "据《Information》报道，英伟达计划在与OpenAI达成的数据中心合作协议框架下，向SB Energy投资30亿美元",
+          "url": "https://www.reuters.com/business/nvidia-talks-invest-3-billion-sb-energy-part-openai-data-center-deal-information-2026-08-15",
+          "source": "www.reuters.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-15T20:38:00.813000Z"
+        },
+        {
+          "id": "d1ca0dad4433f35492e832594ea3d9fd9e4d088b",
+          "title": "据《The Information》报道，英伟达正就向SB Energy投资30亿美元进行谈判，此举是OpenAI数据中心交易的一部分",
+          "url": "https://www.reuters.com/business/nvidia-talks-invest-3-billion-sb-energy-part-openai-data-center-deal-information-2026-08-15",
+          "source": "www.reuters.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-15T19:50:12.744000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4376,
+      "importance": 0.4376,
+      "importance_score": 0.4376,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.4478,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-15T19:50:12.744000Z",
+      "latest_at": "2026-08-15T20:38:00.813000Z",
+      "primary_item": {
+        "id": "e23c5f4436bf46537732294ca2df9734da05cf9d",
+        "title": "据《Information》报道，英伟达计划在与OpenAI达成的数据中心合作协议框架下，向SB Energy投资30亿美元",
+        "url": "https://www.reuters.com/business/nvidia-talks-invest-3-billion-sb-energy-part-openai-data-center-deal-information-2026-08-15",
+        "source": "www.reuters.com",
         "source_name": "Buzzing"
       }
     },
@@ -658,14 +832,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.441,
-      "importance": 0.441,
-      "importance_score": 0.441,
+      "score": 0.4375,
+      "importance": 0.4375,
+      "importance_score": 0.4375,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.465,
+        "recency": 0.4477,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -679,83 +853,6 @@
         "title": "Cloudflare的AI精神错乱",
         "url": "https://opensauce.it/cloudflare-ai-psychosis",
         "source": "opensauce.it",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_d555dfa280b8",
-      "title": "据《Information》报道，英伟达计划在与OpenAI达成的数据中心合作协议框架下，向SB Energy投资30亿美元",
-      "url": "https://www.reuters.com/business/nvidia-talks-invest-3-billion-sb-energy-part-openai-data-center-deal-information-2026-08-15",
-      "primary_url": "https://www.reuters.com/business/nvidia-talks-invest-3-billion-sb-energy-part-openai-data-center-deal-information-2026-08-15",
-      "source": "www.reuters.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "e23c5f4436bf46537732294ca2df9734da05cf9d",
-          "title": "据《Information》报道，英伟达计划在与OpenAI达成的数据中心合作协议框架下，向SB Energy投资30亿美元",
-          "url": "https://www.reuters.com/business/nvidia-talks-invest-3-billion-sb-energy-part-openai-data-center-deal-information-2026-08-15",
-          "source": "www.reuters.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-15T20:38:00.813000Z"
-        },
-        {
-          "id": "d1ca0dad4433f35492e832594ea3d9fd9e4d088b",
-          "title": "据《The Information》报道，英伟达正就向SB Energy投资30亿美元进行谈判，此举是OpenAI数据中心交易的一部分",
-          "url": "https://www.reuters.com/business/nvidia-talks-invest-3-billion-sb-energy-part-openai-data-center-deal-information-2026-08-15",
-          "source": "www.reuters.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-15T19:50:12.744000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "www.reuters.com"
-      ],
-      "items": [
-        {
-          "id": "e23c5f4436bf46537732294ca2df9734da05cf9d",
-          "title": "据《Information》报道，英伟达计划在与OpenAI达成的数据中心合作协议框架下，向SB Energy投资30亿美元",
-          "url": "https://www.reuters.com/business/nvidia-talks-invest-3-billion-sb-energy-part-openai-data-center-deal-information-2026-08-15",
-          "source": "www.reuters.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-15T20:38:00.813000Z"
-        },
-        {
-          "id": "d1ca0dad4433f35492e832594ea3d9fd9e4d088b",
-          "title": "据《The Information》报道，英伟达正就向SB Energy投资30亿美元进行谈判，此举是OpenAI数据中心交易的一部分",
-          "url": "https://www.reuters.com/business/nvidia-talks-invest-3-billion-sb-energy-part-openai-data-center-deal-information-2026-08-15",
-          "source": "www.reuters.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-15T19:50:12.744000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.441,
-      "importance": 0.441,
-      "importance_score": 0.441,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.465,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-15T19:50:12.744000Z",
-      "latest_at": "2026-08-15T20:38:00.813000Z",
-      "primary_item": {
-        "id": "e23c5f4436bf46537732294ca2df9734da05cf9d",
-        "title": "据《Information》报道，英伟达计划在与OpenAI达成的数据中心合作协议框架下，向SB Energy投资30亿美元",
-        "url": "https://www.reuters.com/business/nvidia-talks-invest-3-billion-sb-energy-part-openai-data-center-deal-information-2026-08-15",
-        "source": "www.reuters.com",
         "source_name": "Buzzing"
       }
     },
@@ -813,14 +910,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4388,
-      "importance": 0.4388,
-      "importance_score": 0.4388,
+      "score": 0.4353,
+      "importance": 0.4353,
+      "importance_score": 0.4353,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.4538,
+        "recency": 0.4366,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -910,14 +1007,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.4327,
-      "importance": 0.4327,
-      "importance_score": 0.4327,
+      "score": 0.4292,
+      "importance": 0.4292,
+      "importance_score": 0.4292,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.2983,
+        "recency": 0.2811,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -935,30 +1032,30 @@
       }
     },
     {
-      "story_id": "story_c21a3b4fa623",
-      "title": "AI 辅助 GPU 移植 250k 行旧天气模拟代码 / AI-Assisted GPU Porting of a 250k Line Legacy Weather Simulation Code",
-      "url": "https://news.ycombinator.com/item?id=49314967",
-      "primary_url": "https://news.ycombinator.com/item?id=49314967",
+      "story_id": "story_aa1bd4c71d6c",
+      "title": "Show HN：我使用 Rust 和 GPUI 为编码代理构建了一个本机应用程序 / Show HN: I built a native app for coding agents with Rust and GPUI",
+      "url": "https://news.ycombinator.com/item?id=49315709",
+      "primary_url": "https://news.ycombinator.com/item?id=49315709",
       "source": "hackernews",
       "source_name": "NewsNow",
       "sources": [
         {
-          "id": "d9e5761eb9dc631140a0a40569ec395b1563f0a7",
-          "title": "AI 辅助 GPU 移植 250k 行旧天气模拟代码 / AI-Assisted GPU Porting of a 250k Line Legacy Weather Simulation Code",
-          "url": "https://news.ycombinator.com/item?id=49314967",
+          "id": "a8484567193fa84bfd673651a93e15a0dab91865",
+          "title": "Show HN：我使用 Rust 和 GPUI 为编码代理构建了一个本机应用程序 / Show HN: I built a native app for coding agents with Rust and GPUI",
+          "url": "https://news.ycombinator.com/item?id=49315709",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
           "published_at": "2026-08-16T02:43:47.566000Z"
         },
         {
-          "id": "6a58a1a6f84416fd76382194fc6abc8444164d49",
-          "title": "AI 辅助 GPU 移植 250k 行旧天气模拟代码 / AI-Assisted GPU Porting of a 250k Line Legacy Weather Simulation Code",
-          "url": "https://arxiv.org/abs/2608.13122",
+          "id": "9ba6c737c52dd0ed402515bdd02140febf3a16c1",
+          "title": "Show HN: 我使用 Rust 和 GPUI 开发了一个用于编写代理程序的原生应用 / Show HN: I built a native app for coding agents with Rust and GPUI",
+          "url": "https://waku.sh",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-08-15T22:41:51Z"
+          "published_at": "2026-08-16T00:38:44Z"
         }
       ],
       "source_count": 2,
@@ -968,46 +1065,46 @@
       ],
       "items": [
         {
-          "id": "d9e5761eb9dc631140a0a40569ec395b1563f0a7",
-          "title": "AI 辅助 GPU 移植 250k 行旧天气模拟代码 / AI-Assisted GPU Porting of a 250k Line Legacy Weather Simulation Code",
-          "url": "https://news.ycombinator.com/item?id=49314967",
+          "id": "a8484567193fa84bfd673651a93e15a0dab91865",
+          "title": "Show HN：我使用 Rust 和 GPUI 为编码代理构建了一个本机应用程序 / Show HN: I built a native app for coding agents with Rust and GPUI",
+          "url": "https://news.ycombinator.com/item?id=49315709",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
           "published_at": "2026-08-16T02:43:47.566000Z"
         },
         {
-          "id": "6a58a1a6f84416fd76382194fc6abc8444164d49",
-          "title": "AI 辅助 GPU 移植 250k 行旧天气模拟代码 / AI-Assisted GPU Porting of a 250k Line Legacy Weather Simulation Code",
-          "url": "https://arxiv.org/abs/2608.13122",
+          "id": "9ba6c737c52dd0ed402515bdd02140febf3a16c1",
+          "title": "Show HN: 我使用 Rust 和 GPUI 开发了一个用于编写代理程序的原生应用 / Show HN: I built a native app for coding agents with Rust and GPUI",
+          "url": "https://waku.sh",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-08-15T22:41:51Z"
+          "published_at": "2026-08-16T00:38:44Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4918,
-      "importance": 0.4918,
-      "importance_score": 0.4918,
+      "score": 0.4884,
+      "importance": 0.4884,
+      "importance_score": 0.4884,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.719,
+        "recency": 0.7018,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-15T22:41:51Z",
+      "earliest_at": "2026-08-16T00:38:44Z",
       "latest_at": "2026-08-16T02:43:47.566000Z",
       "primary_item": {
-        "id": "d9e5761eb9dc631140a0a40569ec395b1563f0a7",
-        "title": "AI 辅助 GPU 移植 250k 行旧天气模拟代码 / AI-Assisted GPU Porting of a 250k Line Legacy Weather Simulation Code",
-        "url": "https://news.ycombinator.com/item?id=49314967",
+        "id": "a8484567193fa84bfd673651a93e15a0dab91865",
+        "title": "Show HN：我使用 Rust 和 GPUI 为编码代理构建了一个本机应用程序 / Show HN: I built a native app for coding agents with Rust and GPUI",
+        "url": "https://news.ycombinator.com/item?id=49315709",
         "source": "hackernews",
         "source_name": "NewsNow"
       }
@@ -1066,14 +1163,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4808,
-      "importance": 0.4808,
-      "importance_score": 0.4808,
+      "score": 0.4773,
+      "importance": 0.4773,
+      "importance_score": 0.4773,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6638,
+        "recency": 0.6466,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1163,14 +1260,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.4104,
-      "importance": 0.4104,
-      "importance_score": 0.4104,
+      "score": 0.407,
+      "importance": 0.407,
+      "importance_score": 0.407,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.1872,
+        "recency": 0.17,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1188,30 +1285,30 @@
       }
     },
     {
-      "story_id": "story_aa1bd4c71d6c",
-      "title": "Show HN：我使用 Rust 和 GPUI 为编码代理构建了一个本机应用程序 / Show HN: I built a native app for coding agents with Rust and GPUI",
-      "url": "https://news.ycombinator.com/item?id=49315709",
-      "primary_url": "https://news.ycombinator.com/item?id=49315709",
+      "story_id": "story_ff34e5a81db6",
+      "title": "这就是你问的方式：法学硕士中与性别相关的语言偏见 / It's How You Ask: Gender-Associated Linguistic Bias in LLMs",
+      "url": "https://news.ycombinator.com/item?id=49316242",
+      "primary_url": "https://news.ycombinator.com/item?id=49316242",
       "source": "hackernews",
       "source_name": "NewsNow",
       "sources": [
         {
-          "id": "a8484567193fa84bfd673651a93e15a0dab91865",
-          "title": "Show HN：我使用 Rust 和 GPUI 为编码代理构建了一个本机应用程序 / Show HN: I built a native app for coding agents with Rust and GPUI",
-          "url": "https://news.ycombinator.com/item?id=49315709",
+          "id": "dd014bf97877d028a6388db7a26c84d56491c9cf",
+          "title": "这就是你问的方式：法学硕士中与性别相关的语言偏见 / It's How You Ask: Gender-Associated Linguistic Bias in LLMs",
+          "url": "https://news.ycombinator.com/item?id=49316242",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
           "published_at": "2026-08-16T02:43:47.566000Z"
         },
         {
-          "id": "9ba6c737c52dd0ed402515bdd02140febf3a16c1",
-          "title": "Show HN: 我使用 Rust 和 GPUI 开发了一个用于编写代理程序的原生应用 / Show HN: I built a native app for coding agents with Rust and GPUI",
-          "url": "https://waku.sh",
+          "id": "3715c64be287d162f1e6c16761e1e73d878d5629",
+          "title": "这就是你问的方式：法学硕士中与性别相关的语言偏见 / It's How You Ask: Gender-Associated Linguistic Bias in LLMs",
+          "url": "https://arxiv.org/abs/2608.13328",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-08-16T00:38:44Z"
+          "published_at": "2026-08-16T02:07:06Z"
         }
       ],
       "source_count": 2,
@@ -1221,46 +1318,46 @@
       ],
       "items": [
         {
-          "id": "a8484567193fa84bfd673651a93e15a0dab91865",
-          "title": "Show HN：我使用 Rust 和 GPUI 为编码代理构建了一个本机应用程序 / Show HN: I built a native app for coding agents with Rust and GPUI",
-          "url": "https://news.ycombinator.com/item?id=49315709",
+          "id": "dd014bf97877d028a6388db7a26c84d56491c9cf",
+          "title": "这就是你问的方式：法学硕士中与性别相关的语言偏见 / It's How You Ask: Gender-Associated Linguistic Bias in LLMs",
+          "url": "https://news.ycombinator.com/item?id=49316242",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
           "published_at": "2026-08-16T02:43:47.566000Z"
         },
         {
-          "id": "9ba6c737c52dd0ed402515bdd02140febf3a16c1",
-          "title": "Show HN: 我使用 Rust 和 GPUI 开发了一个用于编写代理程序的原生应用 / Show HN: I built a native app for coding agents with Rust and GPUI",
-          "url": "https://waku.sh",
+          "id": "3715c64be287d162f1e6c16761e1e73d878d5629",
+          "title": "这就是你问的方式：法学硕士中与性别相关的语言偏见 / It's How You Ask: Gender-Associated Linguistic Bias in LLMs",
+          "url": "https://arxiv.org/abs/2608.13328",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-08-16T00:38:44Z"
+          "published_at": "2026-08-16T02:07:06Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4918,
-      "importance": 0.4918,
-      "importance_score": 0.4918,
+      "score": 0.4884,
+      "importance": 0.4884,
+      "importance_score": 0.4884,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.719,
+        "recency": 0.7018,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-16T00:38:44Z",
+      "earliest_at": "2026-08-16T02:07:06Z",
       "latest_at": "2026-08-16T02:43:47.566000Z",
       "primary_item": {
-        "id": "a8484567193fa84bfd673651a93e15a0dab91865",
-        "title": "Show HN：我使用 Rust 和 GPUI 为编码代理构建了一个本机应用程序 / Show HN: I built a native app for coding agents with Rust and GPUI",
-        "url": "https://news.ycombinator.com/item?id=49315709",
+        "id": "dd014bf97877d028a6388db7a26c84d56491c9cf",
+        "title": "这就是你问的方式：法学硕士中与性别相关的语言偏见 / It's How You Ask: Gender-Associated Linguistic Bias in LLMs",
+        "url": "https://news.ycombinator.com/item?id=49316242",
         "source": "hackernews",
         "source_name": "NewsNow"
       }
@@ -1318,14 +1415,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.3888,
-      "importance": 0.3888,
-      "importance_score": 0.3888,
+      "score": 0.3854,
+      "importance": 0.3854,
+      "importance_score": 0.3854,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.2041,
+        "recency": 0.1869,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1340,162 +1437,6 @@
         "url": "https://printytron.com",
         "source": "Hacker News · 24h最热",
         "source_name": "Zeli"
-      }
-    },
-    {
-      "story_id": "story_ff34e5a81db6",
-      "title": "这就是你问的方式：法学硕士中与性别相关的语言偏见 / It's How You Ask: Gender-Associated Linguistic Bias in LLMs",
-      "url": "https://news.ycombinator.com/item?id=49316242",
-      "primary_url": "https://news.ycombinator.com/item?id=49316242",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "dd014bf97877d028a6388db7a26c84d56491c9cf",
-          "title": "这就是你问的方式：法学硕士中与性别相关的语言偏见 / It's How You Ask: Gender-Associated Linguistic Bias in LLMs",
-          "url": "https://news.ycombinator.com/item?id=49316242",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-16T02:43:47.566000Z"
-        },
-        {
-          "id": "3715c64be287d162f1e6c16761e1e73d878d5629",
-          "title": "这就是你问的方式：法学硕士中与性别相关的语言偏见 / It's How You Ask: Gender-Associated Linguistic Bias in LLMs",
-          "url": "https://arxiv.org/abs/2608.13328",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-16T02:07:06Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "dd014bf97877d028a6388db7a26c84d56491c9cf",
-          "title": "这就是你问的方式：法学硕士中与性别相关的语言偏见 / It's How You Ask: Gender-Associated Linguistic Bias in LLMs",
-          "url": "https://news.ycombinator.com/item?id=49316242",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-16T02:43:47.566000Z"
-        },
-        {
-          "id": "3715c64be287d162f1e6c16761e1e73d878d5629",
-          "title": "这就是你问的方式：法学硕士中与性别相关的语言偏见 / It's How You Ask: Gender-Associated Linguistic Bias in LLMs",
-          "url": "https://arxiv.org/abs/2608.13328",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-16T02:07:06Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4918,
-      "importance": 0.4918,
-      "importance_score": 0.4918,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.719,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-16T02:07:06Z",
-      "latest_at": "2026-08-16T02:43:47.566000Z",
-      "primary_item": {
-        "id": "dd014bf97877d028a6388db7a26c84d56491c9cf",
-        "title": "这就是你问的方式：法学硕士中与性别相关的语言偏见 / It's How You Ask: Gender-Associated Linguistic Bias in LLMs",
-        "url": "https://news.ycombinator.com/item?id=49316242",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_866ffacbe824",
-      "title": "培养人工智能科学家以复现研究成果",
-      "url": "https://inherentlabs.ai/research/training-to-replicate",
-      "primary_url": "https://inherentlabs.ai/research/training-to-replicate",
-      "source": "inherentlabs.ai",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "587b20bb7cf2a552470acca81bfa1954166016e4",
-          "title": "培养人工智能科学家以复现研究成果",
-          "url": "https://inherentlabs.ai/research/training-to-replicate",
-          "source": "inherentlabs.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-15T10:45:54.256000Z"
-        },
-        {
-          "id": "7068bd5a7a8fadabf04d8d34ec8f102ac9f6f1a3",
-          "title": "培养人工智能科学家以复现研究成果 / Training AI Scientists to Replicate Research",
-          "url": "https://inherentlabs.ai/research/training-to-replicate",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-15T10:40:55Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Lobsters (技术社区)",
-        "inherentlabs.ai"
-      ],
-      "items": [
-        {
-          "id": "587b20bb7cf2a552470acca81bfa1954166016e4",
-          "title": "培养人工智能科学家以复现研究成果",
-          "url": "https://inherentlabs.ai/research/training-to-replicate",
-          "source": "inherentlabs.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-15T10:45:54.256000Z"
-        },
-        {
-          "id": "7068bd5a7a8fadabf04d8d34ec8f102ac9f6f1a3",
-          "title": "培养人工智能科学家以复现研究成果 / Training AI Scientists to Replicate Research",
-          "url": "https://inherentlabs.ai/research/training-to-replicate",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-15T10:40:55Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.3588,
-      "importance": 0.3588,
-      "importance_score": 0.3588,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.0538,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-15T10:40:55Z",
-      "latest_at": "2026-08-15T10:45:54.256000Z",
-      "primary_item": {
-        "id": "587b20bb7cf2a552470acca81bfa1954166016e4",
-        "title": "培养人工智能科学家以复现研究成果",
-        "url": "https://inherentlabs.ai/research/training-to-replicate",
-        "source": "inherentlabs.ai",
-        "source_name": "Buzzing"
       }
     },
     {
@@ -1571,14 +1512,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.4842,
-      "importance": 0.4842,
-      "importance_score": 0.4842,
+      "score": 0.4807,
+      "importance": 0.4807,
+      "importance_score": 0.4807,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.5559,
+        "recency": 0.5387,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1596,81 +1537,159 @@
       }
     },
     {
-      "story_id": "story_5ca8762cdb1c",
-      "title": "安永正在设立一个“价值实现”部门，以确保其人工智能方面的投入能带来回报",
-      "url": "https://www.businessinsider.com/big-four-ey-creates-ai-value-realization-office-2026-8",
-      "primary_url": "https://www.businessinsider.com/big-four-ey-creates-ai-value-realization-office-2026-8",
-      "source": "www.businessinsider.com",
+      "story_id": "story_866ffacbe824",
+      "title": "培养人工智能科学家以复现研究成果",
+      "url": "https://inherentlabs.ai/research/training-to-replicate",
+      "primary_url": "https://inherentlabs.ai/research/training-to-replicate",
+      "source": "inherentlabs.ai",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "7ee4a29d6d020b1a6fc22afabea6a8911898e045",
-          "title": "安永正在设立一个“价值实现”部门，以确保其人工智能方面的投入能带来回报",
-          "url": "https://www.businessinsider.com/big-four-ey-creates-ai-value-realization-office-2026-8",
-          "source": "www.businessinsider.com",
+          "id": "587b20bb7cf2a552470acca81bfa1954166016e4",
+          "title": "培养人工智能科学家以复现研究成果",
+          "url": "https://inherentlabs.ai/research/training-to-replicate",
+          "source": "inherentlabs.ai",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-08-15T10:45:54.910000Z"
+          "published_at": "2026-08-15T10:45:54.256000Z"
         },
         {
-          "id": "0efb6b26ef7382346e60f6420345f3aeb9cedecc",
-          "title": "安永正在设立一个“价值实现”部门，以确保其人工智能方面的投入能带来回报 / EY is creating a 'value realization' office to make sure its AI spending pays off",
-          "url": "https://www.businessinsider.com/big-four-ey-creates-ai-value-realization-office-2026-8",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-15T10:32:01Z"
+          "id": "7068bd5a7a8fadabf04d8d34ec8f102ac9f6f1a3",
+          "title": "培养人工智能科学家以复现研究成果 / Training AI Scientists to Replicate Research",
+          "url": "https://inherentlabs.ai/research/training-to-replicate",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-15T10:40:55Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
+        "Lobsters (技术社区)",
+        "inherentlabs.ai"
       ],
       "items": [
         {
-          "id": "7ee4a29d6d020b1a6fc22afabea6a8911898e045",
-          "title": "安永正在设立一个“价值实现”部门，以确保其人工智能方面的投入能带来回报",
-          "url": "https://www.businessinsider.com/big-four-ey-creates-ai-value-realization-office-2026-8",
-          "source": "www.businessinsider.com",
+          "id": "587b20bb7cf2a552470acca81bfa1954166016e4",
+          "title": "培养人工智能科学家以复现研究成果",
+          "url": "https://inherentlabs.ai/research/training-to-replicate",
+          "source": "inherentlabs.ai",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-08-15T10:45:54.910000Z"
+          "published_at": "2026-08-15T10:45:54.256000Z"
         },
         {
-          "id": "0efb6b26ef7382346e60f6420345f3aeb9cedecc",
-          "title": "安永正在设立一个“价值实现”部门，以确保其人工智能方面的投入能带来回报 / EY is creating a 'value realization' office to make sure its AI spending pays off",
-          "url": "https://www.businessinsider.com/big-four-ey-creates-ai-value-realization-office-2026-8",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-15T10:32:01Z"
+          "id": "7068bd5a7a8fadabf04d8d34ec8f102ac9f6f1a3",
+          "title": "培养人工智能科学家以复现研究成果 / Training AI Scientists to Replicate Research",
+          "url": "https://inherentlabs.ai/research/training-to-replicate",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-15T10:40:55Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.3588,
-      "importance": 0.3588,
-      "importance_score": 0.3588,
+      "score": 0.3553,
+      "importance": 0.3553,
+      "importance_score": 0.3553,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.0538,
+        "recency": 0.0366,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-15T10:32:01Z",
-      "latest_at": "2026-08-15T10:45:54.910000Z",
+      "earliest_at": "2026-08-15T10:40:55Z",
+      "latest_at": "2026-08-15T10:45:54.256000Z",
       "primary_item": {
-        "id": "7ee4a29d6d020b1a6fc22afabea6a8911898e045",
-        "title": "安永正在设立一个“价值实现”部门，以确保其人工智能方面的投入能带来回报",
-        "url": "https://www.businessinsider.com/big-four-ey-creates-ai-value-realization-office-2026-8",
-        "source": "www.businessinsider.com",
+        "id": "587b20bb7cf2a552470acca81bfa1954166016e4",
+        "title": "培养人工智能科学家以复现研究成果",
+        "url": "https://inherentlabs.ai/research/training-to-replicate",
+        "source": "inherentlabs.ai",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_2ee2f613cd02",
+      "title": "ChatGPT 一年内网络份额下降 22 点 / ChatGPT lost 22 points of web share in a year",
+      "url": "https://news.ycombinator.com/item?id=49315630",
+      "primary_url": "https://news.ycombinator.com/item?id=49315630",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "199e11d6bc043c0a28cb4efb32a931be743df122",
+          "title": "ChatGPT 一年内网络份额下降 22 点 / ChatGPT lost 22 points of web share in a year",
+          "url": "https://news.ycombinator.com/item?id=49315630",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-16T01:10:20.889000Z"
+        },
+        {
+          "id": "b2198654af89e55fc12bdd2add73f095e710c6b3",
+          "title": "ChatGPT 一年内网络份额下降 22 点 / ChatGPT lost 22 points of web share in a year",
+          "url": "https://aicharts.grok.me/c/market-share",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-16T00:22:20Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "199e11d6bc043c0a28cb4efb32a931be743df122",
+          "title": "ChatGPT 一年内网络份额下降 22 点 / ChatGPT lost 22 points of web share in a year",
+          "url": "https://news.ycombinator.com/item?id=49315630",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-16T01:10:20.889000Z"
+        },
+        {
+          "id": "b2198654af89e55fc12bdd2add73f095e710c6b3",
+          "title": "ChatGPT 一年内网络份额下降 22 点 / ChatGPT lost 22 points of web share in a year",
+          "url": "https://aicharts.grok.me/c/market-share",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-16T00:22:20Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4754,
+      "importance": 0.4754,
+      "importance_score": 0.4754,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.6369,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-16T00:22:20Z",
+      "latest_at": "2026-08-16T01:10:20.889000Z",
+      "primary_item": {
+        "id": "199e11d6bc043c0a28cb4efb32a931be743df122",
+        "title": "ChatGPT 一年内网络份额下降 22 点 / ChatGPT lost 22 points of web share in a year",
+        "url": "https://news.ycombinator.com/item?id=49315630",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     }
   ]
