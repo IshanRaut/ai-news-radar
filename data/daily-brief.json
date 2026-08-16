@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T18:31:10.740887Z",
+  "generated_at": "2026-08-16T19:22:13.335344Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,20 +38,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7518,
-      "importance": 0.7518,
-      "importance_score": 0.7518,
+      "score": 0.7447,
+      "importance": 0.7447,
+      "importance_score": 0.7447,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6991,
+        "recency": 0.6637,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-16T11:17:57Z",
       "latest_at": "2026-08-16T11:17:57Z",
@@ -136,14 +135,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.564,
-      "importance": 0.564,
-      "importance_score": 0.564,
+      "score": 0.5569,
+      "importance": 0.5569,
+      "importance_score": 0.5569,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9552,
+        "recency": 0.9197,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -157,6 +156,84 @@
         "title": "人工智能信用转售经济",
         "url": "https://vectoral.com/blog/who-are-the-token-brokers",
         "source": "vectoral.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_e81108c281d1",
+      "title": "Anthropic首席执行官表示，针对人工智能的负面反应“本质上是一场信任危机” - TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZGtCM3JXUkxNNHZZZU45ckJ6VHZRd2NxUWxUZWRVeGZKVFFWc3pYWFl4eDRtbV9BWVFLdFpBVkxCVllBdG01d3cxdmxfZXRKZjI3bU1fM2FDa1htRnJKNy1DR3pwRTgxY0gzY2oxSjl2eVBXd2hKWjRLMy10SzY5N1N1akYybGhlejFMRmJ4dkRfZENQWUtQb0RMV2czSUs2TWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "primary_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZGtCM3JXUkxNNHZZZU45ckJ6VHZRd2NxUWxUZWRVeGZKVFFWc3pYWFl4eDRtbV9BWVFLdFpBVkxCVllBdG01d3cxdmxfZXRKZjI3bU1fM2FDa1htRnJKNy1DR3pwRTgxY0gzY2oxSjl2eVBXd2hKWjRLMy10SzY5N1N1akYybGhlejFMRmJ4dkRfZENQWUtQb0RMV2czSUs2TWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+      "source": "news.google.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "c036f9f93ecc215e63182e735174d14dfa81917b",
+          "title": "Anthropic首席执行官表示，针对人工智能的负面反应“本质上是一场信任危机” - TechCrunch",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZGtCM3JXUkxNNHZZZU45ckJ6VHZRd2NxUWxUZWRVeGZKVFFWc3pYWFl4eDRtbV9BWVFLdFpBVkxCVllBdG01d3cxdmxfZXRKZjI3bU1fM2FDa1htRnJKNy1DR3pwRTgxY0gzY2oxSjl2eVBXd2hKWjRLMy10SzY5N1N1akYybGhlejFMRmJ4dkRfZENQWUtQb0RMV2czSUs2TWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "source": "news.google.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-16T18:30:21.826000Z"
+        },
+        {
+          "id": "12e225c702b6b51fe4ecfba6d6e85ef44bfc9c52",
+          "title": "Anthropic首席执行官表示，针对人工智能的负面反应“本质上是一场信任危机”",
+          "url": "https://finance.yahoo.com/technology/ai/articles/anthropic-ceo-says-ai-backlash-165351283.html",
+          "source": "finance.yahoo.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-16T17:26:40.195000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "finance.yahoo.com",
+        "news.google.com"
+      ],
+      "items": [
+        {
+          "id": "c036f9f93ecc215e63182e735174d14dfa81917b",
+          "title": "Anthropic首席执行官表示，针对人工智能的负面反应“本质上是一场信任危机” - TechCrunch",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZGtCM3JXUkxNNHZZZU45ckJ6VHZRd2NxUWxUZWRVeGZKVFFWc3pYWFl4eDRtbV9BWVFLdFpBVkxCVllBdG01d3cxdmxfZXRKZjI3bU1fM2FDa1htRnJKNy1DR3pwRTgxY0gzY2oxSjl2eVBXd2hKWjRLMy10SzY5N1N1akYybGhlejFMRmJ4dkRfZENQWUtQb0RMV2czSUs2TWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+          "source": "news.google.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-16T18:30:21.826000Z"
+        },
+        {
+          "id": "12e225c702b6b51fe4ecfba6d6e85ef44bfc9c52",
+          "title": "Anthropic首席执行官表示，针对人工智能的负面反应“本质上是一场信任危机”",
+          "url": "https://finance.yahoo.com/technology/ai/articles/anthropic-ceo-says-ai-backlash-165351283.html",
+          "source": "finance.yahoo.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-16T17:26:40.195000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5408,
+      "importance": 0.5408,
+      "importance_score": 0.5408,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.964,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-16T17:26:40.195000Z",
+      "latest_at": "2026-08-16T18:30:21.826000Z",
+      "primary_item": {
+        "id": "c036f9f93ecc215e63182e735174d14dfa81917b",
+        "title": "Anthropic首席执行官表示，针对人工智能的负面反应“本质上是一场信任危机” - TechCrunch",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZGtCM3JXUkxNNHZZZU45ckJ6VHZRd2NxUWxUZWRVeGZKVFFWc3pYWFl4eDRtbV9BWVFLdFpBVkxCVllBdG01d3cxdmxfZXRKZjI3bU1fM2FDa1htRnJKNy1DR3pwRTgxY0gzY2oxSjl2eVBXd2hKWjRLMy10SzY5N1N1akYybGhlejFMRmJ4dkRfZENQWUtQb0RMV2czSUs2TWc?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
+        "source": "news.google.com",
         "source_name": "Buzzing"
       }
     },
@@ -233,14 +310,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5454,
-      "importance": 0.5454,
-      "importance_score": 0.5454,
+      "score": 0.5383,
+      "importance": 0.5383,
+      "importance_score": 0.5383,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8621,
+        "recency": 0.8266,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -311,14 +388,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.539,
-      "importance": 0.539,
-      "importance_score": 0.539,
+      "score": 0.532,
+      "importance": 0.532,
+      "importance_score": 0.532,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9552,
+        "recency": 0.9198,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -389,14 +466,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5344,
-      "importance": 0.5344,
-      "importance_score": 0.5344,
+      "score": 0.5273,
+      "importance": 0.5273,
+      "importance_score": 0.5273,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9319,
+        "recency": 0.8964,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -467,14 +544,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5145,
-      "importance": 0.5145,
-      "importance_score": 0.5145,
+      "score": 0.5075,
+      "importance": 0.5075,
+      "importance_score": 0.5075,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8327,
+        "recency": 0.7973,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -564,14 +641,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.4995,
-      "importance": 0.4995,
-      "importance_score": 0.4995,
+      "score": 0.4924,
+      "importance": 0.4924,
+      "importance_score": 0.4924,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6325,
+        "recency": 0.5971,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -642,14 +719,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4901,
-      "importance": 0.4901,
-      "importance_score": 0.4901,
+      "score": 0.483,
+      "importance": 0.483,
+      "importance_score": 0.483,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7104,
+        "recency": 0.6749,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -720,14 +797,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4895,
-      "importance": 0.4895,
-      "importance_score": 0.4895,
+      "score": 0.4824,
+      "importance": 0.4824,
+      "importance_score": 0.4824,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7074,
+        "recency": 0.672,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -798,14 +875,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4878,
-      "importance": 0.4878,
-      "importance_score": 0.4878,
+      "score": 0.4807,
+      "importance": 0.4807,
+      "importance_score": 0.4807,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6992,
+        "recency": 0.6637,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -876,14 +953,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5173,
-      "importance": 0.5173,
-      "importance_score": 0.5173,
+      "score": 0.5102,
+      "importance": 0.5102,
+      "importance_score": 0.5102,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8466,
+        "recency": 0.8111,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -898,121 +975,6 @@
         "url": "https://news.ycombinator.com/item?id=49320144",
         "source": "hackernews",
         "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_611835edca3b",
-      "title": "人工智能在药物研发中的应用——概述、现状及未来发展方向",
-      "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
-      "primary_url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
-      "source": "www.science.org",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "7d5005fb42ddcfa124069511ff7a8a4f328f6333",
-          "title": "人工智能在药物研发中的应用——概述、现状及未来发展方向",
-          "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
-          "source": "www.science.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-16T02:46:42.706000Z"
-        },
-        {
-          "id": "c0fe1f3b01d2aa3b80eb53360a87b75e3588b96b",
-          "title": "人工智能在药物研发中的应用——概述、现状及未来发展方向 / AI in drug discovery – what it is, where we stand and the path forward",
-          "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-15T19:12:53Z"
-        },
-        {
-          "id": "709724ec6bc438d27235005cc372f11138b684ea",
-          "title": "药物发现中的人工智能——它是什么、我们的立场和前进的道路 / AI in drug discovery — what it is, where we stand and the path forward",
-          "url": "https://www.nature.com/articles/s41573-026-01496-2",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-15T19:12:53Z"
-        },
-        {
-          "id": "fb742fc02c70e40eb693c6c361e1d0860ae6f8b3",
-          "title": "人工智能在药物研发中的应用——概述、现状及未来发展方向 / So How Is AI Drug Discovery Doing, Really?",
-          "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-15T19:12:53Z"
-        }
-      ],
-      "source_count": 4,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "Hacker News · 24h最热",
-        "www.science.org"
-      ],
-      "items": [
-        {
-          "id": "7d5005fb42ddcfa124069511ff7a8a4f328f6333",
-          "title": "人工智能在药物研发中的应用——概述、现状及未来发展方向",
-          "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
-          "source": "www.science.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-16T02:46:42.706000Z"
-        },
-        {
-          "id": "c0fe1f3b01d2aa3b80eb53360a87b75e3588b96b",
-          "title": "人工智能在药物研发中的应用——概述、现状及未来发展方向 / AI in drug discovery – what it is, where we stand and the path forward",
-          "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-15T19:12:53Z"
-        },
-        {
-          "id": "709724ec6bc438d27235005cc372f11138b684ea",
-          "title": "药物发现中的人工智能——它是什么、我们的立场和前进的道路 / AI in drug discovery — what it is, where we stand and the path forward",
-          "url": "https://www.nature.com/articles/s41573-026-01496-2",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-15T19:12:53Z"
-        },
-        {
-          "id": "fb742fc02c70e40eb693c6c361e1d0860ae6f8b3",
-          "title": "人工智能在药物研发中的应用——概述、现状及未来发展方向 / So How Is AI Drug Discovery Doing, Really?",
-          "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-15T19:12:53Z"
-        }
-      ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.4668,
-      "importance": 0.4668,
-      "importance_score": 0.4668,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.3441,
-        "story_heat": 0.75
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-15T19:12:53Z",
-      "latest_at": "2026-08-16T02:46:42.706000Z",
-      "primary_item": {
-        "id": "7d5005fb42ddcfa124069511ff7a8a4f328f6333",
-        "title": "人工智能在药物研发中的应用——概述、现状及未来发展方向",
-        "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
-        "source": "www.science.org",
-        "source_name": "Buzzing"
       }
     },
     {
@@ -1069,14 +1031,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4967,
-      "importance": 0.4967,
-      "importance_score": 0.4967,
+      "score": 0.4896,
+      "importance": 0.4896,
+      "importance_score": 0.4896,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7436,
+        "recency": 0.7082,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1147,14 +1109,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5121,
-      "importance": 0.5121,
-      "importance_score": 0.5121,
+      "score": 0.505,
+      "importance": 0.505,
+      "importance_score": 0.505,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8203,
+        "recency": 0.7849,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1225,14 +1187,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4726,
-      "importance": 0.4726,
-      "importance_score": 0.4726,
+      "score": 0.4655,
+      "importance": 0.4655,
+      "importance_score": 0.4655,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6231,
+        "recency": 0.5877,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1303,14 +1265,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4834,
-      "importance": 0.4834,
-      "importance_score": 0.4834,
+      "score": 0.4763,
+      "importance": 0.4763,
+      "importance_score": 0.4763,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6769,
+        "recency": 0.6415,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1381,14 +1343,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4395,
-      "importance": 0.4395,
-      "importance_score": 0.4395,
+      "score": 0.4324,
+      "importance": 0.4324,
+      "importance_score": 0.4324,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.4574,
+        "recency": 0.4219,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1458,14 +1420,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.3656,
-      "importance": 0.3656,
-      "importance_score": 0.3656,
+      "score": 0.3585,
+      "importance": 0.3585,
+      "importance_score": 0.3585,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.0881,
+        "recency": 0.0526,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1536,14 +1498,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4368,
-      "importance": 0.4368,
-      "importance_score": 0.4368,
+      "score": 0.4297,
+      "importance": 0.4297,
+      "importance_score": 0.4297,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.4441,
+        "recency": 0.4087,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1614,14 +1576,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4054,
-      "importance": 0.4054,
-      "importance_score": 0.4054,
+      "score": 0.3983,
+      "importance": 0.3983,
+      "importance_score": 0.3983,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.2869,
+        "recency": 0.2515,
         "story_heat": 0.25
       },
       "category": "watch",
