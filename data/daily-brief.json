@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T02:43:17.063379Z",
+  "generated_at": "2026-08-16T03:49:49.955159Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,20 +38,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7568,
-      "importance": 0.7568,
-      "importance_score": 0.7568,
+      "score": 0.7476,
+      "importance": 0.7476,
+      "importance_score": 0.7476,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.724,
+        "recency": 0.6778,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-15T20:05:54Z",
       "latest_at": "2026-08-15T20:05:54Z",
@@ -116,14 +115,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7061,
-      "importance": 0.7061,
-      "importance_score": 0.7061,
+      "score": 0.6969,
+      "importance": 0.6969,
+      "importance_score": 0.6969,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.3455,
+        "recency": 0.2993,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -139,6 +138,121 @@
         "url": "https://aihot.virxact.com/items/cmsuaf2hr05zgroe0y1e7275v",
         "source": "The Decoder：AI News（RSS）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_611835edca3b",
+      "title": "人工智能在药物研发中的应用——概述、现状及未来发展方向",
+      "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
+      "primary_url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
+      "source": "www.science.org",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "7d5005fb42ddcfa124069511ff7a8a4f328f6333",
+          "title": "人工智能在药物研发中的应用——概述、现状及未来发展方向",
+          "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
+          "source": "www.science.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-16T02:46:42.706000Z"
+        },
+        {
+          "id": "c0fe1f3b01d2aa3b80eb53360a87b75e3588b96b",
+          "title": "人工智能在药物研发中的应用——概述、现状及未来发展方向 / AI in drug discovery – what it is, where we stand and the path forward",
+          "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-15T19:12:53Z"
+        },
+        {
+          "id": "709724ec6bc438d27235005cc372f11138b684ea",
+          "title": "药物发现中的人工智能——它是什么、我们的立场和前进的道路 / AI in drug discovery — what it is, where we stand and the path forward",
+          "url": "https://www.nature.com/articles/s41573-026-01496-2",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-15T19:12:53Z"
+        },
+        {
+          "id": "fb742fc02c70e40eb693c6c361e1d0860ae6f8b3",
+          "title": "人工智能在药物研发中的应用——概述、现状及未来发展方向 / So How Is AI Drug Discovery Doing, Really?",
+          "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-15T19:12:53Z"
+        }
+      ],
+      "source_count": 4,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
+        "www.science.org"
+      ],
+      "items": [
+        {
+          "id": "7d5005fb42ddcfa124069511ff7a8a4f328f6333",
+          "title": "人工智能在药物研发中的应用——概述、现状及未来发展方向",
+          "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
+          "source": "www.science.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-16T02:46:42.706000Z"
+        },
+        {
+          "id": "c0fe1f3b01d2aa3b80eb53360a87b75e3588b96b",
+          "title": "人工智能在药物研发中的应用——概述、现状及未来发展方向 / AI in drug discovery – what it is, where we stand and the path forward",
+          "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-15T19:12:53Z"
+        },
+        {
+          "id": "709724ec6bc438d27235005cc372f11138b684ea",
+          "title": "药物发现中的人工智能——它是什么、我们的立场和前进的道路 / AI in drug discovery — what it is, where we stand and the path forward",
+          "url": "https://www.nature.com/articles/s41573-026-01496-2",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-15T19:12:53Z"
+        },
+        {
+          "id": "fb742fc02c70e40eb693c6c361e1d0860ae6f8b3",
+          "title": "人工智能在药物研发中的应用——概述、现状及未来发展方向 / So How Is AI Drug Discovery Doing, Really?",
+          "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-15T19:12:53Z"
+        }
+      ],
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.5892,
+      "importance": 0.5892,
+      "importance_score": 0.5892,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9562,
+        "story_heat": 0.75
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-15T19:12:53Z",
+      "latest_at": "2026-08-16T02:46:42.706000Z",
+      "primary_item": {
+        "id": "7d5005fb42ddcfa124069511ff7a8a4f328f6333",
+        "title": "人工智能在药物研发中的应用——概述、现状及未来发展方向",
+        "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
+        "source": "www.science.org",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -159,18 +273,18 @@
           "published_at": "2026-08-16T02:43:47.566000Z"
         },
         {
-          "id": "10b946531e584a81d49b142e3dd9bc46c792b460",
+          "id": "2713b3286640bc0d1328925207c5e5ec1bff3bae",
           "title": "AI 辅助 GPU 移植 250k 行旧天气模拟代码 / AI-Assisted GPU Porting of a 250k Line Legacy Weather Simulation Code",
           "url": "https://arxiv.org/abs/2608.13122",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
           "published_at": "2026-08-15T22:41:51Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News (黑客新闻)",
+        "Hacker News",
         "hackernews"
       ],
       "items": [
@@ -184,25 +298,25 @@
           "published_at": "2026-08-16T02:43:47.566000Z"
         },
         {
-          "id": "10b946531e584a81d49b142e3dd9bc46c792b460",
+          "id": "2713b3286640bc0d1328925207c5e5ec1bff3bae",
           "title": "AI 辅助 GPU 移植 250k 行旧天气模拟代码 / AI-Assisted GPU Porting of a 250k Line Legacy Weather Simulation Code",
           "url": "https://arxiv.org/abs/2608.13122",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
           "published_at": "2026-08-15T22:41:51Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.548,
-      "importance": 0.548,
-      "importance_score": 0.548,
+      "score": 0.5388,
+      "importance": 0.5388,
+      "importance_score": 0.5388,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9541,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -273,14 +387,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.537,
-      "importance": 0.537,
-      "importance_score": 0.537,
+      "score": 0.5278,
+      "importance": 0.5278,
+      "importance_score": 0.5278,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9452,
+        "recency": 0.899,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -351,14 +465,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.548,
-      "importance": 0.548,
-      "importance_score": 0.548,
+      "score": 0.5388,
+      "importance": 0.5388,
+      "importance_score": 0.5388,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9541,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -447,14 +561,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5112,
-      "importance": 0.5112,
-      "importance_score": 0.5112,
+      "score": 0.5019,
+      "importance": 0.5019,
+      "importance_score": 0.5019,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6908,
+        "recency": 0.6446,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -469,102 +583,6 @@
         "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
         "source": "davidepiffer.com",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_bdf266bc5d50",
-      "title": "药物发现中的人工智能——它是什么、我们的立场和前进的道路 / AI in drug discovery – what it is, where we stand and the path forward",
-      "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
-      "primary_url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
-      "source": "Hacker News (黑客新闻)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "c0fe1f3b01d2aa3b80eb53360a87b75e3588b96b",
-          "title": "药物发现中的人工智能——它是什么、我们的立场和前进的道路 / AI in drug discovery – what it is, where we stand and the path forward",
-          "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-15T19:12:53Z"
-        },
-        {
-          "id": "709724ec6bc438d27235005cc372f11138b684ea",
-          "title": "药物发现中的人工智能——它是什么、我们的立场和前进的道路 / AI in drug discovery — what it is, where we stand and the path forward",
-          "url": "https://www.nature.com/articles/s41573-026-01496-2",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-15T19:12:53Z"
-        },
-        {
-          "id": "fb742fc02c70e40eb693c6c361e1d0860ae6f8b3",
-          "title": "那么人工智能药物发现到底表现如何？ / So How Is AI Drug Discovery Doing, Really?",
-          "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-15T19:12:53Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "Hacker News · 24h最热"
-      ],
-      "items": [
-        {
-          "id": "c0fe1f3b01d2aa3b80eb53360a87b75e3588b96b",
-          "title": "药物发现中的人工智能——它是什么、我们的立场和前进的道路 / AI in drug discovery – what it is, where we stand and the path forward",
-          "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-15T19:12:53Z"
-        },
-        {
-          "id": "709724ec6bc438d27235005cc372f11138b684ea",
-          "title": "药物发现中的人工智能——它是什么、我们的立场和前进的道路 / AI in drug discovery — what it is, where we stand and the path forward",
-          "url": "https://www.nature.com/articles/s41573-026-01496-2",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-15T19:12:53Z"
-        },
-        {
-          "id": "fb742fc02c70e40eb693c6c361e1d0860ae6f8b3",
-          "title": "那么人工智能药物发现到底表现如何？ / So How Is AI Drug Discovery Doing, Really?",
-          "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-15T19:12:53Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5104,
-      "importance": 0.5104,
-      "importance_score": 0.5104,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.6872,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-15T19:12:53Z",
-      "latest_at": "2026-08-15T19:12:53Z",
-      "primary_item": {
-        "id": "c0fe1f3b01d2aa3b80eb53360a87b75e3588b96b",
-        "title": "药物发现中的人工智能——它是什么、我们的立场和前进的道路 / AI in drug discovery – what it is, where we stand and the path forward",
-        "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
-        "source": "Hacker News (黑客新闻)",
-        "source_name": "Info Flow"
       }
     },
     {
@@ -621,14 +639,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4973,
-      "importance": 0.4973,
-      "importance_score": 0.4973,
+      "score": 0.488,
+      "importance": 0.488,
+      "importance_score": 0.488,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7463,
+        "recency": 0.7001,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -698,14 +716,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4973,
-      "importance": 0.4973,
-      "importance_score": 0.4973,
+      "score": 0.488,
+      "importance": 0.488,
+      "importance_score": 0.488,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7463,
+        "recency": 0.7001,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -776,14 +794,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.495,
-      "importance": 0.495,
-      "importance_score": 0.495,
+      "score": 0.4858,
+      "importance": 0.4858,
+      "importance_score": 0.4858,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7352,
+        "recency": 0.6889,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -873,14 +891,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.4889,
-      "importance": 0.4889,
-      "importance_score": 0.4889,
+      "score": 0.4797,
+      "importance": 0.4797,
+      "importance_score": 0.4797,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.5797,
+        "recency": 0.5335,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -898,98 +916,79 @@
       }
     },
     {
-      "story_id": "story_9497efda088c",
-      "title": "Show HN：Live Claude 使用 HUD 购买价值 38 美元的 Thermalright Trofeo Vision LCD / Show HN: Live Claude Usage HUD for a $38 Thermalright Trofeo Vision LCD",
-      "url": "https://news.ycombinator.com/item?id=49314594",
-      "primary_url": "https://news.ycombinator.com/item?id=49314594",
+      "story_id": "story_ff34e5a81db6",
+      "title": "这就是你问的方式：法学硕士中与性别相关的语言偏见 / It's How You Ask: Gender-Associated Linguistic Bias in LLMs",
+      "url": "https://news.ycombinator.com/item?id=49316242",
+      "primary_url": "https://news.ycombinator.com/item?id=49316242",
       "source": "hackernews",
       "source_name": "NewsNow",
       "sources": [
         {
-          "id": "bf33b62e59436f0fbc332603014ef4e239963f52",
-          "title": "Show HN：Live Claude 使用 HUD 购买价值 38 美元的 Thermalright Trofeo Vision LCD / Show HN: Live Claude Usage HUD for a $38 Thermalright Trofeo Vision LCD",
-          "url": "https://news.ycombinator.com/item?id=49314594",
+          "id": "dd014bf97877d028a6388db7a26c84d56491c9cf",
+          "title": "这就是你问的方式：法学硕士中与性别相关的语言偏见 / It's How You Ask: Gender-Associated Linguistic Bias in LLMs",
+          "url": "https://news.ycombinator.com/item?id=49316242",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-15T22:48:54.525000Z"
+          "published_at": "2026-08-16T02:43:47.566000Z"
         },
         {
-          "id": "b14df10b5b02447c1bb0a6771e0cbeabdec5323e",
-          "title": "Show HN: 适用于 38 美元 Thermalright Trofeo Vision LCD 的实时 Claude 使用 HUD",
-          "url": "https://github.com/christensen143/claude-trofeo-hud",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-15T21:57:53.048000Z"
-        },
-        {
-          "id": "93e8094c3cc8a799abf393e2ec0c67cb9e3d8e0a",
-          "title": "Show HN: 适用于 38 美元 Thermalright Trofeo Vision LCD 的实时 Claude 使用 HUD / Show HN: Live Claude Usage HUD for a $38 Thermalright Trofeo Vision LCD",
-          "url": "https://github.com/christensen143/claude-trofeo-hud",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-15T21:42:39Z"
+          "id": "3715c64be287d162f1e6c16761e1e73d878d5629",
+          "title": "这就是你问的方式：法学硕士中与性别相关的语言偏见 / It's How You Ask: Gender-Associated Linguistic Bias in LLMs",
+          "url": "https://arxiv.org/abs/2608.13328",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-16T02:07:06Z"
         }
       ],
-      "source_count": 3,
+      "source_count": 2,
       "source_names": [
-        "Hacker News (黑客新闻)",
-        "github.com",
+        "Hacker News · 24h最热",
         "hackernews"
       ],
       "items": [
         {
-          "id": "bf33b62e59436f0fbc332603014ef4e239963f52",
-          "title": "Show HN：Live Claude 使用 HUD 购买价值 38 美元的 Thermalright Trofeo Vision LCD / Show HN: Live Claude Usage HUD for a $38 Thermalright Trofeo Vision LCD",
-          "url": "https://news.ycombinator.com/item?id=49314594",
+          "id": "dd014bf97877d028a6388db7a26c84d56491c9cf",
+          "title": "这就是你问的方式：法学硕士中与性别相关的语言偏见 / It's How You Ask: Gender-Associated Linguistic Bias in LLMs",
+          "url": "https://news.ycombinator.com/item?id=49316242",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-15T22:48:54.525000Z"
+          "published_at": "2026-08-16T02:43:47.566000Z"
         },
         {
-          "id": "b14df10b5b02447c1bb0a6771e0cbeabdec5323e",
-          "title": "Show HN: 适用于 38 美元 Thermalright Trofeo Vision LCD 的实时 Claude 使用 HUD",
-          "url": "https://github.com/christensen143/claude-trofeo-hud",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-15T21:57:53.048000Z"
-        },
-        {
-          "id": "93e8094c3cc8a799abf393e2ec0c67cb9e3d8e0a",
-          "title": "Show HN: 适用于 38 美元 Thermalright Trofeo Vision LCD 的实时 Claude 使用 HUD / Show HN: Live Claude Usage HUD for a $38 Thermalright Trofeo Vision LCD",
-          "url": "https://github.com/christensen143/claude-trofeo-hud",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-15T21:42:39Z"
+          "id": "3715c64be287d162f1e6c16761e1e73d878d5629",
+          "title": "这就是你问的方式：法学硕士中与性别相关的语言偏见 / It's How You Ask: Gender-Associated Linguistic Bias in LLMs",
+          "url": "https://arxiv.org/abs/2608.13328",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-16T02:07:06Z"
         }
       ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5404,
-      "importance": 0.5404,
-      "importance_score": 0.5404,
-      "importance_label": "多源热议",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5388,
+      "importance": 0.5388,
+      "importance_score": 0.5388,
+      "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8372,
-        "story_heat": 0.5
+        "recency": 0.9541,
+        "story_heat": 0.25
       },
-      "category": "multi_source",
+      "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-15T21:42:39Z",
-      "latest_at": "2026-08-15T22:48:54.525000Z",
+      "earliest_at": "2026-08-16T02:07:06Z",
+      "latest_at": "2026-08-16T02:43:47.566000Z",
       "primary_item": {
-        "id": "bf33b62e59436f0fbc332603014ef4e239963f52",
-        "title": "Show HN：Live Claude 使用 HUD 购买价值 38 美元的 Thermalright Trofeo Vision LCD / Show HN: Live Claude Usage HUD for a $38 Thermalright Trofeo Vision LCD",
-        "url": "https://news.ycombinator.com/item?id=49314594",
+        "id": "dd014bf97877d028a6388db7a26c84d56491c9cf",
+        "title": "这就是你问的方式：法学硕士中与性别相关的语言偏见 / It's How You Ask: Gender-Associated Linguistic Bias in LLMs",
+        "url": "https://news.ycombinator.com/item?id=49316242",
         "source": "hackernews",
         "source_name": "NewsNow"
       }
@@ -1067,14 +1066,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.4667,
-      "importance": 0.4667,
-      "importance_score": 0.4667,
+      "score": 0.4575,
+      "importance": 0.4575,
+      "importance_score": 0.4575,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.4686,
+        "recency": 0.4224,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1092,79 +1091,98 @@
       }
     },
     {
-      "story_id": "story_2ee2f613cd02",
-      "title": "ChatGPT 一年内网络份额下降 22 点 / ChatGPT lost 22 points of web share in a year",
-      "url": "https://news.ycombinator.com/item?id=49315630",
-      "primary_url": "https://news.ycombinator.com/item?id=49315630",
+      "story_id": "story_9497efda088c",
+      "title": "Show HN：Live Claude 使用 HUD 购买价值 38 美元的 Thermalright Trofeo Vision LCD / Show HN: Live Claude Usage HUD for a $38 Thermalright Trofeo Vision LCD",
+      "url": "https://news.ycombinator.com/item?id=49314594",
+      "primary_url": "https://news.ycombinator.com/item?id=49314594",
       "source": "hackernews",
       "source_name": "NewsNow",
       "sources": [
         {
-          "id": "199e11d6bc043c0a28cb4efb32a931be743df122",
-          "title": "ChatGPT 一年内网络份额下降 22 点 / ChatGPT lost 22 points of web share in a year",
-          "url": "https://news.ycombinator.com/item?id=49315630",
+          "id": "bf33b62e59436f0fbc332603014ef4e239963f52",
+          "title": "Show HN：Live Claude 使用 HUD 购买价值 38 美元的 Thermalright Trofeo Vision LCD / Show HN: Live Claude Usage HUD for a $38 Thermalright Trofeo Vision LCD",
+          "url": "https://news.ycombinator.com/item?id=49314594",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-16T01:10:20.889000Z"
+          "published_at": "2026-08-15T22:48:54.525000Z"
         },
         {
-          "id": "2906aaa888cb6c07641c5e37a2575141e151d12c",
-          "title": "ChatGPT 一年内网络份额下降 22 点 / ChatGPT lost 22 points of web share in a year",
-          "url": "https://aicharts.grok.me/c/market-share",
+          "id": "b14df10b5b02447c1bb0a6771e0cbeabdec5323e",
+          "title": "Show HN: 适用于 38 美元 Thermalright Trofeo Vision LCD 的实时 Claude 使用 HUD",
+          "url": "https://github.com/christensen143/claude-trofeo-hud",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-15T21:57:53.048000Z"
+        },
+        {
+          "id": "93e8094c3cc8a799abf393e2ec0c67cb9e3d8e0a",
+          "title": "Show HN: 适用于 38 美元 Thermalright Trofeo Vision LCD 的实时 Claude 使用 HUD / Show HN: Live Claude Usage HUD for a $38 Thermalright Trofeo Vision LCD",
+          "url": "https://github.com/christensen143/claude-trofeo-hud",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-08-16T00:22:20Z"
+          "published_at": "2026-08-15T21:42:39Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 3,
       "source_names": [
         "Hacker News (黑客新闻)",
+        "github.com",
         "hackernews"
       ],
       "items": [
         {
-          "id": "199e11d6bc043c0a28cb4efb32a931be743df122",
-          "title": "ChatGPT 一年内网络份额下降 22 点 / ChatGPT lost 22 points of web share in a year",
-          "url": "https://news.ycombinator.com/item?id=49315630",
+          "id": "bf33b62e59436f0fbc332603014ef4e239963f52",
+          "title": "Show HN：Live Claude 使用 HUD 购买价值 38 美元的 Thermalright Trofeo Vision LCD / Show HN: Live Claude Usage HUD for a $38 Thermalright Trofeo Vision LCD",
+          "url": "https://news.ycombinator.com/item?id=49314594",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-08-16T01:10:20.889000Z"
+          "published_at": "2026-08-15T22:48:54.525000Z"
         },
         {
-          "id": "2906aaa888cb6c07641c5e37a2575141e151d12c",
-          "title": "ChatGPT 一年内网络份额下降 22 点 / ChatGPT lost 22 points of web share in a year",
-          "url": "https://aicharts.grok.me/c/market-share",
+          "id": "b14df10b5b02447c1bb0a6771e0cbeabdec5323e",
+          "title": "Show HN: 适用于 38 美元 Thermalright Trofeo Vision LCD 的实时 Claude 使用 HUD",
+          "url": "https://github.com/christensen143/claude-trofeo-hud",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-15T21:57:53.048000Z"
+        },
+        {
+          "id": "93e8094c3cc8a799abf393e2ec0c67cb9e3d8e0a",
+          "title": "Show HN: 适用于 38 美元 Thermalright Trofeo Vision LCD 的实时 Claude 使用 HUD / Show HN: Live Claude Usage HUD for a $38 Thermalright Trofeo Vision LCD",
+          "url": "https://github.com/christensen143/claude-trofeo-hud",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-08-16T00:22:20Z"
+          "published_at": "2026-08-15T21:42:39Z"
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5351,
-      "importance": 0.5351,
-      "importance_score": 0.5351,
-      "importance_label": "值得关注",
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5312,
+      "importance": 0.5312,
+      "importance_score": 0.5312,
+      "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9355,
-        "story_heat": 0.25
+        "recency": 0.791,
+        "story_heat": 0.5
       },
-      "category": "watch",
+      "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-16T00:22:20Z",
-      "latest_at": "2026-08-16T01:10:20.889000Z",
+      "earliest_at": "2026-08-15T21:42:39Z",
+      "latest_at": "2026-08-15T22:48:54.525000Z",
       "primary_item": {
-        "id": "199e11d6bc043c0a28cb4efb32a931be743df122",
-        "title": "ChatGPT 一年内网络份额下降 22 点 / ChatGPT lost 22 points of web share in a year",
-        "url": "https://news.ycombinator.com/item?id=49315630",
+        "id": "bf33b62e59436f0fbc332603014ef4e239963f52",
+        "title": "Show HN：Live Claude 使用 HUD 购买价值 38 美元的 Thermalright Trofeo Vision LCD / Show HN: Live Claude Usage HUD for a $38 Thermalright Trofeo Vision LCD",
+        "url": "https://news.ycombinator.com/item?id=49314594",
         "source": "hackernews",
         "source_name": "NewsNow"
       }
@@ -1222,14 +1240,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4451,
-      "importance": 0.4451,
-      "importance_score": 0.4451,
+      "score": 0.4358,
+      "importance": 0.4358,
+      "importance_score": 0.4358,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.4855,
+        "recency": 0.4392,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1244,6 +1262,84 @@
         "url": "https://printytron.com",
         "source": "Hacker News · 24h最热",
         "source_name": "Zeli"
+      }
+    },
+    {
+      "story_id": "story_2ee2f613cd02",
+      "title": "ChatGPT 一年内网络份额下降 22 点 / ChatGPT lost 22 points of web share in a year",
+      "url": "https://news.ycombinator.com/item?id=49315630",
+      "primary_url": "https://news.ycombinator.com/item?id=49315630",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "199e11d6bc043c0a28cb4efb32a931be743df122",
+          "title": "ChatGPT 一年内网络份额下降 22 点 / ChatGPT lost 22 points of web share in a year",
+          "url": "https://news.ycombinator.com/item?id=49315630",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-16T01:10:20.889000Z"
+        },
+        {
+          "id": "b2198654af89e55fc12bdd2add73f095e710c6b3",
+          "title": "ChatGPT 一年内网络份额下降 22 点 / ChatGPT lost 22 points of web share in a year",
+          "url": "https://aicharts.grok.me/c/market-share",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-16T00:22:20Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "199e11d6bc043c0a28cb4efb32a931be743df122",
+          "title": "ChatGPT 一年内网络份额下降 22 点 / ChatGPT lost 22 points of web share in a year",
+          "url": "https://news.ycombinator.com/item?id=49315630",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-16T01:10:20.889000Z"
+        },
+        {
+          "id": "b2198654af89e55fc12bdd2add73f095e710c6b3",
+          "title": "ChatGPT 一年内网络份额下降 22 点 / ChatGPT lost 22 points of web share in a year",
+          "url": "https://aicharts.grok.me/c/market-share",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-16T00:22:20Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5258,
+      "importance": 0.5258,
+      "importance_score": 0.5258,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8892,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-16T00:22:20Z",
+      "latest_at": "2026-08-16T01:10:20.889000Z",
+      "primary_item": {
+        "id": "199e11d6bc043c0a28cb4efb32a931be743df122",
+        "title": "ChatGPT 一年内网络份额下降 22 点 / ChatGPT lost 22 points of web share in a year",
+        "url": "https://news.ycombinator.com/item?id=49315630",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     },
     {
@@ -1300,14 +1396,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.415,
-      "importance": 0.415,
-      "importance_score": 0.415,
+      "score": 0.4058,
+      "importance": 0.4058,
+      "importance_score": 0.4058,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.3352,
+        "recency": 0.2889,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1377,14 +1473,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4381,
-      "importance": 0.4381,
-      "importance_score": 0.4381,
+      "score": 0.4288,
+      "importance": 0.4288,
+      "importance_score": 0.4288,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.4503,
+        "recency": 0.4041,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1399,83 +1495,6 @@
         "url": "https://hub.baai.ac.cn/view/57150",
         "source": "Readhub · AI",
         "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_9d2443cbcb8a",
-      "title": "人工智能拥有比人脑大得多的工作记忆 / AI has access to a vastly larger working memory than the human brain",
-      "url": "https://news.ycombinator.com/item?id=49312845",
-      "primary_url": "https://news.ycombinator.com/item?id=49312845",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "08906e6f1e9a21d97e4fad47f959d9beeacacd33",
-          "title": "人工智能拥有比人脑大得多的工作记忆 / AI has access to a vastly larger working memory than the human brain",
-          "url": "https://news.ycombinator.com/item?id=49312845",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-15T22:09:53.517000Z"
-        },
-        {
-          "id": "247028b738cd821f96f0574b414bfe8f3a3266b1",
-          "title": "人工智能并不比数学家聪明。它已经超出了记住他们的范围 / AI Isn't Outthinking Mathematicians. It's Out-Remembering Them",
-          "url": "https://news.ycombinator.com/item?id=49312845",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-15T19:09:23.314000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "08906e6f1e9a21d97e4fad47f959d9beeacacd33",
-          "title": "人工智能拥有比人脑大得多的工作记忆 / AI has access to a vastly larger working memory than the human brain",
-          "url": "https://news.ycombinator.com/item?id=49312845",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-15T22:09:53.517000Z"
-        },
-        {
-          "id": "247028b738cd821f96f0574b414bfe8f3a3266b1",
-          "title": "人工智能并不比数学家聪明。它已经超出了记住他们的范围 / AI Isn't Outthinking Mathematicians. It's Out-Remembering Them",
-          "url": "https://news.ycombinator.com/item?id=49312845",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-15T19:09:23.314000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.51,
-      "importance": 0.51,
-      "importance_score": 0.51,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8101,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-15T19:09:23.314000Z",
-      "latest_at": "2026-08-15T22:09:53.517000Z",
-      "primary_item": {
-        "id": "08906e6f1e9a21d97e4fad47f959d9beeacacd33",
-        "title": "人工智能拥有比人脑大得多的工作记忆 / AI has access to a vastly larger working memory than the human brain",
-        "url": "https://news.ycombinator.com/item?id=49312845",
-        "source": "hackernews",
-        "source_name": "NewsNow"
       }
     },
     {
@@ -1532,14 +1551,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.415,
-      "importance": 0.415,
-      "importance_score": 0.415,
+      "score": 0.4058,
+      "importance": 0.4058,
+      "importance_score": 0.4058,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.3352,
+        "recency": 0.2889,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1557,80 +1576,80 @@
       }
     },
     {
-      "story_id": "story_ca17f94297fe",
-      "title": "OpenAI 曝「抄袭门」：下一代模型 Astra 被指未恰当引用前人成果",
-      "url": "https://hub.baai.ac.cn/view/57142",
-      "primary_url": "https://hub.baai.ac.cn/view/57142",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
+      "story_id": "story_9d2443cbcb8a",
+      "title": "人工智能拥有比人脑大得多的工作记忆 / AI has access to a vastly larger working memory than the human brain",
+      "url": "https://news.ycombinator.com/item?id=49312845",
+      "primary_url": "https://news.ycombinator.com/item?id=49312845",
+      "source": "hackernews",
+      "source_name": "NewsNow",
       "sources": [
         {
-          "id": "07e1e7b10dfa0cbc6f0d1dee70d068e276fd6198",
-          "title": "OpenAI 曝「抄袭门」：下一代模型 Astra 被指未恰当引用前人成果",
-          "url": "https://hub.baai.ac.cn/view/57142",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "08906e6f1e9a21d97e4fad47f959d9beeacacd33",
+          "title": "人工智能拥有比人脑大得多的工作记忆 / AI has access to a vastly larger working memory than the human brain",
+          "url": "https://news.ycombinator.com/item?id=49312845",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-15T22:09:53.517000Z"
         },
         {
-          "id": "79ad317f189a30e19d7092e7b975cb4dbe3425ff",
-          "title": "OpenAI 曝「抄袭门」！下一代 GPT 攻破 10 大菲奖难题被打假",
-          "url": "https://hub.baai.ac.cn/view/57142",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "247028b738cd821f96f0574b414bfe8f3a3266b1",
+          "title": "人工智能并不比数学家聪明。它已经超出了记住他们的范围 / AI Isn't Outthinking Mathematicians. It's Out-Remembering Them",
+          "url": "https://news.ycombinator.com/item?id=49312845",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-15T19:09:23.314000Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Readhub · AI"
+        "hackernews"
       ],
       "items": [
         {
-          "id": "07e1e7b10dfa0cbc6f0d1dee70d068e276fd6198",
-          "title": "OpenAI 曝「抄袭门」：下一代模型 Astra 被指未恰当引用前人成果",
-          "url": "https://hub.baai.ac.cn/view/57142",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "08906e6f1e9a21d97e4fad47f959d9beeacacd33",
+          "title": "人工智能拥有比人脑大得多的工作记忆 / AI has access to a vastly larger working memory than the human brain",
+          "url": "https://news.ycombinator.com/item?id=49312845",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-15T22:09:53.517000Z"
         },
         {
-          "id": "79ad317f189a30e19d7092e7b975cb4dbe3425ff",
-          "title": "OpenAI 曝「抄袭门」！下一代 GPT 攻破 10 大菲奖难题被打假",
-          "url": "https://hub.baai.ac.cn/view/57142",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "247028b738cd821f96f0574b414bfe8f3a3266b1",
+          "title": "人工智能并不比数学家聪明。它已经超出了记住他们的范围 / AI Isn't Outthinking Mathematicians. It's Out-Remembering Them",
+          "url": "https://news.ycombinator.com/item?id=49312845",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-15T19:09:23.314000Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4154,
-      "importance": 0.4154,
-      "importance_score": 0.4154,
+      "score": 0.5008,
+      "importance": 0.5008,
+      "importance_score": 0.5008,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.3372,
+        "recency": 0.7639,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-15T10:24:19.794779Z",
-      "latest_at": "2026-08-15T10:48:48.915232Z",
+      "earliest_at": "2026-08-15T19:09:23.314000Z",
+      "latest_at": "2026-08-15T22:09:53.517000Z",
       "primary_item": {
-        "id": "07e1e7b10dfa0cbc6f0d1dee70d068e276fd6198",
-        "title": "OpenAI 曝「抄袭门」：下一代模型 Astra 被指未恰当引用前人成果",
-        "url": "https://hub.baai.ac.cn/view/57142",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
+        "id": "08906e6f1e9a21d97e4fad47f959d9beeacacd33",
+        "title": "人工智能拥有比人脑大得多的工作记忆 / AI has access to a vastly larger working memory than the human brain",
+        "url": "https://news.ycombinator.com/item?id=49312845",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     }
   ]
