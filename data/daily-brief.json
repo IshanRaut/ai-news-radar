@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T12:41:48.614624Z",
+  "generated_at": "2026-08-16T13:32:30.152725Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,14 +38,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8004,
-      "importance": 0.8004,
-      "importance_score": 0.8004,
+      "score": 0.7933,
+      "importance": 0.7933,
+      "importance_score": 0.7933,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9418,
+        "recency": 0.9066,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -136,14 +136,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.548,
-      "importance": 0.548,
-      "importance_score": 0.548,
+      "score": 0.541,
+      "importance": 0.541,
+      "importance_score": 0.541,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8752,
+        "recency": 0.84,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -214,14 +214,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5452,
-      "importance": 0.5452,
-      "importance_score": 0.5452,
+      "score": 0.5382,
+      "importance": 0.5382,
+      "importance_score": 0.5382,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9862,
+        "recency": 0.951,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -235,6 +235,84 @@
         "title": "BCG北美区负责人认为，在人工智能时代，哪项技能更为重要",
         "url": "https://www.businessinsider.com/bcg-consultants-ai-skills-technical-training-mel-wolfgang-2026-8",
         "source": "www.businessinsider.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_448f5885154c",
+      "title": "Show HN: 从AI生成的文本中移除AI语音",
+      "url": "https://unslopai.com",
+      "primary_url": "https://unslopai.com",
+      "source": "unslopai.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "560a286af1360fb3ce7d395157d6a10a3c4c3968",
+          "title": "Show HN: 从AI生成的文本中移除AI语音",
+          "url": "https://unslopai.com",
+          "source": "unslopai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-16T11:34:06.552000Z"
+        },
+        {
+          "id": "a9f4c7f9f3a5ac2e038ba39a35387943c197c2f9",
+          "title": "Show HN: 从AI生成的文本中移除AI语音 / Show HN: Remove AI voice from AI writings",
+          "url": "https://unslopai.com",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-16T11:28:50Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "unslopai.com"
+      ],
+      "items": [
+        {
+          "id": "560a286af1360fb3ce7d395157d6a10a3c4c3968",
+          "title": "Show HN: 从AI生成的文本中移除AI语音",
+          "url": "https://unslopai.com",
+          "source": "unslopai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-16T11:34:06.552000Z"
+        },
+        {
+          "id": "a9f4c7f9f3a5ac2e038ba39a35387943c197c2f9",
+          "title": "Show HN: 从AI生成的文本中移除AI语音 / Show HN: Remove AI voice from AI writings",
+          "url": "https://unslopai.com",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-16T11:28:50Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5316,
+      "importance": 0.5316,
+      "importance_score": 0.5316,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9178,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-16T11:28:50Z",
+      "latest_at": "2026-08-16T11:34:06.552000Z",
+      "primary_item": {
+        "id": "560a286af1360fb3ce7d395157d6a10a3c4c3968",
+        "title": "Show HN: 从AI生成的文本中移除AI语音",
+        "url": "https://unslopai.com",
+        "source": "unslopai.com",
         "source_name": "Buzzing"
       }
     },
@@ -292,14 +370,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.538,
-      "importance": 0.538,
-      "importance_score": 0.538,
+      "score": 0.531,
+      "importance": 0.531,
+      "importance_score": 0.531,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.95,
+        "recency": 0.9148,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -370,14 +448,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5364,
-      "importance": 0.5364,
-      "importance_score": 0.5364,
+      "score": 0.5293,
+      "importance": 0.5293,
+      "importance_score": 0.5293,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9418,
+        "recency": 0.9066,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -448,14 +526,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5211,
-      "importance": 0.5211,
-      "importance_score": 0.5211,
+      "score": 0.5141,
+      "importance": 0.5141,
+      "importance_score": 0.5141,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8657,
+        "recency": 0.8305,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -563,14 +641,14 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5153,
-      "importance": 0.5153,
-      "importance_score": 0.5153,
+      "score": 0.5083,
+      "importance": 0.5083,
+      "importance_score": 0.5083,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.5867,
+        "recency": 0.5515,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -641,14 +719,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5319,
-      "importance": 0.5319,
-      "importance_score": 0.5319,
+      "score": 0.5249,
+      "importance": 0.5249,
+      "importance_score": 0.5249,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9195,
+        "recency": 0.8843,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -719,14 +797,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4854,
-      "importance": 0.4854,
-      "importance_score": 0.4854,
+      "score": 0.4783,
+      "importance": 0.4783,
+      "importance_score": 0.4783,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6868,
+        "recency": 0.6516,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -797,14 +875,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.488,
-      "importance": 0.488,
-      "importance_score": 0.488,
+      "score": 0.481,
+      "importance": 0.481,
+      "importance_score": 0.481,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7,
+        "recency": 0.6648,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -875,14 +953,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4649,
-      "importance": 0.4649,
-      "importance_score": 0.4649,
+      "score": 0.4579,
+      "importance": 0.4579,
+      "importance_score": 0.4579,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.5847,
+        "recency": 0.5495,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -971,14 +1049,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.428,
-      "importance": 0.428,
-      "importance_score": 0.428,
+      "score": 0.421,
+      "importance": 0.421,
+      "importance_score": 0.421,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.2752,
+        "recency": 0.24,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1049,14 +1127,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4141,
-      "importance": 0.4141,
-      "importance_score": 0.4141,
+      "score": 0.4071,
+      "importance": 0.4071,
+      "importance_score": 0.4071,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.3307,
+        "recency": 0.2955,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1126,14 +1204,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4141,
-      "importance": 0.4141,
-      "importance_score": 0.4141,
+      "score": 0.4071,
+      "importance": 0.4071,
+      "importance_score": 0.4071,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.3307,
+        "recency": 0.2955,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1204,14 +1282,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4649,
-      "importance": 0.4649,
-      "importance_score": 0.4649,
+      "score": 0.4579,
+      "importance": 0.4579,
+      "importance_score": 0.4579,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.5847,
+        "recency": 0.5495,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1282,14 +1360,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4539,
-      "importance": 0.4539,
-      "importance_score": 0.4539,
+      "score": 0.4469,
+      "importance": 0.4469,
+      "importance_score": 0.4469,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.5295,
+        "recency": 0.4943,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1360,14 +1438,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4649,
-      "importance": 0.4649,
-      "importance_score": 0.4649,
+      "score": 0.4579,
+      "importance": 0.4579,
+      "importance_score": 0.4579,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.5847,
+        "recency": 0.5495,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1437,14 +1515,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.362,
-      "importance": 0.362,
-      "importance_score": 0.362,
+      "score": 0.3549,
+      "importance": 0.3549,
+      "importance_score": 0.3549,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.0698,
+        "recency": 0.0346,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1515,14 +1593,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4119,
-      "importance": 0.4119,
-      "importance_score": 0.4119,
+      "score": 0.4049,
+      "importance": 0.4049,
+      "importance_score": 0.4049,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.3195,
+        "recency": 0.2843,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1537,103 +1615,6 @@
         "url": "https://www.businessinsider.com/anthropic-ai-agents-risk-report-safety-mythos-claude-2026",
         "source": "www.businessinsider.com",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_9497efda088c",
-      "title": "Show HN：Live Claude 使用 HUD 购买价值 38 美元的 Thermalright Trofeo Vision LCD / Show HN: Live Claude Usage HUD for a $38 Thermalright Trofeo Vision LCD",
-      "url": "https://news.ycombinator.com/item?id=49314594",
-      "primary_url": "https://news.ycombinator.com/item?id=49314594",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "bf33b62e59436f0fbc332603014ef4e239963f52",
-          "title": "Show HN：Live Claude 使用 HUD 购买价值 38 美元的 Thermalright Trofeo Vision LCD / Show HN: Live Claude Usage HUD for a $38 Thermalright Trofeo Vision LCD",
-          "url": "https://news.ycombinator.com/item?id=49314594",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-15T22:48:54.525000Z"
-        },
-        {
-          "id": "b14df10b5b02447c1bb0a6771e0cbeabdec5323e",
-          "title": "Show HN: 适用于 38 美元 Thermalright Trofeo Vision LCD 的实时 Claude 使用 HUD",
-          "url": "https://github.com/christensen143/claude-trofeo-hud",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-15T21:57:53.048000Z"
-        },
-        {
-          "id": "93e8094c3cc8a799abf393e2ec0c67cb9e3d8e0a",
-          "title": "Show HN: 适用于 38 美元 Thermalright Trofeo Vision LCD 的实时 Claude 使用 HUD / Show HN: Live Claude Usage HUD for a $38 Thermalright Trofeo Vision LCD",
-          "url": "https://github.com/christensen143/claude-trofeo-hud",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-15T21:42:39Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "github.com",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "bf33b62e59436f0fbc332603014ef4e239963f52",
-          "title": "Show HN：Live Claude 使用 HUD 购买价值 38 美元的 Thermalright Trofeo Vision LCD / Show HN: Live Claude Usage HUD for a $38 Thermalright Trofeo Vision LCD",
-          "url": "https://news.ycombinator.com/item?id=49314594",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-15T22:48:54.525000Z"
-        },
-        {
-          "id": "b14df10b5b02447c1bb0a6771e0cbeabdec5323e",
-          "title": "Show HN: 适用于 38 美元 Thermalright Trofeo Vision LCD 的实时 Claude 使用 HUD",
-          "url": "https://github.com/christensen143/claude-trofeo-hud",
-          "source": "github.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-15T21:57:53.048000Z"
-        },
-        {
-          "id": "93e8094c3cc8a799abf393e2ec0c67cb9e3d8e0a",
-          "title": "Show HN: 适用于 38 美元 Thermalright Trofeo Vision LCD 的实时 Claude 使用 HUD / Show HN: Live Claude Usage HUD for a $38 Thermalright Trofeo Vision LCD",
-          "url": "https://github.com/christensen143/claude-trofeo-hud",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-15T21:42:39Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.4573,
-      "importance": 0.4573,
-      "importance_score": 0.4573,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.4216,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-15T21:42:39Z",
-      "latest_at": "2026-08-15T22:48:54.525000Z",
-      "primary_item": {
-        "id": "bf33b62e59436f0fbc332603014ef4e239963f52",
-        "title": "Show HN：Live Claude 使用 HUD 购买价值 38 美元的 Thermalright Trofeo Vision LCD / Show HN: Live Claude Usage HUD for a $38 Thermalright Trofeo Vision LCD",
-        "url": "https://news.ycombinator.com/item?id=49314594",
-        "source": "hackernews",
-        "source_name": "NewsNow"
       }
     }
   ]
