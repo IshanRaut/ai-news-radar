@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T08:39:04.774206Z",
+  "generated_at": "2026-08-18T09:35:16.486777Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -75,14 +75,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.862,
-      "importance": 0.862,
-      "importance_score": 0.862,
+      "score": 0.8542,
+      "importance": 0.8542,
+      "importance_score": 0.8542,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.961,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -155,14 +155,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.837,
-      "importance": 0.837,
-      "importance_score": 0.837,
+      "score": 0.8292,
+      "importance": 0.8292,
+      "importance_score": 0.8292,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.961,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -216,14 +216,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7982,
-      "importance": 0.7982,
-      "importance_score": 0.7982,
+      "score": 0.7904,
+      "importance": 0.7904,
+      "importance_score": 0.7904,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9312,
+        "recency": 0.8922,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -295,14 +295,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.837,
-      "importance": 0.837,
-      "importance_score": 0.837,
+      "score": 0.8292,
+      "importance": 0.8292,
+      "importance_score": 0.8292,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.961,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -319,6 +319,204 @@
         "url": "https://www.aibase.com/news/30435",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_181b4a5ac459",
+      "title": "哈佛 MIT 造出 83 亿\"AI 人\"：用 MatrAIx 系统模拟全球人类行为",
+      "url": "https://www.aibase.com/news/30440",
+      "primary_url": "https://www.aibase.com/news/30440",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "001448b281f2fe6765d31e4ec7277e1676f13442",
+          "title": "哈佛 MIT 造出 83 亿\"AI 人\"：用 MatrAIx 系统模拟全球人类行为",
+          "url": "https://www.aibase.com/news/30440",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-18T08:39:04.774206Z"
+        },
+        {
+          "id": "4a94ac43c37905f51df8ed3e906fc2e325044ebe",
+          "title": "哈佛 MIT 造出 83 亿「AI 人」：用 MatrAIx 系统模拟全球人类行为",
+          "url": "https://www.aibase.com/zh/news/30440",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "001448b281f2fe6765d31e4ec7277e1676f13442",
+          "title": "哈佛 MIT 造出 83 亿\"AI 人\"：用 MatrAIx 系统模拟全球人类行为",
+          "url": "https://www.aibase.com/news/30440",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-18T08:39:04.774206Z"
+        },
+        {
+          "id": "4a94ac43c37905f51df8ed3e906fc2e325044ebe",
+          "title": "哈佛 MIT 造出 83 亿「AI 人」：用 MatrAIx 系统模拟全球人类行为",
+          "url": "https://www.aibase.com/zh/news/30440",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8292,
+      "importance": 0.8292,
+      "importance_score": 0.8292,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.961,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-18T08:39:04.774206Z",
+      "latest_at": "2026-08-18T09:35:16.486777Z",
+      "primary_item": {
+        "id": "001448b281f2fe6765d31e4ec7277e1676f13442",
+        "title": "哈佛 MIT 造出 83 亿\"AI 人\"：用 MatrAIx 系统模拟全球人类行为",
+        "url": "https://www.aibase.com/news/30440",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_3b6cd14cc777",
+      "title": "一个实用的深度思考Prompt：用&quot;双向钢人论证&quot;让AI帮你挖出最本质的答案",
+      "url": "https://aihot.virxact.com/items/cmsxwd7a40coxroz06g25sfaf",
+      "primary_url": "https://aihot.virxact.com/items/cmsxwd7a40coxroz06g25sfaf",
+      "source": "公众号：数字生命卡兹克",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "665b0c75c0bfceeadad770d979fe8f5c981809fb",
+          "title": "一个实用的深度思考Prompt：用&quot;双向钢人论证&quot;让AI帮你挖出最本质的答案",
+          "url": "https://aihot.virxact.com/items/cmsxwd7a40coxroz06g25sfaf",
+          "source": "公众号：数字生命卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-17T23:58:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "公众号：数字生命卡兹克"
+      ],
+      "items": [
+        {
+          "id": "665b0c75c0bfceeadad770d979fe8f5c981809fb",
+          "title": "一个实用的深度思考Prompt：用&quot;双向钢人论证&quot;让AI帮你挖出最本质的答案",
+          "url": "https://aihot.virxact.com/items/cmsxwd7a40coxroz06g25sfaf",
+          "source": "公众号：数字生命卡兹克",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-17T23:58:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7318,
+      "importance": 0.7318,
+      "importance_score": 0.7318,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.5991,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-17T23:58:00Z",
+      "latest_at": "2026-08-17T23:58:00Z",
+      "primary_item": {
+        "id": "665b0c75c0bfceeadad770d979fe8f5c981809fb",
+        "title": "一个实用的深度思考Prompt：用&quot;双向钢人论证&quot;让AI帮你挖出最本质的答案",
+        "url": "https://aihot.virxact.com/items/cmsxwd7a40coxroz06g25sfaf",
+        "source": "公众号：数字生命卡兹克",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_a79e946d12c1",
+      "title": "用 Google 的 Agent Development Kit 构建零信任 AI 智能体",
+      "url": "https://aihot.virxact.com/items/cmsxv0p3v0bntroz0227a6b3j",
+      "primary_url": "https://aihot.virxact.com/items/cmsxv0p3v0bntroz0227a6b3j",
+      "source": "Google Developers Blog（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "0640ba1d3cbb5a05527825df7b69a4ea5088c24d",
+          "title": "用 Google 的 Agent Development Kit 构建零信任 AI 智能体",
+          "url": "https://aihot.virxact.com/items/cmsxv0p3v0bntroz0227a6b3j",
+          "source": "Google Developers Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-17T23:22:25Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Google Developers Blog（RSS）"
+      ],
+      "items": [
+        {
+          "id": "0640ba1d3cbb5a05527825df7b69a4ea5088c24d",
+          "title": "用 Google 的 Agent Development Kit 构建零信任 AI 智能体",
+          "url": "https://aihot.virxact.com/items/cmsxv0p3v0bntroz0227a6b3j",
+          "source": "Google Developers Blog（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-17T23:22:25Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7269,
+      "importance": 0.7269,
+      "importance_score": 0.7269,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.5744,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-17T23:22:25Z",
+      "latest_at": "2026-08-17T23:22:25Z",
+      "primary_item": {
+        "id": "0640ba1d3cbb5a05527825df7b69a4ea5088c24d",
+        "title": "用 Google 的 Agent Development Kit 构建零信任 AI 智能体",
+        "url": "https://aihot.virxact.com/items/cmsxv0p3v0bntroz0227a6b3j",
+        "source": "Google Developers Blog（RSS）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -375,14 +573,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.837,
-      "importance": 0.837,
-      "importance_score": 0.837,
+      "score": 0.8292,
+      "importance": 0.8292,
+      "importance_score": 0.8292,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.961,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -399,243 +597,6 @@
         "url": "https://www.aibase.com/news/30434",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_3b6cd14cc777",
-      "title": "一个实用的深度思考Prompt：用&quot;双向钢人论证&quot;让AI帮你挖出最本质的答案",
-      "url": "https://aihot.virxact.com/items/cmsxwd7a40coxroz06g25sfaf",
-      "primary_url": "https://aihot.virxact.com/items/cmsxwd7a40coxroz06g25sfaf",
-      "source": "公众号：数字生命卡兹克",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "665b0c75c0bfceeadad770d979fe8f5c981809fb",
-          "title": "一个实用的深度思考Prompt：用&quot;双向钢人论证&quot;让AI帮你挖出最本质的答案",
-          "url": "https://aihot.virxact.com/items/cmsxwd7a40coxroz06g25sfaf",
-          "source": "公众号：数字生命卡兹克",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-17T23:58:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "公众号：数字生命卡兹克"
-      ],
-      "items": [
-        {
-          "id": "665b0c75c0bfceeadad770d979fe8f5c981809fb",
-          "title": "一个实用的深度思考Prompt：用&quot;双向钢人论证&quot;让AI帮你挖出最本质的答案",
-          "url": "https://aihot.virxact.com/items/cmsxwd7a40coxroz06g25sfaf",
-          "source": "公众号：数字生命卡兹克",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-17T23:58:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7396,
-      "importance": 0.7396,
-      "importance_score": 0.7396,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6381,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-17T23:58:00Z",
-      "latest_at": "2026-08-17T23:58:00Z",
-      "primary_item": {
-        "id": "665b0c75c0bfceeadad770d979fe8f5c981809fb",
-        "title": "一个实用的深度思考Prompt：用&quot;双向钢人论证&quot;让AI帮你挖出最本质的答案",
-        "url": "https://aihot.virxact.com/items/cmsxwd7a40coxroz06g25sfaf",
-        "source": "公众号：数字生命卡兹克",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_a79e946d12c1",
-      "title": "用 Google 的 Agent Development Kit 构建零信任 AI 智能体",
-      "url": "https://aihot.virxact.com/items/cmsxv0p3v0bntroz0227a6b3j",
-      "primary_url": "https://aihot.virxact.com/items/cmsxv0p3v0bntroz0227a6b3j",
-      "source": "Google Developers Blog（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "0640ba1d3cbb5a05527825df7b69a4ea5088c24d",
-          "title": "用 Google 的 Agent Development Kit 构建零信任 AI 智能体",
-          "url": "https://aihot.virxact.com/items/cmsxv0p3v0bntroz0227a6b3j",
-          "source": "Google Developers Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-17T23:22:25Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google Developers Blog（RSS）"
-      ],
-      "items": [
-        {
-          "id": "0640ba1d3cbb5a05527825df7b69a4ea5088c24d",
-          "title": "用 Google 的 Agent Development Kit 构建零信任 AI 智能体",
-          "url": "https://aihot.virxact.com/items/cmsxv0p3v0bntroz0227a6b3j",
-          "source": "Google Developers Blog（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-17T23:22:25Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7347,
-      "importance": 0.7347,
-      "importance_score": 0.7347,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6134,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-17T23:22:25Z",
-      "latest_at": "2026-08-17T23:22:25Z",
-      "primary_item": {
-        "id": "0640ba1d3cbb5a05527825df7b69a4ea5088c24d",
-        "title": "用 Google 的 Agent Development Kit 构建零信任 AI 智能体",
-        "url": "https://aihot.virxact.com/items/cmsxv0p3v0bntroz0227a6b3j",
-        "source": "Google Developers Blog（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_85484c784c48",
-      "title": "Cursor 推出 Origin 代码托管服务，作为 GitHub 的替代方案",
-      "url": "https://aihot.virxact.com/items/cmsxsvb5s0a4troz0z2q2nu3h",
-      "primary_url": "https://aihot.virxact.com/items/cmsxsvb5s0a4troz0z2q2nu3h",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "ff3defd3896818c099e22d6f7450f25d686ae3cc",
-          "title": "Cursor 推出 Origin 代码托管服务，作为 GitHub 的替代方案",
-          "url": "https://aihot.virxact.com/items/cmsxsvb5s0a4troz0z2q2nu3h",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-17T22:14:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hacker News 热门（buzzing.cc 中文翻译）"
-      ],
-      "items": [
-        {
-          "id": "ff3defd3896818c099e22d6f7450f25d686ae3cc",
-          "title": "Cursor 推出 Origin 代码托管服务，作为 GitHub 的替代方案",
-          "url": "https://aihot.virxact.com/items/cmsxsvb5s0a4troz0z2q2nu3h",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-17T22:14:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7252,
-      "importance": 0.7252,
-      "importance_score": 0.7252,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5659,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-17T22:14:00Z",
-      "latest_at": "2026-08-17T22:14:00Z",
-      "primary_item": {
-        "id": "ff3defd3896818c099e22d6f7450f25d686ae3cc",
-        "title": "Cursor 推出 Origin 代码托管服务，作为 GitHub 的替代方案",
-        "url": "https://aihot.virxact.com/items/cmsxsvb5s0a4troz0z2q2nu3h",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_3b2aba282400",
-      "title": "画布如何使代理工作流程可见、可操纵且经济高效 / How canvases make agentic workflows visible, steerable, and cost-efficient",
-      "url": "https://github.blog/ai-and-ml/github-copilot/how-canvases-make-agentic-workflows-visible-steerable-and-cost-efficient",
-      "primary_url": "https://github.blog/ai-and-ml/github-copilot/how-canvases-make-agentic-workflows-visible-steerable-and-cost-efficient",
-      "source": "GitHub AI & ML",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "9906b46475e583e00b16574efb087d7c6a44e46f",
-          "title": "画布如何使代理工作流程可见、可操纵且经济高效 / How canvases make agentic workflows visible, steerable, and cost-efficient",
-          "url": "https://github.blog/ai-and-ml/github-copilot/how-canvases-make-agentic-workflows-visible-steerable-and-cost-efficient",
-          "source": "GitHub AI & ML",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-17T16:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub AI & ML"
-      ],
-      "items": [
-        {
-          "id": "9906b46475e583e00b16574efb087d7c6a44e46f",
-          "title": "画布如何使代理工作流程可见、可操纵且经济高效 / How canvases make agentic workflows visible, steerable, and cost-efficient",
-          "url": "https://github.blog/ai-and-ml/github-copilot/how-canvases-make-agentic-workflows-visible-steerable-and-cost-efficient",
-          "source": "GitHub AI & ML",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-08-17T16:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7222,
-      "importance": 0.7222,
-      "importance_score": 0.7222,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.3062,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-17T16:00:00Z",
-      "latest_at": "2026-08-17T16:00:00Z",
-      "primary_item": {
-        "id": "9906b46475e583e00b16574efb087d7c6a44e46f",
-        "title": "画布如何使代理工作流程可见、可操纵且经济高效 / How canvases make agentic workflows visible, steerable, and cost-efficient",
-        "url": "https://github.blog/ai-and-ml/github-copilot/how-canvases-make-agentic-workflows-visible-steerable-and-cost-efficient",
-        "source": "GitHub AI & ML",
-        "source_name": "Official AI Updates"
       }
     },
     {
@@ -692,14 +653,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8287,
-      "importance": 0.8287,
-      "importance_score": 0.8287,
+      "score": 0.8209,
+      "importance": 0.8209,
+      "importance_score": 0.8209,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9586,
+        "recency": 0.9196,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -714,86 +675,6 @@
         "id": "597ed88674a898548c4f5920b32a5572603d64e3",
         "title": "Vercel 开源 Zero 语言：专为 AI Agent 设计，把\"图\"当源码",
         "url": "https://www.aibase.com/news/30432",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_d2b7f2daf188",
-      "title": "昆仑万维发布Mureka V9.5:AI音乐告别“机械堆砌”，转向“人情味”创作",
-      "url": "https://www.aibase.com/news/30430",
-      "primary_url": "https://www.aibase.com/news/30430",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "f5d061329e7385e90f28c1d65e7dcd27233423e1",
-          "title": "昆仑万维发布Mureka V9.5:AI音乐告别“机械堆砌”，转向“人情味”创作",
-          "url": "https://www.aibase.com/news/30430",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-18T06:45:48.352042Z"
-        },
-        {
-          "id": "da0afb97ddc47dc3223f2f8f5892299f46ced311",
-          "title": "昆仑万维发布 Mureka V9.5：AI 音乐告别「机械堆砌」，转向「人情味」创作",
-          "url": "https://www.aibase.com/zh/news/30430",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "f5d061329e7385e90f28c1d65e7dcd27233423e1",
-          "title": "昆仑万维发布Mureka V9.5:AI音乐告别“机械堆砌”，转向“人情味”创作",
-          "url": "https://www.aibase.com/news/30430",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-18T06:45:48.352042Z"
-        },
-        {
-          "id": "da0afb97ddc47dc3223f2f8f5892299f46ced311",
-          "title": "昆仑万维发布 Mureka V9.5：AI 音乐告别「机械堆砌」，转向「人情味」创作",
-          "url": "https://www.aibase.com/zh/news/30430",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8213,
-      "importance": 0.8213,
-      "importance_score": 0.8213,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9213,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-18T06:45:48.352042Z",
-      "latest_at": "2026-08-18T07:39:27.253680Z",
-      "primary_item": {
-        "id": "f5d061329e7385e90f28c1d65e7dcd27233423e1",
-        "title": "昆仑万维发布Mureka V9.5:AI音乐告别“机械堆砌”，转向“人情味”创作",
-        "url": "https://www.aibase.com/news/30430",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -851,14 +732,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6705,
-      "importance": 0.6705,
-      "importance_score": 0.6705,
+      "score": 0.6627,
+      "importance": 0.6627,
+      "importance_score": 0.6627,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.1675,
+        "recency": 0.1285,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -877,81 +758,101 @@
       }
     },
     {
-      "story_id": "story_1ad52a112476",
-      "title": "三年估值 30 亿美元！大模型“中间商”演语科技如何靠抢跑冲刺港股IPO？",
-      "url": "https://www.aibase.com/news/30437",
-      "primary_url": "https://www.aibase.com/news/30437",
+      "story_id": "story_d2b7f2daf188",
+      "title": "昆仑万维发布Mureka V9.5:AI音乐告别“机械堆砌”，转向“人情味”创作",
+      "url": "https://www.aibase.com/news/30430",
+      "primary_url": "https://www.aibase.com/news/30430",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "d4e804926a5767c05cdb0a378dea0ad20e1e8874",
-          "title": "三年估值 30 亿美元！大模型“中间商”演语科技如何靠抢跑冲刺港股IPO？",
-          "url": "https://www.aibase.com/news/30437",
+          "id": "f5d061329e7385e90f28c1d65e7dcd27233423e1",
+          "title": "昆仑万维发布Mureka V9.5:AI音乐告别“机械堆砌”，转向“人情味”创作",
+          "url": "https://www.aibase.com/news/30430",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-18T08:39:04.774206Z"
+          "published_at": "2026-08-18T06:45:48.352042Z"
+        },
+        {
+          "id": "da0afb97ddc47dc3223f2f8f5892299f46ced311",
+          "title": "昆仑万维发布 Mureka V9.5：AI 音乐告别「机械堆砌」，转向「人情味」创作",
+          "url": "https://www.aibase.com/zh/news/30430",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "AIbase"
+        "AIbase",
+        "Readhub · AI"
       ],
       "items": [
         {
-          "id": "d4e804926a5767c05cdb0a378dea0ad20e1e8874",
-          "title": "三年估值 30 亿美元！大模型“中间商”演语科技如何靠抢跑冲刺港股IPO？",
-          "url": "https://www.aibase.com/news/30437",
+          "id": "f5d061329e7385e90f28c1d65e7dcd27233423e1",
+          "title": "昆仑万维发布Mureka V9.5:AI音乐告别“机械堆砌”，转向“人情味”创作",
+          "url": "https://www.aibase.com/news/30430",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-18T08:39:04.774206Z"
+          "published_at": "2026-08-18T06:45:48.352042Z"
+        },
+        {
+          "id": "da0afb97ddc47dc3223f2f8f5892299f46ced311",
+          "title": "昆仑万维发布 Mureka V9.5：AI 音乐告别「机械堆砌」，转向「人情味」创作",
+          "url": "https://www.aibase.com/zh/news/30430",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8135,
+      "importance": 0.8135,
+      "importance_score": 0.8135,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
+        "recency": 0.8823,
+        "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
+        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-18T08:39:04.774206Z",
-      "latest_at": "2026-08-18T08:39:04.774206Z",
+      "earliest_at": "2026-08-18T06:45:48.352042Z",
+      "latest_at": "2026-08-18T07:39:27.253680Z",
       "primary_item": {
-        "id": "d4e804926a5767c05cdb0a378dea0ad20e1e8874",
-        "title": "三年估值 30 亿美元！大模型“中间商”演语科技如何靠抢跑冲刺港股IPO？",
-        "url": "https://www.aibase.com/news/30437",
+        "id": "f5d061329e7385e90f28c1d65e7dcd27233423e1",
+        "title": "昆仑万维发布Mureka V9.5:AI音乐告别“机械堆砌”，转向“人情味”创作",
+        "url": "https://www.aibase.com/news/30430",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_181b4a5ac459",
-      "title": "哈佛 MIT 造出 83 亿\"AI 人\"：用 MatrAIx 系统模拟全球人类行为",
-      "url": "https://www.aibase.com/news/30440",
-      "primary_url": "https://www.aibase.com/news/30440",
+      "story_id": "story_a2738fecc05d",
+      "title": "全球第 3 家：代码显示 vivo 手机将接入安卓 AI 诈骗检测",
+      "url": "https://www.aibase.com/news/30441",
+      "primary_url": "https://www.aibase.com/news/30441",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "001448b281f2fe6765d31e4ec7277e1676f13442",
-          "title": "哈佛 MIT 造出 83 亿\"AI 人\"：用 MatrAIx 系统模拟全球人类行为",
-          "url": "https://www.aibase.com/news/30440",
+          "id": "cb4653e2437f6e617659fa3bd0118470b1f89966",
+          "title": "全球第 3 家：代码显示 vivo 手机将接入安卓 AI 诈骗检测",
+          "url": "https://www.aibase.com/news/30441",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-18T08:39:04.774206Z"
+          "published_at": "2026-08-18T09:35:16.486777Z"
         }
       ],
       "source_count": 1,
@@ -960,13 +861,13 @@
       ],
       "items": [
         {
-          "id": "001448b281f2fe6765d31e4ec7277e1676f13442",
-          "title": "哈佛 MIT 造出 83 亿\"AI 人\"：用 MatrAIx 系统模拟全球人类行为",
-          "url": "https://www.aibase.com/news/30440",
+          "id": "cb4653e2437f6e617659fa3bd0118470b1f89966",
+          "title": "全球第 3 家：代码显示 vivo 手机将接入安卓 AI 诈骗检测",
+          "url": "https://www.aibase.com/news/30441",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-18T08:39:04.774206Z"
+          "published_at": "2026-08-18T09:35:16.486777Z"
         }
       ],
       "item_count": 1,
@@ -986,32 +887,32 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-18T08:39:04.774206Z",
-      "latest_at": "2026-08-18T08:39:04.774206Z",
+      "earliest_at": "2026-08-18T09:35:16.486777Z",
+      "latest_at": "2026-08-18T09:35:16.486777Z",
       "primary_item": {
-        "id": "001448b281f2fe6765d31e4ec7277e1676f13442",
-        "title": "哈佛 MIT 造出 83 亿\"AI 人\"：用 MatrAIx 系统模拟全球人类行为",
-        "url": "https://www.aibase.com/news/30440",
+        "id": "cb4653e2437f6e617659fa3bd0118470b1f89966",
+        "title": "全球第 3 家：代码显示 vivo 手机将接入安卓 AI 诈骗检测",
+        "url": "https://www.aibase.com/news/30441",
         "source": "AIbase",
         "source_name": "AIbase"
       }
     },
     {
-      "story_id": "story_3bc7ee397cb2",
-      "title": "颠覆认知！奥特曼直言四年大学太冗长，AI时代如何重塑个人成长与职业路径？",
-      "url": "https://www.aibase.com/news/30436",
-      "primary_url": "https://www.aibase.com/news/30436",
+      "story_id": "story_8a35f5c4856d",
+      "title": "我国首个渔业大模型4. 0 版发布，算力飙升、直击八大核心！",
+      "url": "https://www.aibase.com/news/30442",
+      "primary_url": "https://www.aibase.com/news/30442",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "f3d6d9fa4e3762cee32b3fa7a686d78a19d63fd2",
-          "title": "颠覆认知！奥特曼直言四年大学太冗长，AI时代如何重塑个人成长与职业路径？",
-          "url": "https://www.aibase.com/news/30436",
+          "id": "c0db6f8ac2ffc4e819069aa12d95c7c9ac8a854b",
+          "title": "我国首个渔业大模型4. 0 版发布，算力飙升、直击八大核心！",
+          "url": "https://www.aibase.com/news/30442",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-18T08:39:04.774206Z"
+          "published_at": "2026-08-18T09:35:16.486777Z"
         }
       ],
       "source_count": 1,
@@ -1020,13 +921,13 @@
       ],
       "items": [
         {
-          "id": "f3d6d9fa4e3762cee32b3fa7a686d78a19d63fd2",
-          "title": "颠覆认知！奥特曼直言四年大学太冗长，AI时代如何重塑个人成长与职业路径？",
-          "url": "https://www.aibase.com/news/30436",
+          "id": "c0db6f8ac2ffc4e819069aa12d95c7c9ac8a854b",
+          "title": "我国首个渔业大模型4. 0 版发布，算力飙升、直击八大核心！",
+          "url": "https://www.aibase.com/news/30442",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-18T08:39:04.774206Z"
+          "published_at": "2026-08-18T09:35:16.486777Z"
         }
       ],
       "item_count": 1,
@@ -1046,12 +947,12 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-18T08:39:04.774206Z",
-      "latest_at": "2026-08-18T08:39:04.774206Z",
+      "earliest_at": "2026-08-18T09:35:16.486777Z",
+      "latest_at": "2026-08-18T09:35:16.486777Z",
       "primary_item": {
-        "id": "f3d6d9fa4e3762cee32b3fa7a686d78a19d63fd2",
-        "title": "颠覆认知！奥特曼直言四年大学太冗长，AI时代如何重塑个人成长与职业路径？",
-        "url": "https://www.aibase.com/news/30436",
+        "id": "c0db6f8ac2ffc4e819069aa12d95c7c9ac8a854b",
+        "title": "我国首个渔业大模型4. 0 版发布，算力飙升、直击八大核心！",
+        "url": "https://www.aibase.com/news/30442",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -1129,14 +1030,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5595,
-      "importance": 0.5595,
-      "importance_score": 0.5595,
+      "score": 0.5517,
+      "importance": 0.5517,
+      "importance_score": 0.5517,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9327,
+        "recency": 0.8936,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1224,14 +1125,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5591,
-      "importance": 0.5591,
-      "importance_score": 0.5591,
+      "score": 0.5513,
+      "importance": 0.5513,
+      "importance_score": 0.5513,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9304,
+        "recency": 0.8914,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1246,6 +1147,66 @@
         "url": "https://www.v2ex.com/t/1235299",
         "source": "V2EX (创意工作者社区)",
         "source_name": "Info Flow"
+      }
+    },
+    {
+      "story_id": "story_583e5e8ceffe",
+      "title": "百度二季度营收313亿元，AI业务占比连续两季过半",
+      "url": "https://www.aibase.com/news/30443",
+      "primary_url": "https://www.aibase.com/news/30443",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "8b8f9bdca63d2a450fa74fefb57e7ec817369510",
+          "title": "百度二季度营收313亿元，AI业务占比连续两季过半",
+          "url": "https://www.aibase.com/news/30443",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-18T09:35:16.486777Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "8b8f9bdca63d2a450fa74fefb57e7ec817369510",
+          "title": "百度二季度营收313亿元，AI业务占比连续两季过半",
+          "url": "https://www.aibase.com/news/30443",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-18T09:35:16.486777Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-18T09:35:16.486777Z",
+      "latest_at": "2026-08-18T09:35:16.486777Z",
+      "primary_item": {
+        "id": "8b8f9bdca63d2a450fa74fefb57e7ec817369510",
+        "title": "百度二季度营收313亿元，AI业务占比连续两季过半",
+        "url": "https://www.aibase.com/news/30443",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -1301,14 +1262,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.548,
-      "importance": 0.548,
-      "importance_score": 0.548,
+      "score": 0.5402,
+      "importance": 0.5402,
+      "importance_score": 0.5402,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.961,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1323,66 +1284,6 @@
         "url": "https://juejin.cn/post/7673674128557326374",
         "source": "掘金 · 人工智能本周最热",
         "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_68e376046237",
-      "title": "Anthropic首度披露Model2 模型：性能超越当前最强AI，技术边界再度拓宽",
-      "url": "https://www.aibase.com/news/30431",
-      "primary_url": "https://www.aibase.com/news/30431",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "aa64c063cf86b84c711d9b04470f33442e1ff350",
-          "title": "Anthropic首度披露Model2 模型：性能超越当前最强AI，技术边界再度拓宽",
-          "url": "https://www.aibase.com/news/30431",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-18T07:39:27.253680Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "aa64c063cf86b84c711d9b04470f33442e1ff350",
-          "title": "Anthropic首度披露Model2 模型：性能超越当前最强AI，技术边界再度拓宽",
-          "url": "https://www.aibase.com/news/30431",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-18T07:39:27.253680Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8037,
-      "importance": 0.8037,
-      "importance_score": 0.8037,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9586,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-18T07:39:27.253680Z",
-      "latest_at": "2026-08-18T07:39:27.253680Z",
-      "primary_item": {
-        "id": "aa64c063cf86b84c711d9b04470f33442e1ff350",
-        "title": "Anthropic首度披露Model2 模型：性能超越当前最强AI，技术边界再度拓宽",
-        "url": "https://www.aibase.com/news/30431",
-        "source": "AIbase",
-        "source_name": "AIbase"
       }
     },
     {
@@ -1495,14 +1396,14 @@
       ],
       "item_count": 5,
       "duplicate_count": 5,
-      "score": 0.5229,
-      "importance": 0.5229,
-      "importance_score": 0.5229,
+      "score": 0.5151,
+      "importance": 0.5151,
+      "importance_score": 0.5151,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.4994,
+        "recency": 0.4604,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -1516,6 +1417,200 @@
         "title": "AirTag揭露亚马逊为训练人工智能而销毁珍本图书",
         "url": "https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai",
         "source": "arstechnica.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_4b340e692b03",
+      "title": "以色列创建假智囊团可能试图欺骗人工智能聊天机器人 / Israel creates fake think tank in likely attempt to dupe AI chatbots",
+      "url": "https://news.ycombinator.com/item?id=49337392",
+      "primary_url": "https://news.ycombinator.com/item?id=49337392",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "a93341765557aee7e3916e2287c5666927361494",
+          "title": "以色列创建假智囊团可能试图欺骗人工智能聊天机器人 / Israel creates fake think tank in likely attempt to dupe AI chatbots",
+          "url": "https://news.ycombinator.com/item?id=49337392",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-18T02:37:33.384000Z"
+        },
+        {
+          "id": "3c3be855f30f06d3a83f3e4ebd222f982fd98ec0",
+          "title": "以色列设立了一个虚假智库，此举很可能是为了欺骗AI聊天机器人",
+          "url": "https://responsiblestatecraft.org/israel-influence-chatgpt",
+          "source": "responsiblestatecraft.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-18T02:30:02.549000Z"
+        },
+        {
+          "id": "78d08bb07f97dae274394f9920e976c5d386ff36",
+          "title": "以色列设立了一个虚假智库，此举很可能是为了欺骗AI聊天机器人 / Israel creates fake think tank in likely attempt to dupe AI chatbots",
+          "url": "https://responsiblestatecraft.org/israel-influence-chatgpt",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-17T20:46:10Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews",
+        "responsiblestatecraft.org"
+      ],
+      "items": [
+        {
+          "id": "a93341765557aee7e3916e2287c5666927361494",
+          "title": "以色列创建假智囊团可能试图欺骗人工智能聊天机器人 / Israel creates fake think tank in likely attempt to dupe AI chatbots",
+          "url": "https://news.ycombinator.com/item?id=49337392",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-18T02:37:33.384000Z"
+        },
+        {
+          "id": "3c3be855f30f06d3a83f3e4ebd222f982fd98ec0",
+          "title": "以色列设立了一个虚假智库，此举很可能是为了欺骗AI聊天机器人",
+          "url": "https://responsiblestatecraft.org/israel-influence-chatgpt",
+          "source": "responsiblestatecraft.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-18T02:30:02.549000Z"
+        },
+        {
+          "id": "78d08bb07f97dae274394f9920e976c5d386ff36",
+          "title": "以色列设立了一个虚假智库，此举很可能是为了欺骗AI聊天机器人 / Israel creates fake think tank in likely attempt to dupe AI chatbots",
+          "url": "https://responsiblestatecraft.org/israel-influence-chatgpt",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-17T20:46:10Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.515,
+      "importance": 0.515,
+      "importance_score": 0.515,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7099,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-17T20:46:10Z",
+      "latest_at": "2026-08-18T02:37:33.384000Z",
+      "primary_item": {
+        "id": "a93341765557aee7e3916e2287c5666927361494",
+        "title": "以色列创建假智囊团可能试图欺骗人工智能聊天机器人 / Israel creates fake think tank in likely attempt to dupe AI chatbots",
+        "url": "https://news.ycombinator.com/item?id=49337392",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_e37dcbb0bfb6",
+      "title": "GPT-5.6 Sol 价格下调 50%",
+      "url": "https://openrouter.ai/openai/gpt-5.6-sol",
+      "primary_url": "https://openrouter.ai/openai/gpt-5.6-sol",
+      "source": "openrouter.ai",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "b84a2c553b2e04dedf7030449b5ce55e8ffaa426",
+          "title": "GPT-5.6 Sol 价格下调 50%",
+          "url": "https://openrouter.ai/openai/gpt-5.6-sol",
+          "source": "openrouter.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-18T01:42:08.453000Z"
+        },
+        {
+          "id": "bc7b6b4a57050dad2ba48d25dab8747f2e90d5f0",
+          "title": "GPT-5.6 Sol 定价降低 50% / GPT-5.6 Sol Pricing Cut by 50%",
+          "url": "https://news.ycombinator.com/item?id=49337602",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-17T23:48:06.194000Z"
+        },
+        {
+          "id": "4e5e6474029a6efbc69952e2798ab177209b6927",
+          "title": "GPT-5.6 Sol 价格下调 50% / GPT-5.6 Sol Pricing Cut by 50%",
+          "url": "https://openrouter.ai/openai/gpt-5.6-sol",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-17T21:03:18Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "hackernews",
+        "openrouter.ai"
+      ],
+      "items": [
+        {
+          "id": "b84a2c553b2e04dedf7030449b5ce55e8ffaa426",
+          "title": "GPT-5.6 Sol 价格下调 50%",
+          "url": "https://openrouter.ai/openai/gpt-5.6-sol",
+          "source": "openrouter.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-18T01:42:08.453000Z"
+        },
+        {
+          "id": "bc7b6b4a57050dad2ba48d25dab8747f2e90d5f0",
+          "title": "GPT-5.6 Sol 定价降低 50% / GPT-5.6 Sol Pricing Cut by 50%",
+          "url": "https://news.ycombinator.com/item?id=49337602",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-17T23:48:06.194000Z"
+        },
+        {
+          "id": "4e5e6474029a6efbc69952e2798ab177209b6927",
+          "title": "GPT-5.6 Sol 价格下调 50% / GPT-5.6 Sol Pricing Cut by 50%",
+          "url": "https://openrouter.ai/openai/gpt-5.6-sol",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-17T21:03:18Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5073,
+      "importance": 0.5073,
+      "importance_score": 0.5073,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.6714,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-17T21:03:18Z",
+      "latest_at": "2026-08-18T01:42:08.453000Z",
+      "primary_item": {
+        "id": "b84a2c553b2e04dedf7030449b5ce55e8ffaa426",
+        "title": "GPT-5.6 Sol 价格下调 50%",
+        "url": "https://openrouter.ai/openai/gpt-5.6-sol",
+        "source": "openrouter.ai",
         "source_name": "Buzzing"
       }
     }
