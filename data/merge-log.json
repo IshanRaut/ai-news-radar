@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-20T11:54:55.231134Z",
+  "generated_at": "2026-08-20T12:52:49.504660Z",
   "merge_strategy": "url_or_title_similarity_v0_6",
-  "total_events": 33,
+  "total_events": 34,
   "events": [
     {
       "story_id": "story_b3a26e5d0c09",
@@ -25,16 +25,16 @@
       "similarity": 1.0
     },
     {
-      "story_id": "story_7cb24afa7d5a",
-      "item_id": "7a6969b8dabff4da508b258ce598bbe807d0cd7e",
-      "merged_into": "story_7cb24afa7d5a",
+      "story_id": "story_11b62d30a274",
+      "item_id": "f4dcc76ad7d34c89f46e2d9abe85f2fec0170314",
+      "merged_into": "story_11b62d30a274",
       "reason": "title_similarity",
       "similarity": 1.0
     },
     {
-      "story_id": "story_11b62d30a274",
-      "item_id": "f4dcc76ad7d34c89f46e2d9abe85f2fec0170314",
-      "merged_into": "story_11b62d30a274",
+      "story_id": "story_7cb24afa7d5a",
+      "item_id": "7a6969b8dabff4da508b258ce598bbe807d0cd7e",
+      "merged_into": "story_7cb24afa7d5a",
       "reason": "title_similarity",
       "similarity": 1.0
     },
@@ -151,13 +151,6 @@
       "similarity": 0.9508
     },
     {
-      "story_id": "story_140b41080a43",
-      "item_id": "cdad869d6da121e812740acfb1e5b22c2728bd90",
-      "merged_into": "story_140b41080a43",
-      "reason": "canonical_url",
-      "similarity": 1.0
-    },
-    {
       "story_id": "story_7d7eacff40aa",
       "item_id": "f465d7c703e8afe629564a9f3a0896275bc8bf51",
       "merged_into": "story_7d7eacff40aa",
@@ -231,6 +224,20 @@
       "story_id": "story_6ca05b2a631d",
       "item_id": "ef557c15727e42660e608390628812e783151a69",
       "merged_into": "story_6ca05b2a631d",
+      "reason": "canonical_url",
+      "similarity": 1.0
+    },
+    {
+      "story_id": "story_1d71add133bf",
+      "item_id": "b1840a390f85b5346cf9bb3b6076495810b98a03",
+      "merged_into": "story_1d71add133bf",
+      "reason": "title_similarity",
+      "similarity": 1.0
+    },
+    {
+      "story_id": "story_1d71add133bf",
+      "item_id": "55394edb97b332a149680e83694fc6dc1107da5a",
+      "merged_into": "story_1d71add133bf",
       "reason": "canonical_url",
       "similarity": 1.0
     }
