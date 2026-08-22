@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T21:23:03.966958Z",
+  "generated_at": "2026-08-22T21:47:20.024046Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,20 +38,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7524,
-      "importance": 0.7524,
-      "importance_score": 0.7524,
+      "score": 0.749,
+      "importance": 0.749,
+      "importance_score": 0.749,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7019,
+        "recency": 0.685,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-22T14:13:48Z",
       "latest_at": "2026-08-22T14:13:48Z",
@@ -117,14 +116,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5461,
-      "importance": 0.5461,
-      "importance_score": 0.5461,
+      "score": 0.5427,
+      "importance": 0.5427,
+      "importance_score": 0.5427,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9905,
+        "recency": 0.9736,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -138,6 +137,84 @@
         "title": "Anthropic 似乎正在对 Claude Code 中的工作量降低程度进行 A/B 测试",
         "url": "https://twitter.com/argofowl/status/2091150597374537729",
         "source": "twitter.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_18837430aeb7",
+      "title": "一款神秘的免费AI模型正让开发者们赞叹不已。而谁也搞不清它究竟是谁开发的。",
+      "url": "https://www.businessinsider.com/ox-alpha-ai-model-mystery-2026-8",
+      "primary_url": "https://www.businessinsider.com/ox-alpha-ai-model-mystery-2026-8",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "e80361b3dc4bfd2b38ceea461b389b9f1f15aaef",
+          "title": "一款神秘的免费AI模型正让开发者们赞叹不已。而谁也搞不清它究竟是谁开发的。",
+          "url": "https://www.businessinsider.com/ox-alpha-ai-model-mystery-2026-8",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-22T20:53:16.928000Z"
+        },
+        {
+          "id": "00e7c9b8c5c6db7ded59d314068e5c7f631c33de",
+          "title": "一款神秘的免费AI模型正让开发者们赞叹不已。而谁也搞不清它究竟是谁开发的。 / A mysterious free AI model is impressing developers. And nobody knows who made it.",
+          "url": "https://www.businessinsider.com/ox-alpha-ai-model-mystery-2026-8",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-22T20:46:35Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "e80361b3dc4bfd2b38ceea461b389b9f1f15aaef",
+          "title": "一款神秘的免费AI模型正让开发者们赞叹不已。而谁也搞不清它究竟是谁开发的。",
+          "url": "https://www.businessinsider.com/ox-alpha-ai-model-mystery-2026-8",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-22T20:53:16.928000Z"
+        },
+        {
+          "id": "00e7c9b8c5c6db7ded59d314068e5c7f631c33de",
+          "title": "一款神秘的免费AI模型正让开发者们赞叹不已。而谁也搞不清它究竟是谁开发的。 / A mysterious free AI model is impressing developers. And nobody knows who made it.",
+          "url": "https://www.businessinsider.com/ox-alpha-ai-model-mystery-2026-8",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-22T20:46:35Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5405,
+      "importance": 0.5405,
+      "importance_score": 0.5405,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9625,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-22T20:46:35Z",
+      "latest_at": "2026-08-22T20:53:16.928000Z",
+      "primary_item": {
+        "id": "e80361b3dc4bfd2b38ceea461b389b9f1f15aaef",
+        "title": "一款神秘的免费AI模型正让开发者们赞叹不已。而谁也搞不清它究竟是谁开发的。",
+        "url": "https://www.businessinsider.com/ox-alpha-ai-model-mystery-2026-8",
+        "source": "www.businessinsider.com",
         "source_name": "Buzzing"
       }
     },
@@ -195,14 +272,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5415,
-      "importance": 0.5415,
-      "importance_score": 0.5415,
+      "score": 0.5381,
+      "importance": 0.5381,
+      "importance_score": 0.5381,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9673,
+        "recency": 0.9504,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -291,14 +368,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5378,
-      "importance": 0.5378,
-      "importance_score": 0.5378,
+      "score": 0.5344,
+      "importance": 0.5344,
+      "importance_score": 0.5344,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8238,
+        "recency": 0.8069,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -369,14 +446,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5235,
-      "importance": 0.5235,
-      "importance_score": 0.5235,
+      "score": 0.5201,
+      "importance": 0.5201,
+      "importance_score": 0.5201,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.5,
         "ai_relevance": 0.67,
-        "recency": 0.4875,
+        "recency": 0.4706,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -446,14 +523,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5145,
-      "importance": 0.5145,
-      "importance_score": 0.5145,
+      "score": 0.5111,
+      "importance": 0.5111,
+      "importance_score": 0.5111,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8324,
+        "recency": 0.8156,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -523,14 +600,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5118,
-      "importance": 0.5118,
-      "importance_score": 0.5118,
+      "score": 0.5084,
+      "importance": 0.5084,
+      "importance_score": 0.5084,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8188,
+        "recency": 0.8019,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -601,14 +678,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5061,
-      "importance": 0.5061,
-      "importance_score": 0.5061,
+      "score": 0.5027,
+      "importance": 0.5027,
+      "importance_score": 0.5027,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7906,
+        "recency": 0.7737,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -679,14 +756,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5289,
-      "importance": 0.5289,
-      "importance_score": 0.5289,
+      "score": 0.5255,
+      "importance": 0.5255,
+      "importance_score": 0.5255,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9046,
+        "recency": 0.8877,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -701,84 +778,6 @@
         "url": "https://news.ycombinator.com/item?id=49399642",
         "source": "hackernews",
         "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_f44d788d2a3b",
-      "title": "OpenAI首席经济学家表示，其团队的研究人员需要“习惯于不舒适的状态”",
-      "url": "https://www.businessinsider.com/openai-chief-economist-studying-ai-impact-work-team-2026-8",
-      "primary_url": "https://www.businessinsider.com/openai-chief-economist-studying-ai-impact-work-team-2026-8",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "c5a82fd3a5f4b52098de80fde919ebe3270bcfe7",
-          "title": "OpenAI首席经济学家表示，其团队的研究人员需要“习惯于不舒适的状态”",
-          "url": "https://www.businessinsider.com/openai-chief-economist-studying-ai-impact-work-team-2026-8",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-22T15:25:48.057000Z"
-        },
-        {
-          "id": "0ef980645826acbcbb1c59a9ed74f1bdfe3302f1",
-          "title": "OpenAI首席经济学家表示，其团队的研究人员需要“习惯于不舒适的状态” / OpenAI's chief economist says this is what it takes to work on his team at the ChatGPT maker",
-          "url": "https://www.businessinsider.com/openai-chief-economist-studying-ai-impact-work-team-2026-8",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-22T09:50:01Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "c5a82fd3a5f4b52098de80fde919ebe3270bcfe7",
-          "title": "OpenAI首席经济学家表示，其团队的研究人员需要“习惯于不舒适的状态”",
-          "url": "https://www.businessinsider.com/openai-chief-economist-studying-ai-impact-work-team-2026-8",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-22T15:25:48.057000Z"
-        },
-        {
-          "id": "0ef980645826acbcbb1c59a9ed74f1bdfe3302f1",
-          "title": "OpenAI首席经济学家表示，其团队的研究人员需要“习惯于不舒适的状态” / OpenAI's chief economist says this is what it takes to work on his team at the ChatGPT maker",
-          "url": "https://www.businessinsider.com/openai-chief-economist-studying-ai-impact-work-team-2026-8",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-22T09:50:01Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4984,
-      "importance": 0.4984,
-      "importance_score": 0.4984,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7519,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-22T09:50:01Z",
-      "latest_at": "2026-08-22T15:25:48.057000Z",
-      "primary_item": {
-        "id": "c5a82fd3a5f4b52098de80fde919ebe3270bcfe7",
-        "title": "OpenAI首席经济学家表示，其团队的研究人员需要“习惯于不舒适的状态”",
-        "url": "https://www.businessinsider.com/openai-chief-economist-studying-ai-impact-work-team-2026-8",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
       }
     },
     {
@@ -835,14 +834,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4883,
-      "importance": 0.4883,
-      "importance_score": 0.4883,
+      "score": 0.4849,
+      "importance": 0.4849,
+      "importance_score": 0.4849,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7014,
+        "recency": 0.6845,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -913,14 +912,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4827,
-      "importance": 0.4827,
-      "importance_score": 0.4827,
+      "score": 0.4793,
+      "importance": 0.4793,
+      "importance_score": 0.4793,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6735,
+        "recency": 0.6566,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -991,14 +990,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4764,
-      "importance": 0.4764,
-      "importance_score": 0.4764,
+      "score": 0.473,
+      "importance": 0.473,
+      "importance_score": 0.473,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6419,
+        "recency": 0.6251,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1013,6 +1012,84 @@
         "url": "https://www.bbc.co.uk/news/videos/cy4k4d3lj21o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News",
         "source_name": "TechURLs"
+      }
+    },
+    {
+      "story_id": "story_f44d788d2a3b",
+      "title": "OpenAI首席经济学家表示，其团队的研究人员需要“习惯于不舒适的状态”",
+      "url": "https://www.businessinsider.com/openai-chief-economist-studying-ai-impact-work-team-2026-8",
+      "primary_url": "https://www.businessinsider.com/openai-chief-economist-studying-ai-impact-work-team-2026-8",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "c5a82fd3a5f4b52098de80fde919ebe3270bcfe7",
+          "title": "OpenAI首席经济学家表示，其团队的研究人员需要“习惯于不舒适的状态”",
+          "url": "https://www.businessinsider.com/openai-chief-economist-studying-ai-impact-work-team-2026-8",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-22T15:25:48.057000Z"
+        },
+        {
+          "id": "0ef980645826acbcbb1c59a9ed74f1bdfe3302f1",
+          "title": "OpenAI首席经济学家表示，其团队的研究人员需要“习惯于不舒适的状态” / OpenAI's chief economist says this is what it takes to work on his team at the ChatGPT maker",
+          "url": "https://www.businessinsider.com/openai-chief-economist-studying-ai-impact-work-team-2026-8",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-22T09:50:01Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "c5a82fd3a5f4b52098de80fde919ebe3270bcfe7",
+          "title": "OpenAI首席经济学家表示，其团队的研究人员需要“习惯于不舒适的状态”",
+          "url": "https://www.businessinsider.com/openai-chief-economist-studying-ai-impact-work-team-2026-8",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-22T15:25:48.057000Z"
+        },
+        {
+          "id": "0ef980645826acbcbb1c59a9ed74f1bdfe3302f1",
+          "title": "OpenAI首席经济学家表示，其团队的研究人员需要“习惯于不舒适的状态” / OpenAI's chief economist says this is what it takes to work on his team at the ChatGPT maker",
+          "url": "https://www.businessinsider.com/openai-chief-economist-studying-ai-impact-work-team-2026-8",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-22T09:50:01Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.495,
+      "importance": 0.495,
+      "importance_score": 0.495,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.735,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-22T09:50:01Z",
+      "latest_at": "2026-08-22T15:25:48.057000Z",
+      "primary_item": {
+        "id": "c5a82fd3a5f4b52098de80fde919ebe3270bcfe7",
+        "title": "OpenAI首席经济学家表示，其团队的研究人员需要“习惯于不舒适的状态”",
+        "url": "https://www.businessinsider.com/openai-chief-economist-studying-ai-impact-work-team-2026-8",
+        "source": "www.businessinsider.com",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -1068,14 +1145,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5214,
-      "importance": 0.5214,
-      "importance_score": 0.5214,
+      "score": 0.518,
+      "importance": 0.518,
+      "importance_score": 0.518,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8668,
+        "recency": 0.85,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1145,14 +1222,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4568,
-      "importance": 0.4568,
-      "importance_score": 0.4568,
+      "score": 0.4534,
+      "importance": 0.4534,
+      "importance_score": 0.4534,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.5438,
+        "recency": 0.527,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1223,14 +1300,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4827,
-      "importance": 0.4827,
-      "importance_score": 0.4827,
+      "score": 0.4793,
+      "importance": 0.4793,
+      "importance_score": 0.4793,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6735,
+        "recency": 0.6566,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1301,14 +1378,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.513,
-      "importance": 0.513,
-      "importance_score": 0.513,
+      "score": 0.5096,
+      "importance": 0.5096,
+      "importance_score": 0.5096,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8251,
+        "recency": 0.8082,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1379,14 +1456,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4827,
-      "importance": 0.4827,
-      "importance_score": 0.4827,
+      "score": 0.4793,
+      "importance": 0.4793,
+      "importance_score": 0.4793,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6735,
+        "recency": 0.6566,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1456,14 +1533,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4517,
-      "importance": 0.4517,
-      "importance_score": 0.4517,
+      "score": 0.4484,
+      "importance": 0.4484,
+      "importance_score": 0.4484,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.5187,
+        "recency": 0.5018,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1478,84 +1555,6 @@
         "url": "https://www.computer.org/csdl/magazine/mi/2021/06/09623402/1yJTvlRLmhi",
         "source": "Hacker News · 24h最热",
         "source_name": "Zeli"
-      }
-    },
-    {
-      "story_id": "story_631f4e2ee377",
-      "title": "越会用 AI 的人，学习能力退化得越快",
-      "url": "https://news.pedaily.cn/202608/567987.shtml",
-      "primary_url": "https://news.pedaily.cn/202608/567987.shtml",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "873e5e95612c8df994782efc7ecdc29da237e2a9",
-          "title": "越会用 AI 的人，学习能力退化得越快",
-          "url": "https://news.pedaily.cn/202608/567987.shtml",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "46131e08a071c26921b245aa70a3d42a1c14f617",
-          "title": "越会用AI 的人，学习能力退化得越快",
-          "url": "https://www.huxiu.com/article/4885107.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-22T04:09:04Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Readhub · AI",
-        "虎嗅 (Huxiu)"
-      ],
-      "items": [
-        {
-          "id": "873e5e95612c8df994782efc7ecdc29da237e2a9",
-          "title": "越会用 AI 的人，学习能力退化得越快",
-          "url": "https://news.pedaily.cn/202608/567987.shtml",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "46131e08a071c26921b245aa70a3d42a1c14f617",
-          "title": "越会用AI 的人，学习能力退化得越快",
-          "url": "https://www.huxiu.com/article/4885107.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-22T04:09:04Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4327,
-      "importance": 0.4327,
-      "importance_score": 0.4327,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.4234,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-22T04:09:04Z",
-      "latest_at": "2026-08-22T07:32:49.583862Z",
-      "primary_item": {
-        "id": "873e5e95612c8df994782efc7ecdc29da237e2a9",
-        "title": "越会用 AI 的人，学习能力退化得越快",
-        "url": "https://news.pedaily.cn/202608/567987.shtml",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
       }
     }
   ]
