@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T20:24:06.725232Z",
+  "generated_at": "2026-08-22T20:49:39.725921Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,14 +38,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7606,
-      "importance": 0.7606,
-      "importance_score": 0.7606,
+      "score": 0.757,
+      "importance": 0.757,
+      "importance_score": 0.757,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7428,
+        "recency": 0.7251,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -61,6 +61,84 @@
         "url": "https://aihot.virxact.com/items/cmt4gz31f1l1qro6tprhfg5ys",
         "source": "IT之家（RSS）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_c0f9d10986f5",
+      "title": "Why your local LLM feels dumber than it is",
+      "url": "https://news.ycombinator.com/item?id=49402232",
+      "primary_url": "https://news.ycombinator.com/item?id=49402232",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "599a31a9650c619bc4ceceb56bd012aa1be1e2fd",
+          "title": "Why your local LLM feels dumber than it is",
+          "url": "https://news.ycombinator.com/item?id=49402232",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-22T20:35:58.501000Z"
+        },
+        {
+          "id": "cafbec0119e2633de9b8e8e8aab370f5777c4b6b",
+          "title": "Why your local LLM feels dumber than it is",
+          "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-22T18:14:16Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "599a31a9650c619bc4ceceb56bd012aa1be1e2fd",
+          "title": "Why your local LLM feels dumber than it is",
+          "url": "https://news.ycombinator.com/item?id=49402232",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-22T20:35:58.501000Z"
+        },
+        {
+          "id": "cafbec0119e2633de9b8e8e8aab370f5777c4b6b",
+          "title": "Why your local LLM feels dumber than it is",
+          "url": "https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-22T18:14:16Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5461,
+      "importance": 0.5461,
+      "importance_score": 0.5461,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9905,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-22T18:14:16Z",
+      "latest_at": "2026-08-22T20:35:58.501000Z",
+      "primary_item": {
+        "id": "599a31a9650c619bc4ceceb56bd012aa1be1e2fd",
+        "title": "Why your local LLM feels dumber than it is",
+        "url": "https://news.ycombinator.com/item?id=49402232",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     },
     {
@@ -135,14 +213,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5459,
-      "importance": 0.5459,
-      "importance_score": 0.5459,
+      "score": 0.5424,
+      "importance": 0.5424,
+      "importance_score": 0.5424,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8647,
+        "recency": 0.847,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -157,84 +235,6 @@
         "url": "https://blog.modelcontextprotocol.io/posts/mcp-roadmap",
         "source": "blog.modelcontextprotocol.io",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_b8c0ed27bcb3",
-      "title": "中国机器人1亿次冲刺跑速超过尤塞恩·博尔特的世界纪录 / Chinese robot runs 100M sprint quicker than Usain Bolt's world record",
-      "url": "https://news.ycombinator.com/item?id=49399642",
-      "primary_url": "https://news.ycombinator.com/item?id=49399642",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "7ae963cdfe7665e0ab25518a8804682b1d4ead67",
-          "title": "中国机器人1亿次冲刺跑速超过尤塞恩·博尔特的世界纪录 / Chinese robot runs 100M sprint quicker than Usain Bolt's world record",
-          "url": "https://news.ycombinator.com/item?id=49399642",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-22T19:05:40.131000Z"
-        },
-        {
-          "id": "ef1ac03c09bb8eff067942d548cd947f445b2980",
-          "title": "中国机器人1亿次冲刺跑速超过尤塞恩·博尔特的世界纪录 / Chinese robot runs 100M sprint quicker than Usain Bolt's world record",
-          "url": "https://www.theguardian.com/sport/2026/aug/22/chinese-robot-runs-100m-sprint-quicker-usain-bolt-world-record",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-22T13:39:07Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "7ae963cdfe7665e0ab25518a8804682b1d4ead67",
-          "title": "中国机器人1亿次冲刺跑速超过尤塞恩·博尔特的世界纪录 / Chinese robot runs 100M sprint quicker than Usain Bolt's world record",
-          "url": "https://news.ycombinator.com/item?id=49399642",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-22T19:05:40.131000Z"
-        },
-        {
-          "id": "ef1ac03c09bb8eff067942d548cd947f445b2980",
-          "title": "中国机器人1亿次冲刺跑速超过尤塞恩·博尔特的世界纪录 / Chinese robot runs 100M sprint quicker than Usain Bolt's world record",
-          "url": "https://www.theguardian.com/sport/2026/aug/22/chinese-robot-runs-100m-sprint-quicker-usain-bolt-world-record",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-22T13:39:07Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5371,
-      "importance": 0.5371,
-      "importance_score": 0.5371,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9455,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-22T13:39:07Z",
-      "latest_at": "2026-08-22T19:05:40.131000Z",
-      "primary_item": {
-        "id": "7ae963cdfe7665e0ab25518a8804682b1d4ead67",
-        "title": "中国机器人1亿次冲刺跑速超过尤塞恩·博尔特的世界纪录 / Chinese robot runs 100M sprint quicker than Usain Bolt's world record",
-        "url": "https://news.ycombinator.com/item?id=49399642",
-        "source": "hackernews",
-        "source_name": "NewsNow"
       }
     },
     {
@@ -291,14 +291,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5317,
-      "importance": 0.5317,
-      "importance_score": 0.5317,
+      "score": 0.5281,
+      "importance": 0.5281,
+      "importance_score": 0.5281,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.5,
         "ai_relevance": 0.67,
-        "recency": 0.5284,
+        "recency": 0.5107,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -368,14 +368,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5227,
-      "importance": 0.5227,
-      "importance_score": 0.5227,
+      "score": 0.5191,
+      "importance": 0.5191,
+      "importance_score": 0.5191,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8734,
+        "recency": 0.8556,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -445,14 +445,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5199,
-      "importance": 0.5199,
-      "importance_score": 0.5199,
+      "score": 0.5164,
+      "importance": 0.5164,
+      "importance_score": 0.5164,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8597,
+        "recency": 0.842,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -523,14 +523,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5143,
-      "importance": 0.5143,
-      "importance_score": 0.5143,
+      "score": 0.5108,
+      "importance": 0.5108,
+      "importance_score": 0.5108,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8315,
+        "recency": 0.8138,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -545,6 +545,84 @@
         "url": "https://github.com/torvalds/linux/commit/818bebeb63dd6bf5f4e07e145f6cdbace520a34c",
         "source": "github.com",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_b8c0ed27bcb3",
+      "title": "中国机器人1亿次冲刺跑速超过尤塞恩·博尔特的世界纪录 / Chinese robot runs 100M sprint quicker than Usain Bolt's world record",
+      "url": "https://news.ycombinator.com/item?id=49399642",
+      "primary_url": "https://news.ycombinator.com/item?id=49399642",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "7ae963cdfe7665e0ab25518a8804682b1d4ead67",
+          "title": "中国机器人1亿次冲刺跑速超过尤塞恩·博尔特的世界纪录 / Chinese robot runs 100M sprint quicker than Usain Bolt's world record",
+          "url": "https://news.ycombinator.com/item?id=49399642",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-22T19:05:40.131000Z"
+        },
+        {
+          "id": "ef1ac03c09bb8eff067942d548cd947f445b2980",
+          "title": "中国机器人1亿次冲刺跑速超过尤塞恩·博尔特的世界纪录 / Chinese robot runs 100M sprint quicker than Usain Bolt's world record",
+          "url": "https://www.theguardian.com/sport/2026/aug/22/chinese-robot-runs-100m-sprint-quicker-usain-bolt-world-record",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-22T13:39:07Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "7ae963cdfe7665e0ab25518a8804682b1d4ead67",
+          "title": "中国机器人1亿次冲刺跑速超过尤塞恩·博尔特的世界纪录 / Chinese robot runs 100M sprint quicker than Usain Bolt's world record",
+          "url": "https://news.ycombinator.com/item?id=49399642",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-22T19:05:40.131000Z"
+        },
+        {
+          "id": "ef1ac03c09bb8eff067942d548cd947f445b2980",
+          "title": "中国机器人1亿次冲刺跑速超过尤塞恩·博尔特的世界纪录 / Chinese robot runs 100M sprint quicker than Usain Bolt's world record",
+          "url": "https://www.theguardian.com/sport/2026/aug/22/chinese-robot-runs-100m-sprint-quicker-usain-bolt-world-record",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-22T13:39:07Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5336,
+      "importance": 0.5336,
+      "importance_score": 0.5336,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9278,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-22T13:39:07Z",
+      "latest_at": "2026-08-22T19:05:40.131000Z",
+      "primary_item": {
+        "id": "7ae963cdfe7665e0ab25518a8804682b1d4ead67",
+        "title": "中国机器人1亿次冲刺跑速超过尤塞恩·博尔特的世界纪录 / Chinese robot runs 100M sprint quicker than Usain Bolt's world record",
+        "url": "https://news.ycombinator.com/item?id=49399642",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     },
     {
@@ -601,14 +679,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5066,
-      "importance": 0.5066,
-      "importance_score": 0.5066,
+      "score": 0.503,
+      "importance": 0.503,
+      "importance_score": 0.503,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7928,
+        "recency": 0.7751,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -623,83 +701,6 @@
         "url": "https://www.businessinsider.com/openai-chief-economist-studying-ai-impact-work-team-2026-8",
         "source": "www.businessinsider.com",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_99c051212fc4",
-      "title": "新 MCP 路线图 / New MCP Roadmap",
-      "url": "https://news.ycombinator.com/item?id=49399591",
-      "primary_url": "https://news.ycombinator.com/item?id=49399591",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "0e2f077268aed88fb421f88ae4403517bd3b6e31",
-          "title": "新 MCP 路线图 / New MCP Roadmap",
-          "url": "https://news.ycombinator.com/item?id=49399591",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-22T18:11:16.383000Z"
-        },
-        {
-          "id": "126ccb3ea5663b832f20fec048de1ac591d03ec8",
-          "title": "新 MCP 路线图 / The New MCP Roadmap",
-          "url": "https://news.ycombinator.com/item?id=49399591",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-22T14:10:19.326000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "0e2f077268aed88fb421f88ae4403517bd3b6e31",
-          "title": "新 MCP 路线图 / New MCP Roadmap",
-          "url": "https://news.ycombinator.com/item?id=49399591",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-22T18:11:16.383000Z"
-        },
-        {
-          "id": "126ccb3ea5663b832f20fec048de1ac591d03ec8",
-          "title": "新 MCP 路线图 / The New MCP Roadmap",
-          "url": "https://news.ycombinator.com/item?id=49399591",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-22T14:10:19.326000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5296,
-      "importance": 0.5296,
-      "importance_score": 0.5296,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9078,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-22T14:10:19.326000Z",
-      "latest_at": "2026-08-22T18:11:16.383000Z",
-      "primary_item": {
-        "id": "0e2f077268aed88fb421f88ae4403517bd3b6e31",
-        "title": "新 MCP 路线图 / New MCP Roadmap",
-        "url": "https://news.ycombinator.com/item?id=49399591",
-        "source": "hackernews",
-        "source_name": "NewsNow"
       }
     },
     {
@@ -756,14 +757,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4965,
-      "importance": 0.4965,
-      "importance_score": 0.4965,
+      "score": 0.4929,
+      "importance": 0.4929,
+      "importance_score": 0.4929,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7423,
+        "recency": 0.7246,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -834,14 +835,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4909,
-      "importance": 0.4909,
-      "importance_score": 0.4909,
+      "score": 0.4873,
+      "importance": 0.4873,
+      "importance_score": 0.4873,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7144,
+        "recency": 0.6967,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -912,14 +913,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4846,
-      "importance": 0.4846,
-      "importance_score": 0.4846,
+      "score": 0.481,
+      "importance": 0.481,
+      "importance_score": 0.481,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6829,
+        "recency": 0.6651,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -934,6 +935,83 @@
         "url": "https://www.bbc.co.uk/news/videos/cy4k4d3lj21o?at_medium=RSS&at_campaign=rss",
         "source": "BBC News",
         "source_name": "TechURLs"
+      }
+    },
+    {
+      "story_id": "story_99c051212fc4",
+      "title": "新 MCP 路线图 / New MCP Roadmap",
+      "url": "https://news.ycombinator.com/item?id=49399591",
+      "primary_url": "https://news.ycombinator.com/item?id=49399591",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "0e2f077268aed88fb421f88ae4403517bd3b6e31",
+          "title": "新 MCP 路线图 / New MCP Roadmap",
+          "url": "https://news.ycombinator.com/item?id=49399591",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-22T18:11:16.383000Z"
+        },
+        {
+          "id": "126ccb3ea5663b832f20fec048de1ac591d03ec8",
+          "title": "新 MCP 路线图 / The New MCP Roadmap",
+          "url": "https://news.ycombinator.com/item?id=49399591",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-22T14:10:19.326000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "0e2f077268aed88fb421f88ae4403517bd3b6e31",
+          "title": "新 MCP 路线图 / New MCP Roadmap",
+          "url": "https://news.ycombinator.com/item?id=49399591",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-22T18:11:16.383000Z"
+        },
+        {
+          "id": "126ccb3ea5663b832f20fec048de1ac591d03ec8",
+          "title": "新 MCP 路线图 / The New MCP Roadmap",
+          "url": "https://news.ycombinator.com/item?id=49399591",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-22T14:10:19.326000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.526,
+      "importance": 0.526,
+      "importance_score": 0.526,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.89,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-22T14:10:19.326000Z",
+      "latest_at": "2026-08-22T18:11:16.383000Z",
+      "primary_item": {
+        "id": "0e2f077268aed88fb421f88ae4403517bd3b6e31",
+        "title": "新 MCP 路线图 / New MCP Roadmap",
+        "url": "https://news.ycombinator.com/item?id=49399591",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     },
     {
@@ -989,14 +1067,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4649,
-      "importance": 0.4649,
-      "importance_score": 0.4649,
+      "score": 0.4614,
+      "importance": 0.4614,
+      "importance_score": 0.4614,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.5847,
+        "recency": 0.567,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1011,84 +1089,6 @@
         "url": "https://www.pm.gc.ca/en/news/statements/2026/08/21/statement-prime-minister-carney-canada-us-trade-negotiations",
         "source": "Hacker News · 24h最热",
         "source_name": "Zeli"
-      }
-    },
-    {
-      "story_id": "story_45f68b1865d1",
-      "title": "消息人士称，人为 IPO 文件将显示人工智能的强烈反对是一个风险因素 / Anthropic IPO filing will show AI backlash as a risk factor, sources say",
-      "url": "https://news.ycombinator.com/item?id=49401229",
-      "primary_url": "https://news.ycombinator.com/item?id=49401229",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "53c1f3cf45dfa17d5f20edf41cc25040e57ef49a",
-          "title": "消息人士称，人为 IPO 文件将显示人工智能的强烈反对是一个风险因素 / Anthropic IPO filing will show AI backlash as a risk factor, sources say",
-          "url": "https://news.ycombinator.com/item?id=49401229",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-22T17:11:08.754000Z"
-        },
-        {
-          "id": "41337639170e8377fa3ca0c7fc5d554d61e9b0d8",
-          "title": "消息人士称，人为 IPO 文件将显示人工智能的强烈反对是一个风险因素 / Anthropic IPO filing will show AI backlash as a risk factor, sources say",
-          "url": "https://www.cnbc.com/2026/08/21/-anthropic-ipo-filing-will-show-ai-backlash-as-risk-sources-say.html",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-22T16:23:09Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "53c1f3cf45dfa17d5f20edf41cc25040e57ef49a",
-          "title": "消息人士称，人为 IPO 文件将显示人工智能的强烈反对是一个风险因素 / Anthropic IPO filing will show AI backlash as a risk factor, sources say",
-          "url": "https://news.ycombinator.com/item?id=49401229",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-22T17:11:08.754000Z"
-        },
-        {
-          "id": "41337639170e8377fa3ca0c7fc5d554d61e9b0d8",
-          "title": "消息人士称，人为 IPO 文件将显示人工智能的强烈反对是一个风险因素 / Anthropic IPO filing will show AI backlash as a risk factor, sources say",
-          "url": "https://www.cnbc.com/2026/08/21/-anthropic-ipo-filing-will-show-ai-backlash-as-risk-sources-say.html",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-22T16:23:09Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5212,
-      "importance": 0.5212,
-      "importance_score": 0.5212,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.866,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-22T16:23:09Z",
-      "latest_at": "2026-08-22T17:11:08.754000Z",
-      "primary_item": {
-        "id": "53c1f3cf45dfa17d5f20edf41cc25040e57ef49a",
-        "title": "消息人士称，人为 IPO 文件将显示人工智能的强烈反对是一个风险因素 / Anthropic IPO filing will show AI backlash as a risk factor, sources say",
-        "url": "https://news.ycombinator.com/item?id=49401229",
-        "source": "hackernews",
-        "source_name": "NewsNow"
       }
     },
     {
@@ -1145,14 +1145,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4909,
-      "importance": 0.4909,
-      "importance_score": 0.4909,
+      "score": 0.4873,
+      "importance": 0.4873,
+      "importance_score": 0.4873,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7144,
+        "recency": 0.6967,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1167,6 +1167,84 @@
         "url": "https://github.com/openai/codex",
         "source": "GitHub · Trending Today",
         "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_45f68b1865d1",
+      "title": "消息人士称，人为 IPO 文件将显示人工智能的强烈反对是一个风险因素 / Anthropic IPO filing will show AI backlash as a risk factor, sources say",
+      "url": "https://news.ycombinator.com/item?id=49401229",
+      "primary_url": "https://news.ycombinator.com/item?id=49401229",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "53c1f3cf45dfa17d5f20edf41cc25040e57ef49a",
+          "title": "消息人士称，人为 IPO 文件将显示人工智能的强烈反对是一个风险因素 / Anthropic IPO filing will show AI backlash as a risk factor, sources say",
+          "url": "https://news.ycombinator.com/item?id=49401229",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-22T17:11:08.754000Z"
+        },
+        {
+          "id": "41337639170e8377fa3ca0c7fc5d554d61e9b0d8",
+          "title": "消息人士称，人为 IPO 文件将显示人工智能的强烈反对是一个风险因素 / Anthropic IPO filing will show AI backlash as a risk factor, sources say",
+          "url": "https://www.cnbc.com/2026/08/21/-anthropic-ipo-filing-will-show-ai-backlash-as-risk-sources-say.html",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-22T16:23:09Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "53c1f3cf45dfa17d5f20edf41cc25040e57ef49a",
+          "title": "消息人士称，人为 IPO 文件将显示人工智能的强烈反对是一个风险因素 / Anthropic IPO filing will show AI backlash as a risk factor, sources say",
+          "url": "https://news.ycombinator.com/item?id=49401229",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-22T17:11:08.754000Z"
+        },
+        {
+          "id": "41337639170e8377fa3ca0c7fc5d554d61e9b0d8",
+          "title": "消息人士称，人为 IPO 文件将显示人工智能的强烈反对是一个风险因素 / Anthropic IPO filing will show AI backlash as a risk factor, sources say",
+          "url": "https://www.cnbc.com/2026/08/21/-anthropic-ipo-filing-will-show-ai-backlash-as-risk-sources-say.html",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-22T16:23:09Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5177,
+      "importance": 0.5177,
+      "importance_score": 0.5177,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8483,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-22T16:23:09Z",
+      "latest_at": "2026-08-22T17:11:08.754000Z",
+      "primary_item": {
+        "id": "53c1f3cf45dfa17d5f20edf41cc25040e57ef49a",
+        "title": "消息人士称，人为 IPO 文件将显示人工智能的强烈反对是一个风险因素 / Anthropic IPO filing will show AI backlash as a risk factor, sources say",
+        "url": "https://news.ycombinator.com/item?id=49401229",
+        "source": "hackernews",
+        "source_name": "NewsNow"
       }
     },
     {
@@ -1223,14 +1301,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4909,
-      "importance": 0.4909,
-      "importance_score": 0.4909,
+      "score": 0.4873,
+      "importance": 0.4873,
+      "importance_score": 0.4873,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7144,
+        "recency": 0.6967,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1249,7 +1327,7 @@
     },
     {
       "story_id": "story_9de8e8e603c4",
-      "title": "Z80 – 1970 年代的微处理器仍然活跃 (2021) / Z80 – The 1970s Microprocessor Still Alive (2021)",
+      "title": "Z80——这款1970年代的微处理器依然活跃（2021） / Z80 – The 1970s Microprocessor Still Alive (2021)",
       "url": "https://www.computer.org/csdl/magazine/mi/2021/06/09623402/1yJTvlRLmhi",
       "primary_url": "https://www.computer.org/csdl/magazine/mi/2021/06/09623402/1yJTvlRLmhi",
       "source": "Hacker News · 24h最热",
@@ -1257,7 +1335,7 @@
       "sources": [
         {
           "id": "73a3b6e5d65b15e1d7866fa88a3b6e787e570d0d",
-          "title": "Z80 – 1970 年代的微处理器仍然活跃 (2021) / Z80 – The 1970s Microprocessor Still Alive (2021)",
+          "title": "Z80——这款1970年代的微处理器依然活跃（2021） / Z80 – The 1970s Microprocessor Still Alive (2021)",
           "url": "https://www.computer.org/csdl/magazine/mi/2021/06/09623402/1yJTvlRLmhi",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
@@ -1266,7 +1344,7 @@
         },
         {
           "id": "308d117682d313457f5e94defbd66fe6a142f9b3",
-          "title": "Z80——20 世纪 70 年代的微处理器仍然活跃 / Z80–The 1970s Microprocessor Still Alive",
+          "title": "Z80——这款1970年代的微处理器依然活跃（2021） / Z80–The 1970s Microprocessor Still Alive",
           "url": "https://www.computer.org/csdl/magazine/mi/2021/06/09623402/1yJTvlRLmhi",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
@@ -1281,7 +1359,7 @@
       "items": [
         {
           "id": "73a3b6e5d65b15e1d7866fa88a3b6e787e570d0d",
-          "title": "Z80 – 1970 年代的微处理器仍然活跃 (2021) / Z80 – The 1970s Microprocessor Still Alive (2021)",
+          "title": "Z80——这款1970年代的微处理器依然活跃（2021） / Z80 – The 1970s Microprocessor Still Alive (2021)",
           "url": "https://www.computer.org/csdl/magazine/mi/2021/06/09623402/1yJTvlRLmhi",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
@@ -1290,7 +1368,7 @@
         },
         {
           "id": "308d117682d313457f5e94defbd66fe6a142f9b3",
-          "title": "Z80——20 世纪 70 年代的微处理器仍然活跃 / Z80–The 1970s Microprocessor Still Alive",
+          "title": "Z80——这款1970年代的微处理器依然活跃（2021） / Z80–The 1970s Microprocessor Still Alive",
           "url": "https://www.computer.org/csdl/magazine/mi/2021/06/09623402/1yJTvlRLmhi",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
@@ -1300,14 +1378,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4599,
-      "importance": 0.4599,
-      "importance_score": 0.4599,
+      "score": 0.4564,
+      "importance": 0.4564,
+      "importance_score": 0.4564,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.5596,
+        "recency": 0.5419,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1318,7 +1396,7 @@
       "latest_at": "2026-08-22T09:49:57Z",
       "primary_item": {
         "id": "73a3b6e5d65b15e1d7866fa88a3b6e787e570d0d",
-        "title": "Z80 – 1970 年代的微处理器仍然活跃 (2021) / Z80 – The 1970s Microprocessor Still Alive (2021)",
+        "title": "Z80——这款1970年代的微处理器依然活跃（2021） / Z80 – The 1970s Microprocessor Still Alive (2021)",
         "url": "https://www.computer.org/csdl/magazine/mi/2021/06/09623402/1yJTvlRLmhi",
         "source": "Hacker News · 24h最热",
         "source_name": "Zeli"
@@ -1378,14 +1456,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4409,
-      "importance": 0.4409,
-      "importance_score": 0.4409,
+      "score": 0.4373,
+      "importance": 0.4373,
+      "importance_score": 0.4373,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.4644,
+        "recency": 0.4466,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1456,14 +1534,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4161,
-      "importance": 0.4161,
-      "importance_score": 0.4161,
+      "score": 0.4126,
+      "importance": 0.4126,
+      "importance_score": 0.4126,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.3405,
+        "recency": 0.3228,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1478,84 +1556,6 @@
         "url": "https://www.huxiu.com/article/4885100.html?f=rss",
         "source": "Readhub · AI",
         "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_c302d2d33537",
-      "title": "GPT 5.6 Sol 降价 20% / GPT 5.6 Sol 20% price reduction",
-      "url": "https://news.ycombinator.com/item?id=49396590",
-      "primary_url": "https://news.ycombinator.com/item?id=49396590",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "4652cf50d0631148283dcab33b554933ca36e4da",
-          "title": "GPT 5.6 Sol 降价 20% / GPT 5.6 Sol 20% price reduction",
-          "url": "https://news.ycombinator.com/item?id=49396590",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-22T06:48:04.985000Z"
-        },
-        {
-          "id": "fa358399f41d1dd2a221bcfd7f5f1e8204edc01c",
-          "title": "GPT 5.6 Sol 降价 20% / GPT 5.6 Sol 20% price reduction",
-          "url": "https://developers.openai.com/api/docs/models/gpt-5.6-sol",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-22T04:33:06Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "4652cf50d0631148283dcab33b554933ca36e4da",
-          "title": "GPT 5.6 Sol 降价 20% / GPT 5.6 Sol 20% price reduction",
-          "url": "https://news.ycombinator.com/item?id=49396590",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-22T06:48:04.985000Z"
-        },
-        {
-          "id": "fa358399f41d1dd2a221bcfd7f5f1e8204edc01c",
-          "title": "GPT 5.6 Sol 降价 20% / GPT 5.6 Sol 20% price reduction",
-          "url": "https://developers.openai.com/api/docs/models/gpt-5.6-sol",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-22T04:33:06Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4347,
-      "importance": 0.4347,
-      "importance_score": 0.4347,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.4333,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-22T04:33:06Z",
-      "latest_at": "2026-08-22T06:48:04.985000Z",
-      "primary_item": {
-        "id": "4652cf50d0631148283dcab33b554933ca36e4da",
-        "title": "GPT 5.6 Sol 降价 20% / GPT 5.6 Sol 20% price reduction",
-        "url": "https://news.ycombinator.com/item?id=49396590",
-        "source": "hackernews",
-        "source_name": "NewsNow"
       }
     }
   ]
