@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-22T15:47:21.235653Z",
+  "generated_at": "2026-08-22T16:25:58.228153Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,14 +38,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.799,
-      "importance": 0.799,
-      "importance_score": 0.799,
+      "score": 0.7936,
+      "importance": 0.7936,
+      "importance_score": 0.7936,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.935,
+        "recency": 0.9082,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -117,14 +117,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5701,
-      "importance": 0.5701,
-      "importance_score": 0.5701,
+      "score": 0.5648,
+      "importance": 0.5648,
+      "importance_score": 0.5648,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.5,
         "ai_relevance": 0.67,
-        "recency": 0.7206,
+        "recency": 0.6938,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -139,6 +139,84 @@
         "url": "https://www.infoq.cn/article/CQhb4TOREpEZshtqWZMy",
         "source": "InfoQ CN",
         "source_name": "OPML RSS"
+      }
+    },
+    {
+      "story_id": "story_3e284d11e91a",
+      "title": "林纳斯·托瓦兹利用人工智能排查英特尔GPU驱动程序中的一个错误",
+      "url": "https://github.com/torvalds/linux/commit/818bebeb63dd6bf5f4e07e145f6cdbace520a34c",
+      "primary_url": "https://github.com/torvalds/linux/commit/818bebeb63dd6bf5f4e07e145f6cdbace520a34c",
+      "source": "github.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "ab7ee90307777c1e4b896dcf9684832675e2c9e9",
+          "title": "林纳斯·托瓦兹利用人工智能排查英特尔GPU驱动程序中的一个错误",
+          "url": "https://github.com/torvalds/linux/commit/818bebeb63dd6bf5f4e07e145f6cdbace520a34c",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-22T16:21:29.526000Z"
+        },
+        {
+          "id": "d507c13caf2ff7b53ccbd6b054dc1f7798034692",
+          "title": "林纳斯·托瓦兹利用人工智能排查英特尔GPU驱动程序中的一个错误 / Linus Torvalds uses AI to debug an Intel GPU driver bug",
+          "url": "https://github.com/torvalds/linux/commit/818bebeb63dd6bf5f4e07e145f6cdbace520a34c",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-22T16:04:51Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Lobsters (技术社区)",
+        "github.com"
+      ],
+      "items": [
+        {
+          "id": "ab7ee90307777c1e4b896dcf9684832675e2c9e9",
+          "title": "林纳斯·托瓦兹利用人工智能排查英特尔GPU驱动程序中的一个错误",
+          "url": "https://github.com/torvalds/linux/commit/818bebeb63dd6bf5f4e07e145f6cdbace520a34c",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-22T16:21:29.526000Z"
+        },
+        {
+          "id": "d507c13caf2ff7b53ccbd6b054dc1f7798034692",
+          "title": "林纳斯·托瓦兹利用人工智能排查英特尔GPU驱动程序中的一个错误 / Linus Torvalds uses AI to debug an Intel GPU driver bug",
+          "url": "https://github.com/torvalds/linux/commit/818bebeb63dd6bf5f4e07e145f6cdbace520a34c",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-22T16:04:51Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5474,
+      "importance": 0.5474,
+      "importance_score": 0.5474,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9969,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-22T16:04:51Z",
+      "latest_at": "2026-08-22T16:21:29.526000Z",
+      "primary_item": {
+        "id": "ab7ee90307777c1e4b896dcf9684832675e2c9e9",
+        "title": "林纳斯·托瓦兹利用人工智能排查英特尔GPU驱动程序中的一个错误",
+        "url": "https://github.com/torvalds/linux/commit/818bebeb63dd6bf5f4e07e145f6cdbace520a34c",
+        "source": "github.com",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -195,14 +273,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.545,
-      "importance": 0.545,
-      "importance_score": 0.545,
+      "score": 0.5396,
+      "importance": 0.5396,
+      "importance_score": 0.5396,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.985,
+        "recency": 0.9582,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -273,14 +351,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5349,
-      "importance": 0.5349,
-      "importance_score": 0.5349,
+      "score": 0.5295,
+      "importance": 0.5295,
+      "importance_score": 0.5295,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9345,
+        "recency": 0.9077,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -351,14 +429,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5293,
-      "importance": 0.5293,
-      "importance_score": 0.5293,
+      "score": 0.524,
+      "importance": 0.524,
+      "importance_score": 0.524,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9066,
+        "recency": 0.8798,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -429,14 +507,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.523,
-      "importance": 0.523,
-      "importance_score": 0.523,
+      "score": 0.5177,
+      "importance": 0.5177,
+      "importance_score": 0.5177,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8751,
+        "recency": 0.8483,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -507,14 +585,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5293,
-      "importance": 0.5293,
-      "importance_score": 0.5293,
+      "score": 0.524,
+      "importance": 0.524,
+      "importance_score": 0.524,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9066,
+        "recency": 0.8798,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -584,14 +662,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4984,
-      "importance": 0.4984,
-      "importance_score": 0.4984,
+      "score": 0.493,
+      "importance": 0.493,
+      "importance_score": 0.493,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7518,
+        "recency": 0.725,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -662,14 +740,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4793,
-      "importance": 0.4793,
-      "importance_score": 0.4793,
+      "score": 0.474,
+      "importance": 0.474,
+      "importance_score": 0.474,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6566,
+        "recency": 0.6298,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -740,14 +818,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4731,
-      "importance": 0.4731,
-      "importance_score": 0.4731,
+      "score": 0.4677,
+      "importance": 0.4677,
+      "importance_score": 0.4677,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6255,
+        "recency": 0.5987,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -818,14 +896,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5293,
-      "importance": 0.5293,
-      "importance_score": 0.5293,
+      "score": 0.524,
+      "importance": 0.524,
+      "importance_score": 0.524,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9066,
+        "recency": 0.8798,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -840,84 +918,6 @@
         "url": "https://github.com/anthropics/claude-code",
         "source": "GitHub · Trending Today",
         "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_7b8d3d36b349",
-      "title": "当 GPU 读取内存时会发生什么",
-      "url": "https://blog.doubleword.ai/what-happens-when-a-gpu-reads-memory",
-      "primary_url": "https://blog.doubleword.ai/what-happens-when-a-gpu-reads-memory",
-      "source": "blog.doubleword.ai",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "66b1814af6e09df1a5e41162d4f667e018909d83",
-          "title": "当 GPU 读取内存时会发生什么",
-          "url": "https://blog.doubleword.ai/what-happens-when-a-gpu-reads-memory",
-          "source": "blog.doubleword.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-22T01:41:21.550000Z"
-        },
-        {
-          "id": "458a77585f2c278456dd8c1c742a7eb78cd7fa68",
-          "title": "当 GPU 读取内存时会发生什么 / What happens when a GPU reads memory",
-          "url": "https://blog.doubleword.ai/what-happens-when-a-gpu-reads-memory",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-21T16:16:42Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "blog.doubleword.ai"
-      ],
-      "items": [
-        {
-          "id": "66b1814af6e09df1a5e41162d4f667e018909d83",
-          "title": "当 GPU 读取内存时会发生什么",
-          "url": "https://blog.doubleword.ai/what-happens-when-a-gpu-reads-memory",
-          "source": "blog.doubleword.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-22T01:41:21.550000Z"
-        },
-        {
-          "id": "458a77585f2c278456dd8c1c742a7eb78cd7fa68",
-          "title": "当 GPU 读取内存时会发生什么 / What happens when a GPU reads memory",
-          "url": "https://blog.doubleword.ai/what-happens-when-a-gpu-reads-memory",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-21T16:16:42Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4305,
-      "importance": 0.4305,
-      "importance_score": 0.4305,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.4125,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-21T16:16:42Z",
-      "latest_at": "2026-08-22T01:41:21.550000Z",
-      "primary_item": {
-        "id": "66b1814af6e09df1a5e41162d4f667e018909d83",
-        "title": "当 GPU 读取内存时会发生什么",
-        "url": "https://blog.doubleword.ai/what-happens-when-a-gpu-reads-memory",
-        "source": "blog.doubleword.ai",
-        "source_name": "Buzzing"
       }
     },
     {
@@ -974,14 +974,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4545,
-      "importance": 0.4545,
-      "importance_score": 0.4545,
+      "score": 0.4492,
+      "importance": 0.4492,
+      "importance_score": 0.4492,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.5327,
+        "recency": 0.5059,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1052,14 +1052,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4261,
-      "importance": 0.4261,
-      "importance_score": 0.4261,
+      "score": 0.4207,
+      "importance": 0.4207,
+      "importance_score": 0.4207,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.3903,
+        "recency": 0.3635,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1130,14 +1130,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.3831,
-      "importance": 0.3831,
-      "importance_score": 0.3831,
+      "score": 0.3777,
+      "importance": 0.3777,
+      "importance_score": 0.3777,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.1754,
+        "recency": 0.1486,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1208,14 +1208,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.3727,
-      "importance": 0.3727,
-      "importance_score": 0.3727,
+      "score": 0.3674,
+      "importance": 0.3674,
+      "importance_score": 0.3674,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.1237,
+        "recency": 0.0969,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1305,14 +1305,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.3968,
-      "importance": 0.3968,
-      "importance_score": 0.3968,
+      "score": 0.3914,
+      "importance": 0.3914,
+      "importance_score": 0.3914,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.1191,
+        "recency": 0.0922,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1383,14 +1383,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.3638,
-      "importance": 0.3638,
-      "importance_score": 0.3638,
+      "score": 0.3585,
+      "importance": 0.3585,
+      "importance_score": 0.3585,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.0792,
+        "recency": 0.0524,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1461,14 +1461,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.3905,
-      "importance": 0.3905,
-      "importance_score": 0.3905,
+      "score": 0.3851,
+      "importance": 0.3851,
+      "importance_score": 0.3851,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.2125,
+        "recency": 0.1857,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1558,14 +1558,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.3968,
-      "importance": 0.3968,
-      "importance_score": 0.3968,
+      "score": 0.3914,
+      "importance": 0.3914,
+      "importance_score": 0.3914,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.1191,
+        "recency": 0.0922,
         "story_heat": 0.5
       },
       "category": "multi_source",
