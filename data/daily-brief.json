@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-23T18:31:53.570875Z",
+  "generated_at": "2026-08-23T19:22:47.208484Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -57,14 +57,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8011,
-      "importance": 0.8011,
-      "importance_score": 0.8011,
+      "score": 0.794,
+      "importance": 0.794,
+      "importance_score": 0.794,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8206,
+        "recency": 0.7852,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -137,14 +137,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6342,
-      "importance": 0.6342,
-      "importance_score": 0.6342,
+      "score": 0.6272,
+      "importance": 0.6272,
+      "importance_score": 0.6272,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.5,
         "ai_relevance": 0.74,
-        "recency": 0.9362,
+        "recency": 0.9008,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -253,14 +253,14 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5766,
-      "importance": 0.5766,
-      "importance_score": 0.5766,
+      "score": 0.5696,
+      "importance": 0.5696,
+      "importance_score": 0.5696,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8932,
+        "recency": 0.8578,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -275,6 +275,84 @@
         "url": "https://news.ycombinator.com/item?id=49409073",
         "source": "hackernews",
         "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_1a46c098bd02",
+      "title": "与人工智能相关的各种可靠性事故即将发生",
+      "url": "https://surfingcomplexity.blog/2026/08/22/wild-ai-related-reliability-incidents-are-coming",
+      "primary_url": "https://surfingcomplexity.blog/2026/08/22/wild-ai-related-reliability-incidents-are-coming",
+      "source": "surfingcomplexity.blog",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "d0b2fb2174cb2721294ab3d82296b821fe879b06",
+          "title": "与人工智能相关的各种可靠性事故即将发生",
+          "url": "https://surfingcomplexity.blog/2026/08/22/wild-ai-related-reliability-incidents-are-coming",
+          "source": "surfingcomplexity.blog",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-23T19:17:21.738000Z"
+        },
+        {
+          "id": "af2c1ff808b774474f87267f6f0446cb6fb789ce",
+          "title": "与人工智能相关的各种可靠性事故即将发生 / Wild AI-related reliability incidents are coming",
+          "url": "https://surfingcomplexity.blog/2026/08/22/wild-ai-related-reliability-incidents-are-coming",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-23T19:04:41Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Lobsters (技术社区)",
+        "surfingcomplexity.blog"
+      ],
+      "items": [
+        {
+          "id": "d0b2fb2174cb2721294ab3d82296b821fe879b06",
+          "title": "与人工智能相关的各种可靠性事故即将发生",
+          "url": "https://surfingcomplexity.blog/2026/08/22/wild-ai-related-reliability-incidents-are-coming",
+          "source": "surfingcomplexity.blog",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-23T19:17:21.738000Z"
+        },
+        {
+          "id": "af2c1ff808b774474f87267f6f0446cb6fb789ce",
+          "title": "与人工智能相关的各种可靠性事故即将发生 / Wild AI-related reliability incidents are coming",
+          "url": "https://surfingcomplexity.blog/2026/08/22/wild-ai-related-reliability-incidents-are-coming",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-23T19:04:41Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5472,
+      "importance": 0.5472,
+      "importance_score": 0.5472,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9962,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-23T19:04:41Z",
+      "latest_at": "2026-08-23T19:17:21.738000Z",
+      "primary_item": {
+        "id": "d0b2fb2174cb2721294ab3d82296b821fe879b06",
+        "title": "与人工智能相关的各种可靠性事故即将发生",
+        "url": "https://surfingcomplexity.blog/2026/08/22/wild-ai-related-reliability-incidents-are-coming",
+        "source": "surfingcomplexity.blog",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -331,14 +409,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.541,
-      "importance": 0.541,
-      "importance_score": 0.541,
+      "score": 0.5339,
+      "importance": 0.5339,
+      "importance_score": 0.5339,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9648,
+        "recency": 0.9294,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -409,14 +487,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5219,
-      "importance": 0.5219,
-      "importance_score": 0.5219,
+      "score": 0.5148,
+      "importance": 0.5148,
+      "importance_score": 0.5148,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8695,
+        "recency": 0.8342,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -451,18 +529,18 @@
           "published_at": "2026-08-23T18:32:26.926000Z"
         },
         {
-          "id": "c0a9f3a97aedd5c749ca435176470dd8314488f0",
+          "id": "f88a20bc84d1bd0d55e27dc4dc4ef9327bf9427a",
           "title": "We must not grant AI agents legal personhood",
           "url": "https://www.ft.com/content/b8cc4bf4-6d3c-4974-8428-9a091983c473",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
           "published_at": "2026-08-23T17:25:03Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News (黑客新闻)",
+        "Hacker News",
         "hackernews"
       ],
       "items": [
@@ -476,25 +554,25 @@
           "published_at": "2026-08-23T18:32:26.926000Z"
         },
         {
-          "id": "c0a9f3a97aedd5c749ca435176470dd8314488f0",
+          "id": "f88a20bc84d1bd0d55e27dc4dc4ef9327bf9427a",
           "title": "We must not grant AI agents legal personhood",
           "url": "https://www.ft.com/content/b8cc4bf4-6d3c-4974-8428-9a091983c473",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
           "published_at": "2026-08-23T17:25:03Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.548,
-      "importance": 0.548,
-      "importance_score": 0.548,
+      "score": 0.541,
+      "importance": 0.541,
+      "importance_score": 0.541,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.965,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -565,14 +643,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4988,
-      "importance": 0.4988,
-      "importance_score": 0.4988,
+      "score": 0.4917,
+      "importance": 0.4917,
+      "importance_score": 0.4917,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7538,
+        "recency": 0.7185,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -642,14 +720,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4921,
-      "importance": 0.4921,
-      "importance_score": 0.4921,
+      "score": 0.485,
+      "importance": 0.485,
+      "importance_score": 0.485,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7204,
+        "recency": 0.685,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -720,14 +798,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4883,
-      "importance": 0.4883,
-      "importance_score": 0.4883,
+      "score": 0.4813,
+      "importance": 0.4813,
+      "importance_score": 0.4813,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7017,
+        "recency": 0.6663,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -798,14 +876,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5137,
-      "importance": 0.5137,
-      "importance_score": 0.5137,
+      "score": 0.5066,
+      "importance": 0.5066,
+      "importance_score": 0.5066,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8283,
+        "recency": 0.793,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -876,14 +954,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4788,
-      "importance": 0.4788,
-      "importance_score": 0.4788,
+      "score": 0.4717,
+      "importance": 0.4717,
+      "importance_score": 0.4717,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.654,
+        "recency": 0.6186,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -954,14 +1032,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.535,
-      "importance": 0.535,
-      "importance_score": 0.535,
+      "score": 0.528,
+      "importance": 0.528,
+      "importance_score": 0.528,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9351,
+        "recency": 0.8998,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1031,14 +1109,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4588,
-      "importance": 0.4588,
-      "importance_score": 0.4588,
+      "score": 0.4517,
+      "importance": 0.4517,
+      "importance_score": 0.4517,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.554,
+        "recency": 0.5186,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1109,14 +1187,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4883,
-      "importance": 0.4883,
-      "importance_score": 0.4883,
+      "score": 0.4813,
+      "importance": 0.4813,
+      "importance_score": 0.4813,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7017,
+        "recency": 0.6663,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1187,14 +1265,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4883,
-      "importance": 0.4883,
-      "importance_score": 0.4883,
+      "score": 0.4813,
+      "importance": 0.4813,
+      "importance_score": 0.4813,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7017,
+        "recency": 0.6663,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1265,14 +1343,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.484,
-      "importance": 0.484,
-      "importance_score": 0.484,
+      "score": 0.4769,
+      "importance": 0.4769,
+      "importance_score": 0.4769,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6799,
+        "recency": 0.6446,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1342,14 +1420,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4231,
-      "importance": 0.4231,
-      "importance_score": 0.4231,
+      "score": 0.416,
+      "importance": 0.416,
+      "importance_score": 0.416,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.3754,
+        "recency": 0.34,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1420,14 +1498,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4033,
-      "importance": 0.4033,
-      "importance_score": 0.4033,
+      "score": 0.3962,
+      "importance": 0.3962,
+      "importance_score": 0.3962,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.2765,
+        "recency": 0.2412,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1498,14 +1576,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4804,
-      "importance": 0.4804,
-      "importance_score": 0.4804,
+      "score": 0.4734,
+      "importance": 0.4734,
+      "importance_score": 0.4734,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6622,
+        "recency": 0.6268,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1520,84 +1598,6 @@
         "url": "https://www.ithome.com/0/993/242.htm",
         "source": "Readhub · AI",
         "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_18837430aeb7",
-      "title": "一款神秘的免费AI模型正让开发者们赞叹不已。而谁也搞不清它究竟是谁开发的。",
-      "url": "https://www.businessinsider.com/ox-alpha-ai-model-mystery-2026-8",
-      "primary_url": "https://www.businessinsider.com/ox-alpha-ai-model-mystery-2026-8",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "e80361b3dc4bfd2b38ceea461b389b9f1f15aaef",
-          "title": "一款神秘的免费AI模型正让开发者们赞叹不已。而谁也搞不清它究竟是谁开发的。",
-          "url": "https://www.businessinsider.com/ox-alpha-ai-model-mystery-2026-8",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-22T20:53:16.928000Z"
-        },
-        {
-          "id": "00e7c9b8c5c6db7ded59d314068e5c7f631c33de",
-          "title": "一款神秘的免费AI模型正让开发者们赞叹不已。而谁也搞不清它究竟是谁开发的。 / A mysterious free AI model is impressing developers. And nobody knows who made it.",
-          "url": "https://www.businessinsider.com/ox-alpha-ai-model-mystery-2026-8",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-22T20:46:35Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "e80361b3dc4bfd2b38ceea461b389b9f1f15aaef",
-          "title": "一款神秘的免费AI模型正让开发者们赞叹不已。而谁也搞不清它究竟是谁开发的。",
-          "url": "https://www.businessinsider.com/ox-alpha-ai-model-mystery-2026-8",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-22T20:53:16.928000Z"
-        },
-        {
-          "id": "00e7c9b8c5c6db7ded59d314068e5c7f631c33de",
-          "title": "一款神秘的免费AI模型正让开发者们赞叹不已。而谁也搞不清它究竟是谁开发的。 / A mysterious free AI model is impressing developers. And nobody knows who made it.",
-          "url": "https://www.businessinsider.com/ox-alpha-ai-model-mystery-2026-8",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-22T20:46:35Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.3676,
-      "importance": 0.3676,
-      "importance_score": 0.3676,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.0982,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-22T20:46:35Z",
-      "latest_at": "2026-08-22T20:53:16.928000Z",
-      "primary_item": {
-        "id": "e80361b3dc4bfd2b38ceea461b389b9f1f15aaef",
-        "title": "一款神秘的免费AI模型正让开发者们赞叹不已。而谁也搞不清它究竟是谁开发的。",
-        "url": "https://www.businessinsider.com/ox-alpha-ai-model-mystery-2026-8",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
       }
     }
   ]
