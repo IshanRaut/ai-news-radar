@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T02:46:28.063446Z",
+  "generated_at": "2026-08-24T03:55:27.518245Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,14 +38,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8709,
-      "importance": 0.8709,
-      "importance_score": 0.8709,
+      "score": 0.8613,
+      "importance": 0.8613,
+      "importance_score": 0.8613,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.8844,
+        "recency": 0.8365,
         "story_heat": 0.0
       },
       "category": "official",
@@ -62,6 +62,86 @@
         "url": "https://developers.openai.com/codex/changelog",
         "source": "OpenAI Codex Changelog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_991ee8a81694",
+      "title": "OpenAI 高管勒汉恩警告：AI 已能策划网络攻击，公众企业须备好防御",
+      "url": "https://www.aibase.com/news/30560",
+      "primary_url": "https://www.aibase.com/news/30560",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "8d89245121d571a0818783bedc56d65364697144",
+          "title": "OpenAI 高管勒汉恩警告：AI 已能策划网络攻击，公众企业须备好防御",
+          "url": "https://www.aibase.com/news/30560",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-24T03:55:27.518245Z"
+        },
+        {
+          "id": "bdea7984fa87d65547d7eb8870818cbb7e201060",
+          "title": "OpenAI 高管警告：AI 已能策划网络攻击，公众企业须备好防御",
+          "url": "https://www.aibase.com/zh/news/30560",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "8d89245121d571a0818783bedc56d65364697144",
+          "title": "OpenAI 高管勒汉恩警告：AI 已能策划网络攻击，公众企业须备好防御",
+          "url": "https://www.aibase.com/news/30560",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-24T03:55:27.518245Z"
+        },
+        {
+          "id": "bdea7984fa87d65547d7eb8870818cbb7e201060",
+          "title": "OpenAI 高管警告：AI 已能策划网络攻击，公众企业须备好防御",
+          "url": "https://www.aibase.com/zh/news/30560",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.837,
+      "importance": 0.837,
+      "importance_score": 0.837,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-24T03:55:27.518245Z",
+      "latest_at": "2026-08-24T03:55:27.518245Z",
+      "primary_item": {
+        "id": "8d89245121d571a0818783bedc56d65364697144",
+        "title": "OpenAI 高管勒汉恩警告：AI 已能策划网络攻击，公众企业须备好防御",
+        "url": "https://www.aibase.com/news/30560",
+        "source": "AIbase",
+        "source_name": "AIbase"
       }
     },
     {
@@ -118,14 +198,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.837,
-      "importance": 0.837,
-      "importance_score": 0.837,
+      "score": 0.8274,
+      "importance": 0.8274,
+      "importance_score": 0.8274,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9521,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -142,6 +222,245 @@
         "url": "https://www.aibase.com/news/30552",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_0306830ec32d",
+      "title": "Twitch 遭千名主播集体起诉：亚马逊默认用直播内容\"喂\"AI，退出还不具追溯力",
+      "url": "https://www.aibase.com/news/30558",
+      "primary_url": "https://www.aibase.com/news/30558",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "57e2cc3d002218cd87f25db85146a04e65b16caf",
+          "title": "Twitch 遭千名主播集体起诉：亚马逊默认用直播内容\"喂\"AI，退出还不具追溯力",
+          "url": "https://www.aibase.com/news/30558",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-24T02:46:28.063446Z"
+        },
+        {
+          "id": "3011dfe6033c76d2c1dc5e7c1ac91715ef0dcc7b",
+          "title": "Twitch 遭千名主播集体起诉：默认用直播内容训练 AI，退出不具追溯力",
+          "url": "https://www.aibase.com/zh/news/30558",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "57e2cc3d002218cd87f25db85146a04e65b16caf",
+          "title": "Twitch 遭千名主播集体起诉：亚马逊默认用直播内容\"喂\"AI，退出还不具追溯力",
+          "url": "https://www.aibase.com/news/30558",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-24T02:46:28.063446Z"
+        },
+        {
+          "id": "3011dfe6033c76d2c1dc5e7c1ac91715ef0dcc7b",
+          "title": "Twitch 遭千名主播集体起诉：默认用直播内容训练 AI，退出不具追溯力",
+          "url": "https://www.aibase.com/zh/news/30558",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8274,
+      "importance": 0.8274,
+      "importance_score": 0.8274,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9521,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-24T02:46:28.063446Z",
+      "latest_at": "2026-08-24T03:55:27.518245Z",
+      "primary_item": {
+        "id": "57e2cc3d002218cd87f25db85146a04e65b16caf",
+        "title": "Twitch 遭千名主播集体起诉：亚马逊默认用直播内容\"喂\"AI，退出还不具追溯力",
+        "url": "https://www.aibase.com/news/30558",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_ada324755350",
+      "title": "数学自动形式化迎来重大突破：OpenBMB开源MathForm，8B模型凭实力逆袭大厂",
+      "url": "https://www.aibase.com/news/30559",
+      "primary_url": "https://www.aibase.com/news/30559",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "10d87719f2c90ba714e41fd69658b4b72da765de",
+          "title": "数学自动形式化迎来重大突破：OpenBMB开源MathForm，8B模型凭实力逆袭大厂",
+          "url": "https://www.aibase.com/news/30559",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-24T02:46:28.063446Z"
+        },
+        {
+          "id": "2d4762eeed891b3f8d519ecba0f1c88bacdce322",
+          "title": "数学自动形式化迎来重大突破：OpenBMB 开源 MathForm，8B 模型凭实力逆袭大厂",
+          "url": "https://www.aibase.com/zh/news/30559",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "10d87719f2c90ba714e41fd69658b4b72da765de",
+          "title": "数学自动形式化迎来重大突破：OpenBMB开源MathForm，8B模型凭实力逆袭大厂",
+          "url": "https://www.aibase.com/news/30559",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-24T02:46:28.063446Z"
+        },
+        {
+          "id": "2d4762eeed891b3f8d519ecba0f1c88bacdce322",
+          "title": "数学自动形式化迎来重大突破：OpenBMB 开源 MathForm，8B 模型凭实力逆袭大厂",
+          "url": "https://www.aibase.com/zh/news/30559",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8274,
+      "importance": 0.8274,
+      "importance_score": 0.8274,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9521,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-24T02:46:28.063446Z",
+      "latest_at": "2026-08-24T03:55:27.518245Z",
+      "primary_item": {
+        "id": "10d87719f2c90ba714e41fd69658b4b72da765de",
+        "title": "数学自动形式化迎来重大突破：OpenBMB开源MathForm，8B模型凭实力逆袭大厂",
+        "url": "https://www.aibase.com/news/30559",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_a72ab559c387",
+      "title": "OpenAI 首席全球事务官勒汉恩：公众、企业要为 AI 网络攻击做好防御准备",
+      "url": "https://aihot.virxact.com/items/cmt5wf8hm0shgro737h9vww1k",
+      "primary_url": "https://aihot.virxact.com/items/cmt5wf8hm0shgro737h9vww1k",
+      "source": "IT之家（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "44fb3f64f0cf69af55086fe18b857946ebf44b78",
+          "title": "OpenAI 首席全球事务官勒汉恩：公众、企业要为 AI 网络攻击做好防御准备",
+          "url": "https://aihot.virxact.com/items/cmt5wf8hm0shgro737h9vww1k",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-23T14:13:31Z"
+        },
+        {
+          "id": "e08b85a5befca347785601c7fe696a185fb0049e",
+          "title": "OpenAI 首席全球事务官勒汉恩：公众、企业要为 AI 网络攻击做好防御准备",
+          "url": "https://www.ithome.com/0/993/305.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "IT之家（RSS）",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "44fb3f64f0cf69af55086fe18b857946ebf44b78",
+          "title": "OpenAI 首席全球事务官勒汉恩：公众、企业要为 AI 网络攻击做好防御准备",
+          "url": "https://aihot.virxact.com/items/cmt5wf8hm0shgro737h9vww1k",
+          "source": "IT之家（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-08-23T14:13:31Z"
+        },
+        {
+          "id": "e08b85a5befca347785601c7fe696a185fb0049e",
+          "title": "OpenAI 首席全球事务官勒汉恩：公众、企业要为 AI 网络攻击做好防御准备",
+          "url": "https://www.ithome.com/0/993/305.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7228,
+      "importance": 0.7228,
+      "importance_score": 0.7228,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.4292,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-08-23T14:13:31Z",
+      "latest_at": "2026-08-23T14:50:32.561534Z",
+      "primary_item": {
+        "id": "44fb3f64f0cf69af55086fe18b857946ebf44b78",
+        "title": "OpenAI 首席全球事务官勒汉恩：公众、企业要为 AI 网络攻击做好防御准备",
+        "url": "https://aihot.virxact.com/items/cmt5wf8hm0shgro737h9vww1k",
+        "source": "IT之家（RSS）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -198,14 +517,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.837,
-      "importance": 0.837,
-      "importance_score": 0.837,
+      "score": 0.8274,
+      "importance": 0.8274,
+      "importance_score": 0.8274,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9521,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -278,14 +597,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8255,
-      "importance": 0.8255,
-      "importance_score": 0.8255,
+      "score": 0.8159,
+      "importance": 0.8159,
+      "importance_score": 0.8159,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9423,
+        "recency": 0.8944,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -358,14 +677,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8255,
-      "importance": 0.8255,
-      "importance_score": 0.8255,
+      "score": 0.8159,
+      "importance": 0.8159,
+      "importance_score": 0.8159,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9423,
+        "recency": 0.8944,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -382,85 +701,6 @@
         "url": "https://www.aibase.com/news/30540",
         "source": "AIbase",
         "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_a72ab559c387",
-      "title": "OpenAI 首席全球事务官勒汉恩：公众、企业要为 AI 网络攻击做好防御准备",
-      "url": "https://aihot.virxact.com/items/cmt5wf8hm0shgro737h9vww1k",
-      "primary_url": "https://aihot.virxact.com/items/cmt5wf8hm0shgro737h9vww1k",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "44fb3f64f0cf69af55086fe18b857946ebf44b78",
-          "title": "OpenAI 首席全球事务官勒汉恩：公众、企业要为 AI 网络攻击做好防御准备",
-          "url": "https://aihot.virxact.com/items/cmt5wf8hm0shgro737h9vww1k",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-23T14:13:31Z"
-        },
-        {
-          "id": "e08b85a5befca347785601c7fe696a185fb0049e",
-          "title": "OpenAI 首席全球事务官勒汉恩：公众、企业要为 AI 网络攻击做好防御准备",
-          "url": "https://www.ithome.com/0/993/305.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "IT之家（RSS）",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "44fb3f64f0cf69af55086fe18b857946ebf44b78",
-          "title": "OpenAI 首席全球事务官勒汉恩：公众、企业要为 AI 网络攻击做好防御准备",
-          "url": "https://aihot.virxact.com/items/cmt5wf8hm0shgro737h9vww1k",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-08-23T14:13:31Z"
-        },
-        {
-          "id": "e08b85a5befca347785601c7fe696a185fb0049e",
-          "title": "OpenAI 首席全球事务官勒汉恩：公众、企业要为 AI 网络攻击做好防御准备",
-          "url": "https://www.ithome.com/0/993/305.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.7324,
-      "importance": 0.7324,
-      "importance_score": 0.7324,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.4771,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-08-23T14:13:31Z",
-      "latest_at": "2026-08-23T14:50:32.561534Z",
-      "primary_item": {
-        "id": "44fb3f64f0cf69af55086fe18b857946ebf44b78",
-        "title": "OpenAI 首席全球事务官勒汉恩：公众、企业要为 AI 网络攻击做好防御准备",
-        "url": "https://aihot.virxact.com/items/cmt5wf8hm0shgro737h9vww1k",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
       }
     },
     {
@@ -517,14 +757,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8255,
-      "importance": 0.8255,
-      "importance_score": 0.8255,
+      "score": 0.8159,
+      "importance": 0.8159,
+      "importance_score": 0.8159,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9423,
+        "recency": 0.8944,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -539,246 +779,6 @@
         "id": "37a0f9f3376cf7eb60e112c74fd8a8023af3c949",
         "title": "匿名模型Ox Alpha登顶OpenRouter，累计调用量超4万亿Token",
         "url": "https://www.aibase.com/news/30549",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_3ad51a196cf7",
-      "title": "哈佛商学院引入AI虚拟导师，699美元创业训练营上线",
-      "url": "https://www.aibase.com/news/30541",
-      "primary_url": "https://www.aibase.com/news/30541",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "efd7019ed330dc5ba0a3965ffd4f41fc259e9961",
-          "title": "哈佛商学院引入AI虚拟导师，699美元创业训练营上线",
-          "url": "https://www.aibase.com/news/30541",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-24T01:23:24.572510Z"
-        },
-        {
-          "id": "f02adedacfa2cf0b758086081dcc668fa299c5af",
-          "title": "哈佛商学院引入 AI 虚拟导师，699 美元创业训练营上线",
-          "url": "https://www.aibase.com/zh/news/30541",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "efd7019ed330dc5ba0a3965ffd4f41fc259e9961",
-          "title": "哈佛商学院引入AI虚拟导师，699美元创业训练营上线",
-          "url": "https://www.aibase.com/news/30541",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-24T01:23:24.572510Z"
-        },
-        {
-          "id": "f02adedacfa2cf0b758086081dcc668fa299c5af",
-          "title": "哈佛商学院引入 AI 虚拟导师，699 美元创业训练营上线",
-          "url": "https://www.aibase.com/zh/news/30541",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8255,
-      "importance": 0.8255,
-      "importance_score": 0.8255,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9423,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-24T01:23:24.572510Z",
-      "latest_at": "2026-08-24T01:23:24.572510Z",
-      "primary_item": {
-        "id": "efd7019ed330dc5ba0a3965ffd4f41fc259e9961",
-        "title": "哈佛商学院引入AI虚拟导师，699美元创业训练营上线",
-        "url": "https://www.aibase.com/news/30541",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_c4590dd576ad",
-      "title": "得州州长阿博特：AI 数据中心遭反对，是行业\"自掘坟墓\"",
-      "url": "https://www.aibase.com/news/30542",
-      "primary_url": "https://www.aibase.com/news/30542",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "72dd2497657a2a8ec2b272dc1fc7fa963c9a4fcc",
-          "title": "得州州长阿博特：AI 数据中心遭反对，是行业\"自掘坟墓\"",
-          "url": "https://www.aibase.com/news/30542",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-24T01:23:24.572510Z"
-        },
-        {
-          "id": "c2562b265409f605023881a78599d89537c711cf",
-          "title": "得州州长阿博特：AI 数据中心遭反对，是行业「自掘坟墓」",
-          "url": "https://www.aibase.com/zh/news/30542",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "72dd2497657a2a8ec2b272dc1fc7fa963c9a4fcc",
-          "title": "得州州长阿博特：AI 数据中心遭反对，是行业\"自掘坟墓\"",
-          "url": "https://www.aibase.com/news/30542",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-24T01:23:24.572510Z"
-        },
-        {
-          "id": "c2562b265409f605023881a78599d89537c711cf",
-          "title": "得州州长阿博特：AI 数据中心遭反对，是行业「自掘坟墓」",
-          "url": "https://www.aibase.com/zh/news/30542",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8255,
-      "importance": 0.8255,
-      "importance_score": 0.8255,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9423,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-24T01:23:24.572510Z",
-      "latest_at": "2026-08-24T01:23:24.572510Z",
-      "primary_item": {
-        "id": "72dd2497657a2a8ec2b272dc1fc7fa963c9a4fcc",
-        "title": "得州州长阿博特：AI 数据中心遭反对，是行业\"自掘坟墓\"",
-        "url": "https://www.aibase.com/news/30542",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_1a84e035a21e",
-      "title": "阿里巴巴拟配售800亿港元新股，资金将全部投入AI",
-      "url": "https://www.aibase.com/news/30546",
-      "primary_url": "https://www.aibase.com/news/30546",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "12dd95b47291ed8b77b48beeb8b02c99586926e2",
-          "title": "阿里巴巴拟配售800亿港元新股，资金将全部投入AI",
-          "url": "https://www.aibase.com/news/30546",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-24T01:23:24.572510Z"
-        },
-        {
-          "id": "3e4bc54c043cd14a3c0e99e0ccbd3aeb4b785f2b",
-          "title": "阿里巴巴拟配售800亿港元新股，资金将全部投入AI",
-          "url": "https://www.aibase.com/zh/news/30546",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "AIbase",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "12dd95b47291ed8b77b48beeb8b02c99586926e2",
-          "title": "阿里巴巴拟配售800亿港元新股，资金将全部投入AI",
-          "url": "https://www.aibase.com/news/30546",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-24T01:23:24.572510Z"
-        },
-        {
-          "id": "3e4bc54c043cd14a3c0e99e0ccbd3aeb4b785f2b",
-          "title": "阿里巴巴拟配售800亿港元新股，资金将全部投入AI",
-          "url": "https://www.aibase.com/zh/news/30546",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8255,
-      "importance": 0.8255,
-      "importance_score": 0.8255,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9423,
-        "story_heat": 0.25
-      },
-      "category": "industry",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-24T01:23:24.572510Z",
-      "latest_at": "2026-08-24T02:46:28.063446Z",
-      "primary_item": {
-        "id": "12dd95b47291ed8b77b48beeb8b02c99586926e2",
-        "title": "阿里巴巴拟配售800亿港元新股，资金将全部投入AI",
-        "url": "https://www.aibase.com/news/30546",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -856,14 +856,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.61,
-      "importance": 0.61,
-      "importance_score": 0.61,
+      "score": 0.6004,
+      "importance": 0.6004,
+      "importance_score": 0.6004,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.5,
         "ai_relevance": 0.71,
-        "recency": 0.735,
+        "recency": 0.6871,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -881,61 +881,81 @@
       }
     },
     {
-      "story_id": "story_5c0e80471009",
-      "title": "IPO 前商业模式遭质疑：Anthropic 最强模型遇冷，中国实惠模型受青睐",
-      "url": "https://www.aibase.com/news/30554",
-      "primary_url": "https://www.aibase.com/news/30554",
+      "story_id": "story_3ad51a196cf7",
+      "title": "哈佛商学院引入AI虚拟导师，699美元创业训练营上线",
+      "url": "https://www.aibase.com/news/30541",
+      "primary_url": "https://www.aibase.com/news/30541",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "a28a03248cf724e4a9448b841310aba79609be86",
-          "title": "IPO 前商业模式遭质疑：Anthropic 最强模型遇冷，中国实惠模型受青睐",
-          "url": "https://www.aibase.com/news/30554",
+          "id": "efd7019ed330dc5ba0a3965ffd4f41fc259e9961",
+          "title": "哈佛商学院引入AI虚拟导师，699美元创业训练营上线",
+          "url": "https://www.aibase.com/news/30541",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-24T02:46:28.063446Z"
+          "published_at": "2026-08-24T01:23:24.572510Z"
+        },
+        {
+          "id": "f02adedacfa2cf0b758086081dcc668fa299c5af",
+          "title": "哈佛商学院引入 AI 虚拟导师，699 美元创业训练营上线",
+          "url": "https://www.aibase.com/zh/news/30541",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "AIbase"
+        "AIbase",
+        "Readhub · AI"
       ],
       "items": [
         {
-          "id": "a28a03248cf724e4a9448b841310aba79609be86",
-          "title": "IPO 前商业模式遭质疑：Anthropic 最强模型遇冷，中国实惠模型受青睐",
-          "url": "https://www.aibase.com/news/30554",
+          "id": "efd7019ed330dc5ba0a3965ffd4f41fc259e9961",
+          "title": "哈佛商学院引入AI虚拟导师，699美元创业训练营上线",
+          "url": "https://www.aibase.com/news/30541",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-24T02:46:28.063446Z"
+          "published_at": "2026-08-24T01:23:24.572510Z"
+        },
+        {
+          "id": "f02adedacfa2cf0b758086081dcc668fa299c5af",
+          "title": "哈佛商学院引入 AI 虚拟导师，699 美元创业训练营上线",
+          "url": "https://www.aibase.com/zh/news/30541",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8159,
+      "importance": 0.8159,
+      "importance_score": 0.8159,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
+        "recency": 0.8944,
+        "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
+        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-24T02:46:28.063446Z",
-      "latest_at": "2026-08-24T02:46:28.063446Z",
+      "earliest_at": "2026-08-24T01:23:24.572510Z",
+      "latest_at": "2026-08-24T01:23:24.572510Z",
       "primary_item": {
-        "id": "a28a03248cf724e4a9448b841310aba79609be86",
-        "title": "IPO 前商业模式遭质疑：Anthropic 最强模型遇冷，中国实惠模型受青睐",
-        "url": "https://www.aibase.com/news/30554",
+        "id": "efd7019ed330dc5ba0a3965ffd4f41fc259e9961",
+        "title": "哈佛商学院引入AI虚拟导师，699美元创业训练营上线",
+        "url": "https://www.aibase.com/news/30541",
         "source": "AIbase",
         "source_name": "AIbase"
       }
@@ -994,14 +1014,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5655,
-      "importance": 0.5655,
-      "importance_score": 0.5655,
+      "score": 0.556,
+      "importance": 0.556,
+      "importance_score": 0.556,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.5,
         "ai_relevance": 0.74,
-        "recency": 0.5927,
+        "recency": 0.5448,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1089,14 +1109,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5595,
-      "importance": 0.5595,
-      "importance_score": 0.5595,
+      "score": 0.5499,
+      "importance": 0.5499,
+      "importance_score": 0.5499,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9325,
+        "recency": 0.8846,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1114,63 +1134,319 @@
       }
     },
     {
-      "story_id": "story_0306830ec32d",
-      "title": "Twitch 遭千名主播集体起诉：亚马逊默认用直播内容\"喂\"AI，退出还不具追溯力",
-      "url": "https://www.aibase.com/news/30558",
-      "primary_url": "https://www.aibase.com/news/30558",
+      "story_id": "story_5d36aa2deb2b",
+      "title": "I built a low-latency AI companion that plays Skyrim with me",
+      "url": "https://news.ycombinator.com/item?id=49413561",
+      "primary_url": "https://news.ycombinator.com/item?id=49413561",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "de944271ecd33a6359ee0e70e78a087541e85e26",
+          "title": "I built a low-latency AI companion that plays Skyrim with me",
+          "url": "https://news.ycombinator.com/item?id=49413561",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-24T03:55:59.262000Z"
+        },
+        {
+          "id": "9394d313e861a7a629a9a3b75e9a7713848fea90",
+          "title": "I built a low-latency AI companion that plays Skyrim with me",
+          "url": "https://pantel.is/projects/ai-gaming-companion",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-23T23:18:17Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "de944271ecd33a6359ee0e70e78a087541e85e26",
+          "title": "I built a low-latency AI companion that plays Skyrim with me",
+          "url": "https://news.ycombinator.com/item?id=49413561",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-24T03:55:59.262000Z"
+        },
+        {
+          "id": "9394d313e861a7a629a9a3b75e9a7713848fea90",
+          "title": "I built a low-latency AI companion that plays Skyrim with me",
+          "url": "https://pantel.is/projects/ai-gaming-companion",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-08-23T23:18:17Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.548,
+      "importance": 0.548,
+      "importance_score": 0.548,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-23T23:18:17Z",
+      "latest_at": "2026-08-24T03:55:59.262000Z",
+      "primary_item": {
+        "id": "de944271ecd33a6359ee0e70e78a087541e85e26",
+        "title": "I built a low-latency AI companion that plays Skyrim with me",
+        "url": "https://news.ycombinator.com/item?id=49413561",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_8540a8e49a7b",
+      "title": "得州州长阿博特：AI 数据中心遭反对，是行业\"自掘坟墓\"",
+      "url": "https://www.aibase.com/news/30542",
+      "primary_url": "https://www.aibase.com/news/30542",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "57e2cc3d002218cd87f25db85146a04e65b16caf",
-          "title": "Twitch 遭千名主播集体起诉：亚马逊默认用直播内容\"喂\"AI，退出还不具追溯力",
-          "url": "https://www.aibase.com/news/30558",
+          "id": "72dd2497657a2a8ec2b272dc1fc7fa963c9a4fcc",
+          "title": "得州州长阿博特：AI 数据中心遭反对，是行业\"自掘坟墓\"",
+          "url": "https://www.aibase.com/news/30542",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-24T02:46:28.063446Z"
+          "published_at": "2026-08-24T01:23:24.572510Z"
+        },
+        {
+          "id": "c2562b265409f605023881a78599d89537c711cf",
+          "title": "得州州长阿博特：AI 数据中心遭反对，是行业「自掘坟墓」",
+          "url": "https://www.aibase.com/zh/news/30542",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "AIbase"
+        "AIbase",
+        "Readhub · AI"
       ],
       "items": [
         {
-          "id": "57e2cc3d002218cd87f25db85146a04e65b16caf",
-          "title": "Twitch 遭千名主播集体起诉：亚马逊默认用直播内容\"喂\"AI，退出还不具追溯力",
-          "url": "https://www.aibase.com/news/30558",
+          "id": "72dd2497657a2a8ec2b272dc1fc7fa963c9a4fcc",
+          "title": "得州州长阿博特：AI 数据中心遭反对，是行业\"自掘坟墓\"",
+          "url": "https://www.aibase.com/news/30542",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-08-24T02:46:28.063446Z"
+          "published_at": "2026-08-24T01:23:24.572510Z"
+        },
+        {
+          "id": "c2562b265409f605023881a78599d89537c711cf",
+          "title": "得州州长阿博特：AI 数据中心遭反对，是行业「自掘坟墓」",
+          "url": "https://www.aibase.com/zh/news/30542",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8159,
+      "importance": 0.8159,
+      "importance_score": 0.8159,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
+        "recency": 0.8944,
+        "story_heat": 0.25
       },
       "category": "industry",
       "reasons": [
+        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-08-24T02:46:28.063446Z",
-      "latest_at": "2026-08-24T02:46:28.063446Z",
+      "earliest_at": "2026-08-24T01:23:24.572510Z",
+      "latest_at": "2026-08-24T01:23:24.572510Z",
       "primary_item": {
-        "id": "57e2cc3d002218cd87f25db85146a04e65b16caf",
-        "title": "Twitch 遭千名主播集体起诉：亚马逊默认用直播内容\"喂\"AI，退出还不具追溯力",
-        "url": "https://www.aibase.com/news/30558",
+        "id": "72dd2497657a2a8ec2b272dc1fc7fa963c9a4fcc",
+        "title": "得州州长阿博特：AI 数据中心遭反对，是行业\"自掘坟墓\"",
+        "url": "https://www.aibase.com/news/30542",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_1a84e035a21e",
+      "title": "阿里巴巴拟配售800亿港元新股，资金将全部投入AI",
+      "url": "https://www.aibase.com/news/30546",
+      "primary_url": "https://www.aibase.com/news/30546",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "12dd95b47291ed8b77b48beeb8b02c99586926e2",
+          "title": "阿里巴巴拟配售800亿港元新股，资金将全部投入AI",
+          "url": "https://www.aibase.com/news/30546",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-24T01:23:24.572510Z"
+        },
+        {
+          "id": "3e4bc54c043cd14a3c0e99e0ccbd3aeb4b785f2b",
+          "title": "阿里巴巴拟配售800亿港元新股，资金将全部投入AI",
+          "url": "https://www.aibase.com/zh/news/30546",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "AIbase",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "12dd95b47291ed8b77b48beeb8b02c99586926e2",
+          "title": "阿里巴巴拟配售800亿港元新股，资金将全部投入AI",
+          "url": "https://www.aibase.com/news/30546",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-08-24T01:23:24.572510Z"
+        },
+        {
+          "id": "3e4bc54c043cd14a3c0e99e0ccbd3aeb4b785f2b",
+          "title": "阿里巴巴拟配售800亿港元新股，资金将全部投入AI",
+          "url": "https://www.aibase.com/zh/news/30546",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8159,
+      "importance": 0.8159,
+      "importance_score": 0.8159,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8944,
+        "story_heat": 0.25
+      },
+      "category": "industry",
+      "reasons": [
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-08-24T01:23:24.572510Z",
+      "latest_at": "2026-08-24T02:46:28.063446Z",
+      "primary_item": {
+        "id": "12dd95b47291ed8b77b48beeb8b02c99586926e2",
+        "title": "阿里巴巴拟配售800亿港元新股，资金将全部投入AI",
+        "url": "https://www.aibase.com/news/30546",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_bf8914f7a7d4",
+      "title": "萨姆·阿尔特曼表示，他担心人工智能会被少数几个有权有势的玩家所控制",
+      "url": "https://www.businessinsider.com/sam-altman-openai-risks-ai-2026-8",
+      "primary_url": "https://www.businessinsider.com/sam-altman-openai-risks-ai-2026-8",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "3d4add2a9e9be1ae8858bb4f120cd0aae56c8c0c",
+          "title": "萨姆·阿尔特曼表示，他担心人工智能会被少数几个有权有势的玩家所控制",
+          "url": "https://www.businessinsider.com/sam-altman-openai-risks-ai-2026-8",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-23T21:57:23.465000Z"
+        },
+        {
+          "id": "3636b0681c01fb3d291ce947793c528456e3d781",
+          "title": "萨姆·阿尔特曼表示，他担心人工智能会被少数几个有权有势的玩家所控制 / Sam Altman says he's worried about AI being controlled by a few powerful players",
+          "url": "https://www.businessinsider.com/sam-altman-openai-risks-ai-2026-8",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-23T21:38:35Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "3d4add2a9e9be1ae8858bb4f120cd0aae56c8c0c",
+          "title": "萨姆·阿尔特曼表示，他担心人工智能会被少数几个有权有势的玩家所控制",
+          "url": "https://www.businessinsider.com/sam-altman-openai-risks-ai-2026-8",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-23T21:57:23.465000Z"
+        },
+        {
+          "id": "3636b0681c01fb3d291ce947793c528456e3d781",
+          "title": "萨姆·阿尔特曼表示，他担心人工智能会被少数几个有权有势的玩家所控制 / Sam Altman says he's worried about AI being controlled by a few powerful players",
+          "url": "https://www.businessinsider.com/sam-altman-openai-risks-ai-2026-8",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-23T21:38:35Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4983,
+      "importance": 0.4983,
+      "importance_score": 0.4983,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7513,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-23T21:38:35Z",
+      "latest_at": "2026-08-23T21:57:23.465000Z",
+      "primary_item": {
+        "id": "3d4add2a9e9be1ae8858bb4f120cd0aae56c8c0c",
+        "title": "萨姆·阿尔特曼表示，他担心人工智能会被少数几个有权有势的玩家所控制",
+        "url": "https://www.businessinsider.com/sam-altman-openai-risks-ai-2026-8",
+        "source": "www.businessinsider.com",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -1245,14 +1521,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5373,
-      "importance": 0.5373,
-      "importance_score": 0.5373,
+      "score": 0.5277,
+      "importance": 0.5277,
+      "importance_score": 0.5277,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8216,
+        "recency": 0.7736,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1265,222 +1541,6 @@
         "id": "20609aea09ec4a3a7d7fdfad6ca1de2e838058c4",
         "title": "Etched Sohu vs. Nvidia: Transformer ASIC vs. GPU (2026)",
         "url": "https://news.ycombinator.com/item?id=49411178",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_8a16ccb3ff4d",
-      "title": "全能开源王炸！谷歌Gemma下载量突破10亿，AI深入生命禁区破解癌症治疗密码",
-      "url": "https://www.aibase.com/news/30550",
-      "primary_url": "https://www.aibase.com/news/30550",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "520193c69d55554442a947fe47fa584a8d7b5448",
-          "title": "全能开源王炸！谷歌Gemma下载量突破10亿，AI深入生命禁区破解癌症治疗密码",
-          "url": "https://www.aibase.com/news/30550",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-24T02:46:28.063446Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "520193c69d55554442a947fe47fa584a8d7b5448",
-          "title": "全能开源王炸！谷歌Gemma下载量突破10亿，AI深入生命禁区破解癌症治疗密码",
-          "url": "https://www.aibase.com/news/30550",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-08-24T02:46:28.063446Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-08-24T02:46:28.063446Z",
-      "latest_at": "2026-08-24T02:46:28.063446Z",
-      "primary_item": {
-        "id": "520193c69d55554442a947fe47fa584a8d7b5448",
-        "title": "全能开源王炸！谷歌Gemma下载量突破10亿，AI深入生命禁区破解癌症治疗密码",
-        "url": "https://www.aibase.com/news/30550",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_bf8914f7a7d4",
-      "title": "萨姆·阿尔特曼表示，他担心人工智能会被少数几个有权有势的玩家所控制",
-      "url": "https://www.businessinsider.com/sam-altman-openai-risks-ai-2026-8",
-      "primary_url": "https://www.businessinsider.com/sam-altman-openai-risks-ai-2026-8",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "3d4add2a9e9be1ae8858bb4f120cd0aae56c8c0c",
-          "title": "萨姆·阿尔特曼表示，他担心人工智能会被少数几个有权有势的玩家所控制",
-          "url": "https://www.businessinsider.com/sam-altman-openai-risks-ai-2026-8",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-23T21:57:23.465000Z"
-        },
-        {
-          "id": "3636b0681c01fb3d291ce947793c528456e3d781",
-          "title": "萨姆·阿尔特曼表示，他担心人工智能会被少数几个有权有势的玩家所控制 / Sam Altman says he's worried about AI being controlled by a few powerful players",
-          "url": "https://www.businessinsider.com/sam-altman-openai-risks-ai-2026-8",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-23T21:38:35Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "3d4add2a9e9be1ae8858bb4f120cd0aae56c8c0c",
-          "title": "萨姆·阿尔特曼表示，他担心人工智能会被少数几个有权有势的玩家所控制",
-          "url": "https://www.businessinsider.com/sam-altman-openai-risks-ai-2026-8",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-23T21:57:23.465000Z"
-        },
-        {
-          "id": "3636b0681c01fb3d291ce947793c528456e3d781",
-          "title": "萨姆·阿尔特曼表示，他担心人工智能会被少数几个有权有势的玩家所控制 / Sam Altman says he's worried about AI being controlled by a few powerful players",
-          "url": "https://www.businessinsider.com/sam-altman-openai-risks-ai-2026-8",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-23T21:38:35Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5079,
-      "importance": 0.5079,
-      "importance_score": 0.5079,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7993,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-23T21:38:35Z",
-      "latest_at": "2026-08-23T21:57:23.465000Z",
-      "primary_item": {
-        "id": "3d4add2a9e9be1ae8858bb4f120cd0aae56c8c0c",
-        "title": "萨姆·阿尔特曼表示，他担心人工智能会被少数几个有权有势的玩家所控制",
-        "url": "https://www.businessinsider.com/sam-altman-openai-risks-ai-2026-8",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_0c0154a85503",
-      "title": "Implementation of GPT-2 in pure CMake",
-      "url": "https://news.ycombinator.com/item?id=49412909",
-      "primary_url": "https://news.ycombinator.com/item?id=49412909",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "de3d1e6eadda38b960768ca78dfa3a5dc46475be",
-          "title": "Implementation of GPT-2 in pure CMake",
-          "url": "https://news.ycombinator.com/item?id=49412909",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-24T01:24:25.890000Z"
-        },
-        {
-          "id": "bdc139f2e96fc0f6b38cd7fcca05aa04efb1ef29",
-          "title": "Implementation of GPT-2 in pure CMake",
-          "url": "https://github.com/AlpinDale/gpt2.cmake",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-23T21:41:17Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "de3d1e6eadda38b960768ca78dfa3a5dc46475be",
-          "title": "Implementation of GPT-2 in pure CMake",
-          "url": "https://news.ycombinator.com/item?id=49412909",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-24T01:24:25.890000Z"
-        },
-        {
-          "id": "bdc139f2e96fc0f6b38cd7fcca05aa04efb1ef29",
-          "title": "Implementation of GPT-2 in pure CMake",
-          "url": "https://github.com/AlpinDale/gpt2.cmake",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-23T21:41:17Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5366,
-      "importance": 0.5366,
-      "importance_score": 0.5366,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.943,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-23T21:41:17Z",
-      "latest_at": "2026-08-24T01:24:25.890000Z",
-      "primary_item": {
-        "id": "de3d1e6eadda38b960768ca78dfa3a5dc46475be",
-        "title": "Implementation of GPT-2 in pure CMake",
-        "url": "https://news.ycombinator.com/item?id=49412909",
         "source": "hackernews",
         "source_name": "NewsNow"
       }
@@ -1538,14 +1598,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5278,
-      "importance": 0.5278,
-      "importance_score": 0.5278,
+      "score": 0.5183,
+      "importance": 0.5183,
+      "importance_score": 0.5183,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8992,
+        "recency": 0.8513,
         "story_heat": 0.25
       },
       "category": "watch",
