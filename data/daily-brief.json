@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-30T13:09:24.281969Z",
+  "generated_at": "2026-08-30T17:41:44.324169Z",
   "window_hours": 24,
-  "total_items": 19,
+  "total_items": 17,
   "items": [
     {
       "story_id": "story_82ed3e26cfbe",
@@ -38,20 +38,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.776,
-      "importance": 0.776,
-      "importance_score": 0.776,
+      "score": 0.7382,
+      "importance": 0.7382,
+      "importance_score": 0.7382,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8201,
+        "recency": 0.631,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-08-30T08:50:20Z",
       "latest_at": "2026-08-30T08:50:20Z",
@@ -65,12 +64,21 @@
     },
     {
       "story_id": "story_773e61521fea",
-      "title": "Claude Session URL appended to commit messages and PR descriptions by default",
-      "url": "https://news.ycombinator.com/item?id=49498201",
-      "primary_url": "https://news.ycombinator.com/item?id=49498201",
-      "source": "hackernews",
-      "source_name": "NewsNow",
+      "title": "默认情况下，将 Claude 会话 URL 附加到提交信息和 PR 描述中",
+      "url": "https://github.com/anthropics/claude-code/issues/66504",
+      "primary_url": "https://github.com/anthropics/claude-code/issues/66504",
+      "source": "github.com",
+      "source_name": "Buzzing",
       "sources": [
+        {
+          "id": "cc22d8530eae6fa8907b4680c654d389fc666a45",
+          "title": "默认情况下，将 Claude 会话 URL 附加到提交信息和 PR 描述中",
+          "url": "https://github.com/anthropics/claude-code/issues/66504",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-30T16:35:36.082000Z"
+        },
         {
           "id": "2734cb6546a34dd90570a299150efb3fd87af2cd",
           "title": "Claude Session URL appended to commit messages and PR descriptions by default",
@@ -82,7 +90,7 @@
         },
         {
           "id": "f48aed7116c55743a2f57a09b62cd0c3641aeb04",
-          "title": "Claude Session URL appended to commit messages and PR descriptions by default",
+          "title": "默认情况下，将 Claude 会话 URL 附加到提交信息和 PR 描述中 / Claude Session URL appended to commit messages and PR descriptions by default",
           "url": "https://github.com/anthropics/claude-code/issues/66504",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
@@ -90,13 +98,23 @@
           "published_at": "2026-08-30T12:50:54Z"
         }
       ],
-      "source_count": 2,
+      "source_count": 3,
       "source_names": [
         "Hacker News (黑客新闻)",
+        "github.com",
         "hackernews"
       ],
       "items": [
         {
+          "id": "cc22d8530eae6fa8907b4680c654d389fc666a45",
+          "title": "默认情况下，将 Claude 会话 URL 附加到提交信息和 PR 描述中",
+          "url": "https://github.com/anthropics/claude-code/issues/66504",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-30T16:35:36.082000Z"
+        },
+        {
           "id": "2734cb6546a34dd90570a299150efb3fd87af2cd",
           "title": "Claude Session URL appended to commit messages and PR descriptions by default",
           "url": "https://news.ycombinator.com/item?id=49498201",
@@ -107,7 +125,7 @@
         },
         {
           "id": "f48aed7116c55743a2f57a09b62cd0c3641aeb04",
-          "title": "Claude Session URL appended to commit messages and PR descriptions by default",
+          "title": "默认情况下，将 Claude 会话 URL 附加到提交信息和 PR 描述中 / Claude Session URL appended to commit messages and PR descriptions by default",
           "url": "https://github.com/anthropics/claude-code/issues/66504",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
@@ -115,30 +133,186 @@
           "published_at": "2026-08-30T12:50:54Z"
         }
       ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5638,
+      "importance": 0.5638,
+      "importance_score": 0.5638,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9541,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-30T12:50:54Z",
+      "latest_at": "2026-08-30T16:35:36.082000Z",
+      "primary_item": {
+        "id": "cc22d8530eae6fa8907b4680c654d389fc666a45",
+        "title": "默认情况下，将 Claude 会话 URL 附加到提交信息和 PR 描述中",
+        "url": "https://github.com/anthropics/claude-code/issues/66504",
+        "source": "github.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_2929f114895f",
+      "title": "METR and Redwood Offer Holy %^ Postmortem of the HuggingFace Hack",
+      "url": "https://news.ycombinator.com/item?id=49498787",
+      "primary_url": "https://news.ycombinator.com/item?id=49498787",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "6f8623ae86b419d7d127d297a6bfeaa68771db9d",
+          "title": "METR and Redwood Offer Holy %^ Postmortem of the HuggingFace Hack",
+          "url": "https://news.ycombinator.com/item?id=49498787",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-30T17:20:28.182000Z"
+        },
+        {
+          "id": "c2034b0c427915b5c115e8883fcee71c1884fd16",
+          "title": "METR and Redwood Offer Holy %^ Postmortem of the HuggingFace Hack",
+          "url": "https://thezvi.wordpress.com/2026/08/29/metr-and-redwood-offer-holy-postmortem-of-the-huggingface-hack",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-30T14:06:54Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "6f8623ae86b419d7d127d297a6bfeaa68771db9d",
+          "title": "METR and Redwood Offer Holy %^ Postmortem of the HuggingFace Hack",
+          "url": "https://news.ycombinator.com/item?id=49498787",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-08-30T17:20:28.182000Z"
+        },
+        {
+          "id": "c2034b0c427915b5c115e8883fcee71c1884fd16",
+          "title": "METR and Redwood Offer Holy %^ Postmortem of the HuggingFace Hack",
+          "url": "https://thezvi.wordpress.com/2026/08/29/metr-and-redwood-offer-holy-postmortem-of-the-huggingface-hack",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-30T14:06:54Z"
+        }
+      ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.548,
-      "importance": 0.548,
-      "importance_score": 0.548,
+      "score": 0.545,
+      "importance": 0.545,
+      "importance_score": 0.545,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9852,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-30T12:50:54Z",
-      "latest_at": "2026-08-30T13:09:54.560000Z",
+      "earliest_at": "2026-08-30T14:06:54Z",
+      "latest_at": "2026-08-30T17:20:28.182000Z",
       "primary_item": {
-        "id": "2734cb6546a34dd90570a299150efb3fd87af2cd",
-        "title": "Claude Session URL appended to commit messages and PR descriptions by default",
-        "url": "https://news.ycombinator.com/item?id=49498201",
+        "id": "6f8623ae86b419d7d127d297a6bfeaa68771db9d",
+        "title": "METR and Redwood Offer Holy %^ Postmortem of the HuggingFace Hack",
+        "url": "https://news.ycombinator.com/item?id=49498787",
         "source": "hackernews",
         "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_e87657446309",
+      "title": "“无AI星期五”",
+      "url": "https://noaifridays.com",
+      "primary_url": "https://noaifridays.com",
+      "source": "noaifridays.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "8208f10f261b860b152b622827844b09cfe8b276",
+          "title": "“无AI星期五”",
+          "url": "https://noaifridays.com",
+          "source": "noaifridays.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-30T15:15:25.717000Z"
+        },
+        {
+          "id": "b2e2dc0947d05e788c218548dd572b74e596e05f",
+          "title": "“无AI星期五” / No AI Fridays",
+          "url": "https://noaifridays.com",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-30T12:31:05Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "noaifridays.com"
+      ],
+      "items": [
+        {
+          "id": "8208f10f261b860b152b622827844b09cfe8b276",
+          "title": "“无AI星期五”",
+          "url": "https://noaifridays.com",
+          "source": "noaifridays.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-08-30T15:15:25.717000Z"
+        },
+        {
+          "id": "b2e2dc0947d05e788c218548dd572b74e596e05f",
+          "title": "“无AI星期五” / No AI Fridays",
+          "url": "https://noaifridays.com",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-30T12:31:05Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5277,
+      "importance": 0.5277,
+      "importance_score": 0.5277,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8984,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-30T12:31:05Z",
+      "latest_at": "2026-08-30T15:15:25.717000Z",
+      "primary_item": {
+        "id": "8208f10f261b860b152b622827844b09cfe8b276",
+        "title": "“无AI星期五”",
+        "url": "https://noaifridays.com",
+        "source": "noaifridays.com",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -195,14 +369,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.548,
-      "importance": 0.548,
-      "importance_score": 0.548,
+      "score": 0.5102,
+      "importance": 0.5102,
+      "importance_score": 0.5102,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.8112,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -273,14 +447,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.548,
-      "importance": 0.548,
-      "importance_score": 0.548,
+      "score": 0.5102,
+      "importance": 0.5102,
+      "importance_score": 0.5102,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.8109,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -351,14 +525,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.548,
-      "importance": 0.548,
-      "importance_score": 0.548,
+      "score": 0.5102,
+      "importance": 0.5102,
+      "importance_score": 0.5102,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.8109,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -373,6 +547,83 @@
         "url": "https://www.36kr.com/p/3961764924702087",
         "source": "36氪 · 24小时热榜",
         "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_7c0dc4c06e47",
+      "title": "Building my own network stack",
+      "url": "https://blog.lyc8503.net/en/post/dn42-2-dnet",
+      "primary_url": "https://blog.lyc8503.net/en/post/dn42-2-dnet",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "1264b8eb2935d276ad16c9b3b29b414756c4a1e0",
+          "title": "Building my own network stack",
+          "url": "https://blog.lyc8503.net/en/post/dn42-2-dnet",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-30T09:52:15Z"
+        },
+        {
+          "id": "bf984ad77648b488d62c13de21a5125c0688ecbd",
+          "title": "Everyone Should Build Their Own Network Stack",
+          "url": "https://blog.lyc8503.net/en/post/dn42-2-dnet",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-30T09:52:15Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热"
+      ],
+      "items": [
+        {
+          "id": "1264b8eb2935d276ad16c9b3b29b414756c4a1e0",
+          "title": "Building my own network stack",
+          "url": "https://blog.lyc8503.net/en/post/dn42-2-dnet",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-30T09:52:15Z"
+        },
+        {
+          "id": "bf984ad77648b488d62c13de21a5125c0688ecbd",
+          "title": "Everyone Should Build Their Own Network Stack",
+          "url": "https://blog.lyc8503.net/en/post/dn42-2-dnet",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-08-30T09:52:15Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4828,
+      "importance": 0.4828,
+      "importance_score": 0.4828,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.674,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-08-30T09:52:15Z",
+      "latest_at": "2026-08-30T09:52:15Z",
+      "primary_item": {
+        "id": "1264b8eb2935d276ad16c9b3b29b414756c4a1e0",
+        "title": "Building my own network stack",
+        "url": "https://blog.lyc8503.net/en/post/dn42-2-dnet",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
       }
     },
     {
@@ -429,14 +680,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.548,
-      "importance": 0.548,
-      "importance_score": 0.548,
+      "score": 0.5102,
+      "importance": 0.5102,
+      "importance_score": 0.5102,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.8112,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -507,14 +758,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.548,
-      "importance": 0.548,
-      "importance_score": 0.548,
+      "score": 0.5102,
+      "importance": 0.5102,
+      "importance_score": 0.5102,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.8112,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -585,14 +836,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.548,
-      "importance": 0.548,
-      "importance_score": 0.548,
+      "score": 0.5102,
+      "importance": 0.5102,
+      "importance_score": 0.5102,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.8112,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -663,14 +914,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4856,
-      "importance": 0.4856,
-      "importance_score": 0.4856,
+      "score": 0.4478,
+      "importance": 0.4478,
+      "importance_score": 0.4478,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6881,
+        "recency": 0.499,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -741,14 +992,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4992,
-      "importance": 0.4992,
-      "importance_score": 0.4992,
+      "score": 0.4614,
+      "importance": 0.4614,
+      "importance_score": 0.4614,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7561,
+        "recency": 0.567,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -766,99 +1017,80 @@
       }
     },
     {
-      "story_id": "story_6472bbcb1287",
-      "title": "良好的企业文化才是提升工作效率的最大秘诀，而非人工智能)",
-      "url": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
-      "primary_url": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
-      "source": "newsletter.eng-leadership.com",
+      "story_id": "story_dde286af26fd",
+      "title": "索尼指控Anthropic公司开展“明目张胆的行动”，利用其音乐训练Claude模型——并要求每首歌曲赔偿高达15万美元",
+      "url": "https://www.businessinsider.com/anthropic-claude-training-copyright-music-lyrics-sony-lawsuit-2026-8",
+      "primary_url": "https://www.businessinsider.com/anthropic-claude-training-copyright-music-lyrics-sony-lawsuit-2026-8",
+      "source": "www.businessinsider.com",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "db3d240bdd1ca809e562ed15de2fbb3a4a4cc952",
-          "title": "良好的企业文化才是提升工作效率的最大秘诀，而非人工智能)",
-          "url": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
-          "source": "newsletter.eng-leadership.com",
+          "id": "5d41e15b37efeb8b8327abd281114d883ad507b8",
+          "title": "索尼指控Anthropic公司开展“明目张胆的行动”，利用其音乐训练Claude模型——并要求每首歌曲赔偿高达15万美元",
+          "url": "https://www.businessinsider.com/anthropic-claude-training-copyright-music-lyrics-sony-lawsuit-2026-8",
+          "source": "www.businessinsider.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-08-29T20:20:15.528000Z"
+          "published_at": "2026-08-29T19:48:15.596000Z"
         },
         {
-          "id": "892454d82b2918f8700f64eee688c8dd8757356e",
-          "title": "Good Culture Is the Biggest Productivity Hack, Not AI",
-          "url": "https://news.ycombinator.com/item?id=49491568",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-29T17:36:29.303000Z"
-        },
-        {
-          "id": "f682623d1ee4bbf4153f5d322c9b9ac9ccbc0bc6",
-          "title": "良好的企业文化才是提升工作效率的最大秘诀，而非人工智能) / Good Culture Is the Biggest Productivity Hack, Not AI",
-          "url": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-29T17:19:47Z"
+          "id": "8928caf5a976c4a96c9847b7e24b9a06abf29446",
+          "title": "索尼指控Anthropic公司开展“明目张胆的行动”，利用其音乐训练Claude模型——并要求每首歌曲赔偿高达15万美元 / Sony accuses Anthropic of 'brazen campaign' to train Claude on its music — and wants up to $150,000 a song",
+          "url": "https://www.businessinsider.com/anthropic-claude-training-copyright-music-lyrics-sony-lawsuit-2026-8",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-29T19:05:05Z"
         }
       ],
-      "source_count": 3,
+      "source_count": 2,
       "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews",
-        "newsletter.eng-leadership.com"
+        "Business Insider",
+        "www.businessinsider.com"
       ],
       "items": [
         {
-          "id": "db3d240bdd1ca809e562ed15de2fbb3a4a4cc952",
-          "title": "良好的企业文化才是提升工作效率的最大秘诀，而非人工智能)",
-          "url": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
-          "source": "newsletter.eng-leadership.com",
+          "id": "5d41e15b37efeb8b8327abd281114d883ad507b8",
+          "title": "索尼指控Anthropic公司开展“明目张胆的行动”，利用其音乐训练Claude模型——并要求每首歌曲赔偿高达15万美元",
+          "url": "https://www.businessinsider.com/anthropic-claude-training-copyright-music-lyrics-sony-lawsuit-2026-8",
+          "source": "www.businessinsider.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-08-29T20:20:15.528000Z"
+          "published_at": "2026-08-29T19:48:15.596000Z"
         },
         {
-          "id": "892454d82b2918f8700f64eee688c8dd8757356e",
-          "title": "Good Culture Is the Biggest Productivity Hack, Not AI",
-          "url": "https://news.ycombinator.com/item?id=49491568",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-29T17:36:29.303000Z"
-        },
-        {
-          "id": "f682623d1ee4bbf4153f5d322c9b9ac9ccbc0bc6",
-          "title": "良好的企业文化才是提升工作效率的最大秘诀，而非人工智能) / Good Culture Is the Biggest Productivity Hack, Not AI",
-          "url": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-29T17:19:47Z"
+          "id": "8928caf5a976c4a96c9847b7e24b9a06abf29446",
+          "title": "索尼指控Anthropic公司开展“明目张胆的行动”，利用其音乐训练Claude模型——并要求每首歌曲赔偿高达15万美元 / Sony accuses Anthropic of 'brazen campaign' to train Claude on its music — and wants up to $150,000 a song",
+          "url": "https://www.businessinsider.com/anthropic-claude-training-copyright-music-lyrics-sony-lawsuit-2026-8",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-08-29T19:05:05Z"
         }
       ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.4328,
-      "importance": 0.4328,
-      "importance_score": 0.4328,
-      "importance_label": "多源热议",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.3656,
+      "importance": 0.3656,
+      "importance_score": 0.3656,
+      "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.2992,
-        "story_heat": 0.5
+        "recency": 0.0879,
+        "story_heat": 0.25
       },
-      "category": "multi_source",
+      "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-08-29T17:19:47Z",
-      "latest_at": "2026-08-29T20:20:15.528000Z",
+      "earliest_at": "2026-08-29T19:05:05Z",
+      "latest_at": "2026-08-29T19:48:15.596000Z",
       "primary_item": {
-        "id": "db3d240bdd1ca809e562ed15de2fbb3a4a4cc952",
-        "title": "良好的企业文化才是提升工作效率的最大秘诀，而非人工智能)",
-        "url": "https://newsletter.eng-leadership.com/p/good-culture-is-the-biggest-productivity",
-        "source": "newsletter.eng-leadership.com",
+        "id": "5d41e15b37efeb8b8327abd281114d883ad507b8",
+        "title": "索尼指控Anthropic公司开展“明目张胆的行动”，利用其音乐训练Claude模型——并要求每首歌曲赔偿高达15万美元",
+        "url": "https://www.businessinsider.com/anthropic-claude-training-copyright-music-lyrics-sony-lawsuit-2026-8",
+        "source": "www.businessinsider.com",
         "source_name": "Buzzing"
       }
     },
@@ -916,14 +1148,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4078,
-      "importance": 0.4078,
-      "importance_score": 0.4078,
+      "score": 0.37,
+      "importance": 0.37,
+      "importance_score": 0.37,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.2992,
+        "recency": 0.1101,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -937,84 +1169,6 @@
         "title": "Transformer 大型语言模型（LLM）的规范基重构：每个隐藏轴均可独立测量和控制",
         "url": "https://github.com/todotge/canonical-basis",
         "source": "github.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_dde286af26fd",
-      "title": "索尼指控Anthropic公司开展“明目张胆的行动”，利用其音乐训练Claude模型——并要求每首歌曲赔偿高达15万美元",
-      "url": "https://www.businessinsider.com/anthropic-claude-training-copyright-music-lyrics-sony-lawsuit-2026-8",
-      "primary_url": "https://www.businessinsider.com/anthropic-claude-training-copyright-music-lyrics-sony-lawsuit-2026-8",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "5d41e15b37efeb8b8327abd281114d883ad507b8",
-          "title": "索尼指控Anthropic公司开展“明目张胆的行动”，利用其音乐训练Claude模型——并要求每首歌曲赔偿高达15万美元",
-          "url": "https://www.businessinsider.com/anthropic-claude-training-copyright-music-lyrics-sony-lawsuit-2026-8",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-29T19:48:15.596000Z"
-        },
-        {
-          "id": "8928caf5a976c4a96c9847b7e24b9a06abf29446",
-          "title": "索尼指控Anthropic公司开展“明目张胆的行动”，利用其音乐训练Claude模型——并要求每首歌曲赔偿高达15万美元 / Sony accuses Anthropic of 'brazen campaign' to train Claude on its music — and wants up to $150,000 a song",
-          "url": "https://www.businessinsider.com/anthropic-claude-training-copyright-music-lyrics-sony-lawsuit-2026-8",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-29T19:05:05Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "5d41e15b37efeb8b8327abd281114d883ad507b8",
-          "title": "索尼指控Anthropic公司开展“明目张胆的行动”，利用其音乐训练Claude模型——并要求每首歌曲赔偿高达15万美元",
-          "url": "https://www.businessinsider.com/anthropic-claude-training-copyright-music-lyrics-sony-lawsuit-2026-8",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-29T19:48:15.596000Z"
-        },
-        {
-          "id": "8928caf5a976c4a96c9847b7e24b9a06abf29446",
-          "title": "索尼指控Anthropic公司开展“明目张胆的行动”，利用其音乐训练Claude模型——并要求每首歌曲赔偿高达15万美元 / Sony accuses Anthropic of 'brazen campaign' to train Claude on its music — and wants up to $150,000 a song",
-          "url": "https://www.businessinsider.com/anthropic-claude-training-copyright-music-lyrics-sony-lawsuit-2026-8",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-08-29T19:05:05Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4034,
-      "importance": 0.4034,
-      "importance_score": 0.4034,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.277,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-29T19:05:05Z",
-      "latest_at": "2026-08-29T19:48:15.596000Z",
-      "primary_item": {
-        "id": "5d41e15b37efeb8b8327abd281114d883ad507b8",
-        "title": "索尼指控Anthropic公司开展“明目张胆的行动”，利用其音乐训练Claude模型——并要求每首歌曲赔偿高达15万美元",
-        "url": "https://www.businessinsider.com/anthropic-claude-training-copyright-music-lyrics-sony-lawsuit-2026-8",
-        "source": "www.businessinsider.com",
         "source_name": "Buzzing"
       }
     },
@@ -1071,14 +1225,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4013,
-      "importance": 0.4013,
-      "importance_score": 0.4013,
+      "score": 0.3635,
+      "importance": 0.3635,
+      "importance_score": 0.3635,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.2667,
+        "recency": 0.0775,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1093,259 +1247,6 @@
         "url": "https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview",
         "source": "Hacker News · 24h最热",
         "source_name": "Zeli"
-      }
-    },
-    {
-      "story_id": "story_6b08cd3b6d93",
-      "title": "音乐出版商起诉Anthropic，指控其“公然盗用”受版权保护的音乐 / Music publishers sue Anthropic, allege \"blantant theft\" of copyrighted music",
-      "url": "https://www.axios.com/2026/08/29/anthropic-sony-warner-music-copyright",
-      "primary_url": "https://www.axios.com/2026/08/29/anthropic-sony-warner-music-copyright",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "e264a7bc0ce2fefb239afa2a0fff3a768c321aca",
-          "title": "音乐出版商起诉Anthropic，指控其“公然盗用”受版权保护的音乐 / Music publishers sue Anthropic, allege \"blantant theft\" of copyrighted music",
-          "url": "https://www.axios.com/2026/08/29/anthropic-sony-warner-music-copyright",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-29T17:28:53Z"
-        },
-        {
-          "id": "41d0137f2781999f28c33201ba30622f6bb671cd",
-          "title": "音乐出版商起诉Anthropic，指控其“公然盗用”受版权保护的音乐",
-          "url": "https://www.axios.com/2026/08/29/anthropic-sony-warner-music-copyright",
-          "source": "www.axios.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-29T16:20:16.082000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "www.axios.com"
-      ],
-      "items": [
-        {
-          "id": "e264a7bc0ce2fefb239afa2a0fff3a768c321aca",
-          "title": "音乐出版商起诉Anthropic，指控其“公然盗用”受版权保护的音乐 / Music publishers sue Anthropic, allege \"blantant theft\" of copyrighted music",
-          "url": "https://www.axios.com/2026/08/29/anthropic-sony-warner-music-copyright",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-29T17:28:53Z"
-        },
-        {
-          "id": "41d0137f2781999f28c33201ba30622f6bb671cd",
-          "title": "音乐出版商起诉Anthropic，指控其“公然盗用”受版权保护的音乐",
-          "url": "https://www.axios.com/2026/08/29/anthropic-sony-warner-music-copyright",
-          "source": "www.axios.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-29T16:20:16.082000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.384,
-      "importance": 0.384,
-      "importance_score": 0.384,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.1802,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-29T16:20:16.082000Z",
-      "latest_at": "2026-08-29T17:28:53Z",
-      "primary_item": {
-        "id": "e264a7bc0ce2fefb239afa2a0fff3a768c321aca",
-        "title": "音乐出版商起诉Anthropic，指控其“公然盗用”受版权保护的音乐 / Music publishers sue Anthropic, allege \"blantant theft\" of copyrighted music",
-        "url": "https://www.axios.com/2026/08/29/anthropic-sony-warner-music-copyright",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
-      }
-    },
-    {
-      "story_id": "story_9b2727cbce15",
-      "title": "Debian votes to allow \"responsible use of generative AI\"",
-      "url": "https://news.ycombinator.com/item?id=49489982",
-      "primary_url": "https://news.ycombinator.com/item?id=49489982",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "530b878515479cfee39827671c67e698af01cd81",
-          "title": "Debian votes to allow \"responsible use of generative AI\"",
-          "url": "https://news.ycombinator.com/item?id=49489982",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-29T17:36:29.303000Z"
-        },
-        {
-          "id": "a19c5fb9cb0aa172290cb625e099822f83dbdaa4",
-          "title": "Debian 投票通过允许“负责任地使用生成式人工智能”",
-          "url": "https://lwn.net/Articles/1091231",
-          "source": "lwn.net",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-29T15:16:20.593000Z"
-        },
-        {
-          "id": "898e06fd595957bac0a3cf1b17d6c656c142b1a3",
-          "title": "Debian 投票通过允许“负责任地使用生成式人工智能” / Debian votes to allow \"responsible use of generative AI\"",
-          "url": "https://lwn.net/Articles/1091231",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-29T14:02:10Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews",
-        "lwn.net"
-      ],
-      "items": [
-        {
-          "id": "530b878515479cfee39827671c67e698af01cd81",
-          "title": "Debian votes to allow \"responsible use of generative AI\"",
-          "url": "https://news.ycombinator.com/item?id=49489982",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-29T17:36:29.303000Z"
-        },
-        {
-          "id": "a19c5fb9cb0aa172290cb625e099822f83dbdaa4",
-          "title": "Debian 投票通过允许“负责任地使用生成式人工智能”",
-          "url": "https://lwn.net/Articles/1091231",
-          "source": "lwn.net",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-08-29T15:16:20.593000Z"
-        },
-        {
-          "id": "898e06fd595957bac0a3cf1b17d6c656c142b1a3",
-          "title": "Debian 投票通过允许“负责任地使用生成式人工智能” / Debian votes to allow \"responsible use of generative AI\"",
-          "url": "https://lwn.net/Articles/1091231",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-29T14:02:10Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.4101,
-      "importance": 0.4101,
-      "importance_score": 0.4101,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.1855,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-29T14:02:10Z",
-      "latest_at": "2026-08-29T17:36:29.303000Z",
-      "primary_item": {
-        "id": "530b878515479cfee39827671c67e698af01cd81",
-        "title": "Debian votes to allow \"responsible use of generative AI\"",
-        "url": "https://news.ycombinator.com/item?id=49489982",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_dbef34f02ce8",
-      "title": "谁在给 AI 付账单：八大科技巨头的万亿 AI 资本开支版图",
-      "url": "https://www.huxiu.com/article/4887054.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4887054.html?f=rss",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "fc7a981c43f25bb4a824d29fb906c1f9a93a943d",
-          "title": "谁在给 AI 付账单：八大科技巨头的万亿 AI 资本开支版图",
-          "url": "https://www.huxiu.com/article/4887054.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "3e0310552370f7ea7400a6428f3efea2ed56881e",
-          "title": "谁在给 AI 付账单：八大科技巨头的万亿投注版图",
-          "url": "https://www.huxiu.com/article/4887054.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-29T13:17:26Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Readhub · AI",
-        "虎嗅 (Huxiu)"
-      ],
-      "items": [
-        {
-          "id": "fc7a981c43f25bb4a824d29fb906c1f9a93a943d",
-          "title": "谁在给 AI 付账单：八大科技巨头的万亿 AI 资本开支版图",
-          "url": "https://www.huxiu.com/article/4887054.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "3e0310552370f7ea7400a6428f3efea2ed56881e",
-          "title": "谁在给 AI 付账单：八大科技巨头的万亿投注版图",
-          "url": "https://www.huxiu.com/article/4887054.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-08-29T13:17:26Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.3568,
-      "importance": 0.3568,
-      "importance_score": 0.3568,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.0442,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-29T13:17:26Z",
-      "latest_at": "2026-08-29T14:13:01.248316Z",
-      "primary_item": {
-        "id": "fc7a981c43f25bb4a824d29fb906c1f9a93a943d",
-        "title": "谁在给 AI 付账单：八大科技巨头的万亿 AI 资本开支版图",
-        "url": "https://www.huxiu.com/article/4887054.html?f=rss",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
       }
     },
     {
@@ -1402,14 +1303,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.406,
-      "importance": 0.406,
-      "importance_score": 0.406,
+      "score": 0.3681,
+      "importance": 0.3681,
+      "importance_score": 0.3681,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.2898,
+        "recency": 0.1007,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1422,84 +1323,6 @@
         "id": "82c97a5ab1a096d3f2e3fd0091d02a15760d4563",
         "title": "Warp builds self-improving agents on Claude",
         "url": "https://news.ycombinator.com/item?id=49492432",
-        "source": "hackernews",
-        "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_4d812cfbbce6",
-      "title": "Claude Code is going reduce limits by 25% from September 14",
-      "url": "https://news.ycombinator.com/item?id=49491631",
-      "primary_url": "https://news.ycombinator.com/item?id=49491631",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "d073f67cf6f2a3eabd8bf03703a9e26c3d664d97",
-          "title": "Claude Code is going reduce limits by 25% from September 14",
-          "url": "https://news.ycombinator.com/item?id=49491631",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-29T17:36:29.303000Z"
-        },
-        {
-          "id": "13e2ac14dd034763d69b547df752aa1535cfa696",
-          "title": "Claude Code is going reduce limits by 25% from September 14",
-          "url": "https://twitter.com/ClaudeDevs/status/2093742321473065266",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-29T17:27:31Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "d073f67cf6f2a3eabd8bf03703a9e26c3d664d97",
-          "title": "Claude Code is going reduce limits by 25% from September 14",
-          "url": "https://news.ycombinator.com/item?id=49491631",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-08-29T17:36:29.303000Z"
-        },
-        {
-          "id": "13e2ac14dd034763d69b547df752aa1535cfa696",
-          "title": "Claude Code is going reduce limits by 25% from September 14",
-          "url": "https://twitter.com/ClaudeDevs/status/2093742321473065266",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-08-29T17:27:31Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.3851,
-      "importance": 0.3851,
-      "importance_score": 0.3851,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.1855,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-08-29T17:27:31Z",
-      "latest_at": "2026-08-29T17:36:29.303000Z",
-      "primary_item": {
-        "id": "d073f67cf6f2a3eabd8bf03703a9e26c3d664d97",
-        "title": "Claude Code is going reduce limits by 25% from September 14",
-        "url": "https://news.ycombinator.com/item?id=49491631",
         "source": "hackernews",
         "source_name": "NewsNow"
       }
