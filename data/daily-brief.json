@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-13T01:19:40.857224Z",
+  "generated_at": "2026-09-13T06:37:02.699363Z",
   "window_hours": 24,
-  "total_items": 20,
+  "total_items": 19,
   "items": [
     {
       "story_id": "story_12e9dd685180",
@@ -65,6 +65,66 @@
       }
     },
     {
+      "story_id": "story_531ee900c5f2",
+      "title": "Agent 长任务上下文工程解析：用预算控制、压缩、todo-state 和记忆对抗上下文溢出与目标丢失",
+      "url": "https://aihot.news/items/cmtzezuk0077wrowyi7a4qy7v",
+      "primary_url": "https://aihot.news/items/cmtzezuk0077wrowyi7a4qy7v",
+      "source": "MarkTechPost（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "90bb07fde02ee080c5351e45ac3a570cebb3d1a2",
+          "title": "Agent 长任务上下文工程解析：用预算控制、压缩、todo-state 和记忆对抗上下文溢出与目标丢失",
+          "url": "https://aihot.news/items/cmtzezuk0077wrowyi7a4qy7v",
+          "source": "MarkTechPost（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-13T05:56:03Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "MarkTechPost（RSS）"
+      ],
+      "items": [
+        {
+          "id": "90bb07fde02ee080c5351e45ac3a570cebb3d1a2",
+          "title": "Agent 长任务上下文工程解析：用预算控制、压缩、todo-state 和记忆对抗上下文溢出与目标丢失",
+          "url": "https://aihot.news/items/cmtzezuk0077wrowyi7a4qy7v",
+          "source": "MarkTechPost（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-13T05:56:03Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8063,
+      "importance": 0.8063,
+      "importance_score": 0.8063,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9715,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-13T05:56:03Z",
+      "latest_at": "2026-09-13T05:56:03Z",
+      "primary_item": {
+        "id": "90bb07fde02ee080c5351e45ac3a570cebb3d1a2",
+        "title": "Agent 长任务上下文工程解析：用预算控制、压缩、todo-state 和记忆对抗上下文溢出与目标丢失",
+        "url": "https://aihot.news/items/cmtzezuk0077wrowyi7a4qy7v",
+        "source": "MarkTechPost（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
       "story_id": "story_8d48a15c8f24",
       "title": "OpenAI 将 GPT-Live-1 语音模型开放至 API",
       "url": "https://aihot.news/items/cmtz1a2f10pr2roupq2k1944c",
@@ -99,14 +159,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7949,
-      "importance": 0.7949,
-      "importance_score": 0.7949,
+      "score": 0.7508,
+      "importance": 0.7508,
+      "importance_score": 0.7508,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9144,
+        "recency": 0.694,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -159,20 +219,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7702,
-      "importance": 0.7702,
-      "importance_score": 0.7702,
+      "score": 0.7261,
+      "importance": 0.7261,
+      "importance_score": 0.7261,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.791,
+        "recency": 0.5706,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-12T20:18:42Z",
       "latest_at": "2026-09-12T20:18:42Z",
@@ -219,20 +278,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7658,
-      "importance": 0.7658,
-      "importance_score": 0.7658,
+      "score": 0.7217,
+      "importance": 0.7217,
+      "importance_score": 0.7217,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7689,
+        "recency": 0.5486,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-12T19:46:58Z",
       "latest_at": "2026-09-12T19:46:58Z",
@@ -245,180 +303,195 @@
       }
     },
     {
-      "story_id": "story_42706323f2d3",
-      "title": "Suno 发布 v6 音乐模型，推出 v6、v6-wild、v6-mini 三个版本",
-      "url": "https://aihot.news/items/cmtym1wo1039krodl7j8164q8",
-      "primary_url": "https://aihot.news/items/cmtym1wo1039krodl7j8164q8",
-      "source": "Suno：Blog（网页）",
-      "source_name": "AI HOT",
+      "story_id": "story_774f7412d1a3",
+      "title": "Show HN: 3dbae 上的实时 AI 渲染",
+      "url": "https://www.youtube.com/watch?v=Q9EZkVx-pws",
+      "primary_url": "https://www.youtube.com/watch?v=Q9EZkVx-pws",
+      "source": "www.youtube.com",
+      "source_name": "Buzzing",
       "sources": [
         {
-          "id": "0c11f387aefb9586900aa026a57f208fb2c0f0c9",
-          "title": "Suno 发布 v6 音乐模型，推出 v6、v6-wild、v6-mini 三个版本",
-          "url": "https://aihot.news/items/cmtym1wo1039krodl7j8164q8",
-          "source": "Suno：Blog（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-12T16:39:24Z"
+          "id": "e6886b0b3c45e66d43ce002b0683a1aa1aea93aa",
+          "title": "Show HN: 3dbae 上的实时 AI 渲染",
+          "url": "https://www.youtube.com/watch?v=Q9EZkVx-pws",
+          "source": "www.youtube.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-13T04:41:15.291000Z"
+        },
+        {
+          "id": "bfadcb88e87ad0b722983f6b1be1b33d7f349d71",
+          "title": "LG称我们发布假新闻 [视频] / LG Says We're Fake News [video]",
+          "url": "https://www.youtube.com/watch?v=ToP9xfLDSME",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-12T19:35:36Z"
+        },
+        {
+          "id": "329a1ab880c276331f5758b54e6875309f8814f6",
+          "title": "吉米·金梅尔采访詹姆斯·塔拉里科 / Jimmy Kimmel Interviews James Talarico",
+          "url": "https://www.youtube.com/watch?v=WLDE9LrGpNk",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-12T19:28:24Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 3,
       "source_names": [
-        "Suno：Blog（网页）"
+        "Hacker News · 24h最热",
+        "www.youtube.com"
       ],
       "items": [
         {
-          "id": "0c11f387aefb9586900aa026a57f208fb2c0f0c9",
-          "title": "Suno 发布 v6 音乐模型，推出 v6、v6-wild、v6-mini 三个版本",
-          "url": "https://aihot.news/items/cmtym1wo1039krodl7j8164q8",
-          "source": "Suno：Blog（网页）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-12T16:39:24Z"
+          "id": "e6886b0b3c45e66d43ce002b0683a1aa1aea93aa",
+          "title": "Show HN: 3dbae 上的实时 AI 渲染",
+          "url": "https://www.youtube.com/watch?v=Q9EZkVx-pws",
+          "source": "www.youtube.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-13T04:41:15.291000Z"
+        },
+        {
+          "id": "bfadcb88e87ad0b722983f6b1be1b33d7f349d71",
+          "title": "LG称我们发布假新闻 [视频] / LG Says We're Fake News [video]",
+          "url": "https://www.youtube.com/watch?v=ToP9xfLDSME",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-12T19:35:36Z"
+        },
+        {
+          "id": "329a1ab880c276331f5758b54e6875309f8814f6",
+          "title": "吉米·金梅尔采访詹姆斯·塔拉里科 / Jimmy Kimmel Interviews James Talarico",
+          "url": "https://www.youtube.com/watch?v=WLDE9LrGpNk",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-12T19:28:24Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7397,
-      "importance": 0.7397,
-      "importance_score": 0.7397,
-      "importance_label": "行业动态",
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5569,
+      "importance": 0.5569,
+      "importance_score": 0.5569,
+      "importance_label": "多源热议",
       "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6387,
-        "story_heat": 0.0
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9196,
+        "story_heat": 0.5
       },
-      "category": "industry",
+      "category": "multi_source",
       "reasons": [
-        "high_ai_relevance"
+        "multi_source"
       ],
-      "earliest_at": "2026-09-12T16:39:24Z",
-      "latest_at": "2026-09-12T16:39:24Z",
+      "earliest_at": "2026-09-12T19:28:24Z",
+      "latest_at": "2026-09-13T04:41:15.291000Z",
       "primary_item": {
-        "id": "0c11f387aefb9586900aa026a57f208fb2c0f0c9",
-        "title": "Suno 发布 v6 音乐模型，推出 v6、v6-wild、v6-mini 三个版本",
-        "url": "https://aihot.news/items/cmtym1wo1039krodl7j8164q8",
-        "source": "Suno：Blog（网页）",
-        "source_name": "AI HOT"
+        "id": "e6886b0b3c45e66d43ce002b0683a1aa1aea93aa",
+        "title": "Show HN: 3dbae 上的实时 AI 渲染",
+        "url": "https://www.youtube.com/watch?v=Q9EZkVx-pws",
+        "source": "www.youtube.com",
+        "source_name": "Buzzing"
       }
     },
     {
-      "story_id": "story_4375919a25b4",
-      "title": "Sam Altman 表示同意 Dario Amodei 的放缓前沿主张，OpenAI 将同样开放独立评估者访问",
-      "url": "https://aihot.news/items/cmtymlrth035dronv9zqv9ccb",
-      "primary_url": "https://aihot.news/items/cmtymlrth035dronv9zqv9ccb",
-      "source": "X：Sam Altman (@sama)",
-      "source_name": "AI HOT",
+      "story_id": "story_29a046c34d36",
+      "title": "除了我之外，大家都应该放缓人工智能的发展步伐",
+      "url": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me",
+      "primary_url": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me",
+      "source": "xeiaso.net",
+      "source_name": "Buzzing",
       "sources": [
         {
-          "id": "7c2d1dd6d87822575450a141b5320f846b7f4f75",
-          "title": "Sam Altman 表示同意 Dario Amodei 的放缓前沿主张，OpenAI 将同样开放独立评估者访问",
-          "url": "https://aihot.news/items/cmtymlrth035dronv9zqv9ccb",
-          "source": "X：Sam Altman (@sama)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-12T16:30:45Z"
+          "id": "7aa291d9469439362578a0e5a8e371c69020d4fb",
+          "title": "除了我之外，大家都应该放缓人工智能的发展步伐",
+          "url": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me",
+          "source": "xeiaso.net",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-13T02:05:04.827000Z"
+        },
+        {
+          "id": "0b5444f6b177f66eda529e75f607b4314eca6bc3",
+          "title": "除了我之外，大家都应该放慢人工智能的发展步伐",
+          "url": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me",
+          "source": "xeiaso.net",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-13T01:33:37.975000Z"
+        },
+        {
+          "id": "500799f10129763ff92b8a1b4df4fccbccfef2d7",
+          "title": "除了我之外，大家都应该放慢人工智能的发展步伐 / Everyone should slow down AI development except for me",
+          "url": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-13T00:53:30Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 3,
       "source_names": [
-        "X：Sam Altman (@sama)"
+        "Lobsters (技术社区)",
+        "xeiaso.net"
       ],
       "items": [
         {
-          "id": "7c2d1dd6d87822575450a141b5320f846b7f4f75",
-          "title": "Sam Altman 表示同意 Dario Amodei 的放缓前沿主张，OpenAI 将同样开放独立评估者访问",
-          "url": "https://aihot.news/items/cmtymlrth035dronv9zqv9ccb",
-          "source": "X：Sam Altman (@sama)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-12T16:30:45Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7385,
-      "importance": 0.7385,
-      "importance_score": 0.7385,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6327,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-12T16:30:45Z",
-      "latest_at": "2026-09-12T16:30:45Z",
-      "primary_item": {
-        "id": "7c2d1dd6d87822575450a141b5320f846b7f4f75",
-        "title": "Sam Altman 表示同意 Dario Amodei 的放缓前沿主张，OpenAI 将同样开放独立评估者访问",
-        "url": "https://aihot.news/items/cmtymlrth035dronv9zqv9ccb",
-        "source": "X：Sam Altman (@sama)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_7cd67c36e063",
-      "title": "OpenAI 发布 GPT-6 Astra 并展示社区构建案例",
-      "url": "https://aihot.news/items/cmtyof5al04e2rog01a0893gu",
-      "primary_url": "https://aihot.news/items/cmtyof5al04e2rog01a0893gu",
-      "source": "X：OpenAI Developers (@OpenAIDevs)",
-      "source_name": "AI HOT",
-      "sources": [
+          "id": "7aa291d9469439362578a0e5a8e371c69020d4fb",
+          "title": "除了我之外，大家都应该放缓人工智能的发展步伐",
+          "url": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me",
+          "source": "xeiaso.net",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-13T02:05:04.827000Z"
+        },
         {
-          "id": "1d63444531da28a7bbcf8e7d5252f456a9db0330",
-          "title": "OpenAI 发布 GPT-6 Astra 并展示社区构建案例",
-          "url": "https://aihot.news/items/cmtyof5al04e2rog01a0893gu",
-          "source": "X：OpenAI Developers (@OpenAIDevs)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-12T17:33:23Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：OpenAI Developers (@OpenAIDevs)"
-      ],
-      "items": [
+          "id": "0b5444f6b177f66eda529e75f607b4314eca6bc3",
+          "title": "除了我之外，大家都应该放慢人工智能的发展步伐",
+          "url": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me",
+          "source": "xeiaso.net",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-13T01:33:37.975000Z"
+        },
         {
-          "id": "1d63444531da28a7bbcf8e7d5252f456a9db0330",
-          "title": "OpenAI 发布 GPT-6 Astra 并展示社区构建案例",
-          "url": "https://aihot.news/items/cmtyof5al04e2rog01a0893gu",
-          "source": "X：OpenAI Developers (@OpenAIDevs)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-12T17:33:23Z"
+          "id": "500799f10129763ff92b8a1b4df4fccbccfef2d7",
+          "title": "除了我之外，大家都应该放慢人工智能的发展步伐 / Everyone should slow down AI development except for me",
+          "url": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-13T00:53:30Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7472,
-      "importance": 0.7472,
-      "importance_score": 0.7472,
-      "importance_label": "行业动态",
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5352,
+      "importance": 0.5352,
+      "importance_score": 0.5352,
+      "importance_label": "多源热议",
       "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6762,
-        "story_heat": 0.0
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8111,
+        "story_heat": 0.5
       },
-      "category": "industry",
+      "category": "multi_source",
       "reasons": [
-        "high_ai_relevance"
+        "multi_source"
       ],
-      "earliest_at": "2026-09-12T17:33:23Z",
-      "latest_at": "2026-09-12T17:33:23Z",
+      "earliest_at": "2026-09-13T00:53:30Z",
+      "latest_at": "2026-09-13T02:05:04.827000Z",
       "primary_item": {
-        "id": "1d63444531da28a7bbcf8e7d5252f456a9db0330",
-        "title": "OpenAI 发布 GPT-6 Astra 并展示社区构建案例",
-        "url": "https://aihot.news/items/cmtyof5al04e2rog01a0893gu",
-        "source": "X：OpenAI Developers (@OpenAIDevs)",
-        "source_name": "AI HOT"
+        "id": "7aa291d9469439362578a0e5a8e371c69020d4fb",
+        "title": "除了我之外，大家都应该放缓人工智能的发展步伐",
+        "url": "https://xeiaso.net/notes/2026/everyone-slowdown-but-me",
+        "source": "xeiaso.net",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -475,14 +548,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.548,
-      "importance": 0.548,
-      "importance_score": 0.548,
+      "score": 0.5039,
+      "importance": 0.5039,
+      "importance_score": 0.5039,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.7796,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -497,6 +570,84 @@
         "url": "https://www.ithome.com/1/001/685.htm",
         "source": "Readhub · AI",
         "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_16316487dc98",
+      "title": "Real-SWE：基于私有、真实世界的企业代码库对AI模型进行基准测试",
+      "url": "https://withspecific.com/benchmarks/real-swe",
+      "primary_url": "https://withspecific.com/benchmarks/real-swe",
+      "source": "withspecific.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "cbd4073f98db86248f7cf2f5f9085cf162590f3e",
+          "title": "Real-SWE：基于私有、真实世界的企业代码库对AI模型进行基准测试",
+          "url": "https://withspecific.com/benchmarks/real-swe",
+          "source": "withspecific.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-13T01:18:53.561000Z"
+        },
+        {
+          "id": "f27d0b416be8433b2751712b014d0cb9eca66ad8",
+          "title": "Real-SWE：基于私有、真实世界的企业代码库对AI模型进行基准测试 / Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases",
+          "url": "https://withspecific.com/benchmarks/real-swe",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-12T20:25:48Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "withspecific.com"
+      ],
+      "items": [
+        {
+          "id": "cbd4073f98db86248f7cf2f5f9085cf162590f3e",
+          "title": "Real-SWE：基于私有、真实世界的企业代码库对AI模型进行基准测试",
+          "url": "https://withspecific.com/benchmarks/real-swe",
+          "source": "withspecific.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-13T01:18:53.561000Z"
+        },
+        {
+          "id": "f27d0b416be8433b2751712b014d0cb9eca66ad8",
+          "title": "Real-SWE：基于私有、真实世界的企业代码库对AI模型进行基准测试 / Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases",
+          "url": "https://withspecific.com/benchmarks/real-swe",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-12T20:25:48Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5038,
+      "importance": 0.5038,
+      "importance_score": 0.5038,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7791,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-12T20:25:48Z",
+      "latest_at": "2026-09-13T01:18:53.561000Z",
+      "primary_item": {
+        "id": "cbd4073f98db86248f7cf2f5f9085cf162590f3e",
+        "title": "Real-SWE：基于私有、真实世界的企业代码库对AI模型进行基准测试",
+        "url": "https://withspecific.com/benchmarks/real-swe",
+        "source": "withspecific.com",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -553,14 +704,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5411,
-      "importance": 0.5411,
-      "importance_score": 0.5411,
+      "score": 0.497,
+      "importance": 0.497,
+      "importance_score": 0.497,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9653,
+        "recency": 0.7449,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -579,7 +730,7 @@
     },
     {
       "story_id": "story_22407f1a50da",
-      "title": "OpenAI's Sam Altman says it would be 'ill-advised' to go public in 2026",
+      "title": "OpenAI 的 Sam Altman 表示，在 2026 年上市是“不明智的” / OpenAI's Sam Altman says it would be 'ill-advised' to go public in 2026",
       "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026",
       "primary_url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026",
       "source": "Hacker News (黑客新闻)",
@@ -587,7 +738,7 @@
       "sources": [
         {
           "id": "86bb588c47cf8749a6c9a05905f2ca5c26a0d0ec",
-          "title": "OpenAI's Sam Altman says it would be 'ill-advised' to go public in 2026",
+          "title": "OpenAI 的 Sam Altman 表示，在 2026 年上市是“不明智的” / OpenAI's Sam Altman says it would be 'ill-advised' to go public in 2026",
           "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
@@ -612,7 +763,7 @@
       "items": [
         {
           "id": "86bb588c47cf8749a6c9a05905f2ca5c26a0d0ec",
-          "title": "OpenAI's Sam Altman says it would be 'ill-advised' to go public in 2026",
+          "title": "OpenAI 的 Sam Altman 表示，在 2026 年上市是“不明智的” / OpenAI's Sam Altman says it would be 'ill-advised' to go public in 2026",
           "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
@@ -631,14 +782,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5076,
-      "importance": 0.5076,
-      "importance_score": 0.5076,
+      "score": 0.4635,
+      "importance": 0.4635,
+      "importance_score": 0.4635,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7978,
+        "recency": 0.5774,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -649,87 +800,10 @@
       "latest_at": "2026-09-12T20:28:29Z",
       "primary_item": {
         "id": "86bb588c47cf8749a6c9a05905f2ca5c26a0d0ec",
-        "title": "OpenAI's Sam Altman says it would be 'ill-advised' to go public in 2026",
+        "title": "OpenAI 的 Sam Altman 表示，在 2026 年上市是“不明智的” / OpenAI's Sam Altman says it would be 'ill-advised' to go public in 2026",
         "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026",
         "source": "Hacker News (黑客新闻)",
         "source_name": "Info Flow"
-      }
-    },
-    {
-      "story_id": "story_774f7412d1a3",
-      "title": "LG称我们发布假新闻 [视频] / LG Says We're Fake News [video]",
-      "url": "https://www.youtube.com/watch?v=ToP9xfLDSME",
-      "primary_url": "https://www.youtube.com/watch?v=ToP9xfLDSME",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "bfadcb88e87ad0b722983f6b1be1b33d7f349d71",
-          "title": "LG称我们发布假新闻 [视频] / LG Says We're Fake News [video]",
-          "url": "https://www.youtube.com/watch?v=ToP9xfLDSME",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-12T19:35:36Z"
-        },
-        {
-          "id": "329a1ab880c276331f5758b54e6875309f8814f6",
-          "title": "Jimmy Kimmel Interviews James Talarico",
-          "url": "https://www.youtube.com/watch?v=WLDE9LrGpNk",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-12T19:28:24Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热"
-      ],
-      "items": [
-        {
-          "id": "bfadcb88e87ad0b722983f6b1be1b33d7f349d71",
-          "title": "LG称我们发布假新闻 [视频] / LG Says We're Fake News [video]",
-          "url": "https://www.youtube.com/watch?v=ToP9xfLDSME",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-12T19:35:36Z"
-        },
-        {
-          "id": "329a1ab880c276331f5758b54e6875309f8814f6",
-          "title": "Jimmy Kimmel Interviews James Talarico",
-          "url": "https://www.youtube.com/watch?v=WLDE9LrGpNk",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-12T19:28:24Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5002,
-      "importance": 0.5002,
-      "importance_score": 0.5002,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7611,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-12T19:28:24Z",
-      "latest_at": "2026-09-12T19:35:36Z",
-      "primary_item": {
-        "id": "bfadcb88e87ad0b722983f6b1be1b33d7f349d71",
-        "title": "LG称我们发布假新闻 [视频] / LG Says We're Fake News [video]",
-        "url": "https://www.youtube.com/watch?v=ToP9xfLDSME",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
       }
     },
     {
@@ -786,14 +860,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4921,
-      "importance": 0.4921,
-      "importance_score": 0.4921,
+      "score": 0.448,
+      "importance": 0.448,
+      "importance_score": 0.448,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7204,
+        "recency": 0.5,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -864,14 +938,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4879,
-      "importance": 0.4879,
-      "importance_score": 0.4879,
+      "score": 0.4438,
+      "importance": 0.4438,
+      "importance_score": 0.4438,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6996,
+        "recency": 0.4792,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -942,14 +1016,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4845,
-      "importance": 0.4845,
-      "importance_score": 0.4845,
+      "score": 0.4404,
+      "importance": 0.4404,
+      "importance_score": 0.4404,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6826,
+        "recency": 0.4622,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1020,14 +1094,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4755,
-      "importance": 0.4755,
-      "importance_score": 0.4755,
+      "score": 0.4314,
+      "importance": 0.4314,
+      "importance_score": 0.4314,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6373,
+        "recency": 0.4169,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1097,14 +1171,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4627,
-      "importance": 0.4627,
-      "importance_score": 0.4627,
+      "score": 0.4186,
+      "importance": 0.4186,
+      "importance_score": 0.4186,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.5733,
+        "recency": 0.3529,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1175,14 +1249,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4623,
-      "importance": 0.4623,
-      "importance_score": 0.4623,
+      "score": 0.4182,
+      "importance": 0.4182,
+      "importance_score": 0.4182,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.5716,
+        "recency": 0.3512,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1253,14 +1327,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4921,
-      "importance": 0.4921,
-      "importance_score": 0.4921,
+      "score": 0.448,
+      "importance": 0.448,
+      "importance_score": 0.448,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7204,
+        "recency": 0.5,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1331,14 +1405,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4209,
-      "importance": 0.4209,
-      "importance_score": 0.4209,
+      "score": 0.3768,
+      "importance": 0.3768,
+      "importance_score": 0.3768,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.3646,
+        "recency": 0.1442,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1352,84 +1426,6 @@
         "title": "一位开发者就AI代码中的粗制滥造问题给Claude Code的创建者发了一封邮件。鲍里斯·切尔尼回复了这封邮件。",
         "url": "https://www.businessinsider.com/claude-codes-creator-email-ai-slop-reply-2026-9",
         "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_09e50792b59f",
-      "title": "谷歌窃取了开源代码，却未注明作者（Artemis/Minitap）",
-      "url": "https://www.minitap.ai/blog/i-expected-better-from-google",
-      "primary_url": "https://www.minitap.ai/blog/i-expected-better-from-google",
-      "source": "www.minitap.ai",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "dc157b82300112dd9d9e6e708a2586f74eabe0a6",
-          "title": "谷歌窃取了开源代码，却未注明作者（Artemis/Minitap）",
-          "url": "https://www.minitap.ai/blog/i-expected-better-from-google",
-          "source": "www.minitap.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-12T05:37:39.339000Z"
-        },
-        {
-          "id": "86d3ffef67a216332afb31ac15e7e55c85322225",
-          "title": "谷歌窃取了开源代码，却未注明作者（Artemis/Minitap） / Google stole open source code without crediting the authors (Artemis/Minitap)",
-          "url": "https://www.minitap.ai/blog/i-expected-better-from-google",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-12T02:39:39Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "www.minitap.ai"
-      ],
-      "items": [
-        {
-          "id": "dc157b82300112dd9d9e6e708a2586f74eabe0a6",
-          "title": "谷歌窃取了开源代码，却未注明作者（Artemis/Minitap）",
-          "url": "https://www.minitap.ai/blog/i-expected-better-from-google",
-          "source": "www.minitap.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-12T05:37:39.339000Z"
-        },
-        {
-          "id": "86d3ffef67a216332afb31ac15e7e55c85322225",
-          "title": "谷歌窃取了开源代码，却未注明作者（Artemis/Minitap） / Google stole open source code without crediting the authors (Artemis/Minitap)",
-          "url": "https://www.minitap.ai/blog/i-expected-better-from-google",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-12T02:39:39Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.3838,
-      "importance": 0.3838,
-      "importance_score": 0.3838,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.1791,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-12T02:39:39Z",
-      "latest_at": "2026-09-12T05:37:39.339000Z",
-      "primary_item": {
-        "id": "dc157b82300112dd9d9e6e708a2586f74eabe0a6",
-        "title": "谷歌窃取了开源代码，却未注明作者（Artemis/Minitap）",
-        "url": "https://www.minitap.ai/blog/i-expected-better-from-google",
-        "source": "www.minitap.ai",
         "source_name": "Buzzing"
       }
     }
