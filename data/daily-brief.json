@@ -1,8 +1,69 @@
 {
-  "generated_at": "2026-09-14T10:03:15.488798Z",
+  "generated_at": "2026-09-14T16:27:50.212043Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_2267286cfd5c",
+      "title": "DevFest is back",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026",
+      "primary_url": "https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026",
+      "source": "Google AI Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "453d8a6e98821cedd3278f7c71e21012aa8faafd",
+          "title": "DevFest is back",
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-14T16:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Google AI Blog"
+      ],
+      "items": [
+        {
+          "id": "453d8a6e98821cedd3278f7c71e21012aa8faafd",
+          "title": "DevFest is back",
+          "url": "https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026",
+          "source": "Google AI Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-14T16:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8571,
+      "importance": 0.8571,
+      "importance_score": 0.8571,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9807,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-14T16:00:00Z",
+      "latest_at": "2026-09-14T16:00:00Z",
+      "primary_item": {
+        "id": "453d8a6e98821cedd3278f7c71e21012aa8faafd",
+        "title": "DevFest is back",
+        "url": "https://blog.google/innovation-and-ai/technology/developers-tools/devfest2026",
+        "source": "Google AI Blog",
+        "source_name": "Official AI Updates"
+      }
+    },
     {
       "story_id": "story_6d3eefc8e72f",
       "title": "DeepSeek-V4.1-Flash上线千问AI平台，API与Token Plan同步开放",
@@ -57,14 +118,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.837,
-      "importance": 0.837,
-      "importance_score": 0.837,
+      "score": 0.7836,
+      "importance": 0.7836,
+      "importance_score": 0.7836,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.7329,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -81,6 +142,66 @@
         "url": "https://www.aibase.com/news/31028",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_89d3100f1511",
+      "title": "小红书 AllSpark 开源 Search Agent 模型 Iris，35B 与 397B 版本同量级成绩领先",
+      "url": "https://aihot.news/items/cmu12ocst0b6nro2nypi25zyq",
+      "primary_url": "https://aihot.news/items/cmu12ocst0b6nro2nypi25zyq",
+      "source": "公众号：小红书技术（dots.llm）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "b8c070394d69d43b1b3a6213ed8f22e47140760a",
+          "title": "小红书 AllSpark 开源 Search Agent 模型 Iris，35B 与 397B 版本同量级成绩领先",
+          "url": "https://aihot.news/items/cmu12ocst0b6nro2nypi25zyq",
+          "source": "公众号：小红书技术（dots.llm）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-14T09:59:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "公众号：小红书技术（dots.llm）"
+      ],
+      "items": [
+        {
+          "id": "b8c070394d69d43b1b3a6213ed8f22e47140760a",
+          "title": "小红书 AllSpark 开源 Search Agent 模型 Iris，35B 与 397B 版本同量级成绩领先",
+          "url": "https://aihot.news/items/cmu12ocst0b6nro2nypi25zyq",
+          "source": "公众号：小红书技术（dots.llm）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-14T09:59:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.758,
+      "importance": 0.758,
+      "importance_score": 0.758,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.73,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-14T09:59:00Z",
+      "latest_at": "2026-09-14T09:59:00Z",
+      "primary_item": {
+        "id": "b8c070394d69d43b1b3a6213ed8f22e47140760a",
+        "title": "小红书 AllSpark 开源 Search Agent 模型 Iris，35B 与 397B 版本同量级成绩领先",
+        "url": "https://aihot.news/items/cmu12ocst0b6nro2nypi25zyq",
+        "source": "公众号：小红书技术（dots.llm）",
+        "source_name": "AI HOT"
       }
     },
     {
@@ -137,14 +258,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.837,
-      "importance": 0.837,
-      "importance_score": 0.837,
+      "score": 0.7836,
+      "importance": 0.7836,
+      "importance_score": 0.7836,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.7329,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -198,21 +319,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8012,
-      "importance": 0.8012,
-      "importance_score": 0.8012,
+      "score": 0.7478,
+      "importance": 0.7478,
+      "importance_score": 0.7478,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.5811,
+        "recency": 0.314,
         "story_heat": 0.0
       },
       "category": "official",
       "reasons": [
         "official_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-14T00:00:00Z",
       "latest_at": "2026-09-14T00:00:00Z",
@@ -278,14 +398,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.837,
-      "importance": 0.837,
-      "importance_score": 0.837,
+      "score": 0.7836,
+      "importance": 0.7836,
+      "importance_score": 0.7836,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.7329,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -358,14 +478,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.837,
-      "importance": 0.837,
-      "importance_score": 0.837,
+      "score": 0.7836,
+      "importance": 0.7836,
+      "importance_score": 0.7836,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.7329,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -438,14 +558,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.837,
-      "importance": 0.837,
-      "importance_score": 0.837,
+      "score": 0.7836,
+      "importance": 0.7836,
+      "importance_score": 0.7836,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.7329,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -499,14 +619,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
+      "score": 0.7586,
+      "importance": 0.7586,
+      "importance_score": 0.7586,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.7329,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -559,14 +679,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
+      "score": 0.7586,
+      "importance": 0.7586,
+      "importance_score": 0.7586,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.7329,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -582,6 +702,101 @@
         "url": "https://www.aibase.com/news/31035",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_5c30ba8a42b1",
+      "title": "受人工智能放缓担忧影响，芯片制造商股价下跌：市场综述",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-13/us-stock-futures-fall-on-ai-warning-oil-gains-markets-wrap",
+      "primary_url": "https://www.bloomberg.com/news/articles/2026-09-13/us-stock-futures-fall-on-ai-warning-oil-gains-markets-wrap",
+      "source": "www.bloomberg.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "993f816775eadc79238823fd7f16e5a0509959d8",
+          "title": "受人工智能放缓担忧影响，芯片制造商股价下跌：市场综述",
+          "url": "https://www.bloomberg.com/news/articles/2026-09-13/us-stock-futures-fall-on-ai-warning-oil-gains-markets-wrap",
+          "source": "www.bloomberg.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-14T16:17:25.747000Z"
+        },
+        {
+          "id": "94d182b1c85afdf6543a275c3b5a4d2b6fca451c",
+          "title": "受人工智能放缓担忧影响，股市下跌，油价上涨：市场综述",
+          "url": "https://www.bloomberg.com/news/articles/2026-09-13/us-stock-futures-fall-on-ai-warning-oil-gains-markets-wrap",
+          "source": "www.bloomberg.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-14T02:07:13.390000Z"
+        },
+        {
+          "id": "4500084fefa573275d79d8f80e6c9c6ed7be0e30",
+          "title": "受人工智能担忧影响，美股期货下跌，油价上涨：市场综述",
+          "url": "https://www.bloomberg.com/news/articles/2026-09-13/us-stock-futures-fall-on-ai-warning-oil-gains-markets-wrap",
+          "source": "www.bloomberg.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-13T23:29:16.467000Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "www.bloomberg.com"
+      ],
+      "items": [
+        {
+          "id": "993f816775eadc79238823fd7f16e5a0509959d8",
+          "title": "受人工智能放缓担忧影响，芯片制造商股价下跌：市场综述",
+          "url": "https://www.bloomberg.com/news/articles/2026-09-13/us-stock-futures-fall-on-ai-warning-oil-gains-markets-wrap",
+          "source": "www.bloomberg.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-14T16:17:25.747000Z"
+        },
+        {
+          "id": "94d182b1c85afdf6543a275c3b5a4d2b6fca451c",
+          "title": "受人工智能放缓担忧影响，股市下跌，油价上涨：市场综述",
+          "url": "https://www.bloomberg.com/news/articles/2026-09-13/us-stock-futures-fall-on-ai-warning-oil-gains-markets-wrap",
+          "source": "www.bloomberg.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-14T02:07:13.390000Z"
+        },
+        {
+          "id": "4500084fefa573275d79d8f80e6c9c6ed7be0e30",
+          "title": "受人工智能担忧影响，美股期货下跌，油价上涨：市场综述",
+          "url": "https://www.bloomberg.com/news/articles/2026-09-13/us-stock-futures-fall-on-ai-warning-oil-gains-markets-wrap",
+          "source": "www.bloomberg.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-13T23:29:16.467000Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5716,
+      "importance": 0.5716,
+      "importance_score": 0.5716,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9928,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-13T23:29:16.467000Z",
+      "latest_at": "2026-09-14T16:17:25.747000Z",
+      "primary_item": {
+        "id": "993f816775eadc79238823fd7f16e5a0509959d8",
+        "title": "受人工智能放缓担忧影响，芯片制造商股价下跌：市场综述",
+        "url": "https://www.bloomberg.com/news/articles/2026-09-13/us-stock-futures-fall-on-ai-warning-oil-gains-markets-wrap",
+        "source": "www.bloomberg.com",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -619,14 +834,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
+      "score": 0.7586,
+      "importance": 0.7586,
+      "importance_score": 0.7586,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.7329,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -642,6 +857,396 @@
         "url": "https://www.aibase.com/news/31036",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_dce815e05e9f",
+      "title": "真是个奇妙的时代——失控的AI代理攻击了RubyGems.org",
+      "url": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive",
+      "primary_url": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive",
+      "source": "tenderlovemaking.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "698d98f8d4f45be571189e4dc3f0cf2ace2ef8d0",
+          "title": "真是个奇妙的时代——失控的AI代理攻击了RubyGems.org",
+          "url": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive",
+          "source": "tenderlovemaking.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-14T16:02:42.072000Z"
+        },
+        {
+          "id": "3ad11f45a28a5a5b3f172cf13333778cf724c0a1",
+          "title": "真是个奇妙的时代——失控的AI代理攻击了RubyGems.org / What a time to be alive",
+          "url": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-14T12:40:57Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "tenderlovemaking.com"
+      ],
+      "items": [
+        {
+          "id": "698d98f8d4f45be571189e4dc3f0cf2ace2ef8d0",
+          "title": "真是个奇妙的时代——失控的AI代理攻击了RubyGems.org",
+          "url": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive",
+          "source": "tenderlovemaking.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-14T16:02:42.072000Z"
+        },
+        {
+          "id": "3ad11f45a28a5a5b3f172cf13333778cf724c0a1",
+          "title": "真是个奇妙的时代——失控的AI代理攻击了RubyGems.org / What a time to be alive",
+          "url": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-14T12:40:57Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5445,
+      "importance": 0.5445,
+      "importance_score": 0.5445,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9825,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-14T12:40:57Z",
+      "latest_at": "2026-09-14T16:02:42.072000Z",
+      "primary_item": {
+        "id": "698d98f8d4f45be571189e4dc3f0cf2ace2ef8d0",
+        "title": "真是个奇妙的时代——失控的AI代理攻击了RubyGems.org",
+        "url": "https://tenderlovemaking.com/2026/09/11/what-a-time-to-be-alive",
+        "source": "tenderlovemaking.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_e2b0ea1bcac3",
+      "title": "据《金融时报》报道，Anthropic向投资者表示，公司将连续第二个季度实现盈利 / Anthropic tells investors it will be profitable for second straight quarter",
+      "url": "https://www.reuters.com/business/retail-consumer/anthropic-tells-investors-it-will-be-profitable-second-straight-quarter-ft-2026-09-13",
+      "primary_url": "https://www.reuters.com/business/retail-consumer/anthropic-tells-investors-it-will-be-profitable-second-straight-quarter-ft-2026-09-13",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "4a19b7d90ca954f09bfdc19d6b8a1ed3873c8b83",
+          "title": "据《金融时报》报道，Anthropic向投资者表示，公司将连续第二个季度实现盈利 / Anthropic tells investors it will be profitable for second straight quarter",
+          "url": "https://www.reuters.com/business/retail-consumer/anthropic-tells-investors-it-will-be-profitable-second-straight-quarter-ft-2026-09-13",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-14T15:47:29Z"
+        },
+        {
+          "id": "d65e63c39eb5f07e7ae328e00203f92fbaa1774a",
+          "title": "据《金融时报》报道，Anthropic向投资者表示，公司将连续第二个季度实现盈利",
+          "url": "https://www.reuters.com/business/retail-consumer/anthropic-tells-investors-it-will-be-profitable-second-straight-quarter-ft-2026-09-13",
+          "source": "www.reuters.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-13T23:13:27.513000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "www.reuters.com"
+      ],
+      "items": [
+        {
+          "id": "4a19b7d90ca954f09bfdc19d6b8a1ed3873c8b83",
+          "title": "据《金融时报》报道，Anthropic向投资者表示，公司将连续第二个季度实现盈利 / Anthropic tells investors it will be profitable for second straight quarter",
+          "url": "https://www.reuters.com/business/retail-consumer/anthropic-tells-investors-it-will-be-profitable-second-straight-quarter-ft-2026-09-13",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-14T15:47:29Z"
+        },
+        {
+          "id": "d65e63c39eb5f07e7ae328e00203f92fbaa1774a",
+          "title": "据《金融时报》报道，Anthropic向投资者表示，公司将连续第二个季度实现盈利",
+          "url": "https://www.reuters.com/business/retail-consumer/anthropic-tells-investors-it-will-be-profitable-second-straight-quarter-ft-2026-09-13",
+          "source": "www.reuters.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-13T23:13:27.513000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5424,
+      "importance": 0.5424,
+      "importance_score": 0.5424,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.972,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-13T23:13:27.513000Z",
+      "latest_at": "2026-09-14T15:47:29Z",
+      "primary_item": {
+        "id": "4a19b7d90ca954f09bfdc19d6b8a1ed3873c8b83",
+        "title": "据《金融时报》报道，Anthropic向投资者表示，公司将连续第二个季度实现盈利 / Anthropic tells investors it will be profitable for second straight quarter",
+        "url": "https://www.reuters.com/business/retail-consumer/anthropic-tells-investors-it-will-be-profitable-second-straight-quarter-ft-2026-09-13",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
+      }
+    },
+    {
+      "story_id": "story_397ec42a4d06",
+      "title": "在关于人工智能末日之争的讨论后，微软发布了长达37页的“人文主义”行为准则：“此事刻不容缓”",
+      "url": "https://www.businessinsider.com/microsoft-ai-policy-code-of-conduct-2026-9",
+      "primary_url": "https://www.businessinsider.com/microsoft-ai-policy-code-of-conduct-2026-9",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "ddf7db58bb1b2af8649d3b08e542dd5afabcf08f",
+          "title": "在关于人工智能末日之争的讨论后，微软发布了长达37页的“人文主义”行为准则：“此事刻不容缓”",
+          "url": "https://www.businessinsider.com/microsoft-ai-policy-code-of-conduct-2026-9",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-14T15:13:48.382000Z"
+        },
+        {
+          "id": "f3ae6e613293af95db6e04aec885a1cf7d430178",
+          "title": "在关于人工智能末日之争的讨论后，微软发布了长达37页的“人文主义”行为准则：“此事刻不容缓” / Microsoft publishes 37-page 'humanist' code of conduct after AI doom debate: 'This is urgent'",
+          "url": "https://www.businessinsider.com/microsoft-ai-policy-code-of-conduct-2026-9",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-14T14:30:19Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "ddf7db58bb1b2af8649d3b08e542dd5afabcf08f",
+          "title": "在关于人工智能末日之争的讨论后，微软发布了长达37页的“人文主义”行为准则：“此事刻不容缓”",
+          "url": "https://www.businessinsider.com/microsoft-ai-policy-code-of-conduct-2026-9",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-14T15:13:48.382000Z"
+        },
+        {
+          "id": "f3ae6e613293af95db6e04aec885a1cf7d430178",
+          "title": "在关于人工智能末日之争的讨论后，微软发布了长达37页的“人文主义”行为准则：“此事刻不容缓” / Microsoft publishes 37-page 'humanist' code of conduct after AI doom debate: 'This is urgent'",
+          "url": "https://www.businessinsider.com/microsoft-ai-policy-code-of-conduct-2026-9",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-14T14:30:19Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5377,
+      "importance": 0.5377,
+      "importance_score": 0.5377,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9486,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-14T14:30:19Z",
+      "latest_at": "2026-09-14T15:13:48.382000Z",
+      "primary_item": {
+        "id": "ddf7db58bb1b2af8649d3b08e542dd5afabcf08f",
+        "title": "在关于人工智能末日之争的讨论后，微软发布了长达37页的“人文主义”行为准则：“此事刻不容缓”",
+        "url": "https://www.businessinsider.com/microsoft-ai-policy-code-of-conduct-2026-9",
+        "source": "www.businessinsider.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_b401eeebb1cd",
+      "title": "OpenArch——现代大型语言模型（LLM）架构的 PyTorch 实现",
+      "url": "https://github.com/anuj0456/OpenArch",
+      "primary_url": "https://github.com/anuj0456/OpenArch",
+      "source": "github.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "b02d988aa26fb7dee2636a5d83f3fb64d8dfee8c",
+          "title": "OpenArch——现代大型语言模型（LLM）架构的 PyTorch 实现",
+          "url": "https://github.com/anuj0456/OpenArch",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-14T14:58:59.070000Z"
+        },
+        {
+          "id": "dbe371efe824f7ecd6e4521b1878aff3b62724a8",
+          "title": "OpenArch——现代大型语言模型（LLM）架构的 PyTorch 实现 / OpenArch – PyTorch implementations of modern LLM architectures",
+          "url": "https://github.com/anuj0456/OpenArch",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-14T07:55:19Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "github.com"
+      ],
+      "items": [
+        {
+          "id": "b02d988aa26fb7dee2636a5d83f3fb64d8dfee8c",
+          "title": "OpenArch——现代大型语言模型（LLM）架构的 PyTorch 实现",
+          "url": "https://github.com/anuj0456/OpenArch",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-14T14:58:59.070000Z"
+        },
+        {
+          "id": "dbe371efe824f7ecd6e4521b1878aff3b62724a8",
+          "title": "OpenArch——现代大型语言模型（LLM）架构的 PyTorch 实现 / OpenArch – PyTorch implementations of modern LLM architectures",
+          "url": "https://github.com/anuj0456/OpenArch",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-14T07:55:19Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5357,
+      "importance": 0.5357,
+      "importance_score": 0.5357,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9383,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-14T07:55:19Z",
+      "latest_at": "2026-09-14T14:58:59.070000Z",
+      "primary_item": {
+        "id": "b02d988aa26fb7dee2636a5d83f3fb64d8dfee8c",
+        "title": "OpenArch——现代大型语言模型（LLM）架构的 PyTorch 实现",
+        "url": "https://github.com/anuj0456/OpenArch",
+        "source": "github.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_5d637772aa95",
+      "title": "代码显示，苹果的Siri人工智能可被Claude或ChatGPT取代",
+      "url": "https://www.macrumors.com/2026/09/14/siri-can-be-swapped-out-for-chatgpt-claude",
+      "primary_url": "https://www.macrumors.com/2026/09/14/siri-can-be-swapped-out-for-chatgpt-claude",
+      "source": "www.macrumors.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "006e3387b4d75bc7eb9a02058cd2a9ee779f7b7d",
+          "title": "代码显示，苹果的Siri人工智能可被Claude或ChatGPT取代",
+          "url": "https://www.macrumors.com/2026/09/14/siri-can-be-swapped-out-for-chatgpt-claude",
+          "source": "www.macrumors.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-14T14:10:25.991000Z"
+        },
+        {
+          "id": "5b131c14c6d3a4460833cbd2a5e6db0e87c7ea1f",
+          "title": "代码显示，苹果的Siri人工智能可被Claude或ChatGPT取代 / Apple's Siri AI Can Be Swapped Out for Claude, ChatGPT, Code Shows",
+          "url": "https://www.macrumors.com/2026/09/14/siri-can-be-swapped-out-for-chatgpt-claude",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-14T12:01:32Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "www.macrumors.com"
+      ],
+      "items": [
+        {
+          "id": "006e3387b4d75bc7eb9a02058cd2a9ee779f7b7d",
+          "title": "代码显示，苹果的Siri人工智能可被Claude或ChatGPT取代",
+          "url": "https://www.macrumors.com/2026/09/14/siri-can-be-swapped-out-for-chatgpt-claude",
+          "source": "www.macrumors.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-14T14:10:25.991000Z"
+        },
+        {
+          "id": "5b131c14c6d3a4460833cbd2a5e6db0e87c7ea1f",
+          "title": "代码显示，苹果的Siri人工智能可被Claude或ChatGPT取代 / Apple's Siri AI Can Be Swapped Out for Claude, ChatGPT, Code Shows",
+          "url": "https://www.macrumors.com/2026/09/14/siri-can-be-swapped-out-for-chatgpt-claude",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-14T12:01:32Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5289,
+      "importance": 0.5289,
+      "importance_score": 0.5289,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9046,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-14T12:01:32Z",
+      "latest_at": "2026-09-14T14:10:25.991000Z",
+      "primary_item": {
+        "id": "006e3387b4d75bc7eb9a02058cd2a9ee779f7b7d",
+        "title": "代码显示，苹果的Siri人工智能可被Claude或ChatGPT取代",
+        "url": "https://www.macrumors.com/2026/09/14/siri-can-be-swapped-out-for-chatgpt-claude",
+        "source": "www.macrumors.com",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -679,14 +1284,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
+      "score": 0.7586,
+      "importance": 0.7586,
+      "importance_score": 0.7586,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.7329,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -702,6 +1307,83 @@
         "url": "https://www.aibase.com/news/31037",
         "source": "AIbase",
         "source_name": "AIbase"
+      }
+    },
+    {
+      "story_id": "story_8ea3b9c5c50c",
+      "title": "人工智能界领军人物因呼吁放缓人工智能发展而与特朗普发生冲突",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-14/ai-bosses-risk-clash-with-wall-street-and-trump-over-safety-call",
+      "primary_url": "https://www.bloomberg.com/news/articles/2026-09-14/ai-bosses-risk-clash-with-wall-street-and-trump-over-safety-call",
+      "source": "www.bloomberg.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "5b5d31701499e406ddf2a37d924e20fcd04b2049",
+          "title": "人工智能界领军人物因呼吁放缓人工智能发展而与特朗普发生冲突",
+          "url": "https://www.bloomberg.com/news/articles/2026-09-14/ai-bosses-risk-clash-with-wall-street-and-trump-over-safety-call",
+          "source": "www.bloomberg.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-14T15:45:28.428000Z"
+        },
+        {
+          "id": "ce9efb6f4367a86c4b3752426abbca22cf3dd5a3",
+          "title": "人工智能高管因安全呼吁或与华尔街和特朗普发生冲突",
+          "url": "https://www.bloomberg.com/news/articles/2026-09-14/ai-bosses-risk-clash-with-wall-street-and-trump-over-safety-call",
+          "source": "www.bloomberg.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-14T02:22:18.429000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "www.bloomberg.com"
+      ],
+      "items": [
+        {
+          "id": "5b5d31701499e406ddf2a37d924e20fcd04b2049",
+          "title": "人工智能界领军人物因呼吁放缓人工智能发展而与特朗普发生冲突",
+          "url": "https://www.bloomberg.com/news/articles/2026-09-14/ai-bosses-risk-clash-with-wall-street-and-trump-over-safety-call",
+          "source": "www.bloomberg.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-14T15:45:28.428000Z"
+        },
+        {
+          "id": "ce9efb6f4367a86c4b3752426abbca22cf3dd5a3",
+          "title": "人工智能高管因安全呼吁或与华尔街和特朗普发生冲突",
+          "url": "https://www.bloomberg.com/news/articles/2026-09-14/ai-bosses-risk-clash-with-wall-street-and-trump-over-safety-call",
+          "source": "www.bloomberg.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-14T02:22:18.429000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5421,
+      "importance": 0.5421,
+      "importance_score": 0.5421,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9706,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-14T02:22:18.429000Z",
+      "latest_at": "2026-09-14T15:45:28.428000Z",
+      "primary_item": {
+        "id": "5b5d31701499e406ddf2a37d924e20fcd04b2049",
+        "title": "人工智能界领军人物因呼吁放缓人工智能发展而与特朗普发生冲突",
+        "url": "https://www.bloomberg.com/news/articles/2026-09-14/ai-bosses-risk-clash-with-wall-street-and-trump-over-safety-call",
+        "source": "www.bloomberg.com",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -795,14 +1477,14 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5626,
-      "importance": 0.5626,
-      "importance_score": 0.5626,
+      "score": 0.5092,
+      "importance": 0.5092,
+      "importance_score": 0.5092,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8229,
+        "recency": 0.5559,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -816,652 +1498,6 @@
         "title": "《Fable 5.1》破解了“Cyphral Distich”（一项已有370年历史的密码）",
         "url": "https://www.vals.ai/blogs/fable-solves-cyphral-distich",
         "source": "www.vals.ai",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_87afa98087c0",
-      "title": "奥尔特曼支持给 AI“控速”：不是叫停技术进步，而是别让能力跑在对齐前面",
-      "url": "https://www.aibase.com/news/31031",
-      "primary_url": "https://www.aibase.com/news/31031",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "2dcaa2d42cf97ef03f03e70933aeb173371b16ee",
-          "title": "奥尔特曼支持给 AI“控速”：不是叫停技术进步，而是别让能力跑在对齐前面",
-          "url": "https://www.aibase.com/news/31031",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-14T10:03:15.488798Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "2dcaa2d42cf97ef03f03e70933aeb173371b16ee",
-          "title": "奥尔特曼支持给 AI“控速”：不是叫停技术进步，而是别让能力跑在对齐前面",
-          "url": "https://www.aibase.com/news/31031",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-14T10:03:15.488798Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-14T10:03:15.488798Z",
-      "latest_at": "2026-09-14T10:03:15.488798Z",
-      "primary_item": {
-        "id": "2dcaa2d42cf97ef03f03e70933aeb173371b16ee",
-        "title": "奥尔特曼支持给 AI“控速”：不是叫停技术进步，而是别让能力跑在对齐前面",
-        "url": "https://www.aibase.com/news/31031",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_ea4e0ef977c9",
-      "title": "谁来制定人工智能的规则？",
-      "url": "https://cohere.com/blog/who-gets-to-define-the-rules-for-ai",
-      "primary_url": "https://cohere.com/blog/who-gets-to-define-the-rules-for-ai",
-      "source": "cohere.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "7911a2271f08266e201e1e9cbeb42dd81d7ba09a",
-          "title": "谁来制定人工智能的规则？",
-          "url": "https://cohere.com/blog/who-gets-to-define-the-rules-for-ai",
-          "source": "cohere.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-14T09:12:16.798000Z"
-        },
-        {
-          "id": "cb31fc403e51f45bfd9f067d71015feb295f068c",
-          "title": "谁来制定人工智能的规则？ / Who gets to define the rules for AI?",
-          "url": "https://cohere.com/blog/who-gets-to-define-the-rules-for-ai",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-14T04:49:51Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "cohere.com"
-      ],
-      "items": [
-        {
-          "id": "7911a2271f08266e201e1e9cbeb42dd81d7ba09a",
-          "title": "谁来制定人工智能的规则？",
-          "url": "https://cohere.com/blog/who-gets-to-define-the-rules-for-ai",
-          "source": "cohere.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-14T09:12:16.798000Z"
-        },
-        {
-          "id": "cb31fc403e51f45bfd9f067d71015feb295f068c",
-          "title": "谁来制定人工智能的规则？ / Who gets to define the rules for AI?",
-          "url": "https://cohere.com/blog/who-gets-to-define-the-rules-for-ai",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-14T04:49:51Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5409,
-      "importance": 0.5409,
-      "importance_score": 0.5409,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9646,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-14T04:49:51Z",
-      "latest_at": "2026-09-14T09:12:16.798000Z",
-      "primary_item": {
-        "id": "7911a2271f08266e201e1e9cbeb42dd81d7ba09a",
-        "title": "谁来制定人工智能的规则？",
-        "url": "https://cohere.com/blog/who-gets-to-define-the-rules-for-ai",
-        "source": "cohere.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_3149e64f7f8b",
-      "title": "开源人工智能与开放模型推荐书单",
-      "url": "https://www.interconnects.ai/p/open-source-ai-reading-list",
-      "primary_url": "https://www.interconnects.ai/p/open-source-ai-reading-list",
-      "source": "www.interconnects.ai",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "67b4175957bca8a2deecf552a44ee79eb0c43ded",
-          "title": "开源人工智能与开放模型推荐书单",
-          "url": "https://www.interconnects.ai/p/open-source-ai-reading-list",
-          "source": "www.interconnects.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-14T08:25:17.847000Z"
-        },
-        {
-          "id": "c424ebeb06f100291c2bef48b8dec2c7b2a60de0",
-          "title": "开源人工智能与开放模型推荐书单 / Open-source AI and open models reading list",
-          "url": "https://www.interconnects.ai/p/open-source-ai-reading-list",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-14T00:22:51Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "www.interconnects.ai"
-      ],
-      "items": [
-        {
-          "id": "67b4175957bca8a2deecf552a44ee79eb0c43ded",
-          "title": "开源人工智能与开放模型推荐书单",
-          "url": "https://www.interconnects.ai/p/open-source-ai-reading-list",
-          "source": "www.interconnects.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-14T08:25:17.847000Z"
-        },
-        {
-          "id": "c424ebeb06f100291c2bef48b8dec2c7b2a60de0",
-          "title": "开源人工智能与开放模型推荐书单 / Open-source AI and open models reading list",
-          "url": "https://www.interconnects.ai/p/open-source-ai-reading-list",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-14T00:22:51Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5344,
-      "importance": 0.5344,
-      "importance_score": 0.5344,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.932,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-14T00:22:51Z",
-      "latest_at": "2026-09-14T08:25:17.847000Z",
-      "primary_item": {
-        "id": "67b4175957bca8a2deecf552a44ee79eb0c43ded",
-        "title": "开源人工智能与开放模型推荐书单",
-        "url": "https://www.interconnects.ai/p/open-source-ai-reading-list",
-        "source": "www.interconnects.ai",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_7d24eccd50a8",
-      "title": "在关于人工智能将带来灾难的严峻警告声中，所有人的目光都聚焦于特朗普和习近平接下来将采取什么行动",
-      "url": "https://www.businessinsider.com/trump-xi-ai-apocalypse-warning-anthropic-openai-2026-9",
-      "primary_url": "https://www.businessinsider.com/trump-xi-ai-apocalypse-warning-anthropic-openai-2026-9",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "50a22653859d27e1cb6316e580ca406437a9f43b",
-          "title": "在关于人工智能将带来灾难的严峻警告声中，所有人的目光都聚焦于特朗普和习近平接下来将采取什么行动",
-          "url": "https://www.businessinsider.com/trump-xi-ai-apocalypse-warning-anthropic-openai-2026-9",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-14T06:03:16.441000Z"
-        },
-        {
-          "id": "b4f1b89c62455a20188303c18186461e6ad2e1fe",
-          "title": "在关于人工智能将带来灾难的严峻警告声中，所有人的目光都聚焦于特朗普和习近平接下来将采取什么行动 / All eyes are on what Trump and Xi will do amid grim warnings of an AI apocalypse. Here’s what they’ve said.",
-          "url": "https://www.businessinsider.com/trump-xi-ai-apocalypse-warning-anthropic-openai-2026-9",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-14T05:37:02Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "50a22653859d27e1cb6316e580ca406437a9f43b",
-          "title": "在关于人工智能将带来灾难的严峻警告声中，所有人的目光都聚焦于特朗普和习近平接下来将采取什么行动",
-          "url": "https://www.businessinsider.com/trump-xi-ai-apocalypse-warning-anthropic-openai-2026-9",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-14T06:03:16.441000Z"
-        },
-        {
-          "id": "b4f1b89c62455a20188303c18186461e6ad2e1fe",
-          "title": "在关于人工智能将带来灾难的严峻警告声中，所有人的目光都聚焦于特朗普和习近平接下来将采取什么行动 / All eyes are on what Trump and Xi will do amid grim warnings of an AI apocalypse. Here’s what they’ve said.",
-          "url": "https://www.businessinsider.com/trump-xi-ai-apocalypse-warning-anthropic-openai-2026-9",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-14T05:37:02Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5147,
-      "importance": 0.5147,
-      "importance_score": 0.5147,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8333,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-14T05:37:02Z",
-      "latest_at": "2026-09-14T06:03:16.441000Z",
-      "primary_item": {
-        "id": "50a22653859d27e1cb6316e580ca406437a9f43b",
-        "title": "在关于人工智能将带来灾难的严峻警告声中，所有人的目光都聚焦于特朗普和习近平接下来将采取什么行动",
-        "url": "https://www.businessinsider.com/trump-xi-ai-apocalypse-warning-anthropic-openai-2026-9",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_46319a6f086b",
-      "title": "爆料称 DeepSeek 下一波大模型将至：3 万亿参数，性能剑指 GPT-6 Astra",
-      "url": "https://www.aibase.com/news/31026",
-      "primary_url": "https://www.aibase.com/news/31026",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "bd07b217956dd8a67c767e0e3ec20a2fbea80989",
-          "title": "爆料称 DeepSeek 下一波大模型将至：3 万亿参数，性能剑指 GPT-6 Astra",
-          "url": "https://www.aibase.com/news/31026",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-14T10:03:15.488798Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "bd07b217956dd8a67c767e0e3ec20a2fbea80989",
-          "title": "爆料称 DeepSeek 下一波大模型将至：3 万亿参数，性能剑指 GPT-6 Astra",
-          "url": "https://www.aibase.com/news/31026",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-14T10:03:15.488798Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-14T10:03:15.488798Z",
-      "latest_at": "2026-09-14T10:03:15.488798Z",
-      "primary_item": {
-        "id": "bd07b217956dd8a67c767e0e3ec20a2fbea80989",
-        "title": "爆料称 DeepSeek 下一波大模型将至：3 万亿参数，性能剑指 GPT-6 Astra",
-        "url": "https://www.aibase.com/news/31026",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_a48efce8394f",
-      "title": "据《Business Insider》报道，Anthropic选择在纳斯达克上市",
-      "url": "https://reut.rs/3UNQe9n",
-      "primary_url": "https://reut.rs/3UNQe9n",
-      "source": "reut.rs",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "07f0449ec0d1ffb5156eebf4359156b4c3af5d16",
-          "title": "据《Business Insider》报道，Anthropic选择在纳斯达克上市",
-          "url": "https://reut.rs/3UNQe9n",
-          "source": "reut.rs",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-14T02:54:11.058000Z"
-        },
-        {
-          "id": "0f78f4e11e48b4f9dfa561d1e491e17acbe5a581",
-          "title": "据《Business Insider》报道，Anthropic选择在纳斯达克上市 - Reuters",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPcDg3dC1KTGZCUzVUbnNPOGpvSUZHdUhZTlI0eEJjYmdFUE1ZT3RaV29jd3ZJamtjakVRTnNKbE0zcVFETmtSaC1RRXZHTS1GNG56UV8tYkJkbnJpVEVwSzM4MnhpZ3o2bkhkM3Y0aWVNcW1QT0dJVlZoTUlzc0JfaWhvS2phRVE3dVYyYnpzSmJ3UzhZRWVVb0FSblpxUDA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "source": "news.google.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-14T01:03:30.759000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "news.google.com",
-        "reut.rs"
-      ],
-      "items": [
-        {
-          "id": "07f0449ec0d1ffb5156eebf4359156b4c3af5d16",
-          "title": "据《Business Insider》报道，Anthropic选择在纳斯达克上市",
-          "url": "https://reut.rs/3UNQe9n",
-          "source": "reut.rs",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-14T02:54:11.058000Z"
-        },
-        {
-          "id": "0f78f4e11e48b4f9dfa561d1e491e17acbe5a581",
-          "title": "据《Business Insider》报道，Anthropic选择在纳斯达克上市 - Reuters",
-          "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPcDg3dC1KTGZCUzVUbnNPOGpvSUZHdUhZTlI0eEJjYmdFUE1ZT3RaV29jd3ZJamtjakVRTnNKbE0zcVFETmtSaC1RRXZHTS1GNG56UV8tYkJkbnJpVEVwSzM4MnhpZ3o2bkhkM3Y0aWVNcW1QT0dJVlZoTUlzc0JfaWhvS2phRVE3dVYyYnpzSmJ3UzhZRWVVb0FSblpxUDA?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "source": "news.google.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-14T01:03:30.759000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4884,
-      "importance": 0.4884,
-      "importance_score": 0.4884,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.702,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-14T01:03:30.759000Z",
-      "latest_at": "2026-09-14T02:54:11.058000Z",
-      "primary_item": {
-        "id": "07f0449ec0d1ffb5156eebf4359156b4c3af5d16",
-        "title": "据《Business Insider》报道，Anthropic选择在纳斯达克上市",
-        "url": "https://reut.rs/3UNQe9n",
-        "source": "reut.rs",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_3befaa0ab2de",
-      "title": "百图生科牵手华大智造：联合构建专属细胞大模型，押注\"设备+模型+智能体\"一体化",
-      "url": "https://www.aibase.com/news/31027",
-      "primary_url": "https://www.aibase.com/news/31027",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "cf66c680557c818a9cf364882f4eb2714970b81b",
-          "title": "百图生科牵手华大智造：联合构建专属细胞大模型，押注\"设备+模型+智能体\"一体化",
-          "url": "https://www.aibase.com/news/31027",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-14T10:03:15.488798Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "cf66c680557c818a9cf364882f4eb2714970b81b",
-          "title": "百图生科牵手华大智造：联合构建专属细胞大模型，押注\"设备+模型+智能体\"一体化",
-          "url": "https://www.aibase.com/news/31027",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-14T10:03:15.488798Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-14T10:03:15.488798Z",
-      "latest_at": "2026-09-14T10:03:15.488798Z",
-      "primary_item": {
-        "id": "cf66c680557c818a9cf364882f4eb2714970b81b",
-        "title": "百图生科牵手华大智造：联合构建专属细胞大模型，押注\"设备+模型+智能体\"一体化",
-        "url": "https://www.aibase.com/news/31027",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      }
-    },
-    {
-      "story_id": "story_5c30ba8a42b1",
-      "title": "受人工智能放缓担忧影响，股市下跌，油价上涨：市场综述",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-13/us-stock-futures-fall-on-ai-warning-oil-gains-markets-wrap",
-      "primary_url": "https://www.bloomberg.com/news/articles/2026-09-13/us-stock-futures-fall-on-ai-warning-oil-gains-markets-wrap",
-      "source": "www.bloomberg.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "94d182b1c85afdf6543a275c3b5a4d2b6fca451c",
-          "title": "受人工智能放缓担忧影响，股市下跌，油价上涨：市场综述",
-          "url": "https://www.bloomberg.com/news/articles/2026-09-13/us-stock-futures-fall-on-ai-warning-oil-gains-markets-wrap",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-14T02:07:13.390000Z"
-        },
-        {
-          "id": "4500084fefa573275d79d8f80e6c9c6ed7be0e30",
-          "title": "受人工智能担忧影响，美股期货下跌，油价上涨：市场综述",
-          "url": "https://www.bloomberg.com/news/articles/2026-09-13/us-stock-futures-fall-on-ai-warning-oil-gains-markets-wrap",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-13T23:29:16.467000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "www.bloomberg.com"
-      ],
-      "items": [
-        {
-          "id": "94d182b1c85afdf6543a275c3b5a4d2b6fca451c",
-          "title": "受人工智能放缓担忧影响，股市下跌，油价上涨：市场综述",
-          "url": "https://www.bloomberg.com/news/articles/2026-09-13/us-stock-futures-fall-on-ai-warning-oil-gains-markets-wrap",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-14T02:07:13.390000Z"
-        },
-        {
-          "id": "4500084fefa573275d79d8f80e6c9c6ed7be0e30",
-          "title": "受人工智能担忧影响，美股期货下跌，油价上涨：市场综述",
-          "url": "https://www.bloomberg.com/news/articles/2026-09-13/us-stock-futures-fall-on-ai-warning-oil-gains-markets-wrap",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-13T23:29:16.467000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4819,
-      "importance": 0.4819,
-      "importance_score": 0.4819,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.6694,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-13T23:29:16.467000Z",
-      "latest_at": "2026-09-14T02:07:13.390000Z",
-      "primary_item": {
-        "id": "94d182b1c85afdf6543a275c3b5a4d2b6fca451c",
-        "title": "受人工智能放缓担忧影响，股市下跌，油价上涨：市场综述",
-        "url": "https://www.bloomberg.com/news/articles/2026-09-13/us-stock-futures-fall-on-ai-warning-oil-gains-markets-wrap",
-        "source": "www.bloomberg.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_29e9d078f61b",
-      "title": "特朗普淡化了对人工智能发展进行监管的必要性，并表示他不愿在该领域让中国占据优势 - AP News",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOamh3ZzlxNlU2NTItT2hQNnladG9CS1I0QlZHMm9YcnE1X2RPTERiMS1oME9wc1UzUHloY3JDNDFLa3VQSEcybzlMUG1xVG5xV1BGS0V2Ym1ScGoyd1BaVlZwdGl4c1lzNDUxZkpzaXFOSDl5ZHhoUklLQ3drWG5QenVlRUk5amRfWjBPRHVfSUNxaUJ2aUwxS25CZ3JUQ1RxNkEzN3VYdThBX1RsdEpTa3d1N2JwUFZwblpjajFCOEpvQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "primary_url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOamh3ZzlxNlU2NTItT2hQNnladG9CS1I0QlZHMm9YcnE1X2RPTERiMS1oME9wc1UzUHloY3JDNDFLa3VQSEcybzlMUG1xVG5xV1BGS0V2Ym1ScGoyd1BaVlZwdGl4c1lzNDUxZkpzaXFOSDl5ZHhoUklLQ3drWG5QenVlRUk5amRfWjBPRHVfSUNxaUJ2aUwxS25CZ3JUQ1RxNkEzN3VYdThBX1RsdEpTa3d1N2JwUFZwblpjajFCOEpvQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "source": "news.google.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "58db39c519e8a833e0f47ebacc4a107ce2859b8e",
-          "title": "特朗普淡化了对人工智能发展进行监管的必要性，并表示他不愿在该领域让中国占据优势 - AP News",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOamh3ZzlxNlU2NTItT2hQNnladG9CS1I0QlZHMm9YcnE1X2RPTERiMS1oME9wc1UzUHloY3JDNDFLa3VQSEcybzlMUG1xVG5xV1BGS0V2Ym1ScGoyd1BaVlZwdGl4c1lzNDUxZkpzaXFOSDl5ZHhoUklLQ3drWG5QenVlRUk5amRfWjBPRHVfSUNxaUJ2aUwxS25CZ3JUQ1RxNkEzN3VYdThBX1RsdEpTa3d1N2JwUFZwblpjajFCOEpvQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "source": "news.google.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-14T01:03:29.688000Z"
-        },
-        {
-          "id": "f98bb2be4df553840e082cda56f31c84c263179f",
-          "title": "特朗普淡化了对人工智能发展进行监管的必要性，并表示他不愿在该领域让中国占据优势 - PBS",
-          "url": "https://news.google.com/read/CBMizAFBVV95cUxQcHJIM0F2T0JiX0NjZVV3cURYdE1jaE1kM0RuVmpzRUhVNlRfWThMTkdTbndURkxDNEJaTVNsbmRxSHAyTVVSU0dreUJLcUZXaWxlb0hSUUs3Ukk2Y1dJZzVvbHJGWlNwX3p5eFN0cUVrNVBuTHdmd2t3bFJfRjlob0FGbU1RaGFEYTI3bTRseGdYbUxjejQ4VFJiREtDOHA4ZG9iZXhNaWxXRkxGQlZfQXJwVTBURWIySWJVeXY5R0k4TXdxUm9FcTNtNzbSAdIBQVVfeXFMTjNGa1VPeV9ya0JZd1JsZU5UMW1BSV9qQXNoOC1iN0NSajdrS2xGSjhOVGVyRVBpbmRzemJaUzJtQ25GQUplZ0k1bk9kdVkxUTQ3RlpxTThTWjNkb3kwOGREUTR4ZUROakQ2dXc3M214MUhmSG8tQldXSXB1VUoyVjlHRzhNQW44MkQ4Q2pGYi1GWmc2WUhtQ0RVVFFrSWJ4ckZoWURoV0xZTzE2RnZ0Rlo0Q21nVWhTdXhtMFhnUjhzbkh0WFlxU0ZxbFR6TFN2Vl9n?hl=en-US&gl=US&ceid=US%3Aen",
-          "source": "news.google.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-13T22:08:25Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "news.google.com"
-      ],
-      "items": [
-        {
-          "id": "58db39c519e8a833e0f47ebacc4a107ce2859b8e",
-          "title": "特朗普淡化了对人工智能发展进行监管的必要性，并表示他不愿在该领域让中国占据优势 - AP News",
-          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOamh3ZzlxNlU2NTItT2hQNnladG9CS1I0QlZHMm9YcnE1X2RPTERiMS1oME9wc1UzUHloY3JDNDFLa3VQSEcybzlMUG1xVG5xV1BGS0V2Ym1ScGoyd1BaVlZwdGl4c1lzNDUxZkpzaXFOSDl5ZHhoUklLQ3drWG5QenVlRUk5amRfWjBPRHVfSUNxaUJ2aUwxS25CZ3JUQ1RxNkEzN3VYdThBX1RsdEpTa3d1N2JwUFZwblpjajFCOEpvQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "source": "news.google.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-14T01:03:29.688000Z"
-        },
-        {
-          "id": "f98bb2be4df553840e082cda56f31c84c263179f",
-          "title": "特朗普淡化了对人工智能发展进行监管的必要性，并表示他不愿在该领域让中国占据优势 - PBS",
-          "url": "https://news.google.com/read/CBMizAFBVV95cUxQcHJIM0F2T0JiX0NjZVV3cURYdE1jaE1kM0RuVmpzRUhVNlRfWThMTkdTbndURkxDNEJaTVNsbmRxSHAyTVVSU0dreUJLcUZXaWxlb0hSUUs3Ukk2Y1dJZzVvbHJGWlNwX3p5eFN0cUVrNVBuTHdmd2t3bFJfRjlob0FGbU1RaGFEYTI3bTRseGdYbUxjejQ4VFJiREtDOHA4ZG9iZXhNaWxXRkxGQlZfQXJwVTBURWIySWJVeXY5R0k4TXdxUm9FcTNtNzbSAdIBQVVfeXFMTjNGa1VPeV9ya0JZd1JsZU5UMW1BSV9qQXNoOC1iN0NSajdrS2xGSjhOVGVyRVBpbmRzemJaUzJtQ25GQUplZ0k1bk9kdVkxUTQ3RlpxTThTWjNkb3kwOGREUTR4ZUROakQ2dXc3M214MUhmSG8tQldXSXB1VUoyVjlHRzhNQW44MkQ4Q2pGYi1GWmc2WUhtQ0RVVFFrSWJ4ckZoWURoV0xZTzE2RnZ0Rlo0Q21nVWhTdXhtMFhnUjhzbkh0WFlxU0ZxbFR6TFN2Vl9n?hl=en-US&gl=US&ceid=US%3Aen",
-          "source": "news.google.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-13T22:08:25Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.473,
-      "importance": 0.473,
-      "importance_score": 0.473,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.6252,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-13T22:08:25Z",
-      "latest_at": "2026-09-14T01:03:29.688000Z",
-      "primary_item": {
-        "id": "58db39c519e8a833e0f47ebacc4a107ce2859b8e",
-        "title": "特朗普淡化了对人工智能发展进行监管的必要性，并表示他不愿在该领域让中国占据优势 - AP News",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOamh3ZzlxNlU2NTItT2hQNnladG9CS1I0QlZHMm9YcnE1X2RPTERiMS1oME9wc1UzUHloY3JDNDFLa3VQSEcybzlMUG1xVG5xV1BGS0V2Ym1ScGoyd1BaVlZwdGl4c1lzNDUxZkpzaXFOSDl5ZHhoUklLQ3drWG5QenVlRUk5amRfWjBPRHVfSUNxaUJ2aUwxS25CZ3JUQ1RxNkEzN3VYdThBX1RsdEpTa3d1N2JwUFZwblpjajFCOEpvQQ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "source": "news.google.com",
         "source_name": "Buzzing"
       }
     }
