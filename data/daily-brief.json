@@ -1,51 +1,51 @@
 {
-  "generated_at": "2026-09-25T16:47:40.411814Z",
+  "generated_at": "2026-09-25T20:18:20.009819Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
-      "story_id": "story_21fb0730efb2",
-      "title": "CodeQL 2.27.1 添加了 C 和 C++ 查询以及 Kotlin 2.4.20 支持 / CodeQL 2.27.1 adds C and C++ query and Kotlin 2.4.20 support",
-      "url": "https://github.blog/changelog/2026-09-25-codeql-2-27-1-adds-c-and-c-query-and-kotlin-2-4-20-support",
-      "primary_url": "https://github.blog/changelog/2026-09-25-codeql-2-27-1-adds-c-and-c-query-and-kotlin-2-4-20-support",
-      "source": "GitHub Changelog",
+      "story_id": "story_d5e5182aee3c",
+      "title": "GitHub Copilot app for Beginners: How to build custom workflows with canvases",
+      "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-build-custom-workflows-with-canvases",
+      "primary_url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-build-custom-workflows-with-canvases",
+      "source": "GitHub AI & ML",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "fa72032807585186751d05c49f31bb0f1172175a",
-          "title": "CodeQL 2.27.1 添加了 C 和 C++ 查询以及 Kotlin 2.4.20 支持 / CodeQL 2.27.1 adds C and C++ query and Kotlin 2.4.20 support",
-          "url": "https://github.blog/changelog/2026-09-25-codeql-2-27-1-adds-c-and-c-query-and-kotlin-2-4-20-support",
-          "source": "GitHub Changelog",
+          "id": "282dcfb0d128a91f99f7e7a3e0ea249f739bfecb",
+          "title": "GitHub Copilot app for Beginners: How to build custom workflows with canvases",
+          "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-build-custom-workflows-with-canvases",
+          "source": "GitHub AI & ML",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-25T09:55:23Z"
+          "published_at": "2026-09-25T18:00:00Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "GitHub Changelog"
+        "GitHub AI & ML"
       ],
       "items": [
         {
-          "id": "fa72032807585186751d05c49f31bb0f1172175a",
-          "title": "CodeQL 2.27.1 添加了 C 和 C++ 查询以及 Kotlin 2.4.20 支持 / CodeQL 2.27.1 adds C and C++ query and Kotlin 2.4.20 support",
-          "url": "https://github.blog/changelog/2026-09-25-codeql-2-27-1-adds-c-and-c-query-and-kotlin-2-4-20-support",
-          "source": "GitHub Changelog",
+          "id": "282dcfb0d128a91f99f7e7a3e0ea249f739bfecb",
+          "title": "GitHub Copilot app for Beginners: How to build custom workflows with canvases",
+          "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-build-custom-workflows-with-canvases",
+          "source": "GitHub AI & ML",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-09-25T09:55:23Z"
+          "published_at": "2026-09-25T18:00:00Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8037,
-      "importance": 0.8037,
-      "importance_score": 0.8037,
+      "score": 0.8538,
+      "importance": 0.8538,
+      "importance_score": 0.8538,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7137,
+        "ai_relevance": 0.91,
+        "recency": 0.9039,
         "story_heat": 0.0
       },
       "category": "official",
@@ -54,12 +54,615 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-25T09:55:23Z",
-      "latest_at": "2026-09-25T09:55:23Z",
+      "earliest_at": "2026-09-25T18:00:00Z",
+      "latest_at": "2026-09-25T18:00:00Z",
       "primary_item": {
-        "id": "fa72032807585186751d05c49f31bb0f1172175a",
-        "title": "CodeQL 2.27.1 添加了 C 和 C++ 查询以及 Kotlin 2.4.20 支持 / CodeQL 2.27.1 adds C and C++ query and Kotlin 2.4.20 support",
-        "url": "https://github.blog/changelog/2026-09-25-codeql-2-27-1-adds-c-and-c-query-and-kotlin-2-4-20-support",
+        "id": "282dcfb0d128a91f99f7e7a3e0ea249f739bfecb",
+        "title": "GitHub Copilot app for Beginners: How to build custom workflows with canvases",
+        "url": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-build-custom-workflows-with-canvases",
+        "source": "GitHub AI & ML",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_925b830b81ef",
+      "title": "Agentic autofix now uses Copilot Memory",
+      "url": "https://github.blog/changelog/2026-09-25-agentic-autofix-now-uses-copilot-memory",
+      "primary_url": "https://github.blog/changelog/2026-09-25-agentic-autofix-now-uses-copilot-memory",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "8ee32335c685465498d95a79a418cfcd20e01eaa",
+          "title": "Agentic autofix now uses Copilot Memory",
+          "url": "https://github.blog/changelog/2026-09-25-agentic-autofix-now-uses-copilot-memory",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-25T17:25:50Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "8ee32335c685465498d95a79a418cfcd20e01eaa",
+          "title": "Agentic autofix now uses Copilot Memory",
+          "url": "https://github.blog/changelog/2026-09-25-agentic-autofix-now-uses-copilot-memory",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-25T17:25:50Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.849,
+      "importance": 0.849,
+      "importance_score": 0.849,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.8802,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-25T17:25:50Z",
+      "latest_at": "2026-09-25T17:25:50Z",
+      "primary_item": {
+        "id": "8ee32335c685465498d95a79a418cfcd20e01eaa",
+        "title": "Agentic autofix now uses Copilot Memory",
+        "url": "https://github.blog/changelog/2026-09-25-agentic-autofix-now-uses-copilot-memory",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_e3b548de0eee",
+      "title": "Changes to query results in the GitHub Actions API and UI",
+      "url": "https://github.blog/changelog/2026-09-25-changes-to-query-results-in-the-github-actions-api-and-ui",
+      "primary_url": "https://github.blog/changelog/2026-09-25-changes-to-query-results-in-the-github-actions-api-and-ui",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "77b432d22ebadd6ef41512adf700ca06057e4c84",
+          "title": "Changes to query results in the GitHub Actions API and UI",
+          "url": "https://github.blog/changelog/2026-09-25-changes-to-query-results-in-the-github-actions-api-and-ui",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-25T18:17:06Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "77b432d22ebadd6ef41512adf700ca06057e4c84",
+          "title": "Changes to query results in the GitHub Actions API and UI",
+          "url": "https://github.blog/changelog/2026-09-25-changes-to-query-results-in-the-github-actions-api-and-ui",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-25T18:17:06Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8442,
+      "importance": 0.8442,
+      "importance_score": 0.8442,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9158,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-25T18:17:06Z",
+      "latest_at": "2026-09-25T18:17:06Z",
+      "primary_item": {
+        "id": "77b432d22ebadd6ef41512adf700ca06057e4c84",
+        "title": "Changes to query results in the GitHub Actions API and UI",
+        "url": "https://github.blog/changelog/2026-09-25-changes-to-query-results-in-the-github-actions-api-and-ui",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_2270bb8e4c3c",
+      "title": "Arena：GPT-6 Sol （Max） 以 +7.7% 净改进重塑 Agent Arena Pareto 前沿",
+      "url": "https://aihot.news/items/cmuhdm4yz0a20ro3bo436lm8s",
+      "primary_url": "https://aihot.news/items/cmuhdm4yz0a20ro3bo436lm8s",
+      "source": "X：Arena (@arena)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "e734330ffb6a4e58f4986dc433d029fd249d4bb9",
+          "title": "Arena：GPT-6 Sol （Max） 以 +7.7% 净改进重塑 Agent Arena Pareto 前沿",
+          "url": "https://aihot.news/items/cmuhdm4yz0a20ro3bo436lm8s",
+          "source": "X：Arena (@arena)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-25T19:48:56Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Arena (@arena)"
+      ],
+      "items": [
+        {
+          "id": "e734330ffb6a4e58f4986dc433d029fd249d4bb9",
+          "title": "Arena：GPT-6 Sol （Max） 以 +7.7% 净改进重塑 Agent Arena Pareto 前沿",
+          "url": "https://aihot.news/items/cmuhdm4yz0a20ro3bo436lm8s",
+          "source": "X：Arena (@arena)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-25T19:48:56Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8079,
+      "importance": 0.8079,
+      "importance_score": 0.8079,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9796,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-25T19:48:56Z",
+      "latest_at": "2026-09-25T19:48:56Z",
+      "primary_item": {
+        "id": "e734330ffb6a4e58f4986dc433d029fd249d4bb9",
+        "title": "Arena：GPT-6 Sol （Max） 以 +7.7% 净改进重塑 Agent Arena Pareto 前沿",
+        "url": "https://aihot.news/items/cmuhdm4yz0a20ro3bo436lm8s",
+        "source": "X：Arena (@arena)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_31d0dfc697ac",
+      "title": "Sam Altman 谈 OpenAI 智能体训练期联网行为审查进展",
+      "url": "https://aihot.news/items/cmuhd4pc909lwro3bb3fcr4ep",
+      "primary_url": "https://aihot.news/items/cmuhd4pc909lwro3bb3fcr4ep",
+      "source": "X：Sam Altman (@sama)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "ad4a7f2fc197973873d4872d443fd7c5faa07f70",
+          "title": "Sam Altman 谈 OpenAI 智能体训练期联网行为审查进展",
+          "url": "https://aihot.news/items/cmuhd4pc909lwro3bb3fcr4ep",
+          "source": "X：Sam Altman (@sama)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-25T19:27:57Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Sam Altman (@sama)"
+      ],
+      "items": [
+        {
+          "id": "ad4a7f2fc197973873d4872d443fd7c5faa07f70",
+          "title": "Sam Altman 谈 OpenAI 智能体训练期联网行为审查进展",
+          "url": "https://aihot.news/items/cmuhd4pc909lwro3bb3fcr4ep",
+          "source": "X：Sam Altman (@sama)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-25T19:27:57Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.805,
+      "importance": 0.805,
+      "importance_score": 0.805,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.965,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-25T19:27:57Z",
+      "latest_at": "2026-09-25T19:27:57Z",
+      "primary_item": {
+        "id": "ad4a7f2fc197973873d4872d443fd7c5faa07f70",
+        "title": "Sam Altman 谈 OpenAI 智能体训练期联网行为审查进展",
+        "url": "https://aihot.news/items/cmuhd4pc909lwro3bb3fcr4ep",
+        "source": "X：Sam Altman (@sama)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_4e39dae270d5",
+      "title": "Claude Devs 测算 Opus 5.5 相比 Opus 5 在 Claude Code 任务中的成本变化",
+      "url": "https://aihot.news/items/cmuhazjqv076rro3b6ta3dnck",
+      "primary_url": "https://aihot.news/items/cmuhazjqv076rro3b6ta3dnck",
+      "source": "X：Claude Devs (@ClaudeDevs)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "89c4cbad979094961564e97d5f3ba022915d07e3",
+          "title": "Claude Devs 测算 Opus 5.5 相比 Opus 5 在 Claude Code 任务中的成本变化",
+          "url": "https://aihot.news/items/cmuhazjqv076rro3b6ta3dnck",
+          "source": "X：Claude Devs (@ClaudeDevs)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-25T18:13:31Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Claude Devs (@ClaudeDevs)"
+      ],
+      "items": [
+        {
+          "id": "89c4cbad979094961564e97d5f3ba022915d07e3",
+          "title": "Claude Devs 测算 Opus 5.5 相比 Opus 5 在 Claude Code 任务中的成本变化",
+          "url": "https://aihot.news/items/cmuhazjqv076rro3b6ta3dnck",
+          "source": "X：Claude Devs (@ClaudeDevs)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-25T18:13:31Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7947,
+      "importance": 0.7947,
+      "importance_score": 0.7947,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9133,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-25T18:13:31Z",
+      "latest_at": "2026-09-25T18:13:31Z",
+      "primary_item": {
+        "id": "89c4cbad979094961564e97d5f3ba022915d07e3",
+        "title": "Claude Devs 测算 Opus 5.5 相比 Opus 5 在 Claude Code 任务中的成本变化",
+        "url": "https://aihot.news/items/cmuhazjqv076rro3b6ta3dnck",
+        "source": "X：Claude Devs (@ClaudeDevs)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_574775937ec4",
+      "title": "Claude 开放插件目录提交门户，Plugins 成为第三方扩展的主要方式",
+      "url": "https://aihot.news/items/cmuh9z6nw05yzro3bzt9lxckr",
+      "primary_url": "https://aihot.news/items/cmuh9z6nw05yzro3bzt9lxckr",
+      "source": "Claude：Blog（网页）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "e80960746fe33a77c51d0745d7419034ec881572",
+          "title": "Claude 开放插件目录提交门户，Plugins 成为第三方扩展的主要方式",
+          "url": "https://aihot.news/items/cmuh9z6nw05yzro3bzt9lxckr",
+          "source": "Claude：Blog（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-25T18:09:06Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Claude：Blog（网页）"
+      ],
+      "items": [
+        {
+          "id": "e80960746fe33a77c51d0745d7419034ec881572",
+          "title": "Claude 开放插件目录提交门户，Plugins 成为第三方扩展的主要方式",
+          "url": "https://aihot.news/items/cmuh9z6nw05yzro3bzt9lxckr",
+          "source": "Claude：Blog（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-25T18:09:06Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7941,
+      "importance": 0.7941,
+      "importance_score": 0.7941,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9103,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-25T18:09:06Z",
+      "latest_at": "2026-09-25T18:09:06Z",
+      "primary_item": {
+        "id": "e80960746fe33a77c51d0745d7419034ec881572",
+        "title": "Claude 开放插件目录提交门户，Plugins 成为第三方扩展的主要方式",
+        "url": "https://aihot.news/items/cmuh9z6nw05yzro3bzt9lxckr",
+        "source": "Claude：Blog（网页）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_4ee02e650cfb",
+      "title": "GitHub Copilot app 新手教程：如何用 canvases 构建自定义工作流",
+      "url": "https://aihot.news/items/cmuha4bdk063qro3buzyc19hv",
+      "primary_url": "https://aihot.news/items/cmuha4bdk063qro3buzyc19hv",
+      "source": "GitHub Blog",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "33acd2c017a9c78d5f8726882b47ed7b6737bed8",
+          "title": "GitHub Copilot app 新手教程：如何用 canvases 构建自定义工作流",
+          "url": "https://aihot.news/items/cmuha4bdk063qro3buzyc19hv",
+          "source": "GitHub Blog",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-25T18:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Blog"
+      ],
+      "items": [
+        {
+          "id": "33acd2c017a9c78d5f8726882b47ed7b6737bed8",
+          "title": "GitHub Copilot app 新手教程：如何用 canvases 构建自定义工作流",
+          "url": "https://aihot.news/items/cmuha4bdk063qro3buzyc19hv",
+          "source": "GitHub Blog",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-25T18:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7928,
+      "importance": 0.7928,
+      "importance_score": 0.7928,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9039,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-25T18:00:00Z",
+      "latest_at": "2026-09-25T18:00:00Z",
+      "primary_item": {
+        "id": "33acd2c017a9c78d5f8726882b47ed7b6737bed8",
+        "title": "GitHub Copilot app 新手教程：如何用 canvases 构建自定义工作流",
+        "url": "https://aihot.news/items/cmuha4bdk063qro3buzyc19hv",
+        "source": "GitHub Blog",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_b1814b2d9441",
+      "title": "Claude 完成 N=4 超对称 Yang-Mills 九圈振幅计算，物理学家 Matt von Hippel 复盘挑战始末",
+      "url": "https://aihot.news/items/cmuh9ma6u02x0ro3blswug5fk",
+      "primary_url": "https://aihot.news/items/cmuh9ma6u02x0ro3blswug5fk",
+      "source": "Anthropic：Research（发表成果 · 网页）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "ec02d3a6f4407872ed85e81c218caf817e51b690",
+          "title": "Claude 完成 N=4 超对称 Yang-Mills 九圈振幅计算，物理学家 Matt von Hippel 复盘挑战始末",
+          "url": "https://aihot.news/items/cmuh9ma6u02x0ro3blswug5fk",
+          "source": "Anthropic：Research（发表成果 · 网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-25T17:59:19Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Anthropic：Research（发表成果 · 网页）"
+      ],
+      "items": [
+        {
+          "id": "ec02d3a6f4407872ed85e81c218caf817e51b690",
+          "title": "Claude 完成 N=4 超对称 Yang-Mills 九圈振幅计算，物理学家 Matt von Hippel 复盘挑战始末",
+          "url": "https://aihot.news/items/cmuh9ma6u02x0ro3blswug5fk",
+          "source": "Anthropic：Research（发表成果 · 网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-25T17:59:19Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7927,
+      "importance": 0.7927,
+      "importance_score": 0.7927,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9035,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-25T17:59:19Z",
+      "latest_at": "2026-09-25T17:59:19Z",
+      "primary_item": {
+        "id": "ec02d3a6f4407872ed85e81c218caf817e51b690",
+        "title": "Claude 完成 N=4 超对称 Yang-Mills 九圈振幅计算，物理学家 Matt von Hippel 复盘挑战始末",
+        "url": "https://aihot.news/items/cmuh9ma6u02x0ro3blswug5fk",
+        "source": "Anthropic：Research（发表成果 · 网页）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_7547fdc80dc9",
+      "title": "Anthropic 称 Claude 完成平面 N=4 超杨-米尔斯理论九圈散射振幅计算",
+      "url": "https://aihot.news/items/cmuh9l75q02v8ro3brr0wv9o8",
+      "primary_url": "https://aihot.news/items/cmuh9l75q02v8ro3brr0wv9o8",
+      "source": "X：Anthropic (@AnthropicAI)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "37d8c4fcbb3e6a013074b4d8c07300d7308079a8",
+          "title": "Anthropic 称 Claude 完成平面 N=4 超杨-米尔斯理论九圈散射振幅计算",
+          "url": "https://aihot.news/items/cmuh9l75q02v8ro3brr0wv9o8",
+          "source": "X：Anthropic (@AnthropicAI)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-25T17:46:08Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Anthropic (@AnthropicAI)"
+      ],
+      "items": [
+        {
+          "id": "37d8c4fcbb3e6a013074b4d8c07300d7308079a8",
+          "title": "Anthropic 称 Claude 完成平面 N=4 超杨-米尔斯理论九圈散射振幅计算",
+          "url": "https://aihot.news/items/cmuh9l75q02v8ro3brr0wv9o8",
+          "source": "X：Anthropic (@AnthropicAI)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-25T17:46:08Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7909,
+      "importance": 0.7909,
+      "importance_score": 0.7909,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8943,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-25T17:46:08Z",
+      "latest_at": "2026-09-25T17:46:08Z",
+      "primary_item": {
+        "id": "37d8c4fcbb3e6a013074b4d8c07300d7308079a8",
+        "title": "Anthropic 称 Claude 完成平面 N=4 超杨-米尔斯理论九圈散射振幅计算",
+        "url": "https://aihot.news/items/cmuh9l75q02v8ro3brr0wv9o8",
+        "source": "X：Anthropic (@AnthropicAI)",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_6edfaac73238",
+      "title": "GitHub Copilot weekly releases — September 21",
+      "url": "https://github.blog/changelog/2026-09-25-github-copilot-weekly-releases-september-21",
+      "primary_url": "https://github.blog/changelog/2026-09-25-github-copilot-weekly-releases-september-21",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "9c2fcd83c6f33548bf3d0523fa51f632c69d43a6",
+          "title": "GitHub Copilot weekly releases — September 21",
+          "url": "https://github.blog/changelog/2026-09-25-github-copilot-weekly-releases-september-21",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-25T16:42:48Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "9c2fcd83c6f33548bf3d0523fa51f632c69d43a6",
+          "title": "GitHub Copilot weekly releases — September 21",
+          "url": "https://github.blog/changelog/2026-09-25-github-copilot-weekly-releases-september-21",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-25T16:42:48Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8431,
+      "importance": 0.8431,
+      "importance_score": 0.8431,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.8503,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-25T16:42:48Z",
+      "latest_at": "2026-09-25T16:42:48Z",
+      "primary_item": {
+        "id": "9c2fcd83c6f33548bf3d0523fa51f632c69d43a6",
+        "title": "GitHub Copilot weekly releases — September 21",
+        "url": "https://github.blog/changelog/2026-09-25-github-copilot-weekly-releases-september-21",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       }
@@ -99,14 +702,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8037,
-      "importance": 0.8037,
-      "importance_score": 0.8037,
+      "score": 0.7745,
+      "importance": 0.7745,
+      "importance_score": 0.7745,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9587,
+        "recency": 0.8124,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -159,14 +762,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8029,
-      "importance": 0.8029,
-      "importance_score": 0.8029,
+      "score": 0.7737,
+      "importance": 0.7737,
+      "importance_score": 0.7737,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9546,
+        "recency": 0.8083,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -185,48 +788,48 @@
       }
     },
     {
-      "story_id": "story_38e9b43aec4d",
-      "title": "GitHub 如何通过迁移 CSS Modules 将 SSR 时间降低 55%",
-      "url": "https://aihot.news/items/cmuh3oryg07vcrolz1nd3fov6",
-      "primary_url": "https://aihot.news/items/cmuh3oryg07vcrolz1nd3fov6",
-      "source": "GitHub Blog",
+      "story_id": "story_0abba8fe78a8",
+      "title": "美国上诉法院维持五角大楼将 Anthropic 列为供应链风险的认定",
+      "url": "https://aihot.news/items/cmuh6zqk806pfro55mzok81xo",
+      "primary_url": "https://aihot.news/items/cmuh6zqk806pfro55mzok81xo",
+      "source": "Hacker News：AI 热帖",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "1fa68c8272e3426bc8a3226f1951305319b9caa4",
-          "title": "GitHub 如何通过迁移 CSS Modules 将 SSR 时间降低 55%",
-          "url": "https://aihot.news/items/cmuh3oryg07vcrolz1nd3fov6",
-          "source": "GitHub Blog",
+          "id": "013322a369b754f29ce23c45875930fd9ff8174f",
+          "title": "美国上诉法院维持五角大楼将 Anthropic 列为供应链风险的认定",
+          "url": "https://aihot.news/items/cmuh6zqk806pfro55mzok81xo",
+          "source": "Hacker News：AI 热帖",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-25T15:00:00Z"
+          "published_at": "2026-09-25T15:29:25Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "GitHub Blog"
+        "Hacker News：AI 热帖"
       ],
       "items": [
         {
-          "id": "1fa68c8272e3426bc8a3226f1951305319b9caa4",
-          "title": "GitHub 如何通过迁移 CSS Modules 将 SSR 时间降低 55%",
-          "url": "https://aihot.news/items/cmuh3oryg07vcrolz1nd3fov6",
-          "source": "GitHub Blog",
+          "id": "013322a369b754f29ce23c45875930fd9ff8174f",
+          "title": "美国上诉法院维持五角大楼将 Anthropic 列为供应链风险的认定",
+          "url": "https://aihot.news/items/cmuh6zqk806pfro55mzok81xo",
+          "source": "Hacker News：AI 热帖",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-25T15:00:00Z"
+          "published_at": "2026-09-25T15:29:25Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.797,
-      "importance": 0.797,
-      "importance_score": 0.797,
+      "score": 0.7719,
+      "importance": 0.7719,
+      "importance_score": 0.7719,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9252,
+        "recency": 0.7994,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -234,14 +837,75 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-25T15:00:00Z",
-      "latest_at": "2026-09-25T15:00:00Z",
+      "earliest_at": "2026-09-25T15:29:25Z",
+      "latest_at": "2026-09-25T15:29:25Z",
       "primary_item": {
-        "id": "1fa68c8272e3426bc8a3226f1951305319b9caa4",
-        "title": "GitHub 如何通过迁移 CSS Modules 将 SSR 时间降低 55%",
-        "url": "https://aihot.news/items/cmuh3oryg07vcrolz1nd3fov6",
-        "source": "GitHub Blog",
+        "id": "013322a369b754f29ce23c45875930fd9ff8174f",
+        "title": "美国上诉法院维持五角大楼将 Anthropic 列为供应链风险的认定",
+        "url": "https://aihot.news/items/cmuh6zqk806pfro55mzok81xo",
+        "source": "Hacker News：AI 热帖",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_e15c9f988be2",
+      "title": "Updates to GitHub Copilot for Slack and Microsoft Teams",
+      "url": "https://github.blog/changelog/2026-09-25-updates-to-github-copilot-for-slack-and-microsoft-teams",
+      "primary_url": "https://github.blog/changelog/2026-09-25-updates-to-github-copilot-for-slack-and-microsoft-teams",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "258f7545dc1f75de09b8800d8db521fd4d5db997",
+          "title": "Updates to GitHub Copilot for Slack and Microsoft Teams",
+          "url": "https://github.blog/changelog/2026-09-25-updates-to-github-copilot-for-slack-and-microsoft-teams",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-25T16:33:42Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "258f7545dc1f75de09b8800d8db521fd4d5db997",
+          "title": "Updates to GitHub Copilot for Slack and Microsoft Teams",
+          "url": "https://github.blog/changelog/2026-09-25-updates-to-github-copilot-for-slack-and-microsoft-teams",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-25T16:33:42Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8418,
+      "importance": 0.8418,
+      "importance_score": 0.8418,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.844,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-25T16:33:42Z",
+      "latest_at": "2026-09-25T16:33:42Z",
+      "primary_item": {
+        "id": "258f7545dc1f75de09b8800d8db521fd4d5db997",
+        "title": "Updates to GitHub Copilot for Slack and Microsoft Teams",
+        "url": "https://github.blog/changelog/2026-09-25-updates-to-github-copilot-for-slack-and-microsoft-teams",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -279,20 +943,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7728,
-      "importance": 0.7728,
-      "importance_score": 0.7728,
+      "score": 0.7436,
+      "importance": 0.7436,
+      "importance_score": 0.7436,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8041,
+        "recency": 0.6578,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-25T12:05:37Z",
       "latest_at": "2026-09-25T12:05:37Z",
@@ -339,14 +1002,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8026,
-      "importance": 0.8026,
-      "importance_score": 0.8026,
+      "score": 0.7733,
+      "importance": 0.7733,
+      "importance_score": 0.7733,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.953,
+        "recency": 0.8067,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -361,6 +1024,66 @@
         "title": "Anthropic 创始人拟在 IPO 前谋求投票控制权",
         "url": "https://aihot.news/items/cmuh5bwi004nsro55sv3t7521",
         "source": "TechCrunch：AI（RSS）",
+        "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_38e9b43aec4d",
+      "title": "GitHub 如何通过迁移 CSS Modules 将 SSR 时间降低 55%",
+      "url": "https://aihot.news/items/cmuh3oryg07vcrolz1nd3fov6",
+      "primary_url": "https://aihot.news/items/cmuh3oryg07vcrolz1nd3fov6",
+      "source": "GitHub Blog",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "1fa68c8272e3426bc8a3226f1951305319b9caa4",
+          "title": "GitHub 如何通过迁移 CSS Modules 将 SSR 时间降低 55%",
+          "url": "https://aihot.news/items/cmuh3oryg07vcrolz1nd3fov6",
+          "source": "GitHub Blog",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-25T15:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Blog"
+      ],
+      "items": [
+        {
+          "id": "1fa68c8272e3426bc8a3226f1951305319b9caa4",
+          "title": "GitHub 如何通过迁移 CSS Modules 将 SSR 时间降低 55%",
+          "url": "https://aihot.news/items/cmuh3oryg07vcrolz1nd3fov6",
+          "source": "GitHub Blog",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-25T15:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7678,
+      "importance": 0.7678,
+      "importance_score": 0.7678,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7789,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-25T15:00:00Z",
+      "latest_at": "2026-09-25T15:00:00Z",
+      "primary_item": {
+        "id": "1fa68c8272e3426bc8a3226f1951305319b9caa4",
+        "title": "GitHub 如何通过迁移 CSS Modules 将 SSR 时间降低 55%",
+        "url": "https://aihot.news/items/cmuh3oryg07vcrolz1nd3fov6",
+        "source": "GitHub Blog",
         "source_name": "AI HOT"
       }
     },
@@ -399,20 +1122,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7638,
-      "importance": 0.7638,
-      "importance_score": 0.7638,
+      "score": 0.7345,
+      "importance": 0.7345,
+      "importance_score": 0.7345,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7589,
+        "recency": 0.6126,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-25T11:00:28Z",
       "latest_at": "2026-09-25T11:00:28Z",
@@ -459,21 +1181,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.754,
-      "importance": 0.754,
-      "importance_score": 0.754,
+      "score": 0.7248,
+      "importance": 0.7248,
+      "importance_score": 0.7248,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.3002,
+        "recency": 0.1539,
         "story_heat": 0.0
       },
       "category": "official",
       "reasons": [
         "official_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-09-25T00:00:00Z",
       "latest_at": "2026-09-25T00:00:00Z",
@@ -483,924 +1204,6 @@
         "url": "https://developers.openai.com/codex/changelog",
         "source": "OpenAI Codex Changelog",
         "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_b6f300ba1517",
-      "title": "OpenAI 智能体被曝今年至少 4 次未经指示闯入政府和学校网站",
-      "url": "https://aihot.news/items/cmugn2un312cfrogv5xoi1n1c",
-      "primary_url": "https://aihot.news/items/cmugn2un312cfrogv5xoi1n1c",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "fad7d38a4966308e110aa9e5784a033e03002bef",
-          "title": "OpenAI 智能体被曝今年至少 4 次未经指示闯入政府和学校网站",
-          "url": "https://aihot.news/items/cmugn2un312cfrogv5xoi1n1c",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-25T07:02:05Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "fad7d38a4966308e110aa9e5784a033e03002bef",
-          "title": "OpenAI 智能体被曝今年至少 4 次未经指示闯入政府和学校网站",
-          "url": "https://aihot.news/items/cmugn2un312cfrogv5xoi1n1c",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-25T07:02:05Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7307,
-      "importance": 0.7307,
-      "importance_score": 0.7307,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5933,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-25T07:02:05Z",
-      "latest_at": "2026-09-25T07:02:05Z",
-      "primary_item": {
-        "id": "fad7d38a4966308e110aa9e5784a033e03002bef",
-        "title": "OpenAI 智能体被曝今年至少 4 次未经指示闯入政府和学校网站",
-        "url": "https://aihot.news/items/cmugn2un312cfrogv5xoi1n1c",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_648837e3af7f",
-      "title": "默认启用 Copilot Business 和 Enterprise 的 Copilot 功能 / Default Enablement of Copilot Features for Copilot Business and Enterprise",
-      "url": "https://github.blog/changelog/2026-09-24-default-enablement-of-copilot-features-for-copilot-business-and-enterprise",
-      "primary_url": "https://github.blog/changelog/2026-09-24-default-enablement-of-copilot-features-for-copilot-business-and-enterprise",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "3bb00bc2b9a93424c1ae41c89d2df35757dfff12",
-          "title": "默认启用 Copilot Business 和 Enterprise 的 Copilot 功能 / Default Enablement of Copilot Features for Copilot Business and Enterprise",
-          "url": "https://github.blog/changelog/2026-09-24-default-enablement-of-copilot-features-for-copilot-business-and-enterprise",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-25T03:13:23Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "3bb00bc2b9a93424c1ae41c89d2df35757dfff12",
-          "title": "默认启用 Copilot Business 和 Enterprise 的 Copilot 功能 / Default Enablement of Copilot Features for Copilot Business and Enterprise",
-          "url": "https://github.blog/changelog/2026-09-24-default-enablement-of-copilot-features-for-copilot-business-and-enterprise",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-25T03:13:23Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7599,
-      "importance": 0.7599,
-      "importance_score": 0.7599,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.4345,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-25T03:13:23Z",
-      "latest_at": "2026-09-25T03:13:23Z",
-      "primary_item": {
-        "id": "3bb00bc2b9a93424c1ae41c89d2df35757dfff12",
-        "title": "默认启用 Copilot Business 和 Enterprise 的 Copilot 功能 / Default Enablement of Copilot Features for Copilot Business and Enterprise",
-        "url": "https://github.blog/changelog/2026-09-24-default-enablement-of-copilot-features-for-copilot-business-and-enterprise",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      }
-    },
-    {
-      "story_id": "story_8160a4726c95",
-      "title": "畅销小说被指用 AI 创作，法国龚古尔奖将其移出初选名单",
-      "url": "https://www.ithome.com/1/007/252.htm",
-      "primary_url": "https://www.ithome.com/1/007/252.htm",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "fe79cdccfcecbaeed45b6d9abef9ef00ddd79b8e",
-          "title": "畅销小说被指用 AI 创作，法国龚古尔奖将其移出初选名单",
-          "url": "https://www.ithome.com/1/007/252.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "745ec696b76b5d177031ae9a261acc40fe7dadc3",
-          "title": "畅销小说被指用 AI 创作，法国最有名文学奖龚古尔奖将其移出初选名单",
-          "url": "https://www.ithome.com/1/007/252.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-25T15:33:07Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "IT之家 (ITHome)",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "fe79cdccfcecbaeed45b6d9abef9ef00ddd79b8e",
-          "title": "畅销小说被指用 AI 创作，法国龚古尔奖将其移出初选名单",
-          "url": "https://www.ithome.com/1/007/252.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "745ec696b76b5d177031ae9a261acc40fe7dadc3",
-          "title": "畅销小说被指用 AI 创作，法国最有名文学奖龚古尔奖将其移出初选名单",
-          "url": "https://www.ithome.com/1/007/252.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-25T15:33:07Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.548,
-      "importance": 0.548,
-      "importance_score": 0.548,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-25T15:33:07Z",
-      "latest_at": "2026-09-25T16:47:40.411814Z",
-      "primary_item": {
-        "id": "fe79cdccfcecbaeed45b6d9abef9ef00ddd79b8e",
-        "title": "畅销小说被指用 AI 创作，法国龚古尔奖将其移出初选名单",
-        "url": "https://www.ithome.com/1/007/252.htm",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_80053acc608c",
-      "title": "Jevmem – automatic project memory for Claude Code, built on Jev",
-      "url": "https://github.com/Avinash-jetwani/jevmem",
-      "primary_url": "https://github.com/Avinash-jetwani/jevmem",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "f3dd3f287c482ca33e3a2ea3d377db20e8568e3e",
-          "title": "Jevmem – automatic project memory for Claude Code, built on Jev",
-          "url": "https://github.com/Avinash-jetwani/jevmem",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-25T16:04:04Z"
-        },
-        {
-          "id": "791a9634041bf9957a6c89450b9adb2aa17b6d5f",
-          "title": "Jevmem – automatic project memory for Claude Code, built on Jev",
-          "url": "https://news.ycombinator.com/item?id=49846391",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-25T16:04:04Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "f3dd3f287c482ca33e3a2ea3d377db20e8568e3e",
-          "title": "Jevmem – automatic project memory for Claude Code, built on Jev",
-          "url": "https://github.com/Avinash-jetwani/jevmem",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-25T16:04:04Z"
-        },
-        {
-          "id": "791a9634041bf9957a6c89450b9adb2aa17b6d5f",
-          "title": "Jevmem – automatic project memory for Claude Code, built on Jev",
-          "url": "https://news.ycombinator.com/item?id=49846391",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-25T16:04:04Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5419,
-      "importance": 0.5419,
-      "importance_score": 0.5419,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9697,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-25T16:04:04Z",
-      "latest_at": "2026-09-25T16:04:04Z",
-      "primary_item": {
-        "id": "f3dd3f287c482ca33e3a2ea3d377db20e8568e3e",
-        "title": "Jevmem – automatic project memory for Claude Code, built on Jev",
-        "url": "https://github.com/Avinash-jetwani/jevmem",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
-      }
-    },
-    {
-      "story_id": "story_31c366282409",
-      "title": "Classified Estimates Show the NSA Is Paying Billions to Test AI Models",
-      "url": "https://www.washingtonsun.com/technology/classified-estimates-nsa-paying-billions-to-test-ai-models",
-      "primary_url": "https://www.washingtonsun.com/technology/classified-estimates-nsa-paying-billions-to-test-ai-models",
-      "source": "Hacker News",
-      "source_name": "TechURLs",
-      "sources": [
-        {
-          "id": "e0acf3cfc0cac299292cb38cedf97d2bfcfaf9a7",
-          "title": "Classified Estimates Show the NSA Is Paying Billions to Test AI Models",
-          "url": "https://www.washingtonsun.com/technology/classified-estimates-nsa-paying-billions-to-test-ai-models",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-25T15:27:35Z"
-        },
-        {
-          "id": "dc3baa03c30471390dfd7ee7e0d862a9bad8c51b",
-          "title": "Classified Estimates Show the NSA Is Paying Billions to Test AI Models",
-          "url": "https://news.ycombinator.com/item?id=49845952",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-25T15:27:35Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "e0acf3cfc0cac299292cb38cedf97d2bfcfaf9a7",
-          "title": "Classified Estimates Show the NSA Is Paying Billions to Test AI Models",
-          "url": "https://www.washingtonsun.com/technology/classified-estimates-nsa-paying-billions-to-test-ai-models",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-25T15:27:35Z"
-        },
-        {
-          "id": "dc3baa03c30471390dfd7ee7e0d862a9bad8c51b",
-          "title": "Classified Estimates Show the NSA Is Paying Billions to Test AI Models",
-          "url": "https://news.ycombinator.com/item?id=49845952",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-25T15:27:35Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5369,
-      "importance": 0.5369,
-      "importance_score": 0.5369,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9444,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-25T15:27:35Z",
-      "latest_at": "2026-09-25T15:27:35Z",
-      "primary_item": {
-        "id": "e0acf3cfc0cac299292cb38cedf97d2bfcfaf9a7",
-        "title": "Classified Estimates Show the NSA Is Paying Billions to Test AI Models",
-        "url": "https://www.washingtonsun.com/technology/classified-estimates-nsa-paying-billions-to-test-ai-models",
-        "source": "Hacker News",
-        "source_name": "TechURLs"
-      }
-    },
-    {
-      "story_id": "story_d1c1d864aa34",
-      "title": "微软重启Copilot，退出个人AI聊天机器人竞争 / Microsoft Abandons Personal AI Chatbot Race with Copilot Reboot",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-25/microsoft-abandons-personal-ai-chatbot-race-with-copilot-reboot",
-      "primary_url": "https://www.bloomberg.com/news/articles/2026-09-25/microsoft-abandons-personal-ai-chatbot-race-with-copilot-reboot",
-      "source": "Hacker News (黑客新闻)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "8f4d6e16aa66b04104f0fd5319a498d48932be10",
-          "title": "微软重启Copilot，退出个人AI聊天机器人竞争 / Microsoft Abandons Personal AI Chatbot Race with Copilot Reboot",
-          "url": "https://www.bloomberg.com/news/articles/2026-09-25/microsoft-abandons-personal-ai-chatbot-race-with-copilot-reboot",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-25T14:07:08Z"
-        },
-        {
-          "id": "2e4942ed5e5f8b8b89e59f316f3a2bdd7320923f",
-          "title": "微软重启Copilot，退出个人AI聊天机器人竞争",
-          "url": "https://www.bloomberg.com/news/articles/2026-09-25/microsoft-abandons-personal-ai-chatbot-race-with-copilot-reboot",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-25T12:19:43.248000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "www.bloomberg.com"
-      ],
-      "items": [
-        {
-          "id": "8f4d6e16aa66b04104f0fd5319a498d48932be10",
-          "title": "微软重启Copilot，退出个人AI聊天机器人竞争 / Microsoft Abandons Personal AI Chatbot Race with Copilot Reboot",
-          "url": "https://www.bloomberg.com/news/articles/2026-09-25/microsoft-abandons-personal-ai-chatbot-race-with-copilot-reboot",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-25T14:07:08Z"
-        },
-        {
-          "id": "2e4942ed5e5f8b8b89e59f316f3a2bdd7320923f",
-          "title": "微软重启Copilot，退出个人AI聊天机器人竞争",
-          "url": "https://www.bloomberg.com/news/articles/2026-09-25/microsoft-abandons-personal-ai-chatbot-race-with-copilot-reboot",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-25T12:19:43.248000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5257,
-      "importance": 0.5257,
-      "importance_score": 0.5257,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8885,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-25T12:19:43.248000Z",
-      "latest_at": "2026-09-25T14:07:08Z",
-      "primary_item": {
-        "id": "8f4d6e16aa66b04104f0fd5319a498d48932be10",
-        "title": "微软重启Copilot，退出个人AI聊天机器人竞争 / Microsoft Abandons Personal AI Chatbot Race with Copilot Reboot",
-        "url": "https://www.bloomberg.com/news/articles/2026-09-25/microsoft-abandons-personal-ai-chatbot-race-with-copilot-reboot",
-        "source": "Hacker News (黑客新闻)",
-        "source_name": "Info Flow"
-      }
-    },
-    {
-      "story_id": "story_3de13b42e404",
-      "title": "人类学 / claude-plugins-official / anthropics /      claude-plugins-official",
-      "url": "https://github.com/anthropics/claude-plugins-official",
-      "primary_url": "https://github.com/anthropics/claude-plugins-official",
-      "source": "github",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "8642d91878a6cdc5da827e11699dd3df0ed943fa",
-          "title": "人类学 / claude-plugins-official / anthropics /      claude-plugins-official",
-          "url": "https://github.com/anthropics/claude-plugins-official",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-25T11:34:06.205000Z"
-        },
-        {
-          "id": "45714ab06c11994a1261a3f878b2d325c2a94c89",
-          "title": "人类学 / claude-plugins-official / anthropics / claude-plugins-official",
-          "url": "https://github.com/anthropics/claude-plugins-official",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "GitHub · Trending Today",
-        "github"
-      ],
-      "items": [
-        {
-          "id": "8642d91878a6cdc5da827e11699dd3df0ed943fa",
-          "title": "人类学 / claude-plugins-official / anthropics /      claude-plugins-official",
-          "url": "https://github.com/anthropics/claude-plugins-official",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-25T11:34:06.205000Z"
-        },
-        {
-          "id": "45714ab06c11994a1261a3f878b2d325c2a94c89",
-          "title": "人类学 / claude-plugins-official / anthropics / claude-plugins-official",
-          "url": "https://github.com/anthropics/claude-plugins-official",
-          "source": "GitHub · Trending Today",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5044,
-      "importance": 0.5044,
-      "importance_score": 0.5044,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7822,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-25T11:33:35.065885Z",
-      "latest_at": "2026-09-25T11:34:06.205000Z",
-      "primary_item": {
-        "id": "8642d91878a6cdc5da827e11699dd3df0ed943fa",
-        "title": "人类学 / claude-plugins-official / anthropics /      claude-plugins-official",
-        "url": "https://github.com/anthropics/claude-plugins-official",
-        "source": "github",
-        "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_ed884f6647e5",
-      "title": "人工智能并非“仅仅是一种工具”",
-      "url": "https://brettcodes.com/ai-is-not-just-a-tool",
-      "primary_url": "https://brettcodes.com/ai-is-not-just-a-tool",
-      "source": "brettcodes.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "0645efb90c8cb39788a8f87e602dd7628d7ae137",
-          "title": "人工智能并非“仅仅是一种工具”",
-          "url": "https://brettcodes.com/ai-is-not-just-a-tool",
-          "source": "brettcodes.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-25T11:17:29.893000Z"
-        },
-        {
-          "id": "79d6e948c0fdb39981edcc07aad7a7edb7b6ded3",
-          "title": "人工智能并非“仅仅是一种工具” / AI is not “just a tool”",
-          "url": "https://brettcodes.com/ai-is-not-just-a-tool",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-25T11:12:22Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Lobsters (技术社区)",
-        "brettcodes.com"
-      ],
-      "items": [
-        {
-          "id": "0645efb90c8cb39788a8f87e602dd7628d7ae137",
-          "title": "人工智能并非“仅仅是一种工具”",
-          "url": "https://brettcodes.com/ai-is-not-just-a-tool",
-          "source": "brettcodes.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-25T11:17:29.893000Z"
-        },
-        {
-          "id": "79d6e948c0fdb39981edcc07aad7a7edb7b6ded3",
-          "title": "人工智能并非“仅仅是一种工具” / AI is not “just a tool”",
-          "url": "https://brettcodes.com/ai-is-not-just-a-tool",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-25T11:12:22Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5021,
-      "importance": 0.5021,
-      "importance_score": 0.5021,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7707,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-25T11:12:22Z",
-      "latest_at": "2026-09-25T11:17:29.893000Z",
-      "primary_item": {
-        "id": "0645efb90c8cb39788a8f87e602dd7628d7ae137",
-        "title": "人工智能并非“仅仅是一种工具”",
-        "url": "https://brettcodes.com/ai-is-not-just-a-tool",
-        "source": "brettcodes.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_1900561cb822",
-      "title": "我们想了解不同世代的人是如何使用人工智能助手的",
-      "url": "https://www.businessinsider.com/how-different-generations-use-ai-agents-poll-2026-9",
-      "primary_url": "https://www.businessinsider.com/how-different-generations-use-ai-agents-poll-2026-9",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "94882caaf7e5f8483152337108dce9c34bd2961c",
-          "title": "我们想了解不同世代的人是如何使用人工智能助手的",
-          "url": "https://www.businessinsider.com/how-different-generations-use-ai-agents-poll-2026-9",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-25T10:16:40.225000Z"
-        },
-        {
-          "id": "072e871fe0ec34e47c8be03d580bc0835d6bf6ef",
-          "title": "我们想了解不同世代的人是如何使用人工智能助手的 / We want to hear how different generations are using AI agents",
-          "url": "https://www.businessinsider.com/how-different-generations-use-ai-agents-poll-2026-9",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-25T10:01:01Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "94882caaf7e5f8483152337108dce9c34bd2961c",
-          "title": "我们想了解不同世代的人是如何使用人工智能助手的",
-          "url": "https://www.businessinsider.com/how-different-generations-use-ai-agents-poll-2026-9",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-25T10:16:40.225000Z"
-        },
-        {
-          "id": "072e871fe0ec34e47c8be03d580bc0835d6bf6ef",
-          "title": "我们想了解不同世代的人是如何使用人工智能助手的 / We want to hear how different generations are using AI agents",
-          "url": "https://www.businessinsider.com/how-different-generations-use-ai-agents-poll-2026-9",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-25T10:01:01Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4937,
-      "importance": 0.4937,
-      "importance_score": 0.4937,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7285,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-25T10:01:01Z",
-      "latest_at": "2026-09-25T10:16:40.225000Z",
-      "primary_item": {
-        "id": "94882caaf7e5f8483152337108dce9c34bd2961c",
-        "title": "我们想了解不同世代的人是如何使用人工智能助手的",
-        "url": "https://www.businessinsider.com/how-different-generations-use-ai-agents-poll-2026-9",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_96765b5316ee",
-      "title": "教皇利奥携人工智能抵达法国，议程包括就神职人员性虐待事件致歉 - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSDVCYVZOeldNcHRxT0RIYTZqYmVyYWF3dWVfUjFvVGJwVTlJUFdfSGVzMVhnU01pRzdfZU1oYndGSXZCcUdLUmFvc21RYTM0ZTV6TS1Td09XUHhBMVA3VFV2a0trYWhmaGM3Y3ZNb1ZnTTZtWkU3NHd1UkxUd0hUenhyb0VlUFhBRHFzMW13dGQ0M01adXdlS1BvY3NnZElBM0ZJ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "primary_url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSDVCYVZOeldNcHRxT0RIYTZqYmVyYWF3dWVfUjFvVGJwVTlJUFdfSGVzMVhnU01pRzdfZU1oYndGSXZCcUdLUmFvc21RYTM0ZTV6TS1Td09XUHhBMVA3VFV2a0trYWhmaGM3Y3ZNb1ZnTTZtWkU3NHd1UkxUd0hUenhyb0VlUFhBRHFzMW13dGQ0M01adXdlS1BvY3NnZElBM0ZJ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-      "source": "news.google.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "0aa9bf48f215f0cc87358d34425b81d01d29683d",
-          "title": "教皇利奥携人工智能抵达法国，议程包括就神职人员性虐待事件致歉 - Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSDVCYVZOeldNcHRxT0RIYTZqYmVyYWF3dWVfUjFvVGJwVTlJUFdfSGVzMVhnU01pRzdfZU1oYndGSXZCcUdLUmFvc21RYTM0ZTV6TS1Td09XUHhBMVA3VFV2a0trYWhmaGM3Y3ZNb1ZnTTZtWkU3NHd1UkxUd0hUenhyb0VlUFhBRHFzMW13dGQ0M01adXdlS1BvY3NnZElBM0ZJ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "source": "news.google.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-25T09:59:32.288000Z"
-        },
-        {
-          "id": "57bdd1473ec7f013b34aaebec2a985cb6454f409",
-          "title": "教皇利奥携AI抵达法国，议程包括就神职人员性侵事件致歉 - Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSDVCYVZOeldNcHRxT0RIYTZqYmVyYWF3dWVfUjFvVGJwVTlJUFdfSGVzMVhnU01pRzdfZU1oYndGSXZCcUdLUmFvc21RYTM0ZTV6TS1Td09XUHhBMVA3VFV2a0trYWhmaGM3Y3ZNb1ZnTTZtWkU3NHd1UkxUd0hUenhyb0VlUFhBRHFzMW13dGQ0M01adXdlS1BvY3NnZElBM0ZJ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "source": "news.google.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-25T09:59:32.099000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "news.google.com"
-      ],
-      "items": [
-        {
-          "id": "0aa9bf48f215f0cc87358d34425b81d01d29683d",
-          "title": "教皇利奥携人工智能抵达法国，议程包括就神职人员性虐待事件致歉 - Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSDVCYVZOeldNcHRxT0RIYTZqYmVyYWF3dWVfUjFvVGJwVTlJUFdfSGVzMVhnU01pRzdfZU1oYndGSXZCcUdLUmFvc21RYTM0ZTV6TS1Td09XUHhBMVA3VFV2a0trYWhmaGM3Y3ZNb1ZnTTZtWkU3NHd1UkxUd0hUenhyb0VlUFhBRHFzMW13dGQ0M01adXdlS1BvY3NnZElBM0ZJ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "source": "news.google.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-25T09:59:32.288000Z"
-        },
-        {
-          "id": "57bdd1473ec7f013b34aaebec2a985cb6454f409",
-          "title": "教皇利奥携AI抵达法国，议程包括就神职人员性侵事件致歉 - Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSDVCYVZOeldNcHRxT0RIYTZqYmVyYWF3dWVfUjFvVGJwVTlJUFdfSGVzMVhnU01pRzdfZU1oYndGSXZCcUdLUmFvc21RYTM0ZTV6TS1Td09XUHhBMVA3VFV2a0trYWhmaGM3Y3ZNb1ZnTTZtWkU3NHd1UkxUd0hUenhyb0VlUFhBRHFzMW13dGQ0M01adXdlS1BvY3NnZElBM0ZJ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-          "source": "news.google.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-25T09:59:32.099000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4913,
-      "importance": 0.4913,
-      "importance_score": 0.4913,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7166,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-25T09:59:32.099000Z",
-      "latest_at": "2026-09-25T09:59:32.288000Z",
-      "primary_item": {
-        "id": "0aa9bf48f215f0cc87358d34425b81d01d29683d",
-        "title": "教皇利奥携人工智能抵达法国，议程包括就神职人员性虐待事件致歉 - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSDVCYVZOeldNcHRxT0RIYTZqYmVyYWF3dWVfUjFvVGJwVTlJUFdfSGVzMVhnU01pRzdfZU1oYndGSXZCcUdLUmFvc21RYTM0ZTV6TS1Td09XUHhBMVA3VFV2a0trYWhmaGM3Y3ZNb1ZnTTZtWkU3NHd1UkxUd0hUenhyb0VlUFhBRHFzMW13dGQ0M01adXdlS1BvY3NnZElBM0ZJ?oc=5&hl=en-US&gl=US&ceid=US%3Aen",
-        "source": "news.google.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_c6b826ca66a4",
-      "title": "AI 会带来「SaaS 末日」？SAP 高管回应",
-      "url": "https://www.huxiu.com/article/4893961.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4893961.html?f=rss",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "0a1eb03cf68debb08deca107ab3c70464a2e3991",
-          "title": "AI 会带来「SaaS 末日」？SAP 高管回应",
-          "url": "https://www.huxiu.com/article/4893961.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "38f20f4f582c0d6fe9944c56b027e50277c75a2e",
-          "title": "AI会带来“SaaS末日”？SAP高管回应",
-          "url": "https://www.huxiu.com/article/4893961.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-25T10:22:46Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Readhub · AI",
-        "虎嗅 (Huxiu)"
-      ],
-      "items": [
-        {
-          "id": "0a1eb03cf68debb08deca107ab3c70464a2e3991",
-          "title": "AI 会带来「SaaS 末日」？SAP 高管回应",
-          "url": "https://www.huxiu.com/article/4893961.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "38f20f4f582c0d6fe9944c56b027e50277c75a2e",
-          "title": "AI会带来“SaaS末日”？SAP高管回应",
-          "url": "https://www.huxiu.com/article/4893961.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-25T10:22:46Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5044,
-      "importance": 0.5044,
-      "importance_score": 0.5044,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7819,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-25T10:22:46Z",
-      "latest_at": "2026-09-25T11:33:35.065885Z",
-      "primary_item": {
-        "id": "0a1eb03cf68debb08deca107ab3c70464a2e3991",
-        "title": "AI 会带来「SaaS 末日」？SAP 高管回应",
-        "url": "https://www.huxiu.com/article/4893961.html?f=rss",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_b28faeb337e6",
-      "title": "利用大型语言模型追溯炼金术知识并破译17世纪的信件",
-      "url": "https://resobscura.substack.com/p/ai-labs-need-to-start-funding-historical",
-      "primary_url": "https://resobscura.substack.com/p/ai-labs-need-to-start-funding-historical",
-      "source": "resobscura.substack.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "291aee02d708cf20cf415f64342ca18541b89481",
-          "title": "利用大型语言模型追溯炼金术知识并破译17世纪的信件",
-          "url": "https://resobscura.substack.com/p/ai-labs-need-to-start-funding-historical",
-          "source": "resobscura.substack.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-25T04:25:45.760000Z"
-        },
-        {
-          "id": "a4d7f2197de2b1178732169b30fb375bc1379c3d",
-          "title": "利用大型语言模型追溯炼金术知识并破译17世纪的信件 / Using LLMs to trace alchemical knowledge and decode 17th century letters",
-          "url": "https://resobscura.substack.com/p/ai-labs-need-to-start-funding-historical",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-24T19:14:27Z"
-        },
-        {
-          "id": "ca655e766a001f650d294a4a0b296d3e3a0084d0",
-          "title": "使用法学硕士追踪炼金知识并解码 17 世纪的字母 / Using LLMs to trace alchemical knowledge and decode 17th century letters",
-          "url": "https://news.ycombinator.com/item?id=49835531",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-24T19:14:27Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News",
-        "hackernews",
-        "resobscura.substack.com"
-      ],
-      "items": [
-        {
-          "id": "291aee02d708cf20cf415f64342ca18541b89481",
-          "title": "利用大型语言模型追溯炼金术知识并破译17世纪的信件",
-          "url": "https://resobscura.substack.com/p/ai-labs-need-to-start-funding-historical",
-          "source": "resobscura.substack.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-25T04:25:45.760000Z"
-        },
-        {
-          "id": "a4d7f2197de2b1178732169b30fb375bc1379c3d",
-          "title": "利用大型语言模型追溯炼金术知识并破译17世纪的信件 / Using LLMs to trace alchemical knowledge and decode 17th century letters",
-          "url": "https://resobscura.substack.com/p/ai-labs-need-to-start-funding-historical",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-24T19:14:27Z"
-        },
-        {
-          "id": "ca655e766a001f650d294a4a0b296d3e3a0084d0",
-          "title": "使用法学硕士追踪炼金知识并解码 17 世纪的字母 / Using LLMs to trace alchemical knowledge and decode 17th century letters",
-          "url": "https://news.ycombinator.com/item?id=49835531",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-24T19:14:27Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.47,
-      "importance": 0.47,
-      "importance_score": 0.47,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.4848,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-24T19:14:27Z",
-      "latest_at": "2026-09-25T04:25:45.760000Z",
-      "primary_item": {
-        "id": "291aee02d708cf20cf415f64342ca18541b89481",
-        "title": "利用大型语言模型追溯炼金术知识并破译17世纪的信件",
-        "url": "https://resobscura.substack.com/p/ai-labs-need-to-start-funding-historical",
-        "source": "resobscura.substack.com",
-        "source_name": "Buzzing"
       }
     }
   ]
