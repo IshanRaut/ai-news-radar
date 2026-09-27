@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T00:49:08.532112Z",
+  "generated_at": "2026-09-27T06:22:37.891599Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -57,14 +57,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8236,
-      "importance": 0.8236,
-      "importance_score": 0.8236,
+      "score": 0.7773,
+      "importance": 0.7773,
+      "importance_score": 0.7773,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9332,
+        "recency": 0.7016,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -118,14 +118,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8046,
-      "importance": 0.8046,
-      "importance_score": 0.8046,
+      "score": 0.7583,
+      "importance": 0.7583,
+      "importance_score": 0.7583,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.963,
+        "recency": 0.7314,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -144,180 +144,100 @@
       }
     },
     {
-      "story_id": "story_6af6bada9ad3",
-      "title": "Claude Opus 5.5 （High） 以 1509 分登顶 Arena Text Arena 榜首",
-      "url": "https://aihot.news/items/cmuinp76b0smurov0wemcbshl",
-      "primary_url": "https://aihot.news/items/cmuinp76b0smurov0wemcbshl",
-      "source": "X：Arena (@arena)",
-      "source_name": "AI HOT",
+      "story_id": "story_a06eefcaabe4",
+      "title": "将 GLM-5.3-Flash 转换为类似 Jev 的 System One 模型",
+      "url": "https://www.privatemode.ai/blog/system-one-from-glm-flash",
+      "primary_url": "https://www.privatemode.ai/blog/system-one-from-glm-flash",
+      "source": "www.privatemode.ai",
+      "source_name": "Buzzing",
       "sources": [
         {
-          "id": "c7ac1d364b3e1980cc4773632d41970bba171728",
-          "title": "Claude Opus 5.5 （High） 以 1509 分登顶 Arena Text Arena 榜首",
-          "url": "https://aihot.news/items/cmuinp76b0smurov0wemcbshl",
-          "source": "X：Arena (@arena)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-26T17:02:36Z"
+          "id": "40e7178c5238a1d4e3e97acec0f5861bbd5a88a4",
+          "title": "将 GLM-5.3-Flash 转换为类似 Jev 的 System One 模型",
+          "url": "https://www.privatemode.ai/blog/system-one-from-glm-flash",
+          "source": "www.privatemode.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-27T02:23:00.585000Z"
+        },
+        {
+          "id": "19bc13238fe8adb0debe13c9547bcb98bb9126f1",
+          "title": "将 GLM-5.3-Flash 转换为类似 Jev 的 System One 模型 / Turn GLM-5.3-Flash into a Jev-like System One model",
+          "url": "https://www.privatemode.ai/blog/system-one-from-glm-flash",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-27T02:07:23Z"
+        },
+        {
+          "id": "e8a03149162d8a1ff1e6a94b95652ccfd397c8f9",
+          "title": "将 GLM-5.3-Flash 转换为类似 Jev 的 System One 模型 / Turning GLM-5.3-Flash into a Jev-like decision model",
+          "url": "https://www.privatemode.ai/blog/system-one-from-glm-flash",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-26T15:49:04Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 3,
       "source_names": [
-        "X：Arena (@arena)"
+        "Hacker News · 24h最热",
+        "Lobsters (技术社区)",
+        "www.privatemode.ai"
       ],
       "items": [
         {
-          "id": "c7ac1d364b3e1980cc4773632d41970bba171728",
-          "title": "Claude Opus 5.5 （High） 以 1509 分登顶 Arena Text Arena 榜首",
-          "url": "https://aihot.news/items/cmuinp76b0smurov0wemcbshl",
-          "source": "X：Arena (@arena)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-26T17:02:36Z"
+          "id": "40e7178c5238a1d4e3e97acec0f5861bbd5a88a4",
+          "title": "将 GLM-5.3-Flash 转换为类似 Jev 的 System One 模型",
+          "url": "https://www.privatemode.ai/blog/system-one-from-glm-flash",
+          "source": "www.privatemode.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-27T02:23:00.585000Z"
+        },
+        {
+          "id": "19bc13238fe8adb0debe13c9547bcb98bb9126f1",
+          "title": "将 GLM-5.3-Flash 转换为类似 Jev 的 System One 模型 / Turn GLM-5.3-Flash into a Jev-like System One model",
+          "url": "https://www.privatemode.ai/blog/system-one-from-glm-flash",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-27T02:07:23Z"
+        },
+        {
+          "id": "e8a03149162d8a1ff1e6a94b95652ccfd397c8f9",
+          "title": "将 GLM-5.3-Flash 转换为类似 Jev 的 System One 模型 / Turning GLM-5.3-Flash into a Jev-like decision model",
+          "url": "https://www.privatemode.ai/blog/system-one-from-glm-flash",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-26T15:49:04Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7472,
-      "importance": 0.7472,
-      "importance_score": 0.7472,
-      "importance_label": "行业动态",
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5397,
+      "importance": 0.5397,
+      "importance_score": 0.5397,
+      "importance_label": "多源热议",
       "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.676,
-        "story_heat": 0.0
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8336,
+        "story_heat": 0.5
       },
-      "category": "industry",
+      "category": "multi_source",
       "reasons": [
-        "high_ai_relevance"
+        "multi_source"
       ],
-      "earliest_at": "2026-09-26T17:02:36Z",
-      "latest_at": "2026-09-26T17:02:36Z",
+      "earliest_at": "2026-09-26T15:49:04Z",
+      "latest_at": "2026-09-27T02:23:00.585000Z",
       "primary_item": {
-        "id": "c7ac1d364b3e1980cc4773632d41970bba171728",
-        "title": "Claude Opus 5.5 （High） 以 1509 分登顶 Arena Text Arena 榜首",
-        "url": "https://aihot.news/items/cmuinp76b0smurov0wemcbshl",
-        "source": "X：Arena (@arena)",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_3c2099f4a314",
-      "title": "OpenAI 通报其 AI 智能体干扰多个美国政府机构网站并致用户图片外泄",
-      "url": "https://aihot.news/items/cmuisvcxk05a2rohyozb492a3",
-      "primary_url": "https://aihot.news/items/cmuisvcxk05a2rohyozb492a3",
-      "source": "Hacker News：AI 热帖",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "0d433a15c585d915b8c524f15f5a1a2be25d682e",
-          "title": "OpenAI 通报其 AI 智能体干扰多个美国政府机构网站并致用户图片外泄",
-          "url": "https://aihot.news/items/cmuisvcxk05a2rohyozb492a3",
-          "source": "Hacker News：AI 热帖",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-26T14:03:54Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hacker News：AI 热帖"
-      ],
-      "items": [
-        {
-          "id": "0d433a15c585d915b8c524f15f5a1a2be25d682e",
-          "title": "OpenAI 通报其 AI 智能体干扰多个美国政府机构网站并致用户图片外泄",
-          "url": "https://aihot.news/items/cmuisvcxk05a2rohyozb492a3",
-          "source": "Hacker News：AI 热帖",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-26T14:03:54Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7224,
-      "importance": 0.7224,
-      "importance_score": 0.7224,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5519,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-26T14:03:54Z",
-      "latest_at": "2026-09-26T14:03:54Z",
-      "primary_item": {
-        "id": "0d433a15c585d915b8c524f15f5a1a2be25d682e",
-        "title": "OpenAI 通报其 AI 智能体干扰多个美国政府机构网站并致用户图片外泄",
-        "url": "https://aihot.news/items/cmuisvcxk05a2rohyozb492a3",
-        "source": "Hacker News：AI 热帖",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_d55a44ffc786",
-      "title": "Claude 无人值守算出 N=4 超杨-米尔斯理论九圈散射振幅，刷新人类八圈纪录",
-      "url": "https://aihot.news/items/cmuiltkdf0qrarov0lo96tucy",
-      "primary_url": "https://aihot.news/items/cmuiltkdf0qrarov0lo96tucy",
-      "source": "IT之家（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "49efbfcdfcd41ccb5123f6bad37d58f9121d2d7a",
-          "title": "Claude 无人值守算出 N=4 超杨-米尔斯理论九圈散射振幅，刷新人类八圈纪录",
-          "url": "https://aihot.news/items/cmuiltkdf0qrarov0lo96tucy",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-26T15:44:10Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "IT之家（RSS）"
-      ],
-      "items": [
-        {
-          "id": "49efbfcdfcd41ccb5123f6bad37d58f9121d2d7a",
-          "title": "Claude 无人值守算出 N=4 超杨-米尔斯理论九圈散射振幅，刷新人类八圈纪录",
-          "url": "https://aihot.news/items/cmuiltkdf0qrarov0lo96tucy",
-          "source": "IT之家（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-26T15:44:10Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7363,
-      "importance": 0.7363,
-      "importance_score": 0.7363,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.6215,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-26T15:44:10Z",
-      "latest_at": "2026-09-26T15:44:10Z",
-      "primary_item": {
-        "id": "49efbfcdfcd41ccb5123f6bad37d58f9121d2d7a",
-        "title": "Claude 无人值守算出 N=4 超杨-米尔斯理论九圈散射振幅，刷新人类八圈纪录",
-        "url": "https://aihot.news/items/cmuiltkdf0qrarov0lo96tucy",
-        "source": "IT之家（RSS）",
-        "source_name": "AI HOT"
+        "id": "40e7178c5238a1d4e3e97acec0f5861bbd5a88a4",
+        "title": "将 GLM-5.3-Flash 转换为类似 Jev 的 System One 模型",
+        "url": "https://www.privatemode.ai/blog/system-one-from-glm-flash",
+        "source": "www.privatemode.ai",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -393,14 +313,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5709,
-      "importance": 0.5709,
-      "importance_score": 0.5709,
+      "score": 0.5246,
+      "importance": 0.5246,
+      "importance_score": 0.5246,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9895,
+        "recency": 0.7579,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -490,14 +410,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5576,
-      "importance": 0.5576,
-      "importance_score": 0.5576,
+      "score": 0.5113,
+      "importance": 0.5113,
+      "importance_score": 0.5113,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9231,
+        "recency": 0.6915,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -512,6 +432,84 @@
         "url": "https://arxiv.org/abs/2609.22978",
         "source": "arxiv.org",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_efa67a455fc9",
+      "title": "OpenAI agents tried to bruteforce a UN website's API fields",
+      "url": "https://swarmcha.se/posts/openai-unctad",
+      "primary_url": "https://swarmcha.se/posts/openai-unctad",
+      "source": "Hacker News",
+      "source_name": "TechURLs",
+      "sources": [
+        {
+          "id": "a35e14083a1f3afe8e189bb0486e450b6d77499b",
+          "title": "OpenAI agents tried to bruteforce a UN website's API fields",
+          "url": "https://swarmcha.se/posts/openai-unctad",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-27T01:08:07Z"
+        },
+        {
+          "id": "41672068d6d2cb6cf82b7c46c233cdea9cfdc076",
+          "title": "OpenAI agents tried to bruteforce a UN website's API fields",
+          "url": "https://news.ycombinator.com/item?id=49862299",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-27T01:08:07Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "a35e14083a1f3afe8e189bb0486e450b6d77499b",
+          "title": "OpenAI agents tried to bruteforce a UN website's API fields",
+          "url": "https://swarmcha.se/posts/openai-unctad",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-27T01:08:07Z"
+        },
+        {
+          "id": "41672068d6d2cb6cf82b7c46c233cdea9cfdc076",
+          "title": "OpenAI agents tried to bruteforce a UN website's API fields",
+          "url": "https://news.ycombinator.com/item?id=49862299",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-27T01:08:07Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5043,
+      "importance": 0.5043,
+      "importance_score": 0.5043,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7816,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-27T01:08:07Z",
+      "latest_at": "2026-09-27T01:08:07Z",
+      "primary_item": {
+        "id": "a35e14083a1f3afe8e189bb0486e450b6d77499b",
+        "title": "OpenAI agents tried to bruteforce a UN website's API fields",
+        "url": "https://swarmcha.se/posts/openai-unctad",
+        "source": "Hacker News",
+        "source_name": "TechURLs"
       }
     },
     {
@@ -587,14 +585,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5488,
-      "importance": 0.5488,
-      "importance_score": 0.5488,
+      "score": 0.5025,
+      "importance": 0.5025,
+      "importance_score": 0.5025,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8792,
+        "recency": 0.6476,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -665,14 +663,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.548,
-      "importance": 0.548,
-      "importance_score": 0.548,
+      "score": 0.5017,
+      "importance": 0.5017,
+      "importance_score": 0.5017,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.7684,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -762,14 +760,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5359,
-      "importance": 0.5359,
-      "importance_score": 0.5359,
+      "score": 0.4896,
+      "importance": 0.4896,
+      "importance_score": 0.4896,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8145,
+        "recency": 0.5829,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -840,14 +838,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5282,
-      "importance": 0.5282,
-      "importance_score": 0.5282,
+      "score": 0.4819,
+      "importance": 0.4819,
+      "importance_score": 0.4819,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9012,
+        "recency": 0.6696,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -918,14 +916,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5172,
-      "importance": 0.5172,
-      "importance_score": 0.5172,
+      "score": 0.4708,
+      "importance": 0.4708,
+      "importance_score": 0.4708,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8458,
+        "recency": 0.6142,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1015,14 +1013,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.4966,
-      "importance": 0.4966,
-      "importance_score": 0.4966,
+      "score": 0.4503,
+      "importance": 0.4503,
+      "importance_score": 0.4503,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6181,
+        "recency": 0.3865,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1093,14 +1091,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5109,
-      "importance": 0.5109,
-      "importance_score": 0.5109,
+      "score": 0.4646,
+      "importance": 0.4646,
+      "importance_score": 0.4646,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8145,
+        "recency": 0.5829,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1171,14 +1169,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4796,
-      "importance": 0.4796,
-      "importance_score": 0.4796,
+      "score": 0.4333,
+      "importance": 0.4333,
+      "importance_score": 0.4333,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6579,
+        "recency": 0.4263,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1193,103 +1191,6 @@
         "url": "https://github.com/anthropics/claude-code-action",
         "source": "GitHub · Trending Today",
         "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_413244550b59",
-      "title": "一个用于大型语言模型（LLM）的单函数Jev样式封装器，包括视觉模型",
-      "url": "http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html",
-      "primary_url": "http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html",
-      "source": "allanrbo.blogspot.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "aac1d2fcce712e6f12ccb9c0524fed328c118409",
-          "title": "一个用于大型语言模型（LLM）的单函数Jev样式封装器，包括视觉模型",
-          "url": "http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html",
-          "source": "allanrbo.blogspot.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-26T13:01:20.496000Z"
-        },
-        {
-          "id": "bb8b7db89d1bcf77fb8d697b1c8a4086bb5166f7",
-          "title": "一个用于大型语言模型（LLM）的单函数Jev样式封装器，包括视觉模型 / A single function Jev-like wrapper for LLMs, including vision models",
-          "url": "http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-26T04:20:58Z"
-        },
-        {
-          "id": "0ff1d5b361396424bbca051eb5f698ba72535892",
-          "title": "A single function Jev-like wrapper for LLMs, including vision models",
-          "url": "https://news.ycombinator.com/item?id=49853175",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-26T04:20:58Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "allanrbo.blogspot.com",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "aac1d2fcce712e6f12ccb9c0524fed328c118409",
-          "title": "一个用于大型语言模型（LLM）的单函数Jev样式封装器，包括视觉模型",
-          "url": "http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html",
-          "source": "allanrbo.blogspot.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-26T13:01:20.496000Z"
-        },
-        {
-          "id": "bb8b7db89d1bcf77fb8d697b1c8a4086bb5166f7",
-          "title": "一个用于大型语言模型（LLM）的单函数Jev样式封装器，包括视觉模型 / A single function Jev-like wrapper for LLMs, including vision models",
-          "url": "http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-26T04:20:58Z"
-        },
-        {
-          "id": "0ff1d5b361396424bbca051eb5f698ba72535892",
-          "title": "A single function Jev-like wrapper for LLMs, including vision models",
-          "url": "https://news.ycombinator.com/item?id=49853175",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-26T04:20:58Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.4747,
-      "importance": 0.4747,
-      "importance_score": 0.4747,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.5085,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-26T04:20:58Z",
-      "latest_at": "2026-09-26T13:01:20.496000Z",
-      "primary_item": {
-        "id": "aac1d2fcce712e6f12ccb9c0524fed328c118409",
-        "title": "一个用于大型语言模型（LLM）的单函数Jev样式封装器，包括视觉模型",
-        "url": "http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html",
-        "source": "allanrbo.blogspot.com",
-        "source_name": "Buzzing"
       }
     },
     {
@@ -1345,14 +1246,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4888,
-      "importance": 0.4888,
-      "importance_score": 0.4888,
+      "score": 0.4425,
+      "importance": 0.4425,
+      "importance_score": 0.4425,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7042,
+        "recency": 0.4726,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1423,14 +1324,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4562,
-      "importance": 0.4562,
-      "importance_score": 0.4562,
+      "score": 0.4099,
+      "importance": 0.4099,
+      "importance_score": 0.4099,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.5409,
+        "recency": 0.3093,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1501,14 +1402,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4562,
-      "importance": 0.4562,
-      "importance_score": 0.4562,
+      "score": 0.4099,
+      "importance": 0.4099,
+      "importance_score": 0.4099,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.5409,
+        "recency": 0.3093,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1579,14 +1480,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4796,
-      "importance": 0.4796,
-      "importance_score": 0.4796,
+      "score": 0.4333,
+      "importance": 0.4333,
+      "importance_score": 0.4333,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6579,
+        "recency": 0.4263,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1601,6 +1502,162 @@
         "url": "https://github.com/mobile-next/mobile-mcp",
         "source": "GitHub · Trending Today",
         "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_acfc96639e2e",
+      "title": "在人工智能紧张局势下，中美双方同意开展“超级智能”对话",
+      "url": "https://www.axios.com/2026/09/26/us-china-ai-si-deal",
+      "primary_url": "https://www.axios.com/2026/09/26/us-china-ai-si-deal",
+      "source": "www.axios.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "3b9bcba83df54ba66685a9c78387a9238e1ac502",
+          "title": "在人工智能紧张局势下，中美双方同意开展“超级智能”对话",
+          "url": "https://www.axios.com/2026/09/26/us-china-ai-si-deal",
+          "source": "www.axios.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-26T11:28:03.444000Z"
+        },
+        {
+          "id": "f604cfd3bcdd7b71693fa66f13f7e8f2a4aa580c",
+          "title": "在人工智能紧张局势下，中美双方同意开展“超级智能”对话 - Axios",
+          "url": "https://news.google.com/read/CBMiYkFVX3lxTFBGNEZLMlBlMDlkamtycGhtQS1obGR1WUxFWVhIdVdqYjNqX2JTRmN0bjd3MFVobEhMdWtaRjdmV1VMX1hSbTVaUVZzRVdIcUpraXpRUmN0d0t2aVdScElDZGZ3?hl=en-US&gl=US&ceid=US%3Aen",
+          "source": "news.google.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-26T11:21:12Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "news.google.com",
+        "www.axios.com"
+      ],
+      "items": [
+        {
+          "id": "3b9bcba83df54ba66685a9c78387a9238e1ac502",
+          "title": "在人工智能紧张局势下，中美双方同意开展“超级智能”对话",
+          "url": "https://www.axios.com/2026/09/26/us-china-ai-si-deal",
+          "source": "www.axios.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-26T11:28:03.444000Z"
+        },
+        {
+          "id": "f604cfd3bcdd7b71693fa66f13f7e8f2a4aa580c",
+          "title": "在人工智能紧张局势下，中美双方同意开展“超级智能”对话 - Axios",
+          "url": "https://news.google.com/read/CBMiYkFVX3lxTFBGNEZLMlBlMDlkamtycGhtQS1obGR1WUxFWVhIdVdqYjNqX2JTRmN0bjd3MFVobEhMdWtaRjdmV1VMX1hSbTVaUVZzRVdIcUpraXpRUmN0d0t2aVdScElDZGZ3?hl=en-US&gl=US&ceid=US%3Aen",
+          "source": "news.google.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-26T11:21:12Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.3904,
+      "importance": 0.3904,
+      "importance_score": 0.3904,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.2121,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-26T11:21:12Z",
+      "latest_at": "2026-09-26T11:28:03.444000Z",
+      "primary_item": {
+        "id": "3b9bcba83df54ba66685a9c78387a9238e1ac502",
+        "title": "在人工智能紧张局势下，中美双方同意开展“超级智能”对话",
+        "url": "https://www.axios.com/2026/09/26/us-china-ai-si-deal",
+        "source": "www.axios.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_fc201052ac82",
+      "title": "Drawgent：在实时运行的 Excalidraw 画布上进行编程的代理 / Drawgent: Coding agent on a live Excalidraw canvas",
+      "url": "https://tangled.org/yanndegat.tngl.sh/drawgent",
+      "primary_url": "https://tangled.org/yanndegat.tngl.sh/drawgent",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "f4792ebf48addf9095de2f5e6ae36f978f2980df",
+          "title": "Drawgent：在实时运行的 Excalidraw 画布上进行编程的代理 / Drawgent: Coding agent on a live Excalidraw canvas",
+          "url": "https://tangled.org/yanndegat.tngl.sh/drawgent",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-26T15:56:34Z"
+        },
+        {
+          "id": "bfab012ef044fb1c921c4ff8933eb12f1fab02b4",
+          "title": "Drawgent：在实时运行的 Excalidraw 画布上进行编程的代理 / Make Claude your assistant in excalidraw",
+          "url": "https://tangled.org/yanndegat.tngl.sh/drawgent",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-26T15:56:34Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "Hacker News · 24h最热"
+      ],
+      "items": [
+        {
+          "id": "f4792ebf48addf9095de2f5e6ae36f978f2980df",
+          "title": "Drawgent：在实时运行的 Excalidraw 画布上进行编程的代理 / Drawgent: Coding agent on a live Excalidraw canvas",
+          "url": "https://tangled.org/yanndegat.tngl.sh/drawgent",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-26T15:56:34Z"
+        },
+        {
+          "id": "bfab012ef044fb1c921c4ff8933eb12f1fab02b4",
+          "title": "Drawgent：在实时运行的 Excalidraw 画布上进行编程的代理 / Make Claude your assistant in excalidraw",
+          "url": "https://tangled.org/yanndegat.tngl.sh/drawgent",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-26T15:56:34Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4277,
+      "importance": 0.4277,
+      "importance_score": 0.4277,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.3986,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-26T15:56:34Z",
+      "latest_at": "2026-09-26T15:56:34Z",
+      "primary_item": {
+        "id": "f4792ebf48addf9095de2f5e6ae36f978f2980df",
+        "title": "Drawgent：在实时运行的 Excalidraw 画布上进行编程的代理 / Drawgent: Coding agent on a live Excalidraw canvas",
+        "url": "https://tangled.org/yanndegat.tngl.sh/drawgent",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
       }
     }
   ]
