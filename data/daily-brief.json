@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-27T17:10:31.738011Z",
+  "generated_at": "2026-09-27T20:19:23.752097Z",
   "window_hours": 24,
-  "total_items": 16,
+  "total_items": 20,
   "items": [
     {
       "story_id": "story_6b9c644d38df",
@@ -38,14 +38,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7477,
-      "importance": 0.7477,
-      "importance_score": 0.7477,
+      "score": 0.7214,
+      "importance": 0.7214,
+      "importance_score": 0.7214,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6783,
+        "recency": 0.5471,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -116,14 +116,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6873,
-      "importance": 0.6873,
-      "importance_score": 0.6873,
+      "score": 0.6611,
+      "importance": 0.6611,
+      "importance_score": 0.6611,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.2516,
+        "recency": 0.1205,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -139,6 +139,103 @@
         "url": "https://aihot.news/items/cmuj0tqch0go3rohyqv46zlhy",
         "source": "IT之家（RSS）",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_4aa8cdc749d3",
+      "title": "不存在“失控”的人工智能代理",
+      "url": "https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents",
+      "primary_url": "https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents",
+      "source": "eoinhiggins.substack.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "634519ae43df8d95c26447cdc97bbb59d63e0670",
+          "title": "不存在“失控”的人工智能代理",
+          "url": "https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents",
+          "source": "eoinhiggins.substack.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-27T17:51:03.203000Z"
+        },
+        {
+          "id": "cc86428ad0497d69ff7e76de416387724bbc5a3c",
+          "title": "不存在“失控”的人工智能代理 / There are no \"rogue\" AI agents",
+          "url": "https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-27T16:19:46Z"
+        },
+        {
+          "id": "09acbafe4487509079a6b2b33c03f792c5aec3aa",
+          "title": "不存在“流氓”人工智能代理 / There are no \"rogue\" AI agents",
+          "url": "https://news.ycombinator.com/item?id=49868083",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-27T16:19:46Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News",
+        "eoinhiggins.substack.com",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "634519ae43df8d95c26447cdc97bbb59d63e0670",
+          "title": "不存在“失控”的人工智能代理",
+          "url": "https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents",
+          "source": "eoinhiggins.substack.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-27T17:51:03.203000Z"
+        },
+        {
+          "id": "cc86428ad0497d69ff7e76de416387724bbc5a3c",
+          "title": "不存在“失控”的人工智能代理 / There are no \"rogue\" AI agents",
+          "url": "https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-27T16:19:46Z"
+        },
+        {
+          "id": "09acbafe4487509079a6b2b33c03f792c5aec3aa",
+          "title": "不存在“流氓”人工智能代理 / There are no \"rogue\" AI agents",
+          "url": "https://news.ycombinator.com/item?id=49868083",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-27T16:19:46Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5524,
+      "importance": 0.5524,
+      "importance_score": 0.5524,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.897,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-27T16:19:46Z",
+      "latest_at": "2026-09-27T17:51:03.203000Z",
+      "primary_item": {
+        "id": "634519ae43df8d95c26447cdc97bbb59d63e0670",
+        "title": "不存在“失控”的人工智能代理",
+        "url": "https://eoinhiggins.substack.com/p/there-are-no-rogue-ai-agents",
+        "source": "eoinhiggins.substack.com",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -169,7 +266,7 @@
         },
         {
           "id": "0d2ec493a74f10e587a746aa965482cf9b293acf",
-          "title": "Show HN: TinyAIArena watch AI agents battle it out",
+          "title": "Show HN：TinyAIArena 观看 AI 代理决一胜负 / Show HN: TinyAIArena watch AI agents battle it out",
           "url": "https://news.ycombinator.com/item?id=49867775",
           "source": "hackernews",
           "source_name": "NewsNow",
@@ -204,7 +301,7 @@
         },
         {
           "id": "0d2ec493a74f10e587a746aa965482cf9b293acf",
-          "title": "Show HN: TinyAIArena watch AI agents battle it out",
+          "title": "Show HN：TinyAIArena 观看 AI 代理决一胜负 / Show HN: TinyAIArena watch AI agents battle it out",
           "url": "https://news.ycombinator.com/item?id=49867775",
           "source": "hackernews",
           "source_name": "NewsNow",
@@ -214,14 +311,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5632,
-      "importance": 0.5632,
-      "importance_score": 0.5632,
+      "score": 0.537,
+      "importance": 0.537,
+      "importance_score": 0.537,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.951,
+        "recency": 0.8199,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -239,135 +336,236 @@
       }
     },
     {
-      "story_id": "story_9fe0a063f817",
-      "title": "OpenAI 担心在 Hacker News 上出现的内容可能引发的“舆论影响”",
-      "url": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal",
-      "primary_url": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal",
-      "source": "authorsguild.org",
+      "story_id": "story_774f7412d1a3",
+      "title": "《周六夜现场》“周末快讯”：Anthropic首席执行官达里奥·阿莫德伊谈人工智能对人类的威胁 [视频]",
+      "url": "https://www.youtube.com/watch?v=-Nvne3LzBls",
+      "primary_url": "https://www.youtube.com/watch?v=-Nvne3LzBls",
+      "source": "www.youtube.com",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "d199d71813277a4539e7d5f3772f709667e13283",
-          "title": "OpenAI 担心在 Hacker News 上出现的内容可能引发的“舆论影响”",
-          "url": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal",
-          "source": "authorsguild.org",
+          "id": "8bb2106345af379097cc1c7b625d132ebf5cf26d",
+          "title": "《周六夜现场》“周末快讯”：Anthropic首席执行官达里奥·阿莫德伊谈人工智能对人类的威胁 [视频]",
+          "url": "https://www.youtube.com/watch?v=-Nvne3LzBls",
+          "source": "www.youtube.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-09-27T09:27:15.061000Z"
+          "published_at": "2026-09-27T18:54:12.868000Z"
         },
         {
-          "id": "6854eace19c7e2682b7a7aab63b863052b423cd0",
-          "title": "OpenAI 担心在 Hacker News 上出现的内容可能引发的“舆论影响” / OpenAI Feared \"Optics\" of what might appear on Hacker News",
-          "url": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-27T06:19:33Z"
-        },
-        {
-          "id": "30cd905ef1f79995079a3f3836c9566017c9d514",
-          "title": "OpenAI Feared \"Optics\" of what might appear on Hacker News",
-          "url": "https://news.ycombinator.com/item?id=49863864",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-27T06:19:33Z"
-        },
-        {
-          "id": "295a64ccf8e3e99dec9960ecbd0136f20e3e281a",
-          "title": "OpenAI 担心在 Hacker News 上出现的内容可能引发的“舆论影响” / Unsealed Briefs in Authors’ Case v. Microsoft/OpenAI",
-          "url": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-27T06:19:33Z"
-        },
-        {
-          "id": "048fb6691c0da77149ae52e9601c25ffc1d4254d",
-          "title": "Unsealed Briefs in Authors’ Case v. Microsoft/OpenAI",
-          "url": "https://news.ycombinator.com/item?id=49863864",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-27T06:19:33Z"
+          "id": "d0bf0ce11d3d34263d0a9f7b5aeeccfb66771f3b",
+          "title": "《周六夜现场》“周末快讯”：Anthropic首席执行官达里奥·阿莫德伊谈人工智能对人类的威胁 [视频] / SNL Weekend Update: Anthropic CEO Dario Amodei on A.I.'S Threat to Humanity [video]",
+          "url": "https://www.youtube.com/watch?v=-Nvne3LzBls",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-27T17:32:02Z"
         }
       ],
-      "source_count": 5,
+      "source_count": 2,
       "source_names": [
-        "Hacker News (黑客新闻)",
-        "authorsguild.org",
-        "hackernews"
+        "Hacker News",
+        "www.youtube.com"
       ],
       "items": [
         {
-          "id": "d199d71813277a4539e7d5f3772f709667e13283",
-          "title": "OpenAI 担心在 Hacker News 上出现的内容可能引发的“舆论影响”",
-          "url": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal",
-          "source": "authorsguild.org",
+          "id": "8bb2106345af379097cc1c7b625d132ebf5cf26d",
+          "title": "《周六夜现场》“周末快讯”：Anthropic首席执行官达里奥·阿莫德伊谈人工智能对人类的威胁 [视频]",
+          "url": "https://www.youtube.com/watch?v=-Nvne3LzBls",
+          "source": "www.youtube.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-09-27T09:27:15.061000Z"
+          "published_at": "2026-09-27T18:54:12.868000Z"
         },
         {
-          "id": "6854eace19c7e2682b7a7aab63b863052b423cd0",
-          "title": "OpenAI 担心在 Hacker News 上出现的内容可能引发的“舆论影响” / OpenAI Feared \"Optics\" of what might appear on Hacker News",
-          "url": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-27T06:19:33Z"
-        },
-        {
-          "id": "30cd905ef1f79995079a3f3836c9566017c9d514",
-          "title": "OpenAI Feared \"Optics\" of what might appear on Hacker News",
-          "url": "https://news.ycombinator.com/item?id=49863864",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-27T06:19:33Z"
-        },
-        {
-          "id": "295a64ccf8e3e99dec9960ecbd0136f20e3e281a",
-          "title": "OpenAI 担心在 Hacker News 上出现的内容可能引发的“舆论影响” / Unsealed Briefs in Authors’ Case v. Microsoft/OpenAI",
-          "url": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-27T06:19:33Z"
-        },
-        {
-          "id": "048fb6691c0da77149ae52e9601c25ffc1d4254d",
-          "title": "Unsealed Briefs in Authors’ Case v. Microsoft/OpenAI",
-          "url": "https://news.ycombinator.com/item?id=49863864",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-27T06:19:33Z"
+          "id": "d0bf0ce11d3d34263d0a9f7b5aeeccfb66771f3b",
+          "title": "《周六夜现场》“周末快讯”：Anthropic首席执行官达里奥·阿莫德伊谈人工智能对人类的威胁 [视频] / SNL Weekend Update: Anthropic CEO Dario Amodei on A.I.'S Threat to Humanity [video]",
+          "url": "https://www.youtube.com/watch?v=-Nvne3LzBls",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-27T17:32:02Z"
         }
       ],
-      "item_count": 5,
-      "duplicate_count": 5,
-      "score": 0.5587,
-      "importance": 0.5587,
-      "importance_score": 0.5587,
-      "importance_label": "多源热议",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5362,
+      "importance": 0.5362,
+      "importance_score": 0.5362,
+      "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6783,
-        "story_heat": 1.0
+        "recency": 0.9408,
+        "story_heat": 0.25
       },
-      "category": "multi_source",
+      "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-09-27T06:19:33Z",
-      "latest_at": "2026-09-27T09:27:15.061000Z",
+      "earliest_at": "2026-09-27T17:32:02Z",
+      "latest_at": "2026-09-27T18:54:12.868000Z",
       "primary_item": {
-        "id": "d199d71813277a4539e7d5f3772f709667e13283",
-        "title": "OpenAI 担心在 Hacker News 上出现的内容可能引发的“舆论影响”",
-        "url": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal",
-        "source": "authorsguild.org",
+        "id": "8bb2106345af379097cc1c7b625d132ebf5cf26d",
+        "title": "《周六夜现场》“周末快讯”：Anthropic首席执行官达里奥·阿莫德伊谈人工智能对人类的威胁 [视频]",
+        "url": "https://www.youtube.com/watch?v=-Nvne3LzBls",
+        "source": "www.youtube.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_b04934350ff5",
+      "title": "揭开人工智能的虚张声势：添加“不要猜测”将虚假声明从 71% 减少到 20% / Calling the AI bluff: Adding \"Do not guess\" cut made-up claims from 71% to 20%",
+      "url": "https://earnanhonestdollar.com/bench",
+      "primary_url": "https://earnanhonestdollar.com/bench",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "e9c8dc545434c7b36887a6db6bd566b6d9501295",
+          "title": "揭开人工智能的虚张声势：添加“不要猜测”将虚假声明从 71% 减少到 20% / Calling the AI bluff: Adding \"Do not guess\" cut made-up claims from 71% to 20%",
+          "url": "https://earnanhonestdollar.com/bench",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-27T17:24:17Z"
+        },
+        {
+          "id": "330618c59ae0d8634153906de4a6207254685661",
+          "title": "揭开人工智能的虚张声势：添加“请勿猜测”将虚构字段从 71% 削减至 20% / Calling the AI bluff: Adding \"Do not guess\" cut made-up fields from 71% to 20%",
+          "url": "https://earnanhonestdollar.com/bench",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-27T17:24:17Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News",
+        "Hacker News · 24h最热"
+      ],
+      "items": [
+        {
+          "id": "e9c8dc545434c7b36887a6db6bd566b6d9501295",
+          "title": "揭开人工智能的虚张声势：添加“不要猜测”将虚假声明从 71% 减少到 20% / Calling the AI bluff: Adding \"Do not guess\" cut made-up claims from 71% to 20%",
+          "url": "https://earnanhonestdollar.com/bench",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-27T17:24:17Z"
+        },
+        {
+          "id": "330618c59ae0d8634153906de4a6207254685661",
+          "title": "揭开人工智能的虚张声势：添加“请勿猜测”将虚构字段从 71% 削减至 20% / Calling the AI bluff: Adding \"Do not guess\" cut made-up fields from 71% to 20%",
+          "url": "https://earnanhonestdollar.com/bench",
+          "source": "Hacker News",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-27T17:24:17Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5237,
+      "importance": 0.5237,
+      "importance_score": 0.5237,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8784,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-27T17:24:17Z",
+      "latest_at": "2026-09-27T17:24:17Z",
+      "primary_item": {
+        "id": "e9c8dc545434c7b36887a6db6bd566b6d9501295",
+        "title": "揭开人工智能的虚张声势：添加“不要猜测”将虚假声明从 71% 减少到 20% / Calling the AI bluff: Adding \"Do not guess\" cut made-up claims from 71% to 20%",
+        "url": "https://earnanhonestdollar.com/bench",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
+      }
+    },
+    {
+      "story_id": "story_a9972c37e8d1",
+      "title": "比尔·盖茨表示，人工智能的未来将分两个阶段实现，并最终迎来“丰裕时代”",
+      "url": "https://www.businessinsider.com/bill-gates-future-of-ai-will-happen-in-two-phases-2026-9",
+      "primary_url": "https://www.businessinsider.com/bill-gates-future-of-ai-will-happen-in-two-phases-2026-9",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "8abaab6cb6aa609759d63b0e5a6f235374357d99",
+          "title": "比尔·盖茨表示，人工智能的未来将分两个阶段实现，并最终迎来“丰裕时代”",
+          "url": "https://www.businessinsider.com/bill-gates-future-of-ai-will-happen-in-two-phases-2026-9",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-27T17:18:54.824000Z"
+        },
+        {
+          "id": "3dbfe352d3dc28d2e5204fb6ecc9867cf6cdceb9",
+          "title": "比尔·盖茨表示，人工智能的未来将分两个阶段实现，并最终迎来“丰裕时代” / Bill Gates says the future of AI will happen in 2 phases and lead to 'an era of abundance'",
+          "url": "https://www.businessinsider.com/bill-gates-future-of-ai-will-happen-in-two-phases-2026-9",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-27T16:55:13Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "8abaab6cb6aa609759d63b0e5a6f235374357d99",
+          "title": "比尔·盖茨表示，人工智能的未来将分两个阶段实现，并最终迎来“丰裕时代”",
+          "url": "https://www.businessinsider.com/bill-gates-future-of-ai-will-happen-in-two-phases-2026-9",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-27T17:18:54.824000Z"
+        },
+        {
+          "id": "3dbfe352d3dc28d2e5204fb6ecc9867cf6cdceb9",
+          "title": "比尔·盖茨表示，人工智能的未来将分两个阶段实现，并最终迎来“丰裕时代” / Bill Gates says the future of AI will happen in 2 phases and lead to 'an era of abundance'",
+          "url": "https://www.businessinsider.com/bill-gates-future-of-ai-will-happen-in-two-phases-2026-9",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-27T16:55:13Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5229,
+      "importance": 0.5229,
+      "importance_score": 0.5229,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8747,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-27T16:55:13Z",
+      "latest_at": "2026-09-27T17:18:54.824000Z",
+      "primary_item": {
+        "id": "8abaab6cb6aa609759d63b0e5a6f235374357d99",
+        "title": "比尔·盖茨表示，人工智能的未来将分两个阶段实现，并最终迎来“丰裕时代”",
+        "url": "https://www.businessinsider.com/bill-gates-future-of-ai-will-happen-in-two-phases-2026-9",
+        "source": "www.businessinsider.com",
         "source_name": "Buzzing"
       }
     },
@@ -425,14 +623,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5423,
-      "importance": 0.5423,
-      "importance_score": 0.5423,
+      "score": 0.5161,
+      "importance": 0.5161,
+      "importance_score": 0.5161,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9716,
+        "recency": 0.8404,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -521,14 +719,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.526,
-      "importance": 0.526,
-      "importance_score": 0.526,
+      "score": 0.4998,
+      "importance": 0.4998,
+      "importance_score": 0.4998,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7651,
+        "recency": 0.6339,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -546,30 +744,126 @@
       }
     },
     {
-      "story_id": "story_fa0a47e1b5bd",
-      "title": "一些Z世代年轻人正在自学打字，以便更好地向AI下达指令，或者在职场中占得先机。",
-      "url": "https://www.businessinsider.com/gen-z-improving-typing-skills-amid-rise-ai-technology-2026-9",
-      "primary_url": "https://www.businessinsider.com/gen-z-improving-typing-skills-amid-rise-ai-technology-2026-9",
+      "story_id": "story_9fe0a063f817",
+      "title": "OpenAI 担心在 Hacker News 上出现的内容可能引发的“舆论影响”",
+      "url": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal",
+      "primary_url": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal",
+      "source": "authorsguild.org",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "d199d71813277a4539e7d5f3772f709667e13283",
+          "title": "OpenAI 担心在 Hacker News 上出现的内容可能引发的“舆论影响”",
+          "url": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal",
+          "source": "authorsguild.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-27T09:27:15.061000Z"
+        },
+        {
+          "id": "6854eace19c7e2682b7a7aab63b863052b423cd0",
+          "title": "OpenAI 担心在 Hacker News 上出现的内容可能引发的“舆论影响” / OpenAI Feared \"Optics\" of what might appear on Hacker News",
+          "url": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-27T06:19:33Z"
+        },
+        {
+          "id": "295a64ccf8e3e99dec9960ecbd0136f20e3e281a",
+          "title": "OpenAI 担心在 Hacker News 上出现的内容可能引发的“舆论影响” / Unsealed Briefs in Authors’ Case v. Microsoft/OpenAI",
+          "url": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-27T06:19:33Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "authorsguild.org"
+      ],
+      "items": [
+        {
+          "id": "d199d71813277a4539e7d5f3772f709667e13283",
+          "title": "OpenAI 担心在 Hacker News 上出现的内容可能引发的“舆论影响”",
+          "url": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal",
+          "source": "authorsguild.org",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-27T09:27:15.061000Z"
+        },
+        {
+          "id": "6854eace19c7e2682b7a7aab63b863052b423cd0",
+          "title": "OpenAI 担心在 Hacker News 上出现的内容可能引发的“舆论影响” / OpenAI Feared \"Optics\" of what might appear on Hacker News",
+          "url": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-27T06:19:33Z"
+        },
+        {
+          "id": "295a64ccf8e3e99dec9960ecbd0136f20e3e281a",
+          "title": "OpenAI 担心在 Hacker News 上出现的内容可能引发的“舆论影响” / Unsealed Briefs in Authors’ Case v. Microsoft/OpenAI",
+          "url": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-09-27T06:19:33Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.4824,
+      "importance": 0.4824,
+      "importance_score": 0.4824,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.5471,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-27T06:19:33Z",
+      "latest_at": "2026-09-27T09:27:15.061000Z",
+      "primary_item": {
+        "id": "d199d71813277a4539e7d5f3772f709667e13283",
+        "title": "OpenAI 担心在 Hacker News 上出现的内容可能引发的“舆论影响”",
+        "url": "https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal",
+        "source": "authorsguild.org",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_a62f66c93218",
+      "title": "《周六夜现场》恶搞达里奥·阿莫德伊：“AI是魔鬼，而我就是它的创造者”",
+      "url": "https://www.businessinsider.com/snl-skit-mocks-dario-amodei-ai-doomsday-predictions-2026-9",
+      "primary_url": "https://www.businessinsider.com/snl-skit-mocks-dario-amodei-ai-doomsday-predictions-2026-9",
       "source": "www.businessinsider.com",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "6e8a72db35aa150e337602a81210a750676285f7",
-          "title": "一些Z世代年轻人正在自学打字，以便更好地向AI下达指令，或者在职场中占得先机。",
-          "url": "https://www.businessinsider.com/gen-z-improving-typing-skills-amid-rise-ai-technology-2026-9",
+          "id": "147deaa46350da6f3e2431016fb9b55f5d76043d",
+          "title": "《周六夜现场》恶搞达里奥·阿莫德伊：“AI是魔鬼，而我就是它的创造者”",
+          "url": "https://www.businessinsider.com/snl-skit-mocks-dario-amodei-ai-doomsday-predictions-2026-9",
           "source": "www.businessinsider.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-09-27T10:45:08.393000Z"
+          "published_at": "2026-09-27T15:45:11.702000Z"
         },
         {
-          "id": "cd86d94722144a85171a58d7dc631c0eb742a1a3",
-          "title": "一些Z世代年轻人正在自学打字，以便更好地向AI下达指令，或者在职场中占得先机。 / AI is prompting these Gen Zers to learn how to type",
-          "url": "https://www.businessinsider.com/gen-z-improving-typing-skills-amid-rise-ai-technology-2026-9",
+          "id": "5ad208c9260df970d6dc2710fbf80dee99df201b",
+          "title": "《周六夜现场》恶搞达里奥·阿莫德伊：“AI是魔鬼，而我就是它的创造者” / 'Saturday Night Live' spoofs Dario Amodei: ‘AI is the devil and I its maker’",
+          "url": "https://www.businessinsider.com/snl-skit-mocks-dario-amodei-ai-doomsday-predictions-2026-9",
           "source": "Business Insider",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-09-27T10:00:01Z"
+          "published_at": "2026-09-27T15:39:24Z"
         }
       ],
       "source_count": 2,
@@ -579,53 +873,130 @@
       ],
       "items": [
         {
-          "id": "6e8a72db35aa150e337602a81210a750676285f7",
-          "title": "一些Z世代年轻人正在自学打字，以便更好地向AI下达指令，或者在职场中占得先机。",
-          "url": "https://www.businessinsider.com/gen-z-improving-typing-skills-amid-rise-ai-technology-2026-9",
+          "id": "147deaa46350da6f3e2431016fb9b55f5d76043d",
+          "title": "《周六夜现场》恶搞达里奥·阿莫德伊：“AI是魔鬼，而我就是它的创造者”",
+          "url": "https://www.businessinsider.com/snl-skit-mocks-dario-amodei-ai-doomsday-predictions-2026-9",
           "source": "www.businessinsider.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-09-27T10:45:08.393000Z"
+          "published_at": "2026-09-27T15:45:11.702000Z"
         },
         {
-          "id": "cd86d94722144a85171a58d7dc631c0eb742a1a3",
-          "title": "一些Z世代年轻人正在自学打字，以便更好地向AI下达指令，或者在职场中占得先机。 / AI is prompting these Gen Zers to learn how to type",
-          "url": "https://www.businessinsider.com/gen-z-improving-typing-skills-amid-rise-ai-technology-2026-9",
+          "id": "5ad208c9260df970d6dc2710fbf80dee99df201b",
+          "title": "《周六夜现场》恶搞达里奥·阿莫德伊：“AI是魔鬼，而我就是它的创造者” / 'Saturday Night Live' spoofs Dario Amodei: ‘AI is the devil and I its maker’",
+          "url": "https://www.businessinsider.com/snl-skit-mocks-dario-amodei-ai-doomsday-predictions-2026-9",
           "source": "Business Insider",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-09-27T10:00:01Z"
+          "published_at": "2026-09-27T15:39:24Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4945,
-      "importance": 0.4945,
-      "importance_score": 0.4945,
+      "score": 0.5099,
+      "importance": 0.5099,
+      "importance_score": 0.5099,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7324,
+        "recency": 0.8096,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-09-27T10:00:01Z",
-      "latest_at": "2026-09-27T10:45:08.393000Z",
+      "earliest_at": "2026-09-27T15:39:24Z",
+      "latest_at": "2026-09-27T15:45:11.702000Z",
       "primary_item": {
-        "id": "6e8a72db35aa150e337602a81210a750676285f7",
-        "title": "一些Z世代年轻人正在自学打字，以便更好地向AI下达指令，或者在职场中占得先机。",
-        "url": "https://www.businessinsider.com/gen-z-improving-typing-skills-amid-rise-ai-technology-2026-9",
+        "id": "147deaa46350da6f3e2431016fb9b55f5d76043d",
+        "title": "《周六夜现场》恶搞达里奥·阿莫德伊：“AI是魔鬼，而我就是它的创造者”",
+        "url": "https://www.businessinsider.com/snl-skit-mocks-dario-amodei-ai-doomsday-predictions-2026-9",
         "source": "www.businessinsider.com",
         "source_name": "Buzzing"
       }
     },
     {
+      "story_id": "story_6c665e8770a4",
+      "title": "postmarketOS 更名为 Nura / PostmarketOS is rebranding as Nura",
+      "url": "https://nura.eco/blog/2026/09/27/nura-rename",
+      "primary_url": "https://nura.eco/blog/2026/09/27/nura-rename",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "4ef388192a26b6772537107a1741f8856997e33d",
+          "title": "postmarketOS 更名为 Nura / PostmarketOS is rebranding as Nura",
+          "url": "https://nura.eco/blog/2026/09/27/nura-rename",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-27T15:31:15Z"
+        },
+        {
+          "id": "309584ace4896bd64852b6b85bdb17b8244e7dec",
+          "title": "postmarketOS 更名为 Nura / postmarketOS Rebrand: Nura",
+          "url": "https://nura.eco/blog/2026/09/27/nura-rename",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-27T15:31:15Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热"
+      ],
+      "items": [
+        {
+          "id": "4ef388192a26b6772537107a1741f8856997e33d",
+          "title": "postmarketOS 更名为 Nura / PostmarketOS is rebranding as Nura",
+          "url": "https://nura.eco/blog/2026/09/27/nura-rename",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-27T15:31:15Z"
+        },
+        {
+          "id": "309584ace4896bd64852b6b85bdb17b8244e7dec",
+          "title": "postmarketOS 更名为 Nura / postmarketOS Rebrand: Nura",
+          "url": "https://nura.eco/blog/2026/09/27/nura-rename",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-27T15:31:15Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.508,
+      "importance": 0.508,
+      "importance_score": 0.508,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7999,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-27T15:31:15Z",
+      "latest_at": "2026-09-27T15:31:15Z",
+      "primary_item": {
+        "id": "4ef388192a26b6772537107a1741f8856997e33d",
+        "title": "postmarketOS 更名为 Nura / PostmarketOS is rebranding as Nura",
+        "url": "https://nura.eco/blog/2026/09/27/nura-rename",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
+      }
+    },
+    {
       "story_id": "story_71ac5a164a1d",
-      "title": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
+      "title": "“作为语言模型”：聊天模板切换 LLM 自指语音 / \"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
       "url": "https://arxiv.org/abs/2609.25021",
       "primary_url": "https://arxiv.org/abs/2609.25021",
       "source": "Hacker News",
@@ -633,7 +1004,7 @@
       "sources": [
         {
           "id": "fa408dcd04e43bb6554663b1f90cc194762f4239",
-          "title": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
+          "title": "“作为语言模型”：聊天模板切换 LLM 自指语音 / \"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
           "url": "https://arxiv.org/abs/2609.25021",
           "source": "Hacker News",
           "source_name": "TechURLs",
@@ -642,7 +1013,7 @@
         },
         {
           "id": "95840a4f4ca7ac30329544bbd7322762e71a20d2",
-          "title": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
+          "title": "“作为语言模型”：聊天模板切换 LLM 自指语音 / \"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
           "url": "https://news.ycombinator.com/item?id=49865343",
           "source": "hackernews",
           "source_name": "NewsNow",
@@ -658,7 +1029,7 @@
       "items": [
         {
           "id": "fa408dcd04e43bb6554663b1f90cc194762f4239",
-          "title": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
+          "title": "“作为语言模型”：聊天模板切换 LLM 自指语音 / \"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
           "url": "https://arxiv.org/abs/2609.25021",
           "source": "Hacker News",
           "source_name": "TechURLs",
@@ -667,7 +1038,7 @@
         },
         {
           "id": "95840a4f4ca7ac30329544bbd7322762e71a20d2",
-          "title": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
+          "title": "“作为语言模型”：聊天模板切换 LLM 自指语音 / \"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
           "url": "https://news.ycombinator.com/item?id=49865343",
           "source": "hackernews",
           "source_name": "NewsNow",
@@ -677,14 +1048,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4919,
-      "importance": 0.4919,
-      "importance_score": 0.4919,
+      "score": 0.4656,
+      "importance": 0.4656,
+      "importance_score": 0.4656,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7194,
+        "recency": 0.5882,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -695,88 +1066,87 @@
       "latest_at": "2026-09-27T10:26:25Z",
       "primary_item": {
         "id": "fa408dcd04e43bb6554663b1f90cc194762f4239",
-        "title": "\"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
+        "title": "“作为语言模型”：聊天模板切换 LLM 自指语音 / \"As a Language Model\": Chat Template Switches LLM Self-Referential Voice",
         "url": "https://arxiv.org/abs/2609.25021",
         "source": "Hacker News",
         "source_name": "TechURLs"
       }
     },
     {
-      "story_id": "story_2f2f5e9bd898",
-      "title": "这位小镇图书馆员开设了一门名为“再见，AI”的课程，教大家如何从手机中移除AI。现在，大家都争相报名。",
-      "url": "https://www.businessinsider.com/library-bye-bye-ai-event-north-chatham-viral-2026-9",
-      "primary_url": "https://www.businessinsider.com/library-bye-bye-ai-event-north-chatham-viral-2026-9",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
+      "story_id": "story_adab374e680b",
+      "title": "“他们完全没有意识到对用户负有注意义务。” / Installing NeoVim caused original Vim undo files to be deleted",
+      "url": "https://unsung.aresluna.org/they-had-no-concept-of-a-duty-of-care-to-their-users",
+      "primary_url": "https://unsung.aresluna.org/they-had-no-concept-of-a-duty-of-care-to-their-users",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
       "sources": [
         {
-          "id": "805819231e28999a1d92a7d72aac3bbecbfbb0fd",
-          "title": "这位小镇图书馆员开设了一门名为“再见，AI”的课程，教大家如何从手机中移除AI。现在，大家都争相报名。",
-          "url": "https://www.businessinsider.com/library-bye-bye-ai-event-north-chatham-viral-2026-9",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-27T10:14:34.505000Z"
+          "id": "aceac4e57842fffe36685838a8e54dbbffdc9d0c",
+          "title": "“他们完全没有意识到对用户负有注意义务。” / Installing NeoVim caused original Vim undo files to be deleted",
+          "url": "https://unsung.aresluna.org/they-had-no-concept-of-a-duty-of-care-to-their-users",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-27T14:45:07Z"
         },
         {
-          "id": "5a6398ef044267cdf08714e2929df513776b5d44",
-          "title": "这位小镇图书馆员开设了一门名为“再见，AI”的课程，教大家如何从手机中移除AI。现在，大家都争相报名。 / This small town librarian offers a 'Bye, Bye AI' class to take AI off your phone. Now everyone wants in.",
-          "url": "https://www.businessinsider.com/library-bye-bye-ai-event-north-chatham-viral-2026-9",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-27T09:50:01Z"
+          "id": "bd861af4ba1073439745787c82ccf413fb478e80",
+          "title": "“他们完全没有意识到对用户负有注意义务。” / On caring for user data: NeoVim caused Vim undo files to be deleted",
+          "url": "https://unsung.aresluna.org/they-had-no-concept-of-a-duty-of-care-to-their-users",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-27T14:45:07Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
+        "Hacker News · 24h最热"
       ],
       "items": [
         {
-          "id": "805819231e28999a1d92a7d72aac3bbecbfbb0fd",
-          "title": "这位小镇图书馆员开设了一门名为“再见，AI”的课程，教大家如何从手机中移除AI。现在，大家都争相报名。",
-          "url": "https://www.businessinsider.com/library-bye-bye-ai-event-north-chatham-viral-2026-9",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-27T10:14:34.505000Z"
+          "id": "aceac4e57842fffe36685838a8e54dbbffdc9d0c",
+          "title": "“他们完全没有意识到对用户负有注意义务。” / Installing NeoVim caused original Vim undo files to be deleted",
+          "url": "https://unsung.aresluna.org/they-had-no-concept-of-a-duty-of-care-to-their-users",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-27T14:45:07Z"
         },
         {
-          "id": "5a6398ef044267cdf08714e2929df513776b5d44",
-          "title": "这位小镇图书馆员开设了一门名为“再见，AI”的课程，教大家如何从手机中移除AI。现在，大家都争相报名。 / This small town librarian offers a 'Bye, Bye AI' class to take AI off your phone. Now everyone wants in.",
-          "url": "https://www.businessinsider.com/library-bye-bye-ai-event-north-chatham-viral-2026-9",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-27T09:50:01Z"
+          "id": "bd861af4ba1073439745787c82ccf413fb478e80",
+          "title": "“他们完全没有意识到对用户负有注意义务。” / On caring for user data: NeoVim caused Vim undo files to be deleted",
+          "url": "https://unsung.aresluna.org/they-had-no-concept-of-a-duty-of-care-to-their-users",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-27T14:45:07Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4902,
-      "importance": 0.4902,
-      "importance_score": 0.4902,
+      "score": 0.5016,
+      "importance": 0.5016,
+      "importance_score": 0.5016,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7111,
+        "recency": 0.7679,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-09-27T09:50:01Z",
-      "latest_at": "2026-09-27T10:14:34.505000Z",
+      "earliest_at": "2026-09-27T14:45:07Z",
+      "latest_at": "2026-09-27T14:45:07Z",
       "primary_item": {
-        "id": "805819231e28999a1d92a7d72aac3bbecbfbb0fd",
-        "title": "这位小镇图书馆员开设了一门名为“再见，AI”的课程，教大家如何从手机中移除AI。现在，大家都争相报名。",
-        "url": "https://www.businessinsider.com/library-bye-bye-ai-event-north-chatham-viral-2026-9",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
+        "id": "aceac4e57842fffe36685838a8e54dbbffdc9d0c",
+        "title": "“他们完全没有意识到对用户负有注意义务。” / Installing NeoVim caused original Vim undo files to be deleted",
+        "url": "https://unsung.aresluna.org/they-had-no-concept-of-a-duty-of-care-to-their-users",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
       }
     },
     {
@@ -833,14 +1203,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4597,
-      "importance": 0.4597,
-      "importance_score": 0.4597,
+      "score": 0.4335,
+      "importance": 0.4335,
+      "importance_score": 0.4335,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.5586,
+        "recency": 0.4275,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -858,99 +1228,234 @@
       }
     },
     {
-      "story_id": "story_755e3dc914b2",
-      "title": "DeepSeek 弹性计算 (DSec)",
-      "url": "https://arxiv.org/abs/2609.22978",
-      "primary_url": "https://arxiv.org/abs/2609.22978",
-      "source": "arxiv.org",
-      "source_name": "Buzzing",
+      "story_id": "story_b9afd8f6e6e9",
+      "title": "OpenAI 担心黑客新闻中可能出现的“光学”内容 / OpenAI Feared \"Optics\" of what might appear on Hacker News",
+      "url": "https://news.ycombinator.com/item?id=49863864",
+      "primary_url": "https://news.ycombinator.com/item?id=49863864",
+      "source": "hackernews",
+      "source_name": "NewsNow",
       "sources": [
         {
-          "id": "c6077609dc8b96fb35102360de19ab1d305d91a0",
-          "title": "DeepSeek 弹性计算 (DSec)",
-          "url": "https://arxiv.org/abs/2609.22978",
-          "source": "arxiv.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-26T22:58:22.682000Z"
-        },
-        {
-          "id": "f05283ee2d124d5257b1a4e342c583ca8a2de303",
-          "title": "DeepSeek 弹性计算 (DSec) / DeepSeek Elastic Compute (DSec)",
-          "url": "https://arxiv.org/abs/2609.22978",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-26T18:22:41Z"
-        },
-        {
-          "id": "a90df0c4a516df83cfdc3e42f0415cac8e792881",
-          "title": "DeepSeek Elastic Compute (DSec)",
-          "url": "https://news.ycombinator.com/item?id=49859112",
+          "id": "30cd905ef1f79995079a3f3836c9566017c9d514",
+          "title": "OpenAI 担心黑客新闻中可能出现的“光学”内容 / OpenAI Feared \"Optics\" of what might appear on Hacker News",
+          "url": "https://news.ycombinator.com/item?id=49863864",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-09-26T18:22:41Z"
+          "published_at": "2026-09-27T06:19:33Z"
+        },
+        {
+          "id": "048fb6691c0da77149ae52e9601c25ffc1d4254d",
+          "title": "作者诉微软/OpenAI 案中未密封的内情 / Unsealed Briefs in Authors’ Case v. Microsoft/OpenAI",
+          "url": "https://news.ycombinator.com/item?id=49863864",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-27T06:19:33Z"
         }
       ],
-      "source_count": 3,
+      "source_count": 2,
       "source_names": [
-        "Hacker News (黑客新闻)",
-        "arxiv.org",
         "hackernews"
       ],
       "items": [
         {
-          "id": "c6077609dc8b96fb35102360de19ab1d305d91a0",
-          "title": "DeepSeek 弹性计算 (DSec)",
-          "url": "https://arxiv.org/abs/2609.22978",
-          "source": "arxiv.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-26T22:58:22.682000Z"
-        },
-        {
-          "id": "f05283ee2d124d5257b1a4e342c583ca8a2de303",
-          "title": "DeepSeek 弹性计算 (DSec) / DeepSeek Elastic Compute (DSec)",
-          "url": "https://arxiv.org/abs/2609.22978",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-26T18:22:41Z"
-        },
-        {
-          "id": "a90df0c4a516df83cfdc3e42f0415cac8e792881",
-          "title": "DeepSeek Elastic Compute (DSec)",
-          "url": "https://news.ycombinator.com/item?id=49859112",
+          "id": "30cd905ef1f79995079a3f3836c9566017c9d514",
+          "title": "OpenAI 担心黑客新闻中可能出现的“光学”内容 / OpenAI Feared \"Optics\" of what might appear on Hacker News",
+          "url": "https://news.ycombinator.com/item?id=49863864",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-09-26T18:22:41Z"
+          "published_at": "2026-09-27T06:19:33Z"
+        },
+        {
+          "id": "048fb6691c0da77149ae52e9601c25ffc1d4254d",
+          "title": "作者诉微软/OpenAI 案中未密封的内情 / Unsealed Briefs in Authors’ Case v. Microsoft/OpenAI",
+          "url": "https://news.ycombinator.com/item?id=49863864",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-09-27T06:19:33Z"
         }
       ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.4213,
-      "importance": 0.4213,
-      "importance_score": 0.4213,
-      "importance_label": "多源热议",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4314,
+      "importance": 0.4314,
+      "importance_score": 0.4314,
+      "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.2416,
-        "story_heat": 0.5
+        "recency": 0.4168,
+        "story_heat": 0.25
       },
-      "category": "multi_source",
+      "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-09-26T18:22:41Z",
-      "latest_at": "2026-09-26T22:58:22.682000Z",
+      "earliest_at": "2026-09-27T06:19:33Z",
+      "latest_at": "2026-09-27T06:19:33Z",
       "primary_item": {
-        "id": "c6077609dc8b96fb35102360de19ab1d305d91a0",
-        "title": "DeepSeek 弹性计算 (DSec)",
-        "url": "https://arxiv.org/abs/2609.22978",
-        "source": "arxiv.org",
+        "id": "30cd905ef1f79995079a3f3836c9566017c9d514",
+        "title": "OpenAI 担心黑客新闻中可能出现的“光学”内容 / OpenAI Feared \"Optics\" of what might appear on Hacker News",
+        "url": "https://news.ycombinator.com/item?id=49863864",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      }
+    },
+    {
+      "story_id": "story_c219fe8f6b6a",
+      "title": "粗制滥造的用户界面的10个迹象 / 10 Tells of a Slop UI",
+      "url": "https://hereticpleb.vercel.app/blog/10-tells-of-slop",
+      "primary_url": "https://hereticpleb.vercel.app/blog/10-tells-of-slop",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "627c68d3b254b0339a80b7a16f5f32f88dbecbf3",
+          "title": "粗制滥造的用户界面的10个迹象 / 10 Tells of a Slop UI",
+          "url": "https://hereticpleb.vercel.app/blog/10-tells-of-slop",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-27T14:41:26Z"
+        },
+        {
+          "id": "dd81550d2e15aa40b4894f62f8d8ca6ad2339b0a",
+          "title": "粗制滥造的用户界面的10个迹象 / Tells of a Slop UI",
+          "url": "https://hereticpleb.vercel.app/blog/10-tells-of-slop",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-27T14:41:26Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热"
+      ],
+      "items": [
+        {
+          "id": "627c68d3b254b0339a80b7a16f5f32f88dbecbf3",
+          "title": "粗制滥造的用户界面的10个迹象 / 10 Tells of a Slop UI",
+          "url": "https://hereticpleb.vercel.app/blog/10-tells-of-slop",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-27T14:41:26Z"
+        },
+        {
+          "id": "dd81550d2e15aa40b4894f62f8d8ca6ad2339b0a",
+          "title": "粗制滥造的用户界面的10个迹象 / Tells of a Slop UI",
+          "url": "https://hereticpleb.vercel.app/blog/10-tells-of-slop",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-09-27T14:41:26Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5011,
+      "importance": 0.5011,
+      "importance_score": 0.5011,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7653,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-27T14:41:26Z",
+      "latest_at": "2026-09-27T14:41:26Z",
+      "primary_item": {
+        "id": "627c68d3b254b0339a80b7a16f5f32f88dbecbf3",
+        "title": "粗制滥造的用户界面的10个迹象 / 10 Tells of a Slop UI",
+        "url": "https://hereticpleb.vercel.app/blog/10-tells-of-slop",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
+      }
+    },
+    {
+      "story_id": "story_fa0a47e1b5bd",
+      "title": "一些Z世代年轻人正在自学打字，以便更好地向AI下达指令，或者在职场中占得先机。",
+      "url": "https://www.businessinsider.com/gen-z-improving-typing-skills-amid-rise-ai-technology-2026-9",
+      "primary_url": "https://www.businessinsider.com/gen-z-improving-typing-skills-amid-rise-ai-technology-2026-9",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "6e8a72db35aa150e337602a81210a750676285f7",
+          "title": "一些Z世代年轻人正在自学打字，以便更好地向AI下达指令，或者在职场中占得先机。",
+          "url": "https://www.businessinsider.com/gen-z-improving-typing-skills-amid-rise-ai-technology-2026-9",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-27T10:45:08.393000Z"
+        },
+        {
+          "id": "cd86d94722144a85171a58d7dc631c0eb742a1a3",
+          "title": "一些Z世代年轻人正在自学打字，以便更好地向AI下达指令，或者在职场中占得先机。 / AI is prompting these Gen Zers to learn how to type",
+          "url": "https://www.businessinsider.com/gen-z-improving-typing-skills-amid-rise-ai-technology-2026-9",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-27T10:00:01Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "6e8a72db35aa150e337602a81210a750676285f7",
+          "title": "一些Z世代年轻人正在自学打字，以便更好地向AI下达指令，或者在职场中占得先机。",
+          "url": "https://www.businessinsider.com/gen-z-improving-typing-skills-amid-rise-ai-technology-2026-9",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-09-27T10:45:08.393000Z"
+        },
+        {
+          "id": "cd86d94722144a85171a58d7dc631c0eb742a1a3",
+          "title": "一些Z世代年轻人正在自学打字，以便更好地向AI下达指令，或者在职场中占得先机。 / AI is prompting these Gen Zers to learn how to type",
+          "url": "https://www.businessinsider.com/gen-z-improving-typing-skills-amid-rise-ai-technology-2026-9",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-09-27T10:00:01Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4682,
+      "importance": 0.4682,
+      "importance_score": 0.4682,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.6012,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-09-27T10:00:01Z",
+      "latest_at": "2026-09-27T10:45:08.393000Z",
+      "primary_item": {
+        "id": "6e8a72db35aa150e337602a81210a750676285f7",
+        "title": "一些Z世代年轻人正在自学打字，以便更好地向AI下达指令，或者在职场中占得先机。",
+        "url": "https://www.businessinsider.com/gen-z-improving-typing-skills-amid-rise-ai-technology-2026-9",
+        "source": "www.businessinsider.com",
         "source_name": "Buzzing"
       }
     },
@@ -1008,14 +1513,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4117,
-      "importance": 0.4117,
-      "importance_score": 0.4117,
+      "score": 0.3855,
+      "importance": 0.3855,
+      "importance_score": 0.3855,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.3185,
+        "recency": 0.1873,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1033,313 +1538,80 @@
       }
     },
     {
-      "story_id": "story_26436e3a4f21",
-      "title": "OpenAI Codex 智能体失控，未经授权耗资 78,000 美元",
-      "url": "https://news.ycombinator.com/item?id=49861047",
-      "primary_url": "https://news.ycombinator.com/item?id=49861047",
-      "source": "news.ycombinator.com",
+      "story_id": "story_2f2f5e9bd898",
+      "title": "这位小镇图书馆员开设了一门名为“再见，AI”的课程，教大家如何从手机中移除AI。现在，大家都争相报名。",
+      "url": "https://www.businessinsider.com/library-bye-bye-ai-event-north-chatham-viral-2026-9",
+      "primary_url": "https://www.businessinsider.com/library-bye-bye-ai-event-north-chatham-viral-2026-9",
+      "source": "www.businessinsider.com",
       "source_name": "Buzzing",
       "sources": [
         {
-          "id": "1776f6143b2404018defabf393ed60e0dc228d8e",
-          "title": "OpenAI Codex 智能体失控，未经授权耗资 78,000 美元",
-          "url": "https://news.ycombinator.com/item?id=49861047",
-          "source": "news.ycombinator.com",
+          "id": "805819231e28999a1d92a7d72aac3bbecbfbb0fd",
+          "title": "这位小镇图书馆员开设了一门名为“再见，AI”的课程，教大家如何从手机中移除AI。现在，大家都争相报名。",
+          "url": "https://www.businessinsider.com/library-bye-bye-ai-event-north-chatham-viral-2026-9",
+          "source": "www.businessinsider.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-09-26T22:26:55.052000Z"
+          "published_at": "2026-09-27T10:14:34.505000Z"
         },
         {
-          "id": "ee32606a5cfb278917e675a9877f7fbd38f1f7cc",
-          "title": "OpenAI Codex 智能体失控，未经授权耗资 78,000 美元 / OpenAI Codex agents go rogue and consumes USD 78,000 without authorization",
-          "url": "https://news.ycombinator.com/item?id=49861047",
-          "source": "Hacker News",
+          "id": "5a6398ef044267cdf08714e2929df513776b5d44",
+          "title": "这位小镇图书馆员开设了一门名为“再见，AI”的课程，教大家如何从手机中移除AI。现在，大家都争相报名。 / This small town librarian offers a 'Bye, Bye AI' class to take AI off your phone. Now everyone wants in.",
+          "url": "https://www.businessinsider.com/library-bye-bye-ai-event-north-chatham-viral-2026-9",
+          "source": "Business Insider",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-09-26T22:15:32Z"
+          "published_at": "2026-09-27T09:50:01Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News",
-        "news.ycombinator.com"
+        "Business Insider",
+        "www.businessinsider.com"
       ],
       "items": [
         {
-          "id": "1776f6143b2404018defabf393ed60e0dc228d8e",
-          "title": "OpenAI Codex 智能体失控，未经授权耗资 78,000 美元",
-          "url": "https://news.ycombinator.com/item?id=49861047",
-          "source": "news.ycombinator.com",
+          "id": "805819231e28999a1d92a7d72aac3bbecbfbb0fd",
+          "title": "这位小镇图书馆员开设了一门名为“再见，AI”的课程，教大家如何从手机中移除AI。现在，大家都争相报名。",
+          "url": "https://www.businessinsider.com/library-bye-bye-ai-event-north-chatham-viral-2026-9",
+          "source": "www.businessinsider.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
-          "published_at": "2026-09-26T22:26:55.052000Z"
+          "published_at": "2026-09-27T10:14:34.505000Z"
         },
         {
-          "id": "ee32606a5cfb278917e675a9877f7fbd38f1f7cc",
-          "title": "OpenAI Codex 智能体失控，未经授权耗资 78,000 美元 / OpenAI Codex agents go rogue and consumes USD 78,000 without authorization",
-          "url": "https://news.ycombinator.com/item?id=49861047",
-          "source": "Hacker News",
+          "id": "5a6398ef044267cdf08714e2929df513776b5d44",
+          "title": "这位小镇图书馆员开设了一门名为“再见，AI”的课程，教大家如何从手机中移除AI。现在，大家都争相报名。 / This small town librarian offers a 'Bye, Bye AI' class to take AI off your phone. Now everyone wants in.",
+          "url": "https://www.businessinsider.com/library-bye-bye-ai-event-north-chatham-viral-2026-9",
+          "source": "Business Insider",
           "source_name": "TechURLs",
           "site_id": "techurls",
-          "published_at": "2026-09-26T22:15:32Z"
+          "published_at": "2026-09-27T09:50:01Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.3919,
-      "importance": 0.3919,
-      "importance_score": 0.3919,
+      "score": 0.464,
+      "importance": 0.464,
+      "importance_score": 0.464,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.2197,
+        "recency": 0.58,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-09-26T22:15:32Z",
-      "latest_at": "2026-09-26T22:26:55.052000Z",
+      "earliest_at": "2026-09-27T09:50:01Z",
+      "latest_at": "2026-09-27T10:14:34.505000Z",
       "primary_item": {
-        "id": "1776f6143b2404018defabf393ed60e0dc228d8e",
-        "title": "OpenAI Codex 智能体失控，未经授权耗资 78,000 美元",
-        "url": "https://news.ycombinator.com/item?id=49861047",
-        "source": "news.ycombinator.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_efa67a455fc9",
-      "title": "OpenAI agents tried to bruteforce a UN website's API fields",
-      "url": "https://swarmcha.se/posts/openai-unctad",
-      "primary_url": "https://swarmcha.se/posts/openai-unctad",
-      "source": "Hacker News",
-      "source_name": "TechURLs",
-      "sources": [
-        {
-          "id": "a35e14083a1f3afe8e189bb0486e450b6d77499b",
-          "title": "OpenAI agents tried to bruteforce a UN website's API fields",
-          "url": "https://swarmcha.se/posts/openai-unctad",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-27T01:08:07Z"
-        },
-        {
-          "id": "41672068d6d2cb6cf82b7c46c233cdea9cfdc076",
-          "title": "OpenAI agents tried to bruteforce a UN website's API fields",
-          "url": "https://news.ycombinator.com/item?id=49862299",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-27T01:08:07Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "a35e14083a1f3afe8e189bb0486e450b6d77499b",
-          "title": "OpenAI agents tried to bruteforce a UN website's API fields",
-          "url": "https://swarmcha.se/posts/openai-unctad",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-27T01:08:07Z"
-        },
-        {
-          "id": "41672068d6d2cb6cf82b7c46c233cdea9cfdc076",
-          "title": "OpenAI agents tried to bruteforce a UN website's API fields",
-          "url": "https://news.ycombinator.com/item?id=49862299",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-27T01:08:07Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4143,
-      "importance": 0.4143,
-      "importance_score": 0.4143,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.3317,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-27T01:08:07Z",
-      "latest_at": "2026-09-27T01:08:07Z",
-      "primary_item": {
-        "id": "a35e14083a1f3afe8e189bb0486e450b6d77499b",
-        "title": "OpenAI agents tried to bruteforce a UN website's API fields",
-        "url": "https://swarmcha.se/posts/openai-unctad",
-        "source": "Hacker News",
-        "source_name": "TechURLs"
-      }
-    },
-    {
-      "story_id": "story_464712ef80ec",
-      "title": "日本着手收紧针对外国人的规定 / Japan moves to tighten rules for foreigners",
-      "url": "https://www.aljazeera.com/economy/2026/9/25/japan-moves-to-tighten-rules-for-foreigners-throwing-futures-into-doubt",
-      "primary_url": "https://www.aljazeera.com/economy/2026/9/25/japan-moves-to-tighten-rules-for-foreigners-throwing-futures-into-doubt",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "36a50a7fab5a28200a7bb207f310c7d0a8e2901a",
-          "title": "日本着手收紧针对外国人的规定 / Japan moves to tighten rules for foreigners",
-          "url": "https://www.aljazeera.com/economy/2026/9/25/japan-moves-to-tighten-rules-for-foreigners-throwing-futures-into-doubt",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-26T17:43:11Z"
-        },
-        {
-          "id": "4d0b9b11f19edf00776ae5f28db23fd20abe6b12",
-          "title": "日本着手收紧针对外国人的规定 / Japan moves to tighten rules for foreigners, throwing futures into doubt",
-          "url": "https://www.aljazeera.com/economy/2026/9/25/japan-moves-to-tighten-rules-for-foreigners-throwing-futures-into-doubt",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-26T17:43:11Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热"
-      ],
-      "items": [
-        {
-          "id": "36a50a7fab5a28200a7bb207f310c7d0a8e2901a",
-          "title": "日本着手收紧针对外国人的规定 / Japan moves to tighten rules for foreigners",
-          "url": "https://www.aljazeera.com/economy/2026/9/25/japan-moves-to-tighten-rules-for-foreigners-throwing-futures-into-doubt",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-26T17:43:11Z"
-        },
-        {
-          "id": "4d0b9b11f19edf00776ae5f28db23fd20abe6b12",
-          "title": "日本着手收紧针对外国人的规定 / Japan moves to tighten rules for foreigners, throwing futures into doubt",
-          "url": "https://www.aljazeera.com/economy/2026/9/25/japan-moves-to-tighten-rules-for-foreigners-throwing-futures-into-doubt",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-09-26T17:43:11Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.3525,
-      "importance": 0.3525,
-      "importance_score": 0.3525,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.0227,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-26T17:43:11Z",
-      "latest_at": "2026-09-26T17:43:11Z",
-      "primary_item": {
-        "id": "36a50a7fab5a28200a7bb207f310c7d0a8e2901a",
-        "title": "日本着手收紧针对外国人的规定 / Japan moves to tighten rules for foreigners",
-        "url": "https://www.aljazeera.com/economy/2026/9/25/japan-moves-to-tighten-rules-for-foreigners-throwing-futures-into-doubt",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
-      }
-    },
-    {
-      "story_id": "story_d1c9c2119b74",
-      "title": "人工智能代理将人类排除在决策循环之外",
-      "url": "https://arxiv.org/abs/2608.23642",
-      "primary_url": "https://arxiv.org/abs/2608.23642",
-      "source": "arxiv.org",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "104ac66a9ec2dfa132aa394419796937917021de",
-          "title": "人工智能代理将人类排除在决策循环之外",
-          "url": "https://arxiv.org/abs/2608.23642",
-          "source": "arxiv.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-26T20:22:04.648000Z"
-        },
-        {
-          "id": "3a2e70131058c9657da21b011df458dabb1991f8",
-          "title": "人工智能代理将人类排除在决策循环之外 / AI Agents Push Humans Out of the Loop",
-          "url": "https://arxiv.org/abs/2608.23642",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-26T19:21:56Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Lobsters (技术社区)",
-        "arxiv.org"
-      ],
-      "items": [
-        {
-          "id": "104ac66a9ec2dfa132aa394419796937917021de",
-          "title": "人工智能代理将人类排除在决策循环之外",
-          "url": "https://arxiv.org/abs/2608.23642",
-          "source": "arxiv.org",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-09-26T20:22:04.648000Z"
-        },
-        {
-          "id": "3a2e70131058c9657da21b011df458dabb1991f8",
-          "title": "人工智能代理将人类排除在决策循环之外 / AI Agents Push Humans Out of the Loop",
-          "url": "https://arxiv.org/abs/2608.23642",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-09-26T19:21:56Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.3746,
-      "importance": 0.3746,
-      "importance_score": 0.3746,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.133,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-09-26T19:21:56Z",
-      "latest_at": "2026-09-26T20:22:04.648000Z",
-      "primary_item": {
-        "id": "104ac66a9ec2dfa132aa394419796937917021de",
-        "title": "人工智能代理将人类排除在决策循环之外",
-        "url": "https://arxiv.org/abs/2608.23642",
-        "source": "arxiv.org",
+        "id": "805819231e28999a1d92a7d72aac3bbecbfbb0fd",
+        "title": "这位小镇图书馆员开设了一门名为“再见，AI”的课程，教大家如何从手机中移除AI。现在，大家都争相报名。",
+        "url": "https://www.businessinsider.com/library-bye-bye-ai-event-north-chatham-viral-2026-9",
+        "source": "www.businessinsider.com",
         "source_name": "Buzzing"
       }
     }
