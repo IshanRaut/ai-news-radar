@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T01:52:23.490844Z",
+  "generated_at": "2026-10-04T07:54:16.209199Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,20 +38,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7876,
-      "importance": 0.7876,
-      "importance_score": 0.7876,
+      "score": 0.7374,
+      "importance": 0.7374,
+      "importance_score": 0.7374,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8781,
+        "recency": 0.6268,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-10-03T22:56:48Z",
       "latest_at": "2026-10-03T22:56:48Z",
@@ -98,20 +97,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7786,
-      "importance": 0.7786,
-      "importance_score": 0.7786,
+      "score": 0.7284,
+      "importance": 0.7284,
+      "importance_score": 0.7284,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8332,
+        "recency": 0.5819,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-10-03T21:52:11Z",
       "latest_at": "2026-10-03T21:52:11Z",
@@ -124,62 +122,158 @@
       }
     },
     {
-      "story_id": "story_762a846924ab",
-      "title": "LMSYS 发布开源聊天模型 Vicuna-13B，用 ShareGPT 对话微调 LLaMA，训练成本约 $300",
-      "url": "https://aihot.news/items/eu8pag1qg6pf93gn9k1ql0m0z",
-      "primary_url": "https://aihot.news/items/eu8pag1qg6pf93gn9k1ql0m0z",
-      "source": "LMSYS：Blog",
-      "source_name": "AI HOT",
+      "story_id": "story_f869cda199ac",
+      "title": "最火AI岗位FDE：月薪5万，都干这些…",
+      "url": "https://www.qbitai.com/2026/10/501506.html",
+      "primary_url": "https://www.qbitai.com/2026/10/501506.html",
+      "source": "量子位 · 每日最新",
+      "source_name": "TopHub",
       "sources": [
         {
-          "id": "ffbcf82cd1d9d634c443bbcf190be6f08ec2e8fa",
-          "title": "LMSYS 发布开源聊天模型 Vicuna-13B，用 ShareGPT 对话微调 LLaMA，训练成本约 $300",
-          "url": "https://aihot.news/items/eu8pag1qg6pf93gn9k1ql0m0z",
-          "source": "LMSYS：Blog",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-03T15:50:46Z"
+          "id": "5abd3de7133ab0d4bbec56a36ae7ba2fd8d6096a",
+          "title": "最火AI岗位FDE：月薪5万，都干这些…",
+          "url": "https://www.qbitai.com/2026/10/501506.html",
+          "source": "量子位 · 每日最新",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "26b47d462b926a1ab027984e69d0fdb0ac3ea896",
+          "title": "最火AI岗位FDE：月薪5万，都干这些…",
+          "url": "https://www.huxiu.com/article/4895334.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-04T04:11:20Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "LMSYS：Blog"
+        "虎嗅 (Huxiu)",
+        "量子位 · 每日最新"
       ],
       "items": [
         {
-          "id": "ffbcf82cd1d9d634c443bbcf190be6f08ec2e8fa",
-          "title": "LMSYS 发布开源聊天模型 Vicuna-13B，用 ShareGPT 对话微调 LLaMA，训练成本约 $300",
-          "url": "https://aihot.news/items/eu8pag1qg6pf93gn9k1ql0m0z",
-          "source": "LMSYS：Blog",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-03T15:50:46Z"
+          "id": "5abd3de7133ab0d4bbec56a36ae7ba2fd8d6096a",
+          "title": "最火AI岗位FDE：月薪5万，都干这些…",
+          "url": "https://www.qbitai.com/2026/10/501506.html",
+          "source": "量子位 · 每日最新",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "26b47d462b926a1ab027984e69d0fdb0ac3ea896",
+          "title": "最火AI岗位FDE：月薪5万，都干这些…",
+          "url": "https://www.huxiu.com/article/4895334.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-04T04:11:20Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7284,
-      "importance": 0.7284,
-      "importance_score": 0.7284,
-      "importance_label": "行业动态",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.548,
+      "importance": 0.548,
+      "importance_score": 0.548,
+      "importance_label": "值得关注",
       "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5822,
-        "story_heat": 0.0
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
       },
-      "category": "industry",
+      "category": "watch",
       "reasons": [
-        "high_ai_relevance"
+        "multi_source"
       ],
-      "earliest_at": "2026-10-03T15:50:46Z",
-      "latest_at": "2026-10-03T15:50:46Z",
+      "earliest_at": "2026-10-04T04:11:20Z",
+      "latest_at": "2026-10-04T07:54:16.209199Z",
       "primary_item": {
-        "id": "ffbcf82cd1d9d634c443bbcf190be6f08ec2e8fa",
-        "title": "LMSYS 发布开源聊天模型 Vicuna-13B，用 ShareGPT 对话微调 LLaMA，训练成本约 $300",
-        "url": "https://aihot.news/items/eu8pag1qg6pf93gn9k1ql0m0z",
-        "source": "LMSYS：Blog",
-        "source_name": "AI HOT"
+        "id": "5abd3de7133ab0d4bbec56a36ae7ba2fd8d6096a",
+        "title": "最火AI岗位FDE：月薪5万，都干这些…",
+        "url": "https://www.qbitai.com/2026/10/501506.html",
+        "source": "量子位 · 每日最新",
+        "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_d354e4a5c9be",
+      "title": "《华尔街日报》称，美国人工智能特别工作组将就该技术带来的风险提交报告",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-03/us-ai-task-force-to-report-on-technology-s-risks-wsj-reports",
+      "primary_url": "https://www.bloomberg.com/news/articles/2026-10-03/us-ai-task-force-to-report-on-technology-s-risks-wsj-reports",
+      "source": "www.bloomberg.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "7936d0093c30da16bc9e02c58384f7e9d1c0d61c",
+          "title": "《华尔街日报》称，美国人工智能特别工作组将就该技术带来的风险提交报告",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-03/us-ai-task-force-to-report-on-technology-s-risks-wsj-reports",
+          "source": "www.bloomberg.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-04T01:55:40.527000Z"
+        },
+        {
+          "id": "4b5c51cf27185145e4182eb917492e7d1c6858f2",
+          "title": "《华尔街日报》报道：美国人工智能工作组将就该技术带来的风险提交报告",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-03/us-ai-task-force-to-report-on-technology-s-risks-wsj-reports",
+          "source": "www.bloomberg.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-04T00:04:47.898000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "www.bloomberg.com"
+      ],
+      "items": [
+        {
+          "id": "7936d0093c30da16bc9e02c58384f7e9d1c0d61c",
+          "title": "《华尔街日报》称，美国人工智能特别工作组将就该技术带来的风险提交报告",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-03/us-ai-task-force-to-report-on-technology-s-risks-wsj-reports",
+          "source": "www.bloomberg.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-04T01:55:40.527000Z"
+        },
+        {
+          "id": "4b5c51cf27185145e4182eb917492e7d1c6858f2",
+          "title": "《华尔街日报》报道：美国人工智能工作组将就该技术带来的风险提交报告",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-03/us-ai-task-force-to-report-on-technology-s-risks-wsj-reports",
+          "source": "www.bloomberg.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-04T00:04:47.898000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4982,
+      "importance": 0.4982,
+      "importance_score": 0.4982,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.751,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-04T00:04:47.898000Z",
+      "latest_at": "2026-10-04T01:55:40.527000Z",
+      "primary_item": {
+        "id": "7936d0093c30da16bc9e02c58384f7e9d1c0d61c",
+        "title": "《华尔街日报》称，美国人工智能特别工作组将就该技术带来的风险提交报告",
+        "url": "https://www.bloomberg.com/news/articles/2026-10-03/us-ai-task-force-to-report-on-technology-s-risks-wsj-reports",
+        "source": "www.bloomberg.com",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -236,14 +330,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.548,
-      "importance": 0.548,
-      "importance_score": 0.548,
+      "score": 0.4977,
+      "importance": 0.4977,
+      "importance_score": 0.4977,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.7487,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -333,14 +427,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5452,
-      "importance": 0.5452,
-      "importance_score": 0.5452,
+      "score": 0.4949,
+      "importance": 0.4949,
+      "importance_score": 0.4949,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8608,
+        "recency": 0.6095,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -411,14 +505,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5183,
-      "importance": 0.5183,
-      "importance_score": 0.5183,
+      "score": 0.468,
+      "importance": 0.468,
+      "importance_score": 0.468,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8513,
+        "recency": 0.6,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -489,14 +583,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5138,
-      "importance": 0.5138,
-      "importance_score": 0.5138,
+      "score": 0.4635,
+      "importance": 0.4635,
+      "importance_score": 0.4635,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8288,
+        "recency": 0.5775,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -604,14 +698,14 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.4835,
-      "importance": 0.4835,
-      "importance_score": 0.4835,
+      "score": 0.4332,
+      "importance": 0.4332,
+      "importance_score": 0.4332,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.4274,
+        "recency": 0.1761,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -682,14 +776,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5008,
-      "importance": 0.5008,
-      "importance_score": 0.5008,
+      "score": 0.4506,
+      "importance": 0.4506,
+      "importance_score": 0.4506,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7642,
+        "recency": 0.5129,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -703,83 +797,6 @@
         "title": "萨姆·奥尔特曼：不要把人工智能当作一种“宗教力量”",
         "url": "https://www.businessinsider.com/sam-altman-dont-treat-ai-like-a-religious-force-2026-10",
         "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_5ee2f82da6e6",
-      "title": "OpenAI员工辞职，呼吁采取核级安全保障措施",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-03/openai-safety-employee-quits-calls-for-nuclear-level-safeguards",
-      "primary_url": "https://www.bloomberg.com/news/articles/2026-10-03/openai-safety-employee-quits-calls-for-nuclear-level-safeguards",
-      "source": "www.bloomberg.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "09480281198b4c130f985b3d235d1ca8240eabcb",
-          "title": "OpenAI员工辞职，呼吁采取核级安全保障措施",
-          "url": "https://www.bloomberg.com/news/articles/2026-10-03/openai-safety-employee-quits-calls-for-nuclear-level-safeguards",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-03T16:00:49.051000Z"
-        },
-        {
-          "id": "8203ce7f4eb02f4fb64f082a256c4b1f1d97b5f6",
-          "title": "OpenAI安全部门员工辞职，呼吁采取“核级”安全保障措施",
-          "url": "https://www.bloomberg.com/news/articles/2026-10-03/openai-safety-employee-quits-calls-for-nuclear-level-safeguards",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-03T13:27:52.389000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "www.bloomberg.com"
-      ],
-      "items": [
-        {
-          "id": "09480281198b4c130f985b3d235d1ca8240eabcb",
-          "title": "OpenAI员工辞职，呼吁采取核级安全保障措施",
-          "url": "https://www.bloomberg.com/news/articles/2026-10-03/openai-safety-employee-quits-calls-for-nuclear-level-safeguards",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-03T16:00:49.051000Z"
-        },
-        {
-          "id": "8203ce7f4eb02f4fb64f082a256c4b1f1d97b5f6",
-          "title": "OpenAI安全部门员工辞职，呼吁采取“核级”安全保障措施",
-          "url": "https://www.bloomberg.com/news/articles/2026-10-03/openai-safety-employee-quits-calls-for-nuclear-level-safeguards",
-          "source": "www.bloomberg.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-03T13:27:52.389000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4658,
-      "importance": 0.4658,
-      "importance_score": 0.4658,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.5892,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-03T13:27:52.389000Z",
-      "latest_at": "2026-10-03T16:00:49.051000Z",
-      "primary_item": {
-        "id": "09480281198b4c130f985b3d235d1ca8240eabcb",
-        "title": "OpenAI员工辞职，呼吁采取核级安全保障措施",
-        "url": "https://www.bloomberg.com/news/articles/2026-10-03/openai-safety-employee-quits-calls-for-nuclear-level-safeguards",
-        "source": "www.bloomberg.com",
         "source_name": "Buzzing"
       }
     },
@@ -837,14 +854,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4649,
-      "importance": 0.4649,
-      "importance_score": 0.4649,
+      "score": 0.4146,
+      "importance": 0.4146,
+      "importance_score": 0.4146,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.5843,
+        "recency": 0.333,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -934,14 +951,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.4476,
-      "importance": 0.4476,
-      "importance_score": 0.4476,
+      "score": 0.3974,
+      "importance": 0.3974,
+      "importance_score": 0.3974,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.3732,
+        "recency": 0.1219,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -956,6 +973,103 @@
         "url": "https://tej.as/blog/aleph-alpha-kolibri",
         "source": "tej.as",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_956aebcec474",
+      "title": "我离开OpenAI，因为它的企业文化已经崩坏 / I Quit OpenAI Because Its Culture Is Broken",
+      "url": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881",
+      "primary_url": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "0e1a0d37b1f62ed8e304da75b4c9e53e3ae4e4d3",
+          "title": "我离开OpenAI，因为它的企业文化已经崩坏 / I Quit OpenAI Because Its Culture Is Broken",
+          "url": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-03T13:46:34Z"
+        },
+        {
+          "id": "c3ee0afbacf1cce8cf2907700d59c4a6690de2d4",
+          "title": "我退出 OpenAI 因为它的文化已经被打破 / I quit OpenAI because its culture is broken",
+          "url": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881/?gift=v5U_UzUTothfWXsPxtvNVAh7esWToMRD6XnbXmc5WgA",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-03T13:46:34Z"
+        },
+        {
+          "id": "ddc04447a08916b85f4a8ca85df7026f7e7843a1",
+          "title": "我离开OpenAI，因为它的企业文化已经崩坏",
+          "url": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881",
+          "source": "www.theatlantic.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-03T11:05:53.668000Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
+        "www.theatlantic.com"
+      ],
+      "items": [
+        {
+          "id": "0e1a0d37b1f62ed8e304da75b4c9e53e3ae4e4d3",
+          "title": "我离开OpenAI，因为它的企业文化已经崩坏 / I Quit OpenAI Because Its Culture Is Broken",
+          "url": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-03T13:46:34Z"
+        },
+        {
+          "id": "c3ee0afbacf1cce8cf2907700d59c4a6690de2d4",
+          "title": "我退出 OpenAI 因为它的文化已经被打破 / I quit OpenAI because its culture is broken",
+          "url": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881/?gift=v5U_UzUTothfWXsPxtvNVAh7esWToMRD6XnbXmc5WgA",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-03T13:46:34Z"
+        },
+        {
+          "id": "ddc04447a08916b85f4a8ca85df7026f7e7843a1",
+          "title": "我离开OpenAI，因为它的企业文化已经崩坏",
+          "url": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881",
+          "source": "www.theatlantic.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-03T11:05:53.668000Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.4219,
+      "importance": 0.4219,
+      "importance_score": 0.4219,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.2447,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-03T11:05:53.668000Z",
+      "latest_at": "2026-10-03T13:46:34Z",
+      "primary_item": {
+        "id": "0e1a0d37b1f62ed8e304da75b4c9e53e3ae4e4d3",
+        "title": "我离开OpenAI，因为它的企业文化已经崩坏 / I Quit OpenAI Because Its Culture Is Broken",
+        "url": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
       }
     },
     {
@@ -1012,14 +1126,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4988,
-      "importance": 0.4988,
-      "importance_score": 0.4988,
+      "score": 0.4485,
+      "importance": 0.4485,
+      "importance_score": 0.4485,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7538,
+        "recency": 0.5025,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1033,6 +1147,83 @@
         "title": "离职的OpenAI高管表示，在公司外部他能为安全工作做出更多贡献",
         "url": "https://www.businessinsider.com/david-robinson-can-do-more-for-safety-outside-open-ai-2026-10",
         "source": "www.businessinsider.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_5ee2f82da6e6",
+      "title": "OpenAI员工辞职，呼吁采取核级安全保障措施",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-03/openai-safety-employee-quits-calls-for-nuclear-level-safeguards",
+      "primary_url": "https://www.bloomberg.com/news/articles/2026-10-03/openai-safety-employee-quits-calls-for-nuclear-level-safeguards",
+      "source": "www.bloomberg.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "09480281198b4c130f985b3d235d1ca8240eabcb",
+          "title": "OpenAI员工辞职，呼吁采取核级安全保障措施",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-03/openai-safety-employee-quits-calls-for-nuclear-level-safeguards",
+          "source": "www.bloomberg.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-03T16:00:49.051000Z"
+        },
+        {
+          "id": "8203ce7f4eb02f4fb64f082a256c4b1f1d97b5f6",
+          "title": "OpenAI安全部门员工辞职，呼吁采取“核级”安全保障措施",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-03/openai-safety-employee-quits-calls-for-nuclear-level-safeguards",
+          "source": "www.bloomberg.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-03T13:27:52.389000Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "www.bloomberg.com"
+      ],
+      "items": [
+        {
+          "id": "09480281198b4c130f985b3d235d1ca8240eabcb",
+          "title": "OpenAI员工辞职，呼吁采取核级安全保障措施",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-03/openai-safety-employee-quits-calls-for-nuclear-level-safeguards",
+          "source": "www.bloomberg.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-03T16:00:49.051000Z"
+        },
+        {
+          "id": "8203ce7f4eb02f4fb64f082a256c4b1f1d97b5f6",
+          "title": "OpenAI安全部门员工辞职，呼吁采取“核级”安全保障措施",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-03/openai-safety-employee-quits-calls-for-nuclear-level-safeguards",
+          "source": "www.bloomberg.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-03T13:27:52.389000Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4156,
+      "importance": 0.4156,
+      "importance_score": 0.4156,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.3379,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-03T13:27:52.389000Z",
+      "latest_at": "2026-10-03T16:00:49.051000Z",
+      "primary_item": {
+        "id": "09480281198b4c130f985b3d235d1ca8240eabcb",
+        "title": "OpenAI员工辞职，呼吁采取核级安全保障措施",
+        "url": "https://www.bloomberg.com/news/articles/2026-10-03/openai-safety-employee-quits-calls-for-nuclear-level-safeguards",
+        "source": "www.bloomberg.com",
         "source_name": "Buzzing"
       }
     },
@@ -1090,14 +1281,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4317,
-      "importance": 0.4317,
-      "importance_score": 0.4317,
+      "score": 0.3814,
+      "importance": 0.3814,
+      "importance_score": 0.3814,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.4185,
+        "recency": 0.1672,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1112,84 +1303,6 @@
         "url": "https://github.com/thedotmack/claude-mem",
         "source": "GitHub · Trending Today",
         "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_956aebcec474",
-      "title": "我离开OpenAI，因为它的企业文化已经崩坏 / I Quit OpenAI Because Its Culture Is Broken",
-      "url": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881",
-      "primary_url": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "0e1a0d37b1f62ed8e304da75b4c9e53e3ae4e4d3",
-          "title": "我离开OpenAI，因为它的企业文化已经崩坏 / I Quit OpenAI Because Its Culture Is Broken",
-          "url": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-03T13:46:34Z"
-        },
-        {
-          "id": "ddc04447a08916b85f4a8ca85df7026f7e7843a1",
-          "title": "我离开OpenAI，因为它的企业文化已经崩坏",
-          "url": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881",
-          "source": "www.theatlantic.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-03T11:05:53.668000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "www.theatlantic.com"
-      ],
-      "items": [
-        {
-          "id": "0e1a0d37b1f62ed8e304da75b4c9e53e3ae4e4d3",
-          "title": "我离开OpenAI，因为它的企业文化已经崩坏 / I Quit OpenAI Because Its Culture Is Broken",
-          "url": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-03T13:46:34Z"
-        },
-        {
-          "id": "ddc04447a08916b85f4a8ca85df7026f7e7843a1",
-          "title": "我离开OpenAI，因为它的企业文化已经崩坏",
-          "url": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881",
-          "source": "www.theatlantic.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-03T11:05:53.668000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4472,
-      "importance": 0.4472,
-      "importance_score": 0.4472,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.496,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-03T11:05:53.668000Z",
-      "latest_at": "2026-10-03T13:46:34Z",
-      "primary_item": {
-        "id": "0e1a0d37b1f62ed8e304da75b4c9e53e3ae4e4d3",
-        "title": "我离开OpenAI，因为它的企业文化已经崩坏 / I Quit OpenAI Because Its Culture Is Broken",
-        "url": "https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
       }
     },
     {
@@ -1245,14 +1358,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4124,
-      "importance": 0.4124,
-      "importance_score": 0.4124,
+      "score": 0.3621,
+      "importance": 0.3621,
+      "importance_score": 0.3621,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.322,
+        "recency": 0.0707,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1323,14 +1436,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4182,
-      "importance": 0.4182,
-      "importance_score": 0.4182,
+      "score": 0.3679,
+      "importance": 0.3679,
+      "importance_score": 0.3679,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.351,
+        "recency": 0.0997,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1401,14 +1514,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4092,
-      "importance": 0.4092,
-      "importance_score": 0.4092,
+      "score": 0.359,
+      "importance": 0.359,
+      "importance_score": 0.359,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.3062,
+        "recency": 0.0549,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1479,14 +1592,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.414,
-      "importance": 0.414,
-      "importance_score": 0.414,
+      "score": 0.3638,
+      "importance": 0.3638,
+      "importance_score": 0.3638,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.3302,
+        "recency": 0.0789,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1499,84 +1612,6 @@
         "id": "8d43c5b22543b8a6cedc31ad16d4f536b569c8f6",
         "title": "好莱坞即将迎来AI垃圾作品。其中一些作品的质量已经更胜一筹。",
         "url": "https://www.businessinsider.com/ai-video-tools-slopcannon-new-competition-hollywood-2026-10",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_7fdffbcd8c0f",
-      "title": "领英联合创始人表示，人工智能基础设施是“我们尚未陷入经济衰退的唯一原因”",
-      "url": "https://www.businessinsider.com/linkedin-cofounder-ai-infrastructure-keeping-us-from-recession-2026-10",
-      "primary_url": "https://www.businessinsider.com/linkedin-cofounder-ai-infrastructure-keeping-us-from-recession-2026-10",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "274dc0825b841932fc5f3310eea7fff39aa97135",
-          "title": "领英联合创始人表示，人工智能基础设施是“我们尚未陷入经济衰退的唯一原因”",
-          "url": "https://www.businessinsider.com/linkedin-cofounder-ai-infrastructure-keeping-us-from-recession-2026-10",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-03T09:15:45.228000Z"
-        },
-        {
-          "id": "da3394c0a076cc0440a027c288c8d0f6ef2f227d",
-          "title": "领英联合创始人表示，人工智能基础设施是“我们尚未陷入经济衰退的唯一原因” / LinkedIn cofounder says AI infrastructure is the 'only reason we're not in a recession'",
-          "url": "https://www.businessinsider.com/linkedin-cofounder-ai-infrastructure-keeping-us-from-recession-2026-10",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-10-03T09:07:01Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "274dc0825b841932fc5f3310eea7fff39aa97135",
-          "title": "领英联合创始人表示，人工智能基础设施是“我们尚未陷入经济衰退的唯一原因”",
-          "url": "https://www.businessinsider.com/linkedin-cofounder-ai-infrastructure-keeping-us-from-recession-2026-10",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-03T09:15:45.228000Z"
-        },
-        {
-          "id": "da3394c0a076cc0440a027c288c8d0f6ef2f227d",
-          "title": "领英联合创始人表示，人工智能基础设施是“我们尚未陷入经济衰退的唯一原因” / LinkedIn cofounder says AI infrastructure is the 'only reason we're not in a recession'",
-          "url": "https://www.businessinsider.com/linkedin-cofounder-ai-infrastructure-keeping-us-from-recession-2026-10",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-10-03T09:07:01Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4096,
-      "importance": 0.4096,
-      "importance_score": 0.4096,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.3079,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-03T09:07:01Z",
-      "latest_at": "2026-10-03T09:15:45.228000Z",
-      "primary_item": {
-        "id": "274dc0825b841932fc5f3310eea7fff39aa97135",
-        "title": "领英联合创始人表示，人工智能基础设施是“我们尚未陷入经济衰退的唯一原因”",
-        "url": "https://www.businessinsider.com/linkedin-cofounder-ai-infrastructure-keeping-us-from-recession-2026-10",
         "source": "www.businessinsider.com",
         "source_name": "Buzzing"
       }
