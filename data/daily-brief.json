@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T19:16:38.533908Z",
+  "generated_at": "2026-10-18T21:41:15.586329Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,14 +38,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8091,
-      "importance": 0.8091,
-      "importance_score": 0.8091,
+      "score": 0.7891,
+      "importance": 0.7891,
+      "importance_score": 0.7891,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9857,
+        "recency": 0.8853,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -98,20 +98,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7628,
-      "importance": 0.7628,
-      "importance_score": 0.7628,
+      "score": 0.7427,
+      "importance": 0.7427,
+      "importance_score": 0.7427,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.754,
+        "recency": 0.6536,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-10-18T13:22:26Z",
       "latest_at": "2026-10-18T13:22:26Z",
@@ -158,14 +157,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.742,
-      "importance": 0.742,
-      "importance_score": 0.742,
+      "score": 0.7219,
+      "importance": 0.7219,
+      "importance_score": 0.7219,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.65,
+        "recency": 0.5496,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -184,15 +183,24 @@
     },
     {
       "story_id": "story_774f7412d1a3",
-      "title": "科技界的男性#YesAllMen / Men in tech #YesAllMen",
+      "title": "科技界的男性 #YesAllMen",
       "url": "https://www.youtube.com/watch?v=WXL6K1lhvt0",
       "primary_url": "https://www.youtube.com/watch?v=WXL6K1lhvt0",
-      "source": "Lobsters (技术社区)",
-      "source_name": "Info Flow",
+      "source": "www.youtube.com",
+      "source_name": "Buzzing",
       "sources": [
         {
+          "id": "02d251a0fb9ae9a97258a501d7e425d584b31d0d",
+          "title": "科技界的男性 #YesAllMen",
+          "url": "https://www.youtube.com/watch?v=WXL6K1lhvt0",
+          "source": "www.youtube.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-18T21:17:29.634000Z"
+        },
+        {
           "id": "40a67ee0934e170258ae90a4d3d6370e74a2d835",
-          "title": "科技界的男性#YesAllMen / Men in tech #YesAllMen",
+          "title": "科技界的男性 #YesAllMen / Men in tech #YesAllMen",
           "url": "https://www.youtube.com/watch?v=WXL6K1lhvt0",
           "source": "Lobsters (技术社区)",
           "source_name": "Info Flow",
@@ -200,64 +208,772 @@
           "published_at": "2026-10-18T18:35:01Z"
         },
         {
+          "id": "1b70fd1e9dce5e4c443c7cb3a96333e5028fefe3",
+          "title": "现在是学习数学的最佳时机（作者：3blue1brown）[视频] / There's never been a better time to go into math (by: 3blue1brown) [video]",
+          "url": "https://www.youtube.com/watch?v=LKrwhjOI8Nc",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-17T23:26:35Z"
+        },
+        {
           "id": "853d2d29f362ac6d3c4cb62dc59457a9f3b054e1",
-          "title": "超越俄罗斯方块：Alexey Pajitnov 的其他游戏 [视频] / Beyond Tetris: The Other Games of Alexey Pajitnov [video]",
+          "title": "超越俄罗斯方块：Alexey Pajitnov 的其他游戏 [视频] / Beyond Tetris: The other games of Alexey Pajitnov [video]",
           "url": "https://www.youtube.com/watch?v=QH_LPimUJMs",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
           "published_at": "2026-10-17T23:08:30Z"
+        }
+      ],
+      "source_count": 4,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "Lobsters (技术社区)",
+        "www.youtube.com"
+      ],
+      "items": [
+        {
+          "id": "02d251a0fb9ae9a97258a501d7e425d584b31d0d",
+          "title": "科技界的男性 #YesAllMen",
+          "url": "https://www.youtube.com/watch?v=WXL6K1lhvt0",
+          "source": "www.youtube.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-18T21:17:29.634000Z"
+        },
+        {
+          "id": "40a67ee0934e170258ae90a4d3d6370e74a2d835",
+          "title": "科技界的男性 #YesAllMen / Men in tech #YesAllMen",
+          "url": "https://www.youtube.com/watch?v=WXL6K1lhvt0",
+          "source": "Lobsters (技术社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-18T18:35:01Z"
+        },
+        {
+          "id": "1b70fd1e9dce5e4c443c7cb3a96333e5028fefe3",
+          "title": "现在是学习数学的最佳时机（作者：3blue1brown）[视频] / There's never been a better time to go into math (by: 3blue1brown) [video]",
+          "url": "https://www.youtube.com/watch?v=LKrwhjOI8Nc",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-17T23:26:35Z"
+        },
+        {
+          "id": "853d2d29f362ac6d3c4cb62dc59457a9f3b054e1",
+          "title": "超越俄罗斯方块：Alexey Pajitnov 的其他游戏 [视频] / Beyond Tetris: The other games of Alexey Pajitnov [video]",
+          "url": "https://www.youtube.com/watch?v=QH_LPimUJMs",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-17T23:08:30Z"
+        }
+      ],
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.5947,
+      "importance": 0.5947,
+      "importance_score": 0.5947,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9835,
+        "story_heat": 0.75
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-17T23:08:30Z",
+      "latest_at": "2026-10-18T21:17:29.634000Z",
+      "primary_item": {
+        "id": "02d251a0fb9ae9a97258a501d7e425d584b31d0d",
+        "title": "科技界的男性 #YesAllMen",
+        "url": "https://www.youtube.com/watch?v=WXL6K1lhvt0",
+        "source": "www.youtube.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_79619743255e",
+      "title": "网站正纷纷关闭人工智能客服",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
+      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
+      "source": "www.theverge.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "76b75f28778b85e9962c3ee3f05e2b806c026145",
+          "title": "网站正纷纷关闭人工智能客服",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
+          "source": "www.theverge.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-18T21:17:07.202000Z"
+        },
+        {
+          "id": "8edecd96644001a45c1dbe820028bb69980b9868",
+          "title": "网站正在向人工智能代理关闭大门 / Websites Are Closing Their Doors to AI Agents",
+          "url": "https://slashdot.org/story/26/10/18/1715218/websites-are-closing-their-doors-to-ai-agents",
+          "source": "Slashdot",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-18T19:24:00Z"
+        },
+        {
+          "id": "e411551495446d23fd0e169abe03f1d50d9f1a1b",
+          "title": "网站正纷纷关闭人工智能客服 / Websites are closing their doors to AI agents",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-18T14:58:10Z"
+        },
+        {
+          "id": "c7c29e00e18539a05a5dfa098dc9399a72966305",
+          "title": "网站正在向人工智能代理关闭大门 / Websites are closing their doors to AI agents",
+          "url": "https://news.ycombinator.com/item?id=50141657",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-18T14:58:10Z"
+        }
+      ],
+      "source_count": 4,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "Slashdot",
+        "hackernews",
+        "www.theverge.com"
+      ],
+      "items": [
+        {
+          "id": "76b75f28778b85e9962c3ee3f05e2b806c026145",
+          "title": "网站正纷纷关闭人工智能客服",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
+          "source": "www.theverge.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-18T21:17:07.202000Z"
+        },
+        {
+          "id": "8edecd96644001a45c1dbe820028bb69980b9868",
+          "title": "网站正在向人工智能代理关闭大门 / Websites Are Closing Their Doors to AI Agents",
+          "url": "https://slashdot.org/story/26/10/18/1715218/websites-are-closing-their-doors-to-ai-agents",
+          "source": "Slashdot",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-18T19:24:00Z"
+        },
+        {
+          "id": "e411551495446d23fd0e169abe03f1d50d9f1a1b",
+          "title": "网站正纷纷关闭人工智能客服 / Websites are closing their doors to AI agents",
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-18T14:58:10Z"
+        },
+        {
+          "id": "c7c29e00e18539a05a5dfa098dc9399a72966305",
+          "title": "网站正在向人工智能代理关闭大门 / Websites are closing their doors to AI agents",
+          "url": "https://news.ycombinator.com/item?id=50141657",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-18T14:58:10Z"
+        }
+      ],
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.5946,
+      "importance": 0.5946,
+      "importance_score": 0.5946,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9832,
+        "story_heat": 0.75
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-18T14:58:10Z",
+      "latest_at": "2026-10-18T21:17:07.202000Z",
+      "primary_item": {
+        "id": "76b75f28778b85e9962c3ee3f05e2b806c026145",
+        "title": "网站正纷纷关闭人工智能客服",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
+        "source": "www.theverge.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_a257dddc2d05",
+      "title": "Anthropic提出的AI安全法案只有在造成50人死亡或10亿美元损失的情况下才会生效",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model",
+      "primary_url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model",
+      "source": "www.tomshardware.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "413aacbc714ba7f9b46c3ba757d79cfb21a8b363",
+          "title": "Anthropic提出的AI安全法案只有在造成50人死亡或10亿美元损失的情况下才会生效",
+          "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model",
+          "source": "www.tomshardware.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-18T21:17:07.195000Z"
+        },
+        {
+          "id": "f81b7f1893a8b4d3db33c2181aa29aa3ace5e8a8",
+          "title": "Anthropic提出的AI安全法案只有在造成50人死亡或10亿美元损失的情况下才会生效 / Anthropic's proposed AI safety bill only kicks in if 50 deaths or $1B in damages",
+          "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-18T14:30:27Z"
+        },
+        {
+          "id": "a2eb9d3b957e7beb27909b098e8d3c2b1b11e7d9",
+          "title": "Anthropic 提出的人工智能安全法案只有在 50 人死亡或 10 亿美元损失时才会生效 / Anthropic's proposed AI safety bill only kicks in if 50 deaths or $1B in damages",
+          "url": "https://news.ycombinator.com/item?id=50141429",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-18T14:30:27Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "hackernews",
+        "www.tomshardware.com"
+      ],
+      "items": [
+        {
+          "id": "413aacbc714ba7f9b46c3ba757d79cfb21a8b363",
+          "title": "Anthropic提出的AI安全法案只有在造成50人死亡或10亿美元损失的情况下才会生效",
+          "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model",
+          "source": "www.tomshardware.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-18T21:17:07.195000Z"
+        },
+        {
+          "id": "f81b7f1893a8b4d3db33c2181aa29aa3ace5e8a8",
+          "title": "Anthropic提出的AI安全法案只有在造成50人死亡或10亿美元损失的情况下才会生效 / Anthropic's proposed AI safety bill only kicks in if 50 deaths or $1B in damages",
+          "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-18T14:30:27Z"
+        },
+        {
+          "id": "a2eb9d3b957e7beb27909b098e8d3c2b1b11e7d9",
+          "title": "Anthropic 提出的人工智能安全法案只有在 50 人死亡或 10 亿美元损失时才会生效 / Anthropic's proposed AI safety bill only kicks in if 50 deaths or $1B in damages",
+          "url": "https://news.ycombinator.com/item?id=50141429",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-18T14:30:27Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5696,
+      "importance": 0.5696,
+      "importance_score": 0.5696,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9832,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-18T14:30:27Z",
+      "latest_at": "2026-10-18T21:17:07.195000Z",
+      "primary_item": {
+        "id": "413aacbc714ba7f9b46c3ba757d79cfb21a8b363",
+        "title": "Anthropic提出的AI安全法案只有在造成50人死亡或10亿美元损失的情况下才会生效",
+        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model",
+        "source": "www.tomshardware.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_0cd33337d9be",
+      "title": "Intel计划推出480GB GPU，内存比一般笔记本SSD还要多，使用LPDDR5X代替GDDR7，瞄准AI / Intel plans a 480GB GPU with more memory than the average laptop SSD, using LPDDR5X instead of GDDR7, aimed at AI",
+      "url": "https://www.techradar.com/pro/behold-intel-plans-a-480gb-gpu-a-video-card-with-more-memory-than-the-average-laptop-ssd-has-storage-but-of-course-its-for-ai-and-curiously-it-will-use-lppdr5x-not-even-gddr7",
+      "primary_url": "https://www.techradar.com/pro/behold-intel-plans-a-480gb-gpu-a-video-card-with-more-memory-than-the-average-laptop-ssd-has-storage-but-of-course-its-for-ai-and-curiously-it-will-use-lppdr5x-not-even-gddr7",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "735614ba83aee7b6492e58a2c63277bc8bf5ad99",
+          "title": "Intel计划推出480GB GPU，内存比一般笔记本SSD还要多，使用LPDDR5X代替GDDR7，瞄准AI / Intel plans a 480GB GPU with more memory than the average laptop SSD, using LPDDR5X instead of GDDR7, aimed at AI",
+          "url": "https://www.techradar.com/pro/behold-intel-plans-a-480gb-gpu-a-video-card-with-more-memory-than-the-average-laptop-ssd-has-storage-but-of-course-its-for-ai-and-curiously-it-will-use-lppdr5x-not-even-gddr7",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "3c54e56c7171b121284bb53ec7aafee89b971dde",
+          "title": "看哪，英特尔计划配备 480GB GPU，这是一款内存比普通笔记本电脑 SSD 存储容量还要大的显卡——当然这是为了 AI，奇怪的是，它将使用 LPPDR5X，甚至不是 GDDR7 / Behold, Intel plans a 480GB GPU, a video card with more memory than the average laptop SSD has storage — but of course it's for AI, and curiously, it will use LPPDR5X, not even GDDR7",
+          "url": "https://www.techradar.com/pro/behold-intel-plans-a-480gb-gpu-a-video-card-with-more-memory-than-the-average-laptop-ssd-has-storage-but-of-course-its-for-ai-and-curiously-it-will-use-lppdr5x-not-even-gddr7",
+          "source": "TechRadar",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-18T20:05:00Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News · 24h最热",
-        "Lobsters (技术社区)"
+        "Readhub · AI",
+        "TechRadar"
       ],
       "items": [
         {
-          "id": "40a67ee0934e170258ae90a4d3d6370e74a2d835",
-          "title": "科技界的男性#YesAllMen / Men in tech #YesAllMen",
-          "url": "https://www.youtube.com/watch?v=WXL6K1lhvt0",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-18T18:35:01Z"
+          "id": "735614ba83aee7b6492e58a2c63277bc8bf5ad99",
+          "title": "Intel计划推出480GB GPU，内存比一般笔记本SSD还要多，使用LPDDR5X代替GDDR7，瞄准AI / Intel plans a 480GB GPU with more memory than the average laptop SSD, using LPDDR5X instead of GDDR7, aimed at AI",
+          "url": "https://www.techradar.com/pro/behold-intel-plans-a-480gb-gpu-a-video-card-with-more-memory-than-the-average-laptop-ssd-has-storage-but-of-course-its-for-ai-and-curiously-it-will-use-lppdr5x-not-even-gddr7",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         },
         {
-          "id": "853d2d29f362ac6d3c4cb62dc59457a9f3b054e1",
-          "title": "超越俄罗斯方块：Alexey Pajitnov 的其他游戏 [视频] / Beyond Tetris: The Other Games of Alexey Pajitnov [video]",
-          "url": "https://www.youtube.com/watch?v=QH_LPimUJMs",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-17T23:08:30Z"
+          "id": "3c54e56c7171b121284bb53ec7aafee89b971dde",
+          "title": "看哪，英特尔计划配备 480GB GPU，这是一款内存比普通笔记本电脑 SSD 存储容量还要大的显卡——当然这是为了 AI，奇怪的是，它将使用 LPPDR5X，甚至不是 GDDR7 / Behold, Intel plans a 480GB GPU, a video card with more memory than the average laptop SSD has storage — but of course it's for AI, and curiously, it will use LPPDR5X, not even GDDR7",
+          "url": "https://www.techradar.com/pro/behold-intel-plans-a-480gb-gpu-a-video-card-with-more-memory-than-the-average-laptop-ssd-has-storage-but-of-course-its-for-ai-and-curiously-it-will-use-lppdr5x-not-even-gddr7",
+          "source": "TechRadar",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-18T20:05:00Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5422,
-      "importance": 0.5422,
-      "importance_score": 0.5422,
+      "score": 0.548,
+      "importance": 0.548,
+      "importance_score": 0.548,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9711,
+        "recency": 1.0,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-17T23:08:30Z",
-      "latest_at": "2026-10-18T18:35:01Z",
+      "earliest_at": "2026-10-18T20:05:00Z",
+      "latest_at": "2026-10-18T21:41:15.586329Z",
       "primary_item": {
-        "id": "40a67ee0934e170258ae90a4d3d6370e74a2d835",
-        "title": "科技界的男性#YesAllMen / Men in tech #YesAllMen",
-        "url": "https://www.youtube.com/watch?v=WXL6K1lhvt0",
-        "source": "Lobsters (技术社区)",
-        "source_name": "Info Flow"
+        "id": "735614ba83aee7b6492e58a2c63277bc8bf5ad99",
+        "title": "Intel计划推出480GB GPU，内存比一般笔记本SSD还要多，使用LPDDR5X代替GDDR7，瞄准AI / Intel plans a 480GB GPU with more memory than the average laptop SSD, using LPDDR5X instead of GDDR7, aimed at AI",
+        "url": "https://www.techradar.com/pro/behold-intel-plans-a-480gb-gpu-a-video-card-with-more-memory-than-the-average-laptop-ssd-has-storage-but-of-course-its-for-ai-and-curiously-it-will-use-lppdr5x-not-even-gddr7",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_56b1c8aea759",
+      "title": "Anthropic 向外部人工智能监督机构授予“类似员工”的访问权限",
+      "url": "https://arstechnica.com/ai/2026/10/anthropic-gives-outside-ai-watchdog-employee-like-access",
+      "primary_url": "https://arstechnica.com/ai/2026/10/anthropic-gives-outside-ai-watchdog-employee-like-access",
+      "source": "arstechnica.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "771d9475a7580db60253c8785493caf905cb4de2",
+          "title": "Anthropic 向外部人工智能监督机构授予“类似员工”的访问权限",
+          "url": "https://arstechnica.com/ai/2026/10/anthropic-gives-outside-ai-watchdog-employee-like-access",
+          "source": "arstechnica.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-18T21:17:36.673000Z"
+        },
+        {
+          "id": "fa1852a53b9c8c8641ffa52087ed923678949ff3",
+          "title": "Anthropic 向外部人工智能监督机构授予“类似员工”的访问权限 / Anthropic gives outside AI watchdog “employee-like” access",
+          "url": "https://arstechnica.com/ai/2026/10/anthropic-gives-outside-ai-watchdog-employee-like-access",
+          "source": "Ars Technica",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-18T16:25:19Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Ars Technica",
+        "arstechnica.com"
+      ],
+      "items": [
+        {
+          "id": "771d9475a7580db60253c8785493caf905cb4de2",
+          "title": "Anthropic 向外部人工智能监督机构授予“类似员工”的访问权限",
+          "url": "https://arstechnica.com/ai/2026/10/anthropic-gives-outside-ai-watchdog-employee-like-access",
+          "source": "arstechnica.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-18T21:17:36.673000Z"
+        },
+        {
+          "id": "fa1852a53b9c8c8641ffa52087ed923678949ff3",
+          "title": "Anthropic 向外部人工智能监督机构授予“类似员工”的访问权限 / Anthropic gives outside AI watchdog “employee-like” access",
+          "url": "https://arstechnica.com/ai/2026/10/anthropic-gives-outside-ai-watchdog-employee-like-access",
+          "source": "Ars Technica",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-18T16:25:19Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5447,
+      "importance": 0.5447,
+      "importance_score": 0.5447,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9836,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-18T16:25:19Z",
+      "latest_at": "2026-10-18T21:17:36.673000Z",
+      "primary_item": {
+        "id": "771d9475a7580db60253c8785493caf905cb4de2",
+        "title": "Anthropic 向外部人工智能监督机构授予“类似员工”的访问权限",
+        "url": "https://arstechnica.com/ai/2026/10/anthropic-gives-outside-ai-watchdog-employee-like-access",
+        "source": "arstechnica.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_d3ff5021c7fe",
+      "title": "Anthropic向“公益基金”投入数十亿",
+      "url": "https://www.businessinsider.com/anthropic-public-benefit-fund-2026-10",
+      "primary_url": "https://www.businessinsider.com/anthropic-public-benefit-fund-2026-10",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "9e29e6826b2d9364af4f43c33c9eb7dac0c084ac",
+          "title": "Anthropic向“公益基金”投入数十亿",
+          "url": "https://www.businessinsider.com/anthropic-public-benefit-fund-2026-10",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-18T21:17:34.181000Z"
+        },
+        {
+          "id": "42550766f0182b4a6e360e795d44276bf5d78d19",
+          "title": "Anthropic向“公益基金”投入数十亿 / Anthropic commits billions to a 'public benefit fund'",
+          "url": "https://www.businessinsider.com/anthropic-public-benefit-fund-2026-10",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-18T18:46:01Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Business Insider",
+        "www.businessinsider.com"
+      ],
+      "items": [
+        {
+          "id": "9e29e6826b2d9364af4f43c33c9eb7dac0c084ac",
+          "title": "Anthropic向“公益基金”投入数十亿",
+          "url": "https://www.businessinsider.com/anthropic-public-benefit-fund-2026-10",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-18T21:17:34.181000Z"
+        },
+        {
+          "id": "42550766f0182b4a6e360e795d44276bf5d78d19",
+          "title": "Anthropic向“公益基金”投入数十亿 / Anthropic commits billions to a 'public benefit fund'",
+          "url": "https://www.businessinsider.com/anthropic-public-benefit-fund-2026-10",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-18T18:46:01Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5447,
+      "importance": 0.5447,
+      "importance_score": 0.5447,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9835,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-18T18:46:01Z",
+      "latest_at": "2026-10-18T21:17:34.181000Z",
+      "primary_item": {
+        "id": "9e29e6826b2d9364af4f43c33c9eb7dac0c084ac",
+        "title": "Anthropic向“公益基金”投入数十亿",
+        "url": "https://www.businessinsider.com/anthropic-public-benefit-fund-2026-10",
+        "source": "www.businessinsider.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_f1073754b8e0",
+      "title": "Anthropic 的就业形势正在发生怎样的变化",
+      "url": "https://www.anthropic.com/research/employment-at-anthropic",
+      "primary_url": "https://www.anthropic.com/research/employment-at-anthropic",
+      "source": "www.anthropic.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "6a20e959cf09f966684a0edc372a8998b6129eb5",
+          "title": "Anthropic 的就业形势正在发生怎样的变化",
+          "url": "https://www.anthropic.com/research/employment-at-anthropic",
+          "source": "www.anthropic.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-18T21:17:07.176000Z"
+        },
+        {
+          "id": "1bbafe27c673e7b83cad44ace84b8571dbbf51f2",
+          "title": "Anthropic 的就业形势正在发生怎样的变化 / How employment is changing at Anthropic",
+          "url": "https://www.anthropic.com/research/employment-at-anthropic",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-18T10:49:26Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "www.anthropic.com"
+      ],
+      "items": [
+        {
+          "id": "6a20e959cf09f966684a0edc372a8998b6129eb5",
+          "title": "Anthropic 的就业形势正在发生怎样的变化",
+          "url": "https://www.anthropic.com/research/employment-at-anthropic",
+          "source": "www.anthropic.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-18T21:17:07.176000Z"
+        },
+        {
+          "id": "1bbafe27c673e7b83cad44ace84b8571dbbf51f2",
+          "title": "Anthropic 的就业形势正在发生怎样的变化 / How employment is changing at Anthropic",
+          "url": "https://www.anthropic.com/research/employment-at-anthropic",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-18T10:49:26Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5446,
+      "importance": 0.5446,
+      "importance_score": 0.5446,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9832,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-18T10:49:26Z",
+      "latest_at": "2026-10-18T21:17:07.176000Z",
+      "primary_item": {
+        "id": "6a20e959cf09f966684a0edc372a8998b6129eb5",
+        "title": "Anthropic 的就业形势正在发生怎样的变化",
+        "url": "https://www.anthropic.com/research/employment-at-anthropic",
+        "source": "www.anthropic.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_7e13c62a6d92",
+      "title": "佛罗里达州的业主协会和公寓业主协会正在加剧住房危机 / Florida's HOAs and condo associations are making the housing crisis worse",
+      "url": "https://hoaspy.com/hoa/fl/florida-hoa-housing-crisis.html",
+      "primary_url": "https://hoaspy.com/hoa/fl/florida-hoa-housing-crisis.html",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "69ac60d55bba2adf31120ee1a9ab0550039de4b5",
+          "title": "佛罗里达州的业主协会和公寓业主协会正在加剧住房危机 / Florida's HOAs and condo associations are making the housing crisis worse",
+          "url": "https://hoaspy.com/hoa/fl/florida-hoa-housing-crisis.html",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-18T18:40:16Z"
+        },
+        {
+          "id": "7704c71b2fb49e146ac6833b01e192b5486ea772",
+          "title": "佛罗里达州的业主协会和公寓业主协会正在加剧住房危机 / HOA's are making the home crisis worse",
+          "url": "https://hoaspy.com/hoa/fl/florida-hoa-housing-crisis.html",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-18T18:40:16Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热"
+      ],
+      "items": [
+        {
+          "id": "69ac60d55bba2adf31120ee1a9ab0550039de4b5",
+          "title": "佛罗里达州的业主协会和公寓业主协会正在加剧住房危机 / Florida's HOAs and condo associations are making the housing crisis worse",
+          "url": "https://hoaspy.com/hoa/fl/florida-hoa-housing-crisis.html",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-18T18:40:16Z"
+        },
+        {
+          "id": "7704c71b2fb49e146ac6833b01e192b5486ea772",
+          "title": "佛罗里达州的业主协会和公寓业主协会正在加剧住房危机 / HOA's are making the home crisis worse",
+          "url": "https://hoaspy.com/hoa/fl/florida-hoa-housing-crisis.html",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-18T18:40:16Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5229,
+      "importance": 0.5229,
+      "importance_score": 0.5229,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8743,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-18T18:40:16Z",
+      "latest_at": "2026-10-18T18:40:16Z",
+      "primary_item": {
+        "id": "69ac60d55bba2adf31120ee1a9ab0550039de4b5",
+        "title": "佛罗里达州的业主协会和公寓业主协会正在加剧住房危机 / Florida's HOAs and condo associations are making the housing crisis worse",
+        "url": "https://hoaspy.com/hoa/fl/florida-hoa-housing-crisis.html",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
+      }
+    },
+    {
+      "story_id": "story_46efd60615b6",
+      "title": "PhoneBot 用旧款 50 美元安卓手机作大脑、摄像头作眼睛，打造面向创客的开源人形机器人平台",
+      "url": "https://www.techradar.com/pro/phonebot-uses-an-old-usd50-android-smartphone-brain-with-its-cameras-as-eyes-tech-frankenstein-is-an-open-source-humanoid-robot-platform-for-makers",
+      "primary_url": "https://www.techradar.com/pro/phonebot-uses-an-old-usd50-android-smartphone-brain-with-its-cameras-as-eyes-tech-frankenstein-is-an-open-source-humanoid-robot-platform-for-makers",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "2dd9eb8086be13cb3dfa7fde321c8570e523fad9",
+          "title": "PhoneBot 用旧款 50 美元安卓手机作大脑、摄像头作眼睛，打造面向创客的开源人形机器人平台",
+          "url": "https://www.techradar.com/pro/phonebot-uses-an-old-usd50-android-smartphone-brain-with-its-cameras-as-eyes-tech-frankenstein-is-an-open-source-humanoid-robot-platform-for-makers",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "b69998b9e5139b3122c7b54b4b3cbec51e21e3c4",
+          "title": "PhoneBot 用旧款 50 美元安卓手机作大脑、摄像头作眼睛，打造面向创客的开源人形机器人平台 / PhoneBot uses an old $50 Android smartphone brain with its cameras as eyes — tech Frankenstein is an open source humanoid robot platform for makers",
+          "url": "https://www.techradar.com/pro/phonebot-uses-an-old-usd50-android-smartphone-brain-with-its-cameras-as-eyes-tech-frankenstein-is-an-open-source-humanoid-robot-platform-for-makers",
+          "source": "TechRadar",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-18T20:20:00Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Readhub · AI",
+        "TechRadar"
+      ],
+      "items": [
+        {
+          "id": "2dd9eb8086be13cb3dfa7fde321c8570e523fad9",
+          "title": "PhoneBot 用旧款 50 美元安卓手机作大脑、摄像头作眼睛，打造面向创客的开源人形机器人平台",
+          "url": "https://www.techradar.com/pro/phonebot-uses-an-old-usd50-android-smartphone-brain-with-its-cameras-as-eyes-tech-frankenstein-is-an-open-source-humanoid-robot-platform-for-makers",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "b69998b9e5139b3122c7b54b4b3cbec51e21e3c4",
+          "title": "PhoneBot 用旧款 50 美元安卓手机作大脑、摄像头作眼睛，打造面向创客的开源人形机器人平台 / PhoneBot uses an old $50 Android smartphone brain with its cameras as eyes — tech Frankenstein is an open source humanoid robot platform for makers",
+          "url": "https://www.techradar.com/pro/phonebot-uses-an-old-usd50-android-smartphone-brain-with-its-cameras-as-eyes-tech-frankenstein-is-an-open-source-humanoid-robot-platform-for-makers",
+          "source": "TechRadar",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-18T20:20:00Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.548,
+      "importance": 0.548,
+      "importance_score": 0.548,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-18T20:20:00Z",
+      "latest_at": "2026-10-18T21:41:15.586329Z",
+      "primary_item": {
+        "id": "2dd9eb8086be13cb3dfa7fde321c8570e523fad9",
+        "title": "PhoneBot 用旧款 50 美元安卓手机作大脑、摄像头作眼睛，打造面向创客的开源人形机器人平台",
+        "url": "https://www.techradar.com/pro/phonebot-uses-an-old-usd50-android-smartphone-brain-with-its-cameras-as-eyes-tech-frankenstein-is-an-open-source-humanoid-robot-platform-for-makers",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
       }
     },
     {
@@ -314,14 +1030,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5267,
-      "importance": 0.5267,
-      "importance_score": 0.5267,
+      "score": 0.5066,
+      "importance": 0.5066,
+      "importance_score": 0.5066,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8934,
+        "recency": 0.793,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -336,84 +1052,6 @@
         "url": "https://www.36kr.com/p/4031090627858820",
         "source": "36氪 · 24小时热榜",
         "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_79619743255e",
-      "title": "网站正在向人工智能代理关闭大门 / Websites are closing their doors to AI agents",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
-      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
-      "source": "Hacker News (黑客新闻)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "e411551495446d23fd0e169abe03f1d50d9f1a1b",
-          "title": "网站正在向人工智能代理关闭大门 / Websites are closing their doors to AI agents",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-18T14:58:10Z"
-        },
-        {
-          "id": "c7c29e00e18539a05a5dfa098dc9399a72966305",
-          "title": "网站正在向人工智能代理关闭大门 / Websites are closing their doors to AI agents",
-          "url": "https://news.ycombinator.com/item?id=50141657",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-18T14:58:10Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "e411551495446d23fd0e169abe03f1d50d9f1a1b",
-          "title": "网站正在向人工智能代理关闭大门 / Websites are closing their doors to AI agents",
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-18T14:58:10Z"
-        },
-        {
-          "id": "c7c29e00e18539a05a5dfa098dc9399a72966305",
-          "title": "网站正在向人工智能代理关闭大门 / Websites are closing their doors to AI agents",
-          "url": "https://news.ycombinator.com/item?id=50141657",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-18T14:58:10Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5121,
-      "importance": 0.5121,
-      "importance_score": 0.5121,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8205,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-18T14:58:10Z",
-      "latest_at": "2026-10-18T14:58:10Z",
-      "primary_item": {
-        "id": "e411551495446d23fd0e169abe03f1d50d9f1a1b",
-        "title": "网站正在向人工智能代理关闭大门 / Websites are closing their doors to AI agents",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web",
-        "source": "Hacker News (黑客新闻)",
-        "source_name": "Info Flow"
       }
     },
     {
@@ -507,14 +1145,14 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5092,
-      "importance": 0.5092,
-      "importance_score": 0.5092,
+      "score": 0.4891,
+      "importance": 0.4891,
+      "importance_score": 0.4891,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.556,
+        "recency": 0.4555,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -532,159 +1170,80 @@
       }
     },
     {
-      "story_id": "story_a257dddc2d05",
-      "title": "Anthropic 提出的人工智能安全法案只有在 50 人死亡或 10 亿美元损失时才会生效 / Anthropic's proposed AI safety bill only kicks in if 50 deaths or $1B in damages",
-      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model",
-      "primary_url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model",
+      "story_id": "story_1c8b7cb7487d",
+      "title": "PalmOS 旅鼠 / PalmOS Lemmings",
+      "url": "https://github.com/ardiri/palmos-lemmings",
+      "primary_url": "https://github.com/ardiri/palmos-lemmings",
       "source": "Hacker News · 24h最热",
       "source_name": "Zeli",
       "sources": [
         {
-          "id": "f81b7f1893a8b4d3db33c2181aa29aa3ace5e8a8",
-          "title": "Anthropic 提出的人工智能安全法案只有在 50 人死亡或 10 亿美元损失时才会生效 / Anthropic's proposed AI safety bill only kicks in if 50 deaths or $1B in damages",
-          "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model",
+          "id": "9a9b4a3712e0686cccd2f9365b6f49f7d8da68ba",
+          "title": "PalmOS 旅鼠 / PalmOS Lemmings",
+          "url": "https://github.com/ardiri/palmos-lemmings",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-10-18T14:30:27Z"
+          "published_at": "2026-10-18T17:56:59Z"
         },
         {
-          "id": "a2eb9d3b957e7beb27909b098e8d3c2b1b11e7d9",
-          "title": "Anthropic 提出的人工智能安全法案只有在 50 人死亡或 10 亿美元损失时才会生效 / Anthropic's proposed AI safety bill only kicks in if 50 deaths or $1B in damages",
-          "url": "https://news.ycombinator.com/item?id=50141429",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-18T14:30:27Z"
+          "id": "048cecb4198b248658700908067b71e40316a48c",
+          "title": "PalmOS Lemmings 作者：Aaron Ardiri / PalmOS Lemmings by Aaron Ardiri",
+          "url": "https://github.com/ardiri/palmos-lemmings",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-18T17:56:59Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews"
+        "Hacker News · 24h最热"
       ],
       "items": [
         {
-          "id": "f81b7f1893a8b4d3db33c2181aa29aa3ace5e8a8",
-          "title": "Anthropic 提出的人工智能安全法案只有在 50 人死亡或 10 亿美元损失时才会生效 / Anthropic's proposed AI safety bill only kicks in if 50 deaths or $1B in damages",
-          "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model",
+          "id": "9a9b4a3712e0686cccd2f9365b6f49f7d8da68ba",
+          "title": "PalmOS 旅鼠 / PalmOS Lemmings",
+          "url": "https://github.com/ardiri/palmos-lemmings",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-10-18T14:30:27Z"
+          "published_at": "2026-10-18T17:56:59Z"
         },
         {
-          "id": "a2eb9d3b957e7beb27909b098e8d3c2b1b11e7d9",
-          "title": "Anthropic 提出的人工智能安全法案只有在 50 人死亡或 10 亿美元损失时才会生效 / Anthropic's proposed AI safety bill only kicks in if 50 deaths or $1B in damages",
-          "url": "https://news.ycombinator.com/item?id=50141429",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-18T14:30:27Z"
+          "id": "048cecb4198b248658700908067b71e40316a48c",
+          "title": "PalmOS Lemmings 作者：Aaron Ardiri / PalmOS Lemmings by Aaron Ardiri",
+          "url": "https://github.com/ardiri/palmos-lemmings",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-18T17:56:59Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5083,
-      "importance": 0.5083,
-      "importance_score": 0.5083,
+      "score": 0.5169,
+      "importance": 0.5169,
+      "importance_score": 0.5169,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8013,
+        "recency": 0.8443,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-18T14:30:27Z",
-      "latest_at": "2026-10-18T14:30:27Z",
+      "earliest_at": "2026-10-18T17:56:59Z",
+      "latest_at": "2026-10-18T17:56:59Z",
       "primary_item": {
-        "id": "f81b7f1893a8b4d3db33c2181aa29aa3ace5e8a8",
-        "title": "Anthropic 提出的人工智能安全法案只有在 50 人死亡或 10 亿美元损失时才会生效 / Anthropic's proposed AI safety bill only kicks in if 50 deaths or $1B in damages",
-        "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model",
+        "id": "9a9b4a3712e0686cccd2f9365b6f49f7d8da68ba",
+        "title": "PalmOS 旅鼠 / PalmOS Lemmings",
+        "url": "https://github.com/ardiri/palmos-lemmings",
         "source": "Hacker News · 24h最热",
         "source_name": "Zeli"
-      }
-    },
-    {
-      "story_id": "story_6e962c8babf2",
-      "title": "人工智能公司已经对网络进行了数据抓取。它们的下一个目标是能够反映人类实际工作方式的数据。",
-      "url": "https://www.businessinsider.com/ai-workplace-data-training-agents-robots",
-      "primary_url": "https://www.businessinsider.com/ai-workplace-data-training-agents-robots",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "e631e65c339786765473f2be2a92f6f3a65ec9c1",
-          "title": "人工智能公司已经对网络进行了数据抓取。它们的下一个目标是能够反映人类实际工作方式的数据。",
-          "url": "https://www.businessinsider.com/ai-workplace-data-training-agents-robots",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-18T14:28:08.026000Z"
-        },
-        {
-          "id": "65c9083a3364a3d05134f024e8be4c95a47298b1",
-          "title": "人工智能公司已经对网络进行了数据抓取。它们的下一个目标是能够反映人类实际工作方式的数据。 / AI companies scraped the web. Now they want to learn how you work.",
-          "url": "https://www.businessinsider.com/ai-workplace-data-training-agents-robots",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-10-18T14:00:01Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "e631e65c339786765473f2be2a92f6f3a65ec9c1",
-          "title": "人工智能公司已经对网络进行了数据抓取。它们的下一个目标是能够反映人类实际工作方式的数据。",
-          "url": "https://www.businessinsider.com/ai-workplace-data-training-agents-robots",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-18T14:28:08.026000Z"
-        },
-        {
-          "id": "65c9083a3364a3d05134f024e8be4c95a47298b1",
-          "title": "人工智能公司已经对网络进行了数据抓取。它们的下一个目标是能够反映人类实际工作方式的数据。 / AI companies scraped the web. Now they want to learn how you work.",
-          "url": "https://www.businessinsider.com/ai-workplace-data-training-agents-robots",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-10-18T14:00:01Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5079,
-      "importance": 0.5079,
-      "importance_score": 0.5079,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7996,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-18T14:00:01Z",
-      "latest_at": "2026-10-18T14:28:08.026000Z",
-      "primary_item": {
-        "id": "e631e65c339786765473f2be2a92f6f3a65ec9c1",
-        "title": "人工智能公司已经对网络进行了数据抓取。它们的下一个目标是能够反映人类实际工作方式的数据。",
-        "url": "https://www.businessinsider.com/ai-workplace-data-training-agents-robots",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
       }
     },
     {
@@ -741,14 +1300,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4963,
-      "importance": 0.4963,
-      "importance_score": 0.4963,
+      "score": 0.4762,
+      "importance": 0.4762,
+      "importance_score": 0.4762,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7414,
+        "recency": 0.641,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -763,84 +1322,6 @@
         "url": "https://github.com/mlabonne/llm-course",
         "source": "github",
         "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_d79487495570",
-      "title": "微信，静悄悄地 AI 化",
-      "url": "https://www.huxiu.com/article/4898417.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4898417.html?f=rss",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "c5c453ab2cbc52a9b21d3fc1b0d61b62921e3a36",
-          "title": "微信，静悄悄地 AI 化",
-          "url": "https://www.huxiu.com/article/4898417.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "0273fb3119b6031720607b9290a72eae84284eaf",
-          "title": "微信，静悄悄地AI化",
-          "url": "https://www.huxiu.com/article/4898417.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-18T11:25:28Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Readhub · AI",
-        "虎嗅 (Huxiu)"
-      ],
-      "items": [
-        {
-          "id": "c5c453ab2cbc52a9b21d3fc1b0d61b62921e3a36",
-          "title": "微信，静悄悄地 AI 化",
-          "url": "https://www.huxiu.com/article/4898417.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "0273fb3119b6031720607b9290a72eae84284eaf",
-          "title": "微信，静悄悄地AI化",
-          "url": "https://www.huxiu.com/article/4898417.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-18T11:25:28Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4962,
-      "importance": 0.4962,
-      "importance_score": 0.4962,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7411,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-18T11:25:28Z",
-      "latest_at": "2026-10-18T13:03:46.612115Z",
-      "primary_item": {
-        "id": "c5c453ab2cbc52a9b21d3fc1b0d61b62921e3a36",
-        "title": "微信，静悄悄地 AI 化",
-        "url": "https://www.huxiu.com/article/4898417.html?f=rss",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
       }
     },
     {
@@ -916,14 +1397,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.4842,
-      "importance": 0.4842,
-      "importance_score": 0.4842,
+      "score": 0.4641,
+      "importance": 0.4641,
+      "importance_score": 0.4641,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.556,
+        "recency": 0.4555,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -941,79 +1422,157 @@
       }
     },
     {
-      "story_id": "story_530db20d1b98",
-      "title": "研究人员让 6 款 AI 智能体尝试「追回火车票退款」，暴露模型使用激进方式执行任务风险",
-      "url": "https://www.ithome.com/1/014/589.htm",
-      "primary_url": "https://www.ithome.com/1/014/589.htm",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
+      "story_id": "story_6e962c8babf2",
+      "title": "人工智能公司已经对网络进行了数据抓取。它们的下一个目标是能够反映人类实际工作方式的数据。",
+      "url": "https://www.businessinsider.com/ai-workplace-data-training-agents-robots",
+      "primary_url": "https://www.businessinsider.com/ai-workplace-data-training-agents-robots",
+      "source": "www.businessinsider.com",
+      "source_name": "Buzzing",
       "sources": [
         {
-          "id": "d4717453c7d34fc666e6bc179fc4a90c76ed9e18",
-          "title": "研究人员让 6 款 AI 智能体尝试「追回火车票退款」，暴露模型使用激进方式执行任务风险",
-          "url": "https://www.ithome.com/1/014/589.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "e631e65c339786765473f2be2a92f6f3a65ec9c1",
+          "title": "人工智能公司已经对网络进行了数据抓取。它们的下一个目标是能够反映人类实际工作方式的数据。",
+          "url": "https://www.businessinsider.com/ai-workplace-data-training-agents-robots",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-18T14:28:08.026000Z"
         },
         {
-          "id": "e2e115c26501c07310edd4d1490c9100297ecb67",
-          "title": "研究人员让 6 款 AI 智能体尝试“追回火车票退款”，暴露模型使用激进方式执行任务风险",
-          "url": "https://www.ithome.com/1/014/589.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-18T12:21:25Z"
+          "id": "65c9083a3364a3d05134f024e8be4c95a47298b1",
+          "title": "人工智能公司已经对网络进行了数据抓取。它们的下一个目标是能够反映人类实际工作方式的数据。 / AI companies scraped the web. Now they want to learn how you work.",
+          "url": "https://www.businessinsider.com/ai-workplace-data-training-agents-robots",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-18T14:00:01Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "IT之家 (ITHome)",
-        "Readhub · AI"
+        "Business Insider",
+        "www.businessinsider.com"
       ],
       "items": [
         {
-          "id": "d4717453c7d34fc666e6bc179fc4a90c76ed9e18",
-          "title": "研究人员让 6 款 AI 智能体尝试「追回火车票退款」，暴露模型使用激进方式执行任务风险",
-          "url": "https://www.ithome.com/1/014/589.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
+          "id": "e631e65c339786765473f2be2a92f6f3a65ec9c1",
+          "title": "人工智能公司已经对网络进行了数据抓取。它们的下一个目标是能够反映人类实际工作方式的数据。",
+          "url": "https://www.businessinsider.com/ai-workplace-data-training-agents-robots",
+          "source": "www.businessinsider.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-18T14:28:08.026000Z"
         },
         {
-          "id": "e2e115c26501c07310edd4d1490c9100297ecb67",
-          "title": "研究人员让 6 款 AI 智能体尝试“追回火车票退款”，暴露模型使用激进方式执行任务风险",
-          "url": "https://www.ithome.com/1/014/589.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-18T12:21:25Z"
+          "id": "65c9083a3364a3d05134f024e8be4c95a47298b1",
+          "title": "人工智能公司已经对网络进行了数据抓取。它们的下一个目标是能够反映人类实际工作方式的数据。 / AI companies scraped the web. Now they want to learn how you work.",
+          "url": "https://www.businessinsider.com/ai-workplace-data-training-agents-robots",
+          "source": "Business Insider",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-10-18T14:00:01Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4962,
-      "importance": 0.4962,
-      "importance_score": 0.4962,
+      "score": 0.4878,
+      "importance": 0.4878,
+      "importance_score": 0.4878,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7411,
+        "recency": 0.6992,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-18T12:21:25Z",
+      "earliest_at": "2026-10-18T14:00:01Z",
+      "latest_at": "2026-10-18T14:28:08.026000Z",
+      "primary_item": {
+        "id": "e631e65c339786765473f2be2a92f6f3a65ec9c1",
+        "title": "人工智能公司已经对网络进行了数据抓取。它们的下一个目标是能够反映人类实际工作方式的数据。",
+        "url": "https://www.businessinsider.com/ai-workplace-data-training-agents-robots",
+        "source": "www.businessinsider.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_d79487495570",
+      "title": "微信，静悄悄地 AI 化",
+      "url": "https://www.huxiu.com/article/4898417.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4898417.html?f=rss",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "c5c453ab2cbc52a9b21d3fc1b0d61b62921e3a36",
+          "title": "微信，静悄悄地 AI 化",
+          "url": "https://www.huxiu.com/article/4898417.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "0273fb3119b6031720607b9290a72eae84284eaf",
+          "title": "微信，静悄悄地AI化",
+          "url": "https://www.huxiu.com/article/4898417.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-18T11:25:28Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Readhub · AI",
+        "虎嗅 (Huxiu)"
+      ],
+      "items": [
+        {
+          "id": "c5c453ab2cbc52a9b21d3fc1b0d61b62921e3a36",
+          "title": "微信，静悄悄地 AI 化",
+          "url": "https://www.huxiu.com/article/4898417.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "0273fb3119b6031720607b9290a72eae84284eaf",
+          "title": "微信，静悄悄地AI化",
+          "url": "https://www.huxiu.com/article/4898417.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-18T11:25:28Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4761,
+      "importance": 0.4761,
+      "importance_score": 0.4761,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.6406,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-18T11:25:28Z",
       "latest_at": "2026-10-18T13:03:46.612115Z",
       "primary_item": {
-        "id": "d4717453c7d34fc666e6bc179fc4a90c76ed9e18",
-        "title": "研究人员让 6 款 AI 智能体尝试「追回火车票退款」，暴露模型使用激进方式执行任务风险",
-        "url": "https://www.ithome.com/1/014/589.htm",
+        "id": "c5c453ab2cbc52a9b21d3fc1b0d61b62921e3a36",
+        "title": "微信，静悄悄地 AI 化",
+        "url": "https://www.huxiu.com/article/4898417.html?f=rss",
         "source": "Readhub · AI",
         "source_name": "TopHub"
       }
@@ -1072,14 +1631,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4905,
-      "importance": 0.4905,
-      "importance_score": 0.4905,
+      "score": 0.4705,
+      "importance": 0.4705,
+      "importance_score": 0.4705,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7127,
+        "recency": 0.6123,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1094,474 +1653,6 @@
         "url": "https://www.vals.ai/blogs/impossible-refund",
         "source": "Hacker News · 24h最热",
         "source_name": "Zeli"
-      }
-    },
-    {
-      "story_id": "story_0de0998006a7",
-      "title": "我原以为从事人工智能领域的工作能让我走在时代前沿。但入行两年后，我却从未像现在这样感到自己落后于时代，也从未像现在这样对这个话题感到厌倦。",
-      "url": "https://www.businessinsider.com/work-in-ai-burned-out-cant-keep-up-career-2026-10",
-      "primary_url": "https://www.businessinsider.com/work-in-ai-burned-out-cant-keep-up-career-2026-10",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "7d3635e3329836f2d4e0b950afcdffe583c35d83",
-          "title": "我原以为从事人工智能领域的工作能让我走在时代前沿。但入行两年后，我却从未像现在这样感到自己落后于时代，也从未像现在这样对这个话题感到厌倦。",
-          "url": "https://www.businessinsider.com/work-in-ai-burned-out-cant-keep-up-career-2026-10",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-18T12:20:14.517000Z"
-        },
-        {
-          "id": "c2afad268f7e6d7b6cabd26c8af27dacf23607b8",
-          "title": "我原以为从事人工智能领域的工作能让我走在时代前沿。但入行两年后，我却从未像现在这样感到自己落后于时代，也从未像现在这样对这个话题感到厌倦。 / I thought working in AI would put me ahead of the curve. Two years in, I've never felt more behind and tired of the topic.",
-          "url": "https://www.businessinsider.com/work-in-ai-burned-out-cant-keep-up-career-2026-10",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-10-18T10:47:01Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "7d3635e3329836f2d4e0b950afcdffe583c35d83",
-          "title": "我原以为从事人工智能领域的工作能让我走在时代前沿。但入行两年后，我却从未像现在这样感到自己落后于时代，也从未像现在这样对这个话题感到厌倦。",
-          "url": "https://www.businessinsider.com/work-in-ai-burned-out-cant-keep-up-career-2026-10",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-18T12:20:14.517000Z"
-        },
-        {
-          "id": "c2afad268f7e6d7b6cabd26c8af27dacf23607b8",
-          "title": "我原以为从事人工智能领域的工作能让我走在时代前沿。但入行两年后，我却从未像现在这样感到自己落后于时代，也从未像现在这样对这个话题感到厌倦。 / I thought working in AI would put me ahead of the curve. Two years in, I've never felt more behind and tired of the topic.",
-          "url": "https://www.businessinsider.com/work-in-ai-burned-out-cant-keep-up-career-2026-10",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-10-18T10:47:01Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4902,
-      "importance": 0.4902,
-      "importance_score": 0.4902,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7108,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-18T10:47:01Z",
-      "latest_at": "2026-10-18T12:20:14.517000Z",
-      "primary_item": {
-        "id": "7d3635e3329836f2d4e0b950afcdffe583c35d83",
-        "title": "我原以为从事人工智能领域的工作能让我走在时代前沿。但入行两年后，我却从未像现在这样感到自己落后于时代，也从未像现在这样对这个话题感到厌倦。",
-        "url": "https://www.businessinsider.com/work-in-ai-burned-out-cant-keep-up-career-2026-10",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_2129bd7c5e2c",
-      "title": "用 GPT-6 魔改 Kindle，我又找到了越狱的乐趣",
-      "url": "https://www.huxiu.com/article/4898387.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4898387.html?f=rss",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "ae61c55a746a1b51ff6192cc08ef4bf40578febe",
-          "title": "用 GPT-6 魔改 Kindle，我又找到了越狱的乐趣",
-          "url": "https://www.huxiu.com/article/4898387.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "631b9e041566a71d94db8375b43f72a0bd5c478d",
-          "title": "用GPT-6魔改Kindle，我又找到了越狱的乐趣",
-          "url": "https://www.huxiu.com/article/4898387.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-18T07:02:59Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Readhub · AI",
-        "虎嗅 (Huxiu)"
-      ],
-      "items": [
-        {
-          "id": "ae61c55a746a1b51ff6192cc08ef4bf40578febe",
-          "title": "用 GPT-6 魔改 Kindle，我又找到了越狱的乐趣",
-          "url": "https://www.huxiu.com/article/4898387.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "631b9e041566a71d94db8375b43f72a0bd5c478d",
-          "title": "用GPT-6魔改Kindle，我又找到了越狱的乐趣",
-          "url": "https://www.huxiu.com/article/4898387.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-18T07:02:59Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4596,
-      "importance": 0.4596,
-      "importance_score": 0.4596,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.5579,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-18T07:02:59Z",
-      "latest_at": "2026-10-18T08:39:58.586865Z",
-      "primary_item": {
-        "id": "ae61c55a746a1b51ff6192cc08ef4bf40578febe",
-        "title": "用 GPT-6 魔改 Kindle，我又找到了越狱的乐趣",
-        "url": "https://www.huxiu.com/article/4898387.html?f=rss",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_a99b07861f4f",
-      "title": "美国 10T 美元的人工智能基础设施热潮开始衰退 / America's $10T AI infrastructure boom is starting to fray",
-      "url": "https://www.ft.com/content/9ea5a37d-15c9-4d5b-94d6-719048c9cd3c",
-      "primary_url": "https://www.ft.com/content/9ea5a37d-15c9-4d5b-94d6-719048c9cd3c",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "36c929a3497a2b819e2ab870a0e6098b2b3e0603",
-          "title": "美国 10T 美元的人工智能基础设施热潮开始衰退 / America's $10T AI infrastructure boom is starting to fray",
-          "url": "https://www.ft.com/content/9ea5a37d-15c9-4d5b-94d6-719048c9cd3c",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-18T06:46:50Z"
-        },
-        {
-          "id": "ffe2d1b841e7ce3391e965cc1bbb4eb440fb8d77",
-          "title": "美国10万亿美元的人工智能基础设施热潮开始出现裂痕",
-          "url": "https://www.ft.com/content/9ea5a37d-15c9-4d5b-94d6-719048c9cd3c?syn-25a6b1a6=1",
-          "source": "www.ft.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-18T04:26:11.357000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "www.ft.com"
-      ],
-      "items": [
-        {
-          "id": "36c929a3497a2b819e2ab870a0e6098b2b3e0603",
-          "title": "美国 10T 美元的人工智能基础设施热潮开始衰退 / America's $10T AI infrastructure boom is starting to fray",
-          "url": "https://www.ft.com/content/9ea5a37d-15c9-4d5b-94d6-719048c9cd3c",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-18T06:46:50Z"
-        },
-        {
-          "id": "ffe2d1b841e7ce3391e965cc1bbb4eb440fb8d77",
-          "title": "美国10万亿美元的人工智能基础设施热潮开始出现裂痕",
-          "url": "https://www.ft.com/content/9ea5a37d-15c9-4d5b-94d6-719048c9cd3c?syn-25a6b1a6=1",
-          "source": "www.ft.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-18T04:26:11.357000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4439,
-      "importance": 0.4439,
-      "importance_score": 0.4439,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.4793,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-18T04:26:11.357000Z",
-      "latest_at": "2026-10-18T06:46:50Z",
-      "primary_item": {
-        "id": "36c929a3497a2b819e2ab870a0e6098b2b3e0603",
-        "title": "美国 10T 美元的人工智能基础设施热潮开始衰退 / America's $10T AI infrastructure boom is starting to fray",
-        "url": "https://www.ft.com/content/9ea5a37d-15c9-4d5b-94d6-719048c9cd3c",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
-      }
-    },
-    {
-      "story_id": "story_24b0133e4a59",
-      "title": "Meta 修改商业服务条款引发「用于训练 AI」争议，现已删除相关表述",
-      "url": "https://www.ithome.com/1/014/429.htm",
-      "primary_url": "https://www.ithome.com/1/014/429.htm",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "26d3fdc2c93ca95162a1bb80746218e32dff9ac0",
-          "title": "Meta 修改商业服务条款引发「用于训练 AI」争议，现已删除相关表述",
-          "url": "https://www.ithome.com/1/014/429.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "af865480ed4848aef860c3ac9234c10575003fbb",
-          "title": "Meta 修改商业服务条款引发“用于训练 AI”争议，现已删除相关表述",
-          "url": "https://www.ithome.com/1/014/429.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-18T00:00:43Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "IT之家 (ITHome)",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "26d3fdc2c93ca95162a1bb80746218e32dff9ac0",
-          "title": "Meta 修改商业服务条款引发「用于训练 AI」争议，现已删除相关表述",
-          "url": "https://www.ithome.com/1/014/429.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "af865480ed4848aef860c3ac9234c10575003fbb",
-          "title": "Meta 修改商业服务条款引发“用于训练 AI”争议，现已删除相关表述",
-          "url": "https://www.ithome.com/1/014/429.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-18T00:00:43Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4172,
-      "importance": 0.4172,
-      "importance_score": 0.4172,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.3459,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-18T00:00:43Z",
-      "latest_at": "2026-10-18T03:34:48.401091Z",
-      "primary_item": {
-        "id": "26d3fdc2c93ca95162a1bb80746218e32dff9ac0",
-        "title": "Meta 修改商业服务条款引发「用于训练 AI」争议，现已删除相关表述",
-        "url": "https://www.ithome.com/1/014/429.htm",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_be4d830bb768",
-      "title": "我国首个十万卡 AI 超集群真机亮相：每秒峰值算力相当于全人类持续计算 200 年",
-      "url": "https://www.ithome.com/1/014/456.htm",
-      "primary_url": "https://www.ithome.com/1/014/456.htm",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "89aeb17e2f7cebec31d3292adbb7ce9f53de32ca",
-          "title": "我国首个十万卡 AI 超集群真机亮相：每秒峰值算力相当于全人类持续计算 200 年",
-          "url": "https://www.ithome.com/1/014/456.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "73a771bca8e8c7703878f3776d857153d2ebd17c",
-          "title": "“能装一个宇宙”：我国首个十万卡 AI 超集群真机亮相",
-          "url": "https://www.ithome.com/1/014/456.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-18T02:06:43Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "IT之家 (ITHome)",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "89aeb17e2f7cebec31d3292adbb7ce9f53de32ca",
-          "title": "我国首个十万卡 AI 超集群真机亮相：每秒峰值算力相当于全人类持续计算 200 年",
-          "url": "https://www.ithome.com/1/014/456.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "73a771bca8e8c7703878f3776d857153d2ebd17c",
-          "title": "“能装一个宇宙”：我国首个十万卡 AI 超集群真机亮相",
-          "url": "https://www.ithome.com/1/014/456.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-18T02:06:43Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4172,
-      "importance": 0.4172,
-      "importance_score": 0.4172,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.3459,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-18T02:06:43Z",
-      "latest_at": "2026-10-18T03:34:48.401091Z",
-      "primary_item": {
-        "id": "89aeb17e2f7cebec31d3292adbb7ce9f53de32ca",
-        "title": "我国首个十万卡 AI 超集群真机亮相：每秒峰值算力相当于全人类持续计算 200 年",
-        "url": "https://www.ithome.com/1/014/456.htm",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_c095d7b1be74",
-      "title": "联想 P7 AI 主机 1024 开启预约：此芯 P1 SoC + 后摩 M50 dNPU 方案",
-      "url": "https://news.mydrivers.com/1/1158/1158342.htm",
-      "primary_url": "https://news.mydrivers.com/1/1158/1158342.htm",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "26fd5ab2961980d67af89e18416a9729e0f6333e",
-          "title": "联想 P7 AI 主机 1024 开启预约：此芯 P1 SoC + 后摩 M50 dNPU 方案",
-          "url": "https://news.mydrivers.com/1/1158/1158342.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "8c0f356e53e42033409967cbdaac8226b7215321",
-          "title": "联想 P7 AI 主机 1024 开启预约：此芯 P1 SoC + 后摩 M50 dNPU 方案",
-          "url": "https://www.ithome.com/1/014/436.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-18T00:25:03Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "IT之家 (ITHome)",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "26fd5ab2961980d67af89e18416a9729e0f6333e",
-          "title": "联想 P7 AI 主机 1024 开启预约：此芯 P1 SoC + 后摩 M50 dNPU 方案",
-          "url": "https://news.mydrivers.com/1/1158/1158342.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "8c0f356e53e42033409967cbdaac8226b7215321",
-          "title": "联想 P7 AI 主机 1024 开启预约：此芯 P1 SoC + 后摩 M50 dNPU 方案",
-          "url": "https://www.ithome.com/1/014/436.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-18T00:25:03Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4172,
-      "importance": 0.4172,
-      "importance_score": 0.4172,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.3459,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-18T00:25:03Z",
-      "latest_at": "2026-10-18T03:34:48.401091Z",
-      "primary_item": {
-        "id": "26fd5ab2961980d67af89e18416a9729e0f6333e",
-        "title": "联想 P7 AI 主机 1024 开启预约：此芯 P1 SoC + 后摩 M50 dNPU 方案",
-        "url": "https://news.mydrivers.com/1/1158/1158342.htm",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
       }
     }
   ]
