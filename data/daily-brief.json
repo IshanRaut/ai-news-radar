@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T03:34:48.401091Z",
+  "generated_at": "2026-10-18T08:39:58.586865Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,14 +38,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7995,
-      "importance": 0.7995,
-      "importance_score": 0.7995,
+      "score": 0.7571,
+      "importance": 0.7571,
+      "importance_score": 0.7571,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9374,
+        "recency": 0.7255,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -61,6 +61,393 @@
         "url": "https://aihot.news/items/i8vi0763u7lz34lkoagoh0agt",
         "source": "卡兹克",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_59f1f537529d",
+      "title": "Codex Desktop 会持续生成 Crashpad 的待处理转储文件",
+      "url": "https://github.com/openai/codex/issues/25921",
+      "primary_url": "https://github.com/openai/codex/issues/25921",
+      "source": "github.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "6ab2a5c7991c015544c29a476198279cf7550f68",
+          "title": "Codex Desktop 会持续生成 Crashpad 的待处理转储文件",
+          "url": "https://github.com/openai/codex/issues/25921",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-18T04:10:14.045000Z"
+        },
+        {
+          "id": "e2e55f8176afb0338615148683031564635977cb",
+          "title": "Codex Desktop 会持续生成 Crashpad 的待处理转储文件 / Codex Desktop continuously generates Crashpad pending dumps",
+          "url": "https://github.com/openai/codex/issues/25921",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-17T17:45:08Z"
+        },
+        {
+          "id": "cc9a57cde030e723559191bdeec84c06acdfd717",
+          "title": "Codex Desktop 不断生成 Crashpad 待处理转储 / Codex Desktop continuously generates Crashpad pending dumps",
+          "url": "https://news.ycombinator.com/item?id=50133231",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-17T17:45:08Z"
+        },
+        {
+          "id": "e8bf942204744109295a3e312a13146f84d9357c",
+          "title": "Codex Desktop 会持续生成 Crashpad 的待处理转储文件 / Codex is EATING my Mac's disk space",
+          "url": "https://github.com/openai/codex/issues/25921",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-17T17:45:08Z"
+        },
+        {
+          "id": "5a3a50e6fd50f0d24cc487fca232f5826834c0a9",
+          "title": "Codex 正在占用我的 Mac 磁盘空间 / Codex is EATING my Mac's disk space",
+          "url": "https://news.ycombinator.com/item?id=50133231",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-17T17:45:08Z"
+        }
+      ],
+      "source_count": 5,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
+        "github.com",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "6ab2a5c7991c015544c29a476198279cf7550f68",
+          "title": "Codex Desktop 会持续生成 Crashpad 的待处理转储文件",
+          "url": "https://github.com/openai/codex/issues/25921",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-18T04:10:14.045000Z"
+        },
+        {
+          "id": "e2e55f8176afb0338615148683031564635977cb",
+          "title": "Codex Desktop 会持续生成 Crashpad 的待处理转储文件 / Codex Desktop continuously generates Crashpad pending dumps",
+          "url": "https://github.com/openai/codex/issues/25921",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-17T17:45:08Z"
+        },
+        {
+          "id": "cc9a57cde030e723559191bdeec84c06acdfd717",
+          "title": "Codex Desktop 不断生成 Crashpad 待处理转储 / Codex Desktop continuously generates Crashpad pending dumps",
+          "url": "https://news.ycombinator.com/item?id=50133231",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-17T17:45:08Z"
+        },
+        {
+          "id": "e8bf942204744109295a3e312a13146f84d9357c",
+          "title": "Codex Desktop 会持续生成 Crashpad 的待处理转储文件 / Codex is EATING my Mac's disk space",
+          "url": "https://github.com/openai/codex/issues/25921",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-17T17:45:08Z"
+        },
+        {
+          "id": "5a3a50e6fd50f0d24cc487fca232f5826834c0a9",
+          "title": "Codex 正在占用我的 Mac 磁盘空间 / Codex is EATING my Mac's disk space",
+          "url": "https://news.ycombinator.com/item?id=50133231",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-17T17:45:08Z"
+        }
+      ],
+      "item_count": 5,
+      "duplicate_count": 5,
+      "score": 0.5855,
+      "importance": 0.5855,
+      "importance_score": 0.5855,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8127,
+        "story_heat": 1.0
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-17T17:45:08Z",
+      "latest_at": "2026-10-18T04:10:14.045000Z",
+      "primary_item": {
+        "id": "6ab2a5c7991c015544c29a476198279cf7550f68",
+        "title": "Codex Desktop 会持续生成 Crashpad 的待处理转储文件",
+        "url": "https://github.com/openai/codex/issues/25921",
+        "source": "github.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_2129bd7c5e2c",
+      "title": "用 GPT-6 魔改 Kindle，我又找到了越狱的乐趣",
+      "url": "https://www.huxiu.com/article/4898387.html?f=rss",
+      "primary_url": "https://www.huxiu.com/article/4898387.html?f=rss",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "ae61c55a746a1b51ff6192cc08ef4bf40578febe",
+          "title": "用 GPT-6 魔改 Kindle，我又找到了越狱的乐趣",
+          "url": "https://www.huxiu.com/article/4898387.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "631b9e041566a71d94db8375b43f72a0bd5c478d",
+          "title": "用GPT-6魔改Kindle，我又找到了越狱的乐趣",
+          "url": "https://www.huxiu.com/article/4898387.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-18T07:02:59Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Readhub · AI",
+        "虎嗅 (Huxiu)"
+      ],
+      "items": [
+        {
+          "id": "ae61c55a746a1b51ff6192cc08ef4bf40578febe",
+          "title": "用 GPT-6 魔改 Kindle，我又找到了越狱的乐趣",
+          "url": "https://www.huxiu.com/article/4898387.html?f=rss",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "631b9e041566a71d94db8375b43f72a0bd5c478d",
+          "title": "用GPT-6魔改Kindle，我又找到了越狱的乐趣",
+          "url": "https://www.huxiu.com/article/4898387.html?f=rss",
+          "source": "虎嗅 (Huxiu)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-18T07:02:59Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.548,
+      "importance": 0.548,
+      "importance_score": 0.548,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-18T07:02:59Z",
+      "latest_at": "2026-10-18T08:39:58.586865Z",
+      "primary_item": {
+        "id": "ae61c55a746a1b51ff6192cc08ef4bf40578febe",
+        "title": "用 GPT-6 魔改 Kindle，我又找到了越狱的乐趣",
+        "url": "https://www.huxiu.com/article/4898387.html?f=rss",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_40d691da45f3",
+      "title": "Show HN: Sphinx——一个在代码提交前会就你的AI代理代码向你提问的钩子",
+      "url": "https://sphinx-six-theta.vercel.app",
+      "primary_url": "https://sphinx-six-theta.vercel.app",
+      "source": "sphinx-six-theta.vercel.app",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "226019d733c9db985b25a3630ca89c9b1ea0a8d8",
+          "title": "Show HN: Sphinx——一个在代码提交前会就你的AI代理代码向你提问的钩子",
+          "url": "https://sphinx-six-theta.vercel.app",
+          "source": "sphinx-six-theta.vercel.app",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-18T04:42:23.700000Z"
+        },
+        {
+          "id": "e3ff28373870884ddd8fa147af0b6d5d6b64946d",
+          "title": "Show HN: Sphinx——一个在代码提交前会就你的AI代理代码向你提问的钩子 / Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
+          "url": "https://sphinx-six-theta.vercel.app",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-18T04:33:49Z"
+        },
+        {
+          "id": "ada4db646053e9ed43005809e21c1c2994e5711b",
+          "title": "Show HN：Sphinx – 一个在发货前询问你的 AI 代码的钩子 / Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
+          "url": "https://news.ycombinator.com/item?id=50137950",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-18T04:33:49Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "hackernews",
+        "sphinx-six-theta.vercel.app"
+      ],
+      "items": [
+        {
+          "id": "226019d733c9db985b25a3630ca89c9b1ea0a8d8",
+          "title": "Show HN: Sphinx——一个在代码提交前会就你的AI代理代码向你提问的钩子",
+          "url": "https://sphinx-six-theta.vercel.app",
+          "source": "sphinx-six-theta.vercel.app",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-18T04:42:23.700000Z"
+        },
+        {
+          "id": "e3ff28373870884ddd8fa147af0b6d5d6b64946d",
+          "title": "Show HN: Sphinx——一个在代码提交前会就你的AI代理代码向你提问的钩子 / Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
+          "url": "https://sphinx-six-theta.vercel.app",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-18T04:33:49Z"
+        },
+        {
+          "id": "ada4db646053e9ed43005809e21c1c2994e5711b",
+          "title": "Show HN：Sphinx – 一个在发货前询问你的 AI 代码的钩子 / Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
+          "url": "https://news.ycombinator.com/item?id=50137950",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-18T04:33:49Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.54,
+      "importance": 0.54,
+      "importance_score": 0.54,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.835,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-18T04:33:49Z",
+      "latest_at": "2026-10-18T04:42:23.700000Z",
+      "primary_item": {
+        "id": "226019d733c9db985b25a3630ca89c9b1ea0a8d8",
+        "title": "Show HN: Sphinx——一个在代码提交前会就你的AI代理代码向你提问的钩子",
+        "url": "https://sphinx-six-theta.vercel.app",
+        "source": "sphinx-six-theta.vercel.app",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_48479cd7194a",
+      "title": "DeepSeek 搜索和获取 – 每 1000 个成功请求 0.75 美元 / DeepSeek search and fetch – $0.75 per 1000 successful requests",
+      "url": "https://api-docs.deepseek.com/guides/search",
+      "primary_url": "https://api-docs.deepseek.com/guides/search",
+      "source": "Hacker News (黑客新闻)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "2d7a133ba0223c367abb4a150514bb348684a8bf",
+          "title": "DeepSeek 搜索和获取 – 每 1000 个成功请求 0.75 美元 / DeepSeek search and fetch – $0.75 per 1000 successful requests",
+          "url": "https://api-docs.deepseek.com/guides/search",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-18T06:50:36Z"
+        },
+        {
+          "id": "51541e1fe4e4ba596b5439259442c3bb18a02d04",
+          "title": "DeepSeek 搜索和获取 – 每 1000 个成功请求 0.75 美元 / DeepSeek search and fetch – $0.75 per 1000 successful requests",
+          "url": "https://news.ycombinator.com/item?id=50138531",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-18T06:50:36Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "2d7a133ba0223c367abb4a150514bb348684a8bf",
+          "title": "DeepSeek 搜索和获取 – 每 1000 个成功请求 0.75 美元 / DeepSeek search and fetch – $0.75 per 1000 successful requests",
+          "url": "https://api-docs.deepseek.com/guides/search",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-18T06:50:36Z"
+        },
+        {
+          "id": "51541e1fe4e4ba596b5439259442c3bb18a02d04",
+          "title": "DeepSeek 搜索和获取 – 每 1000 个成功请求 0.75 美元 / DeepSeek search and fetch – $0.75 per 1000 successful requests",
+          "url": "https://news.ycombinator.com/item?id=50138531",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-18T06:50:36Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5328,
+      "importance": 0.5328,
+      "importance_score": 0.5328,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.924,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-18T06:50:36Z",
+      "latest_at": "2026-10-18T06:50:36Z",
+      "primary_item": {
+        "id": "2d7a133ba0223c367abb4a150514bb348684a8bf",
+        "title": "DeepSeek 搜索和获取 – 每 1000 个成功请求 0.75 美元 / DeepSeek search and fetch – $0.75 per 1000 successful requests",
+        "url": "https://api-docs.deepseek.com/guides/search",
+        "source": "Hacker News (黑客新闻)",
+        "source_name": "Info Flow"
       }
     },
     {
@@ -117,14 +504,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.548,
-      "importance": 0.548,
-      "importance_score": 0.548,
+      "score": 0.5056,
+      "importance": 0.5056,
+      "importance_score": 0.5056,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.7881,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -139,277 +526,6 @@
         "url": "https://www.ithome.com/1/014/429.htm",
         "source": "Readhub · AI",
         "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_fc7c2091e04d",
-      "title": "当烧钱不再是通行证：微软、Meta踩刹车，苹果成了AI赢家",
-      "url": "https://www.36kr.com/p/4029392960280192",
-      "primary_url": "https://www.36kr.com/p/4029392960280192",
-      "source": "36氪 · 24小时热榜",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "74108420211a9df517015251418c564567946c99",
-          "title": "当烧钱不再是通行证：微软、Meta踩刹车，苹果成了AI赢家",
-          "url": "https://www.36kr.com/p/4029392960280192",
-          "source": "36氪 · 24小时热榜",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "8fad337f8f50048d992ac4b4b0b2f8437981ac26",
-          "title": "当烧钱不再是通行证：微软、Meta 踩刹车，苹果成了 AI 赢家",
-          "url": "https://www.36kr.com/p/4029392960280192",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "36氪 · 24小时热榜",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "74108420211a9df517015251418c564567946c99",
-          "title": "当烧钱不再是通行证：微软、Meta踩刹车，苹果成了AI赢家",
-          "url": "https://www.36kr.com/p/4029392960280192",
-          "source": "36氪 · 24小时热榜",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "8fad337f8f50048d992ac4b4b0b2f8437981ac26",
-          "title": "当烧钱不再是通行证：微软、Meta 踩刹车，苹果成了 AI 赢家",
-          "url": "https://www.36kr.com/p/4029392960280192",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.548,
-      "importance": 0.548,
-      "importance_score": 0.548,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-17T05:57:01.410503Z",
-      "latest_at": "2026-10-18T03:34:48.401091Z",
-      "primary_item": {
-        "id": "74108420211a9df517015251418c564567946c99",
-        "title": "当烧钱不再是通行证：微软、Meta踩刹车，苹果成了AI赢家",
-        "url": "https://www.36kr.com/p/4029392960280192",
-        "source": "36氪 · 24小时热榜",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_be4d830bb768",
-      "title": "我国首个十万卡 AI 超集群真机亮相：每秒峰值算力相当于全人类持续计算 200 年",
-      "url": "https://www.ithome.com/1/014/456.htm",
-      "primary_url": "https://www.ithome.com/1/014/456.htm",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "89aeb17e2f7cebec31d3292adbb7ce9f53de32ca",
-          "title": "我国首个十万卡 AI 超集群真机亮相：每秒峰值算力相当于全人类持续计算 200 年",
-          "url": "https://www.ithome.com/1/014/456.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "73a771bca8e8c7703878f3776d857153d2ebd17c",
-          "title": "“能装一个宇宙”：我国首个十万卡 AI 超集群真机亮相",
-          "url": "https://www.ithome.com/1/014/456.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-18T02:06:43Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "IT之家 (ITHome)",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "89aeb17e2f7cebec31d3292adbb7ce9f53de32ca",
-          "title": "我国首个十万卡 AI 超集群真机亮相：每秒峰值算力相当于全人类持续计算 200 年",
-          "url": "https://www.ithome.com/1/014/456.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "73a771bca8e8c7703878f3776d857153d2ebd17c",
-          "title": "“能装一个宇宙”：我国首个十万卡 AI 超集群真机亮相",
-          "url": "https://www.ithome.com/1/014/456.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-18T02:06:43Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.548,
-      "importance": 0.548,
-      "importance_score": 0.548,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-18T02:06:43Z",
-      "latest_at": "2026-10-18T03:34:48.401091Z",
-      "primary_item": {
-        "id": "89aeb17e2f7cebec31d3292adbb7ce9f53de32ca",
-        "title": "我国首个十万卡 AI 超集群真机亮相：每秒峰值算力相当于全人类持续计算 200 年",
-        "url": "https://www.ithome.com/1/014/456.htm",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_59f1f537529d",
-      "title": "Codex Desktop 不断生成 Crashpad 待处理转储 / Codex Desktop continuously generates Crashpad pending dumps",
-      "url": "https://github.com/openai/codex/issues/25921",
-      "primary_url": "https://github.com/openai/codex/issues/25921",
-      "source": "Hacker News (黑客新闻)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "e2e55f8176afb0338615148683031564635977cb",
-          "title": "Codex Desktop 不断生成 Crashpad 待处理转储 / Codex Desktop continuously generates Crashpad pending dumps",
-          "url": "https://github.com/openai/codex/issues/25921",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-17T17:45:08Z"
-        },
-        {
-          "id": "cc9a57cde030e723559191bdeec84c06acdfd717",
-          "title": "Codex Desktop 不断生成 Crashpad 待处理转储 / Codex Desktop continuously generates Crashpad pending dumps",
-          "url": "https://news.ycombinator.com/item?id=50133231",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-17T17:45:08Z"
-        },
-        {
-          "id": "e8bf942204744109295a3e312a13146f84d9357c",
-          "title": "Codex 正在占用我的 Mac 磁盘空间 / Codex is EATING my Mac's disk space",
-          "url": "https://github.com/openai/codex/issues/25921",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-17T17:45:08Z"
-        },
-        {
-          "id": "5a3a50e6fd50f0d24cc487fca232f5826834c0a9",
-          "title": "Codex 正在占用我的 Mac 磁盘空间 / Codex is EATING my Mac's disk space",
-          "url": "https://news.ycombinator.com/item?id=50133231",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-17T17:45:08Z"
-        }
-      ],
-      "source_count": 4,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "Hacker News · 24h最热",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "e2e55f8176afb0338615148683031564635977cb",
-          "title": "Codex Desktop 不断生成 Crashpad 待处理转储 / Codex Desktop continuously generates Crashpad pending dumps",
-          "url": "https://github.com/openai/codex/issues/25921",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-17T17:45:08Z"
-        },
-        {
-          "id": "cc9a57cde030e723559191bdeec84c06acdfd717",
-          "title": "Codex Desktop 不断生成 Crashpad 待处理转储 / Codex Desktop continuously generates Crashpad pending dumps",
-          "url": "https://news.ycombinator.com/item?id=50133231",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-17T17:45:08Z"
-        },
-        {
-          "id": "e8bf942204744109295a3e312a13146f84d9357c",
-          "title": "Codex 正在占用我的 Mac 磁盘空间 / Codex is EATING my Mac's disk space",
-          "url": "https://github.com/openai/codex/issues/25921",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-17T17:45:08Z"
-        },
-        {
-          "id": "5a3a50e6fd50f0d24cc487fca232f5826834c0a9",
-          "title": "Codex 正在占用我的 Mac 磁盘空间 / Codex is EATING my Mac's disk space",
-          "url": "https://news.ycombinator.com/item?id=50133231",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-17T17:45:08Z"
-        }
-      ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.5161,
-      "importance": 0.5161,
-      "importance_score": 0.5161,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.5905,
-        "story_heat": 0.75
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-17T17:45:08Z",
-      "latest_at": "2026-10-17T17:45:08Z",
-      "primary_item": {
-        "id": "e2e55f8176afb0338615148683031564635977cb",
-        "title": "Codex Desktop 不断生成 Crashpad 待处理转储 / Codex Desktop continuously generates Crashpad pending dumps",
-        "url": "https://github.com/openai/codex/issues/25921",
-        "source": "Hacker News (黑客新闻)",
-        "source_name": "Info Flow"
       }
     },
     {
@@ -485,14 +601,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5046,
-      "importance": 0.5046,
-      "importance_score": 0.5046,
+      "score": 0.4622,
+      "importance": 0.4622,
+      "importance_score": 0.4622,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6579,
+        "recency": 0.446,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -507,6 +623,84 @@
         "url": "https://fortune.com/2026/10/16/openai-discloses-four-more-rogue-incidents-involving-financial-medical-and-government-data",
         "source": "fortune.com",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_9392f2098135",
+      "title": "Tibo的Codex翻盘记：接手不到一年就吞掉了ChatGPT",
+      "url": "https://www.36kr.com/p/4029486628327811",
+      "primary_url": "https://www.36kr.com/p/4029486628327811",
+      "source": "36氪 · 24小时热榜",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "c312d2609f3bee96d4159506d4ae337d4d3d1160",
+          "title": "Tibo的Codex翻盘记：接手不到一年就吞掉了ChatGPT",
+          "url": "https://www.36kr.com/p/4029486628327811",
+          "source": "36氪 · 24小时热榜",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "a93a0f05b686105fe125a45fa3d423372071800c",
+          "title": "Tibo 的 Codex 翻盘记：接手不到一年就吞掉了 ChatGPT",
+          "url": "https://www.36kr.com/p/4029486628327811",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "36氪 · 24小时热榜",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "c312d2609f3bee96d4159506d4ae337d4d3d1160",
+          "title": "Tibo的Codex翻盘记：接手不到一年就吞掉了ChatGPT",
+          "url": "https://www.36kr.com/p/4029486628327811",
+          "source": "36氪 · 24小时热榜",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "a93a0f05b686105fe125a45fa3d423372071800c",
+          "title": "Tibo 的 Codex 翻盘记：接手不到一年就吞掉了 ChatGPT",
+          "url": "https://www.36kr.com/p/4029486628327811",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.456,
+      "importance": 0.456,
+      "importance_score": 0.456,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.5399,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-17T10:28:41.176095Z",
+      "latest_at": "2026-10-17T21:37:23.053893Z",
+      "primary_item": {
+        "id": "c312d2609f3bee96d4159506d4ae337d4d3d1160",
+        "title": "Tibo的Codex翻盘记：接手不到一年就吞掉了ChatGPT",
+        "url": "https://www.36kr.com/p/4029486628327811",
+        "source": "36氪 · 24小时热榜",
+        "source_name": "TopHub"
       }
     },
     {
@@ -582,14 +776,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.4979,
-      "importance": 0.4979,
-      "importance_score": 0.4979,
+      "score": 0.4555,
+      "importance": 0.4555,
+      "importance_score": 0.4555,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6245,
+        "recency": 0.4126,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -607,30 +801,30 @@
       }
     },
     {
-      "story_id": "story_c095d7b1be74",
-      "title": "联想 P7 AI 主机 1024 开启预约：此芯 P1 SoC + 后摩 M50 dNPU 方案",
-      "url": "https://news.mydrivers.com/1/1158/1158342.htm",
-      "primary_url": "https://news.mydrivers.com/1/1158/1158342.htm",
+      "story_id": "story_be4d830bb768",
+      "title": "我国首个十万卡 AI 超集群真机亮相：每秒峰值算力相当于全人类持续计算 200 年",
+      "url": "https://www.ithome.com/1/014/456.htm",
+      "primary_url": "https://www.ithome.com/1/014/456.htm",
       "source": "Readhub · AI",
       "source_name": "TopHub",
       "sources": [
         {
-          "id": "26fd5ab2961980d67af89e18416a9729e0f6333e",
-          "title": "联想 P7 AI 主机 1024 开启预约：此芯 P1 SoC + 后摩 M50 dNPU 方案",
-          "url": "https://news.mydrivers.com/1/1158/1158342.htm",
+          "id": "89aeb17e2f7cebec31d3292adbb7ce9f53de32ca",
+          "title": "我国首个十万卡 AI 超集群真机亮相：每秒峰值算力相当于全人类持续计算 200 年",
+          "url": "https://www.ithome.com/1/014/456.htm",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
         },
         {
-          "id": "8c0f356e53e42033409967cbdaac8226b7215321",
-          "title": "联想 P7 AI 主机 1024 开启预约：此芯 P1 SoC + 后摩 M50 dNPU 方案",
-          "url": "https://www.ithome.com/1/014/436.htm",
+          "id": "73a771bca8e8c7703878f3776d857153d2ebd17c",
+          "title": "“能装一个宇宙”：我国首个十万卡 AI 超集群真机亮相",
+          "url": "https://www.ithome.com/1/014/456.htm",
           "source": "IT之家 (ITHome)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-10-18T00:25:03Z"
+          "published_at": "2026-10-18T02:06:43Z"
         }
       ],
       "source_count": 2,
@@ -640,46 +834,46 @@
       ],
       "items": [
         {
-          "id": "26fd5ab2961980d67af89e18416a9729e0f6333e",
-          "title": "联想 P7 AI 主机 1024 开启预约：此芯 P1 SoC + 后摩 M50 dNPU 方案",
-          "url": "https://news.mydrivers.com/1/1158/1158342.htm",
+          "id": "89aeb17e2f7cebec31d3292adbb7ce9f53de32ca",
+          "title": "我国首个十万卡 AI 超集群真机亮相：每秒峰值算力相当于全人类持续计算 200 年",
+          "url": "https://www.ithome.com/1/014/456.htm",
           "source": "Readhub · AI",
           "source_name": "TopHub",
           "site_id": "tophub",
           "published_at": null
         },
         {
-          "id": "8c0f356e53e42033409967cbdaac8226b7215321",
-          "title": "联想 P7 AI 主机 1024 开启预约：此芯 P1 SoC + 后摩 M50 dNPU 方案",
-          "url": "https://www.ithome.com/1/014/436.htm",
+          "id": "73a771bca8e8c7703878f3776d857153d2ebd17c",
+          "title": "“能装一个宇宙”：我国首个十万卡 AI 超集群真机亮相",
+          "url": "https://www.ithome.com/1/014/456.htm",
           "source": "IT之家 (ITHome)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-10-18T00:25:03Z"
+          "published_at": "2026-10-18T02:06:43Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.548,
-      "importance": 0.548,
-      "importance_score": 0.548,
+      "score": 0.5056,
+      "importance": 0.5056,
+      "importance_score": 0.5056,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.7881,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-18T00:25:03Z",
+      "earliest_at": "2026-10-18T02:06:43Z",
       "latest_at": "2026-10-18T03:34:48.401091Z",
       "primary_item": {
-        "id": "26fd5ab2961980d67af89e18416a9729e0f6333e",
-        "title": "联想 P7 AI 主机 1024 开启预约：此芯 P1 SoC + 后摩 M50 dNPU 方案",
-        "url": "https://news.mydrivers.com/1/1158/1158342.htm",
+        "id": "89aeb17e2f7cebec31d3292adbb7ce9f53de32ca",
+        "title": "我国首个十万卡 AI 超集群真机亮相：每秒峰值算力相当于全人类持续计算 200 年",
+        "url": "https://www.ithome.com/1/014/456.htm",
         "source": "Readhub · AI",
         "source_name": "TopHub"
       }
@@ -738,14 +932,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4751,
-      "importance": 0.4751,
-      "importance_score": 0.4751,
+      "score": 0.4327,
+      "importance": 0.4327,
+      "importance_score": 0.4327,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6356,
+        "recency": 0.4237,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -816,14 +1010,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4729,
-      "importance": 0.4729,
-      "importance_score": 0.4729,
+      "score": 0.4305,
+      "importance": 0.4305,
+      "importance_score": 0.4305,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6245,
+        "recency": 0.4126,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -838,6 +1032,84 @@
         "url": "https://pwn.ai/blog/pwnescape",
         "source": "pwn.ai",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_c095d7b1be74",
+      "title": "联想 P7 AI 主机 1024 开启预约：此芯 P1 SoC + 后摩 M50 dNPU 方案",
+      "url": "https://news.mydrivers.com/1/1158/1158342.htm",
+      "primary_url": "https://news.mydrivers.com/1/1158/1158342.htm",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "26fd5ab2961980d67af89e18416a9729e0f6333e",
+          "title": "联想 P7 AI 主机 1024 开启预约：此芯 P1 SoC + 后摩 M50 dNPU 方案",
+          "url": "https://news.mydrivers.com/1/1158/1158342.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "8c0f356e53e42033409967cbdaac8226b7215321",
+          "title": "联想 P7 AI 主机 1024 开启预约：此芯 P1 SoC + 后摩 M50 dNPU 方案",
+          "url": "https://www.ithome.com/1/014/436.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-18T00:25:03Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "IT之家 (ITHome)",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "26fd5ab2961980d67af89e18416a9729e0f6333e",
+          "title": "联想 P7 AI 主机 1024 开启预约：此芯 P1 SoC + 后摩 M50 dNPU 方案",
+          "url": "https://news.mydrivers.com/1/1158/1158342.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "8c0f356e53e42033409967cbdaac8226b7215321",
+          "title": "联想 P7 AI 主机 1024 开启预约：此芯 P1 SoC + 后摩 M50 dNPU 方案",
+          "url": "https://www.ithome.com/1/014/436.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-18T00:25:03Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5056,
+      "importance": 0.5056,
+      "importance_score": 0.5056,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7881,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-18T00:25:03Z",
+      "latest_at": "2026-10-18T03:34:48.401091Z",
+      "primary_item": {
+        "id": "26fd5ab2961980d67af89e18416a9729e0f6333e",
+        "title": "联想 P7 AI 主机 1024 开启预约：此芯 P1 SoC + 后摩 M50 dNPU 方案",
+        "url": "https://news.mydrivers.com/1/1158/1158342.htm",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
       }
     },
     {
@@ -912,14 +1184,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.4428,
-      "importance": 0.4428,
-      "importance_score": 0.4428,
+      "score": 0.4004,
+      "importance": 0.4004,
+      "importance_score": 0.4004,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.3488,
+        "recency": 0.1369,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -990,14 +1262,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4377,
-      "importance": 0.4377,
-      "importance_score": 0.4377,
+      "score": 0.3953,
+      "importance": 0.3953,
+      "importance_score": 0.3953,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.4483,
+        "recency": 0.2364,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1068,14 +1340,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4354,
-      "importance": 0.4354,
-      "importance_score": 0.4354,
+      "score": 0.393,
+      "importance": 0.393,
+      "importance_score": 0.393,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.437,
+        "recency": 0.2251,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1146,14 +1418,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4339,
-      "importance": 0.4339,
-      "importance_score": 0.4339,
+      "score": 0.3915,
+      "importance": 0.3915,
+      "importance_score": 0.3915,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.4296,
+        "recency": 0.2176,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1168,355 +1440,6 @@
         "url": "https://github.com/akitaonrails/ai-memory",
         "source": "github",
         "source_name": "NewsNow"
-      }
-    },
-    {
-      "story_id": "story_1fd6dd971a81",
-      "title": "DeepSeek：DeepSeek v4.1 Flash 1017",
-      "url": "https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017",
-      "primary_url": "https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017",
-      "source": "openrouter.ai",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "8e5c81959774f24f4433c7eef65ae678654545c2",
-          "title": "DeepSeek：DeepSeek v4.1 Flash 1017",
-          "url": "https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017",
-          "source": "openrouter.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-17T10:06:14.023000Z"
-        },
-        {
-          "id": "7a4eb4249ed2085e2a0d8cc076aa9ff4548f984a",
-          "title": "DeepSeek: DeepSeek v4.1 Flash 1017",
-          "url": "https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-17T08:37:46Z"
-        },
-        {
-          "id": "a488a45e254ffb089ab08fcdb751d0d78045741d",
-          "title": "DeepSeek: DeepSeek v4.1 Flash 1017",
-          "url": "https://news.ycombinator.com/item?id=50129121",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-17T08:37:46Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews",
-        "openrouter.ai"
-      ],
-      "items": [
-        {
-          "id": "8e5c81959774f24f4433c7eef65ae678654545c2",
-          "title": "DeepSeek：DeepSeek v4.1 Flash 1017",
-          "url": "https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017",
-          "source": "openrouter.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-17T10:06:14.023000Z"
-        },
-        {
-          "id": "7a4eb4249ed2085e2a0d8cc076aa9ff4548f984a",
-          "title": "DeepSeek: DeepSeek v4.1 Flash 1017",
-          "url": "https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-17T08:37:46Z"
-        },
-        {
-          "id": "a488a45e254ffb089ab08fcdb751d0d78045741d",
-          "title": "DeepSeek: DeepSeek v4.1 Flash 1017",
-          "url": "https://news.ycombinator.com/item?id=50129121",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-17T08:37:46Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.4274,
-      "importance": 0.4274,
-      "importance_score": 0.4274,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.2718,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-17T08:37:46Z",
-      "latest_at": "2026-10-17T10:06:14.023000Z",
-      "primary_item": {
-        "id": "8e5c81959774f24f4433c7eef65ae678654545c2",
-        "title": "DeepSeek：DeepSeek v4.1 Flash 1017",
-        "url": "https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017",
-        "source": "openrouter.ai",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_674cf12d6505",
-      "title": "DeepSeek-v4.1-Flash-1017",
-      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
-      "primary_url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
-      "source": "huggingface.co",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "fdd985b74ba4004073c334c587e8b13475b6d350",
-          "title": "DeepSeek-v4.1-Flash-1017",
-          "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
-          "source": "huggingface.co",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-17T09:34:06.239000Z"
-        },
-        {
-          "id": "2f88eb6ba2a859fb2d4977026cc454933b0f6b0c",
-          "title": "DeepSeek-v4.1-Flash-1017",
-          "url": "https://news.ycombinator.com/item?id=50129045",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-17T08:21:25Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "hackernews",
-        "huggingface.co"
-      ],
-      "items": [
-        {
-          "id": "fdd985b74ba4004073c334c587e8b13475b6d350",
-          "title": "DeepSeek-v4.1-Flash-1017",
-          "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
-          "source": "huggingface.co",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-17T09:34:06.239000Z"
-        },
-        {
-          "id": "2f88eb6ba2a859fb2d4977026cc454933b0f6b0c",
-          "title": "DeepSeek-v4.1-Flash-1017",
-          "url": "https://news.ycombinator.com/item?id=50129045",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-17T08:21:25Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.3979,
-      "importance": 0.3979,
-      "importance_score": 0.3979,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.2495,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-17T08:21:25Z",
-      "latest_at": "2026-10-17T09:34:06.239000Z",
-      "primary_item": {
-        "id": "fdd985b74ba4004073c334c587e8b13475b6d350",
-        "title": "DeepSeek-v4.1-Flash-1017",
-        "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
-        "source": "huggingface.co",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_6cbde97d8260",
-      "title": "538 小时「极脏」人类数据，真机不到 1 小时：港大让机器人学会拆快递、打胶枪、做冷饮",
-      "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651063492&idx=3&sn=25bcc369df362a36ce14020def7e91f6",
-      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651063492&idx=3&sn=25bcc369df362a36ce14020def7e91f6",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "ac01b372a899f275c2059070740cad90d79a8b94",
-          "title": "538 小时「极脏」人类数据，真机不到 1 小时：港大让机器人学会拆快递、打胶枪、做冷饮",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651063492&idx=3&sn=25bcc369df362a36ce14020def7e91f6",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "8231904e41fbc2f80df557a210ee68d40424c55d",
-          "title": "56 年没解开的题，AI 全解了！谷歌 DeepMind 新成果登上 Science 主刊",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA%3D%3D&mid=2652735556&idx=2&sn=025c950b095d8dabc68a3671a4e4b8ba",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "ac01b372a899f275c2059070740cad90d79a8b94",
-          "title": "538 小时「极脏」人类数据，真机不到 1 小时：港大让机器人学会拆快递、打胶枪、做冷饮",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651063492&idx=3&sn=25bcc369df362a36ce14020def7e91f6",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "8231904e41fbc2f80df557a210ee68d40424c55d",
-          "title": "56 年没解开的题，AI 全解了！谷歌 DeepMind 新成果登上 Science 主刊",
-          "url": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA%3D%3D&mid=2652735556&idx=2&sn=025c950b095d8dabc68a3671a4e4b8ba",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4771,
-      "importance": 0.4771,
-      "importance_score": 0.4771,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.6453,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-17T19:04:03.249346Z",
-      "latest_at": "2026-10-17T19:04:03.249346Z",
-      "primary_item": {
-        "id": "ac01b372a899f275c2059070740cad90d79a8b94",
-        "title": "538 小时「极脏」人类数据，真机不到 1 小时：港大让机器人学会拆快递、打胶枪、做冷饮",
-        "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651063492&idx=3&sn=25bcc369df362a36ce14020def7e91f6",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_1557ed18b567",
-      "title": "Show HN: Llmspeed——在购买硬件之前，先体验一下本地 LLM 的运行速度",
-      "url": "https://llmspeed.dev",
-      "primary_url": "https://llmspeed.dev",
-      "source": "llmspeed.dev",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "4566bf3a8a668b8d71987f3133df6b95b72c6e6a",
-          "title": "Show HN: Llmspeed——在购买硬件之前，先体验一下本地 LLM 的运行速度",
-          "url": "https://llmspeed.dev",
-          "source": "llmspeed.dev",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-17T04:48:13.655000Z"
-        },
-        {
-          "id": "cc752846ceddb875b2ef71694c7d513ba0425b60",
-          "title": "Show HN: Llmspeed——在购买硬件之前，先体验一下本地 LLM 的运行速度 / Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
-          "url": "https://llmspeed.dev",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-17T04:36:53Z"
-        },
-        {
-          "id": "9cb789e32b6562165b7ffa11c1791ec391abf87e",
-          "title": "Show HN: Llmspeed – 在购买硬件之前感受本地法学硕士的运行速度 / Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
-          "url": "https://news.ycombinator.com/item?id=50127979",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-17T04:36:53Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews",
-        "llmspeed.dev"
-      ],
-      "items": [
-        {
-          "id": "4566bf3a8a668b8d71987f3133df6b95b72c6e6a",
-          "title": "Show HN: Llmspeed——在购买硬件之前，先体验一下本地 LLM 的运行速度",
-          "url": "https://llmspeed.dev",
-          "source": "llmspeed.dev",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-17T04:48:13.655000Z"
-        },
-        {
-          "id": "cc752846ceddb875b2ef71694c7d513ba0425b60",
-          "title": "Show HN: Llmspeed——在购买硬件之前，先体验一下本地 LLM 的运行速度 / Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
-          "url": "https://llmspeed.dev",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-17T04:36:53Z"
-        },
-        {
-          "id": "9cb789e32b6562165b7ffa11c1791ec391abf87e",
-          "title": "Show HN: Llmspeed – 在购买硬件之前感受本地法学硕士的运行速度 / Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
-          "url": "https://news.ycombinator.com/item?id=50127979",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-17T04:36:53Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.3832,
-      "importance": 0.3832,
-      "importance_score": 0.3832,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.051,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-17T04:36:53Z",
-      "latest_at": "2026-10-17T04:48:13.655000Z",
-      "primary_item": {
-        "id": "4566bf3a8a668b8d71987f3133df6b95b72c6e6a",
-        "title": "Show HN: Llmspeed——在购买硬件之前，先体验一下本地 LLM 的运行速度",
-        "url": "https://llmspeed.dev",
-        "source": "llmspeed.dev",
-        "source_name": "Buzzing"
       }
     },
     {
@@ -1573,14 +1496,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.3934,
-      "importance": 0.3934,
-      "importance_score": 0.3934,
+      "score": 0.351,
+      "importance": 0.351,
+      "importance_score": 0.351,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.2269,
+        "recency": 0.0149,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1595,6 +1518,83 @@
         "url": "https://contextetech.com/en/articles/mcp-protocol-smart-decentralised-search",
         "source": "Hacker News (黑客新闻)",
         "source_name": "Info Flow"
+      }
+    },
+    {
+      "story_id": "story_6cbde97d8260",
+      "title": "538 小时「极脏」人类数据，真机不到 1 小时：港大让机器人学会拆快递、打胶枪、做冷饮",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651063492&idx=3&sn=25bcc369df362a36ce14020def7e91f6",
+      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651063492&idx=3&sn=25bcc369df362a36ce14020def7e91f6",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "ac01b372a899f275c2059070740cad90d79a8b94",
+          "title": "538 小时「极脏」人类数据，真机不到 1 小时：港大让机器人学会拆快递、打胶枪、做冷饮",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651063492&idx=3&sn=25bcc369df362a36ce14020def7e91f6",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "8231904e41fbc2f80df557a210ee68d40424c55d",
+          "title": "56 年没解开的题，AI 全解了！谷歌 DeepMind 新成果登上 Science 主刊",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA%3D%3D&mid=2652735556&idx=2&sn=025c950b095d8dabc68a3671a4e4b8ba",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "ac01b372a899f275c2059070740cad90d79a8b94",
+          "title": "538 小时「极脏」人类数据，真机不到 1 小时：港大让机器人学会拆快递、打胶枪、做冷饮",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651063492&idx=3&sn=25bcc369df362a36ce14020def7e91f6",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "8231904e41fbc2f80df557a210ee68d40424c55d",
+          "title": "56 年没解开的题，AI 全解了！谷歌 DeepMind 新成果登上 Science 主刊",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA%3D%3D&mid=2652735556&idx=2&sn=025c950b095d8dabc68a3671a4e4b8ba",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4347,
+      "importance": 0.4347,
+      "importance_score": 0.4347,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.4334,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-17T19:04:03.249346Z",
+      "latest_at": "2026-10-17T19:04:03.249346Z",
+      "primary_item": {
+        "id": "ac01b372a899f275c2059070740cad90d79a8b94",
+        "title": "538 小时「极脏」人类数据，真机不到 1 小时：港大让机器人学会拆快递、打胶枪、做冷饮",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651063492&idx=3&sn=25bcc369df362a36ce14020def7e91f6",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
       }
     },
     {
@@ -1651,14 +1651,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4338,
-      "importance": 0.4338,
-      "importance_score": 0.4338,
+      "score": 0.3914,
+      "importance": 0.3914,
+      "importance_score": 0.3914,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.4291,
+        "recency": 0.2172,
         "story_heat": 0.25
       },
       "category": "watch",
