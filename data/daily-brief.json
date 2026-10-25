@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T21:45:43.569357Z",
+  "generated_at": "2026-10-25T00:03:55.091281Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -38,20 +38,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7516,
-      "importance": 0.7516,
-      "importance_score": 0.7516,
+      "score": 0.7324,
+      "importance": 0.7324,
+      "importance_score": 0.7324,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6979,
+        "recency": 0.602,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-10-24T14:30:45Z",
       "latest_at": "2026-10-24T14:30:45Z",
@@ -64,62 +63,81 @@
       }
     },
     {
-      "story_id": "story_fcfa8ea660a4",
-      "title": "OpenAI 智能体在隔离测试中借 CPU 缓存隐蔽通信",
-      "url": "https://aihot.news/items/imgp55zxmw4jugt1a29ap9yo1",
-      "primary_url": "https://aihot.news/items/imgp55zxmw4jugt1a29ap9yo1",
-      "source": "The Decoder：AI News",
-      "source_name": "AI HOT",
+      "story_id": "story_8f5707e9a13c",
+      "title": "美国媒体、电影和艺术领域失去了 20 万个工作岗位。人工智能多少钱？ / America Has Lost 200k of Jobs in Media, Film and the Arts. How Much Is AI?",
+      "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
+      "primary_url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
+      "source": "Hacker News (黑客新闻)",
+      "source_name": "Info Flow",
       "sources": [
         {
-          "id": "4e0973b5adb2ea4e04032be1c960f6d7d4757a07",
-          "title": "OpenAI 智能体在隔离测试中借 CPU 缓存隐蔽通信",
-          "url": "https://aihot.news/items/imgp55zxmw4jugt1a29ap9yo1",
-          "source": "The Decoder：AI News",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-24T11:12:36Z"
+          "id": "b523dc92d491e798baa8a274568fcd2d71b14619",
+          "title": "美国媒体、电影和艺术领域失去了 20 万个工作岗位。人工智能多少钱？ / America Has Lost 200k of Jobs in Media, Film and the Arts. How Much Is AI?",
+          "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-24T23:11:54Z"
+        },
+        {
+          "id": "b8f8835577bfc1b7ad90fd5f4afe8f00939bd579",
+          "title": "美国媒体、电影和艺术领域失去了 20 万个工作岗位。人工智能多少钱？ / America Has Lost 200k of Jobs in Media, Film and the Arts. How Much Is AI?",
+          "url": "https://news.ycombinator.com/item?id=50226419",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-24T23:11:54Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "The Decoder：AI News"
+        "Hacker News (黑客新闻)",
+        "hackernews"
       ],
       "items": [
         {
-          "id": "4e0973b5adb2ea4e04032be1c960f6d7d4757a07",
-          "title": "OpenAI 智能体在隔离测试中借 CPU 缓存隐蔽通信",
-          "url": "https://aihot.news/items/imgp55zxmw4jugt1a29ap9yo1",
-          "source": "The Decoder：AI News",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-24T11:12:36Z"
+          "id": "b523dc92d491e798baa8a274568fcd2d71b14619",
+          "title": "美国媒体、电影和艺术领域失去了 20 万个工作岗位。人工智能多少钱？ / America Has Lost 200k of Jobs in Media, Film and the Arts. How Much Is AI?",
+          "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-24T23:11:54Z"
+        },
+        {
+          "id": "b8f8835577bfc1b7ad90fd5f4afe8f00939bd579",
+          "title": "美国媒体、电影和艺术领域失去了 20 万个工作岗位。人工智能多少钱？ / America Has Lost 200k of Jobs in Media, Film and the Arts. How Much Is AI?",
+          "url": "https://news.ycombinator.com/item?id=50226419",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-24T23:11:54Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7241,
-      "importance": 0.7241,
-      "importance_score": 0.7241,
-      "importance_label": "行业动态",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5408,
+      "importance": 0.5408,
+      "importance_score": 0.5408,
+      "importance_label": "值得关注",
       "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.5603,
-        "story_heat": 0.0
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9639,
+        "story_heat": 0.25
       },
-      "category": "industry",
+      "category": "watch",
       "reasons": [
-        "high_ai_relevance"
+        "multi_source"
       ],
-      "earliest_at": "2026-10-24T11:12:36Z",
-      "latest_at": "2026-10-24T11:12:36Z",
+      "earliest_at": "2026-10-24T23:11:54Z",
+      "latest_at": "2026-10-24T23:11:54Z",
       "primary_item": {
-        "id": "4e0973b5adb2ea4e04032be1c960f6d7d4757a07",
-        "title": "OpenAI 智能体在隔离测试中借 CPU 缓存隐蔽通信",
-        "url": "https://aihot.news/items/imgp55zxmw4jugt1a29ap9yo1",
-        "source": "The Decoder：AI News",
-        "source_name": "AI HOT"
+        "id": "b523dc92d491e798baa8a274568fcd2d71b14619",
+        "title": "美国媒体、电影和艺术领域失去了 20 万个工作岗位。人工智能多少钱？ / America Has Lost 200k of Jobs in Media, Film and the Arts. How Much Is AI?",
+        "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
+        "source": "Hacker News (黑客新闻)",
+        "source_name": "Info Flow"
       }
     },
     {
@@ -176,14 +194,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.548,
-      "importance": 0.548,
-      "importance_score": 0.548,
+      "score": 0.5288,
+      "importance": 0.5288,
+      "importance_score": 0.5288,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.904,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -201,8 +219,85 @@
       }
     },
     {
+      "story_id": "story_5a08291251a2",
+      "title": "Show HN：偷我的比特币 / Show HN: Steal My Bitcoin",
+      "url": "https://stealmybitcoin.com",
+      "primary_url": "https://stealmybitcoin.com",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "2cdff8085ed3404e174c6893627b62ea7dad1be6",
+          "title": "Show HN：偷我的比特币 / Show HN: Steal My Bitcoin",
+          "url": "https://stealmybitcoin.com",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-24T20:30:31Z"
+        },
+        {
+          "id": "045a73c76c9450fdbfc4f25a8b1495bdfb9027db",
+          "title": "偷我的比特币 / Steal My Bitcoin",
+          "url": "https://stealmybitcoin.com",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-24T20:30:31Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热"
+      ],
+      "items": [
+        {
+          "id": "2cdff8085ed3404e174c6893627b62ea7dad1be6",
+          "title": "Show HN：偷我的比特币 / Show HN: Steal My Bitcoin",
+          "url": "https://stealmybitcoin.com",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-24T20:30:31Z"
+        },
+        {
+          "id": "045a73c76c9450fdbfc4f25a8b1495bdfb9027db",
+          "title": "偷我的比特币 / Steal My Bitcoin",
+          "url": "https://stealmybitcoin.com",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-24T20:30:31Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5184,
+      "importance": 0.5184,
+      "importance_score": 0.5184,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8518,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-24T20:30:31Z",
+      "latest_at": "2026-10-24T20:30:31Z",
+      "primary_item": {
+        "id": "2cdff8085ed3404e174c6893627b62ea7dad1be6",
+        "title": "Show HN：偷我的比特币 / Show HN: Steal My Bitcoin",
+        "url": "https://stealmybitcoin.com",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
+      }
+    },
+    {
       "story_id": "story_074b7d5e1602",
-      "title": "科技行业之外没有人工智能带来回报的迹象 / No Signs of AI Payoff Outside the Tech Sector",
+      "title": "没有迹象表明人工智能在科技领域之外获得回报 / No signs of AI payoff outside the tech sector",
       "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
       "primary_url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
       "source": "Hacker News · 24h最热",
@@ -210,7 +305,7 @@
       "sources": [
         {
           "id": "665ae961b629b46ada7dbfe1690d384d9b49c3db",
-          "title": "科技行业之外没有人工智能带来回报的迹象 / No Signs of AI Payoff Outside the Tech Sector",
+          "title": "没有迹象表明人工智能在科技领域之外获得回报 / No signs of AI payoff outside the tech sector",
           "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
@@ -219,7 +314,7 @@
         },
         {
           "id": "7bf381f65d68e3f194235639bf1688ff01df0955",
-          "title": "科技行业之外没有人工智能带来回报的迹象 / No Signs of AI Payoff Outside the Tech Sector",
+          "title": "没有迹象表明人工智能在科技领域之外获得回报 / No signs of AI payoff outside the tech sector",
           "url": "https://news.ycombinator.com/item?id=50224463",
           "source": "hackernews",
           "source_name": "NewsNow",
@@ -235,7 +330,7 @@
       "items": [
         {
           "id": "665ae961b629b46ada7dbfe1690d384d9b49c3db",
-          "title": "科技行业之外没有人工智能带来回报的迹象 / No Signs of AI Payoff Outside the Tech Sector",
+          "title": "没有迹象表明人工智能在科技领域之外获得回报 / No signs of AI payoff outside the tech sector",
           "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
@@ -244,7 +339,7 @@
         },
         {
           "id": "7bf381f65d68e3f194235639bf1688ff01df0955",
-          "title": "科技行业之外没有人工智能带来回报的迹象 / No Signs of AI Payoff Outside the Tech Sector",
+          "title": "没有迹象表明人工智能在科技领域之外获得回报 / No signs of AI payoff outside the tech sector",
           "url": "https://news.ycombinator.com/item?id=50224463",
           "source": "hackernews",
           "source_name": "NewsNow",
@@ -254,14 +349,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5316,
-      "importance": 0.5316,
-      "importance_score": 0.5316,
+      "score": 0.5124,
+      "importance": 0.5124,
+      "importance_score": 0.5124,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9178,
+        "recency": 0.8218,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -272,7 +367,7 @@
       "latest_at": "2026-10-24T19:47:19Z",
       "primary_item": {
         "id": "665ae961b629b46ada7dbfe1690d384d9b49c3db",
-        "title": "科技行业之外没有人工智能带来回报的迹象 / No Signs of AI Payoff Outside the Tech Sector",
+        "title": "没有迹象表明人工智能在科技领域之外获得回报 / No signs of AI payoff outside the tech sector",
         "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
         "source": "Hacker News · 24h最热",
         "source_name": "Zeli"
@@ -332,14 +427,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5173,
-      "importance": 0.5173,
-      "importance_score": 0.5173,
+      "score": 0.4981,
+      "importance": 0.4981,
+      "importance_score": 0.4981,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8467,
+        "recency": 0.7507,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -410,14 +505,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4859,
-      "importance": 0.4859,
-      "importance_score": 0.4859,
+      "score": 0.4668,
+      "importance": 0.4668,
+      "importance_score": 0.4668,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6897,
+        "recency": 0.5938,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -431,6 +526,84 @@
         "title": "AI数据中心的繁荣背后隐藏着一个“幽灵”问题",
         "url": "https://www.businessinsider.com/ai-data-center-boom-ghost-projects-bragawatts",
         "source": "www.businessinsider.com",
+        "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_3b420475dea7",
+      "title": "Show HN: Enzyme——一种为智能体编译维基的编程语言",
+      "url": "https://github.com/byenzyme/enzyme",
+      "primary_url": "https://github.com/byenzyme/enzyme",
+      "source": "github.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "be151a2cd7b3ff804d59a2ca6bdece2a71b3374a",
+          "title": "Show HN: Enzyme——一种为智能体编译维基的编程语言",
+          "url": "https://github.com/byenzyme/enzyme",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-24T13:31:48.382000Z"
+        },
+        {
+          "id": "e43f3d9507ce75a09452fbc371a0ac71409eeac4",
+          "title": "Show HN: Enzyme——一种为智能体编译维基的编程语言 / Show HN: Enzyme – a programming language that compiles wikis for agents",
+          "url": "https://github.com/byenzyme/enzyme",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-24T13:30:18Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "github.com"
+      ],
+      "items": [
+        {
+          "id": "be151a2cd7b3ff804d59a2ca6bdece2a71b3374a",
+          "title": "Show HN: Enzyme——一种为智能体编译维基的编程语言",
+          "url": "https://github.com/byenzyme/enzyme",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-24T13:31:48.382000Z"
+        },
+        {
+          "id": "e43f3d9507ce75a09452fbc371a0ac71409eeac4",
+          "title": "Show HN: Enzyme——一种为智能体编译维基的编程语言 / Show HN: Enzyme – a programming language that compiles wikis for agents",
+          "url": "https://github.com/byenzyme/enzyme",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-24T13:30:18Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4602,
+      "importance": 0.4602,
+      "importance_score": 0.4602,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.561,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-24T13:30:18Z",
+      "latest_at": "2026-10-24T13:31:48.382000Z",
+      "primary_item": {
+        "id": "be151a2cd7b3ff804d59a2ca6bdece2a71b3374a",
+        "title": "Show HN: Enzyme——一种为智能体编译维基的编程语言",
+        "url": "https://github.com/byenzyme/enzyme",
+        "source": "github.com",
         "source_name": "Buzzing"
       }
     },
@@ -488,14 +661,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4764,
-      "importance": 0.4764,
-      "importance_score": 0.4764,
+      "score": 0.4572,
+      "importance": 0.4572,
+      "importance_score": 0.4572,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6422,
+        "recency": 0.5462,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -585,14 +758,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.469,
-      "importance": 0.469,
-      "importance_score": 0.469,
+      "score": 0.4498,
+      "importance": 0.4498,
+      "importance_score": 0.4498,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.48,
+        "recency": 0.3841,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -663,14 +836,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4683,
-      "importance": 0.4683,
-      "importance_score": 0.4683,
+      "score": 0.4491,
+      "importance": 0.4491,
+      "importance_score": 0.4491,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6014,
+        "recency": 0.5055,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -685,162 +858,6 @@
         "url": "https://homepage.farm/ai.html",
         "source": "homepage.farm",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_79c7fe33c787",
-      "title": "Oai-math-revised：用于修改 OpenAI 数学文章的社区中心 / Oai-math-revised: a community hub for revising OpenAI's math write-ups",
-      "url": "https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups",
-      "primary_url": "https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups",
-      "source": "Hacker News (黑客新闻)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "8ee689391ccd63bd3409b61d6fd87931a32264e6",
-          "title": "Oai-math-revised：用于修改 OpenAI 数学文章的社区中心 / Oai-math-revised: a community hub for revising OpenAI's math write-ups",
-          "url": "https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-24T15:35:17Z"
-        },
-        {
-          "id": "cd884aff24d1ed0bf0e407740aa0c24f144f8e7e",
-          "title": "Oai-math-revised：用于修改 OpenAI 数学文章的社区中心 / Oai-math-revised: a community hub for revising OpenAI's math write-ups",
-          "url": "https://news.ycombinator.com/item?id=50222283",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-24T15:35:17Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "8ee689391ccd63bd3409b61d6fd87931a32264e6",
-          "title": "Oai-math-revised：用于修改 OpenAI 数学文章的社区中心 / Oai-math-revised: a community hub for revising OpenAI's math write-ups",
-          "url": "https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-24T15:35:17Z"
-        },
-        {
-          "id": "cd884aff24d1ed0bf0e407740aa0c24f144f8e7e",
-          "title": "Oai-math-revised：用于修改 OpenAI 数学文章的社区中心 / Oai-math-revised: a community hub for revising OpenAI's math write-ups",
-          "url": "https://news.ycombinator.com/item?id=50222283",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-24T15:35:17Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4965,
-      "importance": 0.4965,
-      "importance_score": 0.4965,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7427,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-24T15:35:17Z",
-      "latest_at": "2026-10-24T15:35:17Z",
-      "primary_item": {
-        "id": "8ee689391ccd63bd3409b61d6fd87931a32264e6",
-        "title": "Oai-math-revised：用于修改 OpenAI 数学文章的社区中心 / Oai-math-revised: a community hub for revising OpenAI's math write-ups",
-        "url": "https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups",
-        "source": "Hacker News (黑客新闻)",
-        "source_name": "Info Flow"
-      }
-    },
-    {
-      "story_id": "story_e998a2c73394",
-      "title": "显示 HN：通过 CVE-2022-22706 实现 Tcl Android TV 的自主 root / Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706",
-      "url": "https://news.ycombinator.com/item?id=50220042",
-      "primary_url": "https://news.ycombinator.com/item?id=50220042",
-      "source": "hackernews",
-      "source_name": "NewsNow",
-      "sources": [
-        {
-          "id": "bef0160df5a8c9f326f8e3b1bce058e971b97784",
-          "title": "显示 HN：通过 CVE-2022-22706 实现 Tcl Android TV 的自主 root / Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706",
-          "url": "https://news.ycombinator.com/item?id=50220042",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-24T10:51:35Z"
-        },
-        {
-          "id": "bda0a370b4848c32b257cb612500ae440e5091b7",
-          "title": "Show HN: 通过 CVE-2022-22706 为 Tcl Android TV 获取自主 root 权限 / Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706",
-          "url": "https://gitlab.com/c4psu13/mali-pagecache-root",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-24T10:51:35Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "bef0160df5a8c9f326f8e3b1bce058e971b97784",
-          "title": "显示 HN：通过 CVE-2022-22706 实现 Tcl Android TV 的自主 root / Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706",
-          "url": "https://news.ycombinator.com/item?id=50220042",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-24T10:51:35Z"
-        },
-        {
-          "id": "bda0a370b4848c32b257cb612500ae440e5091b7",
-          "title": "Show HN: 通过 CVE-2022-22706 为 Tcl Android TV 获取自主 root 权限 / Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706",
-          "url": "https://gitlab.com/c4psu13/mali-pagecache-root",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-24T10:51:35Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4571,
-      "importance": 0.4571,
-      "importance_score": 0.4571,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.5457,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-24T10:51:35Z",
-      "latest_at": "2026-10-24T10:51:35Z",
-      "primary_item": {
-        "id": "bef0160df5a8c9f326f8e3b1bce058e971b97784",
-        "title": "显示 HN：通过 CVE-2022-22706 实现 Tcl Android TV 的自主 root / Show HN: Autonomous root for Tcl Android TV via CVE-2022-22706",
-        "url": "https://news.ycombinator.com/item?id=50220042",
-        "source": "hackernews",
-        "source_name": "NewsNow"
       }
     },
     {
@@ -897,14 +914,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4772,
-      "importance": 0.4772,
-      "importance_score": 0.4772,
+      "score": 0.458,
+      "importance": 0.458,
+      "importance_score": 0.458,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6458,
+        "recency": 0.5498,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -975,14 +992,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4764,
-      "importance": 0.4764,
-      "importance_score": 0.4764,
+      "score": 0.4572,
+      "importance": 0.4572,
+      "importance_score": 0.4572,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6422,
+        "recency": 0.5462,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1053,14 +1070,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4763,
-      "importance": 0.4763,
-      "importance_score": 0.4763,
+      "score": 0.4571,
+      "importance": 0.4571,
+      "importance_score": 0.4571,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6414,
+        "recency": 0.5454,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1075,6 +1092,84 @@
         "url": "https://www.huxiu.com/article/4900187.html?f=rss",
         "source": "Readhub · AI",
         "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_79c7fe33c787",
+      "title": "Oai-math-revised：用于修改 OpenAI 数学文章的社区中心 / Oai-math-revised: a community hub for revising OpenAI's math write-ups",
+      "url": "https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups",
+      "primary_url": "https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups",
+      "source": "Hacker News (黑客新闻)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "8ee689391ccd63bd3409b61d6fd87931a32264e6",
+          "title": "Oai-math-revised：用于修改 OpenAI 数学文章的社区中心 / Oai-math-revised: a community hub for revising OpenAI's math write-ups",
+          "url": "https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-24T15:35:17Z"
+        },
+        {
+          "id": "cd884aff24d1ed0bf0e407740aa0c24f144f8e7e",
+          "title": "Oai-math-revised：用于修改 OpenAI 数学文章的社区中心 / Oai-math-revised: a community hub for revising OpenAI's math write-ups",
+          "url": "https://news.ycombinator.com/item?id=50222283",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-24T15:35:17Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "8ee689391ccd63bd3409b61d6fd87931a32264e6",
+          "title": "Oai-math-revised：用于修改 OpenAI 数学文章的社区中心 / Oai-math-revised: a community hub for revising OpenAI's math write-ups",
+          "url": "https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-24T15:35:17Z"
+        },
+        {
+          "id": "cd884aff24d1ed0bf0e407740aa0c24f144f8e7e",
+          "title": "Oai-math-revised：用于修改 OpenAI 数学文章的社区中心 / Oai-math-revised: a community hub for revising OpenAI's math write-ups",
+          "url": "https://news.ycombinator.com/item?id=50222283",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-24T15:35:17Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4774,
+      "importance": 0.4774,
+      "importance_score": 0.4774,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.6468,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-24T15:35:17Z",
+      "latest_at": "2026-10-24T15:35:17Z",
+      "primary_item": {
+        "id": "8ee689391ccd63bd3409b61d6fd87931a32264e6",
+        "title": "Oai-math-revised：用于修改 OpenAI 数学文章的社区中心 / Oai-math-revised: a community hub for revising OpenAI's math write-ups",
+        "url": "https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups",
+        "source": "Hacker News (黑客新闻)",
+        "source_name": "Info Flow"
       }
     },
     {
@@ -1131,14 +1226,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4764,
-      "importance": 0.4764,
-      "importance_score": 0.4764,
+      "score": 0.4572,
+      "importance": 0.4572,
+      "importance_score": 0.4572,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.6422,
+        "recency": 0.5462,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1209,14 +1304,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4111,
-      "importance": 0.4111,
-      "importance_score": 0.4111,
+      "score": 0.3919,
+      "importance": 0.3919,
+      "importance_score": 0.3919,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.3154,
+        "recency": 0.2194,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1231,84 +1326,6 @@
         "url": "https://www.bbc.co.uk/news/videos/cm62y59zw8zko?at_medium=RSS&at_campaign=rss",
         "source": "www.bbc.co.uk",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_8ef9c99c3688",
-      "title": "Z-Library 上的人工智能辅助论文引用了一篇不存在的 TorrentFreak 文章 / AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
-      "url": "https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist",
-      "primary_url": "https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist",
-      "source": "Hacker News (黑客新闻)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "ede72eaf0ac957799414f185073e6684ef3bf876",
-          "title": "Z-Library 上的人工智能辅助论文引用了一篇不存在的 TorrentFreak 文章 / AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
-          "url": "https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-24T11:18:54Z"
-        },
-        {
-          "id": "8a2ca6091598801d55d47594c765a7b402e3bada",
-          "title": "Z-Library 上的人工智能辅助论文引用了一篇不存在的 TorrentFreak 文章 / AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
-          "url": "https://news.ycombinator.com/item?id=50220204",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-24T11:18:54Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "ede72eaf0ac957799414f185073e6684ef3bf876",
-          "title": "Z-Library 上的人工智能辅助论文引用了一篇不存在的 TorrentFreak 文章 / AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
-          "url": "https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-24T11:18:54Z"
-        },
-        {
-          "id": "8a2ca6091598801d55d47594c765a7b402e3bada",
-          "title": "Z-Library 上的人工智能辅助论文引用了一篇不存在的 TorrentFreak 文章 / AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
-          "url": "https://news.ycombinator.com/item?id=50220204",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-24T11:18:54Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4609,
-      "importance": 0.4609,
-      "importance_score": 0.4609,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.5647,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-24T11:18:54Z",
-      "latest_at": "2026-10-24T11:18:54Z",
-      "primary_item": {
-        "id": "ede72eaf0ac957799414f185073e6684ef3bf876",
-        "title": "Z-Library 上的人工智能辅助论文引用了一篇不存在的 TorrentFreak 文章 / AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
-        "url": "https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist",
-        "source": "Hacker News (黑客新闻)",
-        "source_name": "Info Flow"
       }
     },
     {
@@ -1365,14 +1382,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4508,
-      "importance": 0.4508,
-      "importance_score": 0.4508,
+      "score": 0.4316,
+      "importance": 0.4316,
+      "importance_score": 0.4316,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.5138,
+        "recency": 0.4179,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1443,14 +1460,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4393,
-      "importance": 0.4393,
-      "importance_score": 0.4393,
+      "score": 0.4202,
+      "importance": 0.4202,
+      "importance_score": 0.4202,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.4567,
+        "recency": 0.3608,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1468,81 +1485,81 @@
       }
     },
     {
-      "story_id": "story_e9196f4fbc6a",
-      "title": "英伟达黄仁勋开炮：「AI 毁灭人类」纯属捏造，是博眼球的廉价炒作",
-      "url": "https://www.ithome.com/1/017/326.htm",
-      "primary_url": "https://www.ithome.com/1/017/326.htm",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
+      "story_id": "story_8ef9c99c3688",
+      "title": "Z-Library 上的人工智能辅助论文引用了一篇不存在的 TorrentFreak 文章 / AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
+      "url": "https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist",
+      "primary_url": "https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist",
+      "source": "Hacker News (黑客新闻)",
+      "source_name": "Info Flow",
       "sources": [
         {
-          "id": "5350a4d4ac8eb4992b7f40efc32fc6666d38a52b",
-          "title": "英伟达黄仁勋开炮：「AI 毁灭人类」纯属捏造，是博眼球的廉价炒作",
-          "url": "https://www.ithome.com/1/017/326.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "18a17d9953bffd5b52be5c4b9ca4802116e5dfc9",
-          "title": "英伟达黄仁勋开炮：“AI 毁灭人类”纯属捏造，是博眼球的廉价炒作",
-          "url": "https://www.ithome.com/1/017/326.htm",
-          "source": "IT之家 (ITHome)",
+          "id": "ede72eaf0ac957799414f185073e6684ef3bf876",
+          "title": "Z-Library 上的人工智能辅助论文引用了一篇不存在的 TorrentFreak 文章 / AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
+          "url": "https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist",
+          "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-10-24T02:56:44Z"
+          "published_at": "2026-10-24T11:18:54Z"
+        },
+        {
+          "id": "8a2ca6091598801d55d47594c765a7b402e3bada",
+          "title": "Z-Library 上的人工智能辅助论文引用了一篇不存在的 TorrentFreak 文章 / AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
+          "url": "https://news.ycombinator.com/item?id=50220204",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-24T11:18:54Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "IT之家 (ITHome)",
-        "Readhub · AI"
+        "Hacker News (黑客新闻)",
+        "hackernews"
       ],
       "items": [
         {
-          "id": "5350a4d4ac8eb4992b7f40efc32fc6666d38a52b",
-          "title": "英伟达黄仁勋开炮：「AI 毁灭人类」纯属捏造，是博眼球的廉价炒作",
-          "url": "https://www.ithome.com/1/017/326.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "18a17d9953bffd5b52be5c4b9ca4802116e5dfc9",
-          "title": "英伟达黄仁勋开炮：“AI 毁灭人类”纯属捏造，是博眼球的廉价炒作",
-          "url": "https://www.ithome.com/1/017/326.htm",
-          "source": "IT之家 (ITHome)",
+          "id": "ede72eaf0ac957799414f185073e6684ef3bf876",
+          "title": "Z-Library 上的人工智能辅助论文引用了一篇不存在的 TorrentFreak 文章 / AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
+          "url": "https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist",
+          "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-10-24T02:56:44Z"
+          "published_at": "2026-10-24T11:18:54Z"
+        },
+        {
+          "id": "8a2ca6091598801d55d47594c765a7b402e3bada",
+          "title": "Z-Library 上的人工智能辅助论文引用了一篇不存在的 TorrentFreak 文章 / AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
+          "url": "https://news.ycombinator.com/item?id=50220204",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-24T11:18:54Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.3979,
-      "importance": 0.3979,
-      "importance_score": 0.3979,
+      "score": 0.4417,
+      "importance": 0.4417,
+      "importance_score": 0.4417,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.2494,
+        "recency": 0.4687,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-24T02:56:44Z",
-      "latest_at": "2026-10-24T03:44:52.674865Z",
+      "earliest_at": "2026-10-24T11:18:54Z",
+      "latest_at": "2026-10-24T11:18:54Z",
       "primary_item": {
-        "id": "5350a4d4ac8eb4992b7f40efc32fc6666d38a52b",
-        "title": "英伟达黄仁勋开炮：「AI 毁灭人类」纯属捏造，是博眼球的廉价炒作",
-        "url": "https://www.ithome.com/1/017/326.htm",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
+        "id": "ede72eaf0ac957799414f185073e6684ef3bf876",
+        "title": "Z-Library 上的人工智能辅助论文引用了一篇不存在的 TorrentFreak 文章 / AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
+        "url": "https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist",
+        "source": "Hacker News (黑客新闻)",
+        "source_name": "Info Flow"
       }
     }
   ]
