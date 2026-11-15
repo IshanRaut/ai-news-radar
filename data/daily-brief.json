@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-15T00:50:58.121257Z",
+  "generated_at": "2026-11-15T07:38:15.383849Z",
   "window_hours": 24,
-  "total_items": 17,
+  "total_items": 11,
   "items": [
     {
       "story_id": "story_caa6f0b87182",
@@ -38,20 +38,19 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7857,
-      "importance": 0.7857,
-      "importance_score": 0.7857,
+      "score": 0.7291,
+      "importance": 0.7291,
+      "importance_score": 0.7291,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8683,
+        "recency": 0.5855,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-11-14T21:41:22Z",
       "latest_at": "2026-11-14T21:41:22Z",
@@ -60,66 +59,6 @@
         "title": "马斯克等高管联署请愿，要求 Nvidia 恢复黄仁勋 CEO 职务",
         "url": "https://aihot.news/items/umoosrbjhi12kj7lv51qan4ju",
         "source": "TechCrunch：AI",
-        "source_name": "AI HOT"
-      }
-    },
-    {
-      "story_id": "story_1aec5dd668c0",
-      "title": "Anthropic CEO Amodei 在 IPO 前承认明年存在巨大不确定性，算力是公司最深的商业两难",
-      "url": "https://aihot.news/items/vl3jnosrbdn6i5j2we400046i",
-      "primary_url": "https://aihot.news/items/vl3jnosrbdn6i5j2we400046i",
-      "source": "The Decoder：AI News",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "d2a174d9e781128402fa7778bc2538312e9fda4f",
-          "title": "Anthropic CEO Amodei 在 IPO 前承认明年存在巨大不确定性，算力是公司最深的商业两难",
-          "url": "https://aihot.news/items/vl3jnosrbdn6i5j2we400046i",
-          "source": "The Decoder：AI News",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-11-14T19:05:17Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "The Decoder：AI News"
-      ],
-      "items": [
-        {
-          "id": "d2a174d9e781128402fa7778bc2538312e9fda4f",
-          "title": "Anthropic CEO Amodei 在 IPO 前承认明年存在巨大不确定性，算力是公司最深的商业两难",
-          "url": "https://aihot.news/items/vl3jnosrbdn6i5j2we400046i",
-          "source": "The Decoder：AI News",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-11-14T19:05:17Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.764,
-      "importance": 0.764,
-      "importance_score": 0.764,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7599,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-14T19:05:17Z",
-      "latest_at": "2026-11-14T19:05:17Z",
-      "primary_item": {
-        "id": "d2a174d9e781128402fa7778bc2538312e9fda4f",
-        "title": "Anthropic CEO Amodei 在 IPO 前承认明年存在巨大不确定性，算力是公司最深的商业两难",
-        "url": "https://aihot.news/items/vl3jnosrbdn6i5j2we400046i",
-        "source": "The Decoder：AI News",
         "source_name": "AI HOT"
       }
     },
@@ -139,9 +78,18 @@
           "source_name": "AI HOT",
           "site_id": "aihot",
           "published_at": "2026-11-14T16:34:15Z"
+        },
+        {
+          "id": "76734175f26ee05369864dc10ef28914e92e0723",
+          "title": "黄仁勋离开 Nvidia 后，亚洲多地如何回应",
+          "url": "https://aihot.news/items/ni18shok3lh70l1e49nazmgdc",
+          "source": "TechCrunch：AI",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-11-14T16:34:15Z"
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
         "TechCrunch：AI"
       ],
@@ -154,22 +102,32 @@
           "source_name": "AI HOT",
           "site_id": "aihot",
           "published_at": "2026-11-14T16:34:15Z"
+        },
+        {
+          "id": "76734175f26ee05369864dc10ef28914e92e0723",
+          "title": "黄仁勋离开 Nvidia 后，亚洲多地如何回应",
+          "url": "https://aihot.news/items/ni18shok3lh70l1e49nazmgdc",
+          "source": "TechCrunch：AI",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-11-14T16:34:15Z"
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.743,
-      "importance": 0.743,
-      "importance_score": 0.743,
-      "importance_label": "行业动态",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.7114,
+      "importance": 0.7114,
+      "importance_score": 0.7114,
+      "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.6551,
-        "story_heat": 0.0
+        "recency": 0.3722,
+        "story_heat": 0.25
       },
-      "category": "industry",
+      "category": "watch",
       "reasons": [
+        "multi_source",
         "high_ai_relevance"
       ],
       "earliest_at": "2026-11-14T16:34:15Z",
@@ -180,6 +138,103 @@
         "url": "https://aihot.news/items/ni18shok3lh70l1e49nazmgdc",
         "source": "TechCrunch：AI",
         "source_name": "AI HOT"
+      }
+    },
+    {
+      "story_id": "story_fa6f9a523c4f",
+      "title": "Show HN: Turbo-Browser-MCP – 适用于 MCP 的批量表单、DOM 增量和提交保护机制",
+      "url": "https://github.com/Tthanh2k6/turbo-browser-mcp",
+      "primary_url": "https://github.com/Tthanh2k6/turbo-browser-mcp",
+      "source": "github.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "4d56bff98d6517a238656d0e34c20ab398645aa0",
+          "title": "Show HN: Turbo-Browser-MCP – 适用于 MCP 的批量表单、DOM 增量和提交保护机制",
+          "url": "https://github.com/Tthanh2k6/turbo-browser-mcp",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-15T04:24:05.904000Z"
+        },
+        {
+          "id": "e0d31c13d0df7df944c04bf4dca77dcbb78a6d32",
+          "title": "Show HN: Turbo-Browser-MCP – 适用于 MCP 的批量表单、DOM 增量和提交保护机制 / Show HN: Turbo-Browser-MCP – Batch forms, DOM deltas and submit guards for MCP",
+          "url": "https://github.com/Tthanh2k6/turbo-browser-mcp",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-15T04:09:11Z"
+        },
+        {
+          "id": "25e322e12ce836de6562dfede21c4e303ec46be1",
+          "title": "显示 HN：Turbo-Browser-MCP – 批量表单、DOM 增量和 MCP 提交防护 / Show HN: Turbo-Browser-MCP – Batch forms, DOM deltas and submit guards for MCP",
+          "url": "https://news.ycombinator.com/item?id=50503930",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-15T04:09:11Z"
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "github.com",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "4d56bff98d6517a238656d0e34c20ab398645aa0",
+          "title": "Show HN: Turbo-Browser-MCP – 适用于 MCP 的批量表单、DOM 增量和提交保护机制",
+          "url": "https://github.com/Tthanh2k6/turbo-browser-mcp",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-15T04:24:05.904000Z"
+        },
+        {
+          "id": "e0d31c13d0df7df944c04bf4dca77dcbb78a6d32",
+          "title": "Show HN: Turbo-Browser-MCP – 适用于 MCP 的批量表单、DOM 增量和提交保护机制 / Show HN: Turbo-Browser-MCP – Batch forms, DOM deltas and submit guards for MCP",
+          "url": "https://github.com/Tthanh2k6/turbo-browser-mcp",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-15T04:09:11Z"
+        },
+        {
+          "id": "25e322e12ce836de6562dfede21c4e303ec46be1",
+          "title": "显示 HN：Turbo-Browser-MCP – 批量表单、DOM 增量和 MCP 提交防护 / Show HN: Turbo-Browser-MCP – Batch forms, DOM deltas and submit guards for MCP",
+          "url": "https://news.ycombinator.com/item?id=50503930",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-15T04:09:11Z"
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.546,
+      "importance": 0.546,
+      "importance_score": 0.546,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8652,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-15T04:09:11Z",
+      "latest_at": "2026-11-15T04:24:05.904000Z",
+      "primary_item": {
+        "id": "4d56bff98d6517a238656d0e34c20ab398645aa0",
+        "title": "Show HN: Turbo-Browser-MCP – 适用于 MCP 的批量表单、DOM 增量和提交保护机制",
+        "url": "https://github.com/Tthanh2k6/turbo-browser-mcp",
+        "source": "github.com",
+        "source_name": "Buzzing"
       }
     },
     {
@@ -255,14 +310,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5297,
-      "importance": 0.5297,
-      "importance_score": 0.5297,
+      "score": 0.4731,
+      "importance": 0.4731,
+      "importance_score": 0.4731,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7833,
+        "recency": 0.5005,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -277,6 +332,84 @@
         "url": "https://developer.nvidia.com/blog/when-one-gpu-isnt-enough-serving-glm-5-3-across-two-nvidia-dgx-stations-with-vllm",
         "source": "developer.nvidia.com",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_c0e7ee2c6665",
+      "title": "白宫「超级智能工作组」呼吁放宽问责政策，鼓励 AI 企业报告网络安全事件",
+      "url": "https://www.ithome.com/1/027/229.htm",
+      "primary_url": "https://www.ithome.com/1/027/229.htm",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
+      "sources": [
+        {
+          "id": "82baf67e3b009bb541e8eb1c3ce2fc8156e2b4bb",
+          "title": "白宫「超级智能工作组」呼吁放宽问责政策，鼓励 AI 企业报告网络安全事件",
+          "url": "https://www.ithome.com/1/027/229.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "eadacb5ccf04bd4d5a7d2572e0baefb2be9bbf9c",
+          "title": "白宫“超级智能工作组”呼吁放宽问责政策，鼓励 AI 企业报告网络安全事件",
+          "url": "https://www.ithome.com/1/027/229.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-14T13:03:22Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "IT之家 (ITHome)",
+        "Readhub · AI"
+      ],
+      "items": [
+        {
+          "id": "82baf67e3b009bb541e8eb1c3ce2fc8156e2b4bb",
+          "title": "白宫「超级智能工作组」呼吁放宽问责政策，鼓励 AI 企业报告网络安全事件",
+          "url": "https://www.ithome.com/1/027/229.htm",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "eadacb5ccf04bd4d5a7d2572e0baefb2be9bbf9c",
+          "title": "白宫“超级智能工作组”呼吁放宽问责政策，鼓励 AI 企业报告网络安全事件",
+          "url": "https://www.ithome.com/1/027/229.htm",
+          "source": "IT之家 (ITHome)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-14T13:03:22Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.4212,
+      "importance": 0.4212,
+      "importance_score": 0.4212,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.3659,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-14T13:03:22Z",
+      "latest_at": "2026-11-14T16:25:08.289925Z",
+      "primary_item": {
+        "id": "82baf67e3b009bb541e8eb1c3ce2fc8156e2b4bb",
+        "title": "白宫「超级智能工作组」呼吁放宽问责政策，鼓励 AI 企业报告网络安全事件",
+        "url": "https://www.ithome.com/1/027/229.htm",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
       }
     },
     {
@@ -352,14 +485,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.4921,
-      "importance": 0.4921,
-      "importance_score": 0.4921,
+      "score": 0.4356,
+      "importance": 0.4356,
+      "importance_score": 0.4356,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.5957,
+        "recency": 0.3128,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -374,200 +507,6 @@
         "url": "https://github.com/Vaibhaav-Tiwari/deepseek-v3-jax",
         "source": "github.com",
         "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_197819bcc934",
-      "title": "据称，英伟达通过资助人工智能初创企业购买其显卡，人为制造了供不应求的局面",
-      "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
-      "primary_url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
-      "source": "www.techpowerup.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "bf620ca6eecfbec7c651f2275f1f33e0020ebf95",
-          "title": "据称，英伟达通过资助人工智能初创企业购买其显卡，人为制造了供不应求的局面",
-          "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
-          "source": "www.techpowerup.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-14T10:32:03.584000Z"
-        },
-        {
-          "id": "e26eebc79e088ffc5ea18b52ef0b843b8dcafa0e",
-          "title": "据称，英伟达通过资助人工智能初创企业购买其显卡，人为制造了供不应求的局面 / Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
-          "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-14T02:52:59Z"
-        },
-        {
-          "id": "2d7623a763c69046c3901343648bd636f62daa03",
-          "title": "据称，英伟达通过资助人工智能初创公司购买其 GPU 来制造稀缺性 / Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
-          "url": "https://news.ycombinator.com/item?id=50493251",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-14T02:52:59Z"
-        },
-        {
-          "id": "3407e04f6d5018786e57dd9263b2b0159ae0a47f",
-          "title": "据称 NVIDIA 资助人工智能初创公司购买其 GPU 来制造稀缺性 / NVIDIA Allegedly Engineered Scarcity By Funding AI Startups To Buy Its GPUs",
-          "url": "https://www.reddit.com/r/pcmasterrace/comments/1xvqjor/nvidia_allegedly_engineered_scarcity_by_funding",
-          "source": "Reddit (热门)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-14T02:10:01Z"
-        }
-      ],
-      "source_count": 4,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "Reddit (热门)",
-        "hackernews",
-        "www.techpowerup.com"
-      ],
-      "items": [
-        {
-          "id": "bf620ca6eecfbec7c651f2275f1f33e0020ebf95",
-          "title": "据称，英伟达通过资助人工智能初创企业购买其显卡，人为制造了供不应求的局面",
-          "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
-          "source": "www.techpowerup.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-14T10:32:03.584000Z"
-        },
-        {
-          "id": "e26eebc79e088ffc5ea18b52ef0b843b8dcafa0e",
-          "title": "据称，英伟达通过资助人工智能初创企业购买其显卡，人为制造了供不应求的局面 / Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
-          "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-14T02:52:59Z"
-        },
-        {
-          "id": "2d7623a763c69046c3901343648bd636f62daa03",
-          "title": "据称，英伟达通过资助人工智能初创公司购买其 GPU 来制造稀缺性 / Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
-          "url": "https://news.ycombinator.com/item?id=50493251",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-14T02:52:59Z"
-        },
-        {
-          "id": "3407e04f6d5018786e57dd9263b2b0159ae0a47f",
-          "title": "据称 NVIDIA 资助人工智能初创公司购买其 GPU 来制造稀缺性 / NVIDIA Allegedly Engineered Scarcity By Funding AI Startups To Buy Its GPUs",
-          "url": "https://www.reddit.com/r/pcmasterrace/comments/1xvqjor/nvidia_allegedly_engineered_scarcity_by_funding",
-          "source": "Reddit (热门)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-14T02:10:01Z"
-        }
-      ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.4787,
-      "importance": 0.4787,
-      "importance_score": 0.4787,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.4035,
-        "story_heat": 0.75
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-14T02:10:01Z",
-      "latest_at": "2026-11-14T10:32:03.584000Z",
-      "primary_item": {
-        "id": "bf620ca6eecfbec7c651f2275f1f33e0020ebf95",
-        "title": "据称，英伟达通过资助人工智能初创企业购买其显卡，人为制造了供不应求的局面",
-        "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
-        "source": "www.techpowerup.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_c0e7ee2c6665",
-      "title": "白宫「超级智能工作组」呼吁放宽问责政策，鼓励 AI 企业报告网络安全事件",
-      "url": "https://www.ithome.com/1/027/229.htm",
-      "primary_url": "https://www.ithome.com/1/027/229.htm",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "82baf67e3b009bb541e8eb1c3ce2fc8156e2b4bb",
-          "title": "白宫「超级智能工作组」呼吁放宽问责政策，鼓励 AI 企业报告网络安全事件",
-          "url": "https://www.ithome.com/1/027/229.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "eadacb5ccf04bd4d5a7d2572e0baefb2be9bbf9c",
-          "title": "白宫“超级智能工作组”呼吁放宽问责政策，鼓励 AI 企业报告网络安全事件",
-          "url": "https://www.ithome.com/1/027/229.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-14T13:03:22Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "IT之家 (ITHome)",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "82baf67e3b009bb541e8eb1c3ce2fc8156e2b4bb",
-          "title": "白宫「超级智能工作组」呼吁放宽问责政策，鼓励 AI 企业报告网络安全事件",
-          "url": "https://www.ithome.com/1/027/229.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "eadacb5ccf04bd4d5a7d2572e0baefb2be9bbf9c",
-          "title": "白宫“超级智能工作组”呼吁放宽问责政策，鼓励 AI 企业报告网络安全事件",
-          "url": "https://www.ithome.com/1/027/229.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-14T13:03:22Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4777,
-      "importance": 0.4777,
-      "importance_score": 0.4777,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.6487,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-14T13:03:22Z",
-      "latest_at": "2026-11-14T16:25:08.289925Z",
-      "primary_item": {
-        "id": "82baf67e3b009bb541e8eb1c3ce2fc8156e2b4bb",
-        "title": "白宫「超级智能工作组」呼吁放宽问责政策，鼓励 AI 企业报告网络安全事件",
-        "url": "https://www.ithome.com/1/027/229.htm",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
       }
     },
     {
@@ -624,14 +563,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4587,
-      "importance": 0.4587,
-      "importance_score": 0.4587,
+      "score": 0.4022,
+      "importance": 0.4022,
+      "importance_score": 0.4022,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.5536,
+        "recency": 0.2708,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -701,14 +640,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4553,
-      "importance": 0.4553,
-      "importance_score": 0.4553,
+      "score": 0.3987,
+      "importance": 0.3987,
+      "importance_score": 0.3987,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.5365,
+        "recency": 0.2536,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -723,162 +662,6 @@
         "url": "https://tube.kockatoo.org/w/fFinNHfanLT7aBEb2B8y4c",
         "source": "Hacker News · 24h最热",
         "source_name": "Zeli"
-      }
-    },
-    {
-      "story_id": "story_c19e7ef010f7",
-      "title": "你完全可以凭记忆发明出变形金刚",
-      "url": "https://alexwang.ai/posts/associative-memory",
-      "primary_url": "https://alexwang.ai/posts/associative-memory",
-      "source": "alexwang.ai",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "1165087802d3484327bc10c6dbfbac4f89354054",
-          "title": "你完全可以凭记忆发明出变形金刚",
-          "url": "https://alexwang.ai/posts/associative-memory",
-          "source": "alexwang.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-14T10:32:46.164000Z"
-        },
-        {
-          "id": "34c0bd958b731204d23f44ae18127a5d4b8641b9",
-          "title": "你完全可以凭记忆发明出变形金刚 / You could have invented transformers from memory",
-          "url": "https://alexwang.ai/posts/associative-memory",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-14T04:49:47Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Lobsters (技术社区)",
-        "alexwang.ai"
-      ],
-      "items": [
-        {
-          "id": "1165087802d3484327bc10c6dbfbac4f89354054",
-          "title": "你完全可以凭记忆发明出变形金刚",
-          "url": "https://alexwang.ai/posts/associative-memory",
-          "source": "alexwang.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-14T10:32:46.164000Z"
-        },
-        {
-          "id": "34c0bd958b731204d23f44ae18127a5d4b8641b9",
-          "title": "你完全可以凭记忆发明出变形金刚 / You could have invented transformers from memory",
-          "url": "https://alexwang.ai/posts/associative-memory",
-          "source": "Lobsters (技术社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-14T04:49:47Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4288,
-      "importance": 0.4288,
-      "importance_score": 0.4288,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.404,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-14T04:49:47Z",
-      "latest_at": "2026-11-14T10:32:46.164000Z",
-      "primary_item": {
-        "id": "1165087802d3484327bc10c6dbfbac4f89354054",
-        "title": "你完全可以凭记忆发明出变形金刚",
-        "url": "https://alexwang.ai/posts/associative-memory",
-        "source": "alexwang.ai",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_4d0c29e8f59a",
-      "title": "Ask HN: 有哪些最实用、最具体的人工智能技能值得自主学习？",
-      "url": "https://news.ycombinator.com/item?id=50494696",
-      "primary_url": "https://news.ycombinator.com/item?id=50494696",
-      "source": "news.ycombinator.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "af26b892b996c1009eac8b284c5d29f9bcee6735",
-          "title": "Ask HN: 有哪些最实用、最具体的人工智能技能值得自主学习？",
-          "url": "https://news.ycombinator.com/item?id=50494696",
-          "source": "news.ycombinator.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-14T10:32:03.591000Z"
-        },
-        {
-          "id": "8397c6fbac3ec4acbfe3a759ea810ed848916345",
-          "title": "Ask HN: 有哪些最实用、最具体的人工智能技能值得自主学习？ / Ask HN: What are the most useful, concrete AI skills to independently learn?",
-          "url": "https://news.ycombinator.com/item?id=50494696",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-14T06:56:42Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "hackernews",
-        "news.ycombinator.com"
-      ],
-      "items": [
-        {
-          "id": "af26b892b996c1009eac8b284c5d29f9bcee6735",
-          "title": "Ask HN: 有哪些最实用、最具体的人工智能技能值得自主学习？",
-          "url": "https://news.ycombinator.com/item?id=50494696",
-          "source": "news.ycombinator.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-14T10:32:03.591000Z"
-        },
-        {
-          "id": "8397c6fbac3ec4acbfe3a759ea810ed848916345",
-          "title": "Ask HN: 有哪些最实用、最具体的人工智能技能值得自主学习？ / Ask HN: What are the most useful, concrete AI skills to independently learn?",
-          "url": "https://news.ycombinator.com/item?id=50494696",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-14T06:56:42Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4287,
-      "importance": 0.4287,
-      "importance_score": 0.4287,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.4035,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-14T06:56:42Z",
-      "latest_at": "2026-11-14T10:32:03.591000Z",
-      "primary_item": {
-        "id": "af26b892b996c1009eac8b284c5d29f9bcee6735",
-        "title": "Ask HN: 有哪些最实用、最具体的人工智能技能值得自主学习？",
-        "url": "https://news.ycombinator.com/item?id=50494696",
-        "source": "news.ycombinator.com",
-        "source_name": "Buzzing"
       }
     },
     {
@@ -934,14 +717,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4162,
-      "importance": 0.4162,
-      "importance_score": 0.4162,
+      "score": 0.3596,
+      "importance": 0.3596,
+      "importance_score": 0.3596,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.3411,
+        "recency": 0.0582,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -954,161 +737,6 @@
         "id": "6453f2cbd2443b0d35de063e9af28be692fd5758",
         "title": "[Claude] 请问上班族, 后端开发, 订阅 claude x5 还是 x20 ?",
         "url": "https://www.v2ex.com/t/1257062",
-        "source": "V2EX (创意工作者社区)",
-        "source_name": "Info Flow"
-      }
-    },
-    {
-      "story_id": "story_966f15c56a4e",
-      "title": "清华大学发布单细胞蛋白组基础模型 ProtCell，利用摩尔线程 S5000 智算卡成功完成「虚拟细胞」预训练复现",
-      "url": "https://www.ithome.com/1/027/148.htm",
-      "primary_url": "https://www.ithome.com/1/027/148.htm",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "24a57acbe00d52844c34d6d9230fd1453ba31a7d",
-          "title": "清华大学发布单细胞蛋白组基础模型 ProtCell，利用摩尔线程 S5000 智算卡成功完成「虚拟细胞」预训练复现",
-          "url": "https://www.ithome.com/1/027/148.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "331f9c8c1ab232e9afedbc9215522d05a9f09b6b",
-          "title": "清华大学发布单细胞蛋白组基础模型 ProtCell，利用摩尔线程 S5000 智算卡成功完成“虚拟细胞”预训练复现",
-          "url": "https://www.ithome.com/1/027/148.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-14T07:09:10Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "IT之家 (ITHome)",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "24a57acbe00d52844c34d6d9230fd1453ba31a7d",
-          "title": "清华大学发布单细胞蛋白组基础模型 ProtCell，利用摩尔线程 S5000 智算卡成功完成「虚拟细胞」预训练复现",
-          "url": "https://www.ithome.com/1/027/148.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "331f9c8c1ab232e9afedbc9215522d05a9f09b6b",
-          "title": "清华大学发布单细胞蛋白组基础模型 ProtCell，利用摩尔线程 S5000 智算卡成功完成“虚拟细胞”预训练复现",
-          "url": "https://www.ithome.com/1/027/148.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-14T07:09:10Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4233,
-      "importance": 0.4233,
-      "importance_score": 0.4233,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.3765,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-14T07:09:10Z",
-      "latest_at": "2026-11-14T09:53:07.261815Z",
-      "primary_item": {
-        "id": "24a57acbe00d52844c34d6d9230fd1453ba31a7d",
-        "title": "清华大学发布单细胞蛋白组基础模型 ProtCell，利用摩尔线程 S5000 智算卡成功完成「虚拟细胞」预训练复现",
-        "url": "https://www.ithome.com/1/027/148.htm",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_3bc9c9871dab",
-      "title": "[互联网] 大冰也开始搞 AI 了",
-      "url": "https://www.v2ex.com/t/1257059",
-      "primary_url": "https://www.v2ex.com/t/1257059",
-      "source": "V2EX (创意工作者社区)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "132edbb7110ba7bdd6e0dda6f7942244c860b10b",
-          "title": "[互联网] 大冰也开始搞 AI 了",
-          "url": "https://www.v2ex.com/t/1257059",
-          "source": "V2EX (创意工作者社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-14T08:44:27Z"
-        },
-        {
-          "id": "b166c2fab628b1b09f858338f3392fbdfe522d23",
-          "title": "[问与答] 大冰也开始搞 AI 了",
-          "url": "https://www.v2ex.com/t/1257059",
-          "source": "V2EX (创意工作者社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-14T08:44:27Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "V2EX (创意工作者社区)"
-      ],
-      "items": [
-        {
-          "id": "132edbb7110ba7bdd6e0dda6f7942244c860b10b",
-          "title": "[互联网] 大冰也开始搞 AI 了",
-          "url": "https://www.v2ex.com/t/1257059",
-          "source": "V2EX (创意工作者社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-14T08:44:27Z"
-        },
-        {
-          "id": "b166c2fab628b1b09f858338f3392fbdfe522d23",
-          "title": "[问与答] 大冰也开始搞 AI 了",
-          "url": "https://www.v2ex.com/t/1257059",
-          "source": "V2EX (创意工作者社区)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-14T08:44:27Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4138,
-      "importance": 0.4138,
-      "importance_score": 0.4138,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.3288,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-14T08:44:27Z",
-      "latest_at": "2026-11-14T08:44:27Z",
-      "primary_item": {
-        "id": "132edbb7110ba7bdd6e0dda6f7942244c860b10b",
-        "title": "[互联网] 大冰也开始搞 AI 了",
-        "url": "https://www.v2ex.com/t/1257059",
         "source": "V2EX (创意工作者社区)",
         "source_name": "Info Flow"
       }
@@ -1167,14 +795,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4233,
-      "importance": 0.4233,
-      "importance_score": 0.4233,
+      "score": 0.3667,
+      "importance": 0.3667,
+      "importance_score": 0.3667,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.3765,
+        "recency": 0.0937,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1192,159 +820,80 @@
       }
     },
     {
-      "story_id": "story_d68179c04d83",
-      "title": "劝爸妈别刷 AI 短剧，我太难了",
-      "url": "https://www.huxiu.com/article/4905557.html?f=rss",
-      "primary_url": "https://www.huxiu.com/article/4905557.html?f=rss",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
+      "story_id": "story_3bc9c9871dab",
+      "title": "[互联网] 大冰也开始搞 AI 了",
+      "url": "https://www.v2ex.com/t/1257059",
+      "primary_url": "https://www.v2ex.com/t/1257059",
+      "source": "V2EX (创意工作者社区)",
+      "source_name": "Info Flow",
       "sources": [
         {
-          "id": "cc3b373c340ba8fcb4290a4a2eb767acc126638e",
-          "title": "劝爸妈别刷 AI 短剧，我太难了",
-          "url": "https://www.huxiu.com/article/4905557.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "05b9b1a93601b9cd1afd85ab4ca77c4de7c21305",
-          "title": "劝爸妈别刷AI短剧，我太难了",
-          "url": "https://www.huxiu.com/article/4905557.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
+          "id": "132edbb7110ba7bdd6e0dda6f7942244c860b10b",
+          "title": "[互联网] 大冰也开始搞 AI 了",
+          "url": "https://www.v2ex.com/t/1257059",
+          "source": "V2EX (创意工作者社区)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-11-14T02:17:30Z"
+          "published_at": "2026-11-14T08:44:27Z"
+        },
+        {
+          "id": "b166c2fab628b1b09f858338f3392fbdfe522d23",
+          "title": "[问与答] 大冰也开始搞 AI 了",
+          "url": "https://www.v2ex.com/t/1257059",
+          "source": "V2EX (创意工作者社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-14T08:44:27Z"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Readhub · AI",
-        "虎嗅 (Huxiu)"
+        "V2EX (创意工作者社区)"
       ],
       "items": [
         {
-          "id": "cc3b373c340ba8fcb4290a4a2eb767acc126638e",
-          "title": "劝爸妈别刷 AI 短剧，我太难了",
-          "url": "https://www.huxiu.com/article/4905557.html?f=rss",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "05b9b1a93601b9cd1afd85ab4ca77c4de7c21305",
-          "title": "劝爸妈别刷AI短剧，我太难了",
-          "url": "https://www.huxiu.com/article/4905557.html?f=rss",
-          "source": "虎嗅 (Huxiu)",
+          "id": "132edbb7110ba7bdd6e0dda6f7942244c860b10b",
+          "title": "[互联网] 大冰也开始搞 AI 了",
+          "url": "https://www.v2ex.com/t/1257059",
+          "source": "V2EX (创意工作者社区)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-11-14T02:17:30Z"
+          "published_at": "2026-11-14T08:44:27Z"
+        },
+        {
+          "id": "b166c2fab628b1b09f858338f3392fbdfe522d23",
+          "title": "[问与答] 大冰也开始搞 AI 了",
+          "url": "https://www.v2ex.com/t/1257059",
+          "source": "V2EX (创意工作者社区)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-14T08:44:27Z"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.363,
-      "importance": 0.363,
-      "importance_score": 0.363,
+      "score": 0.3572,
+      "importance": 0.3572,
+      "importance_score": 0.3572,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.0751,
+        "recency": 0.046,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-11-14T02:17:30Z",
-      "latest_at": "2026-11-14T02:39:08.276064Z",
+      "earliest_at": "2026-11-14T08:44:27Z",
+      "latest_at": "2026-11-14T08:44:27Z",
       "primary_item": {
-        "id": "cc3b373c340ba8fcb4290a4a2eb767acc126638e",
-        "title": "劝爸妈别刷 AI 短剧，我太难了",
-        "url": "https://www.huxiu.com/article/4905557.html?f=rss",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_79f63ca20c9c",
-      "title": "苹果推送 tvOS 27.2.1 更新，第二/第三代 Apple TV 4K 新增 Siri AI 支持",
-      "url": "https://www.ithome.com/1/027/052.htm",
-      "primary_url": "https://www.ithome.com/1/027/052.htm",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "f45d53f4d34ac822d1ca5b78c46de372e02a917c",
-          "title": "苹果推送 tvOS 27.2.1 更新，第二/第三代 Apple TV 4K 新增 Siri AI 支持",
-          "url": "https://www.ithome.com/1/027/052.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "460af1b921ba1b882a41691f8078e2796131eafb",
-          "title": "苹果推送 tvOS 27.2.1 更新，第二 / 第三代 Apple TV 4K 新增 Siri AI 支持",
-          "url": "https://www.ithome.com/1/027/052.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-14T02:11:43Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "IT之家 (ITHome)",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "f45d53f4d34ac822d1ca5b78c46de372e02a917c",
-          "title": "苹果推送 tvOS 27.2.1 更新，第二/第三代 Apple TV 4K 新增 Siri AI 支持",
-          "url": "https://www.ithome.com/1/027/052.htm",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "460af1b921ba1b882a41691f8078e2796131eafb",
-          "title": "苹果推送 tvOS 27.2.1 更新，第二 / 第三代 Apple TV 4K 新增 Siri AI 支持",
-          "url": "https://www.ithome.com/1/027/052.htm",
-          "source": "IT之家 (ITHome)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-14T02:11:43Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.363,
-      "importance": 0.363,
-      "importance_score": 0.363,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.0751,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-14T02:11:43Z",
-      "latest_at": "2026-11-14T02:39:08.276064Z",
-      "primary_item": {
-        "id": "f45d53f4d34ac822d1ca5b78c46de372e02a917c",
-        "title": "苹果推送 tvOS 27.2.1 更新，第二/第三代 Apple TV 4K 新增 Siri AI 支持",
-        "url": "https://www.ithome.com/1/027/052.htm",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
+        "id": "132edbb7110ba7bdd6e0dda6f7942244c860b10b",
+        "title": "[互联网] 大冰也开始搞 AI 了",
+        "url": "https://www.v2ex.com/t/1257059",
+        "source": "V2EX (创意工作者社区)",
+        "source_name": "Info Flow"
       }
     }
   ]
