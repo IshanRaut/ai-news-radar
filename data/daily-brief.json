@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-21T19:58:09.592074Z",
+  "generated_at": "2026-11-22T00:14:30.138723Z",
   "window_hours": 24,
-  "total_items": 17,
+  "total_items": 11,
   "items": [
     {
       "story_id": "story_4ba691da3f40",
@@ -38,14 +38,14 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8022,
-      "importance": 0.8022,
-      "importance_score": 0.8022,
+      "score": 0.7666,
+      "importance": 0.7666,
+      "importance_score": 0.7666,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9509,
+        "recency": 0.7729,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -64,62 +64,236 @@
       }
     },
     {
-      "story_id": "story_7854d1850cfb",
-      "title": "Anthropic 数学家称与 Claude 完成黎曼猜想证明，斯坦福数小时后发布纯人类竞争草稿",
-      "url": "https://aihot.news/items/tje8i8y21ttk7jjmqet5bpxuq",
-      "primary_url": "https://aihot.news/items/tje8i8y21ttk7jjmqet5bpxuq",
-      "source": "The Decoder：AI News",
-      "source_name": "AI HOT",
+      "story_id": "story_6cbde97d8260",
+      "title": "NUS 发布 System One 模型评测基准：能力有多宽，决策有多稳？",
+      "url": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA%3D%3D&mid=2652744403&idx=3&sn=610ee99532640e168a41124b324d04d8",
+      "primary_url": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA%3D%3D&mid=2652744403&idx=3&sn=610ee99532640e168a41124b324d04d8",
+      "source": "Readhub · AI",
+      "source_name": "TopHub",
       "sources": [
         {
-          "id": "41c52fb1a986b470781fc1361681273dbe70ea22",
-          "title": "Anthropic 数学家称与 Claude 完成黎曼猜想证明，斯坦福数小时后发布纯人类竞争草稿",
-          "url": "https://aihot.news/items/tje8i8y21ttk7jjmqet5bpxuq",
-          "source": "The Decoder：AI News",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-11-21T11:19:49Z"
+          "id": "5c77b13758a5acd049ba610d4e824238da1d4e75",
+          "title": "NUS 发布 System One 模型评测基准：能力有多宽，决策有多稳？",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA%3D%3D&mid=2652744403&idx=3&sn=610ee99532640e168a41124b324d04d8",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "dd22c79cc893baab66c6447f20c43383625d87f3",
+          "title": "NeurIPS 2026 | 大模型抗遗忘新范式：「先微调，后矫正」实现无遗忘等价条件",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651075671&idx=2&sn=7a5643ece9baba036b9f3fd9cfb351e3",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "The Decoder：AI News"
+        "Readhub · AI"
       ],
       "items": [
         {
-          "id": "41c52fb1a986b470781fc1361681273dbe70ea22",
-          "title": "Anthropic 数学家称与 Claude 完成黎曼猜想证明，斯坦福数小时后发布纯人类竞争草稿",
-          "url": "https://aihot.news/items/tje8i8y21ttk7jjmqet5bpxuq",
-          "source": "The Decoder：AI News",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-11-21T11:19:49Z"
+          "id": "5c77b13758a5acd049ba610d4e824238da1d4e75",
+          "title": "NUS 发布 System One 模型评测基准：能力有多宽，决策有多稳？",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA%3D%3D&mid=2652744403&idx=3&sn=610ee99532640e168a41124b324d04d8",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
+        },
+        {
+          "id": "dd22c79cc893baab66c6447f20c43383625d87f3",
+          "title": "NeurIPS 2026 | 大模型抗遗忘新范式：「先微调，后矫正」实现无遗忘等价条件",
+          "url": "https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw%3D%3D&mid=2651075671&idx=2&sn=7a5643ece9baba036b9f3fd9cfb351e3",
+          "source": "Readhub · AI",
+          "source_name": "TopHub",
+          "site_id": "tophub",
+          "published_at": null
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.74,
-      "importance": 0.74,
-      "importance_score": 0.74,
-      "importance_label": "行业动态",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.548,
+      "importance": 0.548,
+      "importance_score": 0.548,
+      "importance_label": "值得关注",
       "importance_breakdown": {
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.64,
-        "story_heat": 0.0
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
       },
-      "category": "industry",
+      "category": "watch",
       "reasons": [
-        "high_ai_relevance"
+        "multi_source"
       ],
-      "earliest_at": "2026-11-21T11:19:49Z",
-      "latest_at": "2026-11-21T11:19:49Z",
+      "earliest_at": "2026-11-22T00:14:30.138723Z",
+      "latest_at": "2026-11-22T00:14:30.138723Z",
       "primary_item": {
-        "id": "41c52fb1a986b470781fc1361681273dbe70ea22",
-        "title": "Anthropic 数学家称与 Claude 完成黎曼猜想证明，斯坦福数小时后发布纯人类竞争草稿",
-        "url": "https://aihot.news/items/tje8i8y21ttk7jjmqet5bpxuq",
-        "source": "The Decoder：AI News",
-        "source_name": "AI HOT"
+        "id": "5c77b13758a5acd049ba610d4e824238da1d4e75",
+        "title": "NUS 发布 System One 模型评测基准：能力有多宽，决策有多稳？",
+        "url": "https://mp.weixin.qq.com/s?__biz=MzI3MTA0MTk1MA%3D%3D&mid=2652744403&idx=3&sn=610ee99532640e168a41124b324d04d8",
+        "source": "Readhub · AI",
+        "source_name": "TopHub"
+      }
+    },
+    {
+      "story_id": "story_158994b8ae4e",
+      "title": "关于管控自主武器使用的国际谈判破裂 / International UN talks on controlling use of autonomous weapons collapse",
+      "url": "https://www.theguardian.com/technology/2026/nov/21/international-talks-control-ai-autonomous-weapons-collapse",
+      "primary_url": "https://www.theguardian.com/technology/2026/nov/21/international-talks-control-ai-autonomous-weapons-collapse",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "8691b4d540d5f8bdb47270661d603d7cbc1941fa",
+          "title": "关于管控自主武器使用的国际谈判破裂 / International UN talks on controlling use of autonomous weapons collapse",
+          "url": "https://www.theguardian.com/technology/2026/nov/21/international-talks-control-ai-autonomous-weapons-collapse",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-21T23:10:21Z"
+        },
+        {
+          "id": "eb4418d80d6b9912e5df86e79737c60871653fb8",
+          "title": "联合国关于控制自主武器使用的国际谈判破裂 / International UN talks on controlling use of autonomous weapons collapse",
+          "url": "https://news.ycombinator.com/item?id=50594564",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-21T23:10:21Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "8691b4d540d5f8bdb47270661d603d7cbc1941fa",
+          "title": "关于管控自主武器使用的国际谈判破裂 / International UN talks on controlling use of autonomous weapons collapse",
+          "url": "https://www.theguardian.com/technology/2026/nov/21/international-talks-control-ai-autonomous-weapons-collapse",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-21T23:10:21Z"
+        },
+        {
+          "id": "eb4418d80d6b9912e5df86e79737c60871653fb8",
+          "title": "联合国关于控制自主武器使用的国际谈判破裂 / International UN talks on controlling use of autonomous weapons collapse",
+          "url": "https://news.ycombinator.com/item?id=50594564",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-21T23:10:21Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5391,
+      "importance": 0.5391,
+      "importance_score": 0.5391,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9554,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-21T23:10:21Z",
+      "latest_at": "2026-11-21T23:10:21Z",
+      "primary_item": {
+        "id": "8691b4d540d5f8bdb47270661d603d7cbc1941fa",
+        "title": "关于管控自主武器使用的国际谈判破裂 / International UN talks on controlling use of autonomous weapons collapse",
+        "url": "https://www.theguardian.com/technology/2026/nov/21/international-talks-control-ai-autonomous-weapons-collapse",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
+      }
+    },
+    {
+      "story_id": "story_cfea722a5658",
+      "title": "Pandex——基于 MCP 的人工智能代理欧洲官方法律 / Pandex – Official European Law for AI Agents, over MCP",
+      "url": "https://www.pandex.io",
+      "primary_url": "https://www.pandex.io",
+      "source": "Hacker News (黑客新闻)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "909d7442088e87203136232133bfd76c1ddde102",
+          "title": "Pandex——基于 MCP 的人工智能代理欧洲官方法律 / Pandex – Official European Law for AI Agents, over MCP",
+          "url": "https://www.pandex.io",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-21T20:47:41Z"
+        },
+        {
+          "id": "368ac638dc0ce02c1d0bde0fa3e0a39bfd660edd",
+          "title": "Pandex——基于 MCP 的人工智能代理欧洲官方法律 / Pandex – Official European Law for AI Agents, over MCP",
+          "url": "https://news.ycombinator.com/item?id=50593481",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-21T20:47:41Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "909d7442088e87203136232133bfd76c1ddde102",
+          "title": "Pandex——基于 MCP 的人工智能代理欧洲官方法律 / Pandex – Official European Law for AI Agents, over MCP",
+          "url": "https://www.pandex.io",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-21T20:47:41Z"
+        },
+        {
+          "id": "368ac638dc0ce02c1d0bde0fa3e0a39bfd660edd",
+          "title": "Pandex——基于 MCP 的人工智能代理欧洲官方法律 / Pandex – Official European Law for AI Agents, over MCP",
+          "url": "https://news.ycombinator.com/item?id=50593481",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-21T20:47:41Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5193,
+      "importance": 0.5193,
+      "importance_score": 0.5193,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8564,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-21T20:47:41Z",
+      "latest_at": "2026-11-21T20:47:41Z",
+      "primary_item": {
+        "id": "909d7442088e87203136232133bfd76c1ddde102",
+        "title": "Pandex——基于 MCP 的人工智能代理欧洲官方法律 / Pandex – Official European Law for AI Agents, over MCP",
+        "url": "https://www.pandex.io",
+        "source": "Hacker News (黑客新闻)",
+        "source_name": "Info Flow"
       }
     },
     {
@@ -176,14 +350,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5243,
-      "importance": 0.5243,
-      "importance_score": 0.5243,
+      "score": 0.4887,
+      "importance": 0.4887,
+      "importance_score": 0.4887,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8816,
+        "recency": 0.7036,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -273,14 +447,14 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.516,
-      "importance": 0.516,
-      "importance_score": 0.516,
+      "score": 0.4804,
+      "importance": 0.4804,
+      "importance_score": 0.4804,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7151,
+        "recency": 0.5371,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -295,6 +469,84 @@
         "url": "http://ricapar.net/ClawDOS",
         "source": "ricapar.net",
         "source_name": "Buzzing"
+      }
+    },
+    {
+      "story_id": "story_6d859339b158",
+      "title": "Upload2Shell (CVE-2026-125396)",
+      "url": "https://pwn.ai/upload2shell",
+      "primary_url": "https://pwn.ai/upload2shell",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "c55f964e307c27286cef824965090823d74c5fa4",
+          "title": "Upload2Shell (CVE-2026-125396)",
+          "url": "https://pwn.ai/upload2shell",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-21T18:29:29Z"
+        },
+        {
+          "id": "291eb99bb7c3f35df9c13e8ff28c1eb6151d06d4",
+          "title": "Upload2Shell · CVE-2026-125396",
+          "url": "https://pwn.ai/upload2shell",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-21T18:29:29Z"
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热"
+      ],
+      "items": [
+        {
+          "id": "c55f964e307c27286cef824965090823d74c5fa4",
+          "title": "Upload2Shell (CVE-2026-125396)",
+          "url": "https://pwn.ai/upload2shell",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-21T18:29:29Z"
+        },
+        {
+          "id": "291eb99bb7c3f35df9c13e8ff28c1eb6151d06d4",
+          "title": "Upload2Shell · CVE-2026-125396",
+          "url": "https://pwn.ai/upload2shell",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-21T18:29:29Z"
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5001,
+      "importance": 0.5001,
+      "importance_score": 0.5001,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.7604,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-21T18:29:29Z",
+      "latest_at": "2026-11-21T18:29:29Z",
+      "primary_item": {
+        "id": "c55f964e307c27286cef824965090823d74c5fa4",
+        "title": "Upload2Shell (CVE-2026-125396)",
+        "url": "https://pwn.ai/upload2shell",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
       }
     },
     {
@@ -351,14 +603,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5243,
-      "importance": 0.5243,
-      "importance_score": 0.5243,
+      "score": 0.4887,
+      "importance": 0.4887,
+      "importance_score": 0.4887,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8816,
+        "recency": 0.7036,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -429,14 +681,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4892,
-      "importance": 0.4892,
-      "importance_score": 0.4892,
+      "score": 0.4536,
+      "importance": 0.4536,
+      "importance_score": 0.4536,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7061,
+        "recency": 0.5281,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -507,14 +759,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5021,
-      "importance": 0.5021,
-      "importance_score": 0.5021,
+      "score": 0.4665,
+      "importance": 0.4665,
+      "importance_score": 0.4665,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7707,
+        "recency": 0.5927,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -528,315 +780,6 @@
         "title": "一位正在出售一栋价值3000万美元的洛杉矶豪宅的开发商解释了为何愿意接受Anthropic股票作为付款方式",
         "url": "https://www.businessinsider.com/thirty-million-la-mansion-accepts-anthropic-shares-as-payment-2026-11",
         "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_6e086317ffb3",
-      "title": "存在漏洞的人工智能供应链正以令人震惊的速度泄露用户的机密数据 / Leaky AI supply chain is exposing secret user data at an alarming rate",
-      "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate",
-      "primary_url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "d70ff9f697e713fc369b928d4cbbddb9c9b0fa4b",
-          "title": "存在漏洞的人工智能供应链正以令人震惊的速度泄露用户的机密数据 / Leaky AI supply chain is exposing secret user data at an alarming rate",
-          "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-20T21:53:39Z"
-        },
-        {
-          "id": "28f6af239630408ca28e45890037421894e9fc82",
-          "title": "存在漏洞的人工智能供应链正以令人震惊的速度泄露用户的机密数据",
-          "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate",
-          "source": "arstechnica.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-20T21:12:51.754000Z"
-        },
-        {
-          "id": "ba9fbf177295d65953d03b2005b627fa3d3bbbb4",
-          "title": "存在漏洞的人工智能供应链正以令人震惊的速度泄露用户的机密数据 / A leaky AI supply chain is exposing secret user data at an alarming rate",
-          "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate",
-          "source": "Ars Technica",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-11-20T20:59:08Z"
-        },
-        {
-          "id": "3676c675b1df2e2619f9f9030e7c7d6b61ae370a",
-          "title": "存在漏洞的人工智能供应链正以令人震惊的速度泄露用户的机密数据 / Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
-          "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate",
-          "source": "Ars Technica (科技媒体)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-20T20:59:08Z"
-        }
-      ],
-      "source_count": 4,
-      "source_names": [
-        "Ars Technica",
-        "Ars Technica (科技媒体)",
-        "Hacker News · 24h最热",
-        "arstechnica.com"
-      ],
-      "items": [
-        {
-          "id": "d70ff9f697e713fc369b928d4cbbddb9c9b0fa4b",
-          "title": "存在漏洞的人工智能供应链正以令人震惊的速度泄露用户的机密数据 / Leaky AI supply chain is exposing secret user data at an alarming rate",
-          "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-20T21:53:39Z"
-        },
-        {
-          "id": "28f6af239630408ca28e45890037421894e9fc82",
-          "title": "存在漏洞的人工智能供应链正以令人震惊的速度泄露用户的机密数据",
-          "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate",
-          "source": "arstechnica.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-20T21:12:51.754000Z"
-        },
-        {
-          "id": "ba9fbf177295d65953d03b2005b627fa3d3bbbb4",
-          "title": "存在漏洞的人工智能供应链正以令人震惊的速度泄露用户的机密数据 / A leaky AI supply chain is exposing secret user data at an alarming rate",
-          "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate",
-          "source": "Ars Technica",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-11-20T20:59:08Z"
-        },
-        {
-          "id": "3676c675b1df2e2619f9f9030e7c7d6b61ae370a",
-          "title": "存在漏洞的人工智能供应链正以令人震惊的速度泄露用户的机密数据 / Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
-          "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate",
-          "source": "Ars Technica (科技媒体)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-20T20:59:08Z"
-        }
-      ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.414,
-      "importance": 0.414,
-      "importance_score": 0.414,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.0802,
-        "story_heat": 0.75
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-20T20:59:08Z",
-      "latest_at": "2026-11-20T21:53:39Z",
-      "primary_item": {
-        "id": "d70ff9f697e713fc369b928d4cbbddb9c9b0fa4b",
-        "title": "存在漏洞的人工智能供应链正以令人震惊的速度泄露用户的机密数据 / Leaky AI supply chain is exposing secret user data at an alarming rate",
-        "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
-      }
-    },
-    {
-      "story_id": "story_5d3c25a64fe3",
-      "title": "在人工智能解决数学问题的一年里，Anthropic 可能刚刚解决了最大的",
-      "url": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o?at_medium=RSS&at_campaign=rss",
-      "primary_url": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o?at_medium=RSS&at_campaign=rss",
-      "source": "www.bbc.co.uk",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "1fc419ff42c1c4edd3725db1bebdf4876f9d58fb",
-          "title": "在人工智能解决数学问题的一年里，Anthropic 可能刚刚解决了最大的",
-          "url": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o?at_medium=RSS&at_campaign=rss",
-          "source": "www.bbc.co.uk",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-20T23:34:58.378000Z"
-        },
-        {
-          "id": "f8d1dee40cf5b1409a6b7fcd35604131716d928c",
-          "title": "在人工智能解决数学问题的一年里，Anthropic 可能刚刚解决了最大的 / In a year of AI solving maths problems, Anthropic may have just solved the biggest",
-          "url": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News (世界新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-20T23:08:57Z"
-        },
-        {
-          "id": "89a2e924edeb8aa73ea6bf1fe1b11b782d33843e",
-          "title": "在人工智能解决数学问题的一年里，Anthropic 可能刚刚解决了最大的 / In a year of AI solving maths problems, an Anthropic worker says he may have cracked the biggest",
-          "url": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News (世界新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-20T23:08:57Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "BBC News (世界新闻)",
-        "www.bbc.co.uk"
-      ],
-      "items": [
-        {
-          "id": "1fc419ff42c1c4edd3725db1bebdf4876f9d58fb",
-          "title": "在人工智能解决数学问题的一年里，Anthropic 可能刚刚解决了最大的",
-          "url": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o?at_medium=RSS&at_campaign=rss",
-          "source": "www.bbc.co.uk",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-20T23:34:58.378000Z"
-        },
-        {
-          "id": "f8d1dee40cf5b1409a6b7fcd35604131716d928c",
-          "title": "在人工智能解决数学问题的一年里，Anthropic 可能刚刚解决了最大的 / In a year of AI solving maths problems, Anthropic may have just solved the biggest",
-          "url": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News (世界新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-20T23:08:57Z"
-        },
-        {
-          "id": "89a2e924edeb8aa73ea6bf1fe1b11b782d33843e",
-          "title": "在人工智能解决数学问题的一年里，Anthropic 可能刚刚解决了最大的 / In a year of AI solving maths problems, an Anthropic worker says he may have cracked the biggest",
-          "url": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News (世界新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-20T23:08:57Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.4031,
-      "importance": 0.4031,
-      "importance_score": 0.4031,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.1506,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-20T23:08:57Z",
-      "latest_at": "2026-11-20T23:34:58.378000Z",
-      "primary_item": {
-        "id": "1fc419ff42c1c4edd3725db1bebdf4876f9d58fb",
-        "title": "在人工智能解决数学问题的一年里，Anthropic 可能刚刚解决了最大的",
-        "url": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o?at_medium=RSS&at_campaign=rss",
-        "source": "www.bbc.co.uk",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_4d6c192ff862",
-      "title": "谷歌推出全新搜索主页，包含AI聊天记录且没有搜索按钮",
-      "url": "https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar",
-      "primary_url": "https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar",
-      "source": "arstechnica.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "ac4c0fd7d95208cd5382c64221775178277684bd",
-          "title": "谷歌推出全新搜索主页，包含AI聊天记录且没有搜索按钮",
-          "url": "https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar",
-          "source": "arstechnica.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-20T22:15:54.395000Z"
-        },
-        {
-          "id": "f11063f39c65d2f07040c2d7a1fc7aa422cb56c0",
-          "title": "谷歌推出全新搜索主页，包含AI聊天记录且没有搜索按钮 / Google rolls out new search homepage with AI chat history and no search button",
-          "url": "https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar",
-          "source": "Ars Technica (科技媒体)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-20T21:58:29Z"
-        },
-        {
-          "id": "25cfdb8f1afb2581168495415b47525afde38694",
-          "title": "谷歌推出全新搜索主页，包含AI聊天记录且没有搜索按钮 / Google's latest search page redesign drops the search button, adds AI sidebar",
-          "url": "https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar",
-          "source": "Ars Technica",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-11-20T21:58:29Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Ars Technica",
-        "Ars Technica (科技媒体)",
-        "arstechnica.com"
-      ],
-      "items": [
-        {
-          "id": "ac4c0fd7d95208cd5382c64221775178277684bd",
-          "title": "谷歌推出全新搜索主页，包含AI聊天记录且没有搜索按钮",
-          "url": "https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar",
-          "source": "arstechnica.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-20T22:15:54.395000Z"
-        },
-        {
-          "id": "f11063f39c65d2f07040c2d7a1fc7aa422cb56c0",
-          "title": "谷歌推出全新搜索主页，包含AI聊天记录且没有搜索按钮 / Google rolls out new search homepage with AI chat history and no search button",
-          "url": "https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar",
-          "source": "Ars Technica (科技媒体)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-20T21:58:29Z"
-        },
-        {
-          "id": "25cfdb8f1afb2581168495415b47525afde38694",
-          "title": "谷歌推出全新搜索主页，包含AI聊天记录且没有搜索按钮 / Google's latest search page redesign drops the search button, adds AI sidebar",
-          "url": "https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar",
-          "source": "Ars Technica",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-11-20T21:58:29Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.3921,
-      "importance": 0.3921,
-      "importance_score": 0.3921,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.0957,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-20T21:58:29Z",
-      "latest_at": "2026-11-20T22:15:54.395000Z",
-      "primary_item": {
-        "id": "ac4c0fd7d95208cd5382c64221775178277684bd",
-        "title": "谷歌推出全新搜索主页，包含AI聊天记录且没有搜索按钮",
-        "url": "https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar",
-        "source": "arstechnica.com",
         "source_name": "Buzzing"
       }
     },
@@ -894,14 +837,14 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4163,
-      "importance": 0.4163,
-      "importance_score": 0.4163,
+      "score": 0.3807,
+      "importance": 0.3807,
+      "importance_score": 0.3807,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.3416,
+        "recency": 0.1636,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -916,474 +859,6 @@
         "url": "https://www.ithome.com/1/030/322.htm",
         "source": "Readhub · AI",
         "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_956f406f46c1",
-      "title": "饥饿的管家效应：法学硕士隐藏的商业激励 / The Hungry Butler Effect: Concealed Commercial Incentives in LLMs",
-      "url": "https://www.researchgate.net/publication/418143113_The_Hungry_Butler_Effect_Concealed_Commercial_Incentives_and_the_Erosion_of_Epistemic_Rigour_in_Large_Language_Models",
-      "primary_url": "https://www.researchgate.net/publication/418143113_The_Hungry_Butler_Effect_Concealed_Commercial_Incentives_and_the_Erosion_of_Epistemic_Rigour_in_Large_Language_Models",
-      "source": "Hacker News (黑客新闻)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "e7ee900527cc72a872a83af0cb9c771ea1b78084",
-          "title": "饥饿的管家效应：法学硕士隐藏的商业激励 / The Hungry Butler Effect: Concealed Commercial Incentives in LLMs",
-          "url": "https://www.researchgate.net/publication/418143113_The_Hungry_Butler_Effect_Concealed_Commercial_Incentives_and_the_Erosion_of_Epistemic_Rigour_in_Large_Language_Models",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-20T22:18:20Z"
-        },
-        {
-          "id": "dd7e533b4ca9749bdc752be11f5fefe2f686ec3b",
-          "title": "饥饿的管家效应：法学硕士隐藏的商业激励 / The Hungry Butler Effect: Concealed Commercial Incentives in LLMs",
-          "url": "https://news.ycombinator.com/item?id=50583117",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-20T22:18:20Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "e7ee900527cc72a872a83af0cb9c771ea1b78084",
-          "title": "饥饿的管家效应：法学硕士隐藏的商业激励 / The Hungry Butler Effect: Concealed Commercial Incentives in LLMs",
-          "url": "https://www.researchgate.net/publication/418143113_The_Hungry_Butler_Effect_Concealed_Commercial_Incentives_and_the_Erosion_of_Epistemic_Rigour_in_Large_Language_Models",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-20T22:18:20Z"
-        },
-        {
-          "id": "dd7e533b4ca9749bdc752be11f5fefe2f686ec3b",
-          "title": "饥饿的管家效应：法学硕士隐藏的商业激励 / The Hungry Butler Effect: Concealed Commercial Incentives in LLMs",
-          "url": "https://news.ycombinator.com/item?id=50583117",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-20T22:18:20Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.3675,
-      "importance": 0.3675,
-      "importance_score": 0.3675,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.0973,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-20T22:18:20Z",
-      "latest_at": "2026-11-20T22:18:20Z",
-      "primary_item": {
-        "id": "e7ee900527cc72a872a83af0cb9c771ea1b78084",
-        "title": "饥饿的管家效应：法学硕士隐藏的商业激励 / The Hungry Butler Effect: Concealed Commercial Incentives in LLMs",
-        "url": "https://www.researchgate.net/publication/418143113_The_Hungry_Butler_Effect_Concealed_Commercial_Incentives_and_the_Erosion_of_Epistemic_Rigour_in_Large_Language_Models",
-        "source": "Hacker News (黑客新闻)",
-        "source_name": "Info Flow"
-      }
-    },
-    {
-      "story_id": "story_4fa85ae7ae72",
-      "title": "特朗普威胁要禁止美国企业在海外建设人工智能数据中心 / Trump threatens ban on US firms building AI data centres overseas",
-      "url": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss",
-      "primary_url": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss",
-      "source": "BBC News (世界新闻)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "554594b0be050e68be2336152a56c855eb1f4fd8",
-          "title": "特朗普威胁要禁止美国企业在海外建设人工智能数据中心 / Trump threatens ban on US firms building AI data centres overseas",
-          "url": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News (世界新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-20T20:54:12Z"
-        },
-        {
-          "id": "d957ca50c3125f1016c569c4c22c7700220deb8b",
-          "title": "特朗普威胁要禁止美国企业在海外建设人工智能数据中心",
-          "url": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss",
-          "source": "www.bbc.co.uk",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-20T20:08:48.040000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "BBC News (世界新闻)",
-        "www.bbc.co.uk"
-      ],
-      "items": [
-        {
-          "id": "554594b0be050e68be2336152a56c855eb1f4fd8",
-          "title": "特朗普威胁要禁止美国企业在海外建设人工智能数据中心 / Trump threatens ban on US firms building AI data centres overseas",
-          "url": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss",
-          "source": "BBC News (世界新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-20T20:54:12Z"
-        },
-        {
-          "id": "d957ca50c3125f1016c569c4c22c7700220deb8b",
-          "title": "特朗普威胁要禁止美国企业在海外建设人工智能数据中心",
-          "url": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss",
-          "source": "www.bbc.co.uk",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-20T20:08:48.040000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.3558,
-      "importance": 0.3558,
-      "importance_score": 0.3558,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.0389,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-20T20:08:48.040000Z",
-      "latest_at": "2026-11-20T20:54:12Z",
-      "primary_item": {
-        "id": "554594b0be050e68be2336152a56c855eb1f4fd8",
-        "title": "特朗普威胁要禁止美国企业在海外建设人工智能数据中心 / Trump threatens ban on US firms building AI data centres overseas",
-        "url": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss",
-        "source": "BBC News (世界新闻)",
-        "source_name": "Info Flow"
-      }
-    },
-    {
-      "story_id": "story_7f78d7354514",
-      "title": "人工智能可能已经解决了数学领域中最重要的一道题 / AI may have solved the most important problem in mathematics",
-      "url": "https://www.economist.com/science-and-technology/2026/11/20/ai-may-have-solved-the-most-important-problem-in-mathematics",
-      "primary_url": "https://www.economist.com/science-and-technology/2026/11/20/ai-may-have-solved-the-most-important-problem-in-mathematics",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "aeef49cdb5db5e20e1b48eff58263d40a3794cd1",
-          "title": "人工智能可能已经解决了数学领域中最重要的一道题 / AI may have solved the most important problem in mathematics",
-          "url": "https://www.economist.com/science-and-technology/2026/11/20/ai-may-have-solved-the-most-important-problem-in-mathematics",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-20T22:46:59Z"
-        },
-        {
-          "id": "b541e646d96c2e85906ab7faa674891db195cbc6",
-          "title": "人工智能可能已经解决了数学领域中最重要的一道题",
-          "url": "https://www.economist.com/science-and-technology/2026/11/20/ai-may-have-solved-the-most-important-problem-in-mathematics",
-          "source": "www.economist.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-20T21:59:44.577000Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "www.economist.com"
-      ],
-      "items": [
-        {
-          "id": "aeef49cdb5db5e20e1b48eff58263d40a3794cd1",
-          "title": "人工智能可能已经解决了数学领域中最重要的一道题 / AI may have solved the most important problem in mathematics",
-          "url": "https://www.economist.com/science-and-technology/2026/11/20/ai-may-have-solved-the-most-important-problem-in-mathematics",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-20T22:46:59Z"
-        },
-        {
-          "id": "b541e646d96c2e85906ab7faa674891db195cbc6",
-          "title": "人工智能可能已经解决了数学领域中最重要的一道题",
-          "url": "https://www.economist.com/science-and-technology/2026/11/20/ai-may-have-solved-the-most-important-problem-in-mathematics",
-          "source": "www.economist.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-20T21:59:44.577000Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.3714,
-      "importance": 0.3714,
-      "importance_score": 0.3714,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.1172,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-20T21:59:44.577000Z",
-      "latest_at": "2026-11-20T22:46:59Z",
-      "primary_item": {
-        "id": "aeef49cdb5db5e20e1b48eff58263d40a3794cd1",
-        "title": "人工智能可能已经解决了数学领域中最重要的一道题 / AI may have solved the most important problem in mathematics",
-        "url": "https://www.economist.com/science-and-technology/2026/11/20/ai-may-have-solved-the-most-important-problem-in-mathematics",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
-      }
-    },
-    {
-      "story_id": "story_8bc8fed2fbe6",
-      "title": "随着人工智能数据中心排放量创下新高，Meta重新审视2030年净零排放目标",
-      "url": "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers",
-      "primary_url": "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers",
-      "source": "arstechnica.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "da82f02d075d6278a1b1ae597922c9579393c1cd",
-          "title": "随着人工智能数据中心排放量创下新高，Meta重新审视2030年净零排放目标",
-          "url": "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers",
-          "source": "arstechnica.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-20T21:59:45.100000Z"
-        },
-        {
-          "id": "f6b9d6d5c4654c223f9c4b4b01d857077cd90d10",
-          "title": "随着人工智能数据中心排放量创下新高，Meta重新审视2030年净零排放目标 / Meta reconsiders 2030 net-zero goal amid record emissions from AI data centers",
-          "url": "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers",
-          "source": "Ars Technica",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-11-20T21:47:10Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Ars Technica",
-        "arstechnica.com"
-      ],
-      "items": [
-        {
-          "id": "da82f02d075d6278a1b1ae597922c9579393c1cd",
-          "title": "随着人工智能数据中心排放量创下新高，Meta重新审视2030年净零排放目标",
-          "url": "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers",
-          "source": "arstechnica.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-20T21:59:45.100000Z"
-        },
-        {
-          "id": "f6b9d6d5c4654c223f9c4b4b01d857077cd90d10",
-          "title": "随着人工智能数据中心排放量创下新高，Meta重新审视2030年净零排放目标 / Meta reconsiders 2030 net-zero goal amid record emissions from AI data centers",
-          "url": "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers",
-          "source": "Ars Technica",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-11-20T21:47:10Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.3649,
-      "importance": 0.3649,
-      "importance_score": 0.3649,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.0844,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-20T21:47:10Z",
-      "latest_at": "2026-11-20T21:59:45.100000Z",
-      "primary_item": {
-        "id": "da82f02d075d6278a1b1ae597922c9579393c1cd",
-        "title": "随着人工智能数据中心排放量创下新高，Meta重新审视2030年净零排放目标",
-        "url": "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers",
-        "source": "arstechnica.com",
-        "source_name": "Buzzing"
-      }
-    },
-    {
-      "story_id": "story_3ea993db7e3c",
-      "title": "OpenAI 应对对抗性蒸馏的分层策略",
-      "url": "https://openai.com/index/combatting-adversarial-distillation",
-      "primary_url": "https://openai.com/index/combatting-adversarial-distillation",
-      "source": "Readhub · AI",
-      "source_name": "TopHub",
-      "sources": [
-        {
-          "id": "9450a2a6876b212df7b02ad48bfe43546ed7c265",
-          "title": "OpenAI 应对对抗性蒸馏的分层策略",
-          "url": "https://openai.com/index/combatting-adversarial-distillation",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "6db5aba5be669b20704711face152da683dbb891",
-          "title": "OpenAI 应对对抗性蒸馏的分层策略 / Combatting adversarial distillation",
-          "url": "https://openai.com/index/combatting-adversarial-distillation",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-20T20:11:14Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "Readhub · AI"
-      ],
-      "items": [
-        {
-          "id": "9450a2a6876b212df7b02ad48bfe43546ed7c265",
-          "title": "OpenAI 应对对抗性蒸馏的分层策略",
-          "url": "https://openai.com/index/combatting-adversarial-distillation",
-          "source": "Readhub · AI",
-          "source_name": "TopHub",
-          "site_id": "tophub",
-          "published_at": null
-        },
-        {
-          "id": "6db5aba5be669b20704711face152da683dbb891",
-          "title": "OpenAI 应对对抗性蒸馏的分层策略 / Combatting adversarial distillation",
-          "url": "https://openai.com/index/combatting-adversarial-distillation",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-20T20:11:14Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.3755,
-      "importance": 0.3755,
-      "importance_score": 0.3755,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.1376,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-20T20:11:14Z",
-      "latest_at": "2026-11-20T23:16:21.921872Z",
-      "primary_item": {
-        "id": "9450a2a6876b212df7b02ad48bfe43546ed7c265",
-        "title": "OpenAI 应对对抗性蒸馏的分层策略",
-        "url": "https://openai.com/index/combatting-adversarial-distillation",
-        "source": "Readhub · AI",
-        "source_name": "TopHub"
-      }
-    },
-    {
-      "story_id": "story_d8f37fc4bf48",
-      "title": "这场旨在证明数学界最著名难题的竞赛，如今已演变成一场人类与人工智能的对决",
-      "url": "https://www.businessinsider.com/riemann-hypothesis-math-human-ai-dueling-solution-alpoge-masullo-2026-11",
-      "primary_url": "https://www.businessinsider.com/riemann-hypothesis-math-human-ai-dueling-solution-alpoge-masullo-2026-11",
-      "source": "www.businessinsider.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "cec0ae5a1fc8713104fa0762acf7123cc9e23554",
-          "title": "这场旨在证明数学界最著名难题的竞赛，如今已演变成一场人类与人工智能的对决",
-          "url": "https://www.businessinsider.com/riemann-hypothesis-math-human-ai-dueling-solution-alpoge-masullo-2026-11",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-21T00:06:54.148000Z"
-        },
-        {
-          "id": "09703ff004c4ab2a36508b893d259a6fd5c50762",
-          "title": "这场旨在证明数学界最著名难题的竞赛，如今已演变成一场人类与人工智能的对决 / The race to prove the Riemann Hypothesis just became a human-versus-AI showdown",
-          "url": "https://www.businessinsider.com/riemann-hypothesis-math-human-ai-dueling-solution-alpoge-masullo-2026-11",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-11-20T23:33:11Z"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Business Insider",
-        "www.businessinsider.com"
-      ],
-      "items": [
-        {
-          "id": "cec0ae5a1fc8713104fa0762acf7123cc9e23554",
-          "title": "这场旨在证明数学界最著名难题的竞赛，如今已演变成一场人类与人工智能的对决",
-          "url": "https://www.businessinsider.com/riemann-hypothesis-math-human-ai-dueling-solution-alpoge-masullo-2026-11",
-          "source": "www.businessinsider.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-21T00:06:54.148000Z"
-        },
-        {
-          "id": "09703ff004c4ab2a36508b893d259a6fd5c50762",
-          "title": "这场旨在证明数学界最著名难题的竞赛，如今已演变成一场人类与人工智能的对决 / The race to prove the Riemann Hypothesis just became a human-versus-AI showdown",
-          "url": "https://www.businessinsider.com/riemann-hypothesis-math-human-ai-dueling-solution-alpoge-masullo-2026-11",
-          "source": "Business Insider",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-11-20T23:33:11Z"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.3825,
-      "importance": 0.3825,
-      "importance_score": 0.3825,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.1727,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-20T23:33:11Z",
-      "latest_at": "2026-11-21T00:06:54.148000Z",
-      "primary_item": {
-        "id": "cec0ae5a1fc8713104fa0762acf7123cc9e23554",
-        "title": "这场旨在证明数学界最著名难题的竞赛，如今已演变成一场人类与人工智能的对决",
-        "url": "https://www.businessinsider.com/riemann-hypothesis-math-human-ai-dueling-solution-alpoge-masullo-2026-11",
-        "source": "www.businessinsider.com",
-        "source_name": "Buzzing"
       }
     }
   ]
